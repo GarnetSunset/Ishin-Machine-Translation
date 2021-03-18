@@ -11,6 +11,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "412"
-msgid "　えらいことぜよ……！"
-msgstr "That's great ...!"
+msgctxt "404"
+msgid "おいおい　えらいことぜよ……！"
+msgstr "Hey, that's great ...!"
+
+msgctxt "548"
+msgid "ホンマにやってしもうたちや……　あの兄ちゃん……"
+msgstr "Let's do it to Honma ... That brother ..."
+
+msgctxt "692"
+msgid "ほたえな！！"
+msgstr "Hot! !!"
+
+msgctxt "836"
+msgid "俺だって分かってるさ"
+msgstr "I know"
+
+msgctxt "980"
+msgid ""
+"この土佐で\n"
+"上士に逆らったらどうなるかなんてことは"
+msgstr ""
+"What would happen if I went against my superior\n"
+"in this Tosa?"
+
+msgctxt "1124"
+msgid "ここにいる誰より　ずっとな"
+msgstr "Much more than anyone here"
+
+msgctxt "1268"
+msgid "何事だ！"
+msgstr "What the hell!"

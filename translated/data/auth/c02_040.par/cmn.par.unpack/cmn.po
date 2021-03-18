@@ -11,10 +11,56 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "412"
-msgid "す"
-msgstr "Su"
+msgctxt "404"
+msgid "おいでやす"
+msgstr "Come on"
 
-msgctxt "2316"
-msgid "ーラ振動"
-msgstr "ーラ vibration"
+msgctxt "548"
+msgid "ごゆっくり……"
+msgstr "take your time……"
+
+msgctxt "692"
+msgid "新堀松輔だ"
+msgstr "It's Matsusuke Shinbori"
+
+msgctxt "836"
+msgid "話は聞いてるよ"
+msgstr "I'm listening"
+
+msgctxt "980"
+msgid "この風呂は……　貸切ってわけか？"
+msgstr "Is this bath ... reserved?"
+
+msgctxt "1124"
+msgid ""
+"ああ　他には誰も入って来ねえ\n"
+"安心だろ？"
+msgstr "Oh, no one else can come in, isn't it safe?"
+
+msgctxt "1268"
+msgid "あんたがサイの風呂屋？"
+msgstr "Are you a rhino bathhouse?"
+
+msgctxt "1412"
+msgid "そうだ"
+msgstr "That's it"
+
+msgctxt "1556"
+msgid "あんたは……　斎藤一"
+msgstr "You are ... Hajime Saito"
+
+msgctxt "1700"
+msgid "自己紹介はいらねえってわけか"
+msgstr "I don't want to introduce myself"
+
+msgctxt "1844"
+msgid "まぁ　お互い知りすぎるのはやめにしとこうや"
+msgstr "Well, let's not know each other too much"
+
+msgctxt "1988"
+msgid "なかなかいい湯だな"
+msgstr "It's a pretty good hot water"
+
+msgctxt "2132"
+msgid "ハハハ"
+msgstr "Hahaha"

@@ -11,14 +11,128 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "412"
-msgid "ん　親分！"
-msgstr "Hmm boss!"
+msgctxt "404"
+msgid "すんまへん　親分！"
+msgstr "I'm sorry, my boss!"
 
-msgctxt "2588"
-msgid "がる"
-msgstr "Go"
+msgctxt "548"
+msgid "そいつがどうしても風呂に入れろいうて！"
+msgstr "He told me to take a bath!"
 
-msgctxt "4764"
-msgid "Dｯ・"
-msgstr "D"
+msgctxt "692"
+msgid "入口に貸切の札がかかっていたはずだが？"
+msgstr ""
+"There must have been a chartered ticket\n"
+"at the entrance?"
+
+msgctxt "836"
+msgid ""
+"そしたら　ワシが風呂屋に来る前に\n"
+"知らせに来とくんやったなぁ"
+msgstr ""
+"Then, before I came to the bathhouse, I\n"
+"told him to come to the news."
+
+msgctxt "980"
+msgid "わざわざ店まで来た客に帰れいうんか？"
+msgstr ""
+"Do you want to go back to the customers\n"
+"who came all the way to the store?"
+
+msgctxt "1124"
+msgid "チッ　入るんならさっさと入れ"
+msgstr "If you want to put it in, put it in quickly"
+
+msgctxt "1268"
+msgid "いつまでもそんなもん見せつけてんじゃねえ"
+msgstr "Don't show me that kind of thing forever"
+
+msgctxt "1412"
+msgid "フン　サイの風呂屋いうんはお前か？"
+msgstr "Are you a Hunsai bathhouse?"
+
+msgctxt "1556"
+msgid "とぼけても無駄やで"
+msgstr "It ’s useless even if it ’s blurred."
+
+msgctxt "1700"
+msgid "ちいと調べてもらいたいことがあるんや"
+msgstr "There is something I want you to look up"
+
+msgctxt "1844"
+msgid "ぅあっちゃあっ！！"
+msgstr "Uhhhh! !!"
+
+msgctxt "1988"
+msgid ""
+"なんじゃこりゃあ！　このドアホ！\n"
+"はよ水で埋めんかい！！"
+msgstr ""
+"What the hell! This door ho! Fill it with\n"
+"water! !!"
+
+msgctxt "2132"
+msgid "おい"
+msgstr "Hey"
+
+msgctxt "2276"
+msgid "あ？"
+msgstr "Ah?"
+
+msgctxt "2420"
+msgid "どこの大将だか知らねえが……"
+msgstr "I don't know where the general is ..."
+
+msgctxt "2564"
+msgid "何をそんなにイラついてやがる"
+msgstr "What's so frustrating"
+
+msgctxt "2708"
+msgid "なんやと？"
+msgstr "What?"
+
+msgctxt "2852"
+msgid "じゃあな"
+msgstr "See you"
+
+msgctxt "2996"
+msgid "ああ"
+msgstr "Oh"
+
+msgctxt "3140"
+msgid ""
+"待てや　ワレ\n"
+"誰がイラついとるいうた？"
+msgstr "Wait, why did you get frustrated?"
+
+msgctxt "3284"
+msgid "もういっぺん言うてみい"
+msgstr "Let's say it again"
+
+msgctxt "3428"
+msgid "誰がイラついとるって？"
+msgstr "Who gets frustrated?"
+
+msgctxt "3572"
+msgid "手を離せ"
+msgstr "Release your hand"
+
+msgctxt "3716"
+msgid "遊びじゃ済まなくなる"
+msgstr "I can't finish playing"
+
+msgctxt "3860"
+msgid "望むところや"
+msgstr "Where you want"
+
+msgctxt "4004"
+msgid "おい"
+msgstr "Hey"
+
+msgctxt "4148"
+msgid "少し騒がすぜ"
+msgstr "I'll make a little noise"
+
+msgctxt "4292"
+msgid "ったく　まいったなこりゃ"
+msgstr "It ’s just like that"

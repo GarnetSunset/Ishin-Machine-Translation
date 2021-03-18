@@ -66,94 +66,51 @@ def translate_text(target, text):
     return result["translatedText"]
     
 for fileName in poList:
-    c=0
     input_file = polib.pofile(fileName)
     output_file = polib.POFile()
     output_file.metadata = yourMetadata
     for entry in input_file:
-        iwenthere = False
         if re.search(regex, str(entry.msgid)):
-            if realPath.isfile(fileName.replace("original\\", "translated\\")) == False:
-                if any(x in str(entry.msgid) for x in blacklist):
-                    translated_entry = polib.POEntry(
-                        msgctxt=entry.msgctxt,
-                        msgid=entry.msgid,
-                        msgstr=entry.msgid
-                        )
-                elif str(entry.msgid) or re.search("^\s*$", (entry.msgid)):
-                    msgstr = translate_text("en", str(entry.msgid))
-                    msgstr = html.unescape(msgstr)
-                    counter = 0
-                    try:
-                        while counter < len(str(msgstr)):
-                            if len(str(msgstr)) > counter:
-                                counter+=newlineAuto
-                                mathTime = str(msgstr)[counter:]
-                                soylent = mathTime.index(" ")
-                                msgstr = msgstr[:counter+soylent] + "\n" + msgstr[counter+soylent+1:]
-                    except:
-                        pass
-                    
-                    if str(msgstr) or re.search("^\s*$", (msgstr)):
-                        translated_entry = polib.POEntry(
-                            msgctxt=entry.msgctxt,
-                            msgid=entry.msgid,
-                            msgstr=msgstr
-                            )
-                    else:
-                        translated_entry = polib.POEntry(
-                            msgctxt=entry.msgctxt,
-                            msgid=entry.msgid,
-                            msgstr=entry.msgid
-                            )
-                else:
-                    translated_entry = polib.POEntry(
-                        msgctxt=entry.msgctxt,
-                        msgid=entry.msgid,
-                        msgstr=entry.msgid
-                        )
-            elif realPath.isfile(fileName.replace("original\\", "translated\\")) == True:
-                input_file_2 = polib.pofile(fileName.replace("original\\", "translated\\")
-                for entries in input_file_2:
-                    if str(entries.msgctxt) == str(entry.msgctxt):
-                        iwenthere = True
-                if iwenthere == False and not any(x in str(entry.msgid) for x in blacklist):
-                    msgstr = translate_text("en", str(entry.msgid))
-                    msgstr = html.unescape(msgstr)
-                    counter = 0
-                    try:
-                        while counter < len(str(msgstr)):
-                            if len(str(msgstr)) > counter:
-                                counter+=newlineAuto
-                                mathTime = str(msgstr)[counter:]
-                                soylent = mathTime.index(" ")
-                                msgstr = msgstr[:counter+soylent] + "\n" + msgstr[counter+soylent+1:]
-                    except:
-                        pass
-                    if str(msgstr) or re.search("^\s*$", (msgstr)):
-                        translated_entry = polib.POEntry(
-                            msgctxt=entry.msgctxt,
-                            msgid=entry.msgid,
-                            msgstr=msgstr
-                            )
-                    else:
-                        translated_entry = polib.POEntry(
-                            msgctxt=entry.msgctxt,
-                            msgid=entry.msgid,
-                            msgstr=entry.msgid
-                            )
-            else:    
+            if any(x in str(entry.msgid) for x in blacklist):
                 translated_entry = polib.POEntry(
                     msgctxt=entry.msgctxt,
                     msgid=entry.msgid,
-                    msgstr=entry.msgstr
-                )
-            output_file.append(translated_entry)
-            c += 1
-    if realPath.isfile(fileName.replace("original\\", "translated\\")) == False:
-        output_file.save(fileName.replace("original\\", "translated\\"))
-        with open(fileName.replace("original\\", "translated\\"), 'r', encoding="utf8") as fin:
-            data = fin.read().splitlines(True)
-        with open(fileName.replace("original\\", "translated\\"), 'w', encoding="utf8") as fout:
-            fout.writelines(data[1:])
+                    msgstr=entry.msgid
+                    )
+            elif str(entry.msgid) or re.search("^\s*$", (entry.msgid)):
+                msgstr = translate_text("en", str(entry.msgid))
+                msgstr = html.unescape(msgstr)
+                counter = 0
+                try:
+                    while counter < len(str(msgstr)):
+                        if len(str(msgstr)) > counter:
+                            counter+=newlineAuto
+                            mathTime = str(msgstr)[counter:]
+                            soylent = mathTime.index(" ")
+                            msgstr = msgstr[:counter+soylent] + "\n" + msgstr[counter+soylent+1:]
+                except:
+                    pass
+                translated_entry = polib.POEntry(
+                    msgctxt=entry.msgctxt,
+                    msgid=entry.msgid,
+                    msgstr=msgstr
+                    )
+            else:
+                translated_entry = polib.POEntry(
+                    msgctxt=entry.msgctxt,
+                    msgid=entry.msgid,
+                    msgstr=entry.msgid
+                    )
+        else:    
+            translated_entry = polib.POEntry(
+                msgctxt=entry.msgctxt,
+                msgid=entry.msgid,
+                msgstr=entry.msgstr
+            )
+        output_file.append(translated_entry)
+    output_file.save(fileName.replace("original\\", "translated\\"))
+    with open(fileName.replace("original\\", "translated\\"), 'r', encoding="utf8") as fin:
+        data = fin.read().splitlines(True)
+    with open(fileName.replace("original\\", "translated\\"), 'w', encoding="utf8") as fout:
+        fout.writelines(data[1:])
 

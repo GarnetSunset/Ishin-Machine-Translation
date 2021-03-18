@@ -11,14 +11,90 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "103876"
-msgid ""
-"阪訛りで喋らはるし\n"
-"めったなことで名乗らはりまへん"
-msgstr "I don't call myself because I'm talking with a Han accent"
+msgctxt "101420"
+msgid "何だと？"
+msgstr "What did you say?"
 
-msgctxt "104148"
+msgctxt "101564"
+msgid "あんた　何者なんだ？"
+msgstr "Who are you?"
+
+msgctxt "101708"
 msgid ""
-"錦脉雹"
-"ｼ"
-msgstr "Nishiki Hail Shi"
+"やっと聞いてきたな\n"
+"せやけど　わしはもう酔うたで"
+msgstr "I've finally heard it, but I'm already drunk"
+
+msgctxt "101852"
+msgid "酒の次は……"
+msgstr "Next to sake ..."
+
+msgctxt "101996"
+msgid "そろそろ女や"
+msgstr "It's about time for a woman"
+
+msgctxt "102140"
+msgid "京の女子はええ……"
+msgstr "The girls in Kyoto are yeah ..."
+
+msgctxt "102284"
+msgid "芋で育った故郷（くに）の女子とは大違いや"
+msgstr ""
+"It ’s very different from the girls in my\n"
+"hometown (Kuni) who grew up with potatoes."
+
+msgctxt "102428"
+msgid "もう先生　いやどすえ"
+msgstr "No more teacher"
+
+msgctxt "102572"
+msgid "おいどんな"
+msgstr "Hey what"
+
+msgctxt "102716"
+msgid "薩摩藩軍賦役をしちょる……"
+msgstr "Satsuma Domain Army Corvée ..."
+
+msgctxt "102860"
+msgid "西郷吉之助でごわす"
+msgstr "Saigo Yoshinosuke"
+
+msgctxt "103004"
+msgid "薩摩の　西郷吉之助"
+msgstr "Satsuma's Saigo Yoshinosuke"
+
+msgctxt "103148"
+msgid "ほな　いずれまた"
+msgstr "Hona again"
+
+msgctxt "103292"
+msgid ""
+"御存じどすか？\n"
+"薩摩藩いうところは……"
+msgstr "Do you know The Satsuma domain is ..."
+
+msgctxt "103436"
+msgid "あの西郷先生の一声で舵を切らはりますえ"
+msgstr ""
+"That Saigo-sensei's voice will turn the\n"
+"helm."
+
+msgctxt "103580"
+msgid "ああ"
+msgstr "Oh"
+
+msgctxt "103724"
+msgid "そのぶん敵も多いお人やさかい"
+msgstr "People who have many enemies"
+
+msgctxt "103868"
+msgid ""
+"わざと大阪訛りで喋らはるし\n"
+"めったなことで名乗らはりまへん"
+msgstr ""
+"I didn't call myself because I was deliberately\n"
+"speaking with an Osaka accent."
+
+msgctxt "104012"
+msgid "お客はんは　先生に高う買われはりましたなぁ"
+msgstr "The customer was bought by the teacher."

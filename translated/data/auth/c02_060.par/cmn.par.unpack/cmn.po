@@ -11,6 +11,44 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "412"
-msgid "モンや？"
-msgstr "Mon?"
+msgctxt "404"
+msgid "ワレ　何モンや？"
+msgstr "What's the crack?"
+
+msgctxt "548"
+msgid "そいつは　こっちの台詞だ"
+msgstr "That's this line"
+
+msgctxt "692"
+msgid "おい！"
+msgstr "Hey!"
+
+msgctxt "836"
+msgid "冷た！！"
+msgstr "It's cold! !!"
+
+msgctxt "980"
+msgid "お前らいい加減頭冷やせ"
+msgstr "You guys chill your head"
+
+msgctxt "1124"
+msgid "続きがしたきゃよそでやるんだな"
+msgstr ""
+"If you want to continue, I'll do it somewhere\n"
+"else"
+
+msgctxt "1268"
+msgid "おい"
+msgstr "Hey"
+
+msgctxt "1412"
+msgid "なんだ？"
+msgstr "what?"
+
+msgctxt "1556"
+msgid "これから一杯おごらせてくれや"
+msgstr "I'll give you a drink from now on"
+
+msgctxt "1700"
+msgid "おごられてやるよ"
+msgstr "I'll be treated"

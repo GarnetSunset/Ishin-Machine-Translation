@@ -11,6 +11,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "58016"
-msgid "のか？"
-msgstr "Is it?"
+msgctxt "58008"
+msgid "兄弟　なのか？"
+msgstr "Are you a brother?"
+
+msgctxt "58152"
+msgid "よう"
+msgstr "Yo"
+
+msgctxt "58296"
+msgid "見違えたな"
+msgstr "I made a mistake"
+
+msgctxt "58440"
+msgid "ああ"
+msgstr "Oh"
+
+msgctxt "58584"
+msgid "以蔵が試すような真似して悪かったな　龍馬"
+msgstr "It was bad to imitate Izo's trial Ryoma"
+
+msgctxt "58728"
+msgid "今　京の町で人に会うのはえらく用心がいるんだ"
+msgstr ""
+"I'm very careful to meet people in the town\n"
+"of Kyoto right now"
+
+msgctxt "58872"
+msgid "いや　それより兄弟はいつ京に？"
+msgstr "No, when are the brothers in Kyo?"
+
+msgctxt "59016"
+msgid "何言ってんだ"
+msgstr "What are you saying"
+
+msgctxt "59160"
+msgid "お前が来るよりずっと前からだよ"
+msgstr "Long before you came"
