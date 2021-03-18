@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "656"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "657"
+msgid ""
+"た、助けていただいて、\n"
+"ありがとうございます。"
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"なんのことはない、\n"
+"無事でなによりだ。"
+msgstr ""
+
+msgctxt "743"
+msgid "（任務は片付いた、屯所へ戻るか？）"
+msgstr ""
+
+msgctxt "778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "779"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "800"
+msgid "村人"
+msgstr ""
+
+msgctxt "805"
+msgid "Player"
+msgstr ""
+
+msgctxt "812"
+msgid "戻らない"
+msgstr ""
+
+msgctxt "821"
+msgid "屯所へ戻る"
+msgstr ""
+
+msgctxt "832"
+msgid "dummy"
+msgstr ""

@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "284"
+msgid "－"
+msgstr ""
+
+msgctxt "287"
+msgid "所持数"
+msgstr ""
+
+msgctxt "294"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "319"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "352"
+msgid "ありがとうございます。%sになります。"
+msgstr ""
+
+msgctxt "389"
+msgid "（これ以上食べられないな……）"
+msgstr ""
+
+msgctxt "420"
+msgid "（これ以上飲めないな……）"
+msgstr ""
+
+msgctxt "447"
+msgid "御品書"
+msgstr ""
+
+msgctxt "454"
+msgid "－"
+msgstr ""
+
+msgctxt "457"
+msgid "注"
+msgstr ""
+
+msgctxt "460"
+msgid "（うむ、うまいな）"
+msgstr ""
+
+msgctxt "479"
+msgid "（いけるな）"
+msgstr ""
+
+msgctxt "492"
+msgid "（なかなかのものだな）"
+msgstr ""
+
+msgctxt "515"
+msgid "（うむ、なかなかだな）"
+msgstr ""
+
+msgctxt "538"
+msgid "（これは、いいな）"
+msgstr ""
+
+msgctxt "557"
+msgid "（うまいものだな）"
+msgstr ""
+
+msgctxt "576"
+msgid "（なかなか、いけるな）"
+msgstr ""
+
+msgctxt "599"
+msgid "（これは、なかなか……）"
+msgstr ""
+
+msgctxt "624"
+msgid "（こいつは、うまいぞ）"
+msgstr ""
+
+msgctxt "647"
+msgid "（ふむ、いけるな）"
+msgstr ""
+
+msgctxt "666"
+msgid "（う～ん……　イマイチだな……）"
+msgstr ""
+
+msgctxt "699"
+msgid "chair"
+msgstr ""
+
+msgctxt "705"
+msgid ""
+"栗の実を餡にしたまんじゅうです。\n"
+"秋にのみ楽しめる季節のお菓子です。"
+msgstr ""
+
+msgctxt "773"
+msgid ""
+"葛の根の粉を水で溶いて加熱したものです。\n"
+"麺の様に切られて蜜を掛けてます。\n"
+"つるつるした食感と薬効で重宝されてますよ。"
+msgstr ""
+
+msgctxt "890"
+msgid ""
+"土佐でとれたごまさばを１匹使って\n"
+"寿司飯を詰めたものです。\n"
+"脂の乗ったさばが引き立つ、土佐の名物料理です。"
+msgstr ""

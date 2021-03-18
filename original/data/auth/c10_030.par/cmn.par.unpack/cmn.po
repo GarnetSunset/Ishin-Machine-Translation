@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "331172"
+msgid "沖田？"
+msgstr ""
+
+msgctxt "331316"
+msgid "何のつもりだ"
+msgstr ""
+
+msgctxt "331460"
+msgid "とぼけんなや　ネタはあがっとる"
+msgstr ""
+
+msgctxt "331604"
+msgid "何？"
+msgstr ""
+
+msgctxt "331748"
+msgid "お前が……"
+msgstr ""
+
+msgctxt "331892"
+msgid "源さん殺ったっちゅうことはなあ！！"
+msgstr ""
+
+msgctxt "332036"
+msgid "何で俺が井上を殺さなきゃならない！？"
+msgstr ""
+
+msgctxt "332180"
+msgid ""
+"お前らは虚無僧を\n"
+"追ってたんじゃなかったのか？"
+msgstr ""
+
+msgctxt "332324"
+msgid "ああ　追ってたわ"
+msgstr ""
+
+msgctxt "332468"
+msgid "せやけど　もう追う必要はあらへん"
+msgstr ""
+
+msgctxt "332612"
+msgid "なぜだ"
+msgstr ""
+
+msgctxt "332756"
+msgid "その虚無僧の正体はなぁ……"
+msgstr ""
+
+msgctxt "332900"
+msgid "坂本龍馬っちゅう男やったからや！"
+msgstr ""
+
+msgctxt "333044"
+msgid "何だと？"
+msgstr ""
+
+msgctxt "333188"
+msgid ""
+"勤王派の間じゃ\n"
+"有名な話らしいやないか"
+msgstr ""
+
+msgctxt "333332"
+msgid "虚無僧のナリした坂本龍馬……"
+msgstr ""
+
+msgctxt "333476"
+msgid "最近京でウロついとるらしいのぉ"
+msgstr ""
+
+msgctxt "333620"
+msgid "その話　本当か？"
+msgstr ""
+
+msgctxt "333764"
+msgid ""
+"土佐や長州の浪人どもを\n"
+"締め上げたら白状しよった"
+msgstr ""
+
+msgctxt "333908"
+msgid "それにお前やったら納得や"
+msgstr ""
+
+msgctxt "334052"
+msgid ""
+"あの源さんかて\n"
+"殺られてもおかしない"
+msgstr ""
+
+msgctxt "334196"
+msgid "待て　坂本龍馬は俺の他にもう１人いる"
+msgstr ""
+
+msgctxt "334340"
+msgid "そのことはあんたも知っているはずだ"
+msgstr ""
+
+msgctxt "334484"
+msgid "ああ　知っとる"
+msgstr ""
+
+msgctxt "334628"
+msgid "せやけど源さん殺す理由がお前にはある"
+msgstr ""
+
+msgctxt "334772"
+msgid "理由？"
+msgstr ""
+
+msgctxt "334916"
+msgid "とぼけんなや"
+msgstr ""
+
+msgctxt "335060"
+msgid "お前が殺したんやろ"
+msgstr ""
+
+msgctxt "335204"
+msgid "源さんが……"
+msgstr ""
+
+msgctxt "335348"
+msgid "“覆面の男”やっちゅうことを知ってな！！"
+msgstr ""
+
+msgctxt "335492"
+msgid ""
+"本当なのか\n"
+"その話は"
+msgstr ""
+
+msgctxt "335636"
+msgid "どこまでシラ切るつもりやお前！"
+msgstr ""
+
+msgctxt "335780"
+msgid "本当なのかって聞いてんだ　沖田！！"
+msgstr ""
+
+msgctxt "335924"
+msgid "答えてくれ　沖田"
+msgstr ""
+
+msgctxt "336068"
+msgid "師の仇討つんは　弟子の務め……"
+msgstr ""
+
+msgctxt "336212"
+msgid ""
+"真の理心流の奥義\n"
+"味わわせたるわ"
+msgstr ""
+
+msgctxt "336356"
+msgid ""
+"真の理心流？\n"
+"何を言っているんだ"
+msgstr ""
+
+msgctxt "336500"
+msgid "さあ構えろや　一（はじめ）ちゃん"
+msgstr ""
+
+msgctxt "336644"
+msgid ""
+"アンタが追い続けてきた天念理心流\n"
+"“最後の謎”が目の前にある"
+msgstr ""
+
+msgctxt "336788"
+msgid ""
+"勝てば分かる\n"
+"という話だな"
+msgstr ""
+
+msgctxt "336932"
+msgid "来い　沖田"
+msgstr ""
+
+msgctxt "337076"
+msgid "俺はお前に勝つ"
+msgstr ""
+
+msgctxt "337220"
+msgid "そして全ての謎を明かし……"
+msgstr ""
+
+msgctxt "337364"
+msgid "坂本龍馬としての人生を取り戻す"
+msgstr ""
+
+msgctxt "337508"
+msgid "ええ気合や"
+msgstr ""
+
+msgctxt "337652"
+msgid "いくでぇ"
+msgstr ""
+
+msgctxt "337796"
+msgid "坂本龍馬ぁ！！！！"
+msgstr ""

@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2192"
+msgid "まずは親を決めようか。"
+msgstr ""
+
+msgctxt "2215"
+msgid "俺が親だね。"
+msgstr ""
+
+msgctxt "2228"
+msgid "（いくらで勝負する？）"
+msgstr ""
+
+msgctxt "2251"
+msgid "さぁ、始めるよ。"
+msgstr ""
+
+msgctxt "2268"
+msgid "お、俺の番だな。"
+msgstr ""
+
+msgctxt "2285"
+msgid "もう一回振るぜ。"
+msgstr ""
+
+msgctxt "2302"
+msgid "精算だ。"
+msgstr ""
+
+msgctxt "2311"
+msgid "（お前が親）"
+msgstr ""
+
+msgctxt "2324"
+msgid "親を交代しようか。"
+msgstr ""
+
+msgctxt "2343"
+msgid "（もう一丁？）"
+msgstr ""
+
+msgctxt "2358"
+msgid "（オケラ）"
+msgstr ""
+
+msgctxt "2369"
+msgid "（出直して）"
+msgstr ""
+
+msgctxt "2382"
+msgid "親の即精算メッセージ。"
+msgstr ""
+
+msgctxt "2405"
+msgid "親の奇の見は３になるんだよねぇ。"
+msgstr ""
+
+msgctxt "2438"
+msgid "最初の子が出した奇の見は３になるんだよねぇ。"
+msgstr ""
+
+msgctxt "2483"
+msgid "奇の見は一つ前の子と同じ出目になるんだよねぇ。"
+msgstr ""
+
+msgctxt "2530"
+msgid "親の偶の音は４になるんだよねぇ。"
+msgstr ""
+
+msgctxt "2563"
+msgid "偶の音は一つ後の子と同じ出目になるんだよねぇ。"
+msgstr ""
+
+msgctxt "2610"
+msgid "最後の子が出した偶の音は４に化けるんだよねぇ。"
+msgstr ""
+
+msgctxt "2657"
+msgid "偶の音は、後ろの子と同じ出目になる。"
+msgstr ""
+
+msgctxt "2694"
+msgid "偶の音のあとに奇の見がでた。"
+msgstr ""
+
+msgctxt "2723"
+msgid "ムサシ！　ツイてるねぇ。"
+msgstr ""
+
+msgctxt "2752"
+msgid "秋山"
+msgstr ""

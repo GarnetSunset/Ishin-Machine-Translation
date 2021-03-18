@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6640"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6641"
+msgid ""
+"ようこそいらっしゃいました。\n"
+"斎藤さん。"
+msgstr ""
+
+msgctxt "6682"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6683"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6684"
+msgid ""
+"随分な歓迎だな。\n"
+"俺の席がないようだが……"
+msgstr ""
+
+msgctxt "6727"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6728"
+msgid ""
+"ご心配なく。\n"
+"席は別の部屋に用意してあります。"
+msgstr ""
+
+msgctxt "6775"
+msgid ""
+"この座敷は、今から血で\n"
+"汚れることになりますから。"
+msgstr ""
+
+msgctxt "6826"
+msgid "？"
+msgstr ""
+
+msgctxt "6829"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6830"
+msgid "天念理心流にご興味がおありのようで。"
+msgstr ""
+
+msgctxt "6867"
+msgid ""
+"ああ……　だがただの好奇心だ。\n"
+"気にしないでくれ。"
+msgstr ""
+
+msgctxt "6918"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6919"
+msgid ""
+"理心流は江戸試衛館のみに伝わる田舎流派……\n"
+"北神一刀流、心道無念流と言った主流派とは違い\n"
+"知っているものも少ないはず。"
+msgstr ""
+
+msgctxt "7038"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7039"
+msgid "何のマネだ。"
+msgstr ""
+
+msgctxt "7052"
+msgid ""
+"この男も沖田や永倉と同じ、\n"
+"天念理心流の優秀な使い手です。"
+msgstr ""
+
+msgctxt "7111"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7112"
+msgid "今からこの男と殺し合っていただきたい。"
+msgstr ""
+
+msgctxt "7151"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7152"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7153"
+msgid "なんだと……!?"
+msgstr ""
+
+msgctxt "7168"
+msgid "新選組の任務の大半は「殺し」です。"
+msgstr ""
+
+msgctxt "7203"
+msgid ""
+"その際、義理や情に流されて斬ることを\n"
+"ためらえば、自分が相手に斬り殺されてしまう。"
+msgstr ""
+
+msgctxt "7286"
+msgid "……"
+msgstr ""
+
+msgctxt "7291"
+msgid ""
+"私は貴方の「心の弱さ」が心配なのです。\n"
+"……だから真剣な殺し合いをして、\n"
+"試させてもらいたい。"
+msgstr ""
+
+msgctxt "7386"
+msgid "たったそれだけのために殺し合えというのか。"
+msgstr ""
+
+msgctxt "7429"
+msgid ""
+"ええ。たったそれだけのことが重要なのです。\n"
+"新選組に入るためにはね……"
+msgstr ""
+
+msgctxt "7500"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7501"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7502"
+msgid ""
+"斎藤さん。この男に殺しへの躊躇はありません。\n"
+"あなたもそのおつもりで。"
+msgstr ""
+
+msgctxt "7573"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7574"
+msgid "……やむを得ないようだな。"
+msgstr ""
+
+msgctxt "7601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7602"
+msgid ""
+"ええ。\n"
+"どちらかが死ぬまで立ち合っていただきます。\n"
+"では……"
+msgstr ""
+
+msgctxt "7663"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7664"
+msgid "始め!!"
+msgstr ""
+
+msgctxt "7671"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9540"
+msgid "土方"
+msgstr ""
+
+msgctxt "9545"
+msgid "hijikata_c03_040_01"
+msgstr ""
+
+msgctxt "9565"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "9576"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "9581"
+msgid "kiryu_c03_040_01"
+msgstr ""
+
+msgctxt "9598"
+msgid "hijikata_c03_040_02"
+msgstr ""
+
+msgctxt "9618"
+msgid "hijikata_c03_040_02b"
+msgstr ""
+
+msgctxt "9639"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "9650"
+msgid "hijikata_c03_040_03"
+msgstr ""
+
+msgctxt "9670"
+msgid "kiryu_c03_040_04"
+msgstr ""
+
+msgctxt "9687"
+msgid "TLK_SCN006"
+msgstr ""
+
+msgctxt "9698"
+msgid "hijikata_c03_040_04"
+msgstr ""
+
+msgctxt "9718"
+msgid "TLK_SCN008"
+msgstr ""
+
+msgctxt "9729"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "9740"
+msgid "kiryu_c03_040_05"
+msgstr ""
+
+msgctxt "9757"
+msgid "hijikata_c03_040_05"
+msgstr ""
+
+msgctxt "9777"
+msgid "kaiwabgm_fuon_13"
+msgstr ""
+
+msgctxt "9794"
+msgid "hijikata_c03_040_06"
+msgstr ""
+
+msgctxt "9814"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "9825"
+msgid "TLK_SCN010"
+msgstr ""
+
+msgctxt "9836"
+msgid "kiryu_c03_040_06"
+msgstr ""
+
+msgctxt "9853"
+msgid "hijikata_c03_040_07"
+msgstr ""
+
+msgctxt "9873"
+msgid "hijikata_c03_040_07b"
+msgstr ""
+
+msgctxt "9894"
+msgid "hijikata_c03_040_08"
+msgstr ""
+
+msgctxt "9914"
+msgid "kiryu_c03_040_08"
+msgstr ""
+
+msgctxt "9931"
+msgid "TLK_SCN012"
+msgstr ""
+
+msgctxt "9942"
+msgid "hijikata_c03_040_09"
+msgstr ""
+
+msgctxt "9962"
+msgid "TLK_SCN014"
+msgstr ""
+
+msgctxt "9973"
+msgid "hijikata_c03_040_10"
+msgstr ""
+
+msgctxt "9993"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "10004"
+msgid "TLK_SCN016"
+msgstr ""
+
+msgctxt "10015"
+msgid "kiryu_c03_040_09"
+msgstr ""
+
+msgctxt "10032"
+msgid "hijikata_c03_040_11"
+msgstr ""
+
+msgctxt "10052"
+msgid "hijikata_c03_040_12"
+msgstr ""
+
+msgctxt "10072"
+msgid "TLK_SCN018"
+msgstr ""

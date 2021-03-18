@@ -1,0 +1,717 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "14500"
+msgid "く、くそ！　なんなんだありゃ!?"
+msgstr ""
+
+msgctxt "14531"
+msgid ""
+"副長！　いくら沖田さんとはいえ、\n"
+"あんな勝手が許されんのか!?"
+msgstr ""
+
+msgctxt "14592"
+msgid ""
+"まぁまぁ落ち着いて、左之助さん。\n"
+"沖田さんがああいう感じになっちゃったら、\n"
+"どうせ止められないんだし。"
+msgstr ""
+
+msgctxt "14695"
+msgid ""
+"とにかく俺ぁ納得できねぇ!!\n"
+"こっから先は十番隊は十番隊で行動させてもらう!!"
+msgstr ""
+
+msgctxt "14770"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14771"
+msgid ""
+"はぁ。\n"
+"それにしても面倒なことになっちゃいましたね。\n"
+"どうするつもりなんですか？　副長。"
+msgstr ""
+
+msgctxt "14860"
+msgid ""
+"やつらが手あたり次第志士たちを斬りまくれば\n"
+"新選組の正気を疑われる。"
+msgstr ""
+
+msgctxt "14929"
+msgid "無論、止めるしかあるまい。"
+msgstr ""
+
+msgctxt "14956"
+msgid "止めるってどうやって。"
+msgstr ""
+
+msgctxt "14979"
+msgid ""
+"斎藤君。君は沖田を追ってくれ。\n"
+"今のヤツは何をしでかすかわからない。"
+msgstr ""
+
+msgctxt "15048"
+msgid "面倒を押しつけてくれるな。"
+msgstr ""
+
+msgctxt "15075"
+msgid "左之助さんの方はどうします？"
+msgstr ""
+
+msgctxt "15104"
+msgid ""
+"簡単だ。アイツは総司とは違って、\n"
+"源さんの仇に対して恨みがあるワケじゃない。"
+msgstr ""
+
+msgctxt "15181"
+msgid ""
+"適当に酒でも飲ませて憂さ晴らしさせておけば\n"
+"落ち着く。"
+msgstr ""
+
+msgctxt "15236"
+msgid "酔わせて眠らせろと。"
+msgstr ""
+
+msgctxt "15257"
+msgid "平助。行ってくれるな。"
+msgstr ""
+
+msgctxt "15280"
+msgid ""
+"いいですよ。\n"
+"新選組で酒代、もってもらえるならいくらでも。"
+msgstr ""
+
+msgctxt "15339"
+msgid "頼む。"
+msgstr ""
+
+msgctxt "15346"
+msgid "はい。"
+msgstr ""
+
+msgctxt "15353"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15354"
+msgid "……ひとつ聞かせてくれ。"
+msgstr ""
+
+msgctxt "15379"
+msgid "なんだ。"
+msgstr ""
+
+msgctxt "15388"
+msgid "沖田と、殺された井上はどういう間柄なんだ？"
+msgstr ""
+
+msgctxt "15431"
+msgid "……試衛館以来の仲間だが？"
+msgstr ""
+
+msgctxt "15458"
+msgid ""
+"それを言えば山南敬助もそうだったはずだ。\n"
+"だが山南が死んだ時とはずいぶん反応が違う。"
+msgstr ""
+
+msgctxt "15543"
+msgid ""
+"沖田は、井上になにか特別な思い入れが\n"
+"あるんじゃないのか？"
+msgstr ""
+
+msgctxt "15602"
+msgid "特別、か……　確かにそうかもしれないな。"
+msgstr ""
+
+msgctxt "15643"
+msgid "教えてくれないか。"
+msgstr ""
+
+msgctxt "15662"
+msgid "フッ、それは総司から直接聞けばいい。"
+msgstr ""
+
+msgctxt "15699"
+msgid ""
+"そうすれば、君が追いかけてる「理心流」の謎に\n"
+"近づけるかも知れない。"
+msgstr ""
+
+msgctxt "15768"
+msgid "…………"
+msgstr ""
+
+msgctxt "15777"
+msgid ""
+"そのためにも総司は君が止めろ。おそらくヤツは\n"
+"源さんの死体発見現場に向かったはずだ。"
+msgstr ""
+
+msgctxt "15862"
+msgid "分かった。それはどこなんだ。"
+msgstr ""
+
+msgctxt "15891"
+msgid "伏見の屋敷町南の船着き場らしい。"
+msgstr ""
+
+msgctxt "15924"
+msgid ""
+"気をつけろよ、斎藤君。\n"
+"今の総司を止めるのは命がけになるかもしれん。"
+msgstr ""
+
+msgctxt "15993"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15994"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15995"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15996"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15997"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15998"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15999"
+msgid "…………"
+msgstr ""
+
+msgctxt "16008"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16009"
+msgid "斎藤か。"
+msgstr ""
+
+msgctxt "16018"
+msgid "井上……"
+msgstr ""
+
+msgctxt "16027"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16028"
+msgid "何があった？"
+msgstr ""
+
+msgctxt "16041"
+msgid ""
+"ピストルで胸を２発。刀でとどめを刺された後……\n"
+"川に投げ込まれたようです。"
+msgstr ""
+
+msgctxt "16116"
+msgid "勤王志士の仕業でしょうかね。"
+msgstr ""
+
+msgctxt "16145"
+msgid "ああ……　知れたことだ。"
+msgstr ""
+
+msgctxt "16170"
+msgid ""
+"フン……　だからさっさと隠居させろっつったんだ。\n"
+"隊士たちからもロクに剣も振れなくなってるって\n"
+"陰口叩かれてたからな。"
+msgstr ""
+
+msgctxt "16289"
+msgid "……"
+msgstr ""
+
+msgctxt "16294"
+msgid ""
+"そんなことはない。\n"
+"源さんの腕はまだまだ衰えてはいなかった。"
+msgstr ""
+
+msgctxt "16355"
+msgid ""
+"きっと不意を突かれて、抵抗することも\n"
+"できなかったのだろう。"
+msgstr ""
+
+msgctxt "16416"
+msgid ""
+"そうすかね……\n"
+"じゃあ殺ったやつ褒めるしかないってことか。"
+msgstr ""
+
+msgctxt "16475"
+msgid ""
+"ピストルを使ったにしろ、１００人を率いる\n"
+"六番隊の隊長を仕留めたんですからね。"
+msgstr ""
+
+msgctxt "16554"
+msgid ""
+"谷といい鈴木といい源さんといい、いやぁ\n"
+"弱い隊長を持った隊員たちは可哀相なもんだよな。"
+msgstr ""
+
+msgctxt "16641"
+msgid "左之助さん。そりゃちょっと言い過ぎでしょ。"
+msgstr ""
+
+msgctxt "16684"
+msgid "なにが言い過ぎだバカ野郎！"
+msgstr ""
+
+msgctxt "16711"
+msgid ""
+"長州やら勤王派がまだまだのさばってんのに、\n"
+"新選組の隊長が３人もやられてんだ。"
+msgstr ""
+
+msgctxt "16790"
+msgid ""
+"加えて山南さんに松原も死んだ……\n"
+"最強新選組の名も地に落ちたってもんだろうが！"
+msgstr ""
+
+msgctxt "16869"
+msgid "……"
+msgstr ""
+
+msgctxt "16874"
+msgid ""
+"俺らが今、勤王派の志士どもになんて言われてるか\n"
+"知ってるか？"
+msgstr ""
+
+msgctxt "16935"
+msgid ""
+"幕府の“歩”……\n"
+"俺らは幕府の捨て駒だって言われてんだよ。"
+msgstr ""
+
+msgctxt "16994"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16995"
+msgid "捨て駒、ですか……"
+msgstr ""
+
+msgctxt "17014"
+msgid ""
+"覚えてるか、土方さんよ。半年前だ。\n"
+"あんたは新選組に入りゃ旗本に取り立ててくれる\n"
+"っつったんだ。"
+msgstr ""
+
+msgctxt "17111"
+msgid ""
+"だから俺ぁ最強の組織を作るために京に来た。\n"
+"それがなんだ？　最近じゃ素性も良くわからねぇ\n"
+"野郎まで隊長になってやがる。"
+msgstr ""
+
+msgctxt "17230"
+msgid "……"
+msgstr ""
+
+msgctxt "17235"
+msgid ""
+"とにかく俺にとっちゃ攘夷やら勤王やら\n"
+"尽忠報国なんかはどうでもいい。"
+msgstr ""
+
+msgctxt "17304"
+msgid ""
+"これ以上、新選組が舐められちまうことの方が\n"
+"問題なんだ！"
+msgstr ""
+
+msgctxt "17361"
+msgid "左之助……"
+msgstr ""
+
+msgctxt "17372"
+msgid ""
+"俺ぁ京の街で、飛車角になって\n"
+"暴れまわりてぇんだよ！\n"
+"だから俺に“返し”をさせてくれ！"
+msgstr ""
+
+msgctxt "17459"
+msgid "源さんを殺した犯人を捕まえるということか。"
+msgstr ""
+
+msgctxt "17502"
+msgid ""
+"そんなんじゃねぇ。\n"
+"誰が犯人かなんて問題じゃねえ。"
+msgstr ""
+
+msgctxt "17553"
+msgid ""
+"今すぐ京の街の宿という宿を攻めて、\n"
+"勤王志士たちを根こそぎぶっ殺す。"
+msgstr ""
+
+msgctxt "17622"
+msgid ""
+"え、でもそんなことしたら、源さんがどうして\n"
+"殺されたのか分かんなくなっちゃうじゃないですか!?"
+msgstr ""
+
+msgctxt "17715"
+msgid "だからそれはどうでもいいつってんだろ!!"
+msgstr ""
+
+msgctxt "17754"
+msgid ""
+"このオッサンの死を利用するんだよ……\n"
+"隊長を殺された犯人を捕まえるって大義名分さえ\n"
+"ありゃそれでいい。"
+msgstr ""
+
+msgctxt "17857"
+msgid ""
+"それを理由に、京の街を制圧する。\n"
+"新選組の落ちた名を再び最強のモンにすんのさ。"
+msgstr ""
+
+msgctxt "17936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21732"
+msgid "原田"
+msgstr ""
+
+msgctxt "21737"
+msgid "dummy"
+msgstr ""
+
+msgctxt "21743"
+msgid "harada_c10_030_01"
+msgstr ""
+
+msgctxt "21761"
+msgid "harada_c10_030_01b"
+msgstr ""
+
+msgctxt "21780"
+msgid "藤堂"
+msgstr ""
+
+msgctxt "21785"
+msgid "todo_c10_030_01"
+msgstr ""
+
+msgctxt "21801"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "21809"
+msgid "harada_c10_030_02"
+msgstr ""
+
+msgctxt "21827"
+msgid "todo_c10_030_02"
+msgstr ""
+
+msgctxt "21843"
+msgid "土方"
+msgstr ""
+
+msgctxt "21848"
+msgid "hijikata_c10_030_01"
+msgstr ""
+
+msgctxt "21868"
+msgid "hijikata_c10_030_01b"
+msgstr ""
+
+msgctxt "21889"
+msgid "todo_c10_030_03"
+msgstr ""
+
+msgctxt "21905"
+msgid "hijikata_c10_030_02"
+msgstr ""
+
+msgctxt "21925"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "21930"
+msgid "kiryu_c10_030_01"
+msgstr ""
+
+msgctxt "21947"
+msgid "todo_c10_030_04"
+msgstr ""
+
+msgctxt "21963"
+msgid "hijikata_c10_030_03"
+msgstr ""
+
+msgctxt "21983"
+msgid "hijikata_c10_030_03b"
+msgstr ""
+
+msgctxt "22004"
+msgid "todo_c10_030_05"
+msgstr ""
+
+msgctxt "22020"
+msgid "hijikata_c10_030_04"
+msgstr ""
+
+msgctxt "22040"
+msgid "todo_c10_030_06"
+msgstr ""
+
+msgctxt "22056"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "22065"
+msgid "hijikata_c10_030_05"
+msgstr ""
+
+msgctxt "22085"
+msgid "todo_c10_030_07"
+msgstr ""
+
+msgctxt "22101"
+msgid "kaiwabgm_fuon_10"
+msgstr ""
+
+msgctxt "22118"
+msgid "kiryu_c10_030_02"
+msgstr ""
+
+msgctxt "22135"
+msgid "hijikata_c10_030_06"
+msgstr ""
+
+msgctxt "22155"
+msgid "kiryu_c10_030_03"
+msgstr ""
+
+msgctxt "22172"
+msgid "hijikata_c10_030_07"
+msgstr ""
+
+msgctxt "22192"
+msgid "kiryu_c10_030_04"
+msgstr ""
+
+msgctxt "22209"
+msgid "kiryu_c10_030_04b"
+msgstr ""
+
+msgctxt "22227"
+msgid "hijikata_c10_030_08"
+msgstr ""
+
+msgctxt "22247"
+msgid "kiryu_c10_030_05"
+msgstr ""
+
+msgctxt "22264"
+msgid "hijikata_c10_030_09"
+msgstr ""
+
+msgctxt "22284"
+msgid "hijikata_c10_030_09b"
+msgstr ""
+
+msgctxt "22305"
+msgid "hijikata_c10_030_10"
+msgstr ""
+
+msgctxt "22325"
+msgid "kiryu_c10_030_07"
+msgstr ""
+
+msgctxt "22342"
+msgid "hijikata_c10_030_11"
+msgstr ""
+
+msgctxt "22362"
+msgid "hijikata_c10_030_11c"
+msgstr ""
+
+msgctxt "22383"
+msgid "沖田"
+msgstr ""
+
+msgctxt "22388"
+msgid "hijikata_10_020_01"
+msgstr ""
+
+msgctxt "22407"
+msgid "kaiwabgm_fuon_07"
+msgstr ""
+
+msgctxt "22424"
+msgid "kiryu_10_020_02"
+msgstr ""
+
+msgctxt "22440"
+msgid "kiryu_10_020_03"
+msgstr ""
+
+msgctxt "22456"
+msgid "todo_10_020_01"
+msgstr ""
+
+msgctxt "22471"
+msgid "todo_10_020_01b"
+msgstr ""
+
+msgctxt "22487"
+msgid "hijikata_10_020_02"
+msgstr ""
+
+msgctxt "22506"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "22517"
+msgid "harada_10_020_01"
+msgstr ""
+
+msgctxt "22534"
+msgid "hijikata_10_020_03"
+msgstr ""
+
+msgctxt "22553"
+msgid "hijikata_10_020_03b"
+msgstr ""
+
+msgctxt "22573"
+msgid "harada_10_020_02"
+msgstr ""
+
+msgctxt "22590"
+msgid "harada_10_020_02b"
+msgstr ""
+
+msgctxt "22608"
+msgid "harada_10_020_02c"
+msgstr ""
+
+msgctxt "22626"
+msgid "todo_10_020_02"
+msgstr ""
+
+msgctxt "22641"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "22652"
+msgid "harada_10_020_03"
+msgstr ""
+
+msgctxt "22669"
+msgid "harada_10_020_03b"
+msgstr ""
+
+msgctxt "22687"
+msgid "harada_10_020_03c"
+msgstr ""
+
+msgctxt "22705"
+msgid "harada_10_020_04"
+msgstr ""
+
+msgctxt "22722"
+msgid "harada_10_020_04b"
+msgstr ""
+
+msgctxt "22740"
+msgid "todo_10_020_03"
+msgstr ""
+
+msgctxt "22755"
+msgid "harada_10_020_05"
+msgstr ""
+
+msgctxt "22772"
+msgid "harada_10_020_05b"
+msgstr ""
+
+msgctxt "22790"
+msgid "harada_10_020_06"
+msgstr ""
+
+msgctxt "22807"
+msgid "harada_10_020_06b"
+msgstr ""
+
+msgctxt "22825"
+msgid "hijikata_10_020_05"
+msgstr ""
+
+msgctxt "22844"
+msgid "harada_10_020_07"
+msgstr ""
+
+msgctxt "22861"
+msgid "hijikata_10_020_06"
+msgstr ""
+
+msgctxt "22880"
+msgid "harada_10_020_08"
+msgstr ""
+
+msgctxt "22897"
+msgid "harada_10_020_08b"
+msgstr ""
+
+msgctxt "22915"
+msgid "todo_10_020_04"
+msgstr ""
+
+msgctxt "22930"
+msgid "harada_10_020_09"
+msgstr ""
+
+msgctxt "22947"
+msgid "harada_10_020_09b"
+msgstr ""
+
+msgctxt "22965"
+msgid "harada_10_020_09c"
+msgstr ""

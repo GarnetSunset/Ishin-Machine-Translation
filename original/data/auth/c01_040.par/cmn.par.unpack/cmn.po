@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "404"
+msgid "上士様じゃ！"
+msgstr ""
+
+msgctxt "548"
+msgid "こない時に　なんちゅうことぜよ……！"
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"お通！　大丈夫かい！？\n"
+"お通！"
+msgstr ""
+
+msgctxt "836"
+msgid "ちょ！？　おまん　何をする気ぜよ！？"
+msgstr ""
+
+msgctxt "980"
+msgid "待て"
+msgstr ""
+
+msgctxt "1124"
+msgid "女……　どこへ行く気ぜよ"
+msgstr ""
+
+msgctxt "1268"
+msgid ""
+"こ　この子が\n"
+"腹の腑の病気に……！"
+msgstr ""
+
+msgctxt "1412"
+msgid "ほう……　それで？"
+msgstr ""
+
+msgctxt "1556"
+msgid ""
+"今すぐ蘭方医のところへ行かないと\n"
+"手遅れに……！"
+msgstr ""
+
+msgctxt "1700"
+msgid "ですから　ここをお通しくださいませ！"
+msgstr ""
+
+msgctxt "1844"
+msgid "そらぁ大変な話ぜよ　なあ？"
+msgstr ""
+
+msgctxt "1988"
+msgid "おお大変じゃ"
+msgstr ""
+
+msgctxt "2132"
+msgid "腹の腑の病気か何か知らんが"
+msgstr ""
+
+msgctxt "2276"
+msgid "手遅れになったらなったで"
+msgstr ""
+
+msgctxt "2420"
+msgid "それがその子供の寿命ちゅうことぜ"
+msgstr ""
+
+msgctxt "2564"
+msgid "腹痛程度で図々しい女子じゃ！"
+msgstr ""
+
+msgctxt "2708"
+msgid ""
+"ワシら上士の横を\n"
+"素通りできると思うたがか！"
+msgstr ""
+
+msgctxt "2852"
+msgid "そんなに……"
+msgstr ""
+
+msgctxt "2996"
+msgid "そんなに上士様は偉いのですか？"
+msgstr ""
+
+msgctxt "3140"
+msgid "何？"
+msgstr ""
+
+msgctxt "3284"
+msgid ""
+"私は大洲藩の出です\n"
+"４年前　この土佐藩の郷士のところに嫁ぎました"
+msgstr ""
+
+msgctxt "3428"
+msgid "でも　土佐はおかしい……！"
+msgstr ""
+
+msgctxt "3572"
+msgid ""
+"大洲なら武士は人を助け\n"
+"こういう時には誰よりも親切にしてくれたというのに！"
+msgstr ""
+
+msgctxt "3716"
+msgid "同じ人間なのにどうして……"
+msgstr ""
+
+msgctxt "3860"
+msgid "上士様のお通りは……"
+msgstr ""
+
+msgctxt "4004"
+msgid "この子の命より重いんですか！？"
+msgstr ""
+
+msgctxt "4148"
+msgid "郷士の嫁風情が何をぬかす"
+msgstr ""
+
+msgctxt "4292"
+msgid "そうじゃ　土佐では上士が絶対……"
+msgstr ""
+
+msgctxt "4436"
+msgid ""
+"ワシらに逆らうことなど……\n"
+"許されんのじゃ！"
+msgstr ""
+
+msgctxt "4580"
+msgid "ったく　土佐はいちいち俺を苛立たせる"
+msgstr ""
+
+msgctxt "4724"
+msgid "何者ぜよ　おんし！？"
+msgstr ""
+
+msgctxt "4868"
+msgid ""
+"土佐藩郷士\n"
+"坂本龍馬"
+msgstr ""
+
+msgctxt "5012"
+msgid ""
+"郷士じゃと……？\n"
+"郷士の分際でおんしぁ！"
+msgstr ""
+
+msgctxt "5156"
+msgid "早く行け"
+msgstr ""
+
+msgctxt "5300"
+msgid "し　しかし……！"
+msgstr ""
+
+msgctxt "5444"
+msgid ""
+"俺は根っからの土佐人だ\n"
+"上士連中の性根は知り尽くしている"
+msgstr ""
+
+msgctxt "5588"
+msgid "こいつらには　いくら道理を説いても通用しない"
+msgstr ""
+
+msgctxt "5732"
+msgid "おんしぁ……！"
+msgstr ""
+
+msgctxt "5876"
+msgid ""
+"こうするしかねえんだよ\n"
+"その子の命を助けたいのならな"
+msgstr ""
+
+msgctxt "6020"
+msgid "ありがとうございます！！"
+msgstr ""
+
+msgctxt "6164"
+msgid ""
+"郷士ごときが……！\n"
+"どうなるか分かっちゅうがか！！"
+msgstr ""
+
+msgctxt "6308"
+msgid "ああ"
+msgstr ""
+
+msgctxt "6452"
+msgid "な……？"
+msgstr ""
+
+msgctxt "6596"
+msgid ""
+"上士様に刃を向けたりはしねえ\n"
+"間違って殺しでもしたら"
+msgstr ""
+
+msgctxt "6740"
+msgid ""
+"仕返しにこの町ごと\n"
+"焼き払われかねないからな"
+msgstr ""
+
+msgctxt "6884"
+msgid "何じゃと……？"
+msgstr ""
+
+msgctxt "7028"
+msgid "後で報いは受けてやる"
+msgstr ""
+
+msgctxt "7172"
+msgid ""
+"だがお前らにも\n"
+"女を殴った報いを受けさせてやる"
+msgstr ""
+
+msgctxt "7316"
+msgid "この命知らずが……！"
+msgstr ""
+
+msgctxt "7460"
+msgid ""
+"かかって来い\n"
+"ぬるま湯育ちのお前らに"
+msgstr ""
+
+msgctxt "7604"
+msgid "痛みってもんを教えてやる！"
+msgstr ""

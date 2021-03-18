@@ -1,0 +1,4860 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "13920"
+msgid "ホンマですか？"
+msgstr ""
+
+msgctxt "0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13935"
+msgid "ふぅ"
+msgstr ""
+
+msgctxt "13940"
+msgid "少し休もうか？"
+msgstr ""
+
+msgctxt "13955"
+msgid "そうやなぁ"
+msgstr ""
+
+msgctxt "13966"
+msgid "あははっ"
+msgstr ""
+
+msgctxt "13975"
+msgid "お世辞ばっかり"
+msgstr ""
+
+msgctxt "13990"
+msgid "そうねぇ"
+msgstr ""
+
+msgctxt "13999"
+msgid "もう一軒いきはる？"
+msgstr ""
+
+msgctxt "14018"
+msgid "ほな　行こか"
+msgstr ""
+
+msgctxt "14031"
+msgid "あっはっはっは！"
+msgstr ""
+
+msgctxt "14048"
+msgid "どこや"
+msgstr ""
+
+msgctxt "14055"
+msgid "なんやねん"
+msgstr ""
+
+msgctxt "14066"
+msgid "やめとけや"
+msgstr ""
+
+msgctxt "14077"
+msgid "ええやないですか"
+msgstr ""
+
+msgctxt "14094"
+msgid "良かった"
+msgstr ""
+
+msgctxt "14103"
+msgid "そろそろ帰らな"
+msgstr ""
+
+msgctxt "14118"
+msgid "はよ行かんと"
+msgstr ""
+
+msgctxt "14131"
+msgid "はぁ…"
+msgstr ""
+
+msgctxt "14138"
+msgid "せやな"
+msgstr ""
+
+msgctxt "14145"
+msgid "ホンマやで"
+msgstr ""
+
+msgctxt "14156"
+msgid "なぁ"
+msgstr ""
+
+msgctxt "14161"
+msgid "もう一回言うてよ"
+msgstr ""
+
+msgctxt "14178"
+msgid "ヒック……"
+msgstr ""
+
+msgctxt "14189"
+msgid "まだまだ飲めるっちゅうに"
+msgstr ""
+
+msgctxt "14214"
+msgid "ええ女やったなあ"
+msgstr ""
+
+msgctxt "14231"
+msgid "あ～　腹減ってきたわ"
+msgstr ""
+
+msgctxt "14252"
+msgid "京の女はええなぁ"
+msgstr ""
+
+msgctxt "14269"
+msgid "ぷはぁ～"
+msgstr ""
+
+msgctxt "14278"
+msgid "ウィ～"
+msgstr ""
+
+msgctxt "14285"
+msgid "ぐふふ　惚れさせたるで"
+msgstr ""
+
+msgctxt "14308"
+msgid "俺は斬られても死なんで～"
+msgstr ""
+
+msgctxt "14333"
+msgid "なんや　全然酔っとらへんで"
+msgstr ""
+
+msgctxt "14360"
+msgid "今日は気分がええな　ウップ……"
+msgstr ""
+
+msgctxt "14391"
+msgid "あれ　ここどこやぁ？"
+msgstr ""
+
+msgctxt "14412"
+msgid "このまま寝てもうたろか"
+msgstr ""
+
+msgctxt "14435"
+msgid "もっともってこ～い"
+msgstr ""
+
+msgctxt "14454"
+msgid "次の店はどこや～"
+msgstr ""
+
+msgctxt "14471"
+msgid "ぐふふ……"
+msgstr ""
+
+msgctxt "14482"
+msgid "もっと飲ませろや"
+msgstr ""
+
+msgctxt "14499"
+msgid "飲み足りへんな"
+msgstr ""
+
+msgctxt "14514"
+msgid "飲みすぎてもうた……"
+msgstr ""
+
+msgctxt "14535"
+msgid "今日は帰るか"
+msgstr ""
+
+msgctxt "14548"
+msgid "今夜は飲むでぇ！"
+msgstr ""
+
+msgctxt "14565"
+msgid "ええ飲みっぷりやったなぁ"
+msgstr ""
+
+msgctxt "14590"
+msgid "もう酔ってるんか？"
+msgstr ""
+
+msgctxt "14609"
+msgid "まだまだ飲むでぇ～"
+msgstr ""
+
+msgctxt "14628"
+msgid "飲みまくるでぇ～"
+msgstr ""
+
+msgctxt "14645"
+msgid "酒持ってこんかい！"
+msgstr ""
+
+msgctxt "14664"
+msgid "飲み足りんなぁ"
+msgstr ""
+
+msgctxt "14679"
+msgid "次はあっちの店へ寄ろうか"
+msgstr ""
+
+msgctxt "14704"
+msgid "酔っ払ってますよ～　ウプッ"
+msgstr ""
+
+msgctxt "14731"
+msgid "酒や！　酒や！"
+msgstr ""
+
+msgctxt "14746"
+msgid "浴びるほど酒を飲むで～"
+msgstr ""
+
+msgctxt "14769"
+msgid "酒は裏切らんなぁ"
+msgstr ""
+
+msgctxt "14786"
+msgid "まだまだ飲めるわ"
+msgstr ""
+
+msgctxt "14803"
+msgid "旨い酒持ってきてや"
+msgstr ""
+
+msgctxt "14822"
+msgid "店の酒全部飲んだるわ！"
+msgstr ""
+
+msgctxt "14845"
+msgid "気分ええわ～"
+msgstr ""
+
+msgctxt "14858"
+msgid "飲んでも飲んでも飲み足りんわ！"
+msgstr ""
+
+msgctxt "14889"
+msgid "酒が飲めれば何もいらんわ"
+msgstr ""
+
+msgctxt "14914"
+msgid "酒が全てや！"
+msgstr ""
+
+msgctxt "14927"
+msgid "もう酒しか信じられへんわ"
+msgstr ""
+
+msgctxt "14952"
+msgid "俺の体は酒で出来てるんやで！"
+msgstr ""
+
+msgctxt "14981"
+msgid "あかん……　酔いが醒めてきた"
+msgstr ""
+
+msgctxt "15010"
+msgid "もっと酒や"
+msgstr ""
+
+msgctxt "15021"
+msgid "酒さえあれば何もいらんわ"
+msgstr ""
+
+msgctxt "15046"
+msgid "酔っ払っちゃった～"
+msgstr ""
+
+msgctxt "15065"
+msgid "もう少し飲んでいこうか"
+msgstr ""
+
+msgctxt "15088"
+msgid "二人で飲む酒も悪ないな"
+msgstr ""
+
+msgctxt "15111"
+msgid "飲みすぎて気分悪いわ……"
+msgstr ""
+
+msgctxt "15136"
+msgid "もう飲めんわ……"
+msgstr ""
+
+msgctxt "15153"
+msgid "うぅ　気持ち悪い……"
+msgstr ""
+
+msgctxt "15174"
+msgid "飲みすぎたかな……"
+msgstr ""
+
+msgctxt "15193"
+msgid "頭がクラクラするわ……"
+msgstr ""
+
+msgctxt "15216"
+msgid "もう限界や……"
+msgstr ""
+
+msgctxt "15231"
+msgid "まだ飲むでー"
+msgstr ""
+
+msgctxt "15244"
+msgid "金ならぎょうさんあるで"
+msgstr ""
+
+msgctxt "15267"
+msgid "もう酔うてしもたんか？"
+msgstr ""
+
+msgctxt "15290"
+msgid "お前酒強いなぁ"
+msgstr ""
+
+msgctxt "15305"
+msgid "さっきの酒はキツかったなぁ……"
+msgstr ""
+
+msgctxt "15336"
+msgid "この前の店に行ってみようか"
+msgstr ""
+
+msgctxt "15363"
+msgid "どこやったかなぁ"
+msgstr ""
+
+msgctxt "15380"
+msgid "今日は一番高い酒を飲んだんでぇ"
+msgstr ""
+
+msgctxt "15411"
+msgid "道に迷うてもうたわ"
+msgstr ""
+
+msgctxt "15430"
+msgid "もう金あらへん……"
+msgstr ""
+
+msgctxt "15449"
+msgid "全然酔うてないわ！"
+msgstr ""
+
+msgctxt "15468"
+msgid "何杯でも飲めてしまうわ"
+msgstr ""
+
+msgctxt "15491"
+msgid "飯でも食うか？"
+msgstr ""
+
+msgctxt "15506"
+msgid "目が回るわ～"
+msgstr ""
+
+msgctxt "15519"
+msgid "悪酔いしとるなぁ"
+msgstr ""
+
+msgctxt "15536"
+msgid "目が回るぅ～"
+msgstr ""
+
+msgctxt "15549"
+msgid "ほどほどにな"
+msgstr ""
+
+msgctxt "15562"
+msgid "もうフラフラや～"
+msgstr ""
+
+msgctxt "15579"
+msgid "次いくで～"
+msgstr ""
+
+msgctxt "15590"
+msgid "1年分飲んだ気分や～"
+msgstr ""
+
+msgctxt "15610"
+msgid "ちょっと横になりたいわ……"
+msgstr ""
+
+msgctxt "15637"
+msgid "樽ごといったれぇ～"
+msgstr ""
+
+msgctxt "15656"
+msgid "今日はよう眠れるわ"
+msgstr ""
+
+msgctxt "15675"
+msgid "酔ってもうたでぇ～"
+msgstr ""
+
+msgctxt "15694"
+msgid "歩き回って疲れたわ"
+msgstr ""
+
+msgctxt "15713"
+msgid "気持ち悪……"
+msgstr ""
+
+msgctxt "15726"
+msgid "ここの酒は絶品ですわ"
+msgstr ""
+
+msgctxt "15747"
+msgid "メシ食いとうなってきたわ"
+msgstr ""
+
+msgctxt "15772"
+msgid "金落としなや"
+msgstr ""
+
+msgctxt "15785"
+msgid "あんた酒弱いなぁ"
+msgstr ""
+
+msgctxt "15802"
+msgid "あんたと飲んでると楽しいわぁ"
+msgstr ""
+
+msgctxt "15831"
+msgid "ええ酒飲ましてもろうたで"
+msgstr ""
+
+msgctxt "15856"
+msgid "まだ飲むんかい"
+msgstr ""
+
+msgctxt "15871"
+msgid "幸せや～"
+msgstr ""
+
+msgctxt "15880"
+msgid "はぁ、はぁ"
+msgstr ""
+
+msgctxt "15891"
+msgid "あぁああ！"
+msgstr ""
+
+msgctxt "15902"
+msgid "うわぁああ！"
+msgstr ""
+
+msgctxt "15915"
+msgid "ひぇえ！"
+msgstr ""
+
+msgctxt "15924"
+msgid "あっちは手遅れや……！"
+msgstr ""
+
+msgctxt "15947"
+msgid "全部燃えてまう……"
+msgstr ""
+
+msgctxt "15966"
+msgid "えらいこっちゃ！"
+msgstr ""
+
+msgctxt "15983"
+msgid "こんな大火事は始めてや……"
+msgstr ""
+
+msgctxt "16010"
+msgid "もう走れん……"
+msgstr ""
+
+msgctxt "16025"
+msgid "ここも燃えとる……"
+msgstr ""
+
+msgctxt "16044"
+msgid "わしの家が……"
+msgstr ""
+
+msgctxt "16059"
+msgid "何があったんや！"
+msgstr ""
+
+msgctxt "16076"
+msgid "なんちゅうこった……"
+msgstr ""
+
+msgctxt "16097"
+msgid "誰か、助けてください！"
+msgstr ""
+
+msgctxt "16120"
+msgid "町が無くなってまう……"
+msgstr ""
+
+msgctxt "16143"
+msgid "足が……"
+msgstr ""
+
+msgctxt "16152"
+msgid "家が燃えてもうた……"
+msgstr ""
+
+msgctxt "16173"
+msgid "手ぇ貸してください！"
+msgstr ""
+
+msgctxt "16194"
+msgid "どこへ逃げたらええんや……"
+msgstr ""
+
+msgctxt "16221"
+msgid "誰か！助けとくれやす！"
+msgstr ""
+
+msgctxt "16244"
+msgid "もう終わりや……"
+msgstr ""
+
+msgctxt "16261"
+msgid "はよう逃げんと！"
+msgstr ""
+
+msgctxt "16278"
+msgid "はぁ……もうアカン"
+msgstr ""
+
+msgctxt "16297"
+msgid "なんでこないなことに……"
+msgstr ""
+
+msgctxt "16322"
+msgid "じきにここもあかんな……"
+msgstr ""
+
+msgctxt "16347"
+msgid "急いで逃げるんや！"
+msgstr ""
+
+msgctxt "16366"
+msgid "家は諦めて　はよう走らんかい！"
+msgstr ""
+
+msgctxt "16397"
+msgid "そこの道は火で塞がってるで！"
+msgstr ""
+
+msgctxt "16426"
+msgid "あかんっ！崩れるで！"
+msgstr ""
+
+msgctxt "16447"
+msgid "急がんと火に飲み込まれるで！"
+msgstr ""
+
+msgctxt "16476"
+msgid "そっちは火の海やで！"
+msgstr ""
+
+msgctxt "16497"
+msgid "はよ走りや！"
+msgstr ""
+
+msgctxt "16510"
+msgid "水持ってこんかい！"
+msgstr ""
+
+msgctxt "16529"
+msgid "水や！"
+msgstr ""
+
+msgctxt "16536"
+msgid "誰か！手を貸してや！"
+msgstr ""
+
+msgctxt "16557"
+msgid "先に行っとき！"
+msgstr ""
+
+msgctxt "16572"
+msgid "どこに逃げればええんや!?"
+msgstr ""
+
+msgctxt "16597"
+msgid "荷物なんか置いていき！"
+msgstr ""
+
+msgctxt "16620"
+msgid "急がんかい！"
+msgstr ""
+
+msgctxt "16633"
+msgid "家が倒れんで！"
+msgstr ""
+
+msgctxt "16648"
+msgid "今助けたるで！"
+msgstr ""
+
+msgctxt "16663"
+msgid "もうそこまで火が迫ってるで！"
+msgstr ""
+
+msgctxt "16692"
+msgid "あっちは大火事や！"
+msgstr ""
+
+msgctxt "16711"
+msgid "そっちの家にも燃え移ったで！"
+msgstr ""
+
+msgctxt "16740"
+msgid "ここは危険や！"
+msgstr ""
+
+msgctxt "16755"
+msgid "消しても消してもキリが無いわ……"
+msgstr ""
+
+msgctxt "16788"
+msgid "火の勢いが強すぎるわ……"
+msgstr ""
+
+msgctxt "16813"
+msgid "さっさとせんと逃げ遅れるで！"
+msgstr ""
+
+msgctxt "16842"
+msgid "火の勢いが強うなってきた"
+msgstr ""
+
+msgctxt "16867"
+msgid "そこの家も崩れるで！"
+msgstr ""
+
+msgctxt "16888"
+msgid "はよう逃げんか！"
+msgstr ""
+
+msgctxt "16905"
+msgid "火の勢いが強過ぎる……"
+msgstr ""
+
+msgctxt "16928"
+msgid "そっちはあぶないで！"
+msgstr ""
+
+msgctxt "16949"
+msgid "きゃぁ！"
+msgstr ""
+
+msgctxt "16958"
+msgid "まだ中に人が！"
+msgstr ""
+
+msgctxt "16973"
+msgid "誰か！手を貸しておくれやす！"
+msgstr ""
+
+msgctxt "17002"
+msgid "そっちに行ったら危ないで！"
+msgstr ""
+
+msgctxt "17029"
+msgid "うち　もう走れんわ……"
+msgstr ""
+
+msgctxt "17052"
+msgid "急いで逃げんと！"
+msgstr ""
+
+msgctxt "17069"
+msgid "どこへ逃げたらええんやろ……"
+msgstr ""
+
+msgctxt "17098"
+msgid "どこもかしこも火の海や……"
+msgstr ""
+
+msgctxt "17125"
+msgid "はよう逃げへんと！"
+msgstr ""
+
+msgctxt "17144"
+msgid "助けてくれまへんか！"
+msgstr ""
+
+msgctxt "17165"
+msgid "急がんと火に包まれるよ！"
+msgstr ""
+
+msgctxt "17190"
+msgid "あっ！家が崩れる！"
+msgstr ""
+
+msgctxt "17209"
+msgid "誰かー！"
+msgstr ""
+
+msgctxt "17218"
+msgid "道が塞がれてる……"
+msgstr ""
+
+msgctxt "17237"
+msgid "また燃え移ったわ！"
+msgstr ""
+
+msgctxt "17256"
+msgid "向こうもあかんみたいよ……"
+msgstr ""
+
+msgctxt "17283"
+msgid "うちの家は大丈夫やろうか……"
+msgstr ""
+
+msgctxt "17312"
+msgid "みんな無事やろうか……"
+msgstr ""
+
+msgctxt "17335"
+msgid "ここも危ないで！"
+msgstr ""
+
+msgctxt "17352"
+msgid "気い付けて逃げんと！"
+msgstr ""
+
+msgctxt "17373"
+msgid "ホンマですか？"
+msgstr ""
+
+msgctxt "17388"
+msgid "なんちゅうこっちゃ"
+msgstr ""
+
+msgctxt "17407"
+msgid "ふぅ"
+msgstr ""
+
+msgctxt "17412"
+msgid "金ならあんでぇ"
+msgstr ""
+
+msgctxt "17427"
+msgid "そろそろ帰らんと"
+msgstr ""
+
+msgctxt "17444"
+msgid "わしも若い頃はモテたんやで"
+msgstr ""
+
+msgctxt "17471"
+msgid "年寄り扱いしなや！"
+msgstr ""
+
+msgctxt "17490"
+msgid "若いもんには負けへんで"
+msgstr ""
+
+msgctxt "17513"
+msgid "少し休もか？"
+msgstr ""
+
+msgctxt "17526"
+msgid "そうやなぁ"
+msgstr ""
+
+msgctxt "17537"
+msgid "ほな　行こか"
+msgstr ""
+
+msgctxt "17550"
+msgid "あっはっはっは！"
+msgstr ""
+
+msgctxt "17567"
+msgid "どこや"
+msgstr ""
+
+msgctxt "17574"
+msgid "なんやねん"
+msgstr ""
+
+msgctxt "17585"
+msgid "やめとけや"
+msgstr ""
+
+msgctxt "17596"
+msgid "ほんま楽しいなぁ"
+msgstr ""
+
+msgctxt "17613"
+msgid "楽しいなぁ"
+msgstr ""
+
+msgctxt "17624"
+msgid "少しくらいええやん"
+msgstr ""
+
+msgctxt "17643"
+msgid "ちょっとだけやん"
+msgstr ""
+
+msgctxt "17660"
+msgid "ほんま笑いが止まらんわ～"
+msgstr ""
+
+msgctxt "17685"
+msgid "困ったなぁ……"
+msgstr ""
+
+msgctxt "17700"
+msgid "恋しいなぁ"
+msgstr ""
+
+msgctxt "17711"
+msgid "惚れたんか？"
+msgstr ""
+
+msgctxt "17724"
+msgid "惚れてしもたわ"
+msgstr ""
+
+msgctxt "17739"
+msgid "愛おしいなぁ"
+msgstr ""
+
+msgctxt "17752"
+msgid "あれは色気あるわ"
+msgstr ""
+
+msgctxt "17769"
+msgid "ちょっかいだしなや～"
+msgstr ""
+
+msgctxt "17790"
+msgid "今日は帰ろか"
+msgstr ""
+
+msgctxt "17803"
+msgid "ちょっと寄っていこかな"
+msgstr ""
+
+msgctxt "17826"
+msgid "嫁はんにしばかれるわ……"
+msgstr ""
+
+msgctxt "17851"
+msgid "それくらいええやん"
+msgstr ""
+
+msgctxt "17870"
+msgid "この店か？"
+msgstr ""
+
+msgctxt "17881"
+msgid "旨いもん食わしたんでぇ"
+msgstr ""
+
+msgctxt "17904"
+msgid "もう帰らんと"
+msgstr ""
+
+msgctxt "17917"
+msgid "あかん　飲みすぎた"
+msgstr ""
+
+msgctxt "17936"
+msgid "次はあっちの店へ行こうか"
+msgstr ""
+
+msgctxt "17961"
+msgid "飯でも食っていこうか"
+msgstr ""
+
+msgctxt "17982"
+msgid "酒でも飲んでいこうか"
+msgstr ""
+
+msgctxt "18003"
+msgid "ええ店知っとるで"
+msgstr ""
+
+msgctxt "18020"
+msgid "今度連れてってや"
+msgstr ""
+
+msgctxt "18037"
+msgid "ん？　この店か？"
+msgstr ""
+
+msgctxt "18054"
+msgid "せつないなぁ……"
+msgstr ""
+
+msgctxt "18071"
+msgid "旨いもん食いたいなぁ"
+msgstr ""
+
+msgctxt "18092"
+msgid "どこの店やったかなぁ"
+msgstr ""
+
+msgctxt "18113"
+msgid "あそこの店はやめとき"
+msgstr ""
+
+msgctxt "18134"
+msgid "旨かったなぁ"
+msgstr ""
+
+msgctxt "18147"
+msgid "高いだけのことはあるなぁ"
+msgstr ""
+
+msgctxt "18172"
+msgid "ん？　通りすぎたか？"
+msgstr ""
+
+msgctxt "18193"
+msgid "あかん　迷ってもうた"
+msgstr ""
+
+msgctxt "18214"
+msgid "あっちやったかな"
+msgstr ""
+
+msgctxt "18231"
+msgid "あぁ　ここや！"
+msgstr ""
+
+msgctxt "18246"
+msgid "あかん　惚れてもうた"
+msgstr ""
+
+msgctxt "18267"
+msgid "また負けたわー"
+msgstr ""
+
+msgctxt "18282"
+msgid "厳しいなー"
+msgstr ""
+
+msgctxt "18293"
+msgid "照れるやないか"
+msgstr ""
+
+msgctxt "18308"
+msgid "旨い酒やったなぁ"
+msgstr ""
+
+msgctxt "18325"
+msgid "寂しなんなぁ……"
+msgstr ""
+
+msgctxt "18342"
+msgid "また来んで！"
+msgstr ""
+
+msgctxt "18355"
+msgid "たまには別の店いこか"
+msgstr ""
+
+msgctxt "18376"
+msgid "ええやないか"
+msgstr ""
+
+msgctxt "18389"
+msgid "少しだけやん"
+msgstr ""
+
+msgctxt "18402"
+msgid "今日は奢ったんで"
+msgstr ""
+
+msgctxt "18419"
+msgid "好きなだけ飲みや"
+msgstr ""
+
+msgctxt "18436"
+msgid "あかん　スッカラカンや"
+msgstr ""
+
+msgctxt "18459"
+msgid "今日は遊ぶでぇ"
+msgstr ""
+
+msgctxt "18474"
+msgid "派手にいくでぇ"
+msgstr ""
+
+msgctxt "18489"
+msgid "久しぶりやなぁ"
+msgstr ""
+
+msgctxt "18504"
+msgid "ぎょうさん飲んだなぁ"
+msgstr ""
+
+msgctxt "18525"
+msgid "もう食えへんわ"
+msgstr ""
+
+msgctxt "18540"
+msgid "まぁ　酒でも飲もうや"
+msgstr ""
+
+msgctxt "18561"
+msgid "まずは酒やな"
+msgstr ""
+
+msgctxt "18574"
+msgid "酔ってきたわ"
+msgstr ""
+
+msgctxt "18587"
+msgid "酔ってもうた"
+msgstr ""
+
+msgctxt "18600"
+msgid "まだまだ飲むで！"
+msgstr ""
+
+msgctxt "18617"
+msgid "楽しいのう"
+msgstr ""
+
+msgctxt "18628"
+msgid "愉快やなぁ"
+msgstr ""
+
+msgctxt "18639"
+msgid "あかん　金使いすぎた……"
+msgstr ""
+
+msgctxt "18664"
+msgid "なあ　一緒に飲まへん？"
+msgstr ""
+
+msgctxt "18687"
+msgid "飲みすぎたわ……"
+msgstr ""
+
+msgctxt "18704"
+msgid "あっちの店も寄っていこか"
+msgstr ""
+
+msgctxt "18729"
+msgid "何か食っていこか？"
+msgstr ""
+
+msgctxt "18748"
+msgid "少し飲んでいこか？"
+msgstr ""
+
+msgctxt "18767"
+msgid "何か買うて帰ろうか"
+msgstr ""
+
+msgctxt "18786"
+msgid "あかん　財布忘れたわ……"
+msgstr ""
+
+msgctxt "18811"
+msgid "ここなんだけどさ"
+msgstr ""
+
+msgctxt "18828"
+msgid "ちょっと見てっていい？"
+msgstr ""
+
+msgctxt "18851"
+msgid "ふざけるなよ"
+msgstr ""
+
+msgctxt "18864"
+msgid "やめとけって"
+msgstr ""
+
+msgctxt "18877"
+msgid "いろいろゴメンな"
+msgstr ""
+
+msgctxt "18894"
+msgid "自信持って　な？"
+msgstr ""
+
+msgctxt "18911"
+msgid "また喧嘩？"
+msgstr ""
+
+msgctxt "18922"
+msgid "今日はついてたなぁ～"
+msgstr ""
+
+msgctxt "18943"
+msgid "ごちそうさまです！"
+msgstr ""
+
+msgctxt "18962"
+msgid "まぁいいじゃん"
+msgstr ""
+
+msgctxt "18977"
+msgid "いやーたまらん"
+msgstr ""
+
+msgctxt "18992"
+msgid "ごめん　忘れてた"
+msgstr ""
+
+msgctxt "19009"
+msgid "え　なになに？"
+msgstr ""
+
+msgctxt "19024"
+msgid "前に会った時はさぁ……"
+msgstr ""
+
+msgctxt "19047"
+msgid "今度　もう一回勝負しろよー"
+msgstr ""
+
+msgctxt "19074"
+msgid "へぇ大変だなぁ"
+msgstr ""
+
+msgctxt "19089"
+msgid "暇だねぇ"
+msgstr ""
+
+msgctxt "19098"
+msgid "あぁ　奉公へ出したんですよ"
+msgstr ""
+
+msgctxt "19125"
+msgid "それ　お前の悪いクセだよ"
+msgstr ""
+
+msgctxt "19150"
+msgid "まだ若いのに……"
+msgstr ""
+
+msgctxt "19167"
+msgid "どうもどうも"
+msgstr ""
+
+msgctxt "19180"
+msgid "いやーまいった"
+msgstr ""
+
+msgctxt "19195"
+msgid "取り返せると思ったのになぁ"
+msgstr ""
+
+msgctxt "19222"
+msgid "ここで食べてくか……"
+msgstr ""
+
+msgctxt "19243"
+msgid "細かい事気にすんなよ"
+msgstr ""
+
+msgctxt "19264"
+msgid "飲みすぎだな　お前"
+msgstr ""
+
+msgctxt "19283"
+msgid "いい加減だなぁ"
+msgstr ""
+
+msgctxt "19298"
+msgid "この後　仕事？"
+msgstr ""
+
+msgctxt "19313"
+msgid "お互い年とったねー"
+msgstr ""
+
+msgctxt "19332"
+msgid "あれが楽しみなんですわ"
+msgstr ""
+
+msgctxt "19355"
+msgid "大丈夫でした？"
+msgstr ""
+
+msgctxt "19370"
+msgid "勘弁してくださいよ"
+msgstr ""
+
+msgctxt "19389"
+msgid "おまえ　バカだなぁ～"
+msgstr ""
+
+msgctxt "19410"
+msgid "そうは言ってもねぇ"
+msgstr ""
+
+msgctxt "19429"
+msgid "最近　はやってるんですよ"
+msgstr ""
+
+msgctxt "19454"
+msgid "へぇ　じゃぁしばらく寂しねぇ"
+msgstr ""
+
+msgctxt "19483"
+msgid "もう頑張るしかないな"
+msgstr ""
+
+msgctxt "19504"
+msgid "お久しぶりです"
+msgstr ""
+
+msgctxt "19519"
+msgid "最近面白いことあった？"
+msgstr ""
+
+msgctxt "19542"
+msgid "腹減った～"
+msgstr ""
+
+msgctxt "19553"
+msgid "それ好きだね～"
+msgstr ""
+
+msgctxt "19568"
+msgid "へーなるほどねー"
+msgstr ""
+
+msgctxt "19585"
+msgid "昨日飲みすぎたなぁ"
+msgstr ""
+
+msgctxt "19604"
+msgid "さっきの子　可愛かったなぁ"
+msgstr ""
+
+msgctxt "19631"
+msgid "はい　任せてください"
+msgstr ""
+
+msgctxt "19652"
+msgid "うん　それで？"
+msgstr ""
+
+msgctxt "19667"
+msgid "ハハハ！"
+msgstr ""
+
+msgctxt "19676"
+msgid "いやいや　本気だって"
+msgstr ""
+
+msgctxt "19697"
+msgid "またまたぁ"
+msgstr ""
+
+msgctxt "19708"
+msgid "いいねぇそれ！"
+msgstr ""
+
+msgctxt "19723"
+msgid "はぁ……ついてないなぁ"
+msgstr ""
+
+msgctxt "19746"
+msgid "あーまたすっちまった！"
+msgstr ""
+
+msgctxt "19769"
+msgid "奢ってくれるよな？"
+msgstr ""
+
+msgctxt "19788"
+msgid "あー調子わりぃ"
+msgstr ""
+
+msgctxt "19803"
+msgid "え　何だっけそれ?"
+msgstr ""
+
+msgctxt "19821"
+msgid "聞いてんのかよ　おい？"
+msgstr ""
+
+msgctxt "19844"
+msgid "あーゆーのグッとくるよな"
+msgstr ""
+
+msgctxt "19869"
+msgid "お世辞なのにさ―"
+msgstr ""
+
+msgctxt "19886"
+msgid "あれ　イカサマだろ？"
+msgstr ""
+
+msgctxt "19907"
+msgid "大丈夫　大丈夫！"
+msgstr ""
+
+msgctxt "19924"
+msgid "ねぇねぇ"
+msgstr ""
+
+msgctxt "19933"
+msgid "すごいわぁ！"
+msgstr ""
+
+msgctxt "19946"
+msgid "あれ　かわいい！"
+msgstr ""
+
+msgctxt "19963"
+msgid "はぁ……もうやだ"
+msgstr ""
+
+msgctxt "19980"
+msgid "そうですねぇ"
+msgstr ""
+
+msgctxt "19993"
+msgid "ふふふっ"
+msgstr ""
+
+msgctxt "20002"
+msgid "面白い話してよ～"
+msgstr ""
+
+msgctxt "20019"
+msgid "話聞いてくれてありがとう"
+msgstr ""
+
+msgctxt "20044"
+msgid "やーん　久しぶり～"
+msgstr ""
+
+msgctxt "20063"
+msgid "よかったねぇ！"
+msgstr ""
+
+msgctxt "20078"
+msgid "ちょっと待ってて"
+msgstr ""
+
+msgctxt "20095"
+msgid "ごちそうさまー"
+msgstr ""
+
+msgctxt "20110"
+msgid "あーわかるー"
+msgstr ""
+
+msgctxt "20123"
+msgid "もう　いじわるねぇ"
+msgstr ""
+
+msgctxt "20142"
+msgid "えぇ最近仲良くしてます"
+msgstr ""
+
+msgctxt "20165"
+msgid "あれいいよね"
+msgstr ""
+
+msgctxt "20178"
+msgid "そろそろ帰ろうよ"
+msgstr ""
+
+msgctxt "20195"
+msgid "それでどうしたの？"
+msgstr ""
+
+msgctxt "20214"
+msgid "そんな時もあるって"
+msgstr ""
+
+msgctxt "20233"
+msgid "今度遊びにおいでよ"
+msgstr ""
+
+msgctxt "20252"
+msgid "寂しがってたよー"
+msgstr ""
+
+msgctxt "20269"
+msgid "元気だった？"
+msgstr ""
+
+msgctxt "20282"
+msgid "もうーしょうがないなぁ"
+msgstr ""
+
+msgctxt "20305"
+msgid "買ってくるの忘れてたわ……"
+msgstr ""
+
+msgctxt "20332"
+msgid "また来ようね"
+msgstr ""
+
+msgctxt "20345"
+msgid "お腹すいたねー"
+msgstr ""
+
+msgctxt "20360"
+msgid "あれ　おいしそうだね"
+msgstr ""
+
+msgctxt "20381"
+msgid "それ似合うね"
+msgstr ""
+
+msgctxt "20394"
+msgid "そういうの困るね"
+msgstr ""
+
+msgctxt "20411"
+msgid "あはは　なにそれー"
+msgstr ""
+
+msgctxt "20430"
+msgid "ここなんだけどさ"
+msgstr ""
+
+msgctxt "20447"
+msgid "ちょっと見てっていい？"
+msgstr ""
+
+msgctxt "20470"
+msgid "ふざけるなよ"
+msgstr ""
+
+msgctxt "20483"
+msgid "やめとけって"
+msgstr ""
+
+msgctxt "20496"
+msgid "いろいろゴメンな"
+msgstr ""
+
+msgctxt "20513"
+msgid "自信持って　な？"
+msgstr ""
+
+msgctxt "20530"
+msgid "また喧嘩？"
+msgstr ""
+
+msgctxt "20541"
+msgid "今日はついてたなぁ～"
+msgstr ""
+
+msgctxt "20562"
+msgid "ごちそうさまです！"
+msgstr ""
+
+msgctxt "20581"
+msgid "まぁいいじゃん"
+msgstr ""
+
+msgctxt "20596"
+msgid "いやーたまらん"
+msgstr ""
+
+msgctxt "20611"
+msgid "ごめん　忘れてた"
+msgstr ""
+
+msgctxt "20628"
+msgid "え　なになに？"
+msgstr ""
+
+msgctxt "20643"
+msgid "前に会った時はさぁ……"
+msgstr ""
+
+msgctxt "20666"
+msgid "今度　もう一回勝負しろよー"
+msgstr ""
+
+msgctxt "20693"
+msgid "へぇ大変だなぁ"
+msgstr ""
+
+msgctxt "20708"
+msgid "暇だねぇ"
+msgstr ""
+
+msgctxt "20717"
+msgid "あぁ　奉公へ出したんですよ"
+msgstr ""
+
+msgctxt "20744"
+msgid "それ　お前の悪いクセだよ"
+msgstr ""
+
+msgctxt "20769"
+msgid "まだ若いのに……"
+msgstr ""
+
+msgctxt "20786"
+msgid "どうもどうも"
+msgstr ""
+
+msgctxt "20799"
+msgid "いやーまいった"
+msgstr ""
+
+msgctxt "20814"
+msgid "取り返せると思ったのになぁ"
+msgstr ""
+
+msgctxt "20841"
+msgid "ここで食べてくか……"
+msgstr ""
+
+msgctxt "20862"
+msgid "細かい事気にすんなよ"
+msgstr ""
+
+msgctxt "20883"
+msgid "飲みすぎだな　お前"
+msgstr ""
+
+msgctxt "20902"
+msgid "いい加減だなぁ"
+msgstr ""
+
+msgctxt "20917"
+msgid "この後　仕事？"
+msgstr ""
+
+msgctxt "20932"
+msgid "お互い年とったねー"
+msgstr ""
+
+msgctxt "20951"
+msgid "あれが楽しみなんですわ"
+msgstr ""
+
+msgctxt "20974"
+msgid "大丈夫でした？"
+msgstr ""
+
+msgctxt "20989"
+msgid "勘弁してくださいよ"
+msgstr ""
+
+msgctxt "21008"
+msgid "おまえ　バカだなぁ～"
+msgstr ""
+
+msgctxt "21029"
+msgid "そうは言ってもねぇ"
+msgstr ""
+
+msgctxt "21048"
+msgid "最近　はやってるんですよ"
+msgstr ""
+
+msgctxt "21073"
+msgid "へぇ　じゃぁしばらく寂しねぇ"
+msgstr ""
+
+msgctxt "21102"
+msgid "もう頑張るしかないな"
+msgstr ""
+
+msgctxt "21123"
+msgid "お久しぶりです"
+msgstr ""
+
+msgctxt "21138"
+msgid "最近面白いことあった？"
+msgstr ""
+
+msgctxt "21161"
+msgid "腹減った～"
+msgstr ""
+
+msgctxt "21172"
+msgid "それ好きだね～"
+msgstr ""
+
+msgctxt "21187"
+msgid "へーなるほどねー"
+msgstr ""
+
+msgctxt "21204"
+msgid "昨日飲みすぎたなぁ"
+msgstr ""
+
+msgctxt "21223"
+msgid "さっきの子　可愛かったなぁ"
+msgstr ""
+
+msgctxt "21250"
+msgid "はい　任せてください"
+msgstr ""
+
+msgctxt "21271"
+msgid "うん　それで？"
+msgstr ""
+
+msgctxt "21286"
+msgid "ハハハ！"
+msgstr ""
+
+msgctxt "21295"
+msgid "いやいや　本気だって"
+msgstr ""
+
+msgctxt "21316"
+msgid "またまたぁ"
+msgstr ""
+
+msgctxt "21327"
+msgid "いいねぇそれ！"
+msgstr ""
+
+msgctxt "21342"
+msgid "はぁ……ついてないなぁ"
+msgstr ""
+
+msgctxt "21365"
+msgid "あーまたすっちまった！"
+msgstr ""
+
+msgctxt "21388"
+msgid "奢ってくれるよな？"
+msgstr ""
+
+msgctxt "21407"
+msgid "あー調子わりぃ"
+msgstr ""
+
+msgctxt "21422"
+msgid "え　何だっけそれ?"
+msgstr ""
+
+msgctxt "21440"
+msgid "聞いてんのかよ　おい？"
+msgstr ""
+
+msgctxt "21463"
+msgid "あーゆーのグッとくるよな"
+msgstr ""
+
+msgctxt "21488"
+msgid "お世辞なのにさ―"
+msgstr ""
+
+msgctxt "21505"
+msgid "あれ　イカサマだろ？"
+msgstr ""
+
+msgctxt "21526"
+msgid "大丈夫　大丈夫！"
+msgstr ""
+
+msgctxt "21543"
+msgid "ねぇねぇ"
+msgstr ""
+
+msgctxt "21552"
+msgid "すごいわぁ！"
+msgstr ""
+
+msgctxt "21565"
+msgid "あれ　かわいい！"
+msgstr ""
+
+msgctxt "21582"
+msgid "はぁ……もうやだ"
+msgstr ""
+
+msgctxt "21599"
+msgid "そうですねぇ"
+msgstr ""
+
+msgctxt "21612"
+msgid "ふふふっ"
+msgstr ""
+
+msgctxt "21621"
+msgid "面白い話してよ～"
+msgstr ""
+
+msgctxt "21638"
+msgid "話聞いてくれてありがとう"
+msgstr ""
+
+msgctxt "21663"
+msgid "やーん　久しぶり～"
+msgstr ""
+
+msgctxt "21682"
+msgid "よかったねぇ！"
+msgstr ""
+
+msgctxt "21697"
+msgid "ちょっと待ってて"
+msgstr ""
+
+msgctxt "21714"
+msgid "ごちそうさまー"
+msgstr ""
+
+msgctxt "21729"
+msgid "あーわかるー"
+msgstr ""
+
+msgctxt "21742"
+msgid "もう　いじわるねぇ"
+msgstr ""
+
+msgctxt "21761"
+msgid "えぇ最近仲良くしてます"
+msgstr ""
+
+msgctxt "21784"
+msgid "あれいいよね"
+msgstr ""
+
+msgctxt "21797"
+msgid "そろそろ帰ろうよ"
+msgstr ""
+
+msgctxt "21814"
+msgid "それでどうしたの？"
+msgstr ""
+
+msgctxt "21833"
+msgid "そんな時もあるって"
+msgstr ""
+
+msgctxt "21852"
+msgid "今度遊びにおいでよ"
+msgstr ""
+
+msgctxt "21871"
+msgid "寂しがってたよー"
+msgstr ""
+
+msgctxt "21888"
+msgid "元気だった？"
+msgstr ""
+
+msgctxt "21901"
+msgid "もうーしょうがないなぁ"
+msgstr ""
+
+msgctxt "21924"
+msgid "買ってくるの忘れてたわ……"
+msgstr ""
+
+msgctxt "21951"
+msgid "また来ようね"
+msgstr ""
+
+msgctxt "21964"
+msgid "お腹すいたねー"
+msgstr ""
+
+msgctxt "21979"
+msgid "あれ　おいしそうだね"
+msgstr ""
+
+msgctxt "22000"
+msgid "それ似合うね"
+msgstr ""
+
+msgctxt "22013"
+msgid "そういうの困るね"
+msgstr ""
+
+msgctxt "22030"
+msgid "あはは　なにそれー"
+msgstr ""
+
+msgctxt "22049"
+msgid "ここなんだけどさ"
+msgstr ""
+
+msgctxt "22066"
+msgid "ちょっと見てっていい？"
+msgstr ""
+
+msgctxt "22089"
+msgid "ふざけるなよ"
+msgstr ""
+
+msgctxt "22102"
+msgid "やめとけって"
+msgstr ""
+
+msgctxt "22115"
+msgid "いろいろゴメンな"
+msgstr ""
+
+msgctxt "22132"
+msgid "自信持って　な？"
+msgstr ""
+
+msgctxt "22149"
+msgid "また喧嘩？"
+msgstr ""
+
+msgctxt "22160"
+msgid "今日はついてたなぁ～"
+msgstr ""
+
+msgctxt "22181"
+msgid "ごちそうさまです！"
+msgstr ""
+
+msgctxt "22200"
+msgid "まぁいいじゃん"
+msgstr ""
+
+msgctxt "22215"
+msgid "いやーたまらん"
+msgstr ""
+
+msgctxt "22230"
+msgid "ごめん　忘れてた"
+msgstr ""
+
+msgctxt "22247"
+msgid "え　なになに？"
+msgstr ""
+
+msgctxt "22262"
+msgid "前に会った時はさぁ……"
+msgstr ""
+
+msgctxt "22285"
+msgid "今度　もう一回勝負しろよー"
+msgstr ""
+
+msgctxt "22312"
+msgid "へぇ大変だなぁ"
+msgstr ""
+
+msgctxt "22327"
+msgid "暇だねぇ"
+msgstr ""
+
+msgctxt "22336"
+msgid "あぁ　奉公へ出したんですよ"
+msgstr ""
+
+msgctxt "22363"
+msgid "それ　お前の悪いクセだよ"
+msgstr ""
+
+msgctxt "22388"
+msgid "まだ若いのに……"
+msgstr ""
+
+msgctxt "22405"
+msgid "どうもどうも"
+msgstr ""
+
+msgctxt "22418"
+msgid "いやーまいった"
+msgstr ""
+
+msgctxt "22433"
+msgid "取り返せると思ったのになぁ"
+msgstr ""
+
+msgctxt "22460"
+msgid "ここで食べてくか……"
+msgstr ""
+
+msgctxt "22481"
+msgid "細かい事気にすんなよ"
+msgstr ""
+
+msgctxt "22502"
+msgid "飲みすぎだな　お前"
+msgstr ""
+
+msgctxt "22521"
+msgid "いい加減だなぁ"
+msgstr ""
+
+msgctxt "22536"
+msgid "この後　仕事？"
+msgstr ""
+
+msgctxt "22551"
+msgid "お互い年とったねー"
+msgstr ""
+
+msgctxt "22570"
+msgid "あれが楽しみなんですわ"
+msgstr ""
+
+msgctxt "22593"
+msgid "大丈夫でした？"
+msgstr ""
+
+msgctxt "22608"
+msgid "勘弁してくださいよ"
+msgstr ""
+
+msgctxt "22627"
+msgid "おまえ　バカだなぁ～"
+msgstr ""
+
+msgctxt "22648"
+msgid "そうは言ってもねぇ"
+msgstr ""
+
+msgctxt "22667"
+msgid "最近　はやってるんですよ"
+msgstr ""
+
+msgctxt "22692"
+msgid "へぇ　じゃぁしばらく寂しねぇ"
+msgstr ""
+
+msgctxt "22721"
+msgid "もう頑張るしかないな"
+msgstr ""
+
+msgctxt "22742"
+msgid "お久しぶりです"
+msgstr ""
+
+msgctxt "22757"
+msgid "最近面白いことあった？"
+msgstr ""
+
+msgctxt "22780"
+msgid "腹減った～"
+msgstr ""
+
+msgctxt "22791"
+msgid "それ好きだね～"
+msgstr ""
+
+msgctxt "22806"
+msgid "へーなるほどねー"
+msgstr ""
+
+msgctxt "22823"
+msgid "昨日飲みすぎたなぁ"
+msgstr ""
+
+msgctxt "22842"
+msgid "さっきの子　可愛かったなぁ"
+msgstr ""
+
+msgctxt "22869"
+msgid "はい　任せてください"
+msgstr ""
+
+msgctxt "22890"
+msgid "うん　それで？"
+msgstr ""
+
+msgctxt "22905"
+msgid "ハハハ！"
+msgstr ""
+
+msgctxt "22914"
+msgid "いやいや　本気だって"
+msgstr ""
+
+msgctxt "22935"
+msgid "またまたぁ"
+msgstr ""
+
+msgctxt "22946"
+msgid "いいねぇそれ！"
+msgstr ""
+
+msgctxt "22961"
+msgid "はぁ……ついてないなぁ"
+msgstr ""
+
+msgctxt "22984"
+msgid "あーまたすっちまった！"
+msgstr ""
+
+msgctxt "23007"
+msgid "奢ってくれるよな？"
+msgstr ""
+
+msgctxt "23026"
+msgid "あー調子わりぃ"
+msgstr ""
+
+msgctxt "23041"
+msgid "え　何だっけそれ?"
+msgstr ""
+
+msgctxt "23059"
+msgid "聞いてんのかよ　おい？"
+msgstr ""
+
+msgctxt "23082"
+msgid "あーゆーのグッとくるよな"
+msgstr ""
+
+msgctxt "23107"
+msgid "お世辞なのにさ―"
+msgstr ""
+
+msgctxt "23124"
+msgid "あれ　イカサマだろ？"
+msgstr ""
+
+msgctxt "23145"
+msgid "大丈夫　大丈夫！"
+msgstr ""
+
+msgctxt "23162"
+msgid "ねぇねぇ"
+msgstr ""
+
+msgctxt "23171"
+msgid "すごいわぁ！"
+msgstr ""
+
+msgctxt "23184"
+msgid "あれ　かわいい！"
+msgstr ""
+
+msgctxt "23201"
+msgid "はぁ……もうやだ"
+msgstr ""
+
+msgctxt "23218"
+msgid "そうですねぇ"
+msgstr ""
+
+msgctxt "23231"
+msgid "ふふふっ"
+msgstr ""
+
+msgctxt "23240"
+msgid "面白い話してよ～"
+msgstr ""
+
+msgctxt "23257"
+msgid "話聞いてくれてありがとう"
+msgstr ""
+
+msgctxt "23282"
+msgid "やーん　久しぶり～"
+msgstr ""
+
+msgctxt "23301"
+msgid "よかったねぇ！"
+msgstr ""
+
+msgctxt "23316"
+msgid "ちょっと待ってて"
+msgstr ""
+
+msgctxt "23333"
+msgid "ごちそうさまー"
+msgstr ""
+
+msgctxt "23348"
+msgid "あーわかるー"
+msgstr ""
+
+msgctxt "23361"
+msgid "もう　いじわるねぇ"
+msgstr ""
+
+msgctxt "23380"
+msgid "えぇ最近仲良くしてます"
+msgstr ""
+
+msgctxt "23403"
+msgid "あれいいよね"
+msgstr ""
+
+msgctxt "23416"
+msgid "そろそろ帰ろうよ"
+msgstr ""
+
+msgctxt "23433"
+msgid "それでどうしたの？"
+msgstr ""
+
+msgctxt "23452"
+msgid "そんな時もあるって"
+msgstr ""
+
+msgctxt "23471"
+msgid "今度遊びにおいでよ"
+msgstr ""
+
+msgctxt "23490"
+msgid "寂しがってたよー"
+msgstr ""
+
+msgctxt "23507"
+msgid "元気だった？"
+msgstr ""
+
+msgctxt "23520"
+msgid "もうーしょうがないなぁ"
+msgstr ""
+
+msgctxt "23543"
+msgid "買ってくるの忘れてたわ……"
+msgstr ""
+
+msgctxt "23570"
+msgid "また来ようね"
+msgstr ""
+
+msgctxt "23583"
+msgid "お腹すいたねー"
+msgstr ""
+
+msgctxt "23598"
+msgid "あれ　おいしそうだね"
+msgstr ""
+
+msgctxt "23619"
+msgid "それ似合うね"
+msgstr ""
+
+msgctxt "23632"
+msgid "そういうの困るね"
+msgstr ""
+
+msgctxt "23649"
+msgid "あはは　なにそれー"
+msgstr ""
+
+msgctxt "23668"
+msgid "ホンマに？"
+msgstr ""
+
+msgctxt "23679"
+msgid "またまた～"
+msgstr ""
+
+msgctxt "23690"
+msgid "おおきに"
+msgstr ""
+
+msgctxt "23699"
+msgid "ほな　行こか"
+msgstr ""
+
+msgctxt "23712"
+msgid "癒されるわ"
+msgstr ""
+
+msgctxt "23723"
+msgid "それや！"
+msgstr ""
+
+msgctxt "23732"
+msgid "陽気やなぁ"
+msgstr ""
+
+msgctxt "23743"
+msgid "繁盛してますなぁ"
+msgstr ""
+
+msgctxt "23760"
+msgid "良かったなぁ"
+msgstr ""
+
+msgctxt "23773"
+msgid "それ　どこで買うたん？"
+msgstr ""
+
+msgctxt "23796"
+msgid "そろそろ帰らな"
+msgstr ""
+
+msgctxt "23811"
+msgid "はぁ…"
+msgstr ""
+
+msgctxt "23818"
+msgid "ほな　また"
+msgstr ""
+
+msgctxt "23829"
+msgid "せやったんかぁ"
+msgstr ""
+
+msgctxt "23844"
+msgid "そうやなぁ"
+msgstr ""
+
+msgctxt "23855"
+msgid "せっかちやなぁ"
+msgstr ""
+
+msgctxt "23870"
+msgid "ふぅ"
+msgstr ""
+
+msgctxt "23875"
+msgid "少し休もか？"
+msgstr ""
+
+msgctxt "23888"
+msgid "ここで休んでいこか"
+msgstr ""
+
+msgctxt "23907"
+msgid "せわしないなぁ"
+msgstr ""
+
+msgctxt "23922"
+msgid "何か食べてこうや"
+msgstr ""
+
+msgctxt "23939"
+msgid "やかましいなぁ"
+msgstr ""
+
+msgctxt "23954"
+msgid "気ぃつけてな"
+msgstr ""
+
+msgctxt "23967"
+msgid "なんやて！"
+msgstr ""
+
+msgctxt "23978"
+msgid "ほな　これもらうわ"
+msgstr ""
+
+msgctxt "23997"
+msgid "えらいこっちゃ！"
+msgstr ""
+
+msgctxt "24014"
+msgid "はよせんかい！"
+msgstr ""
+
+msgctxt "24029"
+msgid "昔は良かったのう"
+msgstr ""
+
+msgctxt "24046"
+msgid "あははっ"
+msgstr ""
+
+msgctxt "24055"
+msgid "にぎやかやねぇ"
+msgstr ""
+
+msgctxt "24070"
+msgid "いややねぇ"
+msgstr ""
+
+msgctxt "24081"
+msgid "お世辞ばっかり"
+msgstr ""
+
+msgctxt "24096"
+msgid "お茶でも飲んでいきましょうか"
+msgstr ""
+
+msgctxt "24125"
+msgid "ほな　お先に"
+msgstr ""
+
+msgctxt "24138"
+msgid "そろそろやね"
+msgstr ""
+
+msgctxt "24151"
+msgid "ごめんください"
+msgstr ""
+
+msgctxt "24166"
+msgid "はれぼれする歌やったわぁ"
+msgstr ""
+
+msgctxt "24191"
+msgid "そうやねぇ"
+msgstr ""
+
+msgctxt "24202"
+msgid "もう一軒いきはる？"
+msgstr ""
+
+msgctxt "24221"
+msgid "一息つこか"
+msgstr ""
+
+msgctxt "24232"
+msgid "呆れてまうわ……"
+msgstr ""
+
+msgctxt "24249"
+msgid "それホンマですの？"
+msgstr ""
+
+msgctxt "24268"
+msgid "ええ湯やったねぇ"
+msgstr ""
+
+msgctxt "24285"
+msgid "ほんまやねぇ"
+msgstr ""
+
+msgctxt "24298"
+msgid "今日はおごったるわ！"
+msgstr ""
+
+msgctxt "24319"
+msgid "元気ええなぁ！"
+msgstr ""
+
+msgctxt "24334"
+msgid "めでたいなぁ！"
+msgstr ""
+
+msgctxt "24349"
+msgid "あっはっはっは！"
+msgstr ""
+
+msgctxt "24366"
+msgid "しゃーないなぁ"
+msgstr ""
+
+msgctxt "24381"
+msgid "酒でも飲んでこか"
+msgstr ""
+
+msgctxt "24398"
+msgid "ちょっと寄ってこか"
+msgstr ""
+
+msgctxt "24417"
+msgid "旨かったなぁ"
+msgstr ""
+
+msgctxt "24430"
+msgid "飯でも食うていこか"
+msgstr ""
+
+msgctxt "24449"
+msgid "この辺りか？"
+msgstr ""
+
+msgctxt "24462"
+msgid "どこや"
+msgstr ""
+
+msgctxt "24469"
+msgid "歌いにいこか"
+msgstr ""
+
+msgctxt "24482"
+msgid "ええ湯やったなぁ"
+msgstr ""
+
+msgctxt "24499"
+msgid "なんやねん"
+msgstr ""
+
+msgctxt "24510"
+msgid "やめときや"
+msgstr ""
+
+msgctxt "24521"
+msgid "もう一軒つきおうてや"
+msgstr ""
+
+msgctxt "24542"
+msgid "せやった？"
+msgstr ""
+
+msgctxt "24553"
+msgid "それ　ええやん"
+msgstr ""
+
+msgctxt "24568"
+msgid "土産でも買うてこか"
+msgstr ""
+
+msgctxt "24587"
+msgid "どないしたんや？"
+msgstr ""
+
+msgctxt "24604"
+msgid "もう一軒いこか！"
+msgstr ""
+
+msgctxt "24621"
+msgid "ええな！"
+msgstr ""
+
+msgctxt "24630"
+msgid "少し休もか？"
+msgstr ""
+
+msgctxt "24643"
+msgid "ここで休んでいこか"
+msgstr ""
+
+msgctxt "24662"
+msgid "せわしないなぁ"
+msgstr ""
+
+msgctxt "24677"
+msgid "何か食べてこうや"
+msgstr ""
+
+msgctxt "24694"
+msgid "やかましいなぁ"
+msgstr ""
+
+msgctxt "24709"
+msgid "気ぃつけてな"
+msgstr ""
+
+msgctxt "24722"
+msgid "なんやて！"
+msgstr ""
+
+msgctxt "24733"
+msgid "ほな　これもらうわ"
+msgstr ""
+
+msgctxt "24752"
+msgid "はよせんかい！"
+msgstr ""
+
+msgctxt "24767"
+msgid "ほんま楽しいなぁ"
+msgstr ""
+
+msgctxt "24784"
+msgid "楽しいなぁ"
+msgstr ""
+
+msgctxt "24795"
+msgid "少しくらいええやん"
+msgstr ""
+
+msgctxt "24814"
+msgid "ちょっとだけやん"
+msgstr ""
+
+msgctxt "24831"
+msgid "ほんま笑いが止まらんわ～"
+msgstr ""
+
+msgctxt "24856"
+msgid "困ったなぁ……"
+msgstr ""
+
+msgctxt "24871"
+msgid "今日は帰ろか"
+msgstr ""
+
+msgctxt "24884"
+msgid "ちょっと寄っていこかな"
+msgstr ""
+
+msgctxt "24907"
+msgid "嫁はんにしばかれるわ……"
+msgstr ""
+
+msgctxt "24932"
+msgid "それくらいええやん"
+msgstr ""
+
+msgctxt "24951"
+msgid "この店か？"
+msgstr ""
+
+msgctxt "24962"
+msgid "旨いもん食わしたんでぇ"
+msgstr ""
+
+msgctxt "24985"
+msgid "もう帰らんと"
+msgstr ""
+
+msgctxt "24998"
+msgid "ええ店知っとるで"
+msgstr ""
+
+msgctxt "25015"
+msgid "今度連れてってや"
+msgstr ""
+
+msgctxt "25032"
+msgid "どこの店やったかなぁ"
+msgstr ""
+
+msgctxt "25053"
+msgid "あそこの店はやめとき"
+msgstr ""
+
+msgctxt "25074"
+msgid "ん？　通りすぎたか？"
+msgstr ""
+
+msgctxt "25095"
+msgid "ええやないか"
+msgstr ""
+
+msgctxt "25108"
+msgid "少しだけやん"
+msgstr ""
+
+msgctxt "25121"
+msgid "今日は奢ったんで"
+msgstr ""
+
+msgctxt "25138"
+msgid "久しぶりやなぁ"
+msgstr ""
+
+msgctxt "25153"
+msgid "何か食っていこか？"
+msgstr ""
+
+msgctxt "25172"
+msgid "何か買うて帰ろうか"
+msgstr ""
+
+msgctxt "25191"
+msgid "あかん　財布忘れたわ……"
+msgstr ""
+
+msgctxt "25216"
+msgid "どないしたんや？"
+msgstr ""
+
+msgctxt "25233"
+msgid "おもろいなぁ"
+msgstr ""
+
+msgctxt "25246"
+msgid "気前ええなぁ"
+msgstr ""
+
+msgctxt "25259"
+msgid "まだ歩くんかい……"
+msgstr ""
+
+msgctxt "25278"
+msgid "世の中捨てたもんやないなぁ"
+msgstr ""
+
+msgctxt "25305"
+msgid "どこに行くんや"
+msgstr ""
+
+msgctxt "25320"
+msgid "なにごとや？"
+msgstr ""
+
+msgctxt "25333"
+msgid "ほな　行こか"
+msgstr ""
+
+msgctxt "25346"
+msgid "やめとけや"
+msgstr ""
+
+msgctxt "25357"
+msgid "ええ加減にせえよ"
+msgstr ""
+
+msgctxt "25374"
+msgid "おもんないなぁ"
+msgstr ""
+
+msgctxt "25389"
+msgid "寝ぼけとんのか!?"
+msgstr ""
+
+msgctxt "25406"
+msgid "何見とんねん"
+msgstr ""
+
+msgctxt "25419"
+msgid "おもろいことないかの"
+msgstr ""
+
+msgctxt "25440"
+msgid "そっちはどないな具合や？"
+msgstr ""
+
+msgctxt "25465"
+msgid "この辺で落としたはずなんや……"
+msgstr ""
+
+msgctxt "25496"
+msgid "ぼちぼちやわ"
+msgstr ""
+
+msgctxt "25509"
+msgid "ん？　財布拾ったで！"
+msgstr ""
+
+msgctxt "25530"
+msgid "どないせえっちゅうねん"
+msgstr ""
+
+msgctxt "25553"
+msgid "それおもろいやん！"
+msgstr ""
+
+msgctxt "25572"
+msgid "どないしてくれんねん"
+msgstr ""
+
+msgctxt "25593"
+msgid "何か景気ええ話ししてみい"
+msgstr ""
+
+msgctxt "25618"
+msgid "ここだけの話しやで"
+msgstr ""
+
+msgctxt "25637"
+msgid "なるほど　そうゆうことか"
+msgstr ""
+
+msgctxt "25662"
+msgid "どうしろっちゅーねん"
+msgstr ""
+
+msgctxt "25683"
+msgid "賭場でも行こか"
+msgstr ""
+
+msgctxt "25698"
+msgid "賭場で一稼ぎするか"
+msgstr ""
+
+msgctxt "25717"
+msgid "有り金全部すってもた……"
+msgstr ""
+
+msgctxt "25742"
+msgid "今日はぎょうさん稼いだわ"
+msgstr ""
+
+msgctxt "25767"
+msgid "お前の自慢話しは聞き飽きたわ"
+msgstr ""
+
+msgctxt "25796"
+msgid "まぁ聞けや"
+msgstr ""
+
+msgctxt "25807"
+msgid "おいおい　それほんまか？"
+msgstr ""
+
+msgctxt "25832"
+msgid "怪しいなぁ"
+msgstr ""
+
+msgctxt "25843"
+msgid "ウソやないで"
+msgstr ""
+
+msgctxt "25856"
+msgid "まぁ一杯飲もや"
+msgstr ""
+
+msgctxt "25871"
+msgid "俺の才能が花開いてきたでぇ"
+msgstr ""
+
+msgctxt "25898"
+msgid "お前らにはマネできひんやろ"
+msgstr ""
+
+msgctxt "25925"
+msgid "わしは天才や！"
+msgstr ""
+
+msgctxt "25940"
+msgid "景気ええ話しはないもんかのう"
+msgstr ""
+
+msgctxt "25969"
+msgid "京に来てずいぶん経つなぁ"
+msgstr ""
+
+msgctxt "25994"
+msgid "ここや　この店や！"
+msgstr ""
+
+msgctxt "26013"
+msgid "さすが京は違うなぁ"
+msgstr ""
+
+msgctxt "26032"
+msgid "活気があるなぁ"
+msgstr ""
+
+msgctxt "26047"
+msgid "ええ景色やな"
+msgstr ""
+
+msgctxt "26060"
+msgid "立派やなぁ"
+msgstr ""
+
+msgctxt "26071"
+msgid "いつか店出したいわ"
+msgstr ""
+
+msgctxt "26090"
+msgid "そういうことなんか!?"
+msgstr ""
+
+msgctxt "26111"
+msgid "その手があったな"
+msgstr ""
+
+msgctxt "26128"
+msgid "それや　それ！"
+msgstr ""
+
+msgctxt "26143"
+msgid "ちょっ　驚かすなや！"
+msgstr ""
+
+msgctxt "26164"
+msgid "さっぱりしたわ"
+msgstr ""
+
+msgctxt "26179"
+msgid "それはないんとちゃうか？"
+msgstr ""
+
+msgctxt "26204"
+msgid "どんだけ腹減ってんねん"
+msgstr ""
+
+msgctxt "26227"
+msgid "しゃーない　案内したるわ"
+msgstr ""
+
+msgctxt "26252"
+msgid "うちもこの辺に住みたいわ"
+msgstr ""
+
+msgctxt "26277"
+msgid "そんなええ話しがあるんやね"
+msgstr ""
+
+msgctxt "26304"
+msgid "ちょっと聞いてや"
+msgstr ""
+
+msgctxt "26321"
+msgid "まぁまぁやな"
+msgstr ""
+
+msgctxt "26334"
+msgid "あとで手伝ってや"
+msgstr ""
+
+msgctxt "26351"
+msgid "ほな　あとで行こうか"
+msgstr ""
+
+msgctxt "26372"
+msgid "あかん！　用事があったんやった！"
+msgstr ""
+
+msgctxt "26405"
+msgid "その店は絶品なんやで"
+msgstr ""
+
+msgctxt "26426"
+msgid "一緒に行くか？"
+msgstr ""
+
+msgctxt "26441"
+msgid "そないな話しがあるもんか"
+msgstr ""
+
+msgctxt "26466"
+msgid "いつか買うたるで"
+msgstr ""
+
+msgctxt "26483"
+msgid "ホンマに？"
+msgstr ""
+
+msgctxt "26494"
+msgid "またまた～"
+msgstr ""
+
+msgctxt "26505"
+msgid "おおきに"
+msgstr ""
+
+msgctxt "26514"
+msgid "ほな　行こか"
+msgstr ""
+
+msgctxt "26527"
+msgid "癒されるわ"
+msgstr ""
+
+msgctxt "26538"
+msgid "それや！"
+msgstr ""
+
+msgctxt "26547"
+msgid "陽気やなぁ"
+msgstr ""
+
+msgctxt "26558"
+msgid "繁盛してますなぁ"
+msgstr ""
+
+msgctxt "26575"
+msgid "良かったなぁ"
+msgstr ""
+
+msgctxt "26588"
+msgid "それ　どこで買うたん？"
+msgstr ""
+
+msgctxt "26611"
+msgid "そろそろ帰らな"
+msgstr ""
+
+msgctxt "26626"
+msgid "ほな　また"
+msgstr ""
+
+msgctxt "26637"
+msgid "せやったんかぁ"
+msgstr ""
+
+msgctxt "26652"
+msgid "そうやなぁ"
+msgstr ""
+
+msgctxt "26663"
+msgid "せっかちやなぁ"
+msgstr ""
+
+msgctxt "26678"
+msgid "ええやないですか"
+msgstr ""
+
+msgctxt "26695"
+msgid "それええねぇ"
+msgstr ""
+
+msgctxt "26708"
+msgid "いけずやなぁ"
+msgstr ""
+
+msgctxt "26721"
+msgid "明るいお人ですねぇ"
+msgstr ""
+
+msgctxt "26740"
+msgid "そうやねぇ"
+msgstr ""
+
+msgctxt "26751"
+msgid "縁起がええなぁ"
+msgstr ""
+
+msgctxt "26766"
+msgid "にぎやかな町やねぇ"
+msgstr ""
+
+msgctxt "26785"
+msgid "ええ天気やね"
+msgstr ""
+
+msgctxt "26798"
+msgid "景気ええねぇ"
+msgstr ""
+
+msgctxt "26811"
+msgid "あんたばっかりやん"
+msgstr ""
+
+msgctxt "26830"
+msgid "うちも買うて行こうかな"
+msgstr ""
+
+msgctxt "26853"
+msgid "感動したわ"
+msgstr ""
+
+msgctxt "26864"
+msgid "うちも欲しいわ"
+msgstr ""
+
+msgctxt "26879"
+msgid "いつもそうやん……"
+msgstr ""
+
+msgctxt "26898"
+msgid "これ　どうにかしてや"
+msgstr ""
+
+msgctxt "26919"
+msgid "はよ行かんと"
+msgstr ""
+
+msgctxt "26932"
+msgid "いややねぇ"
+msgstr ""
+
+msgctxt "26943"
+msgid "お世辞ばっかり"
+msgstr ""
+
+msgctxt "26958"
+msgid "お茶でも飲んでいきましょうか"
+msgstr ""
+
+msgctxt "26987"
+msgid "ほな　お先に"
+msgstr ""
+
+msgctxt "27000"
+msgid "そろそろやね"
+msgstr ""
+
+msgctxt "27013"
+msgid "ごめんください"
+msgstr ""
+
+msgctxt "27028"
+msgid "そうやねぇ"
+msgstr ""
+
+msgctxt "27039"
+msgid "もう一軒いきはる？"
+msgstr ""
+
+msgctxt "27058"
+msgid "一息つこか"
+msgstr ""
+
+msgctxt "27069"
+msgid "呆れてまうわ……"
+msgstr ""
+
+msgctxt "27086"
+msgid "それホンマですの？"
+msgstr ""
+
+msgctxt "27105"
+msgid "ええ湯やったねぇ"
+msgstr ""
+
+msgctxt "27122"
+msgid "ほんまやねぇ"
+msgstr ""
+
+msgctxt "27135"
+msgid "ほな　また今度"
+msgstr ""
+
+msgctxt "27150"
+msgid "さっきの店か？"
+msgstr ""
+
+msgctxt "27165"
+msgid "たまにはええですねぇ"
+msgstr ""
+
+msgctxt "27186"
+msgid "あとで落ち合おか"
+msgstr ""
+
+msgctxt "27203"
+msgid "さっさとしぃや"
+msgstr ""
+
+msgctxt "27218"
+msgid "そなあほな"
+msgstr ""
+
+msgctxt "27229"
+msgid "そないなこと言われても……"
+msgstr ""
+
+msgctxt "27256"
+msgid "そうしましょか"
+msgstr ""
+
+msgctxt "27271"
+msgid "あかん言うたやろうが"
+msgstr ""
+
+msgctxt "27292"
+msgid "この話しには続きがあるんやで"
+msgstr ""
+
+msgctxt "27321"
+msgid "うちもあんな家に住みたいわ"
+msgstr ""
+
+msgctxt "27348"
+msgid "えらい立派な建物やなぁ"
+msgstr ""
+
+msgctxt "27371"
+msgid "これ　最近買うたんよ"
+msgstr ""
+
+msgctxt "27392"
+msgid "優しいなぁ"
+msgstr ""
+
+msgctxt "27403"
+msgid "穏やかやなぁ"
+msgstr ""
+
+msgctxt "27416"
+msgid "落ち着くわ"
+msgstr ""
+
+msgctxt "27427"
+msgid "この道さっきも通らへんかったか？"
+msgstr ""
+
+msgctxt "27460"
+msgid "近道して行こか"
+msgstr ""
+
+msgctxt "27475"
+msgid "まさかとは思っとったけど"
+msgstr ""
+
+msgctxt "27500"
+msgid "やっと思い出したわ"
+msgstr ""
+
+msgctxt "27519"
+msgid "えらい綺麗な人やね"
+msgstr ""
+
+msgctxt "27538"
+msgid "ホンマに？"
+msgstr ""
+
+msgctxt "27549"
+msgid "またまた～"
+msgstr ""
+
+msgctxt "27560"
+msgid "おおきに"
+msgstr ""
+
+msgctxt "27569"
+msgid "ほな　行こか"
+msgstr ""
+
+msgctxt "27582"
+msgid "癒されるわ"
+msgstr ""
+
+msgctxt "27593"
+msgid "それや"
+msgstr ""
+
+msgctxt "27600"
+msgid "陽気やなぁ"
+msgstr ""
+
+msgctxt "27611"
+msgid "繁盛してますなぁ"
+msgstr ""
+
+msgctxt "27628"
+msgid "良かったなぁ"
+msgstr ""
+
+msgctxt "27641"
+msgid "それ　どこで買うたん？"
+msgstr ""
+
+msgctxt "27664"
+msgid "そろそろ帰らな"
+msgstr ""
+
+msgctxt "27679"
+msgid "はぁ…"
+msgstr ""
+
+msgctxt "27686"
+msgid "ほな　また"
+msgstr ""
+
+msgctxt "27697"
+msgid "せやったんかぁ"
+msgstr ""
+
+msgctxt "27712"
+msgid "そうやなぁ"
+msgstr ""
+
+msgctxt "27723"
+msgid "せっかちやなぁ"
+msgstr ""
+
+msgctxt "27738"
+msgid "せやな"
+msgstr ""
+
+msgctxt "27745"
+msgid "先に行ってんで！"
+msgstr ""
+
+msgctxt "27762"
+msgid "うちもまぜて"
+msgstr ""
+
+msgctxt "27775"
+msgid "遊びに行こうや！"
+msgstr ""
+
+msgctxt "27792"
+msgid "よっしゃ！"
+msgstr ""
+
+msgctxt "27803"
+msgid "まかしとき！"
+msgstr ""
+
+msgctxt "27816"
+msgid "はよしぃや"
+msgstr ""
+
+msgctxt "27827"
+msgid "ちょっと待ち～"
+msgstr ""
+
+msgctxt "27842"
+msgid "おなかすいたなぁ"
+msgstr ""
+
+msgctxt "27859"
+msgid "ウソとちゃうもん！"
+msgstr ""
+
+msgctxt "27878"
+msgid "いくでぇ"
+msgstr ""
+
+msgctxt "27887"
+msgid "ホンマやで"
+msgstr ""
+
+msgctxt "27898"
+msgid "なぁ"
+msgstr ""
+
+msgctxt "27903"
+msgid "まって～"
+msgstr ""
+
+msgctxt "27912"
+msgid "これ買うて～"
+msgstr ""
+
+msgctxt "27925"
+msgid "もう一回言うて"
+msgstr ""
+
+msgctxt "27940"
+msgid "そうなん？"
+msgstr ""
+
+msgctxt "27951"
+msgid "うちもいれてよ"
+msgstr ""
+
+msgctxt "27966"
+msgid "あれも欲しい～"
+msgstr ""
+
+msgctxt "27981"
+msgid "遊ばへん？"
+msgstr ""
+
+msgctxt "27992"
+msgid "あっち行こう"
+msgstr ""
+
+msgctxt "28005"
+msgid "少し休もうか？"
+msgstr ""
+
+msgctxt "28020"
+msgid "そうだなぁ"
+msgstr ""
+
+msgctxt "28031"
+msgid "じゃあ　行くか"
+msgstr ""
+
+msgctxt "28046"
+msgid "はははっ！"
+msgstr ""
+
+msgctxt "28057"
+msgid "あいつ　どこに行った？"
+msgstr ""
+
+msgctxt "28080"
+msgid "なんやねん"
+msgstr ""
+
+msgctxt "28091"
+msgid "やめとけ"
+msgstr ""
+
+msgctxt "28100"
+msgid "おいお前！　喧嘩売ってるんか！"
+msgstr ""
+
+msgctxt "28131"
+msgid "刀の手入れを怠るなよ"
+msgstr ""
+
+msgctxt "28152"
+msgid "ちょろいもんやでぇ"
+msgstr ""
+
+msgctxt "28171"
+msgid "斬りまくってやるぜ"
+msgstr ""
+
+msgctxt "28190"
+msgid "腹が減って仕方ないわ"
+msgstr ""
+
+msgctxt "28211"
+msgid "その態度はなんだ！"
+msgstr ""
+
+msgctxt "28230"
+msgid "文句あるんか！"
+msgstr ""
+
+msgctxt "28245"
+msgid "何こっち見てるんや！"
+msgstr ""
+
+msgctxt "28266"
+msgid "体がウズウズするわ"
+msgstr ""
+
+msgctxt "28285"
+msgid "もっと剣の腕を磨かなくては"
+msgstr ""
+
+msgctxt "28312"
+msgid "もっと腕の立つ奴と戦いたい"
+msgstr ""
+
+msgctxt "28339"
+msgid "体が鈍ってしまうわ"
+msgstr ""
+
+msgctxt "28358"
+msgid "気楽な奴らだ"
+msgstr ""
+
+msgctxt "28371"
+msgid "お前達　気が緩んでるぞ！"
+msgstr ""
+
+msgctxt "28396"
+msgid "あー　だるい……"
+msgstr ""
+
+msgctxt "28413"
+msgid "血が騒ぐな"
+msgstr ""
+
+msgctxt "28424"
+msgid "お前ら　気を抜くなよ"
+msgstr ""
+
+msgctxt "28445"
+msgid "剣の腕じゃ負ける気がしないわ"
+msgstr ""
+
+msgctxt "28474"
+msgid "今度俺と勝負しようや"
+msgstr ""
+
+msgctxt "28495"
+msgid "訓練なんて面倒くせぇ"
+msgstr ""
+
+msgctxt "28516"
+msgid "飯でも食うか"
+msgstr ""
+
+msgctxt "28529"
+msgid "近くに茶屋があったな"
+msgstr ""
+
+msgctxt "28550"
+msgid "ん？　用でもあんのか？"
+msgstr ""
+
+msgctxt "28573"
+msgid "まだまだだな"
+msgstr ""
+
+msgctxt "28586"
+msgid "馬鹿らしい"
+msgstr ""
+
+msgctxt "28597"
+msgid "屯所内で騒ぐな！"
+msgstr ""
+
+msgctxt "28614"
+msgid "気が滅入るわ……"
+msgstr ""
+
+msgctxt "28631"
+msgid "面倒だな"
+msgstr ""
+
+msgctxt "28640"
+msgid "賭場にでも行くか"
+msgstr ""
+
+msgctxt "28657"
+msgid "お前　酒を隠し持ってるだろ！"
+msgstr ""
+
+msgctxt "28686"
+msgid "グズグズするな！"
+msgstr ""
+
+msgctxt "28703"
+msgid "馬鹿者が！"
+msgstr ""
+
+msgctxt "28714"
+msgid "くそっ　古傷が痛む……"
+msgstr ""
+
+msgctxt "28737"
+msgid "志は高く持て！"
+msgstr ""
+
+msgctxt "28752"
+msgid "馬鹿にしやがって！"
+msgstr ""
+
+msgctxt "28771"
+msgid "生意気なやつだ"
+msgstr ""
+
+msgctxt "28786"
+msgid "武士道？　古臭い事を"
+msgstr ""
+
+msgctxt "28807"
+msgid "飲みに行くか"
+msgstr ""
+
+msgctxt "28820"
+msgid "気楽なもんだな"
+msgstr ""
+
+msgctxt "28835"
+msgid "どけ　邪魔や"
+msgstr ""
+
+msgctxt "28848"
+msgid "俺は持ってる男や"
+msgstr ""
+
+msgctxt "28865"
+msgid "それは命令か？"
+msgstr ""
+
+msgctxt "28880"
+msgid "命令なら仕方ないな"
+msgstr ""
+
+msgctxt "28899"
+msgid "ん？　お前も飲むか？"
+msgstr ""
+
+msgctxt "28920"
+msgid "お前　故郷はどこだ？"
+msgstr ""
+
+msgctxt "28941"
+msgid "やかましいな"
+msgstr ""
+
+msgctxt "28954"
+msgid "休むとするか"
+msgstr ""
+
+msgctxt "28967"
+msgid "俺は剣の腕がからっきしで……"
+msgstr ""
+
+msgctxt "28996"
+msgid "故郷が懐かしいな"
+msgstr ""
+
+msgctxt "29013"
+msgid "早く切り上げて飯にするぞ"
+msgstr ""
+
+msgctxt "29038"
+msgid "真面目にやるだけ馬鹿らしい"
+msgstr ""
+
+msgctxt "29065"
+msgid "ん？　刃こぼれしてるぞ"
+msgstr ""
+
+msgctxt "29088"
+msgid "その程度の怪我で良かったな"
+msgstr ""
+
+msgctxt "29115"
+msgid "次は俺の番だな"
+msgstr ""
+
+msgctxt "29130"
+msgid "のどが渇いた　少し休むか"
+msgstr ""
+
+msgctxt "29155"
+msgid "疲れた……"
+msgstr ""
+
+msgctxt "29166"
+msgid "程々にしておけよ"
+msgstr ""
+
+msgctxt "29183"
+msgid "怪我の具合はどうだ？"
+msgstr ""
+
+msgctxt "29204"
+msgid "どないしたんや？"
+msgstr ""
+
+msgctxt "29221"
+msgid "どんなもんだ！"
+msgstr ""
+
+msgctxt "29236"
+msgid "ええ加減な事ぬかすな！"
+msgstr ""
+
+msgctxt "29259"
+msgid "頼む　黙っといてくれ……"
+msgstr ""
+
+msgctxt "29284"
+msgid "これは貸しやでぇ"
+msgstr ""
+
+msgctxt "29301"
+msgid "ここだけの話だぞ"
+msgstr ""
+
+msgctxt "29318"
+msgid "俺にも酒くれや"
+msgstr ""
+
+msgctxt "29333"
+msgid "さすがだな"
+msgstr ""
+
+msgctxt "29344"
+msgid "ちょっと相手をしてくれないか"
+msgstr ""
+
+msgctxt "29373"
+msgid "刀振り回したくて仕方ないわ"
+msgstr ""
+
+msgctxt "29400"
+msgid "どっちが強いか試してみるか？"
+msgstr ""
+
+msgctxt "29429"
+msgid "負けた方の奢りやで"
+msgstr ""
+
+msgctxt "29448"
+msgid "どうなってんだ"
+msgstr ""
+
+msgctxt "29463"
+msgid "酒が飲みたいぜ"
+msgstr ""
+
+msgctxt "29478"
+msgid "小賢しい！"
+msgstr ""
+
+msgctxt "29489"
+msgid "上手く立ち振るまう事も重要だぜ"
+msgstr ""
+
+msgctxt "29520"
+msgid "見せ掛けだけだろ"
+msgstr ""
+
+msgctxt "29537"
+msgid "ん？　見ない顔だな"
+msgstr ""
+
+msgctxt "29556"
+msgid "新入りか？"
+msgstr ""
+
+msgctxt "29567"
+msgid "そこ退けや　わしの場所や"
+msgstr ""
+
+msgctxt "29592"
+msgid "腕が鈍ってしまうぜ"
+msgstr ""
+
+msgctxt "29611"
+msgid "掃除頼まれてたんだった……"
+msgstr ""
+
+msgctxt "29638"
+msgid "刀を振りとうてしゃーないわ"
+msgstr ""
+
+msgctxt "29665"
+msgid "お前ら！　見苦しいぞ！"
+msgstr ""
+
+msgctxt "29688"
+msgid "実戦ではこうはいかんぞ！"
+msgstr ""
+
+msgctxt "29713"
+msgid "これが訓練で良かったな"
+msgstr ""
+
+msgctxt "29736"
+msgid "訓練あるのみ"
+msgstr ""
+
+msgctxt "29749"
+msgid "よし　そろそろ始めるか"
+msgstr ""
+
+msgctxt "29772"
+msgid "手加減は無しだぞ"
+msgstr ""
+
+msgctxt "29789"
+msgid "もう一本！"
+msgstr ""
+
+msgctxt "29800"
+msgid "……"
+msgstr ""
+
+msgctxt "29805"
+msgid "あぁ……"
+msgstr ""
+
+msgctxt "29814"
+msgid "はぁ……"
+msgstr ""
+
+msgctxt "29823"
+msgid "うぅ……"
+msgstr ""
+
+msgctxt "29832"
+msgid "腹減った……"
+msgstr ""
+
+msgctxt "29845"
+msgid "金目のもん落ちてへんか……"
+msgstr ""
+
+msgctxt "29872"
+msgid "苦しいなぁ……"
+msgstr ""
+
+msgctxt "29887"
+msgid "近寄んなや！"
+msgstr ""
+
+msgctxt "29900"
+msgid "わしにも酒くれや……"
+msgstr ""
+
+msgctxt "29921"
+msgid "また負けた……"
+msgstr ""
+
+msgctxt "29936"
+msgid "負け続きや……"
+msgstr ""
+
+msgctxt "29951"
+msgid "もうアカン……"
+msgstr ""
+
+msgctxt "29966"
+msgid "俺は悪ない……"
+msgstr ""
+
+msgctxt "29981"
+msgid "お前らのせいや！"
+msgstr ""
+
+msgctxt "29998"
+msgid "ん？　ゴミか……"
+msgstr ""
+
+msgctxt "30015"
+msgid "金なくなってもうた……"
+msgstr ""
+
+msgctxt "30038"
+msgid "ふざけよって……"
+msgstr ""
+
+msgctxt "30055"
+msgid "裏切られた！"
+msgstr ""
+
+msgctxt "30068"
+msgid "どないなっとんねん！"
+msgstr ""
+
+msgctxt "30089"
+msgid "酒でも飲みに行こうか"
+msgstr ""
+
+msgctxt "30110"
+msgid "もうどうにでもなれ……"
+msgstr ""
+
+msgctxt "30133"
+msgid "もう終わりや……"
+msgstr ""
+
+msgctxt "30150"
+msgid "気分　悪いわ……"
+msgstr ""
+
+msgctxt "30167"
+msgid "こないなことになるなんて……"
+msgstr ""
+
+msgctxt "30196"
+msgid "もうどうでもええわ……"
+msgstr ""
+
+msgctxt "30219"
+msgid "酒くれぇ……"
+msgstr ""
+
+msgctxt "30232"
+msgid "酒わけてくれぇ……"
+msgstr ""
+
+msgctxt "30251"
+msgid "やり返すしかないな！"
+msgstr ""
+
+msgctxt "30272"
+msgid "どないしよう……"
+msgstr ""
+
+msgctxt "30289"
+msgid "責任とれや！"
+msgstr ""
+
+msgctxt "30302"
+msgid "一文無しになってもうた……"
+msgstr ""
+
+msgctxt "30329"
+msgid "もう終いや……"
+msgstr ""
+
+msgctxt "30344"
+msgid "なに見とんねん！"
+msgstr ""
+
+msgctxt "30361"
+msgid "あっち行けや！"
+msgstr ""
+
+msgctxt "30376"
+msgid "どないしよう……"
+msgstr ""
+
+msgctxt "30393"
+msgid "どないしてくれんねん！"
+msgstr ""
+
+msgctxt "30416"
+msgid "これ腐っとるやん！"
+msgstr ""
+
+msgctxt "30435"
+msgid "なに寝てんのや！"
+msgstr ""
+
+msgctxt "30452"
+msgid "なめとんのか！"
+msgstr ""
+
+msgctxt "30467"
+msgid "こんなもん食えるか！"
+msgstr ""
+
+msgctxt "30488"
+msgid "お前誰や？"
+msgstr ""
+
+msgctxt "30499"
+msgid "どないしたらええんや……"
+msgstr ""
+
+msgctxt "30524"
+msgid "どうにでもなってまえ！"
+msgstr ""
+
+msgctxt "30547"
+msgid "あぁ明日が見えへん……"
+msgstr ""
+
+msgctxt "30570"
+msgid "どうにかなってまうわ……"
+msgstr ""
+
+msgctxt "30595"
+msgid "金あったらなぁ……"
+msgstr ""
+
+msgctxt "30614"
+msgid "金拾った！"
+msgstr ""
+
+msgctxt "30625"
+msgid "ふざけんな！"
+msgstr ""
+
+msgctxt "30638"
+msgid "どうしろっちゅうねん"
+msgstr ""
+
+msgctxt "30659"
+msgid "消えろや！"
+msgstr ""
+
+msgctxt "30670"
+msgid "またお前か！"
+msgstr ""
+
+msgctxt "30683"
+msgid "昨日からなんも食ってへん……"
+msgstr ""
+
+msgctxt "30712"
+msgid "知るか！"
+msgstr ""
+
+msgctxt "30721"
+msgid "クソが！"
+msgstr ""
+
+msgctxt "30730"
+msgid "いつもこうや……"
+msgstr ""
+
+msgctxt "30747"
+msgid "あっちいけや！"
+msgstr ""
+
+msgctxt "30762"
+msgid "ん？　なんや石か……"
+msgstr ""
+
+msgctxt "30783"
+msgid "酒欲しいねん～！"
+msgstr ""
+
+msgctxt "30800"
+msgid "酒くれ！"
+msgstr ""
+
+msgctxt "30809"
+msgid "せやから酒出せ！"
+msgstr ""
+
+msgctxt "30826"
+msgid "あほんだらが！"
+msgstr ""
+
+msgctxt "30841"
+msgid "あ～　眠い……"
+msgstr ""
+
+msgctxt "30856"
+msgid "殴らんといて……"
+msgstr ""
+
+msgctxt "30873"
+msgid "気持ち悪う……"
+msgstr ""
+
+msgctxt "30888"
+msgid "あ～　損した……　"
+msgstr ""
+
+msgctxt "30907"
+msgid "金は裏切らんなぁ"
+msgstr ""
+
+msgctxt "30924"
+msgid "ボッタくられたで……"
+msgstr ""
+
+msgctxt "30945"
+msgid "堪忍してや……"
+msgstr ""
+
+msgctxt "30960"
+msgid "その酒よこせや"
+msgstr ""
+
+msgctxt "30975"
+msgid "今日は負けや……"
+msgstr ""
+
+msgctxt "30992"
+msgid "運にも見放されてもうた……"
+msgstr ""
+
+msgctxt "31019"
+msgid "明日からどないしよう……"
+msgstr ""
+
+msgctxt "31044"
+msgid "まともな奴はおらんのか！"
+msgstr ""
+
+msgctxt "31069"
+msgid "まだや　まだ負けてへん……"
+msgstr ""
+
+msgctxt "31096"
+msgid "これで最後や……"
+msgstr ""
+
+msgctxt "31113"
+msgid "退屈や……"
+msgstr ""
+
+msgctxt "31124"
+msgid "愚痴しかでえへん"
+msgstr ""
+
+msgctxt "31141"
+msgid "なんや？　文句あんのか？"
+msgstr ""
+
+msgctxt "31166"
+msgid "金盗まれてもうた……"
+msgstr ""
+
+msgctxt "31187"
+msgid "誰が盗んだんや！"
+msgstr ""
+
+msgctxt "31204"
+msgid "ボロボロやないかい！"
+msgstr ""
+
+msgctxt "31225"
+msgid "昔は名の知れた侍やってんで"
+msgstr ""
+
+msgctxt "31252"
+msgid "頭　痛いわ……"
+msgstr ""
+
+msgctxt "31267"
+msgid "金使い過ぎた……"
+msgstr ""
+
+msgctxt "31284"
+msgid "あんな掛けるんやなかった……"
+msgstr ""
+
+msgctxt "31313"
+msgid "俺の時間返せや！"
+msgstr ""
+
+msgctxt "31330"
+msgid "俺の金返せや！"
+msgstr ""
+
+msgctxt "31345"
+msgid "なんも言い返せへんのか!?"
+msgstr ""
+
+msgctxt "31370"
+msgid "笑わせるわ"
+msgstr ""
+
+msgctxt "31381"
+msgid "ちょっと金貸せや"
+msgstr ""
+
+msgctxt "31398"
+msgid "誰に向かって言うとんねん！"
+msgstr ""
+
+msgctxt "31425"
+msgid "喧嘩はやめとけや"
+msgstr ""
+
+msgctxt "31442"
+msgid "お前も来いや"
+msgstr ""
+
+msgctxt "31455"
+msgid "一発逆転やで！"
+msgstr ""
+
+msgctxt "31470"
+msgid "ここにあった酒どこいった!?"
+msgstr ""
+
+msgctxt "31497"
+msgid "またやられた！"
+msgstr ""
+
+msgctxt "31512"
+msgid "しもた！"
+msgstr ""
+
+msgctxt "31521"
+msgid "ふぅ"
+msgstr ""
+
+msgctxt "31526"
+msgid "気前ええなぁ"
+msgstr ""
+
+msgctxt "31539"
+msgid "まだ歩くんかい……"
+msgstr ""
+
+msgctxt "31558"
+msgid "世の中捨てたもんやないなぁ"
+msgstr ""
+
+msgctxt "31585"
+msgid "えらいこっちゃ！"
+msgstr ""
+
+msgctxt "31602"
+msgid "どこに行くんや！"
+msgstr ""
+
+msgctxt "31619"
+msgid "なにごとや？"
+msgstr ""
+
+msgctxt "31632"
+msgid "少し休もうか？"
+msgstr ""
+
+msgctxt "31647"
+msgid "そうやなぁ"
+msgstr ""
+
+msgctxt "31658"
+msgid "ほな　行こか"
+msgstr ""
+
+msgctxt "31671"
+msgid "どこや"
+msgstr ""
+
+msgctxt "31678"
+msgid "なめとるんか！"
+msgstr ""
+
+msgctxt "31693"
+msgid "なんやねん"
+msgstr ""
+
+msgctxt "31704"
+msgid "やめとけや"
+msgstr ""
+
+msgctxt "31715"
+msgid "ええ加減にせえよ！"
+msgstr ""
+
+msgctxt "31734"
+msgid "おもろいなぁ"
+msgstr ""
+
+msgctxt "31747"
+msgid "おもんないなぁ"
+msgstr ""
+
+msgctxt "31762"
+msgid "喧嘩売ってんか!?"
+msgstr ""
+
+msgctxt "31779"
+msgid "じゃまや！"
+msgstr ""
+
+msgctxt "31790"
+msgid "どけや！"
+msgstr ""
+
+msgctxt "31799"
+msgid "ボケが！"
+msgstr ""
+
+msgctxt "31808"
+msgid "ふざけるなや！"
+msgstr ""
+
+msgctxt "31823"
+msgid "寝ぼけとんのか!?"
+msgstr ""
+
+msgctxt "31840"
+msgid "金も仕事ものうなったわ……"
+msgstr ""
+
+msgctxt "31867"
+msgid "もっと酒持ってこんかい！"
+msgstr ""
+
+msgctxt "31892"
+msgid "はよせんかい！"
+msgstr ""
+
+msgctxt "31907"
+msgid "何見とんねん！"
+msgstr ""
+
+msgctxt "31922"
+msgid "やっぱり酒は旨いのう"
+msgstr ""
+
+msgctxt "31943"
+msgid "おもろいことないかのう"
+msgstr ""
+
+msgctxt "31966"
+msgid "仕事探さな……"
+msgstr ""
+
+msgctxt "31981"
+msgid "財布すられた！"
+msgstr ""
+
+msgctxt "31996"
+msgid "お？　喧嘩か？"
+msgstr ""
+
+msgctxt "32011"
+msgid "はよう酒持ってこんかい！"
+msgstr ""
+
+msgctxt "32036"
+msgid "やかましい！"
+msgstr ""
+
+msgctxt "32049"
+msgid "忙しくてたまらんわ"
+msgstr ""
+
+msgctxt "32068"
+msgid "しゃーないなぁ"
+msgstr ""
+
+msgctxt "32083"
+msgid "そっちはどないな具合や？"
+msgstr ""
+
+msgctxt "32108"
+msgid "この辺で落としたはずなんや……"
+msgstr ""
+
+msgctxt "32139"
+msgid "ぼちぼちやわ"
+msgstr ""
+
+msgctxt "32152"
+msgid "ん？　財布拾ったで！"
+msgstr ""
+
+msgctxt "32173"
+msgid "俺によこせや！"
+msgstr ""
+
+msgctxt "32188"
+msgid "最悪や……"
+msgstr ""
+
+msgctxt "32199"
+msgid "どないせーちゅうねん"
+msgstr ""
+
+msgctxt "32220"
+msgid "それおもろいやん！"
+msgstr ""
+
+msgctxt "32239"
+msgid "金落ちてへんかなぁ"
+msgstr ""
+
+msgctxt "32258"
+msgid "どないしてくれんねん！"
+msgstr ""
+
+msgctxt "32281"
+msgid "お前も一杯付き合えや"
+msgstr ""
+
+msgctxt "32302"
+msgid "一杯だけ言うとるやろ！"
+msgstr ""
+
+msgctxt "32325"
+msgid "昔は良かったのう"
+msgstr ""
+
+msgctxt "32342"
+msgid "ん？　文句あるんかい！"
+msgstr ""
+
+msgctxt "32365"
+msgid "酒が不味くなるわ！"
+msgstr ""
+
+msgctxt "32384"
+msgid "何か景気ええ話ししてみい"
+msgstr ""
+
+msgctxt "32409"
+msgid "俺と一稼ぎせえへんか？"
+msgstr ""
+
+msgctxt "32432"
+msgid "へへ　上手い話しがあるんやで"
+msgstr ""
+
+msgctxt "32461"
+msgid "儲かる話しやで"
+msgstr ""
+
+msgctxt "32476"
+msgid "せこいこと言うなや"
+msgstr ""
+
+msgctxt "32495"
+msgid "なんやバカにしとんのか？"
+msgstr ""
+
+msgctxt "32520"
+msgid "ちょろいもんやで"
+msgstr ""
+
+msgctxt "32537"
+msgid "今にみとけや"
+msgstr ""
+
+msgctxt "32550"
+msgid "怪しいなぁ"
+msgstr ""
+
+msgctxt "32561"
+msgid "ここだけの話しやで"
+msgstr ""
+
+msgctxt "32580"
+msgid "なるほど　そういうことか"
+msgstr ""
+
+msgctxt "32605"
+msgid "その話し　乗ったる！"
+msgstr ""
+
+msgctxt "32626"
+msgid "騙された……"
+msgstr ""
+
+msgctxt "32639"
+msgid "騙されるお前がアホなんや"
+msgstr ""
+
+msgctxt "32664"
+msgid "どうしろっちゅーねん"
+msgstr ""
+
+msgctxt "32685"
+msgid "もっと上手い話しがあるで"
+msgstr ""
+
+msgctxt "32710"
+msgid "ほんまか!?"
+msgstr ""
+
+msgctxt "32721"
+msgid "稼ぐでぇ！"
+msgstr ""
+
+msgctxt "32732"
+msgid "世の中金が全てや"
+msgstr ""
+
+msgctxt "32749"
+msgid "賭場でも行こうか"
+msgstr ""
+
+msgctxt "32766"
+msgid "賭場で一稼ぎするか"
+msgstr ""
+
+msgctxt "32785"
+msgid "有り金全部すってもうた……"
+msgstr ""
+
+msgctxt "32812"
+msgid "今日はぎょうさん稼いだわ！"
+msgstr ""
+
+msgctxt "32839"
+msgid "お前の自慢話しは聞き飽きたわ"
+msgstr ""
+
+msgctxt "32868"
+msgid "まぁ聞けや"
+msgstr ""
+
+msgctxt "32879"
+msgid "おいおい　それほんまか？"
+msgstr ""
+
+msgctxt "32904"
+msgid "怪しいなぁ"
+msgstr ""
+
+msgctxt "32915"
+msgid "ウソやないで"
+msgstr ""
+
+msgctxt "32928"
+msgid "まぁ一杯飲もうや"
+msgstr ""
+
+msgctxt "32945"
+msgid "俺の才能が花開いてきたでぇ"
+msgstr ""
+
+msgctxt "32972"
+msgid "お前らにはマネできへんやろ"
+msgstr ""
+
+msgctxt "32999"
+msgid "わしは天才じゃ！"
+msgstr ""
+
+msgctxt "33016"
+msgid "ん？　夢か……"
+msgstr ""
+
+msgctxt "33031"
+msgid "貧乏人は近づくなや！"
+msgstr ""
+
+msgctxt "33052"
+msgid "景気ええ話しはないもんかのう"
+msgstr ""
+
+msgctxt "33081"
+msgid "ホンマですか？"
+msgstr ""
+
+msgctxt "33096"
+msgid "落ち着くなぁ"
+msgstr ""
+
+msgctxt "33109"
+msgid "ふぅ"
+msgstr ""
+
+msgctxt "33114"
+msgid "どこに行こうか"
+msgstr ""
+
+msgctxt "33129"
+msgid "飯を食べに出よか"
+msgstr ""
+
+msgctxt "33146"
+msgid "少し休もうか？"
+msgstr ""
+
+msgctxt "33161"
+msgid "そうやなぁ"
+msgstr ""
+
+msgctxt "33172"
+msgid "あははっ"
+msgstr ""
+
+msgctxt "33181"
+msgid "お世辞ばっかり"
+msgstr ""
+
+msgctxt "33196"
+msgid "よく眠れたわ"
+msgstr ""
+
+msgctxt "33209"
+msgid "そうねぇ"
+msgstr ""
+
+msgctxt "33218"
+msgid "ほな　行こか"
+msgstr ""
+
+msgctxt "33231"
+msgid "あっはっはっは！"
+msgstr ""
+
+msgctxt "33248"
+msgid "どこや"
+msgstr ""
+
+msgctxt "33255"
+msgid "飯でも食いに行こうか"
+msgstr ""
+
+msgctxt "33276"
+msgid "どこに出掛けようか"
+msgstr ""
+
+msgctxt "33295"
+msgid "どうしようか？"
+msgstr ""
+
+msgctxt "33310"
+msgid "よく眠れたわ"
+msgstr ""
+
+msgctxt "33323"
+msgid "土産でも買うていこうか"
+msgstr ""
+
+msgctxt "33346"
+msgid "どうしたんや？"
+msgstr ""
+
+msgctxt "33361"
+msgid "なんやねん"
+msgstr ""
+
+msgctxt "33372"
+msgid "やめとけや"
+msgstr ""
+
+msgctxt "33383"
+msgid "ええやないですか"
+msgstr ""
+
+msgctxt "33400"
+msgid "ええ町やねえ"
+msgstr ""
+
+msgctxt "33413"
+msgid "どないしました？"
+msgstr ""
+
+msgctxt "33430"
+msgid "何かあったん？"
+msgstr ""
+
+msgctxt "33445"
+msgid "はようせんと"
+msgstr ""
+
+msgctxt "33458"
+msgid "どうします？"
+msgstr ""
+
+msgctxt "33471"
+msgid "良かった"
+msgstr ""
+
+msgctxt "33480"
+msgid "そろそろ帰らな"
+msgstr ""
+
+msgctxt "33495"
+msgid "はよ行かんと"
+msgstr ""
+
+msgctxt "33508"
+msgid "はぁ…"
+msgstr ""
+
+msgctxt "33515"
+msgid "せやな"
+msgstr ""
+
+msgctxt "33522"
+msgid "あっちに犬おったで"
+msgstr ""
+
+msgctxt "33541"
+msgid "追いかけてみようや！"
+msgstr ""
+
+msgctxt "33562"
+msgid "遅いで～"
+msgstr ""
+
+msgctxt "33571"
+msgid "どこ行くんー"
+msgstr ""
+
+msgctxt "33584"
+msgid "はよ行くでー"
+msgstr ""
+
+msgctxt "33597"
+msgid "ホンマやで"
+msgstr ""
+
+msgctxt "33608"
+msgid "なぁ"
+msgstr ""
+
+msgctxt "33613"
+msgid "もう一回言うて"
+msgstr ""
+
+msgctxt "33628"
+msgid "はよ行こ"
+msgstr ""
+
+msgctxt "33637"
+msgid "どないしたん？"
+msgstr ""
+
+msgctxt "33652"
+msgid "行かへんの？"
+msgstr ""
+
+msgctxt "33665"
+msgid "どうもどうも"
+msgstr ""
+
+msgctxt "33678"
+msgid "ふぅ"
+msgstr ""
+
+msgctxt "33683"
+msgid "へぇ大変やのう"
+msgstr ""
+
+msgctxt "33698"
+msgid "ふふふっ"
+msgstr ""
+
+msgctxt "33707"
+msgid "あれえいでね"
+msgstr ""
+
+msgctxt "33720"
+msgid "ここながやけんど"
+msgstr ""
+
+msgctxt "33737"
+msgid "ちっくと見て行ってかまん？"
+msgstr ""
+
+msgctxt "33764"
+msgid "ふざけんなや"
+msgstr ""
+
+msgctxt "33777"
+msgid "やめちょきって"
+msgstr ""
+
+msgctxt "33792"
+msgid "いろいろすまんねゃ"
+msgstr ""
+
+msgctxt "33811"
+msgid "自信持ちや"
+msgstr ""
+
+msgctxt "33822"
+msgid "また喧嘩？"
+msgstr ""
+
+msgctxt "33833"
+msgid "今日はついちょったねゃ～"
+msgstr ""
+
+msgctxt "33858"
+msgid "ごちそうさまです！"
+msgstr ""
+
+msgctxt "33877"
+msgid "まぁええやん"
+msgstr ""
+
+msgctxt "33890"
+msgid "いやーたまらんちや"
+msgstr ""
+
+msgctxt "33909"
+msgid "すまん　忘れちょった"
+msgstr ""
+
+msgctxt "33930"
+msgid "前に会うた時はよぅ……"
+msgstr ""
+
+msgctxt "33953"
+msgid "今度　もう一回勝負せぇやー"
+msgstr ""
+
+msgctxt "33980"
+msgid "へぇ大変やのう"
+msgstr ""
+
+msgctxt "33995"
+msgid "暇やのう"
+msgstr ""
+
+msgctxt "34004"
+msgid "あぁ　奉行へ出したがよ"
+msgstr ""
+
+msgctxt "34027"
+msgid "それ　お前の悪いクセぜよ"
+msgstr ""
+
+msgctxt "34052"
+msgid "まだ若いがやに……"
+msgstr ""
+
+msgctxt "34071"
+msgid "いやーまいった"
+msgstr ""
+
+msgctxt "34086"
+msgid "取り返せると思うたがやけどのぅ"
+msgstr ""
+
+msgctxt "34117"
+msgid "ここで食うてくか……"
+msgstr ""
+
+msgctxt "34138"
+msgid "細かい事気にすんなや"
+msgstr ""
+
+msgctxt "34159"
+msgid "飲みすぎちや　お前"
+msgstr ""
+
+msgctxt "34178"
+msgid "いい加減やのぅ"
+msgstr ""
+
+msgctxt "34193"
+msgid "お互い年くうたのぅ"
+msgstr ""
+
+msgctxt "34212"
+msgid "あれが楽しみながやき"
+msgstr ""
+
+msgctxt "34233"
+msgid "大丈夫やった？"
+msgstr ""
+
+msgctxt "34248"
+msgid "勘弁してつかあさい"
+msgstr ""
+
+msgctxt "34267"
+msgid "おまん　バカやねゃ～"
+msgstr ""
+
+msgctxt "34288"
+msgid "そうは言うたちねゃ"
+msgstr ""
+
+msgctxt "34307"
+msgid "最近　はやっちゅうがよ"
+msgstr ""
+
+msgctxt "34330"
+msgid "ほんならいっとき寂しいねゃ"
+msgstr ""
+
+msgctxt "34357"
+msgid "もう頑張るしかないねゃ"
+msgstr ""
+
+msgctxt "34380"
+msgid "久しぶりやにゃ"
+msgstr ""
+
+msgctxt "34395"
+msgid "最近面白いことあったかえ？"
+msgstr ""
+
+msgctxt "34422"
+msgid "腹減った～"
+msgstr ""
+
+msgctxt "34433"
+msgid "それ好きやねゃ～"
+msgstr ""
+
+msgctxt "34450"
+msgid "へーそうやったがやー"
+msgstr ""
+
+msgctxt "34471"
+msgid "昨日飲みすぎたねゃぁ"
+msgstr ""
+
+msgctxt "34492"
+msgid "さっきの子　可愛かったねゃぁ"
+msgstr ""
+
+msgctxt "34521"
+msgid "はい　任せちょいて"
+msgstr ""
+
+msgctxt "34540"
+msgid "うん　ほいで？"
+msgstr ""
+
+msgctxt "34555"
+msgid "いやいや　本気やき"
+msgstr ""
+
+msgctxt "34574"
+msgid "またまたぁ"
+msgstr ""
+
+msgctxt "34585"
+msgid "えいにゃあそれ！"
+msgstr ""
+
+msgctxt "34602"
+msgid "はぁ……ついちゃあせんねゃぁ"
+msgstr ""
+
+msgctxt "34631"
+msgid "奢ってくれるでね？"
+msgstr ""
+
+msgctxt "34650"
+msgid "えっ　何やっけそれ?"
+msgstr ""
+
+msgctxt "34670"
+msgid "聞きゆうがかや　おい？"
+msgstr ""
+
+msgctxt "34693"
+msgid "お世辞やのによー"
+msgstr ""
+
+msgctxt "34710"
+msgid "大丈夫　大丈夫！"
+msgstr ""
+
+msgctxt "34727"
+msgid "ねぇねぇ"
+msgstr ""
+
+msgctxt "34736"
+msgid "すごいわぁ！"
+msgstr ""
+
+msgctxt "34749"
+msgid "あれ　かわいい！"
+msgstr ""
+
+msgctxt "34766"
+msgid "はぁ……もういやちや"
+msgstr ""
+
+msgctxt "34787"
+msgid "そうやねぇ"
+msgstr ""
+
+msgctxt "34798"
+msgid "ふふふっ"
+msgstr ""
+
+msgctxt "34807"
+msgid "面白い話してや～"
+msgstr ""
+
+msgctxt "34824"
+msgid "話聞いてくれておおきに"
+msgstr ""
+
+msgctxt "34847"
+msgid "よかったねぇ！"
+msgstr ""
+
+msgctxt "34862"
+msgid "ちょっと待っちょって"
+msgstr ""
+
+msgctxt "34883"
+msgid "もう　いじわるいがやきぃ"
+msgstr ""
+
+msgctxt "34908"
+msgid "えぇ最近仲良うやりゆうき"
+msgstr ""
+
+msgctxt "34933"
+msgid "あれえいでね"
+msgstr ""
+
+msgctxt "34946"
+msgid "ぼちぼち帰ろうや"
+msgstr ""
+
+msgctxt "34963"
+msgid "それでどうしたが？"
+msgstr ""
+
+msgctxt "34982"
+msgid "そんな時もあるちや"
+msgstr ""
+
+msgctxt "35001"
+msgid "今度遊びぃきぃや"
+msgstr ""
+
+msgctxt "35018"
+msgid "寂しがっちょったでー"
+msgstr ""
+
+msgctxt "35039"
+msgid "元気やった？"
+msgstr ""
+
+msgctxt "35052"
+msgid "もうーしょうがないねぇ"
+msgstr ""
+
+msgctxt "35075"
+msgid "買うてくるがわすれちょったちや…"
+msgstr ""
+
+msgctxt "35108"
+msgid "また来ようね"
+msgstr ""
+
+msgctxt "35121"
+msgid "お腹すいたちやー"
+msgstr ""
+
+msgctxt "35138"
+msgid "あれ　おいしそうちや"
+msgstr ""
+
+msgctxt "35159"
+msgid "それ似合うちゅうね"
+msgstr ""
+
+msgctxt "35178"
+msgid "そういうが困るちや"
+msgstr ""
+
+msgctxt "35197"
+msgid "えっ　何やっけそれ?"
+msgstr ""
+
+msgctxt "35217"
+msgid "よかったねぇ！"
+msgstr ""
+
+msgctxt "35232"
+msgid "ちょっと待っちょって"
+msgstr ""

@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "153260"
+msgid "藤堂！"
+msgstr ""
+
+msgctxt "153404"
+msgid "か　会合の件……"
+msgstr ""
+
+msgctxt "153548"
+msgid "桂さんは来ると……　幾松さんから……"
+msgstr ""
+
+msgctxt "153692"
+msgid "藤堂　何があったんだ！"
+msgstr ""
+
+msgctxt "153836"
+msgid "た　武田さんに　見られちゃって……"
+msgstr ""
+
+msgctxt "153980"
+msgid "医者を呼んでくれ！"
+msgstr ""
+
+msgctxt "154124"
+msgid "はい！"
+msgstr ""
+
+msgctxt "154268"
+msgid "そ　そんな　ことより"
+msgstr ""
+
+msgctxt "154412"
+msgid "は　早く　武田さんの　口を塞がねえと……！"
+msgstr ""
+
+msgctxt "154556"
+msgid ""
+"そうはいかない\n"
+"今はお前の治療の方が先決だ"
+msgstr ""
+
+msgctxt "154700"
+msgid ""
+"中岡　あんたはすぐに新選組に行って\n"
+"土方に……"
+msgstr ""
+
+msgctxt "154844"
+msgid "急いで……"
+msgstr ""
+
+msgctxt "154988"
+msgid ""
+"急いで！\n"
+"武田さんが伊東さんに報告する前に……"
+msgstr ""
+
+msgctxt "155132"
+msgid "と　止めてください……！"
+msgstr ""
+
+msgctxt "155276"
+msgid ""
+"でないと　俺……\n"
+"近藤さんに会わせる顔が……"
+msgstr ""
+
+msgctxt "155420"
+msgid "藤堂"
+msgstr ""
+
+msgctxt "155564"
+msgid "武田さんは　幾松さんの店にいます"
+msgstr ""
+
+msgctxt "155708"
+msgid "早く！！"
+msgstr ""
+
+msgctxt "155852"
+msgid ""
+"分かった……！\n"
+"だからもう喋るな！"
+msgstr ""
+
+msgctxt "155996"
+msgid "よかった"
+msgstr ""
+
+msgctxt "156140"
+msgid "死ぬ前に伝えられて"
+msgstr ""
+
+msgctxt "156284"
+msgid ""
+"何バカなことを言ってるんだ\n"
+"しっかりしろ藤堂！！"
+msgstr ""
+
+msgctxt "156428"
+msgid "おりょう　藤堂を頼む！"
+msgstr ""
+
+msgctxt "156572"
+msgid "はい！"
+msgstr ""
+
+msgctxt "156716"
+msgid "中岡　俺は武田を追う"
+msgstr ""
+
+msgctxt "156860"
+msgid "あんたは新選組に藤堂のことを知らせてくれ"
+msgstr ""
+
+msgctxt "157004"
+msgid "分かった！"
+msgstr ""

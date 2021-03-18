@@ -1,0 +1,889 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "21540"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21541"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21542"
+msgid ""
+"あ、旦那じゃないすかぁ！\n"
+"街がえらいことになってますけど\n"
+"旦那の為に、店開けてますで！"
+msgstr ""
+
+msgctxt "21629"
+msgid ""
+"あ、旦那じゃないすかぁ！\n"
+"いらっしゃいませぇ！\n"
+"今日はどないしますっ!?"
+msgstr ""
+
+msgctxt "21700"
+msgid "商品を見せてくれ。"
+msgstr ""
+
+msgctxt "21719"
+msgid ""
+"はい、もちろん！\n"
+"どうぞどうぞー！"
+msgstr ""
+
+msgctxt "21754"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21755"
+msgid ""
+"旦那ぁ、福引き券持ってってください！\n"
+"%d枚渡しますね。"
+msgstr ""
+
+msgctxt "21810"
+msgid ""
+"ありがとうございましたーっ！\n"
+"またおこしくださいねー!!"
+msgstr ""
+
+msgctxt "21865"
+msgid ""
+"旦那ぁー！\n"
+"またおこしくださいねっ！"
+msgstr ""
+
+msgctxt "21902"
+msgid ""
+"旦那っ！\n"
+"またおこしくださいよっ!!"
+msgstr ""
+
+msgctxt "21937"
+msgid "持ち物を買い取ってくれ。"
+msgstr ""
+
+msgctxt "21962"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr ""
+
+msgctxt "22001"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22002"
+msgid ""
+"おおきに！\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "22035"
+msgid "装備品を買い取ってくれ。"
+msgstr ""
+
+msgctxt "22060"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr ""
+
+msgctxt "22099"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22100"
+msgid ""
+"おおきに！\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "22133"
+msgid ""
+"あ、旦那じゃないすかぁ！\n"
+"いらっしゃいませぇ！\n"
+"今日はどないしますっ!?"
+msgstr ""
+
+msgctxt "22204"
+msgid "商品を見せてくれ。"
+msgstr ""
+
+msgctxt "22223"
+msgid ""
+"はい、もちろん！\n"
+"どうぞどうぞー！"
+msgstr ""
+
+msgctxt "22258"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22259"
+msgid ""
+"旦那ぁ、福引き券持ってってください！\n"
+"%d枚渡しますね。"
+msgstr ""
+
+msgctxt "22314"
+msgid ""
+"ありがとうございましたーっ！\n"
+"またおこしくださいねー!!"
+msgstr ""
+
+msgctxt "22369"
+msgid ""
+"旦那ぁー！\n"
+"またおこしくださいねっ！"
+msgstr ""
+
+msgctxt "22406"
+msgid ""
+"旦那っ！\n"
+"またおこしくださいよっ!!"
+msgstr ""
+
+msgctxt "22441"
+msgid "持ち物を買い取ってくれ。"
+msgstr ""
+
+msgctxt "22466"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr ""
+
+msgctxt "22505"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22506"
+msgid ""
+"おおきに！\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "22539"
+msgid "装備品を買い取ってくれ。"
+msgstr ""
+
+msgctxt "22564"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr ""
+
+msgctxt "22603"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22604"
+msgid ""
+"おおきに！\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "22637"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22638"
+msgid "はい、いらっしゃませ……　って旦那じゃないすか！"
+msgstr ""
+
+msgctxt "22687"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22688"
+msgid "おう。……ずいぶん賑わっているな？"
+msgstr ""
+
+msgctxt "22723"
+msgid ""
+"そうなんですよっ！\n"
+"たくさんのお客さんが来てくれるようになったんです！"
+msgstr ""
+
+msgctxt "22794"
+msgid "これも旦那のおかげです！"
+msgstr ""
+
+msgctxt "22819"
+msgid "ん？　どういうことだ？"
+msgstr ""
+
+msgctxt "22842"
+msgid ""
+"またまた～　とぼけちゃって！\n"
+"前に、京に夜逃げしてきた人に\n"
+"うちの店のこと教えてくれてたでしょう？"
+msgstr ""
+
+msgctxt "22941"
+msgid "あ、あぁ。"
+msgstr ""
+
+msgctxt "22952"
+msgid "その人、なんと有名な骨董品収集家やったんです！"
+msgstr ""
+
+msgctxt "22999"
+msgid ""
+"あっしがその人から買いとったものが、\n"
+"そりゃあもう、宝の山・山・山！\n"
+"著名な作者の壺や皿だらけ！"
+msgstr ""
+
+msgctxt "23096"
+msgid ""
+"なるほど。\n"
+"それでこの賑わいっぷり……　というわけか。\n"
+"よかったな。"
+msgstr ""
+
+msgctxt "23165"
+msgid ""
+"いいや、それもこれも全部旦那のおかげですよ！\n"
+"これ気持ちばかりですが、受け取ってくださいよっ！"
+msgstr ""
+
+msgctxt "23260"
+msgid "「<Color:8>白金の塊<Color:Default>」を手に入れた"
+msgstr ""
+
+msgctxt "23309"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23310"
+msgid ""
+"……これでうちの店でも骨董品が売り買いできるって\n"
+"評判がたってくれりゃあ、\n"
+"これから骨董品の商売が捗りそうですわ！"
+msgstr ""
+
+msgctxt "23425"
+msgid ""
+"そうだな。\n"
+"じゃあこれからも今まで通り、\n"
+"お前の威勢のいい接客が聞けるんだな。"
+msgstr ""
+
+msgctxt "23504"
+msgid ""
+"ははは、そんなの当たり前じゃないですかい！\n"
+"元気があっしの唯一のとりえですからね！"
+msgstr ""
+
+msgctxt "23587"
+msgid "では、今後とも、うちの店をご贔屓に！"
+msgstr ""
+
+msgctxt "23624"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23625"
+msgid ""
+"いらっしゃい……　ませ……\n"
+"こ、こんな感じかな……"
+msgstr ""
+
+msgctxt "23676"
+msgid "もっと元気を落とさないと……"
+msgstr ""
+
+msgctxt "23705"
+msgid ""
+"（このままでは陰気な店になってしまいそうだ\n"
+"　はやく骨董品を売ってくれそうな奴を\n"
+"　見つけてやらないとな……）"
+msgstr ""
+
+msgctxt "23816"
+msgid ""
+"あ、旦那ぁ！　いらっしゃませぇーい！\n"
+"今日はどないしますかっ!?"
+msgstr ""
+
+msgctxt "23879"
+msgid "商品を見せてくれ。"
+msgstr ""
+
+msgctxt "23898"
+msgid ""
+"はい、もちろん！\n"
+"どうぞどうぞ！"
+msgstr ""
+
+msgctxt "23931"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23932"
+msgid ""
+"旦那ぁ、福引き券持ってってください！\n"
+"%d枚渡しますね。"
+msgstr ""
+
+msgctxt "23987"
+msgid ""
+"ありがとうございましたーっ！\n"
+"骨董品を売ってくれそうな人がいたら\n"
+"この店のこと、教えてくださいね！"
+msgstr ""
+
+msgctxt "24086"
+msgid ""
+"骨董品を売ってくれそうな人がいたら、\n"
+"この店のこと、教えてくださいね！"
+msgstr ""
+
+msgctxt "24157"
+msgid ""
+"骨董品を売ってくれそうな人がいたら、\n"
+"この店のこと、教えてくださいね！"
+msgstr ""
+
+msgctxt "24228"
+msgid "持ち物を買い取ってくれ。"
+msgstr ""
+
+msgctxt "24253"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr ""
+
+msgctxt "24292"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24293"
+msgid ""
+"おおきに！\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "24326"
+msgid "装備品を買い取ってくれ。"
+msgstr ""
+
+msgctxt "24351"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr ""
+
+msgctxt "24390"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24391"
+msgid ""
+"おおきに！\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "24424"
+msgid ""
+"あ、旦那ぁ！　いらっしゃませぇーい！\n"
+"今日はどないしますかっ!?"
+msgstr ""
+
+msgctxt "24487"
+msgid "商品を見せてくれ。"
+msgstr ""
+
+msgctxt "24506"
+msgid ""
+"はい、もちろん！\n"
+"どうぞどうぞ！"
+msgstr ""
+
+msgctxt "24539"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24540"
+msgid ""
+"旦那ぁ、福引き券持ってってください！\n"
+"%d枚渡しますね。"
+msgstr ""
+
+msgctxt "24595"
+msgid ""
+"ありがとうございましたーっ！\n"
+"またおこしくださいねー!!"
+msgstr ""
+
+msgctxt "24650"
+msgid "あの、もし。"
+msgstr ""
+
+msgctxt "24663"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24664"
+msgid "はい、なんでしょう！"
+msgstr ""
+
+msgctxt "24685"
+msgid ""
+"この店では、骨董品のようなものは、\n"
+"取り扱っておらんのですかな？"
+msgstr ""
+
+msgctxt "24750"
+msgid ""
+"こ、骨董品ですか……\n"
+"すみません、取り扱っていません。"
+msgstr ""
+
+msgctxt "24805"
+msgid ""
+"そうかね……　わかった、ありがとう。\n"
+"別のお店まで足を運んでみることにしますよ。"
+msgstr ""
+
+msgctxt "24886"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24887"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24888"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24889"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24890"
+msgid "……はぁ～あ！"
+msgstr ""
+
+msgctxt "24905"
+msgid "どうした？"
+msgstr ""
+
+msgctxt "24916"
+msgid ""
+"あ、いえ！\n"
+"上質そうなお客さんを逃しちゃったもんで……"
+msgstr ""
+
+msgctxt "24971"
+msgid ""
+"骨董品か……　そういえばこの店は\n"
+"質屋にしてはほとんど置いてないな。"
+msgstr ""
+
+msgctxt "25040"
+msgid "そうなんですよね！"
+msgstr ""
+
+msgctxt "25059"
+msgid ""
+"古くて、趣深くて、神秘的な骨董品の数々！\n"
+"うちの店には、なんでか知らないけど\n"
+"そういったものが集まってこないんですよ！"
+msgstr ""
+
+msgctxt "25178"
+msgid "なんでだと思いますか!?"
+msgstr ""
+
+msgctxt "25201"
+msgid ""
+"……なんでと言われてもな。\n"
+"強いて言えば……　雰囲気、か？"
+msgstr ""
+
+msgctxt "25260"
+msgid "雰囲気？"
+msgstr ""
+
+msgctxt "25269"
+msgid ""
+"ああ。骨董品と言うと、落ち着いた暗めの雰囲気が\n"
+"合うような気がするが、\n"
+"この店は雰囲気がそれとは真逆だからな。"
+msgstr ""
+
+msgctxt "25380"
+msgid ""
+"……な、なんてこった！\n"
+"明るいことが自分のとりえだと思っていたのに\n"
+"むしろ逆効果だったなんて！"
+msgstr ""
+
+msgctxt "25475"
+msgid ""
+"わかりました……\n"
+"これからは元気を落として……\n"
+"暗めに接客することにします……"
+msgstr ""
+
+msgctxt "25554"
+msgid ""
+"いらっしゃい……　ませ……\n"
+"こ、こんな感じかな……"
+msgstr ""
+
+msgctxt "25605"
+msgid ""
+"（余計なことを言ってしまったな……\n"
+"　このままでは陰気な店になってしまいそうだ）"
+msgstr ""
+
+msgctxt "25686"
+msgid ""
+"やめておけ。\n"
+"元気な接客の方がいい。"
+msgstr ""
+
+msgctxt "25723"
+msgid "で、でも、それだと骨董品が……"
+msgstr ""
+
+msgctxt "25754"
+msgid ""
+"そうだな……　もし骨董品を売ってくれそうな奴が\n"
+"いたら、俺がこの店を紹介しておいてやる。\n"
+"だから、元気を出してくれ。"
+msgstr ""
+
+msgctxt "25871"
+msgid "ほ、本当ですか！"
+msgstr ""
+
+msgctxt "25888"
+msgid ""
+"あぁ、俺のせいでこの店から\n"
+"威勢がなくなったら……　いい気分がしないからな。"
+msgstr ""
+
+msgctxt "25965"
+msgid ""
+"約束ですよ！　しばらく待ってもだめだったら、\n"
+"本当に元気を落として接客しますからね！"
+msgstr ""
+
+msgctxt "26050"
+msgid "約束だ、まかせておけ。"
+msgstr ""
+
+msgctxt "26073"
+msgid ""
+"やった！　お願いしますよっ！\n"
+"楽しみにしてますからっ!!"
+msgstr ""
+
+msgctxt "26128"
+msgid "またおこしくだいねっ！"
+msgstr ""
+
+msgctxt "26151"
+msgid "またおこしくださいねー!!"
+msgstr ""
+
+msgctxt "26176"
+msgid "持ち物を買い取ってくれ。"
+msgstr ""
+
+msgctxt "26201"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr ""
+
+msgctxt "26240"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26241"
+msgid "装備品を買い取ってくれ。"
+msgstr ""
+
+msgctxt "26266"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr ""
+
+msgctxt "26305"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26306"
+msgid ""
+"あ、旦那ぁ！　いらっしゃいませぇ！\n"
+"今日はどないしますっ!?"
+msgstr ""
+
+msgctxt "26365"
+msgid "商品を見せてくれ。"
+msgstr ""
+
+msgctxt "26384"
+msgid ""
+"はい、もちろん！\n"
+"どうぞどうぞ！"
+msgstr ""
+
+msgctxt "26417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26418"
+msgid ""
+"旦那ぁ、福引き券持ってってください！\n"
+"%d枚渡しますね。"
+msgstr ""
+
+msgctxt "26473"
+msgid ""
+"ありがとうございましたーっ！\n"
+"またおこしくださいねー!!"
+msgstr ""
+
+msgctxt "26528"
+msgid "またおこしくだいねっ！"
+msgstr ""
+
+msgctxt "26551"
+msgid "またおこしくださいねー!!"
+msgstr ""
+
+msgctxt "26576"
+msgid "持ち物を買い取ってくれ。"
+msgstr ""
+
+msgctxt "26601"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr ""
+
+msgctxt "26640"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26641"
+msgid ""
+"おおきに！\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "26674"
+msgid "装備品を買い取ってくれ。"
+msgstr ""
+
+msgctxt "26699"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr ""
+
+msgctxt "26738"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26739"
+msgid ""
+"おおきに！\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "26772"
+msgid ""
+"いらっしゃいませぇ！\n"
+"今日はどないしますっ!?"
+msgstr ""
+
+msgctxt "26817"
+msgid "商品を見せてくれ。"
+msgstr ""
+
+msgctxt "26836"
+msgid "かしこまりましたー！"
+msgstr ""
+
+msgctxt "26857"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26858"
+msgid ""
+"旦那ぁ、福引き券持ってってください！\n"
+"%d枚渡しますね。"
+msgstr ""
+
+msgctxt "26913"
+msgid ""
+"ありがとうございましたーっ！\n"
+"またおこしくださいねー!!"
+msgstr ""
+
+msgctxt "26968"
+msgid "……ほう。ずいぶんと威勢がいい質屋だな。"
+msgstr ""
+
+msgctxt "27009"
+msgid ""
+"ハハ！　ありがとうございます！\n"
+"……いやー、今はどの店も、あれやこれや\n"
+"しのぎを削って商売してますからねぇ！"
+msgstr ""
+
+msgctxt "27118"
+msgid ""
+"他の店よりも勝っているところを何か持たないと、\n"
+"お客さんに選んでもらえずに、\n"
+"すぐつぶれちゃうんですよ。"
+msgstr ""
+
+msgctxt "27223"
+msgid ""
+"なるほどな。\n"
+"この店が他の店に勝っているのは、その威勢の良さ、\n"
+"ということか。"
+msgstr ""
+
+msgctxt "27302"
+msgid ""
+"はい！　……自分のとりえなんて\n"
+"元気の良さしかないもんで！"
+msgstr ""
+
+msgctxt "27361"
+msgid ""
+"……ちょっとうるさすぎるかもしれませんが、\n"
+"このやかましさに懲りず、\n"
+"また来てくれたら嬉しいですっ！"
+msgstr ""
+
+msgctxt "27462"
+msgid "ああ、わかった。"
+msgstr ""
+
+msgctxt "27479"
+msgid ""
+"「洛内　ゑびすやの主人」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「洛内　ゑびすやの主人」と交流してみましょう。"
+msgstr ""
+
+msgctxt "27716"
+msgid "またおこしくださいねー!!"
+msgstr ""
+
+msgctxt "27741"
+msgid "持ち物を買い取ってくれ。"
+msgstr ""
+
+msgctxt "27766"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr ""
+
+msgctxt "27805"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27806"
+msgid "装備品を買い取ってくれ。"
+msgstr ""
+
+msgctxt "27831"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr ""
+
+msgctxt "27870"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29604"
+msgid "質屋"
+msgstr ""
+
+msgctxt "29609"
+msgid "持ち物を売る"
+msgstr ""
+
+msgctxt "29622"
+msgid "装備品を売る"
+msgstr ""
+
+msgctxt "29635"
+msgid "買い物をする"
+msgstr ""
+
+msgctxt "29648"
+msgid "やめる"
+msgstr ""
+
+msgctxt "29655"
+msgid "Player"
+msgstr ""
+
+msgctxt "29662"
+msgid "dummy"
+msgstr ""
+
+msgctxt "29668"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "29679"
+msgid "M_SHP_TLK_seiza_happy"
+msgstr ""
+
+msgctxt "29701"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "29712"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "29723"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "29732"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "29744"
+msgid "紳士的な人"
+msgstr ""
+
+msgctxt "29755"
+msgid "M_SHP_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "29777"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "29788"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "29796"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "29806"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "29819"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "29832"
+msgid "洛内　ゑびすやの主人との絆"
+msgstr ""

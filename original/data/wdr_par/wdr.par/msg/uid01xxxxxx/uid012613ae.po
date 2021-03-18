@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2876"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2877"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2878"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2879"
+msgid "（どこにも扉がないな……）"
+msgstr ""
+
+msgctxt "2906"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2907"
+msgid "（これが仕掛けか？）"
+msgstr ""
+
+msgctxt "2928"
+msgid "扉が開いたぞ！"
+msgstr ""
+
+msgctxt "2943"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2945"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2947"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2948"
+msgid "（早く仕掛けを解かなければ！）"
+msgstr ""
+
+msgctxt "2979"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2980"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2981"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2982"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2983"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2984"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2985"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2986"
+msgid ""
+"（動き始めたぞ……\n"
+"　部屋が上へ向かっているのか？）"
+msgstr ""
+
+msgctxt "3039"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3040"
+msgid "（すべて仕留めたようだな……）"
+msgstr ""
+
+msgctxt "3071"
+msgid "（む……　仕掛けが止まったか？）"
+msgstr ""
+
+msgctxt "3104"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3105"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3106"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3400"
+msgid "7e008290"
+msgstr ""
+
+msgctxt "3409"
+msgid "7e008300"
+msgstr ""
+
+msgctxt "3418"
+msgid "7e008310"
+msgstr ""
+
+msgctxt "3427"
+msgid "7e008320"
+msgstr ""
+
+msgctxt "3436"
+msgid "7e008330"
+msgstr ""
+
+msgctxt "3445"
+msgid "Player"
+msgstr ""
+
+msgctxt "3452"
+msgid "7e008340"
+msgstr ""
+
+msgctxt "3461"
+msgid "7e008390"
+msgstr ""
+
+msgctxt "3470"
+msgid "restg2346c"
+msgstr ""
+
+msgctxt "3481"
+msgid "A60160_edo_tenjyo_st"
+msgstr ""
+
+msgctxt "3502"
+msgid "7e008400"
+msgstr ""
+
+msgctxt "3511"
+msgid "7e008410"
+msgstr ""
+
+msgctxt "3520"
+msgid "7e008420"
+msgstr ""
+
+msgctxt "3529"
+msgid "7e008430"
+msgstr ""
+
+msgctxt "3538"
+msgid "7e008440"
+msgstr ""
+
+msgctxt "3547"
+msgid "A60161_edo_tenjyo_ok"
+msgstr ""
+
+msgctxt "3568"
+msgid "7e008450"
+msgstr ""
+
+msgctxt "3577"
+msgid "7e008460"
+msgstr ""
+
+msgctxt "3586"
+msgid "7e008480"
+msgstr ""
+
+msgctxt "3595"
+msgid "restg2349a"
+msgstr ""
+
+msgctxt "3606"
+msgid "7e008470"
+msgstr ""

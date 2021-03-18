@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "552"
+msgid ""
+"（風呂屋で情報屋に会うのは夜だったな。\n"
+"　夜まで休もうか？）"
+msgstr ""
+
+msgctxt "613"
+msgid "（後にするか……）"
+msgstr ""
+
+msgctxt "632"
+msgid "（よし、休むか……）"
+msgstr ""
+
+msgctxt "653"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "668"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "673"
+msgid "休む"
+msgstr ""
+
+msgctxt "678"
+msgid "休まない"
+msgstr ""

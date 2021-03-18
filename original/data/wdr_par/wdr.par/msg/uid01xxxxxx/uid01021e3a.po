@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5204"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5205"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5206"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5207"
+msgid ""
+"おぉ、まだ来るんかい。\n"
+"んな暇あったら火ぃ消さんかい！"
+msgstr ""
+
+msgctxt "5262"
+msgid "逃がすかぁ……！"
+msgstr ""
+
+msgctxt "5279"
+msgid "くそ、キリがねえな……"
+msgstr ""
+
+msgctxt "5302"
+msgid ""
+"しゃあない。ここはワシが引き受けたるから、\n"
+"一（はじめ）ちゃんは勇を捜すんや。ええな？"
+msgstr ""
+
+msgctxt "5389"
+msgid "……わかった。頼んだぞ。"
+msgstr ""
+
+msgctxt "5414"
+msgid "ヒヒッ。任しとき。"
+msgstr ""
+
+msgctxt "5433"
+msgid "さぁ！　ワシが相手したるから、かかってこいや！"
+msgstr ""
+
+msgctxt "5480"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5481"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5482"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5483"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5484"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5485"
+msgid "どこ行く気や。"
+msgstr ""
+
+msgctxt "5500"
+msgid ""
+"チ……　京都見廻組の佐々木はんかい。\n"
+"こんなときに何の用やねん。"
+msgstr ""
+
+msgctxt "5565"
+msgid ""
+"何の用か、やと？　決まっとるやろ。\n"
+"お前ら新選組が火ぃつけて回っとることは\n"
+"分かっとるんじゃい。"
+msgstr ""
+
+msgctxt "5662"
+msgid "……"
+msgstr ""
+
+msgctxt "5667"
+msgid ""
+"何が目的か知らんけど、この落とし前は\n"
+"キッチリつけてもらうぞ……!!"
+msgstr ""
+
+msgctxt "5734"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5735"
+msgid ""
+"聞く耳ナシやな。\n"
+"ま、ワシもちょこっと暴れたい気分や。"
+msgstr ""
+
+msgctxt "5790"
+msgid "くそっ……！"
+msgstr ""
+
+msgctxt "5803"
+msgid "やったれぇ!!"
+msgstr ""
+
+msgctxt "5816"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7036"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "7047"
+msgid "沖田"
+msgstr ""
+
+msgctxt "7052"
+msgid "majima_c12_050_01"
+msgstr ""
+
+msgctxt "7070"
+msgid "佐々木"
+msgstr ""
+
+msgctxt "7077"
+msgid "sasaki_c12_050_01"
+msgstr ""
+
+msgctxt "7095"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "7100"
+msgid "kiryu_c12_050_01"
+msgstr ""
+
+msgctxt "7117"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "7128"
+msgid "majima_c12_050_02"
+msgstr ""
+
+msgctxt "7146"
+msgid "kiryu_c12_050_02"
+msgstr ""
+
+msgctxt "7163"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "7174"
+msgid "majima_c12_050_03"
+msgstr ""
+
+msgctxt "7192"
+msgid "majima_c12_050_04"
+msgstr ""
+
+msgctxt "7210"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "7221"
+msgid "ADV_P_KRU_STAND"
+msgstr ""
+
+msgctxt "7237"
+msgid "Idle"
+msgstr ""
+
+msgctxt "7242"
+msgid "0"
+msgstr ""
+
+msgctxt "7244"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7250"
+msgid "sasaki_c12_040_01"
+msgstr ""
+
+msgctxt "7268"
+msgid "majima_c12_040_01"
+msgstr ""
+
+msgctxt "7286"
+msgid "sasaki_c12_040_02"
+msgstr ""
+
+msgctxt "7304"
+msgid "sasaki_c12_040_03"
+msgstr ""
+
+msgctxt "7322"
+msgid "C14030_SSK_A"
+msgstr ""
+
+msgctxt "7335"
+msgid "E_KNS_stand_MID"
+msgstr ""
+
+msgctxt "7351"
+msgid "E_btlst_KNS_battou_A"
+msgstr ""
+
+msgctxt "7372"
+msgid "E_KNS_LW_stand"
+msgstr ""
+
+msgctxt "7387"
+msgid "E_btlst_KNS_LW_battou_A"
+msgstr ""
+
+msgctxt "7411"
+msgid "E_KNS_WK_stand"
+msgstr ""
+
+msgctxt "7426"
+msgid "E_btlst_KNS_WK_battou_B"
+msgstr ""
+
+msgctxt "7450"
+msgid "E_KNS_HI_stand"
+msgstr ""
+
+msgctxt "7465"
+msgid "E_btlst_KNS_HI_battou_A"
+msgstr ""
+
+msgctxt "7489"
+msgid "E_btlst_KNS_battou_B"
+msgstr ""
+
+msgctxt "7510"
+msgid "E_btlst_KNS_HI_battou_B"
+msgstr ""
+
+msgctxt "7534"
+msgid "majima_c12_040_02"
+msgstr ""
+
+msgctxt "7552"
+msgid "kiryu_c12_040_02"
+msgstr ""
+
+msgctxt "7569"
+msgid "sasaki_c12_040_04"
+msgstr ""

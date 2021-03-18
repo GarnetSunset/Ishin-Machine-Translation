@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "EVENT_ENUM_0"
+msgid "EVENT_01"
+msgstr ""
+
+msgctxt "EVENT_ENUM_1"
+msgid "EVENT_02"
+msgstr ""
+
+msgctxt "EVENT_ENUM_2"
+msgid "EVENT_03"
+msgstr ""
+
+msgctxt "EVENT_ENUM_3"
+msgid "EVENT_04"
+msgstr ""
+
+msgctxt "EVENT_ENUM_4"
+msgid "EVENT_05"
+msgstr ""
+
+msgctxt "NAME_0"
+msgid "イベント1"
+msgstr ""
+
+msgctxt "NAME_1"
+msgid "イベント2"
+msgstr ""
+
+msgctxt "NAME_2"
+msgid "イベント3"
+msgstr ""
+
+msgctxt "NAME_3"
+msgid "イベント4"
+msgstr ""
+
+msgctxt "NAME_4"
+msgid "イベント5"
+msgstr ""
+
+msgctxt "EXPLANATION_0"
+msgid "イベント1です。"
+msgstr ""
+
+msgctxt "EXPLANATION_1"
+msgid "イベント2です。"
+msgstr ""
+
+msgctxt "EXPLANATION_2"
+msgid "イベント3です。"
+msgstr ""
+
+msgctxt "EXPLANATION_3"
+msgid "イベント4です。"
+msgstr ""
+
+msgctxt "EXPLANATION_4"
+msgid "イベント5です。"
+msgstr ""

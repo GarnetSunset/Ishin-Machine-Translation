@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1244"
+msgid ""
+"ああ……　あなたですか。\n"
+"やはりお願いできませんか、地球儀の解説。\n"
+"もはや万策尽きたというところでして……"
+msgstr ""
+
+msgctxt "1351"
+msgid ""
+"どうかうちの寺子屋に来て\n"
+"地球儀の解説をしていただけませんか!?\n"
+"ワシのためじゃない！　子供たちのために！"
+msgstr ""
+
+msgctxt "1456"
+msgid "いや、悪いが断る。"
+msgstr ""
+
+msgctxt "1475"
+msgid ""
+"そ、そうですか……\n"
+"まあ無理な御相談でしたな。\n"
+"見ず知らずの方に……"
+msgstr ""
+
+msgctxt "1544"
+msgid "わかった、いいだろう。"
+msgstr ""
+
+msgctxt "1567"
+msgid ""
+"あ、ありがとうございます！\n"
+"さ、それでは早速こちらへ。"
+msgstr ""
+
+msgctxt "1622"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1623"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1624"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1625"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1626"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1668"
+msgid "寺子屋の先生"
+msgstr ""
+
+msgctxt "1681"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "1694"
+msgid "引き受ける"
+msgstr ""
+
+msgctxt "1705"
+msgid "断る"
+msgstr ""
+
+msgctxt "1710"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "1715"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1723"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "1736"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1745"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1756"
+msgid "dummy"
+msgstr ""

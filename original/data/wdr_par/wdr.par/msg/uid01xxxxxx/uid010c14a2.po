@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "10620"
+msgid "よし、これでいいじゃろう。"
+msgstr ""
+
+msgctxt "10647"
+msgid "うぅぅ……！"
+msgstr ""
+
+msgctxt "10660"
+msgid "かずきちや……"
+msgstr ""
+
+msgctxt "10675"
+msgid "……ありがとう。"
+msgstr ""
+
+msgctxt "10692"
+msgid "あ、あうあ……"
+msgstr ""
+
+msgctxt "10707"
+msgid "…………"
+msgstr ""
+
+msgctxt "10716"
+msgid "あ、あうあ……"
+msgstr ""
+
+msgctxt "10731"
+msgid "ばあさん、うるさいぞ。"
+msgstr ""
+
+msgctxt "10754"
+msgid "あう、あうあう！"
+msgstr ""
+
+msgctxt "10771"
+msgid "まったく、どうしたんじゃ？　ん……！"
+msgstr ""
+
+msgctxt "10808"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10809"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10810"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10811"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10812"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10813"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10814"
+msgid ""
+"さ、桜の花びら!?\n"
+"ど、どうして？　この木は、枯れているはずじゃ……"
+msgstr ""
+
+msgctxt "10881"
+msgid "…………"
+msgstr ""
+
+msgctxt "10890"
+msgid "……きれい。"
+msgstr ""
+
+msgctxt "10903"
+msgid ""
+"ば、ばあさん……！\n"
+"今、言葉が……!?"
+msgstr ""
+
+msgctxt "10940"
+msgid "きれい……　きれいな……　さくら……"
+msgstr ""
+
+msgctxt "10977"
+msgid "ばあさんが、笑った……"
+msgstr ""
+
+msgctxt "11000"
+msgid ""
+"……ああ！　そうじゃな！\n"
+"本当に、きれいな桜じゃ。\n"
+"わしはこんなにきれいな桜、見たことないわい！"
+msgstr ""
+
+msgctxt "11097"
+msgid ""
+"それに……　ばあさんのこんな笑顔も……\n"
+"見たことないわい。ううぅ……"
+msgstr ""
+
+msgctxt "11166"
+msgid "……よかったな。じいさん。"
+msgstr ""
+
+msgctxt "11193"
+msgid ""
+"ああ……!!　ううう……\n"
+"本当に、よかった……"
+msgstr ""
+
+msgctxt "11238"
+msgid "かずきち……　桜……　くれた……"
+msgstr ""
+
+msgctxt "11271"
+msgid ""
+"……そうだな。きっとこの桜は、\n"
+"かずきちが咲かせてくれたんだろうな。"
+msgstr ""
+
+msgctxt "11340"
+msgid ""
+"……あんたたちに、ありがとうって、\n"
+"伝えたかったんじゃないか？\n"
+"俺は……　そう思うぜ。"
+msgstr ""
+
+msgctxt "11427"
+msgid "かずきち……"
+msgstr ""
+
+msgctxt "11440"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11441"
+msgid "……ありがとう。"
+msgstr ""
+
+msgctxt "11458"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11459"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11460"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11461"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11462"
+msgid "（この木は、もしや……）"
+msgstr ""
+
+msgctxt "11487"
+msgid "桜、か？"
+msgstr ""
+
+msgctxt "11496"
+msgid "どうしたの？　おじさん。"
+msgstr ""
+
+msgctxt "11521"
+msgid ""
+"ああ。遥。\n"
+"……この木は、もしかして桜の木か？"
+msgstr ""
+
+msgctxt "11568"
+msgid ""
+"うん、そうだよ。\n"
+"うちにずっと昔からある木なんだ。\n"
+"でも、枯れちゃって、もう咲かないんだけどね。"
+msgstr ""
+
+msgctxt "11665"
+msgid "そうなのか？"
+msgstr ""
+
+msgctxt "11678"
+msgid ""
+"うん。私が小さいころは咲いていたんだけど、\n"
+"ここ数年、この木に花が咲いているの、\n"
+"見たことがないよ。"
+msgstr ""
+
+msgctxt "11779"
+msgid "そうか。枯れているのか……"
+msgstr ""
+
+msgctxt "11806"
+msgid ""
+"どうしたの？　急に。\n"
+"園芸にでも、興味を持ったの……？"
+msgstr ""
+
+msgctxt "11861"
+msgid ""
+"いや、そうじゃない。\n"
+"あるじいさんが、桜の木を探していてな……"
+msgstr ""
+
+msgctxt "11924"
+msgid "え？　どういうこと？"
+msgstr ""
+
+msgctxt "11945"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11947"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11948"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11949"
+msgid ""
+"……というわけで、死んだ犬の骨を埋められる\n"
+"桜の木を探しているんだ。"
+msgstr ""
+
+msgctxt "12018"
+msgid ""
+"そうなんだ……\n"
+"かわいそうだね、息子さんも、犬さんも\n"
+"死んじゃうなんて……"
+msgstr ""
+
+msgctxt "12093"
+msgid "ああ。なんとかしてやりたいんだがな……"
+msgstr ""
+
+msgctxt "12132"
+msgid "あのさ……　うちの桜の下じゃ、ダメかな？"
+msgstr ""
+
+msgctxt "12173"
+msgid "うちの？"
+msgstr ""
+
+msgctxt "12182"
+msgid ""
+"うん。枯れているけど、他に骨を埋めてもいい\n"
+"桜の木なんて、たぶんないと思うよ？\n"
+"うちのでもよければ。"
+msgstr ""
+
+msgctxt "12283"
+msgid "いいのか？　遥は？"
+msgstr ""
+
+msgctxt "12302"
+msgid ""
+"もちろん。\n"
+"それでおじいさん達が救われるのなら。"
+msgstr ""
+
+msgctxt "12351"
+msgid ""
+"分かった。ありがとう。\n"
+"さっそく、じいさんに聞いてみる。"
+msgstr ""
+
+msgctxt "12408"
+msgid "うん。"
+msgstr ""
+
+msgctxt "12415"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12416"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12418"
+msgid "（……ん？）"
+msgstr ""
+
+msgctxt "12431"
+msgid "（あの木は……）"
+msgstr ""
+
+msgctxt "12448"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14552"
+msgid "おじいさん"
+msgstr ""
+
+msgctxt "14563"
+msgid "ADV_M_BUS_STAND"
+msgstr ""
+
+msgctxt "14579"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "14601"
+msgid "M_BUS_TLK_btl_aft_nw_03_en"
+msgstr ""
+
+msgctxt "14628"
+msgid "おばあさん"
+msgstr ""
+
+msgctxt "14639"
+msgid "Talk_Sad"
+msgstr ""
+
+msgctxt "14648"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14657"
+msgid "kaiwabgm_sub_happy_01"
+msgstr ""
+
+msgctxt "14679"
+msgid "Idle"
+msgstr ""
+
+msgctxt "14684"
+msgid "000c15c2"
+msgstr ""
+
+msgctxt "14693"
+msgid "000c15c5"
+msgstr ""
+
+msgctxt "14702"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14710"
+msgid "Player"
+msgstr ""
+
+msgctxt "14717"
+msgid "000c15c7"
+msgstr ""
+
+msgctxt "14726"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14732"
+msgid "遥"
+msgstr ""
+
+msgctxt "14735"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "14746"
+msgid "P_KRU_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "14768"
+msgid "F_HAL_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "14790"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "14812"
+msgid "P_KRU_TLK_chair_to_stand"
+msgstr ""

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "748"
+msgid ""
+"いらっしゃい。\n"
+"何をお求めですか？"
+msgstr ""
+
+msgctxt "783"
+msgid "はい、どれをご用意しましょう？"
+msgstr ""
+
+msgctxt "814"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "815"
+msgid "ありがとうございました。"
+msgstr ""
+
+msgctxt "840"
+msgid "はい、どれを買い取りましょう？"
+msgstr ""
+
+msgctxt "871"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "872"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "900"
+msgid "店員"
+msgstr ""
+
+msgctxt "905"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "914"
+msgid "買いに来た"
+msgstr ""
+
+msgctxt "925"
+msgid "売りに来た"
+msgstr ""
+
+msgctxt "936"
+msgid "やめる"
+msgstr ""
+
+msgctxt "943"
+msgid "Talk_Ojigi"
+msgstr ""

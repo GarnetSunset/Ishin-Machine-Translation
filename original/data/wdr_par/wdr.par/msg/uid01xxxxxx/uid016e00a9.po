@@ -1,0 +1,1346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "34064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34066"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34067"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34068"
+msgid ""
+"斎藤殿ー！\n"
+"ごめんくだされー！　斎藤殿ー！"
+msgstr ""
+
+msgctxt "34111"
+msgid "（……来客か？）"
+msgstr ""
+
+msgctxt "34128"
+msgid "……誰だ？"
+msgstr ""
+
+msgctxt "34139"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34140"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34141"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34142"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34143"
+msgid ""
+"急にお訪ねして申し訳ない。\n"
+"わしは猿吉（さるきち）という者だ。"
+msgstr ""
+
+msgctxt "34206"
+msgid "……桶狭間将軍の使いで、この家に参った。"
+msgstr ""
+
+msgctxt "34247"
+msgid "おけはざま将軍……？"
+msgstr ""
+
+msgctxt "34268"
+msgid "な、なんと！　桶狭間将軍を知らぬか!?"
+msgstr ""
+
+msgctxt "34305"
+msgid "すまないが、知らないな。"
+msgstr ""
+
+msgctxt "34330"
+msgid ""
+"し、信じられぬ……\n"
+"いや……　むしろ好都合か……"
+msgstr ""
+
+msgctxt "34379"
+msgid "……？"
+msgstr ""
+
+msgctxt "34386"
+msgid ""
+"いや、こっちの話ぞ。\n"
+"実は此度、おぬしに頼みがあってな。"
+msgstr ""
+
+msgctxt "34443"
+msgid "頼み……？"
+msgstr ""
+
+msgctxt "34454"
+msgid ""
+"おぬしには御館様……\n"
+"桶狭間将軍に、料理を作ってほしいのだ。"
+msgstr ""
+
+msgctxt "34515"
+msgid "料理……!?　どうして俺が将軍に料理を？"
+msgstr ""
+
+msgctxt "34554"
+msgid ""
+"御館様は食事にとてもこだわりのあるお方なのだ……\n"
+"本当に美味しいものしか食べんし、美味しいものが\n"
+"あると聞けば全国どこへでも飛んでいく。"
+msgstr ""
+
+msgctxt "34691"
+msgid ""
+"この家からはよく、うまそうな匂いがするという\n"
+"噂がたっておっての。"
+msgstr ""
+
+msgctxt "34758"
+msgid ""
+"そこで今回、\n"
+"斎藤殿に白羽の矢が立った、というわけだ。"
+msgstr ""
+
+msgctxt "34813"
+msgid "……そういうことか。"
+msgstr ""
+
+msgctxt "34834"
+msgid ""
+"もし御館様の満足する料理を作ることができたら、\n"
+"おぬしに莫大な褒美をとらす……"
+msgstr ""
+
+msgctxt "34913"
+msgid ""
+"だから……　どうだ、御館様のために\n"
+"今から料理を作ってくださらぬか？"
+msgstr ""
+
+msgctxt "34982"
+msgid ""
+"（俺は料理人じゃない。\n"
+"　将軍に料理を作るなんて、少々荷が重すぎるな）"
+msgstr ""
+
+msgctxt "35053"
+msgid "悪いが、断らせてもらう。"
+msgstr ""
+
+msgctxt "35078"
+msgid "そうか……　残念だ。"
+msgstr ""
+
+msgctxt "35099"
+msgid ""
+"……しかしわしは、御館様のため、\n"
+"このまま引き下がるわけにはいかぬ。"
+msgstr ""
+
+msgctxt "35168"
+msgid ""
+"おぬしが首を縦に振ってくれるまで……\n"
+"伏見にある、居酒屋「はなこ」の前で待っておる。"
+msgstr ""
+
+msgctxt "35253"
+msgid ""
+"もし料理の腕を振るう気になったら、\n"
+"訪ねてこられよ。"
+msgstr ""
+
+msgctxt "35306"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35307"
+msgid "…………"
+msgstr ""
+
+msgctxt "35316"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35317"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35318"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35319"
+msgid "……しかたない。作ってやるよ。"
+msgstr ""
+
+msgctxt "35350"
+msgid ""
+"ま、まことか!?\n"
+"御館様もさぞやお喜びになるであろう！"
+msgstr ""
+
+msgctxt "35403"
+msgid ""
+"それではさっそく使いの者に連絡させ、\n"
+"御館様をこちらにお呼びしよう。"
+msgstr ""
+
+msgctxt "35472"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35473"
+msgid ""
+"おじさん？　どうかしたの？\n"
+"私、ちょっと出てこようと思うんだけど……"
+msgstr ""
+
+msgctxt "35542"
+msgid ""
+"ああ。気にしないで大丈夫だ。\n"
+"ゆっくり出てくるといい。"
+msgstr ""
+
+msgctxt "35597"
+msgid "うん。行ってきまーす。"
+msgstr ""
+
+msgctxt "35620"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35621"
+msgid ""
+"さて。それでは御館様が到着されるまで、\n"
+"わしらは入念に料理の準備をするとしようぞ。"
+msgstr ""
+
+msgctxt "35704"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35705"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35706"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35707"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35708"
+msgid ""
+"包丁よし。薪よし。\n"
+"あとは、うーむ……"
+msgstr ""
+
+msgctxt "35747"
+msgid "そうだった、これを渡しておかんとのう。"
+msgstr ""
+
+msgctxt "35786"
+msgid "本日の料理のお題「しっかり焼き魚」の食材だ。"
+msgstr ""
+
+msgctxt "35831"
+msgid "ずいぶん準備に余念がないな。"
+msgstr ""
+
+msgctxt "35860"
+msgid ""
+"と、当然だ！　今から御館様に料理を作るのだぞ!?\n"
+"おぬし、その自覚があるのか!?"
+msgstr ""
+
+msgctxt "35937"
+msgid ""
+"御館様……　たしか、おけはざま将軍だったか？\n"
+"そんなにすごい人なのか？"
+msgstr ""
+
+msgctxt "36008"
+msgid ""
+"あ、当たり前だ！　おぬしはまったく……\n"
+"自身が今どのような立場におるかわかっておるのか!?"
+msgstr ""
+
+msgctxt "36097"
+msgid "立場……？"
+msgstr ""
+
+msgctxt "36108"
+msgid "あ、いや……"
+msgstr ""
+
+msgctxt "36121"
+msgid "……もう隠し立てしても仕方ない。"
+msgstr ""
+
+msgctxt "36154"
+msgid ""
+"実は御館様はとても厳しいお方での……\n"
+"今回、おぬしに料理を頼んだのも、御館様に\n"
+"料理を作る人間がひとりもいなくなったからだ。"
+msgstr ""
+
+msgctxt "36279"
+msgid "ひとりも？　どうしてだ？"
+msgstr ""
+
+msgctxt "36304"
+msgid ""
+"桶狭間将軍は、\n"
+"まずい料理を出した人間を……"
+msgstr ""
+
+msgctxt "36349"
+msgid "斬る！"
+msgstr ""
+
+msgctxt "36356"
+msgid "!?　……斬る？　殺す、ということか？"
+msgstr ""
+
+msgctxt "36393"
+msgid ""
+"ああ。言ったじゃろ。本当に味に厳しい方だと。\n"
+"……だから、皆将軍に料理を作ることを怖がってな。\n"
+"誰も料理を作ってくれなくなったのだ。"
+msgstr ""
+
+msgctxt "36526"
+msgid "そりゃそうだろ……"
+msgstr ""
+
+msgctxt "36545"
+msgid ""
+"だが……そんな危険な奴に、\n"
+"飯をつくってやる気にはなれんな。\n"
+"やはり断らせてもらう。"
+msgstr ""
+
+msgctxt "36630"
+msgid ""
+"そ、それだけはやめとくれ！\n"
+"そんなことしたら、わしを含め、側近はみんな\n"
+"殺されてしまう……"
+msgstr ""
+
+msgctxt "36721"
+msgid ""
+"頼む！　人助けだと思って協力しとくれ！\n"
+"斎藤殿が美味しい料理を出せば、\n"
+"すべて丸くおさまるのだ！"
+msgstr ""
+
+msgctxt "36818"
+msgid "そうは言われてもな……"
+msgstr ""
+
+msgctxt "36841"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36842"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36843"
+msgid ""
+"あ！　御館様が来たようだな！\n"
+"すまんが、斎藤殿。よろしく頼むぞ！"
+msgstr ""
+
+msgctxt "36908"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36909"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36910"
+msgid "ちっ……　仕方ないか……"
+msgstr ""
+
+msgctxt "36935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36937"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36938"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36940"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36941"
+msgid "（この男が……　桶狭間将軍……）"
+msgstr ""
+
+msgctxt "36974"
+msgid ""
+"御館様、この男が例の料理人……\n"
+"斎藤でございます。"
+msgstr ""
+
+msgctxt "37025"
+msgid "…………そうか。"
+msgstr ""
+
+msgctxt "37042"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37043"
+msgid ""
+"斎藤……　貴様は、\n"
+"余を満足させる料理が作れると聞いたが……"
+msgstr ""
+
+msgctxt "37104"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37105"
+msgid "……まことか？"
+msgstr ""
+
+msgctxt "37120"
+msgid "…………"
+msgstr ""
+
+msgctxt "37129"
+msgid "わからん。"
+msgstr ""
+
+msgctxt "37140"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37141"
+msgid "さ、斎藤殿!?"
+msgstr ""
+
+msgctxt "37154"
+msgid "き、貴様！　御館様に無礼であるぞ！"
+msgstr ""
+
+msgctxt "37189"
+msgid "俺はただ……　料理をするだけだ。"
+msgstr ""
+
+msgctxt "37222"
+msgid "…………"
+msgstr ""
+
+msgctxt "37231"
+msgid "おもしろい……"
+msgstr ""
+
+msgctxt "37246"
+msgid "やってみよ。"
+msgstr ""
+
+msgctxt "37259"
+msgid ""
+"（まずい料理をだせば殺される、か。\n"
+"　面白い。やってやろうじゃないか）"
+msgstr ""
+
+msgctxt "37330"
+msgid "……いざ参らん、文明開化の台所！"
+msgstr ""
+
+msgctxt "37363"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37364"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37365"
+msgid "……待たせたな。"
+msgstr ""
+
+msgctxt "37382"
+msgid "これが俺の……　料理だ。"
+msgstr ""
+
+msgctxt "37407"
+msgid "ほう……"
+msgstr ""
+
+msgctxt "37416"
+msgid "さぁ、食べてみてくれ。"
+msgstr ""
+
+msgctxt "37439"
+msgid "…………"
+msgstr ""
+
+msgctxt "37448"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37449"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37450"
+msgid "…………"
+msgstr ""
+
+msgctxt "37459"
+msgid "…………"
+msgstr ""
+
+msgctxt "37468"
+msgid "…………"
+msgstr ""
+
+msgctxt "37477"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37478"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37479"
+msgid "……うまい。"
+msgstr ""
+
+msgctxt "37492"
+msgid "お……　御館様が……"
+msgstr ""
+
+msgctxt "37513"
+msgid "御館様が、うまいとおっしゃった!!"
+msgstr ""
+
+msgctxt "37546"
+msgid ""
+"こんなに美味い料理ははじめてじゃ……\n"
+"感謝するぞ、斎藤殿。\n"
+"この料理を、毎日食いたいものじゃ。"
+msgstr ""
+
+msgctxt "37641"
+msgid "……斎藤殿、私の専属料理人にならんか。"
+msgstr ""
+
+msgctxt "37680"
+msgid "……断る。殺されちゃかなわんからな。"
+msgstr ""
+
+msgctxt "37717"
+msgid "殺す？"
+msgstr ""
+
+msgctxt "37724"
+msgid ""
+"まずい料理を作った料理人を殺す……\n"
+"あんたのやり方は間違っている。\n"
+"俺はそんな人間の下で働く気はない。"
+msgstr ""
+
+msgctxt "37827"
+msgid "……ほう。なるほどな……"
+msgstr ""
+
+msgctxt "37852"
+msgid "…………サル。"
+msgstr ""
+
+msgctxt "37867"
+msgid "は、はい。"
+msgstr ""
+
+msgctxt "37878"
+msgid "お前……　また嘘をついたのか!!"
+msgstr ""
+
+msgctxt "37909"
+msgid "ひ、ひいいいいっ！　すみませぬ！"
+msgstr ""
+
+msgctxt "37942"
+msgid "……嘘？"
+msgstr ""
+
+msgctxt "37951"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37953"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37954"
+msgid ""
+"そうか。まずい料理人を殺すというのは、猿吉さんが\n"
+"ついた嘘だったのか……"
+msgstr ""
+
+msgctxt "38027"
+msgid ""
+"も、申し訳ない。\n"
+"将軍に美味しい料理を作ってほしくてな。"
+msgstr ""
+
+msgctxt "38084"
+msgid ""
+"ああいう風に言えば、\n"
+"死ぬ気で美味いものを作ってくれるかと……"
+msgstr ""
+
+msgctxt "38147"
+msgid ""
+"なるほど。確かに、効果はあるかもしれんが……\n"
+"ちょっと冗談がきつすぎる。\n"
+"こっちの身にもなってくれ……"
+msgstr ""
+
+msgctxt "38250"
+msgid ""
+"まったくだ。お主のせいで、わしの評判も\n"
+"ガタ落ちだ。仕方ない奴よのう。"
+msgstr ""
+
+msgctxt "38321"
+msgid ""
+"ほ、本当に申し訳ない。\n"
+"ですが……　おかげで、美味しい料理が\n"
+"食べられたのでは？"
+msgstr ""
+
+msgctxt "38402"
+msgid "……まぁな。"
+msgstr ""
+
+msgctxt "38415"
+msgid "斎藤殿。美味いものを食べさせてもらって感謝する。"
+msgstr ""
+
+msgctxt "38464"
+msgid ""
+"そなたのような料理人を従えられないのが、\n"
+"残念でならん。……もし気が変わったら、いつでも\n"
+"言ってくれ。歓迎する。"
+msgstr ""
+
+msgctxt "38577"
+msgid ""
+"ふっ。もし刀が握れなくなったら、\n"
+"包丁を握るのもありかもな。\n"
+"考えておくぜ。"
+msgstr ""
+
+msgctxt "38654"
+msgid "……その日が来ることを、楽しみにしておる。"
+msgstr ""
+
+msgctxt "38697"
+msgid "それでは、帰るとするか。"
+msgstr ""
+
+msgctxt "38722"
+msgid "達者でな。"
+msgstr ""
+
+msgctxt "38733"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38734"
+msgid ""
+"今回は色々と迷惑かけて、すまなかったな。\n"
+"これは約束の褒美だ。"
+msgstr ""
+
+msgctxt "38797"
+msgid "「<Color:8>龍の髭<Color:Default>」を貰った。"
+msgstr ""
+
+msgctxt "38842"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38843"
+msgid ""
+"あんたは大したもんだ。\n"
+"まさか、生き残れるとは思わんかった……"
+msgstr ""
+
+msgctxt "38906"
+msgid "ふっ。もう嘘をつく必要はないだろう？"
+msgstr ""
+
+msgctxt "38943"
+msgid ""
+"え？　……あ、ああ。そうだったのう。\n"
+"では、達者でな。"
+msgstr ""
+
+msgctxt "38998"
+msgid ""
+"おいサル！\n"
+"私の草履はどこだ！"
+msgstr ""
+
+msgctxt "39029"
+msgid ""
+"申し訳ございません御館様！\n"
+"懐で温めっぱなしでした！"
+msgstr ""
+
+msgctxt "39082"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39083"
+msgid ""
+"（まずい料理をだせば殺される、か。\n"
+"　そんな馬鹿な話があるわけないよな。\n"
+"　真に受けてしまう俺もばかだな）"
+msgstr ""
+
+msgctxt "39190"
+msgid ""
+"（まぁ、満足してくれたみたいだし、\n"
+"　褒美もたくさんもらえた。良しとするか）"
+msgstr ""
+
+msgctxt "39267"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39268"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39269"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39270"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39271"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39272"
+msgid "……腕のいい男でよかったですね。"
+msgstr ""
+
+msgctxt "39305"
+msgid "……ああ、そうだな。"
+msgstr ""
+
+msgctxt "39326"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39327"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39328"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39329"
+msgid "……まずい。"
+msgstr ""
+
+msgctxt "39342"
+msgid "なんだこの料理は。まずすぎる。"
+msgstr ""
+
+msgctxt "39373"
+msgid "（失敗してしまった……）"
+msgstr ""
+
+msgctxt "39398"
+msgid ""
+"貴様……\n"
+"このようなものを私に食わせるとは……"
+msgstr ""
+
+msgctxt "39445"
+msgid "さ、斎藤殿……"
+msgstr ""
+
+msgctxt "39460"
+msgid ""
+"すまんな。あいにく、俺は料理人じゃない。\n"
+"包丁より、刀の方が得意なんだ。"
+msgstr ""
+
+msgctxt "39533"
+msgid "ぬ…………？"
+msgstr ""
+
+msgctxt "39546"
+msgid ""
+"俺にはまだ、やるべきことがある。\n"
+"こんなところで、殺されちゃかなわん。"
+msgstr ""
+
+msgctxt "39617"
+msgid "殺す？"
+msgstr ""
+
+msgctxt "39624"
+msgid ""
+"まずい料理を作った料理人を殺す……\n"
+"あんたのやり方は間違っている。\n"
+"悪いが、抗わせてもらうぜ？"
+msgstr ""
+
+msgctxt "39719"
+msgid "……ほう。なるほどな……"
+msgstr ""
+
+msgctxt "39744"
+msgid "…………サル。"
+msgstr ""
+
+msgctxt "39759"
+msgid "は、はい。"
+msgstr ""
+
+msgctxt "39770"
+msgid "お前……　また嘘をついたのか!!"
+msgstr ""
+
+msgctxt "39801"
+msgid "ひ、ひいいいいっ！　すみませぬ！"
+msgstr ""
+
+msgctxt "39834"
+msgid "……嘘？"
+msgstr ""
+
+msgctxt "39843"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39844"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39845"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39846"
+msgid ""
+"そうか。まずい料理人を殺すというのは、猿吉さんが\n"
+"ついた嘘だったのか……"
+msgstr ""
+
+msgctxt "39919"
+msgid ""
+"も、申し訳ない。\n"
+"将軍に美味しい料理を作ってほしくてな。"
+msgstr ""
+
+msgctxt "39976"
+msgid ""
+"ああいう風に言えば、\n"
+"死ぬ気で美味いものを作ってくれるかと……"
+msgstr ""
+
+msgctxt "40039"
+msgid ""
+"なるほどな。だが、ちょっと冗談がきつすぎる。\n"
+"緊張して逆効果になってしまったしな。\n"
+"こっちの身にもなってくれ……"
+msgstr ""
+
+msgctxt "40152"
+msgid ""
+"まったくだ。お主のせいで、わしの評判も\n"
+"ガタ落ちだ。仕方ない奴よのう。"
+msgstr ""
+
+msgctxt "40223"
+msgid "ほ、本当に申し訳ない。"
+msgstr ""
+
+msgctxt "40246"
+msgid ""
+"まぁ、こいつも悪気はなかったんだ。\n"
+"許してやってくれ。"
+msgstr ""
+
+msgctxt "40301"
+msgid "それでは、帰るとするか。"
+msgstr ""
+
+msgctxt "40326"
+msgid "迷惑かけたな。"
+msgstr ""
+
+msgctxt "40341"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40342"
+msgid ""
+"今回は色々と迷惑かけて、すまんかったのぅ。\n"
+"料理が失敗したから褒美は多くはやれんが……\n"
+"これは気持ちだ。"
+msgstr ""
+
+msgctxt "40447"
+msgid "「<Color:8>金の金槌<Color:Default>」を貰った。"
+msgstr ""
+
+msgctxt "40494"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40495"
+msgid ""
+"料理は下手だが、あんたは大したもんだ。\n"
+"まさか、あの状況から生き残れるとはのぅ……"
+msgstr ""
+
+msgctxt "40578"
+msgid "ふっ。もう嘘をつく必要はないだろう？"
+msgstr ""
+
+msgctxt "40615"
+msgid ""
+"え？　……あ、ああ。そうだったのう。\n"
+"では、達者でな。"
+msgstr ""
+
+msgctxt "40670"
+msgid ""
+"おいサル！\n"
+"私の草履はどこだ！"
+msgstr ""
+
+msgctxt "40701"
+msgid ""
+"申し訳ございません御館様！\n"
+"懐で温めっぱなしでした！"
+msgstr ""
+
+msgctxt "40754"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40755"
+msgid ""
+"（まずい料理をだせば殺される、か。\n"
+"　そんな馬鹿な話があるわけないよな。\n"
+"　真に受けてしまう俺もばかだな）"
+msgstr ""
+
+msgctxt "40862"
+msgid ""
+"（料理も失敗してしまったが……\n"
+"　まぁ、何事もなく終われたし、よしとするか）"
+msgstr ""
+
+msgctxt "40939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40940"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40942"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40943"
+msgid "……いいんですか？　あれで？"
+msgstr ""
+
+msgctxt "40972"
+msgid ""
+"……あいつは強い。\n"
+"下手したら、刺し違えるかもしれんだろ。\n"
+"それくらいの判断はつく。"
+msgstr ""
+
+msgctxt "41057"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41058"
+msgid "ふふふ。……冗談がお上手ですね。"
+msgstr ""
+
+msgctxt "41091"
+msgid "お主も……　嘘が上手だのぅ。"
+msgstr ""
+
+msgctxt "41120"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41121"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41122"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41123"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45592"
+msgid "男の声"
+msgstr ""
+
+msgctxt "45599"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "45604"
+msgid "0"
+msgstr ""
+
+msgctxt "45606"
+msgid "dummy"
+msgstr ""
+
+msgctxt "45612"
+msgid "来客の男"
+msgstr ""
+
+msgctxt "45621"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "45632"
+msgid "猿吉"
+msgstr ""
+
+msgctxt "45637"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "45646"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "45657"
+msgid "M_BUS_TLK_stand_surp"
+msgstr ""
+
+msgctxt "45678"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "45686"
+msgid "M_CHO_ACT_stand_atc_think_lp"
+msgstr ""
+
+msgctxt "45715"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "45724"
+msgid "M_CHO_ACT_stand_atc_think_st"
+msgstr ""
+
+msgctxt "45753"
+msgid "M_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "45775"
+msgid "M_CHO_ACT_stand_atc_think_en"
+msgstr ""
+
+msgctxt "45804"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "45816"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "45827"
+msgid "M_CHO_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "45850"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "45862"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "45875"
+msgid "作る"
+msgstr ""
+
+msgctxt "45880"
+msgid "断る"
+msgstr ""
+
+msgctxt "45885"
+msgid "Talk_Sad"
+msgstr ""
+
+msgctxt "45894"
+msgid "P_KRU_TLK_stand_ase"
+msgstr ""
+
+msgctxt "45914"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "45925"
+msgid "遥"
+msgstr ""
+
+msgctxt "45928"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "45939"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "45950"
+msgid "M_BUS_TLK_stand_yes"
+msgstr ""
+
+msgctxt "45970"
+msgid "M_BUS_TLK_stand_think"
+msgstr ""
+
+msgctxt "45992"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "46014"
+msgid "P_KRU_TLK_stand_pet_pose_en"
+msgstr ""
+
+msgctxt "46042"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "46052"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "46062"
+msgid "M_BUS_TLK_stand_ase"
+msgstr ""
+
+msgctxt "46082"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "46095"
+msgid "kaiwabgm_sub_apathy_01"
+msgstr ""
+
+msgctxt "46118"
+msgid "桶狭間"
+msgstr ""
+
+msgctxt "46125"
+msgid "P_KRU_TLK_stand_no"
+msgstr ""
+
+msgctxt "46144"
+msgid "お付きの者"
+msgstr ""
+
+msgctxt "46155"
+msgid "P_KRU_TLK_stand_yes"
+msgstr ""
+
+msgctxt "46175"
+msgid "P_KRU_TLK_agura_yes"
+msgstr ""
+
+msgctxt "46195"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "46202"
+msgid "P_KRU_TLK_agura_eat_washoku"
+msgstr ""
+
+msgctxt "46230"
+msgid "M_BUS_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "46252"
+msgid "M_BUS_TLK_agura_think"
+msgstr ""
+
+msgctxt "46274"
+msgid "M_BUS_TLK_agura_kansin"
+msgstr ""
+
+msgctxt "46297"
+msgid "kaiwabgm_sub_apathy_04"
+msgstr ""
+
+msgctxt "46320"
+msgid "M_BUS_TLK_seiza_surp"
+msgstr ""
+
+msgctxt "46341"
+msgid "M_BUS_TLK_seiza_kansin"
+msgstr ""
+
+msgctxt "46364"
+msgid "M_BUS_TLK_agura_yes"
+msgstr ""
+
+msgctxt "46384"
+msgid "P_KRU_TLK_agura_no"
+msgstr ""
+
+msgctxt "46403"
+msgid "M_BUS_TLK_agura_quest"
+msgstr ""
+
+msgctxt "46425"
+msgid "P_KRU_TLK_agura_angry"
+msgstr ""
+
+msgctxt "46447"
+msgid "M_BUS_TLK_seiza_sad"
+msgstr ""
+
+msgctxt "46467"
+msgid "M_BUS_TLK_agura_angry"
+msgstr ""
+
+msgctxt "46489"
+msgid "M_BUS_TLK_seiza_request"
+msgstr ""
+
+msgctxt "46513"
+msgid "P_KRU_TLK_agura_surp"
+msgstr ""
+
+msgctxt "46534"
+msgid "M_BUS_TLK_agura_no"
+msgstr ""
+
+msgctxt "46553"
+msgid "M_BUS_TLK_seiza_ojigi"
+msgstr ""
+
+msgctxt "46575"
+msgid "M_BUS_TLK_agura_ojigi"
+msgstr ""
+
+msgctxt "46597"
+msgid "M_BUS_TLK_agura_sad"
+msgstr ""
+
+msgctxt "46617"
+msgid "P_KRU_TLK_agura_smile"
+msgstr ""
+
+msgctxt "46639"
+msgid "M_BUS_TLK_agura_smile"
+msgstr ""
+
+msgctxt "46661"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "46683"
+msgid "M_BUS_TLK_agura_to_stand"
+msgstr ""
+
+msgctxt "46708"
+msgid "M_BUS_TLK_stand_ojigi"
+msgstr ""
+
+msgctxt "46730"
+msgid "M_BUS_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "46753"
+msgid "P_KRU_TLK_stand_smile"
+msgstr ""
+
+msgctxt "46775"
+msgid "桶狭間の声"
+msgstr ""
+
+msgctxt "46786"
+msgid "P_KRU_TLK_agura_sad"
+msgstr ""
+
+msgctxt "46806"
+msgid "M_BUS_TLK_agura_surp"
+msgstr ""

@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "149404"
+msgid "さあて　これからどないするんや歳チャン"
+msgstr ""
+
+msgctxt "149548"
+msgid "隊士のほとんどは伊東に付いて行った"
+msgstr ""
+
+msgctxt "149692"
+msgid ""
+"こうなったらもう\n"
+"新選組としてできることはない"
+msgstr ""
+
+msgctxt "149836"
+msgid ""
+"しかしまさか\n"
+"あの平助までが俺らを裏切るとはなあ"
+msgstr ""
+
+msgctxt "149980"
+msgid "土方"
+msgstr ""
+
+msgctxt "150124"
+msgid "ひとつ聞きたいことがある"
+msgstr ""
+
+msgctxt "150268"
+msgid "何だ"
+msgstr ""
+
+msgctxt "150412"
+msgid ""
+"近藤さんが\n"
+"あんたに残した“策”ってのは"
+msgstr ""
+
+msgctxt "150556"
+msgid ""
+"裏切り者をあぶり出した\n"
+"あの幹部会のことだったのか？"
+msgstr ""
+
+msgctxt "150700"
+msgid "そうだが"
+msgstr ""
+
+msgctxt "150844"
+msgid ""
+"なんや　一（はじめ）ちゃん\n"
+"なんか気になるんか？"
+msgstr ""
+
+msgctxt "150988"
+msgid "いや"
+msgstr ""
+
+msgctxt "151132"
+msgid ""
+"伊東はもともと\n"
+"野心を隠そうともしていなかった男だ"
+msgstr ""
+
+msgctxt "151276"
+msgid "近藤さんなら伊東の裏切りくらい"
+msgstr ""
+
+msgctxt "151420"
+msgid "とっくに見抜いていたんじゃねえかと思う"
+msgstr ""
+
+msgctxt "151564"
+msgid "まあ　それはそうやが"
+msgstr ""
+
+msgctxt "151708"
+msgid "近藤さんの“最期の策”ってのは"
+msgstr ""
+
+msgctxt "151852"
+msgid "まだ他にあるんじゃないのか？"
+msgstr ""
+
+msgctxt "151996"
+msgid "どないやねん歳チャン"
+msgstr ""
+
+msgctxt "152140"
+msgid ""
+"敵を欺くには身内からと思っていたが\n"
+"致し方ない"
+msgstr ""
+
+msgctxt "152284"
+msgid "入れ"
+msgstr ""
+
+msgctxt "152428"
+msgid "ちょっと早くないすか土方さん"
+msgstr ""
+
+msgctxt "152572"
+msgid ""
+"もうちょっと\n"
+"引っ張ってくれてもよかったのに"
+msgstr ""
+
+msgctxt "152716"
+msgid "平助"
+msgstr ""
+
+msgctxt "152860"
+msgid "斎藤　いや坂本君の読み通りだ"
+msgstr ""
+
+msgctxt "153004"
+msgid "近藤さんの最期の策"
+msgstr ""
+
+msgctxt "153148"
+msgid "それは伊東を使い……"
+msgstr ""
+
+msgctxt "153292"
+msgid "“もう一人の坂本龍馬”をあぶり出すことにある"
+msgstr ""
+
+msgctxt "153436"
+msgid "“もう一人の坂本龍馬”を？"
+msgstr ""
+
+msgctxt "153580"
+msgid "どういうことだ"
+msgstr ""

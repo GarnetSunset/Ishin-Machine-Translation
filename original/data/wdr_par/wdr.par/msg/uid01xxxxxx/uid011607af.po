@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "4840"
+msgid ""
+"ん……？\n"
+"何か変な匂いがするな……"
+msgstr ""
+
+msgctxt "4875"
+msgid "……！"
+msgstr ""
+
+msgctxt "4882"
+msgid "お前らが刀剣一家か？"
+msgstr ""
+
+msgctxt "4903"
+msgid "……"
+msgstr ""
+
+msgctxt "4908"
+msgid "ぐぅぅぅ……"
+msgstr ""
+
+msgctxt "4921"
+msgid "殺す……"
+msgstr ""
+
+msgctxt "4930"
+msgid "ふ、ふふ……"
+msgstr ""
+
+msgctxt "4943"
+msgid ""
+"お松が言っていた通りだ。\n"
+"こいつら、あきらかに様子がおかしい。\n"
+"一体どうなっている……"
+msgstr ""
+
+msgctxt "5030"
+msgid "……！"
+msgstr ""
+
+msgctxt "5037"
+msgid "……やるしかないようだな。"
+msgstr ""
+
+msgctxt "5064"
+msgid "うわぁぁぁ!!"
+msgstr ""
+
+msgctxt "5077"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5078"
+msgid "…………"
+msgstr ""
+
+msgctxt "5087"
+msgid "うぅ……　あなたは？"
+msgstr ""
+
+msgctxt "5108"
+msgid "お前らが刀剣一家か？"
+msgstr ""
+
+msgctxt "5129"
+msgid ""
+"俺は斎藤という。\n"
+"お前らとは幾度となく剣を交えて来たが、\n"
+"ようやく話ができそうだな。"
+msgstr ""
+
+msgctxt "5214"
+msgid ""
+"うぅ……\n"
+"ずっと悪夢を見ていたようだ。"
+msgstr ""
+
+msgctxt "5253"
+msgid "何があったんだ？"
+msgstr ""
+
+msgctxt "5270"
+msgid ""
+"頭がぼーっとしていて、記憶がはっきりしないですが\n"
+"覚えていることをお話しします……"
+msgstr ""
+
+msgctxt "5353"
+msgid ""
+"申し遅れましたが、私は\n"
+"刀剣一家の代表をやっています、\n"
+"行光と申します。"
+msgstr ""
+
+msgctxt "5426"
+msgid ""
+"全ては、村様という妖刀を\n"
+"買ったところから悪夢は始まりました。"
+msgstr ""
+
+msgctxt "5489"
+msgid ""
+"妖刀？\n"
+"確かに禍々しい何かを感じたが……"
+msgstr ""
+
+msgctxt "5530"
+msgid ""
+"私たち刀剣一家はそれぞれ身分などは\n"
+"違いますが刀を収集することに\n"
+"命を懸ける同志たちなのです。"
+msgstr ""
+
+msgctxt "5625"
+msgid ""
+"そんな私たちのもとに、\n"
+"ある日変わった雰囲気の行商人がやってきて……"
+msgstr ""
+
+msgctxt "5694"
+msgid "行商人……"
+msgstr ""
+
+msgctxt "5705"
+msgid ""
+"私たちも珍しい刀があるのではないかと\n"
+"心を躍らせて迎え入れました。"
+msgstr ""
+
+msgctxt "5772"
+msgid ""
+"私は行商人に勧められ\n"
+"妖刀だという村様を買いました。\n"
+"他の面々もそれぞれ刀を購入したようです。"
+msgstr ""
+
+msgctxt "5867"
+msgid ""
+"その日から……　記憶が曖昧なのです。\n"
+"何か悪い夢を見ていたような……"
+msgstr ""
+
+msgctxt "5936"
+msgid ""
+"その行商人が怪しいな……\n"
+"何かされなかったのか？"
+msgstr ""
+
+msgctxt "5985"
+msgid ""
+"ええと……\n"
+"なにせ、刀を買った後は記憶が曖昧で……"
+msgstr ""
+
+msgctxt "6036"
+msgid ""
+"強いて言うとすれば、\n"
+"刀を買ったときにおまけで\n"
+"疲れが取れる香を頂きましたね。"
+msgstr ""
+
+msgctxt "6115"
+msgid ""
+"香か……\n"
+"それがいかにも怪しいな。"
+msgstr ""
+
+msgctxt "6150"
+msgid ""
+"その香は橘組で調べてもらおう。\n"
+"とりあえず手当てが必要だろう。\n"
+"案内するからこっちへ来い。"
+msgstr ""
+
+msgctxt "6241"
+msgid ""
+"ありがとうございます。\n"
+"ぐっ……　うぅ……"
+msgstr ""
+
+msgctxt "6284"
+msgid ""
+"（行商人に香か……\n"
+"　一旦、橘組へ戻ろう）"
+msgstr ""
+
+msgctxt "6327"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7128"
+msgid "Player"
+msgstr ""
+
+msgctxt "7135"
+msgid "目が虚ろな侍"
+msgstr ""
+
+msgctxt "7148"
+msgid "苦しそうな侍"
+msgstr ""
+
+msgctxt "7161"
+msgid "殺気立った侍"
+msgstr ""
+
+msgctxt "7174"
+msgid "半笑いの侍"
+msgstr ""
+
+msgctxt "7185"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "7196"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7207"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "7229"
+msgid "M_BUS_TLK_btl_aft_nw_01_en"
+msgstr ""
+
+msgctxt "7256"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7264"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7275"
+msgid "行光"
+msgstr ""
+
+msgctxt "7280"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "7293"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7302"
+msgid "M_BUS_TLK_btl_aft_nw_01_st"
+msgstr ""
+
+msgctxt "7329"
+msgid "M_BUS_TLK_btl_aft_nw_01_lp"
+msgstr ""

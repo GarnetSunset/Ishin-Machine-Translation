@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2260"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2261"
+msgid ""
+"くっ……　武市先生がお待ちじゃ。\n"
+"どうぞ中へ。"
+msgstr ""
+
+msgctxt "2308"
+msgid ""
+"おぬしが坂本やな。\n"
+"話は聞いている。どうぞ中へ。"
+msgstr ""
+
+msgctxt "2357"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2358"
+msgid ""
+"どこのモンとも知れん奴を\n"
+"先生に会わすわけにはいかん。お引き取り願おう。"
+msgstr ""
+
+msgctxt "2431"
+msgid "（「武市道場」……　ここに武市がいるのか？）"
+msgstr ""
+
+msgctxt "2476"
+msgid "何じゃ、おんしは？"
+msgstr ""
+
+msgctxt "2495"
+msgid ""
+"坂本龍馬という。武市半平太に会いに来たんだが、\n"
+"取り次いでもらえないか？"
+msgstr ""
+
+msgctxt "2568"
+msgid "坂本龍馬……？　おまんが……？"
+msgstr ""
+
+msgctxt "2599"
+msgid "俺を知っているのか？"
+msgstr ""
+
+msgctxt "2620"
+msgid ""
+"……フン、あいにく、武市先生は稽古中じゃ。\n"
+"それに、おまんが坂本龍馬やっちゅう\n"
+"証拠もないしの。"
+msgstr ""
+
+msgctxt "2717"
+msgid "何……？"
+msgstr ""
+
+msgctxt "2726"
+msgid ""
+"どこのモンとも知れん奴を\n"
+"先生に会わすわけにはいかん。お引き取り願おう。"
+msgstr ""
+
+msgctxt "2799"
+msgid "……"
+msgstr ""
+
+msgctxt "2804"
+msgid ""
+"（チッ。\n"
+"　土佐勤王党ってのは、案外面倒な集団らしい。\n"
+"　親っさんが言っていたのはこういうことか……）"
+msgstr ""
+
+msgctxt "2907"
+msgid "（……仕方ない。武市に会う方法を探るか）"
+msgstr ""
+
+msgctxt "2948"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3100"
+msgid "門番"
+msgstr ""
+
+msgctxt "3105"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "3110"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3119"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3130"
+msgid "Talk_No"
+msgstr ""

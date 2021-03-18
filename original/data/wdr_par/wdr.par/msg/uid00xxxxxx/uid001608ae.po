@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1712"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1713"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1714"
+msgid ""
+"俺たちと一緒に\n"
+"訓練していくかい？"
+msgstr ""
+
+msgctxt "1749"
+msgid ""
+"どれだけ上手く立ち回れるかの訓練だ。\n"
+"６０秒以内に俺たち２０人を倒せたら\n"
+"役立つものをやれとお頭に言われている。"
+msgstr ""
+
+msgctxt "1862"
+msgid "（どうするか……？）"
+msgstr ""
+
+msgctxt "1883"
+msgid "今はやめておこう。"
+msgstr ""
+
+msgctxt "1902"
+msgid "そうか、また来てくれよな。"
+msgstr ""
+
+msgctxt "1929"
+msgid "ああ、やっていこう。"
+msgstr ""
+
+msgctxt "1950"
+msgid ""
+"モタモタしてると６０秒なんてすぐだからな。\n"
+"では行くぞ！"
+msgstr ""
+
+msgctxt "2007"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2008"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2009"
+msgid ""
+"残念だったな。\n"
+"また挑戦してくれ。"
+msgstr ""
+
+msgctxt "2044"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2045"
+msgid ""
+"見事な立ち回りだった。\n"
+"これを持って行ってくれ。"
+msgstr ""
+
+msgctxt "2094"
+msgid "「<Color:8>金色の金属粉<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "2145"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2146"
+msgid ""
+"実践的な修行はやればやるほど身に付くと\n"
+"お頭は言っていた。\n"
+"また、挑戦してくれよな。"
+msgstr ""
+
+msgctxt "2231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2248"
+msgid "怖そうな浪人"
+msgstr ""
+
+msgctxt "2261"
+msgid "Player"
+msgstr ""
+
+msgctxt "2268"
+msgid "訓練していこう"
+msgstr ""
+
+msgctxt "2283"
+msgid "今はやめておく"
+msgstr ""

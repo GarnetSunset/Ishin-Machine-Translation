@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5768"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5769"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5770"
+msgid "へぇ、なかなかやるじゃねえか……"
+msgstr ""
+
+msgctxt "5803"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5804"
+msgid "いや……　あんたらが弱すぎるだけだ。"
+msgstr ""
+
+msgctxt "5841"
+msgid ""
+"な、なんだとこらあ！\n"
+"もういっぺん言ってみろや!!"
+msgstr ""
+
+msgctxt "5890"
+msgid ""
+"どうも俺の見込み違いだったらしい。\n"
+"……邪魔したな。"
+msgstr ""
+
+msgctxt "5943"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5945"
+msgid ""
+"まだ来たばっかりじゃねえか。\n"
+"慌てて帰るこたねえだろ！"
+msgstr ""
+
+msgctxt "6000"
+msgid "俺らも相手してくれや。……なあ？"
+msgstr ""
+
+msgctxt "6033"
+msgid ""
+"相手してやってもいいが……\n"
+"その前にひとつ聞きたいことがある。"
+msgstr ""
+
+msgctxt "6096"
+msgid "あ？"
+msgstr ""
+
+msgctxt "6101"
+msgid ""
+"「天念理心流」の使い手を\n"
+"知っているって奴はいねえか？"
+msgstr ""
+
+msgctxt "6156"
+msgid "「天念理心流」？"
+msgstr ""
+
+msgctxt "6173"
+msgid "江戸の「試衛館」って道場に伝わる田舎流派だ。"
+msgstr ""
+
+msgctxt "6218"
+msgid "な、なんじゃそりゃ。"
+msgstr ""
+
+msgctxt "6239"
+msgid ""
+"柔術や棒術、古武道も節操無く\n"
+"取りこんで型より実戦を重視している。\n"
+"その使い手を探してんだ。"
+msgstr ""
+
+msgctxt "6332"
+msgid "それで町のめぼしい道場を聞き回ってるんだが……"
+msgstr ""
+
+msgctxt "6379"
+msgid ""
+"「天念理心流」っつったか？\n"
+"聞いたこともねえよ、そんな田舎流派。"
+msgstr ""
+
+msgctxt "6444"
+msgid "……それで話はしまいか？"
+msgstr ""
+
+msgctxt "6469"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6470"
+msgid "ああ……　やっぱり無駄足だったな。"
+msgstr ""
+
+msgctxt "6505"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6506"
+msgid ""
+"フッ、おい待てや。\n"
+"ここに来たこと後悔すんのはまだ早すぎるぜ。"
+msgstr ""
+
+msgctxt "6569"
+msgid "なあ？"
+msgstr ""
+
+msgctxt "6576"
+msgid "…………"
+msgstr ""
+
+msgctxt "6585"
+msgid "せっかく道場まで来たんじゃねえか……"
+msgstr ""
+
+msgctxt "6622"
+msgid "たっぷり稽古つけてやるよ！　ありがたく思えや!!"
+msgstr ""
+
+msgctxt "6669"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6670"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6671"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8020"
+msgid "不敵な道場生"
+msgstr ""
+
+msgctxt "8033"
+msgid "dojo2_c02_015_01"
+msgstr ""
+
+msgctxt "8050"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "8061"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "8072"
+msgid "Player"
+msgstr ""
+
+msgctxt "8079"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "8090"
+msgid "kiryu_c02_015_01"
+msgstr ""
+
+msgctxt "8107"
+msgid "dojo2_c02_015_02"
+msgstr ""
+
+msgctxt "8124"
+msgid "kiryu_c02_015_02"
+msgstr ""
+
+msgctxt "8141"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "8152"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "8163"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "8174"
+msgid "dojo2_c02_015_03"
+msgstr ""
+
+msgctxt "8191"
+msgid "好戦的な道場生"
+msgstr ""
+
+msgctxt "8206"
+msgid "dojo3_c02_015_01"
+msgstr ""
+
+msgctxt "8223"
+msgid "TLK_SCN009"
+msgstr ""
+
+msgctxt "8234"
+msgid "kiryu_c02_015_03"
+msgstr ""
+
+msgctxt "8251"
+msgid "dojo2_c02_015_04"
+msgstr ""
+
+msgctxt "8268"
+msgid "TLK_SCN011"
+msgstr ""
+
+msgctxt "8279"
+msgid "kaiwabgm_fuon_06"
+msgstr ""
+
+msgctxt "8296"
+msgid "kiryu_c02_015_04"
+msgstr ""
+
+msgctxt "8313"
+msgid "dojo2_c02_015_05"
+msgstr ""
+
+msgctxt "8330"
+msgid "TLK_SCN013"
+msgstr ""
+
+msgctxt "8341"
+msgid "kiryu_c02_015_05"
+msgstr ""
+
+msgctxt "8358"
+msgid "dojo2_c02_015_06"
+msgstr ""
+
+msgctxt "8375"
+msgid "TLK_SCN015"
+msgstr ""
+
+msgctxt "8386"
+msgid "kiryu_c02_015_06"
+msgstr ""
+
+msgctxt "8403"
+msgid "2d_yk_C2-015"
+msgstr ""
+
+msgctxt "8416"
+msgid "kiryu_c02_015_07"
+msgstr ""
+
+msgctxt "8433"
+msgid "TLK_SCN017"
+msgstr ""
+
+msgctxt "8444"
+msgid "dojo2_c02_015_07"
+msgstr ""
+
+msgctxt "8461"
+msgid "dojo2_c02_015_07b"
+msgstr ""
+
+msgctxt "8479"
+msgid "TLK_SCN019"
+msgstr ""
+
+msgctxt "8490"
+msgid "kiryu_c02_015_08"
+msgstr ""
+
+msgctxt "8507"
+msgid "TLK_SCN021"
+msgstr ""
+
+msgctxt "8518"
+msgid "dojo2_c02_015_08"
+msgstr ""
+
+msgctxt "8535"
+msgid "kaiwabgm_kinpaku_02"
+msgstr ""
+
+msgctxt "8555"
+msgid "dojo2_c02_015_08b"
+msgstr ""
+
+msgctxt "8573"
+msgid "dojo2_c02_015_09"
+msgstr ""
+
+msgctxt "8590"
+msgid "TLK_SCN023"
+msgstr ""
+
+msgctxt "8601"
+msgid "dojo2_c02_015_09b"
+msgstr ""

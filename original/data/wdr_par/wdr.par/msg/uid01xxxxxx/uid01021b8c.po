@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3032"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3033"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3034"
+msgid "一（はじめ）さん、出かけるんやったら気ぃつけや。"
+msgstr ""
+
+msgctxt "3083"
+msgid ""
+"あんたみたいな\n"
+"素性の怪しいご浪人がうろうろしてはると……"
+msgstr ""
+
+msgctxt "3142"
+msgid "新選組の連中に斬られる、だろ？"
+msgstr ""
+
+msgctxt "3173"
+msgid ""
+"そう。まったく……\n"
+"京都の治安を守るためやいうけど、\n"
+"ちょっと怪しいいうだけで手当たり次第や。"
+msgstr ""
+
+msgctxt "3268"
+msgid ""
+"幕府が新選組作ってからこっち、\n"
+"町中血なまぐさくてかなわんわ。"
+msgstr ""
+
+msgctxt "3331"
+msgid "そうだな。"
+msgstr ""
+
+msgctxt "3342"
+msgid ""
+"博打やらお酒飲むために出歩いて殺されちゃ\n"
+"親も泣くんとちゃう？"
+msgstr ""
+
+msgctxt "3405"
+msgid "フッ、余計な御世話だ。"
+msgstr ""
+
+msgctxt "3428"
+msgid "あっそ。せっかく人が心配して言うてるのに。"
+msgstr ""
+
+msgctxt "3471"
+msgid "俺が死んだら宿代を取りっぱぐれるからな。"
+msgstr ""
+
+msgctxt "3512"
+msgid "フン、好きにいいよし。"
+msgstr ""
+
+msgctxt "3535"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3536"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3537"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3538"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3539"
+msgid ""
+"ここ寺田屋の龍馬の部屋では\n"
+"「セーブ（記録）」「倉庫」が使用できます。\n"
+"\n"
+"また、特定の状況下では「時間帯の変更」を\n"
+"行うことができます。"
+msgstr ""
+
+msgctxt "3676"
+msgid "（さて……　出かけるか）"
+msgstr ""
+
+msgctxt "3701"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4192"
+msgid "F_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "4214"
+msgid "F_CHO_ACT_stand_atc_think_en"
+msgstr ""
+
+msgctxt "4243"
+msgid "お登勢"
+msgstr ""
+
+msgctxt "4250"
+msgid "otose_c02_010_01"
+msgstr ""
+
+msgctxt "4267"
+msgid "otose_c02_010_01b"
+msgstr ""
+
+msgctxt "4285"
+msgid "Player"
+msgstr ""
+
+msgctxt "4292"
+msgid "kiryu_c02_010_01"
+msgstr ""
+
+msgctxt "4309"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4318"
+msgid "otose_c02_010_02"
+msgstr ""
+
+msgctxt "4335"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4343"
+msgid "otose_c02_010_02b"
+msgstr ""
+
+msgctxt "4361"
+msgid "kiryu_c02_010_02"
+msgstr ""
+
+msgctxt "4378"
+msgid "otose_c02_010_03"
+msgstr ""
+
+msgctxt "4395"
+msgid "kiryu_c02_010_03"
+msgstr ""
+
+msgctxt "4412"
+msgid "otose_c02_010_04"
+msgstr ""
+
+msgctxt "4429"
+msgid "kiryu_c02_010_04"
+msgstr ""
+
+msgctxt "4446"
+msgid "otose_c02_010_05"
+msgstr ""
+
+msgctxt "4463"
+msgid "龍馬の部屋について"
+msgstr ""

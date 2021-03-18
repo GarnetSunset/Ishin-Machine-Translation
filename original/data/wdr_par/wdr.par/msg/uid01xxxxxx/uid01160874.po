@@ -1,0 +1,917 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "19224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19225"
+msgid ""
+"待っていたよ。\n"
+"君はきっと来てくれると思っていた。"
+msgstr ""
+
+msgctxt "19276"
+msgid ""
+"たまには、己の剣を磨き直すことも大事だからな。\n"
+"少し世話にならせてもらう。"
+msgstr ""
+
+msgctxt "19351"
+msgid ""
+"こちらこそ、よろしくな。\n"
+"弟子たちにもいい刺激になるだろう。"
+msgstr ""
+
+msgctxt "19412"
+msgid ""
+"最初に聞いておきたいんだが\n"
+"君は実戦で、どんな戦い方をしているんだ？"
+msgstr ""
+
+msgctxt "19481"
+msgid ""
+"刀での立ち回りが多いが、銃も持っている。\n"
+"状況次第では、両方同時に扱うこともあるな。"
+msgstr ""
+
+msgctxt "19566"
+msgid "それは一体どういうものなのか興味があるな。"
+msgstr ""
+
+msgctxt "19609"
+msgid ""
+"突然ですまないが、\n"
+"弟子たちと刀を交えてみてくれないか？\n"
+"君の実力を見てみたい。"
+msgstr ""
+
+msgctxt "19690"
+msgid ""
+"まずは刀だけを使って戦ってくれ。\n"
+"拙者が合図をしたら、\n"
+"刀と銃を同時に扱うところを見せて欲しい。"
+msgstr ""
+
+msgctxt "19787"
+msgid "ああ、わかった。"
+msgstr ""
+
+msgctxt "19804"
+msgid "では君たち、全力で頼むよ。"
+msgstr ""
+
+msgctxt "19831"
+msgid ""
+"はい、私たちがお相手致します！\n"
+"遠慮せず来てください。"
+msgstr ""
+
+msgctxt "19886"
+msgid "では、はじめっ！"
+msgstr ""
+
+msgctxt "19903"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19904"
+msgid "うむ、美しかったぞ！"
+msgstr ""
+
+msgctxt "19925"
+msgid ""
+"「<Color:9>美技　霞ノ太刀<Color:Default>」の封印が解かれました。\n"
+"能力強化画面で魂球をはめることで修得できます。"
+msgstr ""
+
+msgctxt "20038"
+msgid ""
+"「<Color:9>美技　風流し<Color:Default>」の封印が解かれました。\n"
+"能力強化画面で魂球をはめることで修得できます。"
+msgstr ""
+
+msgctxt "20149"
+msgid "あ痛たたたた……"
+msgstr ""
+
+msgctxt "20166"
+msgid ""
+"ありがとうございました！\n"
+"勉強になりました！"
+msgstr ""
+
+msgctxt "20211"
+msgid ""
+"いや、お前らも中々のものだった。\n"
+"よく稽古されている。"
+msgstr ""
+
+msgctxt "20266"
+msgid ""
+"彼らはみな、日々稽古に励んでくれている。\n"
+"粗削りではあるが、将来が有望な弟子たちだ。"
+msgstr ""
+
+msgctxt "20351"
+msgid ""
+"しかし、君の強さは予想以上だよ。\n"
+"戦い方こそ荒い部分が目立つが\n"
+"それぞれの技の奥に、確かな素養を感じる。"
+msgstr ""
+
+msgctxt "20456"
+msgid ""
+"もしよければ、しばらくこの道場に通わないか？\n"
+"君なら、拙者の目指す美しい剣を\n"
+"体現できるかもしれない。"
+msgstr ""
+
+msgctxt "20559"
+msgid ""
+"美しい剣、か。\n"
+"今まで考えたこともなかったな。"
+msgstr ""
+
+msgctxt "20606"
+msgid ""
+"確かにあんたの言うとおり、剣術の型は\n"
+"本来美しくあるべきだ。\n"
+"……基本を学び直すのも、悪くないかもしれんな。"
+msgstr ""
+
+msgctxt "20715"
+msgid ""
+"君の振るう剣は、実戦向けだから粗く見えるが\n"
+"基本はしっかりできている。"
+msgstr ""
+
+msgctxt "20786"
+msgid ""
+"ここで稽古を積めば\n"
+"強さと美しさ、両方を兼ね揃えた\n"
+"素晴らしい剣術になるだろう。"
+msgstr ""
+
+msgctxt "20867"
+msgid ""
+"なるほどな……\n"
+"だが、道場というからには無償ではないだろう？"
+msgstr ""
+
+msgctxt "20928"
+msgid ""
+"拙者の道場はちょっと特別でな。\n"
+"お金は取っていないのだ。"
+msgstr ""
+
+msgctxt "20985"
+msgid ""
+"拙者は珍しい刀に目がなくてな。\n"
+"お金の代わりに珍しい刀を見せてほしい。"
+msgstr ""
+
+msgctxt "21056"
+msgid ""
+"なんといっても、\n"
+"珍しいものはすべて美しいからな！"
+msgstr ""
+
+msgctxt "21107"
+msgid "ああ、見せるだけでいいんだな？"
+msgstr ""
+
+msgctxt "21138"
+msgid ""
+"はは、取ったりしないから安心してくれ。\n"
+"まずは少し珍しいくらいの刀を頼むよ。"
+msgstr ""
+
+msgctxt "21215"
+msgid ""
+"希少度★★★の刀を\n"
+"装備してきてください"
+msgstr ""
+
+msgctxt "21256"
+msgid ""
+"吟柳道場では、珍しい刀を見せることによって\n"
+"様々な技を教えて貰うことができます。\n"
+"\n"
+"刀は見せても無くならないので、指定された希少度の刀を作成したら、\n"
+"刀を<Color:7>装備<Color:Default>してから吟柳に話しかけましょう。"
+msgstr ""
+
+msgctxt "21471"
+msgid "まぁ気が向いたらな。"
+msgstr ""
+
+msgctxt "21492"
+msgid "ああ、待っているよ。"
+msgstr ""
+
+msgctxt "21513"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21514"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21515"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21516"
+msgid ""
+"よく来てくれた。\n"
+"珍しい刀を持ってきてくれたのか？"
+msgstr ""
+
+msgctxt "21567"
+msgid "…………"
+msgstr ""
+
+msgctxt "21576"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21577"
+msgid "「<Color:8>吉行<Color:Default>」を見せた"
+msgstr ""
+
+msgctxt "21618"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21619"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21620"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21621"
+msgid "「<Color:8>夜叉丸<Color:Default>」を見せた"
+msgstr ""
+
+msgctxt "21664"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21665"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21666"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21667"
+msgid "「<Color:8>雅丸<Color:Default>」を見せた"
+msgstr ""
+
+msgctxt "21708"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21709"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21710"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21711"
+msgid "「<Color:8>石切丸<Color:Default>」を見せた"
+msgstr ""
+
+msgctxt "21754"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21755"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21756"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21757"
+msgid "「<Color:8>小狐丸<Color:Default>」を見せた"
+msgstr ""
+
+msgctxt "21800"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21801"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21802"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21803"
+msgid "「<Color:8>鮪切<Color:Default>」を見せた"
+msgstr ""
+
+msgctxt "21844"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21845"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21846"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21847"
+msgid "「<Color:8>輝上文字<Color:Default>」を見せた"
+msgstr ""
+
+msgctxt "21892"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21893"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21894"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21895"
+msgid "「<Color:8>吼紅<Color:Default>」を見せた"
+msgstr ""
+
+msgctxt "21936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21937"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21938"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21939"
+msgid ""
+"この刀は拙者の望むものではないな……\n"
+"指定した珍しさの刀を持ってきてくれ。"
+msgstr ""
+
+msgctxt "22014"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22015"
+msgid ""
+"ん？　これは前に見せてもらった刀だな。\n"
+"できれば、まだ見たことのない刀を持ってきてくれ。"
+msgstr ""
+
+msgctxt "22104"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22105"
+msgid ""
+"希少度★★★の刀を\n"
+"装備してきてください"
+msgstr ""
+
+msgctxt "22146"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22147"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22148"
+msgid ""
+"おお！　これは美しい！\n"
+"やはり美しいものはいい。"
+msgstr ""
+
+msgctxt "22197"
+msgid ""
+"本当に強い者は自分の得物にも\n"
+"こだわるものだからな。\n"
+"まぁ単純に拙者が好きというのもあるが……"
+msgstr ""
+
+msgctxt "22292"
+msgid "これで稽古をつけてもらえるのか？"
+msgstr ""
+
+msgctxt "22325"
+msgid ""
+"ああ、もちろんだ。\n"
+"それでは始めるとしよう。"
+msgstr ""
+
+msgctxt "22370"
+msgid ""
+"今回行うのは\n"
+"一対一で戦う時の美しさの追求だ。"
+msgstr ""
+
+msgctxt "22417"
+msgid "どういうことだ？"
+msgstr ""
+
+msgctxt "22434"
+msgid ""
+"まずは、相手の攻撃を受けないことを考えるんだ。\n"
+"斬られてしまっては、美しさどころの話ではない。"
+msgstr ""
+
+msgctxt "22529"
+msgid ""
+"もちろん、避けたり、受け流したりするときにも\n"
+"常に美しさを意識して動くことが重要だ。"
+msgstr ""
+
+msgctxt "22614"
+msgid ""
+"なるほどな。\n"
+"確かに自分がやられていては話にならないな。"
+msgstr ""
+
+msgctxt "22671"
+msgid "まずは、言われた通り戦ってみてくれ。"
+msgstr ""
+
+msgctxt "22708"
+msgid "ああ、わかった。"
+msgstr ""
+
+msgctxt "22725"
+msgid ""
+"今日は私がお相手します。\n"
+"宜しくお願いします！"
+msgstr ""
+
+msgctxt "22772"
+msgid "（どちらの戦い方で挑むか……）"
+msgstr ""
+
+msgctxt "22803"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22804"
+msgid ""
+"準備ができたようだな。\n"
+"それでは始めるとしよう。"
+msgstr ""
+
+msgctxt "22853"
+msgid ""
+"今回やることは前回と同じ、\n"
+"一対一で戦う時の美しさの追求だ。\n"
+"だが、この前とは違う型で戦ってみてくれ。"
+msgstr ""
+
+msgctxt "22956"
+msgid ""
+"基本は、相手の攻撃を受けないこと。\n"
+"それに加えて、華麗に避けたり\n"
+"受け流したりすることが美しさへ繋がっていく。"
+msgstr ""
+
+msgctxt "23067"
+msgid "では今回も言われた通り戦ってみてくれ。"
+msgstr ""
+
+msgctxt "23106"
+msgid "宜しくお願いします！"
+msgstr ""
+
+msgctxt "23127"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23128"
+msgid "では、始め！"
+msgstr ""
+
+msgctxt "23141"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23142"
+msgid "では、始め！"
+msgstr ""
+
+msgctxt "23155"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23156"
+msgid ""
+"美しい！\n"
+"今の技は良かった！"
+msgstr ""
+
+msgctxt "23185"
+msgid ""
+"「<Color:9>美技　閃の太刀<Color:Default>」の封印が解かれました。\n"
+"能力強化画面で魂球をはめることで修得できます。"
+msgstr ""
+
+msgctxt "23298"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23299"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23300"
+msgid ""
+"今のでよかったのか？\n"
+"多少意識はしたが、大きく形を変えたつもりは\n"
+"ないんだが……"
+msgstr ""
+
+msgctxt "23381"
+msgid ""
+"いや、十分に素晴らしいよ。\n"
+"この調子で美しい戦い方を身につけていってくれ。"
+msgstr ""
+
+msgctxt "23456"
+msgid ""
+"美しく戦うことによって得られるものは多い。\n"
+"何も考えずにただ戦うよりも\n"
+"より多くのものを得ることができる。"
+msgstr ""
+
+msgctxt "23563"
+msgid ""
+"頭を使いながら戦うということでもあるのか。\n"
+"なるほどな。"
+msgstr ""
+
+msgctxt "23620"
+msgid ""
+"次は違う型の稽古だ。\n"
+"基本は同じだから、刀の方はいらないよ。\n"
+"君の都合のいい時に話しかけてくれ。"
+msgstr ""
+
+msgctxt "23717"
+msgid "ああ、わかった。"
+msgstr ""
+
+msgctxt "23734"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23735"
+msgid ""
+"持っている武器や状況によって、\n"
+"美しく戦う方法は変わってくる。"
+msgstr ""
+
+msgctxt "23798"
+msgid ""
+"周りをよく見ること、\n"
+"自分の状況を理解することが最も重要なのだ。"
+msgstr ""
+
+msgctxt "23863"
+msgid ""
+"なるほどな。\n"
+"これからは意識してみるとしよう。"
+msgstr ""
+
+msgctxt "23910"
+msgid ""
+"では今回の稽古はこれで終了とする。\n"
+"次は実践で美しい戦いをしてもらおう。\n"
+"準備ができたら声をかけてくれ。"
+msgstr ""
+
+msgctxt "24015"
+msgid "ああ、わかった。"
+msgstr ""
+
+msgctxt "24032"
+msgid ""
+"美しい！\n"
+"今の一戦は良かった！"
+msgstr ""
+
+msgctxt "24063"
+msgid ""
+"「<Color:9>美技　月見酒<Color:Default>」の封印が解かれました。\n"
+"能力強化画面で魂球をはめることで修得できます。"
+msgstr ""
+
+msgctxt "24174"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24175"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24176"
+msgid ""
+"今のでよかったのか？\n"
+"多少意識はしたが、大きく形を変えたつもりは\n"
+"ないんだが……"
+msgstr ""
+
+msgctxt "24257"
+msgid ""
+"いや、十分に素晴らしいよ。\n"
+"この調子で美しい戦い方を身につけていってくれ。"
+msgstr ""
+
+msgctxt "24332"
+msgid ""
+"美しく戦うことによって得られるものは多い。\n"
+"何も考えずにただ戦うよりも\n"
+"より多くのものを得ることができる。"
+msgstr ""
+
+msgctxt "24439"
+msgid ""
+"頭を使いながら戦うということでもあるのか。\n"
+"なるほどな。"
+msgstr ""
+
+msgctxt "24496"
+msgid ""
+"次は違う型の稽古だ。\n"
+"基本は同じだから、刀の方はいらないよ。\n"
+"君の都合のいい時に話しかけてくれ。"
+msgstr ""
+
+msgctxt "24593"
+msgid "ああ、わかった。"
+msgstr ""
+
+msgctxt "24610"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24611"
+msgid ""
+"持っている武器や状況によって、\n"
+"美しく戦う方法は変わってくる。"
+msgstr ""
+
+msgctxt "24674"
+msgid ""
+"周りをよく見ること、\n"
+"自分の状況を理解することが最も重要なのだ。"
+msgstr ""
+
+msgctxt "24739"
+msgid ""
+"なるほどな。\n"
+"これからは意識してみるとしよう。"
+msgstr ""
+
+msgctxt "24786"
+msgid ""
+"では今回の稽古はこれで終了とする。\n"
+"次は実践で美しい戦いをしてもらおう。\n"
+"準備ができたら声をかけてくれ。"
+msgstr ""
+
+msgctxt "24891"
+msgid "ああ、わかった。"
+msgstr ""
+
+msgctxt "24908"
+msgid ""
+"準備はいいかい？\n"
+"戦い方は君に任せるよ。\n"
+"より美しく戦える方でやるといい。"
+msgstr ""
+
+msgctxt "24983"
+msgid ""
+"弟子１人と戦い、拙者が名人と思えるくらい\n"
+"美しい戦いをしたら合格としよう。"
+msgstr ""
+
+msgctxt "25058"
+msgid ""
+"今回は、肩書きを「名人」にすると合格になります。\n"
+"\n"
+"<Color:7>習得している全ての技を自由に使用して構いません<Color:Default>が\n"
+"一刀か乱舞の内、選択した型のみで戦ってください。"
+msgstr ""
+
+msgctxt "25233"
+msgid "宜しくお願いします！"
+msgstr ""
+
+msgctxt "25254"
+msgid "（どちらの戦い方で挑むか……）"
+msgstr ""
+
+msgctxt "25285"
+msgid "では、始め！"
+msgstr ""
+
+msgctxt "25298"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25299"
+msgid "では、始め！"
+msgstr ""
+
+msgctxt "25312"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25313"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25314"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25315"
+msgid ""
+"期待していたほどの美しさは感じられなかったな。\n"
+"君なら、きっとできるはずだ。\n"
+"準備ができたらまた来てくれ。"
+msgstr ""
+
+msgctxt "25422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25423"
+msgid ""
+"素晴らしい。\n"
+"美しい戦い方のコツを掴んだようだな。"
+msgstr ""
+
+msgctxt "25474"
+msgid "ああ、何かつかめたようだ。"
+msgstr ""
+
+msgctxt "25501"
+msgid ""
+"フフッ、それは良かった。\n"
+"では次はそれなりに珍しい刀を持って来てくれ。\n"
+"その時にまた稽古をつけよう。"
+msgstr ""
+
+msgctxt "25602"
+msgid ""
+"希少度★★★★の刀を\n"
+"装備してきてください"
+msgstr ""
+
+msgctxt "25645"
+msgid "ああ、わかった。"
+msgstr ""
+
+msgctxt "26868"
+msgid "吟柳"
+msgstr ""
+
+msgctxt "26873"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "26883"
+msgid "Player"
+msgstr ""
+
+msgctxt "26890"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "26899"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "26910"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "26921"
+msgid "吟柳道場の弟子"
+msgstr ""
+
+msgctxt "26936"
+msgid "E_KNS_WK_stand"
+msgstr ""
+
+msgctxt "26951"
+msgid "E_btlst_KNS_WK_battou_A"
+msgstr ""
+
+msgctxt "26975"
+msgid "E_KNS_LW_stand"
+msgstr ""
+
+msgctxt "26990"
+msgid "E_btlst_KNS_LW_battou_A"
+msgstr ""
+
+msgctxt "27014"
+msgid "E_KNS_HS_stand"
+msgstr ""
+
+msgctxt "27029"
+msgid "E_btlst_KNS_HS_battou_A"
+msgstr ""
+
+msgctxt "27053"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "27064"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "27086"
+msgid "M_BUS_TLK_btl_aft_nw_01_en"
+msgstr ""
+
+msgctxt "27113"
+msgid "M_BUS_TLK_btl_aft_nw_02_lp"
+msgstr ""
+
+msgctxt "27140"
+msgid "M_BUS_TLK_btl_aft_nw_02_st"
+msgstr ""
+
+msgctxt "27167"
+msgid "M_BUS_TLK_btl_aft_nw_03_lp"
+msgstr ""
+
+msgctxt "27194"
+msgid "M_BUS_TLK_btl_aft_nw_03_st"
+msgstr ""
+
+msgctxt "27221"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "27232"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "27244"
+msgid "お題"
+msgstr ""
+
+msgctxt "27249"
+msgid "吟柳の修行について"
+msgstr ""
+
+msgctxt "27268"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "27276"
+msgid "吟柳の弟子"
+msgstr ""
+
+msgctxt "27287"
+msgid "一刀の型"
+msgstr ""
+
+msgctxt "27296"
+msgid "乱舞の型"
+msgstr ""
+
+msgctxt "27305"
+msgid "美しく戦うために"
+msgstr ""

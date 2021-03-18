@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "471024"
+msgid "皆ご苦労だった"
+msgstr ""
+
+msgctxt "471168"
+msgid "桂小五郎は取り逃がしたがな"
+msgstr ""
+
+msgctxt "471312"
+msgid "フン　さすがは“逃げの小五郎”やな"
+msgstr ""
+
+msgctxt "471456"
+msgid ""
+"でも他の志士たちは\n"
+"斬るなり捕えるなり出来たんです"
+msgstr ""
+
+msgctxt "471600"
+msgid "ま　上々じゃないですか？"
+msgstr ""
+
+msgctxt "471744"
+msgid "ああ"
+msgstr ""
+
+msgctxt "471888"
+msgid "それに……"
+msgstr ""
+
+msgctxt "472032"
+msgid "他の収穫もあった"
+msgstr ""
+
+msgctxt "472176"
+msgid "あ？　なんのことや？"
+msgstr ""
+
+msgctxt "472320"
+msgid ""
+"この中に　勤王派の間者が\n"
+"紛れこんでいるのが分かったということだ"
+msgstr ""
+
+msgctxt "472464"
+msgid "ほう？"
+msgstr ""
+
+msgctxt "472608"
+msgid ""
+"しかもそいつはどさくさに紛れて\n"
+"志士どもを逃がそうとしていた"
+msgstr ""
+
+msgctxt "472752"
+msgid ""
+"こん中にそいつが？\n"
+"誰だろうなあ？"
+msgstr ""
+
+msgctxt "472896"
+msgid "あのぉ　土方さん"
+msgstr ""
+
+msgctxt "473040"
+msgid "その裏切り者って……"
+msgstr ""
+
+msgctxt "473184"
+msgid "松原さんのことでしょ？"
+msgstr ""
+
+msgctxt "473328"
+msgid "な　なに言っている？"
+msgstr ""
+
+msgctxt "473472"
+msgid ""
+"平助！　くだらない冗談を言っている\n"
+"場合じゃないぞ！"
+msgstr ""
+
+msgctxt "473616"
+msgid ""
+"松原君\n"
+"君の素性は分かっている"
+msgstr ""
+
+msgctxt "473760"
+msgid "長州藩の人間なんだろう？　君は"
+msgstr ""
+
+msgctxt "473904"
+msgid ""
+"副長！？　そ　そんな！\n"
+"私が長州だなんて"
+msgstr ""
+
+msgctxt "474048"
+msgid "“鴉”とか言ったか"
+msgstr ""
+
+msgctxt "474192"
+msgid ""
+"その情報屋を使い　我々の情報を\n"
+"長州藩に流していたということは調べがついている"
+msgstr ""
+
+msgctxt "474336"
+msgid ""
+"そして\n"
+"その鴉を君が処分したことも"
+msgstr ""
+
+msgctxt "474480"
+msgid "お前　俺のことを売ったのか！"
+msgstr ""
+
+msgctxt "474624"
+msgid "監察の山崎が突き止めたんだ"
+msgstr ""
+
+msgctxt "474768"
+msgid ""
+"３か月ほど前から　君が幾人もの\n"
+"情報屋に接触していることは知っていた"
+msgstr ""
+
+msgctxt "474912"
+msgid ""
+"何かしらの\n"
+"目的があってのことだとは思ったが"
+msgstr ""
+
+msgctxt "475056"
+msgid "まさか長州からの間者だったとはな"
+msgstr ""
+
+msgctxt "475200"
+msgid ""
+"ちょ　ちょっと待ってくれ\n"
+"それならこの新入りだって同じようなもんだ！"
+msgstr ""
+
+msgctxt "475344"
+msgid ""
+"こいつも鴉とは近い関係だった！\n"
+"疑うならこの男も……"
+msgstr ""
+
+msgctxt "475488"
+msgid "見苦しいぞ"
+msgstr ""
+
+msgctxt "475632"
+msgid "どの道裏切り者は粛清される"
+msgstr ""
+
+msgctxt "475776"
+msgid "大人しく死を受けいれたらどうだ"
+msgstr ""
+
+msgctxt "475920"
+msgid ""
+"介錯してやれ\n"
+"斎藤君"
+msgstr ""
+
+msgctxt "476064"
+msgid ""
+"君が鴉という男と接触していたのは\n"
+"新選組に入隊する前なのだろう？"
+msgstr ""
+
+msgctxt "476208"
+msgid "ならばそのことを追求するつもりはない"
+msgstr ""
+
+msgctxt "476352"
+msgid "どうしてそれを……"
+msgstr ""
+
+msgctxt "476496"
+msgid ""
+"京の街の道場で　腕の立つ剣士が\n"
+"「天念理心流」を探している……"
+msgstr ""
+
+msgctxt "476640"
+msgid ""
+"そんな情報が私の耳に入らないとでも\n"
+"思っていたのか？"
+msgstr ""
+
+msgctxt "476784"
+msgid "理心流を追うことは罪ではない"
+msgstr ""
+
+msgctxt "476928"
+msgid ""
+"その類まれな剣の腕を\n"
+"新選組のために使ってくれるのなら……"
+msgstr ""
+
+msgctxt "477072"
+msgid ""
+"私は君を疑うようなことは\n"
+"したくないのだ　斎藤君"
+msgstr ""
+
+msgctxt "477216"
+msgid ""
+"この長州の間者を斬り\n"
+"そのことを証明していただきたい"
+msgstr ""
+
+msgctxt "477360"
+msgid "さあ"
+msgstr ""
+
+msgctxt "477504"
+msgid "ちくしょう！！"
+msgstr ""
+
+msgctxt "477648"
+msgid "多摩の百姓風情が粋がりやがって！"
+msgstr ""
+
+msgctxt "477792"
+msgid ""
+"近藤勇みたいな学も教養も信念も\n"
+"無いような男につき従うお前らに"
+msgstr ""
+
+msgctxt "477936"
+msgid "長州がやられてたまるか！！"
+msgstr ""
+
+msgctxt "478080"
+msgid "鴉から聞いたぜ"
+msgstr ""
+
+msgctxt "478224"
+msgid "お前が新選組に入った"
+msgstr ""
+
+msgctxt "478368"
+msgid "本当の目的は……！"
+msgstr ""
+
+msgctxt "478512"
+msgid "源さん"
+msgstr ""
+
+msgctxt "478656"
+msgid ""
+"局長と多摩を愚弄され\n"
+"黙っているわけにはいかない"
+msgstr ""
+
+msgctxt "478800"
+msgid ""
+"邪魔をしてすまなかったな\n"
+"頭に血が上ってしまったようだ"
+msgstr ""
+
+msgctxt "478944"
+msgid "井上……"
+msgstr ""
+
+msgctxt "479088"
+msgid "よーし　じゃ　そろそろ帰るとすっか"
+msgstr ""
+
+msgctxt "479232"
+msgid "そうですね！　もうクタクタですしね"
+msgstr ""
+
+msgctxt "479376"
+msgid ""
+"松原が減った分\n"
+"褒美の取り分も増えるってもんやな"
+msgstr ""
+
+msgctxt "479520"
+msgid ""
+"次は　敵を取り逃すことのないよう\n"
+"頼みますよ"
+msgstr ""
+
+msgctxt "479664"
+msgid "斎藤"
+msgstr ""
+
+msgctxt "479808"
+msgid "よう覚えとけ"
+msgstr ""
+
+msgctxt "479952"
+msgid "これが新選組っちゅう組織や"
+msgstr ""
+
+msgctxt "480096"
+msgid "疑わしきは粛清する"
+msgstr ""
+
+msgctxt "480240"
+msgid "俺はお前を……"
+msgstr ""
+
+msgctxt "480384"
+msgid "粛清しとうない"
+msgstr ""
+
+msgctxt "480528"
+msgid "どういう意味だ"
+msgstr ""
+
+msgctxt "480672"
+msgid "次に敵を見逃すときは"
+msgstr ""
+
+msgctxt "480816"
+msgid "もっと分からんように上手くやれ"
+msgstr ""
+
+msgctxt "480960"
+msgid "……っちゅうことや"
+msgstr ""

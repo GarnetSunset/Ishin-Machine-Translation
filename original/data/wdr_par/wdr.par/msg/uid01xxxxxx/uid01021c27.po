@@ -1,0 +1,462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "8428"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8429"
+msgid ""
+"フッ……\n"
+"１年前の剣とは殺気が違う……"
+msgstr ""
+
+msgctxt "8468"
+msgid ""
+"土佐抜けてから、大勢斬ってきた、\n"
+"ということですか……"
+msgstr ""
+
+msgctxt "8523"
+msgid "さあな。"
+msgstr ""
+
+msgctxt "8532"
+msgid "フッ……"
+msgstr ""
+
+msgctxt "8541"
+msgid "何の真似だ？"
+msgstr ""
+
+msgctxt "8554"
+msgid ""
+"今のあなたをこの目で\n"
+"確かめる必要がありました。"
+msgstr ""
+
+msgctxt "8603"
+msgid ""
+"１年ぶりに会う人間をそのまま\n"
+"武市先生のもとへは通せませんき。"
+msgstr ""
+
+msgctxt "8666"
+msgid "ご無礼をお許しください。"
+msgstr ""
+
+msgctxt "8691"
+msgid "やっぱり兄弟もお前と一緒に京に来てんだな？"
+msgstr ""
+
+msgctxt "8734"
+msgid ""
+"ええ。ですが今の先生は\n"
+"例の新選組にしつこく狙われる身。\n"
+"人目をはばかっております。"
+msgstr ""
+
+msgctxt "8819"
+msgid "兄弟はどこにいる？"
+msgstr ""
+
+msgctxt "8838"
+msgid "この骸街の一番奥で筆頭をお待ちです。"
+msgstr ""
+
+msgctxt "8875"
+msgid "案内しちゃもらえないのか？"
+msgstr ""
+
+msgctxt "8902"
+msgid ""
+"ええ。わしは……\n"
+"今もあんたが嫌いですき。"
+msgstr ""
+
+msgctxt "8945"
+msgid "フッ、なるほどな。"
+msgstr ""
+
+msgctxt "8964"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8965"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8966"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8967"
+msgid "（この奥に兄弟がいるのか……）"
+msgstr ""
+
+msgctxt "8998"
+msgid ""
+"（しかし、京の一角とは思えん街だな。\n"
+"　ここなら思わぬ発見もあるかもしれないな……）"
+msgstr ""
+
+msgctxt "9083"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9084"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9085"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9086"
+msgid "ここに何の用だ？"
+msgstr ""
+
+msgctxt "9103"
+msgid ""
+"有り金おいてきゃ命は勘弁してやってもいい。\n"
+"腰のもんを捨てろ。"
+msgstr ""
+
+msgctxt "9166"
+msgid ""
+"俺は……　坂本龍馬だ。\n"
+"編笠の男に呼ばれて来た。"
+msgstr ""
+
+msgctxt "9215"
+msgid "そん男はわしの客ぜよ。"
+msgstr ""
+
+msgctxt "9238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9240"
+msgid "なるほど。お前だったのか……"
+msgstr ""
+
+msgctxt "9269"
+msgid "以蔵。"
+msgstr ""
+
+msgctxt "9276"
+msgid "兄弟も一緒ってことか？"
+msgstr ""
+
+msgctxt "9299"
+msgid "さぁな……"
+msgstr ""
+
+msgctxt "9310"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9311"
+msgid "以蔵!?"
+msgstr ""
+
+msgctxt "9318"
+msgid ""
+"久しぶりぜよ、“筆頭”。\n"
+"１年前のわしとは一味ちがうき……\n"
+"よう見ちょれ。"
+msgstr ""
+
+msgctxt "9393"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9394"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9395"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9396"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9397"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9398"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9399"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9400"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9401"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9402"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9403"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9404"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9405"
+msgid "この野郎！　イカサマしやがった！"
+msgstr ""
+
+msgctxt "9438"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11840"
+msgid "以蔵"
+msgstr ""
+
+msgctxt "11845"
+msgid "izo_c02_170_01"
+msgstr ""
+
+msgctxt "11860"
+msgid "izo_c02_170_01b"
+msgstr ""
+
+msgctxt "11876"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "11881"
+msgid "kiryu_c02_170_01"
+msgstr ""
+
+msgctxt "11898"
+msgid "izo_c02_170_02"
+msgstr ""
+
+msgctxt "11913"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "11935"
+msgid "C02170_IZO_btlaft_noutou"
+msgstr ""
+
+msgctxt "11960"
+msgid "kiryu_c02_170_02"
+msgstr ""
+
+msgctxt "11977"
+msgid "izo_c02_170_03"
+msgstr ""
+
+msgctxt "11992"
+msgid "izo_c02_170_03b"
+msgstr ""
+
+msgctxt "12008"
+msgid "izo_c02_170_03c"
+msgstr ""
+
+msgctxt "12024"
+msgid "kiryu_c02_170_03"
+msgstr ""
+
+msgctxt "12041"
+msgid "izo_c02_170_04"
+msgstr ""
+
+msgctxt "12056"
+msgid "kiryu_c02_170_04"
+msgstr ""
+
+msgctxt "12073"
+msgid "izo_c02_170_05"
+msgstr ""
+
+msgctxt "12088"
+msgid "kiryu_c02_170_05"
+msgstr ""
+
+msgctxt "12105"
+msgid "izo_c02_170_06"
+msgstr ""
+
+msgctxt "12120"
+msgid "kiryu_c02_170_06"
+msgstr ""
+
+msgctxt "12137"
+msgid "C02170_IZO_btlaft_kamae"
+msgstr ""
+
+msgctxt "12161"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12167"
+msgid "C02165_IZO_A"
+msgstr ""
+
+msgctxt "12180"
+msgid "C02165_SOL_1_A"
+msgstr ""
+
+msgctxt "12195"
+msgid "C02165_SOL_2_A"
+msgstr ""
+
+msgctxt "12210"
+msgid "C02165_SOL_3_A"
+msgstr ""
+
+msgctxt "12225"
+msgid "C02165_SOL_4_A"
+msgstr ""
+
+msgctxt "12240"
+msgid "Idle"
+msgstr ""
+
+msgctxt "12245"
+msgid "00021c28"
+msgstr ""
+
+msgctxt "12254"
+msgid "骸街の浪人"
+msgstr ""
+
+msgctxt "12265"
+msgid "m_rounin1_c02_165_01"
+msgstr ""
+
+msgctxt "12286"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "12297"
+msgid "骸街の野盗"
+msgstr ""
+
+msgctxt "12308"
+msgid "m_rounin2_c02_165_01"
+msgstr ""
+
+msgctxt "12329"
+msgid "kiryu_c02_165_01"
+msgstr ""
+
+msgctxt "12346"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "12357"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "12368"
+msgid "編笠の男"
+msgstr ""
+
+msgctxt "12377"
+msgid "izo_c02_165_01"
+msgstr ""
+
+msgctxt "12392"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "12403"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "12414"
+msgid "kaiwabgm_fuon_04"
+msgstr ""
+
+msgctxt "12431"
+msgid "kiryu_c02_165_02"
+msgstr ""
+
+msgctxt "12448"
+msgid "TLK_SCN006"
+msgstr ""
+
+msgctxt "12459"
+msgid "kiryu_c02_165_02b"
+msgstr ""
+
+msgctxt "12477"
+msgid "kiryu_c02_165_03"
+msgstr ""
+
+msgctxt "12494"
+msgid "izo_c02_165_01b"
+msgstr ""
+
+msgctxt "12510"
+msgid "TLK_SCN008"
+msgstr ""
+
+msgctxt "12521"
+msgid "kiryu_c02_165_04"
+msgstr ""
+
+msgctxt "12538"
+msgid "TLK_SCN010"
+msgstr ""
+
+msgctxt "12549"
+msgid "izo_c02_165_02"
+msgstr ""
+
+msgctxt "12564"
+msgid "TLK_SCN012"
+msgstr ""
+
+msgctxt "12575"
+msgid "0"
+msgstr ""
+
+msgctxt "12577"
+msgid "C02165_ROU_2_lp"
+msgstr ""
+
+msgctxt "12593"
+msgid "C02165_ROU_3_lp"
+msgstr ""
+
+msgctxt "12609"
+msgid "無宿人"
+msgstr ""
+
+msgctxt "12616"
+msgid "musyuku1_c02_165_01"
+msgstr ""

@@ -1,0 +1,1732 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "37272"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37273"
+msgid ""
+"旦那、ここは初めてかいな？\n"
+"「競鶏場」と言ってな、鶏を競走させとるんよ。\n"
+"木札を賭けて、着順を当てる博打場や！"
+msgstr ""
+
+msgctxt "37384"
+msgid "面白いで！　やっていくやろ？"
+msgstr ""
+
+msgctxt "37413"
+msgid "いや、やめておこう。"
+msgstr ""
+
+msgctxt "37434"
+msgid ""
+"うーん、残念やわ。\n"
+"ほんま、おもろいで！\n"
+"今度是非やっていってや！"
+msgstr ""
+
+msgctxt "37501"
+msgid "やってみよう。"
+msgstr ""
+
+msgctxt "37516"
+msgid ""
+"さすが旦那！　話わかるやんけ。\n"
+"楽しんでいってや！"
+msgstr ""
+
+msgctxt "37567"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37568"
+msgid ""
+"木札購入やね。１点は１００文や！\n"
+"なんぼ入りまっか？"
+msgstr ""
+
+msgctxt "37621"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37622"
+msgid "５０点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "37651"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37652"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "37661"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37662"
+msgid "１００点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "37693"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37694"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "37703"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37704"
+msgid "１０００点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "37737"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37738"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "37747"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37748"
+msgid ""
+"旦那……　銭がたりまへんがな！\n"
+"冗談きついで。"
+msgstr ""
+
+msgctxt "37795"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37796"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37797"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37798"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37799"
+msgid "旦那、どや？　勝てましたかいな？"
+msgstr ""
+
+msgctxt "37832"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37833"
+msgid "ああ。なんとか当てられた。"
+msgstr ""
+
+msgctxt "37860"
+msgid ""
+"おお、初見で当てたんか！\n"
+"旦那、やりますなぁ！\n"
+"いきなり当てられる人なんて、そうそうおらんで。"
+msgstr ""
+
+msgctxt "37955"
+msgid "そうなのか？"
+msgstr ""
+
+msgctxt "37968"
+msgid ""
+"そやそや。大したもんやで。\n"
+"旦那はなかなか見込みがありそうやな。\n"
+"博打うちとしての可能性を感じるわ……！"
+msgstr ""
+
+msgctxt "38073"
+msgid ""
+"よし！　旦那には特別にワテが手ほどきしたる！\n"
+"だから、また遊びに来てや。約束やで。"
+msgstr ""
+
+msgctxt "38156"
+msgid "いや、１回も当たらなかった……"
+msgstr ""
+
+msgctxt "38187"
+msgid ""
+"そかそか……　まぁ、しゃあない。\n"
+"初見で当てるのは難しいもんや。"
+msgstr ""
+
+msgctxt "38252"
+msgid ""
+"人気や評価だけで予想しても、\n"
+"なかなかうまい事いかへん。\n"
+"調子や過去の成績も見て、予想したほうがええ。"
+msgstr ""
+
+msgctxt "38355"
+msgid ""
+"なるほど……\n"
+"難しそうだな。"
+msgstr ""
+
+msgctxt "38384"
+msgid ""
+"まぁな。競鶏は、意外と奥が深いんよ。\n"
+"でも、旦那はなかなか見込みありそうやけどな。\n"
+"博打うちとしての可能性を感じるで。"
+msgstr ""
+
+msgctxt "38503"
+msgid "ふっ。別にお世辞はいらないぞ。"
+msgstr ""
+
+msgctxt "38534"
+msgid ""
+"いやいや、ほんまやって。\n"
+"落ち着いてるし、何より目つきに力がある。"
+msgstr ""
+
+msgctxt "38601"
+msgid ""
+"鋭い眼光の奥底に、感じるねん。\n"
+"勝負師としての、燃えたぎる情熱と色気を……！"
+msgstr ""
+
+msgctxt "38678"
+msgid "そ、そうか……？"
+msgstr ""
+
+msgctxt "38695"
+msgid ""
+"おうよ。……よっしゃ！\n"
+"旦那には特別に、ワテが手ほどきしたろ！\n"
+"だから、また遊びに来てや。約束やで。"
+msgstr ""
+
+msgctxt "38796"
+msgid ""
+"どや？　楽しかったやろ！\n"
+"今度は木札賭けて遊んでいってや。\n"
+"もっとおもろいで！"
+msgstr ""
+
+msgctxt "38875"
+msgid "ほう、そうなのか？"
+msgstr ""
+
+msgctxt "38894"
+msgid ""
+"ああ。人気や評価、調子や過去の成績から予想して\n"
+"それが当たった時の嬉しさは半端無いで！\n"
+"あの興奮は、木札賭けないと味わえへん。"
+msgstr ""
+
+msgctxt "39021"
+msgid ""
+"なるほどな。\n"
+"じゃあ、今度は賭けてみるかな。"
+msgstr ""
+
+msgctxt "39066"
+msgid ""
+"ああ。\n"
+"見たところ、旦那はなかなか見込みありそうやしな。\n"
+"博打うちとしての可能性を感じるで。"
+msgstr ""
+
+msgctxt "39159"
+msgid "ふっ。別にお世辞はいらないぞ。"
+msgstr ""
+
+msgctxt "39190"
+msgid ""
+"いやいや、ほんまやって。\n"
+"落ち着いてるし、何より目つきに力がある。"
+msgstr ""
+
+msgctxt "39257"
+msgid ""
+"鋭い眼光の奥底に、感じるねん。\n"
+"勝負師としての、燃えたぎる情熱と色気を……！"
+msgstr ""
+
+msgctxt "39334"
+msgid "そ、そうか……？"
+msgstr ""
+
+msgctxt "39351"
+msgid ""
+"おうよ。……よっしゃ！\n"
+"旦那には特別に、ワテが手ほどきしたろ！\n"
+"だから、また遊びに来てや。約束やで。"
+msgstr ""
+
+msgctxt "39452"
+msgid ""
+"「競鶏場の受付」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「競鶏場の受付」と交流してみましょう。"
+msgstr ""
+
+msgctxt "39673"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39674"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39675"
+msgid ""
+"まいど！　旦那！\n"
+"もちろん、やっていくやろ？"
+msgstr ""
+
+msgctxt "39720"
+msgid "いや、今回はやめておこう。"
+msgstr ""
+
+msgctxt "39747"
+msgid ""
+"そりゃ残念やわ。\n"
+"今度是非やっていってや！"
+msgstr ""
+
+msgctxt "39790"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39791"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39792"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39793"
+msgid ""
+"さすが旦那！\n"
+"今日も楽しんでいってや！"
+msgstr ""
+
+msgctxt "39832"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39833"
+msgid ""
+"よっしゃ！\n"
+"ワテで良ければ何ぼでも教えたるで。"
+msgstr ""
+
+msgctxt "39880"
+msgid ""
+"まずな、単純に人気や評価で賭けるのもええけど、\n"
+"毎回そればっかやってても通用せんよ。"
+msgstr ""
+
+msgctxt "39965"
+msgid ""
+"過去の成績とかを見て、距離や調子が結果に\n"
+"どう影響しているか分析する。\n"
+"そうすることで、色んな傾向が見えてくるんや。"
+msgstr ""
+
+msgctxt "40082"
+msgid "なるほど……"
+msgstr ""
+
+msgctxt "40095"
+msgid ""
+"あと、なかには調子によって\n"
+"大きく能力がかわる鳥もおるから、要注意や。"
+msgstr ""
+
+msgctxt "40166"
+msgid ""
+"毎回安定して勝ってる強い鳥でも、\n"
+"調子が下向きな時はえらい遅くなる奴もおるし、\n"
+"その逆もおるから、気をつけなあかんで。"
+msgstr ""
+
+msgctxt "40285"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "40296"
+msgid ""
+"木札購入やね。１点は１００文や！\n"
+"なんぼ入りまっか？"
+msgstr ""
+
+msgctxt "40349"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40350"
+msgid "５０点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "40379"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40380"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "40389"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40390"
+msgid "１００点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "40421"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40422"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "40431"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40432"
+msgid "１０００点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "40465"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40466"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "40475"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40476"
+msgid ""
+"旦那……　銭がたりまへんがな！\n"
+"冗談きついで。"
+msgstr ""
+
+msgctxt "40523"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40524"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40527"
+msgid "見事的中しましたやん！　旦那！"
+msgstr ""
+
+msgctxt "40558"
+msgid "うむ、なんとか当てられたな。"
+msgstr ""
+
+msgctxt "40587"
+msgid ""
+"さすがやな！\n"
+"ワテの目に狂いはなかったわ。\n"
+"やはり旦那は、勝負師としての才能があるわ。"
+msgstr ""
+
+msgctxt "40674"
+msgid "大げさだな……"
+msgstr ""
+
+msgctxt "40689"
+msgid ""
+"いやー、次も楽しみやわ。\n"
+"また是非遊びに来てや！"
+msgstr ""
+
+msgctxt "40738"
+msgid ""
+"今日は当たらんかったみたいやな。\n"
+"残念やけど、こんな日もあるわ。\n"
+"しゃあないよ。"
+msgstr ""
+
+msgctxt "40819"
+msgid ""
+"まぁでも、今日は難しい競走やったさかい、\n"
+"なかなか当たらんで。しゃあないわ。"
+msgstr ""
+
+msgctxt "40896"
+msgid "うむ。"
+msgstr ""
+
+msgctxt "40903"
+msgid ""
+"まあこれに懲りずに、\n"
+"暇な時にでもまた来てや！"
+msgstr ""
+
+msgctxt "40950"
+msgid ""
+"今日は賭けて無かったようやけど、\n"
+"予想難しかったか？"
+msgstr ""
+
+msgctxt "41003"
+msgid "うむ……"
+msgstr ""
+
+msgctxt "41012"
+msgid ""
+"旦那はいつでも真剣やな……\n"
+"難しい時は、なんも考えずに、\n"
+"単勝でちょっと賭けて気楽に遊ぶのもええもんやで？"
+msgstr ""
+
+msgctxt "41119"
+msgid "まあ、暇な時にでもまた来てや！"
+msgstr ""
+
+msgctxt "41150"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41151"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41152"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41153"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41154"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41155"
+msgid ""
+"まいど！　旦那！\n"
+"もちろん、やっていくやろ？"
+msgstr ""
+
+msgctxt "41200"
+msgid "いや、今回はやめておこう。"
+msgstr ""
+
+msgctxt "41227"
+msgid ""
+"そりゃ残念やわ。\n"
+"今度是非やっていってや！"
+msgstr ""
+
+msgctxt "41270"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41271"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41272"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41273"
+msgid ""
+"さすが旦那！\n"
+"今日も楽しんでいってや！"
+msgstr ""
+
+msgctxt "41312"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41313"
+msgid ""
+"よっしゃ！\n"
+"ワテで良ければ何ぼでも教えたるで。"
+msgstr ""
+
+msgctxt "41360"
+msgid ""
+"まずな、単純に人気や評価で賭けるのもええけど、\n"
+"毎回そればっかやってても通用せんよ。"
+msgstr ""
+
+msgctxt "41445"
+msgid ""
+"過去の成績とかを見て、距離や調子が結果に\n"
+"どう影響しているか分析する。\n"
+"そうすることで、色んな傾向が見えてくるんや。"
+msgstr ""
+
+msgctxt "41562"
+msgid "なるほど……"
+msgstr ""
+
+msgctxt "41575"
+msgid ""
+"あと、なかには調子によって\n"
+"大きく能力がかわる鳥もおるから、要注意や。"
+msgstr ""
+
+msgctxt "41646"
+msgid ""
+"毎回安定して勝ってる強い鳥でも、\n"
+"調子が下向きな時はえらい遅くなる奴もおるし、\n"
+"その逆もおるから、気をつけなあかんで。"
+msgstr ""
+
+msgctxt "41765"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "41776"
+msgid ""
+"木札購入やね。１点は１００文や！\n"
+"なんぼ入りまっか？"
+msgstr ""
+
+msgctxt "41829"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41830"
+msgid "５０点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "41859"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41860"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "41869"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41870"
+msgid "１００点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "41901"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41902"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "41911"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41912"
+msgid "１０００点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "41945"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41946"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "41955"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41956"
+msgid ""
+"旦那……　銭がたりまへんがな！\n"
+"冗談きついで。"
+msgstr ""
+
+msgctxt "42003"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42004"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42005"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42006"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42007"
+msgid "見事的中しましたやん！　旦那！"
+msgstr ""
+
+msgctxt "42038"
+msgid "うむ、なんとか当てられたな。"
+msgstr ""
+
+msgctxt "42067"
+msgid ""
+"さすがやな！\n"
+"ワテの目に狂いはなかったわ。\n"
+"やはり旦那は、勝負師としての才能があるわ。"
+msgstr ""
+
+msgctxt "42154"
+msgid "大げさだな……"
+msgstr ""
+
+msgctxt "42169"
+msgid ""
+"いやー、次も楽しみやわ。\n"
+"また是非遊びに来てや！"
+msgstr ""
+
+msgctxt "42218"
+msgid ""
+"今日は当たらんかったみたいやな。\n"
+"残念やけど、こんな日もあるわ。\n"
+"しゃあないよ。"
+msgstr ""
+
+msgctxt "42299"
+msgid ""
+"まぁでも、今日は難しい競走やったさかい、\n"
+"なかなか当たらんで。しゃあないわ。"
+msgstr ""
+
+msgctxt "42376"
+msgid "うむ。"
+msgstr ""
+
+msgctxt "42383"
+msgid ""
+"まあこれに懲りずに、\n"
+"暇な時にでもまた来てや！"
+msgstr ""
+
+msgctxt "42430"
+msgid ""
+"今日は賭けて無かったようやけど、\n"
+"予想難しかったか？"
+msgstr ""
+
+msgctxt "42483"
+msgid "うむ……"
+msgstr ""
+
+msgctxt "42492"
+msgid ""
+"旦那はいつでも真剣やな……\n"
+"難しい時は、なんも考えずに、\n"
+"単勝でちょっと賭けて気楽に遊ぶのもええもんやで？"
+msgstr ""
+
+msgctxt "42599"
+msgid "まあ、暇な時にでもまた来てや！"
+msgstr ""
+
+msgctxt "42630"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42631"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42632"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42633"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42634"
+msgid "……"
+msgstr ""
+
+msgctxt "42639"
+msgid "ん？　おい、どうした？"
+msgstr ""
+
+msgctxt "42662"
+msgid ""
+"あっ、旦那かいな。\n"
+"すんまへん、すんまへん。\n"
+"気づかんかったわ。"
+msgstr ""
+
+msgctxt "42727"
+msgid ""
+"お前……　風邪でも引いたのか？\n"
+"なんだか、元気がないぞ。"
+msgstr ""
+
+msgctxt "42784"
+msgid ""
+"いやいや……\n"
+"ちょっと考え事してただけですわ。\n"
+"まあ、大したことやない。"
+msgstr ""
+
+msgctxt "42857"
+msgid "そうか。ならいいが……"
+msgstr ""
+
+msgctxt "42880"
+msgid ""
+"心配してくれておおきに。\n"
+"ところで……　今日もやっていくやろ？"
+msgstr ""
+
+msgctxt "42943"
+msgid "いや、今回はやめておこう。"
+msgstr ""
+
+msgctxt "42970"
+msgid ""
+"そかそか、残念やわ。\n"
+"また今度暇なときでもいいから、\n"
+"よろしゅう頼んます。"
+msgstr ""
+
+msgctxt "43045"
+msgid "今日も楽しんでいってや。"
+msgstr ""
+
+msgctxt "43070"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43071"
+msgid ""
+"よっしゃ！\n"
+"ワテで良ければ何ぼでも教えたるで。"
+msgstr ""
+
+msgctxt "43118"
+msgid ""
+"まずな、単純に人気や評価で賭けるのもええけど、\n"
+"毎回そればっかやってても通用せんよ。"
+msgstr ""
+
+msgctxt "43203"
+msgid ""
+"過去の成績とかを見て、距離や調子が結果に\n"
+"どう影響しているか分析する。\n"
+"そうすることで、色んな傾向が見えてくるんや。"
+msgstr ""
+
+msgctxt "43320"
+msgid "なるほど……"
+msgstr ""
+
+msgctxt "43333"
+msgid ""
+"あと、なかには調子によって\n"
+"大きく能力がかわる鳥もおるから、要注意や。"
+msgstr ""
+
+msgctxt "43404"
+msgid ""
+"毎回安定して勝ってる強い鳥でも、\n"
+"調子が下向きな時はえらい遅くなる奴もおるし、\n"
+"その逆もおるから、気をつけなあかんで。"
+msgstr ""
+
+msgctxt "43523"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "43534"
+msgid ""
+"木札購入やね。１点は１００文や！\n"
+"なんぼ入りまっか？"
+msgstr ""
+
+msgctxt "43587"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43588"
+msgid "５０点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "43617"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43618"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "43627"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43628"
+msgid "１００点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "43659"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43660"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "43669"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43670"
+msgid "１０００点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "43703"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43704"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "43713"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43714"
+msgid ""
+"旦那……　銭がたりまへんがな！\n"
+"冗談きついで。"
+msgstr ""
+
+msgctxt "43761"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43762"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43763"
+msgid "はぁー……"
+msgstr ""
+
+msgctxt "43774"
+msgid "おい……"
+msgstr ""
+
+msgctxt "43783"
+msgid ""
+"あっ、旦那か。\n"
+"今日はもう終いでっか？"
+msgstr ""
+
+msgctxt "43822"
+msgid ""
+"うむ。それよりお前、やっぱり\n"
+"体調でも悪いんじゃないか？\n"
+"さっきにも増して覇気が無いぞ。"
+msgstr ""
+
+msgctxt "43911"
+msgid ""
+"え？　あ、ああ……\n"
+"体調は問題ないんよ。ただ、ちょっとな……"
+msgstr ""
+
+msgctxt "43972"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43973"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43974"
+msgid ""
+"……何かあったのか？\n"
+"話くらいなら聞くぞ。"
+msgstr ""
+
+msgctxt "44017"
+msgid ""
+"……はずかしい話なんやけどな。\n"
+"今日、ワテ、全財産を賭けて勝負したんですわ。\n"
+"それで負けて、大損こいてしまって。"
+msgstr ""
+
+msgctxt "44130"
+msgid ""
+"……なんだ。それで落ち込んでいたのか。\n"
+"驚かせないでくれ。……で、勝ったら\n"
+"その金を何に使うつもりだったんだ？"
+msgstr ""
+
+msgctxt "44241"
+msgid ""
+"もちろん、遊郭で豪遊するのに使いますわ！\n"
+"小さいころからの、ワテの夢なんですわ……"
+msgstr ""
+
+msgctxt "44324"
+msgid ""
+"ち、小さいころからの夢か……\n"
+"ませた子供だったんだな……"
+msgstr ""
+
+msgctxt "44381"
+msgid ""
+"ええ。……はぁ、いつになったら\n"
+"ワテの夢は叶うんやろ。"
+msgstr ""
+
+msgctxt "44436"
+msgid ""
+"……普通に博打などせずにコツコツ貯めれば\n"
+"いいんじゃないか？\n"
+"遊郭が高いといっても、頑張れば何とかなる額だろ。"
+msgstr ""
+
+msgctxt "44547"
+msgid ""
+"それは分かってるんやけど……\n"
+"ワテは根っからの博打好きやからな。\n"
+"夢を叶えるなら、一発大勝負で勝って叶えたいんよ。"
+msgstr ""
+
+msgctxt "44662"
+msgid ""
+"そういうものなのか……\n"
+"博打うちは奥が深いな。"
+msgstr ""
+
+msgctxt "44709"
+msgid ""
+"まぁ、これに懲りずにまた頑張りますわ。\n"
+"旦那も、また是非遊びに来てや！"
+msgstr ""
+
+msgctxt "44780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44781"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44782"
+msgid "うーん……"
+msgstr ""
+
+msgctxt "44793"
+msgid "……おい。"
+msgstr ""
+
+msgctxt "44804"
+msgid "はぁー、どないしよ……"
+msgstr ""
+
+msgctxt "44827"
+msgid "おい、大丈夫か？"
+msgstr ""
+
+msgctxt "44844"
+msgid ""
+"はっ、旦那かいな。びっくりしたわ。\n"
+"何か用でっか？"
+msgstr ""
+
+msgctxt "44895"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44896"
+msgid ""
+"何か用って……\n"
+"普通に遊びに来たんだが……\n"
+"まさか、お前また賭けに負けたのか？"
+msgstr ""
+
+msgctxt "44975"
+msgid ""
+"いやいや、今日は負けてへん。\n"
+"むしろ好調や！　今日はツイてるで!!\n"
+"今のところ全勝なんや！"
+msgstr ""
+
+msgctxt "45064"
+msgid ""
+"ほう。それはよかったじゃないか。\n"
+"で？　遊郭で豪遊するの夢には届きそうなのか？"
+msgstr ""
+
+msgctxt "45143"
+msgid ""
+"あと少しや……！　次の競争に全額賭けて\n"
+"勝てれば、実現できるんや！\n"
+"ただ……　次の競走、予想が難しくてな。うーん……"
+msgstr ""
+
+msgctxt "45260"
+msgid ""
+"あきまへん！　今日はツイてる日や！\n"
+"この競走で勝負するて、決めてますねん。\n"
+"これ当てたら遊郭豪遊の夢実現や！"
+msgstr ""
+
+msgctxt "45369"
+msgid ""
+"……なあ、旦那。次の競走で\n"
+"「マサカノトサカ」と「トサノトサカ」\n"
+"どっちが来ると思う？"
+msgstr ""
+
+msgctxt "45456"
+msgid "お、俺に聞くのか!?"
+msgstr ""
+
+msgctxt "45475"
+msgid ""
+"ああ。\n"
+"ワテは今まで、最後の最後でいつも失敗して、\n"
+"負けてきたんや。"
+msgstr ""
+
+msgctxt "45544"
+msgid "せやから、最後の勝負には自信がない……"
+msgstr ""
+
+msgctxt "45583"
+msgid ""
+"それに、旦那はワテが見込んだ勝負師や。\n"
+"旦那に任せれば、なんか勝てる気がするんよ。\n"
+"せやから旦那……　頼むわ。"
+msgstr ""
+
+msgctxt "45694"
+msgid ""
+"だが……　負けても責任は持てんぞ？\n"
+"それに詳しい情報は知らないから、\n"
+"勘で選ぶことになる。それでもいいのか？"
+msgstr ""
+
+msgctxt "45803"
+msgid ""
+"もちろん、かまへん！\n"
+"ワテは、旦那のその「勘」にかけてるんや！"
+msgstr ""
+
+msgctxt "45866"
+msgid "（しかたない……　勘でどちらか選ぶか）"
+msgstr ""
+
+msgctxt "45905"
+msgid "「マサカノトサカ」かな……"
+msgstr ""
+
+msgctxt "45932"
+msgid "「トサノトサカ」かな……"
+msgstr ""
+
+msgctxt "45957"
+msgid "やっぱり！　いやぁ、ワテもそう思っとったんや！"
+msgstr ""
+
+msgctxt "46004"
+msgid ""
+"よっしゃ……　一勝負してくるで旦那！\n"
+"ちょっとここで待っててや！"
+msgstr ""
+
+msgctxt "46069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46070"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46071"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46072"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46073"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46074"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46075"
+msgid "…………"
+msgstr ""
+
+msgctxt "46084"
+msgid ""
+"おい。どうだったんだ？\n"
+"もしかして、ダメだったのか？"
+msgstr ""
+
+msgctxt "46137"
+msgid "だ、だ、旦那……！"
+msgstr ""
+
+msgctxt "46156"
+msgid "…………"
+msgstr ""
+
+msgctxt "46165"
+msgid "……勝ちました!!"
+msgstr ""
+
+msgctxt "46182"
+msgid ""
+"やったわー！\n"
+"この大勝負ものにしましたで！\n"
+"これで遊郭で豪遊や！　夢は信じれば叶うんやな！"
+msgstr ""
+
+msgctxt "46273"
+msgid "よかったな。"
+msgstr ""
+
+msgctxt "46286"
+msgid ""
+"ほんま、旦那のおかげですわ！\n"
+"ワテの目に狂いはなかった！\n"
+"旦那は信頼できる、最強の勝負師です！"
+msgstr ""
+
+msgctxt "46381"
+msgid ""
+"これ、少ないですが、ワテからの気持ちや。\n"
+"受け取っとくれ！"
+msgstr ""
+
+msgctxt "46440"
+msgid "「<Color:8>壊れた羅針盤<Color:Default>」を貰った。"
+msgstr ""
+
+msgctxt "46491"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46492"
+msgid "勘で選んだだけだったのに、悪いな。"
+msgstr ""
+
+msgctxt "46527"
+msgid ""
+"何言っとるんや旦那！\n"
+"勘で選んで勝つこともある。\n"
+"分析して負けることもある。それが博打ですよ！"
+msgstr ""
+
+msgctxt "46622"
+msgid ""
+"フッ。そうだな……\n"
+"とにかく、夢が叶ってよかったな。"
+msgstr ""
+
+msgctxt "46675"
+msgid ""
+"ええ！　旦那はワテの生涯の恩人ですわ！\n"
+"これからも遊びにきたってや！"
+msgstr ""
+
+msgctxt "46744"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46745"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46746"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46747"
+msgid ""
+"おつかれ！　旦那！\n"
+"どうしまっか？"
+msgstr ""
+
+msgctxt "46782"
+msgid "いや、今回はやめておこう。"
+msgstr ""
+
+msgctxt "46809"
+msgid ""
+"そりゃ残念やわ。\n"
+"今度是非やっていってや！"
+msgstr ""
+
+msgctxt "46852"
+msgid ""
+"さすが旦那！\n"
+"今日も楽しんでいってや！"
+msgstr ""
+
+msgctxt "46891"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46892"
+msgid ""
+"よっしゃ！\n"
+"ワテで良ければ何ぼでも教えたるで。"
+msgstr ""
+
+msgctxt "46939"
+msgid ""
+"まずな、単純に人気や評価で賭けるのもええけど、\n"
+"毎回そればっかやってても通用せんよ。"
+msgstr ""
+
+msgctxt "47024"
+msgid ""
+"過去の成績とかを見て、距離や調子が結果に\n"
+"どう影響しているか分析する。\n"
+"そうすることで、色んな傾向が見えてくるんや。"
+msgstr ""
+
+msgctxt "47141"
+msgid "なるほど……"
+msgstr ""
+
+msgctxt "47154"
+msgid ""
+"あと、なかには調子によって\n"
+"大きく能力がかわる鳥もおるから、要注意や。"
+msgstr ""
+
+msgctxt "47225"
+msgid ""
+"毎回安定して勝ってる強い鳥でも、\n"
+"調子が下向きな時はえらい遅くなる奴もおるし、\n"
+"その逆もおるから、気をつけなあかんで。"
+msgstr ""
+
+msgctxt "47344"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "47355"
+msgid ""
+"木札購入やね。１点は１００文や！\n"
+"なんぼ入りまっか？"
+msgstr ""
+
+msgctxt "47408"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47409"
+msgid "５０点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "47438"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47439"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "47448"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47449"
+msgid "１００点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "47480"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47481"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "47490"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47491"
+msgid "１０００点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "47524"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47525"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "47534"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47535"
+msgid ""
+"旦那……　銭がたりまへんがな！\n"
+"冗談きついで。"
+msgstr ""
+
+msgctxt "47582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47584"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47585"
+msgid ""
+"まいど！　旦那！\n"
+"もちろん、やっていくやろ？"
+msgstr ""
+
+msgctxt "47630"
+msgid "いや、今回はやめておこう。"
+msgstr ""
+
+msgctxt "47657"
+msgid ""
+"そりゃ残念やわ。\n"
+"今度是非やっていってや！"
+msgstr ""
+
+msgctxt "47700"
+msgid ""
+"さすが旦那！\n"
+"今日も楽しんでいってや！"
+msgstr ""
+
+msgctxt "47739"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47740"
+msgid ""
+"よっしゃ！\n"
+"ワテで良ければ何ぼでも教えたるで。"
+msgstr ""
+
+msgctxt "47787"
+msgid ""
+"まずな、単純に人気や評価で賭けるのもええけど、\n"
+"毎回そればっかやってても通用せんよ。"
+msgstr ""
+
+msgctxt "47872"
+msgid ""
+"過去の成績とかを見て、距離や調子が結果に\n"
+"どう影響しているか分析する。\n"
+"そうすることで、色んな傾向が見えてくるんや。"
+msgstr ""
+
+msgctxt "47989"
+msgid "なるほど……"
+msgstr ""
+
+msgctxt "48002"
+msgid ""
+"あと、なかには調子によって\n"
+"大きく能力がかわる鳥もおるから、要注意や。"
+msgstr ""
+
+msgctxt "48073"
+msgid ""
+"毎回安定して勝ってる強い鳥でも、\n"
+"調子が下向きな時はえらい遅くなる奴もおるし、\n"
+"その逆もおるから、気をつけなあかんで。"
+msgstr ""
+
+msgctxt "48192"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "48203"
+msgid ""
+"木札購入やね。１点は１００文や！\n"
+"なんぼ入りまっか？"
+msgstr ""
+
+msgctxt "48256"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48257"
+msgid "５０点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "48286"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48287"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "48296"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48297"
+msgid "１００点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "48328"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48329"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "48338"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48339"
+msgid "１０００点分、売ってもらおうか。"
+msgstr ""
+
+msgctxt "48372"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48373"
+msgid "まいど！"
+msgstr ""
+
+msgctxt "48382"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48383"
+msgid ""
+"旦那……　銭がたりまへんがな！\n"
+"冗談きついで。"
+msgstr ""
+
+msgctxt "48430"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48431"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49988"
+msgid "競鶏場の受付"
+msgstr ""
+
+msgctxt "50001"
+msgid "やる"
+msgstr ""
+
+msgctxt "50006"
+msgid "木札購入"
+msgstr ""
+
+msgctxt "50015"
+msgid "やらない"
+msgstr ""
+
+msgctxt "50024"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "50029"
+msgid "５０００文で　　５０点に交換"
+msgstr ""
+
+msgctxt "50058"
+msgid "　　　１両で　１００点に交換"
+msgstr ""
+
+msgctxt "50087"
+msgid "　　１０両で１０００点に交換"
+msgstr ""
+
+msgctxt "50116"
+msgid "購入しない"
+msgstr ""
+
+msgctxt "50127"
+msgid "dummy"
+msgstr ""
+
+msgctxt "50133"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "50144"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "50153"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "50163"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "50172"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "50184"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "50195"
+msgid "Talk_Sad"
+msgstr ""
+
+msgctxt "50204"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "50212"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "50223"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "50234"
+msgid "競鶏場の受付との絆"
+msgstr ""
+
+msgctxt "50253"
+msgid "手ほどきを受ける"
+msgstr ""
+
+msgctxt "50270"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "50281"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "50293"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "50315"
+msgid "M_BUS_TLK_btl_aft_nw_04_en"
+msgstr ""
+
+msgctxt "50342"
+msgid "0"
+msgstr ""
+
+msgctxt "50344"
+msgid "M_BUS_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "50366"
+msgid "ADV_M_BUS_SEIZA"
+msgstr ""
+
+msgctxt "50382"
+msgid "M_BUS_TLK_btl_aft_nw_03_lp"
+msgstr ""
+
+msgctxt "50409"
+msgid "M_BUS_TLK_btl_aft_nw_03_st"
+msgstr ""
+
+msgctxt "50436"
+msgid "マサカノトサカ"
+msgstr ""
+
+msgctxt "50451"
+msgid "トサノトサカ"
+msgstr ""
+
+msgctxt "50464"
+msgid "M_BUS_TLK_btl_aft_nw_03_en"
+msgstr ""
+
+msgctxt "50491"
+msgid "ADV_M_BUS_STAND"
+msgstr ""
+
+msgctxt "50507"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "50517"
+msgid "Talk_Angry"
+msgstr ""

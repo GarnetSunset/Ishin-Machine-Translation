@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "136532"
+msgid "どうしてだろうな"
+msgstr ""
+
+msgctxt "136676"
+msgid "今日はやけに兄弟が"
+msgstr ""
+
+msgctxt "136820"
+msgid "生き生きとしてみえるぜ"
+msgstr ""
+
+msgctxt "136964"
+msgid "ああ"
+msgstr ""
+
+msgctxt "137108"
+msgid "俺にも分からねえ"
+msgstr ""
+
+msgctxt "137252"
+msgid "お前とまた闘えると思うだけで心が躍る"
+msgstr ""
+
+msgctxt "137396"
+msgid "待ってる間に若返っちまったようだ"
+msgstr ""
+
+msgctxt "137540"
+msgid "後悔は"
+msgstr ""
+
+msgctxt "137684"
+msgid "無しだぜ"
+msgstr ""
+
+msgctxt "137828"
+msgid "兄弟"
+msgstr ""
+
+msgctxt "137972"
+msgid "忘れちまったな"
+msgstr ""
+
+msgctxt "138116"
+msgid "後悔なんて言葉は"
+msgstr ""
+
+msgctxt "138260"
+msgid "来い"
+msgstr ""
+
+msgctxt "138404"
+msgid "龍馬！！！！"
+msgstr ""
+
+msgctxt "138548"
+msgid "行くぞ！"
+msgstr ""
+
+msgctxt "138692"
+msgid "武市！！！！"
+msgstr ""

@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7864"
+msgid ""
+"し、信じられん……\n"
+"なんなんだ、こいつ……"
+msgstr ""
+
+msgctxt "7907"
+msgid "まだやるか……？"
+msgstr ""
+
+msgctxt "7924"
+msgid "も……　も……"
+msgstr ""
+
+msgctxt "7939"
+msgid "もうやりませぇぇぇぇん！"
+msgstr ""
+
+msgctxt "7964"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7965"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7966"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7967"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7968"
+msgid ""
+"まったく……　しょうもない奴らだ。\n"
+"あんた、怪我はないか？"
+msgstr ""
+
+msgctxt "8027"
+msgid "う……　う……"
+msgstr ""
+
+msgctxt "8042"
+msgid "ん？"
+msgstr ""
+
+msgctxt "8047"
+msgid "美しい!!!!"
+msgstr ""
+
+msgctxt "8058"
+msgid "……え？"
+msgstr ""
+
+msgctxt "8067"
+msgid ""
+"美しいわ美しいわ美しいわぁぁぁぁぁ！\n"
+"あなたの戦う姿。あなたの剣を振るうしなやかな動き。\n"
+"全てが華があって、最高に美しかったですわっ！"
+msgstr ""
+
+msgctxt "8202"
+msgid "あなた……　才能あるわよ！　舞踊の！"
+msgstr ""
+
+msgctxt "8239"
+msgid "舞踊の……？"
+msgstr ""
+
+msgctxt "8252"
+msgid ""
+"申し遅れましたわね。わたくし、舞踊の教室を\n"
+"やっております、舞城ともうします。\n"
+"気さくに、舞城先生、とお呼びくださいませ。"
+msgstr ""
+
+msgctxt "8375"
+msgid ""
+"え？　あ、ああ。\n"
+"まいじょう……　先生、だな。\n"
+"俺は斎藤だ。"
+msgstr ""
+
+msgctxt "8436"
+msgid ""
+"斎藤さん、ですね。\n"
+"失礼ですが……　舞踊を嗜んだことは？"
+msgstr ""
+
+msgctxt "8493"
+msgid "いや、ないが……"
+msgstr ""
+
+msgctxt "8510"
+msgid "そうですか。……それはもったいないですわね。"
+msgstr ""
+
+msgctxt "8555"
+msgid ""
+"長年、舞踊教室を切り盛りして、多数の生徒を\n"
+"育ててきましたが……　あなたほどの華を持った生徒は\n"
+"なかなかいませんでしたわよ。"
+msgstr ""
+
+msgctxt "8680"
+msgid "ぜひとも……　ぜひとも、舞踊をやるべきですわ！"
+msgstr ""
+
+msgctxt "8727"
+msgid "お、俺が舞踊を……？"
+msgstr ""
+
+msgctxt "8748"
+msgid ""
+"そうですわ！　……あなたのしなやかな動きは、\n"
+"斬ることだけに使うにはもったいないですわ。"
+msgstr ""
+
+msgctxt "8837"
+msgid ""
+"そうだ……\n"
+"試しに、体験授業を受けてみませんこと？"
+msgstr ""
+
+msgctxt "8888"
+msgid "体験授業？"
+msgstr ""
+
+msgctxt "8899"
+msgid ""
+"ええ。何事も、百聞は一見にしかず、ですから。\n"
+"ささ、どうぞどうぞ。"
+msgstr ""
+
+msgctxt "8966"
+msgid "う、うむ……"
+msgstr ""
+
+msgctxt "8979"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8980"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8981"
+msgid ""
+"おいババア！\n"
+"いいからさっさと金出せ！"
+msgstr ""
+
+msgctxt "9020"
+msgid "おほほほほ。下品な方ねぇ。"
+msgstr ""
+
+msgctxt "9047"
+msgid "おい。何を騒いでいる。"
+msgstr ""
+
+msgctxt "9070"
+msgid ""
+"あら、素敵なお侍さん。\n"
+"……この方が、私を力ずくで押し倒してあんなことや\n"
+"こんなことをしたいと迫ってくるのです！"
+msgstr ""
+
+msgctxt "9183"
+msgid ""
+"ち、ちげえよ！　……俺はただ、金が欲しいだけだ！\n"
+"あんなことやそんなことはしたくねぇよ！\n"
+"アンタみてぇなババアと！"
+msgstr ""
+
+msgctxt "9298"
+msgid "まっ！　ひどいっ！"
+msgstr ""
+
+msgctxt "9317"
+msgid ""
+"なんだかよく分からんが……\n"
+"要は強引に金を奪おうとしてるってことか？"
+msgstr ""
+
+msgctxt "9386"
+msgid ""
+"あ、ああそうだよ！\n"
+"お前も邪魔するなら、ただじゃすまねぇぞ！"
+msgstr ""
+
+msgctxt "9447"
+msgid "……なら、邪魔させてもらうか。"
+msgstr ""
+
+msgctxt "9478"
+msgid ""
+"……上等だ！\n"
+"おい、お前ら、出てこい！"
+msgstr ""
+
+msgctxt "9517"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9518"
+msgid ""
+"あらやだっ！　お仲間がいたのね！\n"
+"卑怯な方々ですこと……"
+msgstr ""
+
+msgctxt "9575"
+msgid "下がっていろ。"
+msgstr ""
+
+msgctxt "9590"
+msgid "あまりご無理なさらないでくださいな。"
+msgstr ""
+
+msgctxt "9627"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9628"
+msgid ""
+"へへへ。いい度胸してるな……！\n"
+"ぶっ殺してやる！"
+msgstr ""
+
+msgctxt "9677"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11048"
+msgid "野盗"
+msgstr ""
+
+msgctxt "11053"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "11058"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "11080"
+msgid "M_BUS_TLK_btl_aft_nw_01_en"
+msgstr ""
+
+msgctxt "11107"
+msgid "M_BUS_TLK_btl_aft_nw_02_en"
+msgstr ""
+
+msgctxt "11134"
+msgid "おばさん"
+msgstr ""
+
+msgctxt "11143"
+msgid "F_CHO_TLK_stand_happy"
+msgstr ""
+
+msgctxt "11165"
+msgid "P_KRU_TLK_stand_quest"
+msgstr ""
+
+msgctxt "11187"
+msgid "F_CHO_TLK_stand_info_f"
+msgstr ""
+
+msgctxt "11210"
+msgid "P_KRU_TLK_stand_think"
+msgstr ""
+
+msgctxt "11232"
+msgid "F_CHO_TLK_stand_ojigi"
+msgstr ""
+
+msgctxt "11254"
+msgid "P_KRU_TLK_stand_yes"
+msgstr ""
+
+msgctxt "11274"
+msgid "舞城"
+msgstr ""
+
+msgctxt "11279"
+msgid "F_CHO_TLK_stand_yes"
+msgstr ""
+
+msgctxt "11299"
+msgid "P_KRU_TLK_stand_no"
+msgstr ""
+
+msgctxt "11318"
+msgid "F_CHO_TLK_stand_think"
+msgstr ""
+
+msgctxt "11340"
+msgid "F_CHO_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "11363"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "11374"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "11385"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "11397"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "11407"
+msgid "Talk_Call"
+msgstr ""

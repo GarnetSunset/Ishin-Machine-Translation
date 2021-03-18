@@ -1,0 +1,824 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "564"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "708"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "852"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "996"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "1140"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "1284"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "1428"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "1572"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "1716"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "1860"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "2004"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "2148"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "2292"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "2724"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "2868"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "3012"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "3156"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "3300"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "3444"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "3588"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "3732"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "3876"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "4020"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "4164"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "4308"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "4452"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "4884"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "5028"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "5172"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "5316"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "5460"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "5604"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "5748"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "5892"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "6036"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "6180"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "6324"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "6468"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "6612"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "7044"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "7188"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "7332"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "7476"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "7620"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "7764"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "7908"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "8052"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "8196"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "8340"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "8484"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "8628"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "8772"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "9204"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "9348"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "9492"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "9636"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "9780"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "9924"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "10068"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "10212"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "10356"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "10500"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "10644"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "10788"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "10932"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "11364"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "11508"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "11652"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "11796"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "11940"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "12084"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "12228"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "12372"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "12516"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "12660"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "12804"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "12948"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "13092"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "13524"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "13668"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "13812"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "13956"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "14100"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "14244"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "14388"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "14532"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "14676"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "14820"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "14964"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "15108"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "15252"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "15684"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "15828"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "15972"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "16116"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "16260"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "16404"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "16548"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "16692"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "16836"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "16980"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "17124"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "17268"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "17412"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "17844"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "17988"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "18132"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "18276"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "18420"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "18564"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "18708"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "18852"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "18996"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "19140"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "19284"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "19428"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "19572"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "20004"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "20148"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "20292"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "20436"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "20580"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "20724"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "20868"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "21012"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "21156"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "21300"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "21444"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "21588"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "21732"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "22164"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "22308"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "22452"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "22596"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "22740"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "22884"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "23028"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "23172"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "23316"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "23460"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "23604"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "23748"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "23892"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "24324"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "24468"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "24612"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "24756"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "24900"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "25044"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "25188"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "25332"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "25476"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "25620"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "25764"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "25908"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "26052"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "26484"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "26628"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "26772"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "26916"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "27060"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "27204"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "27348"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "27492"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "27636"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "27780"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "27924"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "28068"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "28212"
+msgid "対決のときは確実に近づいている"
+msgstr ""
+
+msgctxt "28644"
+msgid "六番隊　井上源三郎として殺された"
+msgstr ""
+
+msgctxt "28788"
+msgid "もう１人の新選組局長　芹沢鴨"
+msgstr ""
+
+msgctxt "28932"
+msgid "吉田東洋暗殺と新選組誕生"
+msgstr ""
+
+msgctxt "29076"
+msgid ""
+"点と点がつながった時\r\n"
+"また新たな謎が生まれる"
+msgstr ""
+
+msgctxt "29220"
+msgid "１年前　芹沢に東洋暗殺を依頼した黒幕は"
+msgstr ""
+
+msgctxt "29364"
+msgid "「坂本龍馬」を名乗ったというのだ"
+msgstr ""
+
+msgctxt "29508"
+msgid ""
+"やがて２人の「坂本龍馬」が\r\n"
+"寺田屋で重なり合うと"
+msgstr ""
+
+msgctxt "29652"
+msgid "京の町はさらなる混沌に包まれていく"
+msgstr ""
+
+msgctxt "29796"
+msgid "裏切りと策略"
+msgstr ""
+
+msgctxt "29940"
+msgid "不信と絶望"
+msgstr ""
+
+msgctxt "30084"
+msgid "“もう一人の坂本龍馬”……"
+msgstr ""
+
+msgctxt "30228"
+msgid ""
+"その正体は土佐で死んだはずの\r\n"
+"武市半平太なのだろうか"
+msgstr ""
+
+msgctxt "30372"
+msgid "対決のときは確実に近づいている"
+msgstr ""

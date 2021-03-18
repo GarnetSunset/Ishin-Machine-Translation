@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "688020"
+msgid "これで役者がそろった"
+msgstr ""
+
+msgctxt "688164"
+msgid "ええ"
+msgstr ""
+
+msgctxt "688308"
+msgid "話は聞いただろうな　龍馬"
+msgstr ""
+
+msgctxt "688452"
+msgid ""
+"ワシたちはこれから\n"
+"土佐藩の老人たちに引導を渡し　土佐藩を改革する"
+msgstr ""
+
+msgctxt "688596"
+msgid "上士に白札郷士に郷士……"
+msgstr ""
+
+msgctxt "688740"
+msgid ""
+"そういった無意味な階級のない\n"
+"土佐藩へと変えるために"
+msgstr ""
+
+msgctxt "688884"
+msgid "ああ"
+msgstr ""
+
+msgctxt "689028"
+msgid "親っさん"
+msgstr ""
+
+msgctxt "689172"
+msgid ""
+"勤王党はもう高知城包囲の準備はできてます\n"
+"いつ決行しますか？"
+msgstr ""
+
+msgctxt "689316"
+msgid "ワシは気が短いんでな"
+msgstr ""
+
+msgctxt "689460"
+msgid "明日だ　そこですべて片をつける"
+msgstr ""
+
+msgctxt "689604"
+msgid "ずいぶん急だな"
+msgstr ""
+
+msgctxt "689748"
+msgid "急だと？　馬鹿を言うな"
+msgstr ""
+
+msgctxt "689892"
+msgid ""
+"ワシたちは　お前が江戸から\n"
+"戻ってくるのを待っていたんだよ"
+msgstr ""
+
+msgctxt "690036"
+msgid "そういうことだ"
+msgstr ""
+
+msgctxt "690180"
+msgid ""
+"明朝　勤王党は５００人全員を\n"
+"武装させて城を囲め"
+msgstr ""
+
+msgctxt "690324"
+msgid ""
+"上士が何を言おうが決して動かず\n"
+"老人たちの目にその姿を焼きつけろ"
+msgstr ""
+
+msgctxt "690468"
+msgid "その後　城の中のことはこのワシに任せてくれ"
+msgstr ""
+
+msgctxt "690612"
+msgid "そんなに簡単にいくものなのか？"
+msgstr ""
+
+msgctxt "690756"
+msgid "言ってくれるな"
+msgstr ""
+
+msgctxt "690900"
+msgid ""
+"ここまで来るのに俺と親っさんが\n"
+"どれだけ根回ししてきたと思ってるんだ"
+msgstr ""
+
+msgctxt "691044"
+msgid ""
+"ただし　その前にひとつだけ\n"
+"気がかりなことがある"
+msgstr ""
+
+msgctxt "691188"
+msgid "何だ？"
+msgstr ""
+
+msgctxt "691332"
+msgid ""
+"龍馬　お前\n"
+"土佐勤王党の“筆頭”になったそうだな"
+msgstr ""
+
+msgctxt "691476"
+msgid "ああ　そうだが"
+msgstr ""
+
+msgctxt "691620"
+msgid "半平太　“筆頭”に任命したのはお前か？"
+msgstr ""
+
+msgctxt "691764"
+msgid "そうです　何か問題でも？"
+msgstr ""
+
+msgctxt "691908"
+msgid "この計画が成功し　老人たちが消えた後……"
+msgstr ""
+
+msgctxt "692052"
+msgid "勤王党は土佐で大きな力を持つことになるだろう"
+msgstr ""
+
+msgctxt "692196"
+msgid "だがワシは　坂本龍馬という人間は……"
+msgstr ""
+
+msgctxt "692340"
+msgid "勤王党の“筆頭”にふさわしい男だとは思ってない"
+msgstr ""
+
+msgctxt "692484"
+msgid "な　何を言い出す気ですか　親っさん！"
+msgstr ""
+
+msgctxt "692628"
+msgid "前から　俺と龍馬と親っさん……"
+msgstr ""
+
+msgctxt "692772"
+msgid "その３人で土佐を変えるって言ってたじゃないですか！"
+msgstr ""
+
+msgctxt "692916"
+msgid "確かに言ったその思いは今も変わらん"
+msgstr ""
+
+msgctxt "693060"
+msgid "だったら……！"
+msgstr ""
+
+msgctxt "693204"
+msgid ""
+"待ってくれ\n"
+"俺は肩書きに執着はねえ"
+msgstr ""
+
+msgctxt "693348"
+msgid ""
+"“筆頭”にふさわしくねえってんなら\n"
+"いつだって降りるだけだ"
+msgstr ""
+
+msgctxt "693492"
+msgid "そういう問題じゃねえだろう龍馬……！"
+msgstr ""
+
+msgctxt "693636"
+msgid "親っさん　どういうつもりなんですか！"
+msgstr ""
+
+msgctxt "693780"
+msgid "２人とも勘違いしているようなので言っておく"
+msgstr ""
+
+msgctxt "693924"
+msgid "ワシの真の考えは"
+msgstr ""
+
+msgctxt "694068"
+msgid "誰だ？"
+msgstr ""
+
+msgctxt "694212"
+msgid "親っさん！！"
+msgstr ""
+
+msgctxt "694356"
+msgid "親っさん！　馬鹿な！！"
+msgstr ""
+
+msgctxt "694500"
+msgid "くそ！"
+msgstr ""
+
+msgctxt "694644"
+msgid "龍馬！　お前は親っさんを頼む！"
+msgstr ""
+
+msgctxt "694788"
+msgid "だ　誰が……　こんな　まねを……？"
+msgstr ""
+
+msgctxt "694932"
+msgid "親っさん……！"
+msgstr ""
+
+msgctxt "695076"
+msgid "吉田様　何事でございます！"
+msgstr ""
+
+msgctxt "695220"
+msgid "こっちぜよ！"
+msgstr ""
+
+msgctxt "695364"
+msgid "いかん……！　龍馬……　に　逃げろ……"
+msgstr ""
+
+msgctxt "695508"
+msgid ""
+"このままだと　……お前が\n"
+"ワシを殺した犯人だと思われちまう……"
+msgstr ""
+
+msgctxt "695652"
+msgid "で　でも……"
+msgstr ""
+
+msgctxt "695796"
+msgid ""
+"と　土佐は……　未来は……\n"
+"お前に……"
+msgstr ""
+
+msgctxt "695940"
+msgid "託し……　た……"
+msgstr ""
+
+msgctxt "696084"
+msgid "親っさん……？"
+msgstr ""
+
+msgctxt "696228"
+msgid "親っさん！！"
+msgstr ""
+
+msgctxt "696372"
+msgid "よ　吉田様ぁ！！"
+msgstr ""
+
+msgctxt "696516"
+msgid "おまんは……　おまんが吉田様を！？"
+msgstr ""
+
+msgctxt "696660"
+msgid ""
+"おのれ……\n"
+"斬れ！　この者を斬り捨てぇ！！"
+msgstr ""

@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2084"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2085"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2086"
+msgid "ちょいと、お客人。"
+msgstr ""
+
+msgctxt "2105"
+msgid "お前は、丁半博打の……　壺振りか。"
+msgstr ""
+
+msgctxt "2140"
+msgid ""
+"お客人。\n"
+"あんた、最近よく見る顔だねぇ。"
+msgstr ""
+
+msgctxt "2181"
+msgid ""
+"フン。いつも有り金をすられてばかりだからな。\n"
+"いやでも目に付くだろう。"
+msgstr ""
+
+msgctxt "2252"
+msgid ""
+"おや、そうだったかい？\n"
+"いい勝負師の目をしてるように思えたんだけどねぇ。"
+msgstr ""
+
+msgctxt "2325"
+msgid ""
+"……まぁいいさ、次に勝負するとき、\n"
+"あんたの実力、改めて確認させてもらうとするよ。"
+msgstr ""
+
+msgctxt "2408"
+msgid "あぁ、そのうちな。"
+msgstr ""
+
+msgctxt "2427"
+msgid "フッ、待ってるよ。"
+msgstr ""
+
+msgctxt "2446"
+msgid ""
+"「賭場の壺振り」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「賭場の壺振り」と交流してみましょう。"
+msgstr ""
+
+msgctxt "2667"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2668"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3172"
+msgid "壺振り"
+msgstr ""
+
+msgctxt "3179"
+msgid "Player"
+msgstr ""
+
+msgctxt "3186"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3197"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3205"
+msgid "賭場の壺振りとの絆"
+msgstr ""

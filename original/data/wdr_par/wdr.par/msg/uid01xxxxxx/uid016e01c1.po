@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5144"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5145"
+msgid "ん？　あれは……？"
+msgstr ""
+
+msgctxt "5164"
+msgid ""
+"あなたはたしか……\n"
+"先日悪い奴らに絡まれていた……？"
+msgstr ""
+
+msgctxt "5217"
+msgid "はい、あの時はありがとうございました。"
+msgstr ""
+
+msgctxt "5256"
+msgid ""
+"あの時はろくにお礼も言わずに、ごめんなさい。\n"
+"母が倒れたと聞いて、\n"
+"急いで家に帰っていた途中でしたので……"
+msgstr ""
+
+msgctxt "5363"
+msgid ""
+"いいえ、気にしておりません！\n"
+"して、お母様は……？"
+msgstr ""
+
+msgctxt "5414"
+msgid ""
+"すぐにお医者様を呼んで診ていただいたので、\n"
+"今はとても元気ですわ。"
+msgstr ""
+
+msgctxt "5481"
+msgid "ほっ、それはよかったですね。"
+msgstr ""
+
+msgctxt "5510"
+msgid ""
+"えぇ、でもあと少し処置が遅れていれば\n"
+"大変なことになっていたそうで……"
+msgstr ""
+
+msgctxt "5581"
+msgid "あの時、あなたが私を助けてくださらなかったら……"
+msgstr ""
+
+msgctxt "5630"
+msgid ""
+"あなたは母の命の恩人ですわ……\n"
+"本当に……　本当にありがとうございます。"
+msgstr ""
+
+msgctxt "5703"
+msgid "わ、私が……　命の……　恩人？"
+msgstr ""
+
+msgctxt "5734"
+msgid ""
+"えぇ、喧嘩の方は……　少しお弱かったですけれど、\n"
+"私にとっては、とても……　格好良かったですよ。"
+msgstr ""
+
+msgctxt "5831"
+msgid "また後日ちゃんとお礼に参りますね。それでは。"
+msgstr ""
+
+msgctxt "5876"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5877"
+msgid "……"
+msgstr ""
+
+msgctxt "5882"
+msgid "よかったな。"
+msgstr ""
+
+msgctxt "5895"
+msgid "や、あなたは……"
+msgstr ""
+
+msgctxt "5912"
+msgid ""
+"“困っている人を助けても無意味だ”\n"
+"お前はそう言っていたな……"
+msgstr ""
+
+msgctxt "5975"
+msgid ""
+"だが……\n"
+"お前はちゃんと人を救えていたじゃないか。"
+msgstr ""
+
+msgctxt "6026"
+msgid ""
+"は、はい……\n"
+"本当に、そうでありますね。"
+msgstr ""
+
+msgctxt "6067"
+msgid "……これからどうするんだ？"
+msgstr ""
+
+msgctxt "6094"
+msgid "そうですね……"
+msgstr ""
+
+msgctxt "6109"
+msgid ""
+"やはり私……　しばらく町の見回りを、\n"
+"お休みしようと思っておるのです。"
+msgstr ""
+
+msgctxt "6180"
+msgid "……なぜだ？"
+msgstr ""
+
+msgctxt "6193"
+msgid "道場に通って、修行しようと思うのです。"
+msgstr ""
+
+msgctxt "6232"
+msgid ""
+"私自身、もっと強くならないといけません！\n"
+"……もっと多くの困っている人を助けるために！"
+msgstr ""
+
+msgctxt "6319"
+msgid "ふっ……　なるほどな。"
+msgstr ""
+
+msgctxt "6342"
+msgid ""
+"たしかに、いつもぼこぼこにされてる人助けは、\n"
+"格好悪いからな。"
+msgstr ""
+
+msgctxt "6405"
+msgid "や、あなたそんなこと思ってたんですか！　ひどい！"
+msgstr ""
+
+msgctxt "6454"
+msgid "冗談だ。"
+msgstr ""
+
+msgctxt "6463"
+msgid ""
+"……ふふふ。これからは私、あなたに頼らずとも\n"
+"人々の笑顔のためにがんばっていくつもりですよ。"
+msgstr ""
+
+msgctxt "6556"
+msgid ""
+"悪い奴にからまれたら、\n"
+"いつでも私をお呼びくださいね！　それでは！"
+msgstr ""
+
+msgctxt "6623"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6624"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6625"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7372"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "7377"
+msgid "正義感ある怪我人"
+msgstr ""
+
+msgctxt "7394"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7405"
+msgid "いたいけなお嬢さん"
+msgstr ""
+
+msgctxt "7424"
+msgid "kaiwabgm_sub_hartwarm_02"
+msgstr ""
+
+msgctxt "7449"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7460"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "7469"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7477"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7486"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "7498"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "7509"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "7520"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "7530"
+msgid "dummy"
+msgstr ""

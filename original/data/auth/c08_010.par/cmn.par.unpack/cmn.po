@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "107908"
+msgid ""
+"一（はじめ）さん朝やで！\n"
+"起きなはれ！"
+msgstr ""
+
+msgctxt "108052"
+msgid "おう"
+msgstr ""
+
+msgctxt "108196"
+msgid "何や起きてはったん？"
+msgstr ""
+
+msgctxt "108340"
+msgid "カラスがギャーギャーうるさくってな"
+msgstr ""
+
+msgctxt "108484"
+msgid "目が覚めちまった"
+msgstr ""
+
+msgctxt "108628"
+msgid ""
+"まぁええわ\n"
+"ご飯できてるえ"
+msgstr ""
+
+msgctxt "108772"
+msgid "近藤勇は“覆面の男”ではなかった"
+msgstr ""
+
+msgctxt "108916"
+msgid "新選組の天念理心流の使い手は"
+msgstr ""
+
+msgctxt "109060"
+msgid "残り４人……"
+msgstr ""

@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3144"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3145"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3146"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3147"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3148"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3149"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3150"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3151"
+msgid ""
+"（この先が最後の部屋のようだ。\n"
+"　このまま入るか？）"
+msgstr ""
+
+msgctxt "3204"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3205"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3206"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3207"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3208"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3209"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3210"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3211"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3212"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3213"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3214"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3215"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3216"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3217"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3218"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3222"
+msgid "む、無念……"
+msgstr ""
+
+msgctxt "3235"
+msgid "くそっ……　つ、強い……"
+msgstr ""
+
+msgctxt "3260"
+msgid "ば、幕府の犬め……"
+msgstr ""
+
+msgctxt "3279"
+msgid "これで終わりだと……　思うなよ……"
+msgstr ""
+
+msgctxt "3314"
+msgid "し、新選組め……"
+msgstr ""
+
+msgctxt "3331"
+msgid "おかしら……　すいません……"
+msgstr ""
+
+msgctxt "3360"
+msgid "ぐはっ!!"
+msgstr ""
+
+msgctxt "3369"
+msgid "貴様……　何者だ……"
+msgstr ""
+
+msgctxt "3390"
+msgid "くそっ……　ここまでか……"
+msgstr ""
+
+msgctxt "3417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3576"
+msgid "Player"
+msgstr ""
+
+msgctxt "3583"
+msgid "入る"
+msgstr ""
+
+msgctxt "3588"
+msgid "後にする"
+msgstr ""
+
+msgctxt "3597"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3603"
+msgid "7e00a010"
+msgstr ""
+
+msgctxt "3612"
+msgid "7e00a000"
+msgstr ""
+
+msgctxt "3621"
+msgid "野盗"
+msgstr ""

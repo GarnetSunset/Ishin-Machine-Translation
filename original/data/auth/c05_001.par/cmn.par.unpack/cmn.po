@@ -1,0 +1,628 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "564"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "708"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "852"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "996"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "1140"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "1284"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "1428"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "1572"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "1716"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "2148"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "2292"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "2436"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "2580"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "2724"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "2868"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "3012"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "3156"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "3300"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "3732"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "3876"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "4020"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "4164"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "4308"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "4452"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "4596"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "4740"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "4884"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "5316"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "5460"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "5604"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "5748"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "5892"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "6036"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "6180"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "6324"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "6468"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "6900"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "7044"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "7188"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "7332"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "7476"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "7620"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "7764"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "7908"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "8052"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "8484"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "8628"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "8772"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "8916"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "9060"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "9204"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "9348"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "9492"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "9636"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "10068"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "10212"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "10356"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "10500"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "10644"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "10788"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "10932"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "11076"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "11220"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "11652"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "11796"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "11940"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "12084"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "12228"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "12372"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "12516"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "12660"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "12804"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "13236"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "13380"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "13524"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "13668"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "13812"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "13956"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "14100"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "14244"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "14388"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "14820"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "14964"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "15108"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "15252"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "15396"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "15540"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "15684"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "15828"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "15972"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "16404"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "16548"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "16692"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "16836"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "16980"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "17124"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "17268"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "17412"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "17556"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "17988"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "18132"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "18276"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "18420"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "18564"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "18708"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "18852"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "18996"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "19140"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "19572"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "19716"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "19860"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "20004"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "20148"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "20292"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "20436"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "20580"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "20724"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""
+
+msgctxt "21156"
+msgid "幹部たちの思惑が渦巻く中"
+msgstr ""
+
+msgctxt "21300"
+msgid ""
+"新選組で龍馬は独り\r\n"
+"「覆面の男」の手がかりを探す"
+msgstr ""
+
+msgctxt "21444"
+msgid ""
+"そんな中\r\n"
+"吉田東洋暗殺事件の真相を追う　もう１人の男"
+msgstr ""
+
+msgctxt "21588"
+msgid "中岡慎太郎と出会う"
+msgstr ""
+
+msgctxt "21732"
+msgid "数少ない協力者を得た龍馬"
+msgstr ""
+
+msgctxt "21876"
+msgid ""
+"しかし土佐藩の大殿　山内容堂が\r\n"
+"土佐に戻ったことを知る"
+msgstr ""
+
+msgctxt "22020"
+msgid ""
+"そして　時同じくして\r\n"
+"武市半平太に土佐帰還命令が下る"
+msgstr ""
+
+msgctxt "22164"
+msgid "土佐に不穏な気配を感じながらも"
+msgstr ""
+
+msgctxt "22308"
+msgid "龍馬は再び「覆面の男」を追い始める"
+msgstr ""

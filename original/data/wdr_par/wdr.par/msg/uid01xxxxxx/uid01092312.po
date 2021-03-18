@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "440"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "441"
+msgid "（ここの任務を諦めて、屯所に戻るか？）"
+msgstr ""
+
+msgctxt "480"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "481"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "500"
+msgid "Player"
+msgstr ""
+
+msgctxt "507"
+msgid "戻らない"
+msgstr ""
+
+msgctxt "516"
+msgid "屯所に戻る"
+msgstr ""
+
+msgctxt "527"
+msgid "dummy"
+msgstr ""

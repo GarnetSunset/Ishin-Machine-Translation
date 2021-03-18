@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "380"
+msgid "－"
+msgstr ""
+
+msgctxt "383"
+msgid "所持数"
+msgstr ""
+
+msgctxt "390"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "415"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "448"
+msgid "ありがとうございます。%sになります。"
+msgstr ""
+
+msgctxt "485"
+msgid "（これ以上食べられないな……）"
+msgstr ""
+
+msgctxt "516"
+msgid "（これ以上飲めないな……）"
+msgstr ""
+
+msgctxt "543"
+msgid "御品書"
+msgstr ""
+
+msgctxt "550"
+msgid "－"
+msgstr ""
+
+msgctxt "553"
+msgid "注"
+msgstr ""
+
+msgctxt "556"
+msgid "（うむ、うまいな）"
+msgstr ""
+
+msgctxt "575"
+msgid "（いけるな）"
+msgstr ""
+
+msgctxt "588"
+msgid "（なかなかのものだな）"
+msgstr ""
+
+msgctxt "611"
+msgid "（うむ、なかなかだな）"
+msgstr ""
+
+msgctxt "634"
+msgid "（これは、いいな）"
+msgstr ""
+
+msgctxt "653"
+msgid "（うまいものだな）"
+msgstr ""
+
+msgctxt "672"
+msgid "（なかなか、いけるな）"
+msgstr ""
+
+msgctxt "695"
+msgid "（これは、なかなか……）"
+msgstr ""
+
+msgctxt "720"
+msgid "（こいつは、うまいぞ）"
+msgstr ""
+
+msgctxt "743"
+msgid "（ふむ、いけるな）"
+msgstr ""
+
+msgctxt "762"
+msgid "（う～ん……　イマイチだな……）"
+msgstr ""
+
+msgctxt "795"
+msgid "chair"
+msgstr ""
+
+msgctxt "801"
+msgid ""
+"土佐で作られたお酒です。\n"
+"淡麗辛口ですっきりとした味わいです。"
+msgstr ""
+
+msgctxt "863"
+msgid ""
+"栗を原料にした焼酎です。\n"
+"栗独自の香ばしさと甘みで\n"
+"飲みやすい焼酎ですね。"
+msgstr ""
+
+msgctxt "936"
+msgid ""
+"土佐の名産である鰹を使った料理です。\n"
+"皿に並べられた鰹の切り身に、\n"
+"どっさり薬味を載せてどうぞ。"
+msgstr ""
+
+msgctxt "1031"
+msgid ""
+"祭などの時によく食べられる土佐料理です。\n"
+"大きな皿の上に刺身や寿司など\n"
+"たくさんの料理が乗っています。"
+msgstr ""
+
+msgctxt "1132"
+msgid ""
+"色々な魚を使った塩辛です。\n"
+"その名の通り、どんどんお酒が進むので\n"
+"盗まれる様にお酒がなくなっていきますよ。"
+msgstr ""
+
+msgctxt "1237"
+msgid ""
+"なすをぬか漬けにしたものです。\n"
+"塩気と瑞々しさが、お酒と良く合いますよ。"
+msgstr ""

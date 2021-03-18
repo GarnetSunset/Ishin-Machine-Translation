@@ -1,0 +1,608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "9996"
+msgid "誰なんだ？　あんた……"
+msgstr ""
+
+msgctxt "10019"
+msgid ""
+"気がつかなかったかな？\n"
+"さっき道場に居たんだけどさ。ってまぁ\n"
+"陰に隠れて話を聞いてただけなんだけど……"
+msgstr ""
+
+msgctxt "10122"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10123"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10124"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10125"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10126"
+msgid ""
+"いや、悪いとは思ったんだけど、\n"
+"ついつい盗み聞きしちゃってね。\n"
+"そういうの大好きでさ。"
+msgstr ""
+
+msgctxt "10213"
+msgid "あんたは誰だ、と聞いているんだ。"
+msgstr ""
+
+msgctxt "10246"
+msgid ""
+"ああそっか。俺は長州藩の新堀松輔。\n"
+"これでも一応「勤王の志士」ってやつだ。"
+msgstr ""
+
+msgctxt "10321"
+msgid ""
+"おかげで幕府や新選組からは、\n"
+"目の敵にされちゃってるんだけど。"
+msgstr ""
+
+msgctxt "10384"
+msgid "なるほど。それじゃ……　新堀ってのは偽名か。"
+msgstr ""
+
+msgctxt "10429"
+msgid "フッ、まあ初対面だし、偽名で勘弁してくれ。"
+msgstr ""
+
+msgctxt "10472"
+msgid ""
+"けど……\n"
+"あんたの剣の腕、俺に預けてくれるってんなら\n"
+"いずれ本名も教えるよ。"
+msgstr ""
+
+msgctxt "10549"
+msgid "なに？"
+msgstr ""
+
+msgctxt "10556"
+msgid ""
+"実はさ、今、京の道場を廻って\n"
+"剣の腕の立つ男を探してるんだ。"
+msgstr ""
+
+msgctxt "10617"
+msgid "どうしてそんなことを？"
+msgstr ""
+
+msgctxt "10640"
+msgid ""
+"いやぁ、近々ちょっと\n"
+"ひと騒動起こそうと思っていてね。"
+msgstr ""
+
+msgctxt "10695"
+msgid ""
+"誰にも負けないって、剣の使い手が必要なんだよ。\n"
+"アンタだったらうってつけなんだけど。どう？"
+msgstr ""
+
+msgctxt "10786"
+msgid ""
+"あんたの本名に興味はない。\n"
+"よそを当たるんだな。"
+msgstr ""
+
+msgctxt "10835"
+msgid ""
+"つれないな。それじゃ……そうだな。\n"
+"まずはあんたにひとつ恩を売っておこうか。"
+msgstr ""
+
+msgctxt "10912"
+msgid "ん？"
+msgstr ""
+
+msgctxt "10917"
+msgid ""
+"これでも俺、長州藩きっての\n"
+"情報通って言われててね。\n"
+"情報の仕入れ方には精通してる。"
+msgstr ""
+
+msgctxt "11002"
+msgid "そうなのか。それがどうした。"
+msgstr ""
+
+msgctxt "11031"
+msgid ""
+"アンタのやり方は古い。\n"
+"普通じゃない情報を仕入れるのに\n"
+"普通の情報屋を使うのは考えもんだよ。"
+msgstr ""
+
+msgctxt "11124"
+msgid "ま、懐の事情もあるんだろうけどね。"
+msgstr ""
+
+msgctxt "11159"
+msgid ""
+"俺の見たところ、あの「鴉」とかいう\n"
+"情報屋、ありゃフツーもフツー。超普通だ。"
+msgstr ""
+
+msgctxt "11236"
+msgid "じゃあどうすればいいんだ。"
+msgstr ""
+
+msgctxt "11263"
+msgid ""
+"もしあんたがまだ、「天念理心流」とやらの\n"
+"使い手を追う気なら……　俺がこの京で一番\n"
+"と言われる情報屋を紹介しよう。"
+msgstr ""
+
+msgctxt "11378"
+msgid "…………"
+msgstr ""
+
+msgctxt "11387"
+msgid ""
+"見返りをよこせとは言わない。\n"
+"こいつはあんたへのお近づきのしるしだ。"
+msgstr ""
+
+msgctxt "11456"
+msgid "聞く気はあるかい？"
+msgstr ""
+
+msgctxt "11475"
+msgid "……ああ。"
+msgstr ""
+
+msgctxt "11486"
+msgid ""
+"その情報屋は、貧民街の奥“賽の河原”と\n"
+"呼ばれるところを根城にしてる。"
+msgstr ""
+
+msgctxt "11557"
+msgid "通称、サイの風呂屋。"
+msgstr ""
+
+msgctxt "11578"
+msgid "サイの風呂屋？"
+msgstr ""
+
+msgctxt "11593"
+msgid ""
+"依頼主に情報を渡す場所が、\n"
+"必ずどこかの風呂屋なんだよ。"
+msgstr ""
+
+msgctxt "11650"
+msgid "なるほど。"
+msgstr ""
+
+msgctxt "11661"
+msgid ""
+"これから俺の方でそいつに\n"
+"天念理心流の使い手を調べておくよう\n"
+"手配しておく。"
+msgstr ""
+
+msgctxt "11738"
+msgid ""
+"あんたは、陽が落ちたら\n"
+"屋敷町南（やしきまちみなみ）の風呂屋へ\n"
+"行ってくれ。"
+msgstr ""
+
+msgctxt "11815"
+msgid ""
+"店のモンに新堀松輔と名乗れば\n"
+"その情報屋のところに案内されるはずだ。"
+msgstr ""
+
+msgctxt "11884"
+msgid ""
+"ずいぶん親切なんだな。\n"
+"この話、どんな裏がある？"
+msgstr ""
+
+msgctxt "11933"
+msgid ""
+"疑ぐり深いねぇ……\n"
+"俺を信じるか信じないかはあんた次第さ。"
+msgstr ""
+
+msgctxt "11992"
+msgid ""
+"でも信じないで何もしないより、\n"
+"信じて裏切られた方が少しは前に進める。"
+msgstr ""
+
+msgctxt "12063"
+msgid ""
+"……夜になったら、\n"
+"俺は新堀松輔を名乗って屋敷町南の風呂屋に行く。"
+msgstr ""
+
+msgctxt "12130"
+msgid "それで情報屋に会えるんだったな？"
+msgstr ""
+
+msgctxt "12163"
+msgid "ああ……　ただ夜までしばらく時間がある。"
+msgstr ""
+
+msgctxt "12204"
+msgid ""
+"新選組には気をつけたほうがいいよ。\n"
+"分かってるとは思うけど。"
+msgstr ""
+
+msgctxt "12265"
+msgid ""
+"幕府が連中に京の治安維持を任せてから、\n"
+"浪人者は町歩くだけで命がけだ。"
+msgstr ""
+
+msgctxt "12336"
+msgid ""
+"少しでも怪しければ斬られるし、\n"
+"時々、怪しくなくても斬られる。"
+msgstr ""
+
+msgctxt "12399"
+msgid "わかっている。"
+msgstr ""
+
+msgctxt "12414"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12415"
+msgid ""
+"待ちなよ。せめて名前くらい\n"
+"教えてってもいいんじゃない？"
+msgstr ""
+
+msgctxt "12472"
+msgid "俺も偽名かもしれないぞ？"
+msgstr ""
+
+msgctxt "12497"
+msgid "ま、そこはお互い様だから。"
+msgstr ""
+
+msgctxt "12524"
+msgid "フッ……　斎藤一だ。"
+msgstr ""
+
+msgctxt "12545"
+msgid ""
+"斎藤さんね。覚えとくよ。\n"
+"……そんじゃ。"
+msgstr ""
+
+msgctxt "12586"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12587"
+msgid "長州藩の新堀か……"
+msgstr ""
+
+msgctxt "12606"
+msgid ""
+"隙があるようで隙がない。\n"
+"不思議な男だな……"
+msgstr ""
+
+msgctxt "12651"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12652"
+msgid ""
+"（屋敷町南の風呂屋、か……\n"
+"　そこで天念理心流の情報が得られるのか？）"
+msgstr ""
+
+msgctxt "12723"
+msgid ""
+"（……夜になったら行くんだったな。\n"
+"　まだ時間がある。一度寺田屋に戻るか）"
+msgstr ""
+
+msgctxt "12798"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14816"
+msgid "Player"
+msgstr ""
+
+msgctxt "14823"
+msgid "kiryu_c02_070_01"
+msgstr ""
+
+msgctxt "14840"
+msgid "軽薄そうな男"
+msgstr ""
+
+msgctxt "14853"
+msgid "C02070_KAT_kiseru_kamae"
+msgstr ""
+
+msgctxt "14877"
+msgid "C02070_KAT_kiseru_quest"
+msgstr ""
+
+msgctxt "14901"
+msgid "akiyama_c02_070_01"
+msgstr ""
+
+msgctxt "14920"
+msgid "2d_yk_C2-070_00"
+msgstr ""
+
+msgctxt "14936"
+msgid "2d_yk_C2-070_01"
+msgstr ""
+
+msgctxt "14952"
+msgid "akiyama_c02_070_02"
+msgstr ""
+
+msgctxt "14971"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14980"
+msgid "kiryu_c02_070_02"
+msgstr ""
+
+msgctxt "14997"
+msgid "新堀"
+msgstr ""
+
+msgctxt "15002"
+msgid "akiyama_c02_070_03"
+msgstr ""
+
+msgctxt "15021"
+msgid "C02070_KAT_kiseru_yes"
+msgstr ""
+
+msgctxt "15043"
+msgid "akiyama_c02_070_03b"
+msgstr ""
+
+msgctxt "15063"
+msgid "kiryu_c02_070_03"
+msgstr ""
+
+msgctxt "15080"
+msgid "akiyama_c02_070_04"
+msgstr ""
+
+msgctxt "15099"
+msgid "C02070_KAT_kiseru_no"
+msgstr ""
+
+msgctxt "15120"
+msgid "akiyama_c02_070_04b"
+msgstr ""
+
+msgctxt "15140"
+msgid "kiryu_c02_070_04"
+msgstr ""
+
+msgctxt "15157"
+msgid "akiyama_c02_070_05"
+msgstr ""
+
+msgctxt "15176"
+msgid "kiryu_c02_070_05"
+msgstr ""
+
+msgctxt "15193"
+msgid "akiyama_c02_070_06"
+msgstr ""
+
+msgctxt "15212"
+msgid "akiyama_c02_070_06b"
+msgstr ""
+
+msgctxt "15232"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15240"
+msgid "kiryu_c02_070_06"
+msgstr ""
+
+msgctxt "15257"
+msgid "akiyama_c02_070_07"
+msgstr ""
+
+msgctxt "15276"
+msgid "kiryu_c02_070_07"
+msgstr ""
+
+msgctxt "15293"
+msgid "akiyama_c02_070_08"
+msgstr ""
+
+msgctxt "15312"
+msgid "kiryu_c02_070_08"
+msgstr ""
+
+msgctxt "15329"
+msgid "akiyama_c02_070_09"
+msgstr ""
+
+msgctxt "15348"
+msgid "akiyama_c02_070_09b"
+msgstr ""
+
+msgctxt "15368"
+msgid "akiyama_c02_070_09c"
+msgstr ""
+
+msgctxt "15388"
+msgid "kiryu_c02_070_09"
+msgstr ""
+
+msgctxt "15405"
+msgid "akiyama_c02_070_10"
+msgstr ""
+
+msgctxt "15424"
+msgid "akiyama_c02_070_11"
+msgstr ""
+
+msgctxt "15443"
+msgid "akiyama_c02_070_11b"
+msgstr ""
+
+msgctxt "15463"
+msgid "C02070_KAT_kiseru_smoke"
+msgstr ""
+
+msgctxt "15487"
+msgid "kaiwabgm_apathy_06"
+msgstr ""
+
+msgctxt "15506"
+msgid "kiryu_c02_070_11"
+msgstr ""
+
+msgctxt "15523"
+msgid "akiyama_c02_070_12"
+msgstr ""
+
+msgctxt "15542"
+msgid "akiyama_c02_070_12b"
+msgstr ""
+
+msgctxt "15562"
+msgid "kiryu_c02_070_12"
+msgstr ""
+
+msgctxt "15579"
+msgid "akiyama_c02_070_13"
+msgstr ""
+
+msgctxt "15598"
+msgid "kiryu_c02_070_13"
+msgstr ""
+
+msgctxt "15615"
+msgid "akiyama_c02_070_14"
+msgstr ""
+
+msgctxt "15634"
+msgid "akiyama_c02_070_14b"
+msgstr ""
+
+msgctxt "15654"
+msgid "akiyama_c02_070_14c"
+msgstr ""
+
+msgctxt "15674"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "15681"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "15703"
+msgid "kiryu_c02_070_14"
+msgstr ""
+
+msgctxt "15720"
+msgid "akiyama_c02_070_15"
+msgstr ""
+
+msgctxt "15739"
+msgid "akiyama_c02_070_15b"
+msgstr ""
+
+msgctxt "15759"
+msgid "kiryu_c02_070_15"
+msgstr ""
+
+msgctxt "15776"
+msgid "kiryu_c02_070_15b"
+msgstr ""
+
+msgctxt "15794"
+msgid "akiyama_c02_070_16"
+msgstr ""
+
+msgctxt "15813"
+msgid "akiyama_c02_070_16b"
+msgstr ""
+
+msgctxt "15833"
+msgid "akiyama_c02_070_16c"
+msgstr ""
+
+msgctxt "15853"
+msgid "akiyama_c02_070_16d"
+msgstr ""
+
+msgctxt "15873"
+msgid "kiryu_c02_070_16"
+msgstr ""
+
+msgctxt "15890"
+msgid "akiyama_c02_070_17"
+msgstr ""
+
+msgctxt "15909"
+msgid "kiryu_c02_070_17"
+msgstr ""
+
+msgctxt "15926"
+msgid "akiyama_c02_070_18"
+msgstr ""
+
+msgctxt "15945"
+msgid "kiryu_c02_070_18"
+msgstr ""
+
+msgctxt "15962"
+msgid "akiyama_c02_070_19"
+msgstr ""
+
+msgctxt "15981"
+msgid "kiryu_c02_070_19"
+msgstr ""
+
+msgctxt "15998"
+msgid "kiryu_c02_070_19b"
+msgstr ""
+
+msgctxt "16016"
+msgid "dummy"
+msgstr ""

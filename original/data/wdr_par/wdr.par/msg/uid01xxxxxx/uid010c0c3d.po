@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "744"
+msgid ""
+"ようこそ。\n"
+"ポーカーテーブルへ。"
+msgstr ""
+
+msgctxt "777"
+msgid "それではゲームを開始します。"
+msgstr ""
+
+msgctxt "806"
+msgid "またの御越しお待ちしております。"
+msgstr ""
+
+msgctxt "839"
+msgid ""
+"賭け点が足りないようですね、\n"
+"またの御越しをお待ちしております。"
+msgstr ""
+
+msgctxt "904"
+msgid "捨てるカードを選んでください。"
+msgstr ""
+
+msgctxt "935"
+msgid "（アイテムの効果が切れたようだ……）"
+msgstr ""
+
+msgctxt "972"
+msgid "お客様、波に乗っていますね。"
+msgstr ""
+
+msgctxt "1001"
+msgid "いい調子ですね。"
+msgstr ""

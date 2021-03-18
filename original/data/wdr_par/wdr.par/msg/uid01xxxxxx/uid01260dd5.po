@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1648"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1649"
+msgid ""
+"（この先が三人衆のいる部屋のようだ。\n"
+"　このまま入るか？）"
+msgstr ""
+
+msgctxt "1708"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1709"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1710"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1711"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1712"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1713"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1714"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1715"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1716"
+msgid ""
+"くそっ……　ここまでか……\n"
+"しかし、お前たち新選組は御館様へは辿り着けまい……"
+msgstr ""
+
+msgctxt "1795"
+msgid "（任務は片付いた、屯所へ戻るか？）"
+msgstr ""
+
+msgctxt "1830"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1831"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1988"
+msgid "Player"
+msgstr ""
+
+msgctxt "1995"
+msgid "入る"
+msgstr ""
+
+msgctxt "2000"
+msgid "後にする"
+msgstr ""
+
+msgctxt "2009"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2015"
+msgid "残党"
+msgstr ""
+
+msgctxt "2020"
+msgid "戻らない"
+msgstr ""
+
+msgctxt "2029"
+msgid "屯所に戻る"
+msgstr ""

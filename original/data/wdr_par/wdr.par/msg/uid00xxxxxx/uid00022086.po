@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3004"
+msgid ""
+"またアンタか。\n"
+"しょうがねえな。ついて来な。"
+msgstr ""
+
+msgctxt "3049"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3050"
+msgid "……と、こんなモンだ。へへへ。毎度あり。"
+msgstr ""
+
+msgctxt "3091"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3092"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3093"
+msgid "何だお前。まさかここを通りてぇってのか？"
+msgstr ""
+
+msgctxt "3134"
+msgid "……"
+msgstr ""
+
+msgctxt "3139"
+msgid ""
+"残念だったな。見ての通り\n"
+"この門はガッチリ封鎖されてる。\n"
+"ここは通れねえ……"
+msgstr ""
+
+msgctxt "3216"
+msgid ""
+"……って思うだろ？\n"
+"だが、へへへ。アンタがどうしてもって言うんなら\n"
+"方法が無いわけじゃねえ。"
+msgstr ""
+
+msgctxt "3309"
+msgid "分かるだろ……？　魚心あれば水心ってなぁ……"
+msgstr ""
+
+msgctxt "3354"
+msgid ""
+"実は、俺は今無性に酒が飲みてえ……\n"
+"あぁ～酒が飲みてえなぁ～。"
+msgstr ""
+
+msgctxt "3417"
+msgid "……"
+msgstr ""
+
+msgctxt "3422"
+msgid ""
+"ま、そういうことだ。\n"
+"持つモン持って、出直すんだな。"
+msgstr ""
+
+msgctxt "3475"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3476"
+msgid ""
+"またアンタか。\n"
+"どうだ？　ここを通りてえか？\n"
+"俺は引き続き酒を飲みたいわけだが……？"
+msgstr ""
+
+msgctxt "3561"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3562"
+msgid "ほら、これでも飲め。"
+msgstr ""
+
+msgctxt "3583"
+msgid ""
+"へへっ……\n"
+"物分りがいいじゃねえか。"
+msgstr ""
+
+msgctxt "3620"
+msgid ""
+"よし、ついて来い、通してやる。\n"
+"秘密の抜け穴があってよ……　へへへ。"
+msgstr ""
+
+msgctxt "3689"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3690"
+msgid "だからどうした。"
+msgstr ""
+
+msgctxt "3707"
+msgid ""
+"へっ。そう来なすったか。\n"
+"だったら用はねえ。さっさと消えな。"
+msgstr ""
+
+msgctxt "3768"
+msgid "残念だが、酒の持ち合わせがなくてな。"
+msgstr ""
+
+msgctxt "3805"
+msgid ""
+"ケッ。だったら用はねえ。\n"
+"さっさと消えな。"
+msgstr ""
+
+msgctxt "3848"
+msgid "おい、この先に何の用だ？"
+msgstr ""
+
+msgctxt "3873"
+msgid "こっから先は、許可を受けた奴しか入れねえよ。"
+msgstr ""
+
+msgctxt "3918"
+msgid "出直してくるんだな。"
+msgstr ""
+
+msgctxt "3968"
+msgid "骸街の住人"
+msgstr ""
+
+msgctxt "3979"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3988"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "3993"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4004"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4014"
+msgid "R"
+msgstr ""
+
+msgctxt "4016"
+msgid "Talk_No"
+msgstr ""

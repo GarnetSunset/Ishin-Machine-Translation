@@ -1,0 +1,771 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "14516"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14517"
+msgid "ワシが、覆面の男とちゃういうんか？"
+msgstr ""
+
+msgctxt "14552"
+msgid ""
+"ああ。やつの剣が純粋な天念理心流だとすれば\n"
+"アンタのはそこに我流の小太刀術を\n"
+"取り入れたものだ。"
+msgstr ""
+
+msgctxt "14649"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14650"
+msgid "そうじゃねえか？"
+msgstr ""
+
+msgctxt "14667"
+msgid "……"
+msgstr ""
+
+msgctxt "14672"
+msgid ""
+"アンタの剣は覆面の男のものとは違った。\n"
+"だが沖田……　なんで自分が覆面の男だなんて嘘を？"
+msgstr ""
+
+msgctxt "14761"
+msgid ""
+"……そらあ本物のお前と戦うためや。\n"
+"どやった？　久しぶりに坂本龍馬として振った\n"
+"剣の味は？"
+msgstr ""
+
+msgctxt "14852"
+msgid "……？"
+msgstr ""
+
+msgctxt "14859"
+msgid ""
+"ほんまの名前隠して生きるいうことは、\n"
+"それまでの自分をなかったことにする、いうことや。"
+msgstr ""
+
+msgctxt "14946"
+msgid ""
+"坂本龍馬としての人生を自分から進んで\n"
+"否定せなあかん。"
+msgstr ""
+
+msgctxt "15001"
+msgid ""
+"せやから一（はじめ）ちゃんは……\n"
+"ワシと似た者同士なんや。"
+msgstr ""
+
+msgctxt "15060"
+msgid "似たもの同士……？"
+msgstr ""
+
+msgctxt "15079"
+msgid ""
+"ヒヒ、なんでもあらへん。\n"
+"せやけどええもんやったやろ？\n"
+"坂本龍馬として戦うっちゅうのは。"
+msgstr ""
+
+msgctxt "15168"
+msgid "ああ……　そうだったかもしれねえな。"
+msgstr ""
+
+msgctxt "15205"
+msgid "フッ、感謝しいや。"
+msgstr ""
+
+msgctxt "15224"
+msgid ""
+"だが……　アンタが覆面の男じゃねえなら、\n"
+"なんで俺の正体を知っていたんだ？"
+msgstr ""
+
+msgctxt "15299"
+msgid ""
+"一（はじめ）ちゃんが近藤さんに会うた時、\n"
+"ワシもあそこにおったんや。"
+msgstr ""
+
+msgctxt "15368"
+msgid "近藤さんに会お思うてな。"
+msgstr ""
+
+msgctxt "15393"
+msgid ""
+"それで全部、盗み聞きしてたってわけか……\n"
+"いい趣味だな。"
+msgstr ""
+
+msgctxt "15450"
+msgid ""
+"心配せんでええ。\n"
+"一（はじめ）ちゃんの正体は誰にも言わん。\n"
+"近藤さんもその腹積もりや。"
+msgstr ""
+
+msgctxt "15537"
+msgid "…………"
+msgstr ""
+
+msgctxt "15546"
+msgid "ん？　どないした？"
+msgstr ""
+
+msgctxt "15565"
+msgid ""
+"いや……　アンタも近藤も、\n"
+"それに永倉も“覆面の男”じゃなかった。\n"
+"なら、一体誰が……？"
+msgstr ""
+
+msgctxt "15654"
+msgid "…………"
+msgstr ""
+
+msgctxt "15663"
+msgid ""
+"残るは土方、井上、藤堂……\n"
+"そのうちの誰かってことか。"
+msgstr ""
+
+msgctxt "15718"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15719"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15720"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15721"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15722"
+msgid "お前が千石虎之丞だな……？"
+msgstr ""
+
+msgctxt "15749"
+msgid "ま、待ってくれ！　斬らんでくれや！"
+msgstr ""
+
+msgctxt "15784"
+msgid ""
+"丸腰の相手を斬りはしねえ。\n"
+"だが、屯所まで来てもらう。"
+msgstr ""
+
+msgctxt "15839"
+msgid "ひぃぃ！　堪忍してくれやぁ!!"
+msgstr ""
+
+msgctxt "15868"
+msgid ""
+"いらん小芝居はもうええで。\n"
+"千石はん。"
+msgstr ""
+
+msgctxt "15907"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15908"
+msgid "……何や、遅いやないか沖田はん。"
+msgstr ""
+
+msgctxt "15941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15942"
+msgid "……どういうことだ。"
+msgstr ""
+
+msgctxt "15963"
+msgid ""
+"さぁて、どういうことやと思う？\n"
+"ヒヒ。"
+msgstr ""
+
+msgctxt "16002"
+msgid "……"
+msgstr ""
+
+msgctxt "16007"
+msgid ""
+"千石はんはなぁ、今回の作戦の協力者やった\n"
+"っちゅうわけや。"
+msgstr ""
+
+msgctxt "16066"
+msgid "なんだと？"
+msgstr ""
+
+msgctxt "16077"
+msgid ""
+"そういうこっちゃ。\n"
+"ワシはあんたらが今晩乗り込んでくるっちゅう事を\n"
+"知らされとったんや。"
+msgstr ""
+
+msgctxt "16166"
+msgid ""
+"せやから、勤王派の連中かき集めて、\n"
+"さんざっぱら酒飲ませておいたんやでぇ。"
+msgstr ""
+
+msgctxt "16241"
+msgid ""
+"おかげでだいぶ楽に斬れたやろ？\n"
+"へへ、感謝しいや。"
+msgstr ""
+
+msgctxt "16292"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16293"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16294"
+msgid ""
+"ハナっからそういうからくりだったってわけか。\n"
+"沖田、なぜ俺に黙ってた？"
+msgstr ""
+
+msgctxt "16365"
+msgid "さあなあ。"
+msgstr ""
+
+msgctxt "16376"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16377"
+msgid ""
+"新選組の皆さんはお仲間同士信用せんさかい……\n"
+"ほれ、例の芹沢鴨もそうや。"
+msgstr ""
+
+msgctxt "16450"
+msgid "……"
+msgstr ""
+
+msgctxt "16455"
+msgid "身内に粛清されたんやったやろ？"
+msgstr ""
+
+msgctxt "16486"
+msgid ""
+"噂じゃ気に入らん店に火ぃつけるわ、\n"
+"街中で大砲ぶっ放すわ……"
+msgstr ""
+
+msgctxt "16547"
+msgid "えらい無茶する人やったらしいけどな。"
+msgstr ""
+
+msgctxt "16584"
+msgid "千石はん……　街の噂はアテんならんで？"
+msgstr ""
+
+msgctxt "16623"
+msgid ""
+"ハハッ！　それもそうや。\n"
+"沖田はんが美少年やいうて騒いどったくらい\n"
+"やからなあ！"
+msgstr ""
+
+msgctxt "16704"
+msgid "あ？　そしたらワシが美少年ちゃういうんか……？"
+msgstr ""
+
+msgctxt "16751"
+msgid ""
+"な、なんや。冗談やって。\n"
+"……それより沖田はん、約束の件、幕府への口利き、\n"
+"忘れんと頼んまっせ。"
+msgstr ""
+
+msgctxt "16848"
+msgid ""
+"てめえは……\n"
+"そんなもんのために、勤王志士たちを\n"
+"ハメたのか……？"
+msgstr ""
+
+msgctxt "16915"
+msgid "ハハ！　ちょっとちゃうなあ。惜しいなあ。"
+msgstr ""
+
+msgctxt "16956"
+msgid ""
+"……ワシがハメたんは志士たちだけとちゃうで？\n"
+"あんたもや。……斎藤一はん。"
+msgstr ""
+
+msgctxt "17031"
+msgid "なに……？"
+msgstr ""
+
+msgctxt "17042"
+msgid ""
+"なあ沖田はん、そろそろワシにも\n"
+"教えてくれてもええやろ？"
+msgstr ""
+
+msgctxt "17099"
+msgid ""
+"何でワシぁ\n"
+"こいつをここまで誘き出さなアカンかったんや。"
+msgstr ""
+
+msgctxt "17156"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17157"
+msgid "……べらべらようしゃべる奴やな、ほんま。"
+msgstr ""
+
+msgctxt "17198"
+msgid "お、沖田はん？"
+msgstr ""
+
+msgctxt "17213"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17214"
+msgid "は……？"
+msgstr ""
+
+msgctxt "17223"
+msgid "沖田！"
+msgstr ""
+
+msgctxt "17230"
+msgid "ええ加減黙っとれや……！"
+msgstr ""
+
+msgctxt "17255"
+msgid "!!　な、な、何でや……"
+msgstr ""
+
+msgctxt "17278"
+msgid "沖田、お前……"
+msgstr ""
+
+msgctxt "17293"
+msgid "聞いたことないか？　……「鴨を語るべからず」。"
+msgstr ""
+
+msgctxt "17340"
+msgid "新選組の暗黙の掟や。せやからつい斬ってもうた。"
+msgstr ""
+
+msgctxt "17387"
+msgid "……"
+msgstr ""
+
+msgctxt "17392"
+msgid ""
+"さぁて、千石はんの最後の質問……\n"
+"その答え、一（はじめ）ちゃんには教えたろか。"
+msgstr ""
+
+msgctxt "17471"
+msgid ""
+"“何で千石はんは一（はじめ）ちゃんを\n"
+"　ここまで誘き出さなアカンかったか”……"
+msgstr ""
+
+msgctxt "17550"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21468"
+msgid "沖田"
+msgstr ""
+
+msgctxt "21473"
+msgid "majima_c08_080_01b"
+msgstr ""
+
+msgctxt "21492"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "21497"
+msgid "kiryu_c08_080_01"
+msgstr ""
+
+msgctxt "21514"
+msgid "kaiwabgm_fuon_11"
+msgstr ""
+
+msgctxt "21531"
+msgid "kiryu_c08_080_01b"
+msgstr ""
+
+msgctxt "21549"
+msgid "kiryu_c08_080_02"
+msgstr ""
+
+msgctxt "21566"
+msgid "majima_c08_080_03b"
+msgstr ""
+
+msgctxt "21585"
+msgid "C08080_OKI_B"
+msgstr ""
+
+msgctxt "21598"
+msgid "C08080_OKI_A_to_B"
+msgstr ""
+
+msgctxt "21616"
+msgid "majima_c08_080_04b"
+msgstr ""
+
+msgctxt "21635"
+msgid "majima_c08_080_04bb"
+msgstr ""
+
+msgctxt "21655"
+msgid "majima_c08_080_04bc"
+msgstr ""
+
+msgctxt "21675"
+msgid "kiryu_c08_080_05"
+msgstr ""
+
+msgctxt "21692"
+msgid "majima_c08_080_06b"
+msgstr ""
+
+msgctxt "21711"
+msgid "kiryu_c08_080_06"
+msgstr ""
+
+msgctxt "21728"
+msgid "majima_c08_080_07b"
+msgstr ""
+
+msgctxt "21747"
+msgid "kiryu_c08_080_07"
+msgstr ""
+
+msgctxt "21764"
+msgid "majima_c08_080_08b"
+msgstr ""
+
+msgctxt "21783"
+msgid "majima_c08_080_08bb"
+msgstr ""
+
+msgctxt "21803"
+msgid "kiryu_c08_080_08"
+msgstr ""
+
+msgctxt "21820"
+msgid "majima_c08_080_09b"
+msgstr ""
+
+msgctxt "21839"
+msgid "majima_c08_080_10b"
+msgstr ""
+
+msgctxt "21858"
+msgid "kiryu_c08_080_10"
+msgstr ""
+
+msgctxt "21875"
+msgid "kiryu_c08_080_11"
+msgstr ""
+
+msgctxt "21892"
+msgid "kiryu_c08_070_01"
+msgstr ""
+
+msgctxt "21909"
+msgid "千石"
+msgstr ""
+
+msgctxt "21914"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "21922"
+msgid "sengoku_c08_070_01"
+msgstr ""
+
+msgctxt "21941"
+msgid "M_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "21963"
+msgid "kiryu_c08_070_02"
+msgstr ""
+
+msgctxt "21980"
+msgid "M_CHO_ACT_stand_obie_lp"
+msgstr ""
+
+msgctxt "22004"
+msgid "M_CHO_ACT_stand_obie_st"
+msgstr ""
+
+msgctxt "22028"
+msgid "sengoku_c08_070_02"
+msgstr ""
+
+msgctxt "22047"
+msgid "majima_c08_070_01"
+msgstr ""
+
+msgctxt "22065"
+msgid "M_CHO_ACT_stand_obie_en"
+msgstr ""
+
+msgctxt "22089"
+msgid "kaiwabgm_fuon_12"
+msgstr ""
+
+msgctxt "22106"
+msgid "sengoku_c08_070_03"
+msgstr ""
+
+msgctxt "22125"
+msgid "kiryu_c08_070_03"
+msgstr ""
+
+msgctxt "22142"
+msgid "majima_c08_070_02"
+msgstr ""
+
+msgctxt "22160"
+msgid "C08070_SEN_A"
+msgstr ""
+
+msgctxt "22173"
+msgid "Idle"
+msgstr ""
+
+msgctxt "22178"
+msgid "majima_c08_070_03"
+msgstr ""
+
+msgctxt "22196"
+msgid "kiryu_c08_070_05"
+msgstr ""
+
+msgctxt "22213"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "22224"
+msgid "sengoku_c08_070_04"
+msgstr ""
+
+msgctxt "22243"
+msgid "sengoku_c08_070_04b"
+msgstr ""
+
+msgctxt "22263"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "22274"
+msgid "sengoku_c08_070_04c"
+msgstr ""
+
+msgctxt "22294"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "22305"
+msgid "kiryu_c08_070_06"
+msgstr ""
+
+msgctxt "22322"
+msgid "majima_c08_070_03b"
+msgstr ""
+
+msgctxt "22341"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "22352"
+msgid "sengoku_c08_070_05"
+msgstr ""
+
+msgctxt "22371"
+msgid "sengoku_c08_070_06"
+msgstr ""
+
+msgctxt "22390"
+msgid "TLK_SCN009"
+msgstr ""
+
+msgctxt "22401"
+msgid "sengoku_c08_070_06b"
+msgstr ""
+
+msgctxt "22421"
+msgid "TLK_SCN011"
+msgstr ""
+
+msgctxt "22432"
+msgid "sengoku_c08_070_06c"
+msgstr ""
+
+msgctxt "22452"
+msgid "majima_c08_070_05b"
+msgstr ""
+
+msgctxt "22471"
+msgid "sengoku_c08_070_07"
+msgstr ""
+
+msgctxt "22490"
+msgid "TLK_SCN013"
+msgstr ""
+
+msgctxt "22501"
+msgid "majima_c08_070_06b"
+msgstr ""
+
+msgctxt "22520"
+msgid "sengoku_c08_070_08"
+msgstr ""
+
+msgctxt "22539"
+msgid "TLK_SCN015"
+msgstr ""
+
+msgctxt "22550"
+msgid "kiryu_c08_070_07"
+msgstr ""
+
+msgctxt "22567"
+msgid "sengoku_c08_070_09"
+msgstr ""
+
+msgctxt "22586"
+msgid "TLK_SCN017"
+msgstr ""
+
+msgctxt "22597"
+msgid "sengoku_c08_070_09b"
+msgstr ""
+
+msgctxt "22617"
+msgid "TLK_SCN019"
+msgstr ""
+
+msgctxt "22628"
+msgid "kiryu_c08_070_08"
+msgstr ""
+
+msgctxt "22645"
+msgid "sengoku_c08_070_10"
+msgstr ""
+
+msgctxt "22664"
+msgid "TLK_SCN021"
+msgstr ""
+
+msgctxt "22675"
+msgid "sengoku_c08_070_10b"
+msgstr ""
+
+msgctxt "22695"
+msgid "TLK_SCN023"
+msgstr ""
+
+msgctxt "22706"
+msgid "TLK_SCN025"
+msgstr ""
+
+msgctxt "22717"
+msgid "majima_c08_070_06c"
+msgstr ""
+
+msgctxt "22736"
+msgid "sengoku_c08_070_11"
+msgstr ""
+
+msgctxt "22755"
+msgid "kaiwabgm_fuon_05"
+msgstr ""
+
+msgctxt "22772"
+msgid "sengoku_c08_070_12"
+msgstr ""
+
+msgctxt "22791"
+msgid "TLK_SCN027"
+msgstr ""
+
+msgctxt "22802"
+msgid "kiryu_c08_070_10"
+msgstr ""
+
+msgctxt "22819"
+msgid "TLK_SCN029"
+msgstr ""
+
+msgctxt "22830"
+msgid "majima_c08_070_07b"
+msgstr ""
+
+msgctxt "22849"
+msgid "sengoku_c08_070_13"
+msgstr ""
+
+msgctxt "22868"
+msgid "kiryu_c08_070_11"
+msgstr ""
+
+msgctxt "22885"
+msgid "majima_c08_070_08b"
+msgstr ""
+
+msgctxt "22904"
+msgid "TLK_SCN030"
+msgstr ""
+
+msgctxt "22915"
+msgid "majima_c08_070_08bb"
+msgstr ""
+
+msgctxt "22935"
+msgid "majima_c08_070_09b"
+msgstr ""
+
+msgctxt "22954"
+msgid "majima_c08_070_09bb"
+msgstr ""

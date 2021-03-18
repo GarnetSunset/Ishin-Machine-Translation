@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1808"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1809"
+msgid ""
+"やぁ、お頭から話は聞いてる。\n"
+"俺が用意したのは「<Color:8>綺麗な絹織物<Color:Default>」だ。"
+msgstr ""
+
+msgctxt "1900"
+msgid ""
+"「<Color:8>水神石<Color:Default>」を１０個用意して欲しい。\n"
+"どうだ、「<Color:8>綺麗な絹織物<Color:Default>」と交換するか？"
+msgstr ""
+
+msgctxt "2023"
+msgid "（どうするか……）"
+msgstr ""
+
+msgctxt "2042"
+msgid "いや、今はやめておこう。"
+msgstr ""
+
+msgctxt "2067"
+msgid "そうか、また来てくれ。"
+msgstr ""
+
+msgctxt "2090"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2091"
+msgid ""
+"なんだ、持っていないのか。\n"
+"「<Color:8>水神石<Color:Default>」を１０個用意したらまた来てくれ。"
+msgstr ""
+
+msgctxt "2186"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2187"
+msgid "「<Color:8>水神石<Color:Default>」を渡した"
+msgstr ""
+
+msgctxt "2230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2231"
+msgid "「<Color:8>綺麗な絹織物<Color:Default>」を貰った"
+msgstr ""
+
+msgctxt "2280"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2281"
+msgid ""
+"確かに貰ったよ、ありがとう。\n"
+"また欲しくなったら言ってくれよ。"
+msgstr ""
+
+msgctxt "2460"
+msgid "優しそうな男"
+msgstr ""
+
+msgctxt "2473"
+msgid "Player"
+msgstr ""
+
+msgctxt "2480"
+msgid "水神石を１０個渡す"
+msgstr ""
+
+msgctxt "2499"
+msgid "やめておく"
+msgstr ""
+
+msgctxt "2510"
+msgid "Sync_Send"
+msgstr ""

@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7840"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7841"
+msgid "ここで一杯飲むか。"
+msgstr ""
+
+msgctxt "7860"
+msgid ""
+"ええよ。\n"
+"せやけど、うちはお酒、そう簡単に酔わへんよ。"
+msgstr ""
+
+msgctxt "7915"
+msgid ""
+"けしからん真似なんかでけへんから。\n"
+"アテがはずれたんとちゃう？"
+msgstr ""
+
+msgctxt "7978"
+msgid "……別に何もしねえよ。"
+msgstr ""
+
+msgctxt "8001"
+msgid "ふふ……　冗談、冗談。"
+msgstr ""
+
+msgctxt "8024"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8025"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8026"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8027"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8028"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8029"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8030"
+msgid "さ、一杯どうぞ。"
+msgstr ""
+
+msgctxt "8047"
+msgid "すまないな。　おりょうもどうだ？"
+msgstr ""
+
+msgctxt "8080"
+msgid "じゃあお言葉に甘えて。"
+msgstr ""
+
+msgctxt "8103"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8104"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8105"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8106"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8107"
+msgid ""
+"あら、斎藤さん。\n"
+"今日は珍しくべっぴんさん連れてますやん。"
+msgstr ""
+
+msgctxt "8166"
+msgid "まあな。"
+msgstr ""
+
+msgctxt "8175"
+msgid ""
+"しばらく京を離れることになった。\n"
+"色々、世話になったな。"
+msgstr ""
+
+msgctxt "8232"
+msgid ""
+"そりゃ残念ですわ。\n"
+"　……なら、今日はせん別として\n"
+"好きなだけ飲んでや。"
+msgstr ""
+
+msgctxt "8305"
+msgid "ん？　いいのか？"
+msgstr ""
+
+msgctxt "8322"
+msgid ""
+"いいのいいのって。\n"
+"斎藤さんにはいつも世話になってるし。"
+msgstr ""
+
+msgctxt "8379"
+msgid ""
+"二人で存分に楽しんでや。\n"
+"ほな、ごゆっくり。"
+msgstr ""
+
+msgctxt "8424"
+msgid "ふふ……　ちょっと、あの人、気前良すぎとちゃう？"
+msgstr ""
+
+msgctxt "8473"
+msgid ""
+"フッ、おおかた、お前のまえでいいとこ\n"
+"見せたかったんだろう。"
+msgstr ""
+
+msgctxt "8534"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8535"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8536"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8537"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8538"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8539"
+msgid "ん……　少し酔いが回ってきたな。"
+msgstr ""
+
+msgctxt "8572"
+msgid ""
+"一（はじめ）さん、ほんまにお酒好きなんやから。\n"
+"途中で眠たなっても知らんで。"
+msgstr ""
+
+msgctxt "8649"
+msgid "（次は歌声酒場にでも行ってみるか）"
+msgstr ""
+
+msgctxt "8684"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8685"
+msgid ""
+"いらっしゃいませ。\n"
+"お客さん、どうぞ寄ってって下さい。"
+msgstr ""
+
+msgctxt "8740"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8741"
+msgid "（手持ちがない……）"
+msgstr ""
+
+msgctxt "8762"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "8791"
+msgid ""
+"そうですか。\n"
+"またのご来店をお待ちしています。"
+msgstr ""
+
+msgctxt "8838"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8839"
+msgid ""
+"では、お席にご案内します。\n"
+"こちらへどうぞ。"
+msgstr ""
+
+msgctxt "8884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8886"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8887"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8888"
+msgid ""
+"いらっしゃいませ。\n"
+"まず、お飲み物はいかがなさいますか？"
+msgstr ""
+
+msgctxt "8945"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8946"
+msgid "食べ物は何にいたしましょう？"
+msgstr ""
+
+msgctxt "8975"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8976"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8977"
+msgid "ご注文はお決まりですか？"
+msgstr ""
+
+msgctxt "9002"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9003"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9004"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "9033"
+msgid ""
+"そうですか。\n"
+"またご利用ください。"
+msgstr ""
+
+msgctxt "9068"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9070"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9071"
+msgid "お代はこちらになります。"
+msgstr ""
+
+msgctxt "9096"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9097"
+msgid ""
+"福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "9126"
+msgid ""
+"ありがとうございました。\n"
+"またよろしくお願いします。"
+msgstr ""
+
+msgctxt "9179"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9180"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9181"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9182"
+msgid ""
+"ありがとうございました。\n"
+"またよろしくお願いします。"
+msgstr ""
+
+msgctxt "9235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9664"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "9669"
+msgid "ADV_F_CHO_STAND"
+msgstr ""
+
+msgctxt "9685"
+msgid "おりょう"
+msgstr ""
+
+msgctxt "9694"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9703"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9711"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "9722"
+msgid "ADV_F_CHO_BASE"
+msgstr ""
+
+msgctxt "9737"
+msgid "TALK_sake_serve"
+msgstr ""
+
+msgctxt "9753"
+msgid "Idle"
+msgstr ""
+
+msgctxt "9758"
+msgid "店長"
+msgstr ""
+
+msgctxt "9763"
+msgid "TALK_sake_tere"
+msgstr ""
+
+msgctxt "9778"
+msgid "TALK_sake_tlk"
+msgstr ""
+
+msgctxt "9792"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9803"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "9812"
+msgid "店員"
+msgstr ""
+
+msgctxt "9817"
+msgid "Player"
+msgstr ""
+
+msgctxt "9824"
+msgid "P_KRU_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "9846"
+msgid "dummy"
+msgstr ""
+
+msgctxt "9852"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""

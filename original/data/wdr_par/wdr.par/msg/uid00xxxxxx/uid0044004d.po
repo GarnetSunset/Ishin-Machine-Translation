@@ -1,0 +1,2322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "65956"
+msgid "つ……　強ぇ！"
+msgstr ""
+
+msgctxt "65971"
+msgid "おい、お前。"
+msgstr ""
+
+msgctxt "65984"
+msgid "は……　は、はい！"
+msgstr ""
+
+msgctxt "66003"
+msgid ""
+"どうせこの家以外からも搾取して、\n"
+"私腹を肥やしているんだろ？"
+msgstr ""
+
+msgctxt "66064"
+msgid "め、めっそうもない！"
+msgstr ""
+
+msgctxt "66085"
+msgid ""
+"またお前が同じことを繰り返していると\n"
+"耳に入ってきたら、\n"
+"俺がお前を斬り捨て御免してやるから、覚悟しろよ？"
+msgstr ""
+
+msgctxt "66192"
+msgid ""
+"ひ、ひぃぃぃ！\n"
+"もうしませぇぇぇぇん!!!!"
+msgstr ""
+
+msgctxt "66233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "66234"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "66235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "66236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "66237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "66238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "66239"
+msgid ""
+"どちら様か存じ上げませんが……\n"
+"ありがとうございます。助かりました。"
+msgstr ""
+
+msgctxt "66308"
+msgid ""
+"あいつに逆らったり、告げ口したりすれば\n"
+"どんな報復が待っているか……\n"
+"そう考えると何もできず……　困っていたのです。"
+msgstr ""
+
+msgctxt "66425"
+msgid "奴もこれで懲りたと思うが……"
+msgstr ""
+
+msgctxt "66454"
+msgid ""
+"もし、あいつがまたこの家に来たら\n"
+"おじちゃん、また助けてくれる……？"
+msgstr ""
+
+msgctxt "66523"
+msgid "あぁ、もちろんだ……"
+msgstr ""
+
+msgctxt "66544"
+msgid ""
+"よかった……　本当にありがとうございます。\n"
+"これで安心して暮らせます。"
+msgstr ""
+
+msgctxt "66615"
+msgid ""
+"フッ、これでお前達のままごとも、\n"
+"もっと平和なお話になるだろうな。"
+msgstr ""
+
+msgctxt "66682"
+msgid ""
+"うん……\n"
+"私、いざこざがない展開の方が好きだよ。"
+msgstr ""
+
+msgctxt "66731"
+msgid "ままごと？　いざこざ？"
+msgstr ""
+
+msgctxt "66754"
+msgid "お父さんには……　内緒。"
+msgstr ""
+
+msgctxt "66779"
+msgid "えぇー!?"
+msgstr ""
+
+msgctxt "66788"
+msgid "フッ。"
+msgstr ""
+
+msgctxt "66795"
+msgid "あはははは！"
+msgstr ""
+
+msgctxt "66808"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "66809"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "66810"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "66811"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "66812"
+msgid ""
+"おいおい、たったのこれっぽっちかよ？\n"
+"全然足りないぜ！　次会う時までには\n"
+"借りてでもいいから、金を作ってろよ。"
+msgstr ""
+
+msgctxt "66923"
+msgid ""
+"すみません……\n"
+"もうこれ以上は……"
+msgstr ""
+
+msgctxt "66958"
+msgid ""
+"あぁ!?　まさかこの俺様に文句でもあんのか!?\n"
+"お前の女と子供を斬り捨ててもいいんだぜ？\n"
+"斬り捨て御免だぞ!?　いいのか!?"
+msgstr ""
+
+msgctxt "67075"
+msgid "そ、それだけはご勘弁を……"
+msgstr ""
+
+msgctxt "67102"
+msgid "けっ、いやなら言うとおりにしろってんだぜ……"
+msgstr ""
+
+msgctxt "67147"
+msgid "おい。"
+msgstr ""
+
+msgctxt "67154"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "67155"
+msgid ""
+"だ、誰だお前は！\n"
+"あ！　クソ、このガキが呼びやがったのか！"
+msgstr ""
+
+msgctxt "67214"
+msgid ""
+"随分武士の風上におけないことを\n"
+"やっているようだな？"
+msgstr ""
+
+msgctxt "67267"
+msgid ""
+"うるせえ、うるせえ！\n"
+"こうなりゃ本当に斬り捨て御免だぜ！"
+msgstr ""
+
+msgctxt "67324"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "67325"
+msgid ""
+"おじちゃん……\n"
+"おままごとして遊んでくれる？"
+msgstr ""
+
+msgctxt "67370"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "67371"
+msgid ""
+"すまない、今は少し忙しいんだ。\n"
+"また後でやろう。"
+msgstr ""
+
+msgctxt "67420"
+msgid ""
+"ううう。……わかった。\n"
+"私たち、違う遊びして待ってるから。\n"
+"後で絶対おままごとしに来てね……"
+msgstr ""
+
+msgctxt "67513"
+msgid "分かった。おままごとをやってやる。"
+msgstr ""
+
+msgctxt "67548"
+msgid "わーい！　やったー！"
+msgstr ""
+
+msgctxt "67569"
+msgid ""
+"ちなみに、初心者だからな。\n"
+"お手柔らかに頼むぞ。"
+msgstr ""
+
+msgctxt "67618"
+msgid ""
+"うん、それじゃあ簡単に、よくある一般の農民の家\n"
+"って設定にしよう。この子が、農民の旦那さん。"
+msgstr ""
+
+msgctxt "67711"
+msgid "よ、よろしくおねがいします。"
+msgstr ""
+
+msgctxt "67740"
+msgid "で、おじちゃんがその妻でー。"
+msgstr ""
+
+msgctxt "67769"
+msgid "なにっ!?"
+msgstr ""
+
+msgctxt "67778"
+msgid "おじちゃんが、妻役！"
+msgstr ""
+
+msgctxt "67799"
+msgid ""
+"いや……　そういう役は\n"
+"女の子がやった方がいいんじゃないか？"
+msgstr ""
+
+msgctxt "67860"
+msgid "……そっちの子とか。"
+msgstr ""
+
+msgctxt "67881"
+msgid "えっと、私は……　武士の役だから。"
+msgstr ""
+
+msgctxt "67916"
+msgid "……そうか。"
+msgstr ""
+
+msgctxt "67929"
+msgid ""
+"……で、私が農民の家の娘役。\n"
+"おじちゃんは私のお母さんだよ。"
+msgstr ""
+
+msgctxt "67990"
+msgid ""
+"……わかった。\n"
+"俺が妻、だな……"
+msgstr ""
+
+msgctxt "68023"
+msgid ""
+"じゃあさっそく始めよう！\n"
+"みんな、位置についてー！"
+msgstr ""
+
+msgctxt "68074"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "68075"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "68076"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "68077"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "68078"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "68079"
+msgid "はい。それじゃあ、はじめっ！"
+msgstr ""
+
+msgctxt "68108"
+msgid "…………"
+msgstr ""
+
+msgctxt "68117"
+msgid "…………"
+msgstr ""
+
+msgctxt "68126"
+msgid "…………"
+msgstr ""
+
+msgctxt "68135"
+msgid ""
+"……ちょっとちょっと！　おじちゃん！\n"
+"おじちゃんはお母さん役なんだからお料理をしなきゃ！"
+msgstr ""
+
+msgctxt "68224"
+msgid "お、おう……"
+msgstr ""
+
+msgctxt "68237"
+msgid "お母さんは“お、おう……”じゃないでしょ!?"
+msgstr ""
+
+msgctxt "68280"
+msgid "……"
+msgstr ""
+
+msgctxt "68285"
+msgid "わかった!?"
+msgstr ""
+
+msgctxt "68296"
+msgid "…………"
+msgstr ""
+
+msgctxt "68305"
+msgid "……お、お母さん、はりきっちゃう、ぞ。"
+msgstr ""
+
+msgctxt "68344"
+msgid ""
+"うーん、まだちょっと違う気がするけど……\n"
+"まぁいいや、お料理してて。"
+msgstr ""
+
+msgctxt "68413"
+msgid ""
+"（ままごとというのは難しいものだな。\n"
+"　しかし一度引き受けてしまったものは仕方ない……\n"
+"　最後までやりとおそう）"
+msgstr ""
+
+msgctxt "68526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "68527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "68528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "68529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "68530"
+msgid "じゃ、お母さんがお料理してるところから始まりね。"
+msgstr ""
+
+msgctxt "68579"
+msgid "よーい始め！"
+msgstr ""
+
+msgctxt "68592"
+msgid "（……料理をすれば、いいんだよな）"
+msgstr ""
+
+msgctxt "68627"
+msgid "始めだってば！"
+msgstr ""
+
+msgctxt "68642"
+msgid "……と、トントントントン。"
+msgstr ""
+
+msgctxt "68669"
+msgid ""
+"お母さーん、お腹空いたようー！\n"
+"とってもいい匂いがするけど、今日のご飯はなーに？"
+msgstr ""
+
+msgctxt "68750"
+msgid "（む……　献立か。そこまで考えていなかった）"
+msgstr ""
+
+msgctxt "68795"
+msgid ""
+"（つぶらな瞳でこちらを見ているな。\n"
+"　さて、どうするか……）"
+msgstr ""
+
+msgctxt "68856"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "68857"
+msgid "に、煮売り屋さんのお惣菜だ……　わよ。"
+msgstr ""
+
+msgctxt "68896"
+msgid ""
+"えー！　また出来合いのおかずなのー？\n"
+"手抜きすぎるよ！\n"
+"じゃあさっき何をトントン切ってたの～！"
+msgstr ""
+
+msgctxt "68991"
+msgid "それもそうだな……　だわね。"
+msgstr ""
+
+msgctxt "69020"
+msgid "野菜のおひたし、芋の煮物、豆腐だ……　わよ。"
+msgstr ""
+
+msgctxt "69065"
+msgid ""
+"わぁい！　本格的！\n"
+"私、芋の煮物だーいすき！\n"
+"しかもお豆腐まであるんだね、ずいぶん豪勢だなぁ。"
+msgstr ""
+
+msgctxt "69160"
+msgid "よ、喜んでくれて嬉しい……　わ。"
+msgstr ""
+
+msgctxt "69193"
+msgid "すき焼きだ……　わよ。"
+msgstr ""
+
+msgctxt "69216"
+msgid ""
+"ちょ、ちょっと！　豪華すぎない……？\n"
+"もうちょっと現実的な献立にしてよ、お母さん……"
+msgstr ""
+
+msgctxt "69301"
+msgid "は、はりきりすぎたかもしれない……　わね。"
+msgstr ""
+
+msgctxt "69344"
+msgid "今、帰ったぞー。"
+msgstr ""
+
+msgctxt "69361"
+msgid "お父さんだ！　おかえりなさーい！"
+msgstr ""
+
+msgctxt "69394"
+msgid "……"
+msgstr ""
+
+msgctxt "69399"
+msgid "……お母さん、お父さんが帰って来たよ。"
+msgstr ""
+
+msgctxt "69438"
+msgid "…………"
+msgstr ""
+
+msgctxt "69447"
+msgid ""
+"あ、ああ。\n"
+"お、おかえりなさい。あ……　あな……　た？"
+msgstr ""
+
+msgctxt "69502"
+msgid "ただいま。……いやー今日も疲れたよ。"
+msgstr ""
+
+msgctxt "69539"
+msgid "お疲れ様……　ご飯ができてますよ？"
+msgstr ""
+
+msgctxt "69574"
+msgid "おっ、美味そうだなぁ。じゃあみんなで食べようか。"
+msgstr ""
+
+msgctxt "69623"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "69624"
+msgid "いただきます。"
+msgstr ""
+
+msgctxt "69639"
+msgid "い、いただきます。"
+msgstr ""
+
+msgctxt "69658"
+msgid "むしゃむしゃ……"
+msgstr ""
+
+msgctxt "69675"
+msgid "ぱくぱく……"
+msgstr ""
+
+msgctxt "69688"
+msgid "もぐもぐ……"
+msgstr ""
+
+msgctxt "69701"
+msgid "……"
+msgstr ""
+
+msgctxt "69706"
+msgid ""
+"（何か喋れ……　そんな無言の圧力を感じるな……\n"
+"　旦那さん役に何か話題をふってみるか？）"
+msgstr ""
+
+msgctxt "69795"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "69796"
+msgid "（少し過激な展開にしてみるか……？）"
+msgstr ""
+
+msgctxt "69833"
+msgid "あ、あなた……　最近浮気してるでしょ？"
+msgstr ""
+
+msgctxt "69872"
+msgid ""
+"えっ!?\n"
+"し、してるわけないだろう！"
+msgstr ""
+
+msgctxt "69907"
+msgid "エェ～!?　お母さん、今の発言はどういうこと!?"
+msgstr ""
+
+msgctxt "69952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "69953"
+msgid ""
+"（子供が食いついてきたようだな\n"
+"　よし、少し盛り上げてみるか……）"
+msgstr ""
+
+msgctxt "70020"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "70021"
+msgid ""
+"……し、知ってるんだぞ。\n"
+"私、あなたがお隣の田向さんの奥さんと\n"
+"２人でいるところを……　見てしまったのだわ。"
+msgstr ""
+
+msgctxt "70130"
+msgid ""
+"えー……　あれはねー……\n"
+"遊んでただけだよ。"
+msgstr ""
+
+msgctxt "70175"
+msgid ""
+"キャー！　“遊んでた”だなんて、お父さん！\n"
+"自ら罪を自白しちゃったようなものよー!?"
+msgstr ""
+
+msgctxt "70258"
+msgid "え？　あ、あわわわわ……！"
+msgstr ""
+
+msgctxt "70285"
+msgid ""
+"（……この流れに乗じて家を出てしまえば、\n"
+"　ままごとをこれでおしまいにできるかも\n"
+"　しれないな……　よし……）"
+msgstr ""
+
+msgctxt "70396"
+msgid ""
+"浮気は許せん。もうあんたには愛想がつきた。\n"
+"……実家に帰らせていただく！"
+msgstr ""
+
+msgctxt "70469"
+msgid "お、お母さん、考え直して！"
+msgstr ""
+
+msgctxt "70496"
+msgid ""
+"俺が悪かったぁぁぁ！\n"
+"もう浮気はしねぇよぉぉぉ！\n"
+"許してくれぇぇぇ！"
+msgstr ""
+
+msgctxt "70565"
+msgid ""
+"お母さん、お父さんも反省してるみたいよ！\n"
+"……やけに迫真の演技だけど。"
+msgstr ""
+
+msgctxt "70636"
+msgid "いっつも父ちゃんが母ちゃんに言ってるんだ。"
+msgstr ""
+
+msgctxt "70679"
+msgid "……"
+msgstr ""
+
+msgctxt "70684"
+msgid ""
+"お父さんには私からきつく言っとくから、ね！\n"
+"またみんなで仲良く暮らそうよ！"
+msgstr ""
+
+msgctxt "70759"
+msgid "む……　わ、わかった。"
+msgstr ""
+
+msgctxt "70782"
+msgid ""
+"（早く切りあげられるかもしれないと思ったが、\n"
+"　そうもいかないみたいだな……）"
+msgstr ""
+
+msgctxt "70861"
+msgid "（無難な質問をしてみるか……）"
+msgstr ""
+
+msgctxt "70892"
+msgid ""
+"き、今日のお仕事は……\n"
+"ど、どうだっ……　どうでしたか？"
+msgstr ""
+
+msgctxt "70949"
+msgid "えーとねー……　お米がいっぱいとれたよー。"
+msgstr ""
+
+msgctxt "70992"
+msgid "どれくらいとれたの？"
+msgstr ""
+
+msgctxt "71013"
+msgid "んーと、２年分くらいかな。"
+msgstr ""
+
+msgctxt "71040"
+msgid ""
+"えーすごーい！　それじゃあ私達、\n"
+"大金持ちになれちゃうかも！"
+msgstr ""
+
+msgctxt "71101"
+msgid ""
+"ハッハッハ、そうだなぁ。\n"
+"きっと毎日お豆腐食べ放題だよ。"
+msgstr ""
+
+msgctxt "71158"
+msgid "えへへ、お豆腐大好きー！"
+msgstr ""
+
+msgctxt "71183"
+msgid "（ままごとらしい会話ができたようだな……）"
+msgstr ""
+
+msgctxt "71226"
+msgid "（下手なことは言わずに飯を食っていよう……）"
+msgstr ""
+
+msgctxt "71271"
+msgid "さ、さぁ、みんなでご飯を食べましょう。"
+msgstr ""
+
+msgctxt "71310"
+msgid "そうだね。むしゃむしゃ。"
+msgstr ""
+
+msgctxt "71335"
+msgid "……むしゃむしゃ。"
+msgstr ""
+
+msgctxt "71354"
+msgid "…………もぐもぐ、ご、ごはんが美味いわね！"
+msgstr ""
+
+msgctxt "71397"
+msgid "むしゃむしゃ。"
+msgstr ""
+
+msgctxt "71412"
+msgid "…………"
+msgstr ""
+
+msgctxt "71421"
+msgid "…………"
+msgstr ""
+
+msgctxt "71430"
+msgid ""
+"邪魔するぜ……\n"
+"俺は武士だ。年貢を預かりに来た。"
+msgstr ""
+
+msgctxt "71479"
+msgid "あ、武士さんいらっしゃい。"
+msgstr ""
+
+msgctxt "71506"
+msgid "やいやい、年貢をよこしやがれ！"
+msgstr ""
+
+msgctxt "71537"
+msgid ""
+"今日はお米がいっぱいとれたんです。\n"
+"年貢としてお納めします。はいどうぞ。"
+msgstr ""
+
+msgctxt "71610"
+msgid ""
+"これじゃ足りねぇぜ……\n"
+"これはお上に献上する分だろ？\n"
+"あと……　俺、個人に献上する分が足りねぇんだぜ。"
+msgstr ""
+
+msgctxt "71713"
+msgid "えぇー！　そんな、困りますよー！"
+msgstr ""
+
+msgctxt "71746"
+msgid ""
+"早くお米をだせ！\n"
+"子供がどうなってもいいのか！"
+msgstr ""
+
+msgctxt "71793"
+msgid ""
+"きゃ、キャ～！\n"
+"お父さん、助けて～！"
+msgstr ""
+
+msgctxt "71830"
+msgid "（なんだか白熱する展開になってきたな……）"
+msgstr ""
+
+msgctxt "71873"
+msgid ""
+"ぐぅぅ～、子供の命にはかえられない。\n"
+"いいでしょう、うちのお米、全部さしあげます。"
+msgstr ""
+
+msgctxt "71956"
+msgid ""
+"最初からこうしときゃいいんだよ！\n"
+"俺に逆らったら、斬り捨て御免！\n"
+"あっという間にお前らなんか刀の錆なんだぜ！"
+msgstr ""
+
+msgctxt "72065"
+msgid ""
+"うぅ……\n"
+"せっかく頑張って作ったお米が全部……"
+msgstr ""
+
+msgctxt "72112"
+msgid "えーんえーん。"
+msgstr ""
+
+msgctxt "72127"
+msgid "じゃあ、米もたっぷりもらったし、あばよー！"
+msgstr ""
+
+msgctxt "72170"
+msgid ""
+"（めちゃくちゃな設定ながらも\n"
+"　なんだか悲しい話になってきたな……）"
+msgstr ""
+
+msgctxt "72239"
+msgid ""
+"（子供の遊びだし、さりげなくこの武士を対処して\n"
+"　幸せな結末を迎えさせてやろう）"
+msgstr ""
+
+msgctxt "72320"
+msgid ""
+"そこの武士！\n"
+"ちょっと待て……！"
+msgstr ""
+
+msgctxt "72353"
+msgid ""
+"なんだぁ？　農家の女房風情が。\n"
+"俺様に文句でもあるのかだぜ？"
+msgstr ""
+
+msgctxt "72414"
+msgid ""
+"女房をなめるなよ……　そもそも何故武士が\n"
+"個々の家から年貢の徴収を\n"
+"行っているんだ？"
+msgstr ""
+
+msgctxt "72499"
+msgid ""
+"村単位で納める村請制度が常識なはずだ。\n"
+"それにお前個人に\n"
+"米を貢がなきゃいけないなんて制度はねぇ。"
+msgstr ""
+
+msgctxt "72598"
+msgid ""
+"な、なんだと！　う、うるせえ、うるせえ！\n"
+"言うこと聞かないと斬り捨て御免だぜー！\n"
+"家族みんな斬っちまうぜー！"
+msgstr ""
+
+msgctxt "72707"
+msgid ""
+"……斬り捨て御免は、\n"
+"武士の体面を大きく汚された場合にしか\n"
+"適用されないんだぜ？"
+msgstr ""
+
+msgctxt "72788"
+msgid ""
+"正統性が認められなければ普通に犯罪だ。\n"
+"あなたの武士である権利をはく奪される可能性も\n"
+"大いにあるんだからな……　のよ！"
+msgstr ""
+
+msgctxt "72907"
+msgid ""
+"くそー！　なんだこいつは！\n"
+"もう米なんているか！　お、覚えてろー！"
+msgstr ""
+
+msgctxt "72974"
+msgid "……"
+msgstr ""
+
+msgctxt "72979"
+msgid "…………"
+msgstr ""
+
+msgctxt "72988"
+msgid "…………"
+msgstr ""
+
+msgctxt "72997"
+msgid ""
+"（しまった、遊びのつもりが、\n"
+"　声を荒げすぎてしまったか……？）"
+msgstr ""
+
+msgctxt "73062"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "73063"
+msgid "お、お母さん……　すごい！"
+msgstr ""
+
+msgctxt "73090"
+msgid "すっげーかっこよかったー！"
+msgstr ""
+
+msgctxt "73117"
+msgid ""
+"お米も持って行かれずにすんだし。\n"
+"これで無事、年を越せそうだよぉ～。"
+msgstr ""
+
+msgctxt "73186"
+msgid ""
+"そうだなぁ、餅をいっぱい買って\n"
+"平和にお正月を迎えよう。"
+msgstr ""
+
+msgctxt "73243"
+msgid "わーい！　お餅お餅！"
+msgstr ""
+
+msgctxt "73264"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "73265"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "73266"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "73267"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "73268"
+msgid "今日のおままごとはとっても楽しかったねぇ。"
+msgstr ""
+
+msgctxt "73311"
+msgid "ねー！　手に汗握る展開だったよー！"
+msgstr ""
+
+msgctxt "73346"
+msgid "……"
+msgstr ""
+
+msgctxt "73351"
+msgid ""
+"おじちゃんのおかげだよ！\n"
+"付き合ってくれてありがと……　また遊んでね！"
+msgstr ""
+
+msgctxt "73422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "73423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "73424"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "73425"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "73426"
+msgid "（……ふぅ、なれないことをすると疲れるな）"
+msgstr ""
+
+msgctxt "73469"
+msgid "うーん……"
+msgstr ""
+
+msgctxt "73480"
+msgid "（この子は武士役の子だな）"
+msgstr ""
+
+msgctxt "73507"
+msgid "どうかしたのか？"
+msgstr ""
+
+msgctxt "73524"
+msgid ""
+"おじちゃん……　おままごとしてる時に\n"
+"おじちゃんが私に言ってたことは\n"
+"本当……　なんだよね？"
+msgstr ""
+
+msgctxt "73617"
+msgid "ん？　……年貢とか、斬り捨て御免についてか？"
+msgstr ""
+
+msgctxt "73662"
+msgid "うん……"
+msgstr ""
+
+msgctxt "73671"
+msgid ""
+"そうだな、あんな武士はいないな。\n"
+"お前も次からは武士より、\n"
+"奥さん役とかをやった方がいいんじゃないか？"
+msgstr ""
+
+msgctxt "73774"
+msgid ""
+"でもね、おじちゃん……\n"
+"うちに来る武士の人は、いつも……　あんな感じよ。"
+msgstr ""
+
+msgctxt "73847"
+msgid ""
+"いっつもお父さんやお母さんが作ったもの\n"
+"全部……　持っていっちゃうし。"
+msgstr ""
+
+msgctxt "73918"
+msgid "何……　それは本当か？"
+msgstr ""
+
+msgctxt "73941"
+msgid "……"
+msgstr ""
+
+msgctxt "73946"
+msgid "その武士を見てみたいんだが……　会えるか？"
+msgstr ""
+
+msgctxt "73989"
+msgid "今日、もうすぐうちに来る時間だと思う……"
+msgstr ""
+
+msgctxt "74030"
+msgid "案内してくれ。"
+msgstr ""
+
+msgctxt "74045"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "74046"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "74047"
+msgid "やっぱりもう１人くらい必要ね。"
+msgstr ""
+
+msgctxt "74078"
+msgid "３人でもできなくは……　ないけど。"
+msgstr ""
+
+msgctxt "74113"
+msgid "うーん……　あっ！"
+msgstr ""
+
+msgctxt "74132"
+msgid "おじちゃん!!　私たちと一緒に遊んでー。"
+msgstr ""
+
+msgctxt "74171"
+msgid "……俺か？"
+msgstr ""
+
+msgctxt "74182"
+msgid "そうだよ。「おままごと」して遊ぼうよ！"
+msgstr ""
+
+msgctxt "74221"
+msgid "「おままごと」……だと？"
+msgstr ""
+
+msgctxt "74246"
+msgid ""
+"興味がない。それに俺よりも、\n"
+"もっと適した奴がいるだろう。じゃあな……"
+msgstr ""
+
+msgctxt "74317"
+msgid "うう……　うわあああああん!!"
+msgstr ""
+
+msgctxt "74346"
+msgid "!!"
+msgstr ""
+
+msgctxt "74349"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "74350"
+msgid "え、子供泣かした？　ヒソヒソ……"
+msgstr ""
+
+msgctxt "74383"
+msgid "む……"
+msgstr ""
+
+msgctxt "74390"
+msgid "泣かないで……　私まで、悲しくなってきちゃう……"
+msgstr ""
+
+msgctxt "74439"
+msgid ""
+"しかたないよ。大人はみんな、\n"
+"あんな感じなんだよ。\n"
+"ぼくは……　あんな風にはなりたくないな……"
+msgstr ""
+
+msgctxt "74534"
+msgid ""
+"うん。でも、いつかは私たちも\n"
+"そうなっちゃうのかな……\n"
+"悲しいね……"
+msgstr ""
+
+msgctxt "74603"
+msgid ""
+"（まずい……　泣かせてしまった……\n"
+"　しかも、子供たちが大人に対して\n"
+"　希望を抱けなくなってしまっている）"
+msgstr ""
+
+msgctxt "74710"
+msgid "ううう……　うわああん！"
+msgstr ""
+
+msgctxt "74735"
+msgid "ヒソヒソ　ヒソヒソ　ヒソヒソ！"
+msgstr ""
+
+msgctxt "74766"
+msgid "くっ！"
+msgstr ""
+
+msgctxt "74773"
+msgid ""
+"（未来を作っていくのはこの子たちのような子供だ。\n"
+"　この子たちが夢を描けるような希望を見せることが、\n"
+"　大人の仕事……　一肌脱ぐしかないのか……）"
+msgstr ""
+
+msgctxt "74920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "74921"
+msgid ""
+"すまない、今は少し忙しいんだ。\n"
+"また後でやろう。"
+msgstr ""
+
+msgctxt "74970"
+msgid ""
+"ううう。……わかった。\n"
+"私たち、違う遊びして待ってるから。\n"
+"後で絶対おままごとしに来てね……"
+msgstr ""
+
+msgctxt "75063"
+msgid "分かった。おままごとをやってやる。"
+msgstr ""
+
+msgctxt "75098"
+msgid "わーい！　やったー！"
+msgstr ""
+
+msgctxt "75119"
+msgid ""
+"ちなみに、初心者だからな。\n"
+"お手柔らかに頼むぞ。"
+msgstr ""
+
+msgctxt "75168"
+msgid ""
+"うん、それじゃあ簡単に、よくある一般の農民の家\n"
+"って設定にしよう。この子が、農民の旦那さん。"
+msgstr ""
+
+msgctxt "75261"
+msgid "よ、よろしくおねがいします。"
+msgstr ""
+
+msgctxt "75290"
+msgid "で、おじちゃんがその妻でー。"
+msgstr ""
+
+msgctxt "75319"
+msgid "なにっ!?"
+msgstr ""
+
+msgctxt "75328"
+msgid "おじちゃんが、妻役！"
+msgstr ""
+
+msgctxt "75349"
+msgid ""
+"いや……　そういう役は\n"
+"女の子がやった方がいいんじゃないか？"
+msgstr ""
+
+msgctxt "75410"
+msgid "……そっちの子とか。"
+msgstr ""
+
+msgctxt "75431"
+msgid "えっと、私は……　武士の役だから。"
+msgstr ""
+
+msgctxt "75466"
+msgid "……そうか。"
+msgstr ""
+
+msgctxt "75479"
+msgid ""
+"……で、私が農民の家の娘役。\n"
+"おじちゃんは私のお母さんだよ。"
+msgstr ""
+
+msgctxt "75540"
+msgid ""
+"……わかった。\n"
+"俺が妻、だな……"
+msgstr ""
+
+msgctxt "75573"
+msgid ""
+"じゃあさっそく始めよう！\n"
+"みんな、位置についてー！"
+msgstr ""
+
+msgctxt "75624"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "75625"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "75626"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "75627"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "75628"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "75629"
+msgid "はい。それじゃあ、はじめっ！"
+msgstr ""
+
+msgctxt "75658"
+msgid "…………"
+msgstr ""
+
+msgctxt "75667"
+msgid "…………"
+msgstr ""
+
+msgctxt "75676"
+msgid "…………"
+msgstr ""
+
+msgctxt "75685"
+msgid ""
+"……ちょっとちょっと！　おじちゃん！\n"
+"おじちゃんはお母さん役なんだからお料理をしなきゃ！"
+msgstr ""
+
+msgctxt "75774"
+msgid "お、おう……"
+msgstr ""
+
+msgctxt "75787"
+msgid "お母さんは“お、おう……”じゃないでしょ!?"
+msgstr ""
+
+msgctxt "75830"
+msgid "……"
+msgstr ""
+
+msgctxt "75835"
+msgid "わかった!?"
+msgstr ""
+
+msgctxt "75846"
+msgid "…………"
+msgstr ""
+
+msgctxt "75855"
+msgid "……お、お母さん、はりきっちゃう、ぞ。"
+msgstr ""
+
+msgctxt "75894"
+msgid ""
+"うーん、まだちょっと違う気がするけど……\n"
+"まぁいいや、お料理してて。"
+msgstr ""
+
+msgctxt "75963"
+msgid ""
+"（ままごとというのは難しいものだな。\n"
+"　しかし一度引き受けてしまったものは仕方ない……\n"
+"　最後までやりとおそう）"
+msgstr ""
+
+msgctxt "76076"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "76077"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "76078"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "76079"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "76080"
+msgid "じゃ、お母さんがお料理してるところから始まりね。"
+msgstr ""
+
+msgctxt "76129"
+msgid "よーい始め！"
+msgstr ""
+
+msgctxt "76142"
+msgid "（……料理をすれば、いいんだよな）"
+msgstr ""
+
+msgctxt "76177"
+msgid "始めだってば！"
+msgstr ""
+
+msgctxt "76192"
+msgid "……と、トントントントン。"
+msgstr ""
+
+msgctxt "76219"
+msgid ""
+"お母さーん、お腹空いたようー！\n"
+"とってもいい匂いがするけど、今日のご飯はなーに？"
+msgstr ""
+
+msgctxt "76300"
+msgid "（む……　献立か。そこまで考えていなかった）"
+msgstr ""
+
+msgctxt "76345"
+msgid ""
+"（つぶらな瞳でこちらを見ているな。\n"
+"　さて、どうするか……）"
+msgstr ""
+
+msgctxt "76406"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "76407"
+msgid "に、煮売り屋さんのお惣菜だ……　わよ。"
+msgstr ""
+
+msgctxt "76446"
+msgid ""
+"えー！　また出来合いのおかずなのー？\n"
+"手抜きすぎるよ！\n"
+"じゃあさっき何をトントン切ってたの～！"
+msgstr ""
+
+msgctxt "76541"
+msgid "それもそうだな……　だわね。"
+msgstr ""
+
+msgctxt "76570"
+msgid "野菜のおひたし、芋の煮物、豆腐だ……　わよ。"
+msgstr ""
+
+msgctxt "76615"
+msgid ""
+"わぁい！　本格的！\n"
+"私、芋の煮物だーいすき！\n"
+"しかもお豆腐まであるんだね、ずいぶん豪勢だなぁ。"
+msgstr ""
+
+msgctxt "76710"
+msgid "よ、喜んでくれて嬉しい……　わ。"
+msgstr ""
+
+msgctxt "76743"
+msgid "すき焼きだ……　わよ。"
+msgstr ""
+
+msgctxt "76766"
+msgid ""
+"ちょ、ちょっと！　豪華すぎない……？\n"
+"もうちょっと現実的な献立にしてよ、お母さん……"
+msgstr ""
+
+msgctxt "76851"
+msgid "は、はりきりすぎたかもしれない……　わね。"
+msgstr ""
+
+msgctxt "76894"
+msgid "今、帰ったぞー。"
+msgstr ""
+
+msgctxt "76911"
+msgid "お父さんだ！　おかえりなさーい！"
+msgstr ""
+
+msgctxt "76944"
+msgid "……"
+msgstr ""
+
+msgctxt "76949"
+msgid "……お母さん、お父さんが帰って来たよ。"
+msgstr ""
+
+msgctxt "76988"
+msgid "…………"
+msgstr ""
+
+msgctxt "76997"
+msgid ""
+"あ、ああ。\n"
+"お、おかえりなさい。あ……　あな……　た？"
+msgstr ""
+
+msgctxt "77052"
+msgid "ただいま。……いやー今日も疲れたよ。"
+msgstr ""
+
+msgctxt "77089"
+msgid "お疲れ様……　ご飯ができてますよ？"
+msgstr ""
+
+msgctxt "77124"
+msgid "おっ、美味そうだなぁ。じゃあみんなで食べようか。"
+msgstr ""
+
+msgctxt "77173"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "77174"
+msgid "いただきます。"
+msgstr ""
+
+msgctxt "77189"
+msgid "い、いただきます。"
+msgstr ""
+
+msgctxt "77208"
+msgid "むしゃむしゃ……"
+msgstr ""
+
+msgctxt "77225"
+msgid "ぱくぱく……"
+msgstr ""
+
+msgctxt "77238"
+msgid "もぐもぐ……"
+msgstr ""
+
+msgctxt "77251"
+msgid "……"
+msgstr ""
+
+msgctxt "77256"
+msgid ""
+"（何か喋れ……　そんな無言の圧力を感じるな……\n"
+"　旦那さん役に何か話題をふってみるか？）"
+msgstr ""
+
+msgctxt "77345"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "77346"
+msgid "（少し過激な展開にしてみるか……？）"
+msgstr ""
+
+msgctxt "77383"
+msgid "あ、あなた……　最近浮気してるでしょ？"
+msgstr ""
+
+msgctxt "77422"
+msgid ""
+"えっ!?\n"
+"し、してるわけないだろう！"
+msgstr ""
+
+msgctxt "77457"
+msgid "エェ～!?　お母さん、今の発言はどういうこと!?"
+msgstr ""
+
+msgctxt "77502"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "77503"
+msgid ""
+"（子供が食いついてきたようだな\n"
+"　よし、少し盛り上げてみるか……）"
+msgstr ""
+
+msgctxt "77570"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "77571"
+msgid ""
+"……し、知ってるんだぞ。\n"
+"私、あなたがお隣の田向さんの奥さんと\n"
+"２人でいるところを……　見てしまったのだわ。"
+msgstr ""
+
+msgctxt "77680"
+msgid ""
+"えー……　あれはねー……\n"
+"遊んでただけだよ。"
+msgstr ""
+
+msgctxt "77725"
+msgid ""
+"キャー！　“遊んでた”だなんて、お父さん！\n"
+"自ら罪を自白しちゃったようなものよー!?"
+msgstr ""
+
+msgctxt "77808"
+msgid "え？　あ、あわわわわ……！"
+msgstr ""
+
+msgctxt "77835"
+msgid ""
+"（……この流れに乗じて家を出てしまえば、\n"
+"　ままごとをこれでおしまいにできるかも\n"
+"　しれないな……　よし……）"
+msgstr ""
+
+msgctxt "77946"
+msgid ""
+"浮気は許せん。もうあんたには愛想がつきた。\n"
+"……実家に帰らせていただく！"
+msgstr ""
+
+msgctxt "78019"
+msgid "お、お母さん、考え直して！"
+msgstr ""
+
+msgctxt "78046"
+msgid ""
+"俺が悪かったぁぁぁ！\n"
+"もう浮気はしねぇよぉぉぉ！\n"
+"許してくれぇぇぇ！"
+msgstr ""
+
+msgctxt "78115"
+msgid ""
+"お母さん、お父さんも反省してるみたいよ！\n"
+"……やけに迫真の演技だけど。"
+msgstr ""
+
+msgctxt "78186"
+msgid "いっつも父ちゃんが母ちゃんに言ってるんだ。"
+msgstr ""
+
+msgctxt "78229"
+msgid "……"
+msgstr ""
+
+msgctxt "78234"
+msgid ""
+"お父さんには私からきつく言っとくから、ね！\n"
+"またみんなで仲良く暮らそうよ！"
+msgstr ""
+
+msgctxt "78309"
+msgid "む……　わ、わかった。"
+msgstr ""
+
+msgctxt "78332"
+msgid ""
+"（早く切りあげられるかもしれないと思ったが、\n"
+"　そうもいかないみたいだな……）"
+msgstr ""
+
+msgctxt "78411"
+msgid "（無難な質問をしてみるか……）"
+msgstr ""
+
+msgctxt "78442"
+msgid ""
+"き、今日のお仕事は……\n"
+"ど、どうだっ……　どうでしたか？"
+msgstr ""
+
+msgctxt "78499"
+msgid "えーとねー……　お米がいっぱいとれたよー。"
+msgstr ""
+
+msgctxt "78542"
+msgid "どれくらいとれたの？"
+msgstr ""
+
+msgctxt "78563"
+msgid "んーと、２年分くらいかな。"
+msgstr ""
+
+msgctxt "78590"
+msgid ""
+"えーすごーい！　それじゃあ私達、\n"
+"大金持ちになれちゃうかも！"
+msgstr ""
+
+msgctxt "78651"
+msgid ""
+"ハッハッハ、そうだなぁ。\n"
+"きっと毎日お豆腐食べ放題だよ。"
+msgstr ""
+
+msgctxt "78708"
+msgid "えへへ、お豆腐大好きー！"
+msgstr ""
+
+msgctxt "78733"
+msgid "（ままごとらしい会話ができたようだな……）"
+msgstr ""
+
+msgctxt "78776"
+msgid "（下手なことは言わずに飯を食っていよう……）"
+msgstr ""
+
+msgctxt "78821"
+msgid "さ、さぁ、みんなでご飯を食べましょう。"
+msgstr ""
+
+msgctxt "78860"
+msgid "そうだね。むしゃむしゃ。"
+msgstr ""
+
+msgctxt "78885"
+msgid "……むしゃむしゃ。"
+msgstr ""
+
+msgctxt "78904"
+msgid "…………もぐもぐ、ご、ごはんが美味いわね！"
+msgstr ""
+
+msgctxt "78947"
+msgid "むしゃむしゃ。"
+msgstr ""
+
+msgctxt "78962"
+msgid "…………"
+msgstr ""
+
+msgctxt "78971"
+msgid "…………"
+msgstr ""
+
+msgctxt "78980"
+msgid ""
+"邪魔するぜ……\n"
+"俺は武士だ。年貢を預かりに来た。"
+msgstr ""
+
+msgctxt "79029"
+msgid "あ、武士さんいらっしゃい。"
+msgstr ""
+
+msgctxt "79056"
+msgid "やいやい、年貢をよこしやがれ！"
+msgstr ""
+
+msgctxt "79087"
+msgid ""
+"今日はお米がいっぱいとれたんです。\n"
+"年貢としてお納めします。はいどうぞ。"
+msgstr ""
+
+msgctxt "79160"
+msgid ""
+"これじゃ足りねぇぜ……\n"
+"これはお上に献上する分だろ？\n"
+"あと……　俺、個人に献上する分が足りねぇんだぜ。"
+msgstr ""
+
+msgctxt "79263"
+msgid "えぇー！　そんな、困りますよー！"
+msgstr ""
+
+msgctxt "79296"
+msgid ""
+"早くお米をだせ！\n"
+"子供がどうなってもいいのか！"
+msgstr ""
+
+msgctxt "79343"
+msgid ""
+"きゃ、キャ～！\n"
+"お父さん、助けて～！"
+msgstr ""
+
+msgctxt "79380"
+msgid "（なんだか白熱する展開になってきたな……）"
+msgstr ""
+
+msgctxt "79423"
+msgid ""
+"ぐぅぅ～、子供の命にはかえられない。\n"
+"いいでしょう、うちのお米、全部さしあげます。"
+msgstr ""
+
+msgctxt "79506"
+msgid ""
+"最初からこうしときゃいいんだよ！\n"
+"俺に逆らったら、斬り捨て御免！\n"
+"あっという間にお前らなんか刀の錆なんだぜ！"
+msgstr ""
+
+msgctxt "79615"
+msgid ""
+"うぅ……\n"
+"せっかく頑張って作ったお米が全部……"
+msgstr ""
+
+msgctxt "79662"
+msgid "えーんえーん。"
+msgstr ""
+
+msgctxt "79677"
+msgid "じゃあ、米もたっぷりもらったし、あばよー！"
+msgstr ""
+
+msgctxt "79720"
+msgid ""
+"（めちゃくちゃな設定ながらも\n"
+"　なんだか悲しい話になってきたな……）"
+msgstr ""
+
+msgctxt "79789"
+msgid ""
+"（子供の遊びだし、さりげなくこの武士を対処して\n"
+"　幸せな結末を迎えさせてやろう）"
+msgstr ""
+
+msgctxt "79870"
+msgid ""
+"そこの武士！\n"
+"ちょっと待て……！"
+msgstr ""
+
+msgctxt "79903"
+msgid ""
+"なんだぁ？　農家の女房風情が。\n"
+"俺様に文句でもあるのかだぜ？"
+msgstr ""
+
+msgctxt "79964"
+msgid ""
+"女房をなめるなよ……　そもそも何故武士が\n"
+"個々の家から年貢の徴収を\n"
+"行っているんだ？"
+msgstr ""
+
+msgctxt "80049"
+msgid ""
+"村単位で納める村請制度が常識なはずだ。\n"
+"それにお前個人に\n"
+"米を貢がなきゃいけないなんて制度はねぇ。"
+msgstr ""
+
+msgctxt "80148"
+msgid ""
+"な、なんだと！　う、うるせえ、うるせえ！\n"
+"言うこと聞かないと斬り捨て御免だぜー！\n"
+"家族みんな斬っちまうぜー！"
+msgstr ""
+
+msgctxt "80257"
+msgid ""
+"……斬り捨て御免は、\n"
+"武士の体面を大きく汚された場合にしか\n"
+"適用されないんだぜ？"
+msgstr ""
+
+msgctxt "80338"
+msgid ""
+"正統性が認められなければ普通に犯罪だ。\n"
+"あなたの武士である権利をはく奪される可能性も\n"
+"大いにあるんだからな……　のよ！"
+msgstr ""
+
+msgctxt "80457"
+msgid ""
+"くそー！　なんだこいつは！\n"
+"もう米なんているか！　お、覚えてろー！"
+msgstr ""
+
+msgctxt "80524"
+msgid "……"
+msgstr ""
+
+msgctxt "80529"
+msgid "…………"
+msgstr ""
+
+msgctxt "80538"
+msgid "…………"
+msgstr ""
+
+msgctxt "80547"
+msgid ""
+"（しまった、遊びのつもりが、\n"
+"　声を荒げすぎてしまったか……？）"
+msgstr ""
+
+msgctxt "80612"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "80613"
+msgid "お、お母さん……　すごい！"
+msgstr ""
+
+msgctxt "80640"
+msgid "すっげーかっこよかったー！"
+msgstr ""
+
+msgctxt "80667"
+msgid ""
+"お米も持って行かれずにすんだし。\n"
+"これで無事、年を越せそうだよぉ～。"
+msgstr ""
+
+msgctxt "80736"
+msgid ""
+"そうだなぁ、餅をいっぱい買って\n"
+"平和にお正月を迎えよう。"
+msgstr ""
+
+msgctxt "80793"
+msgid "わーい！　お餅お餅！"
+msgstr ""
+
+msgctxt "80814"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "80815"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "80816"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "80817"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "80818"
+msgid "今日のおままごとはとっても楽しかったねぇ。"
+msgstr ""
+
+msgctxt "80861"
+msgid "ねー！　手に汗握る展開だったよー！"
+msgstr ""
+
+msgctxt "80896"
+msgid "……"
+msgstr ""
+
+msgctxt "80901"
+msgid ""
+"おじちゃんのおかげだよ！\n"
+"付き合ってくれてありがと……　また遊んでね！"
+msgstr ""
+
+msgctxt "80972"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "80973"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "80974"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "80975"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "80976"
+msgid "（……ふぅ、なれないことをすると疲れるな）"
+msgstr ""
+
+msgctxt "81019"
+msgid "うーん……"
+msgstr ""
+
+msgctxt "81030"
+msgid "（この子は武士役の子だな）"
+msgstr ""
+
+msgctxt "81057"
+msgid "どうかしたのか？"
+msgstr ""
+
+msgctxt "81074"
+msgid ""
+"おじちゃん……　おままごとしてる時に\n"
+"おじちゃんが私に言ってたことは\n"
+"本当……　なんだよね？"
+msgstr ""
+
+msgctxt "81167"
+msgid "ん？　……年貢とか、斬り捨て御免についてか？"
+msgstr ""
+
+msgctxt "81212"
+msgid "うん……"
+msgstr ""
+
+msgctxt "81221"
+msgid ""
+"そうだな、あんな武士はいないな。\n"
+"お前も次からは武士より、\n"
+"奥さん役とかをやった方がいいんじゃないか？"
+msgstr ""
+
+msgctxt "81324"
+msgid ""
+"でもね、おじちゃん……\n"
+"うちに来る武士の人は、いつも……　あんな感じよ。"
+msgstr ""
+
+msgctxt "81397"
+msgid ""
+"いっつもお父さんやお母さんが作ったもの\n"
+"全部……　持っていっちゃうし。"
+msgstr ""
+
+msgctxt "81468"
+msgid "何……　それは本当か？"
+msgstr ""
+
+msgctxt "81491"
+msgid "……"
+msgstr ""
+
+msgctxt "81496"
+msgid "その武士を見てみたいんだが……　会えるか？"
+msgstr ""
+
+msgctxt "81539"
+msgid "今日、もうすぐうちに来る時間だと思う……"
+msgstr ""
+
+msgctxt "81580"
+msgid "案内してくれ。"
+msgstr ""
+
+msgctxt "81595"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "81596"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "87720"
+msgid "武士"
+msgstr ""
+
+msgctxt "87725"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "87730"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "87752"
+msgid "M_BUS_TLK_btl_aft_nw_02_en"
+msgstr ""
+
+msgctxt "87779"
+msgid "M_BUS_TLK_stand_no"
+msgstr ""
+
+msgctxt "87798"
+msgid "P_KRU_TLK_stand_angry"
+msgstr ""
+
+msgctxt "87820"
+msgid "M_BUS_TLK_stand_sorry"
+msgstr ""
+
+msgctxt "87842"
+msgid "女の子の父親"
+msgstr ""
+
+msgctxt "87855"
+msgid "M_CHO_TLK_stand_ojigi"
+msgstr ""
+
+msgctxt "87877"
+msgid "M_CHO_TLK_stand_no"
+msgstr ""
+
+msgctxt "87896"
+msgid "大人しい女の子"
+msgstr ""
+
+msgctxt "87911"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "87920"
+msgid "M_CHO_TLK_stand_surp"
+msgstr ""
+
+msgctxt "87941"
+msgid "P_KRU_TLK_stand_smile"
+msgstr ""
+
+msgctxt "87963"
+msgid "M_CLD_TLK_stand_smile"
+msgstr ""
+
+msgctxt "87985"
+msgid "dummy"
+msgstr ""
+
+msgctxt "87991"
+msgid "M_BUS_TLK_stand_quest"
+msgstr ""
+
+msgctxt "88013"
+msgid "M_CHO_TLK_stand_sorry"
+msgstr ""
+
+msgctxt "88035"
+msgid "M_BUS_TLK_stand_angry"
+msgstr ""
+
+msgctxt "88057"
+msgid "M_CHO_TLK_stand_request"
+msgstr ""
+
+msgctxt "88081"
+msgid "元気な女の子"
+msgstr ""
+
+msgctxt "88094"
+msgid "遊ぶ"
+msgstr ""
+
+msgctxt "88099"
+msgid "今忙しい"
+msgstr ""
+
+msgctxt "88108"
+msgid "M_CLD_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "88130"
+msgid "M_CLD_TLK_stand_happy"
+msgstr ""
+
+msgctxt "88152"
+msgid "M_CLD_TLK_stand_yes"
+msgstr ""
+
+msgctxt "88172"
+msgid "素朴な男の子"
+msgstr ""
+
+msgctxt "88185"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "88196"
+msgid "M_CLD_TLK_stand_info_f"
+msgstr ""
+
+msgctxt "88219"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "88227"
+msgid "M_CLD_TLK_stand_quest"
+msgstr ""
+
+msgctxt "88249"
+msgid "M_CLD_TLK_stand_send"
+msgstr ""
+
+msgctxt "88270"
+msgid "P_KRU_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "88292"
+msgid "M_CLD_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "88314"
+msgid "kaiwabgm_comical"
+msgstr ""
+
+msgctxt "88331"
+msgid "M_CLD_TLK_seiza_angry"
+msgstr ""
+
+msgctxt "88353"
+msgid "P_KRU_TLK_seiza_yes"
+msgstr ""
+
+msgctxt "88373"
+msgid "P_KRU_TLK_seiza_happy"
+msgstr ""
+
+msgctxt "88395"
+msgid "M_CLD_TLK_seiza_think"
+msgstr ""
+
+msgctxt "88417"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "88439"
+msgid "M_CLD_TLK_seiza_happy"
+msgstr ""
+
+msgctxt "88461"
+msgid "P_KRU_SS_stand_mamagoto"
+msgstr ""
+
+msgctxt "88485"
+msgid "煮売り屋さんの惣菜"
+msgstr ""
+
+msgctxt "88504"
+msgid "野菜のおひたし　芋の煮物　豆腐"
+msgstr ""
+
+msgctxt "88535"
+msgid "すき焼き"
+msgstr ""
+
+msgctxt "88544"
+msgid "P_KRU_TLK_stand_yes"
+msgstr ""
+
+msgctxt "88564"
+msgid "M_CLD_TLK_seiza_quest"
+msgstr ""
+
+msgctxt "88586"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "88596"
+msgid "M_CLD_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "88619"
+msgid "M_CLD_TLK_stand_to_seiza"
+msgstr ""
+
+msgctxt "88644"
+msgid "P_KRU_TLK_stand_to_seiza"
+msgstr ""
+
+msgctxt "88669"
+msgid "二人"
+msgstr ""
+
+msgctxt "88674"
+msgid "M_CLD_TLK_seiza_request"
+msgstr ""
+
+msgctxt "88698"
+msgid "P_KRU_TLK_seiza_ojigi"
+msgstr ""
+
+msgctxt "88720"
+msgid "F_CHO_ACT_seiza_eat_01"
+msgstr ""
+
+msgctxt "88743"
+msgid "「浮気してない？」"
+msgstr ""
+
+msgctxt "88762"
+msgid "「お仕事どうでした？」"
+msgstr ""
+
+msgctxt "88785"
+msgid "黙々とご飯を食べる"
+msgstr ""
+
+msgctxt "88804"
+msgid "M_CLD_TLK_seiza_surp"
+msgstr ""
+
+msgctxt "88825"
+msgid "P_KRU_TLK_seiza_sad"
+msgstr ""
+
+msgctxt "88845"
+msgid "M_CLD_TLK_seiza_no"
+msgstr ""
+
+msgctxt "88864"
+msgid "P_KRU_TLK_seiza_to_stand"
+msgstr ""
+
+msgctxt "88889"
+msgid "M_CLD_TLK_seiza_to_stand"
+msgstr ""
+
+msgctxt "88914"
+msgid "M_CLD_TLK_stand_request"
+msgstr ""
+
+msgctxt "88938"
+msgid "M_CLD_TLK_seiza_yes"
+msgstr ""
+
+msgctxt "88958"
+msgid "M_CLD_TLK_seiza_smile"
+msgstr ""
+
+msgctxt "88980"
+msgid "M_CLD_TLK_stand_angry"
+msgstr ""
+
+msgctxt "89002"
+msgid "M_CLD_TLK_stand_no"
+msgstr ""
+
+msgctxt "89021"
+msgid "M_CLD_TLK_stand_sad"
+msgstr ""
+
+msgctxt "89041"
+msgid "M_CLD_TLK_stand_ojigi"
+msgstr ""
+
+msgctxt "89063"
+msgid "M_CLD_TLK_stand_call"
+msgstr ""
+
+msgctxt "89084"
+msgid "P_KRU_TLK_stand_quest"
+msgstr ""
+
+msgctxt "89106"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "89119"
+msgid "kaiwabgm_apathy_01"
+msgstr ""
+
+msgctxt "89138"
+msgid "M_CLD_TLK_stand_think"
+msgstr ""
+
+msgctxt "89160"
+msgid "M_CLD_SS_stand_cry_lp"
+msgstr ""
+
+msgctxt "89182"
+msgid "通りすがりの大人たち"
+msgstr ""
+
+msgctxt "89203"
+msgid "F_CHO_ACT_stand_atc_hisohiso"
+msgstr ""
+
+msgctxt "89232"
+msgid "M_OLD_TLK_stand_gakkari"
+msgstr ""
+
+msgctxt "89256"
+msgid "M_OLD_TLK_stand_sad"
+msgstr ""
+
+msgctxt "89276"
+msgid "３人"
+msgstr ""
+
+msgctxt "89281"
+msgid "遊ばない"
+msgstr ""

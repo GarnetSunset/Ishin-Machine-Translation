@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1340"
+msgid "しばらく休みますか？"
+msgstr ""
+
+msgctxt "1361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1362"
+msgid "昼まで休むとするか。"
+msgstr ""
+
+msgctxt "1383"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1384"
+msgid "夕方まで休むとするか。"
+msgstr ""
+
+msgctxt "1407"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1408"
+msgid "夜まで休むとするか。"
+msgstr ""
+
+msgctxt "1429"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1430"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1431"
+msgid ""
+"この部屋の「布団」にアクセスすると\n"
+"自由に時間帯を変更できます。"
+msgstr ""
+
+msgctxt "1496"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1524"
+msgid "昼まで休む"
+msgstr ""
+
+msgctxt "1535"
+msgid "夕方まで休む"
+msgstr ""
+
+msgctxt "1548"
+msgid "夜まで休む"
+msgstr ""
+
+msgctxt "1559"
+msgid "やめる"
+msgstr ""
+
+msgctxt "1566"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "1571"
+msgid "時間帯の変更"
+msgstr ""

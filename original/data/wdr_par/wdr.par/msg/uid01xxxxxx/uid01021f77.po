@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1748"
+msgid "どの服に着替えますか？"
+msgstr ""
+
+msgctxt "1771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1772"
+msgid "普段着に着替えるか……"
+msgstr ""
+
+msgctxt "1795"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1796"
+msgid "新選組の装いにするか……"
+msgstr ""
+
+msgctxt "1821"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1822"
+msgid "新選組～炎～の装いにするか……"
+msgstr ""
+
+msgctxt "1853"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1854"
+msgid "新選組～金～の装いにするか……"
+msgstr ""
+
+msgctxt "1885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1886"
+msgid "新選組～大漁～の装いにするか……"
+msgstr ""
+
+msgctxt "1919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1952"
+msgid "普段着"
+msgstr ""
+
+msgctxt "1959"
+msgid "新選組"
+msgstr ""
+
+msgctxt "1966"
+msgid "新選組～ 炎 ～"
+msgstr ""
+
+msgctxt "1981"
+msgid "新選組～ 金 ～"
+msgstr ""
+
+msgctxt "1996"
+msgid "新選組～大漁～"
+msgstr ""
+
+msgctxt "2011"
+msgid "やめる"
+msgstr ""
+
+msgctxt "2018"
+msgid "龍馬"
+msgstr ""

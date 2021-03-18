@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1728"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1729"
+msgid "……俺が用意したのは「<Color:8>きれいな毛皮<Color:Default>」を１０枚だ。"
+msgstr ""
+
+msgctxt "1802"
+msgid "「<Color:8>真珠<Color:Default>」を持って来てくれたら交換してやろう。"
+msgstr ""
+
+msgctxt "1871"
+msgid "（どうするか……）"
+msgstr ""
+
+msgctxt "1890"
+msgid "いや、今はやめておこう。"
+msgstr ""
+
+msgctxt "1915"
+msgid "そうか……"
+msgstr ""
+
+msgctxt "1926"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1927"
+msgid ""
+"持ってないじゃないか！　お前、俺を騙そうとしたな!?\n"
+"次やったら、いくらお頭の友だとしても\n"
+"許さないからな！"
+msgstr ""
+
+msgctxt "2034"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2035"
+msgid "「<Color:8>真珠<Color:Default>」を渡した"
+msgstr ""
+
+msgctxt "2076"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2077"
+msgid "「<Color:8>きれいな毛皮<Color:Default>」を貰った"
+msgstr ""
+
+msgctxt "2126"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2127"
+msgid ""
+"……ああ、確かに貰った。\n"
+"また来てくれ。"
+msgstr ""
+
+msgctxt "2284"
+msgid "疑い深い男"
+msgstr ""
+
+msgctxt "2295"
+msgid "Player"
+msgstr ""
+
+msgctxt "2302"
+msgid "真珠を渡す"
+msgstr ""
+
+msgctxt "2313"
+msgid "やめておく"
+msgstr ""
+
+msgctxt "2324"
+msgid "Sync_Send"
+msgstr ""

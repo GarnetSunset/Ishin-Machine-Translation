@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2096"
+msgid "さ、一杯どうぞ。"
+msgstr ""
+
+msgctxt "2113"
+msgid "すまないな。　おりょうもどうだ？"
+msgstr ""
+
+msgctxt "2146"
+msgid "じゃあお言葉に甘えて。"
+msgstr ""
+
+msgctxt "2169"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2170"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2171"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2172"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2173"
+msgid ""
+"あら、斎藤さん。\n"
+"今日は珍しくべっぴんさん連れてますやん。"
+msgstr ""
+
+msgctxt "2232"
+msgid "まあな。"
+msgstr ""
+
+msgctxt "2241"
+msgid ""
+"しばらく京を離れることになった。\n"
+"色々、世話になったな。"
+msgstr ""
+
+msgctxt "2298"
+msgid ""
+"そりゃ残念ですわ。\n"
+"　……なら、今日はせん別として\n"
+"好きなだけ飲んでや。"
+msgstr ""
+
+msgctxt "2371"
+msgid "ん？　いいのか？"
+msgstr ""
+
+msgctxt "2388"
+msgid ""
+"いいのいいのって。\n"
+"斎藤さんにはいつも世話になってるし。"
+msgstr ""
+
+msgctxt "2445"
+msgid ""
+"二人で存分に楽しんでや。\n"
+"ほな、ごゆっくり。"
+msgstr ""
+
+msgctxt "2490"
+msgid "ふふ……　ちょっと、あの人、気前良すぎとちゃう？"
+msgstr ""
+
+msgctxt "2539"
+msgid ""
+"フッ、おおかた、お前のまえでいいとこ\n"
+"見せたかったんだろう。"
+msgstr ""
+
+msgctxt "2600"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2736"
+msgid "おりょう"
+msgstr ""
+
+msgctxt "2745"
+msgid "TALK_sake_serve"
+msgstr ""
+
+msgctxt "2761"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "2766"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2771"
+msgid "店長"
+msgstr ""
+
+msgctxt "2776"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2785"
+msgid "TALK_sake_tere"
+msgstr ""
+
+msgctxt "2800"
+msgid "TALK_sake_tlk"
+msgstr ""
+
+msgctxt "2814"
+msgid "Talk_Ojigi"
+msgstr ""

@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7872"
+msgid ""
+"しかし、せっかく江戸にまで出してやったのにな。\n"
+"剣の修行じゃ性根は鍛えられなかったか。"
+msgstr ""
+
+msgctxt "7959"
+msgid ""
+"土佐に帰るなり上士とケンカとは……\n"
+"全く相変わらずだ、お前さんは。"
+msgstr ""
+
+msgctxt "8026"
+msgid ""
+"相変わらずなのは土佐の上士たちの方さ……\n"
+"江戸へ行ってわかったが、\n"
+"土佐の階級意識の強さは異常だ。"
+msgstr ""
+
+msgctxt "8125"
+msgid ""
+"フフ……\n"
+"どうやら修行の成果はあったようだな。"
+msgstr ""
+
+msgctxt "8172"
+msgid "しかしあんなことして大丈夫だったのか？"
+msgstr ""
+
+msgctxt "8211"
+msgid "お前を逃がしたことか？"
+msgstr ""
+
+msgctxt "8234"
+msgid ""
+"親っさんは、土佐の参政なんだろ？\n"
+"それが勝手に罪人を逃がしたと知れりゃ\n"
+"下から足を引っ張る連中も出てくる。"
+msgstr ""
+
+msgctxt "8341"
+msgid "土佐のお偉い老人たちのことか……"
+msgstr ""
+
+msgctxt "8374"
+msgid ""
+"だが問題ない。\n"
+"さっきの牢番は“白札郷士”だ。\n"
+"面倒を起こしはしない。"
+msgstr ""
+
+msgctxt "8445"
+msgid "どういうことだ？"
+msgstr ""
+
+msgctxt "8462"
+msgid ""
+"白札は郷士と上士の中間……\n"
+"つまりワシとお前の間の身分だ。"
+msgstr ""
+
+msgctxt "8521"
+msgid ""
+"なにかあればすぐ郷士に格を落とされる。\n"
+"それがあの牢番の最も恐れる事態だ。"
+msgstr ""
+
+msgctxt "8596"
+msgid ""
+"そうやって権力に媚びるようなヤツは\n"
+"大した度胸もねえさ。"
+msgstr ""
+
+msgctxt "8653"
+msgid "そういうもんか。"
+msgstr ""
+
+msgctxt "8670"
+msgid ""
+"ああ。\n"
+"お前みたいに後先考えねぇで上士に対しても\n"
+"逆らえるヤツの方が、よっぽど怖い。"
+msgstr ""
+
+msgctxt "8755"
+msgid "国を預かる参政としてはな。"
+msgstr ""
+
+msgctxt "8782"
+msgid "……しかしこの場所も、古くなっちまったな。"
+msgstr ""
+
+msgctxt "8825"
+msgid "ああ。だが俺にとっては自分の家も同然だ。"
+msgstr ""
+
+msgctxt "8866"
+msgid "思い出すな。もう１０年以上経つか……"
+msgstr ""
+
+msgctxt "8903"
+msgid "ああ……"
+msgstr ""
+
+msgctxt "8912"
+msgid ""
+"上士に身内を殺され、行く宛を失った子供たち。\n"
+"お前も、その１人だった。"
+msgstr ""
+
+msgctxt "8983"
+msgid "……"
+msgstr ""
+
+msgctxt "8988"
+msgid ""
+"ワシはそんな子供たちをほんの少しでも引き取ろうと\n"
+"“塾”を作った……\n"
+"藩には内緒でな。"
+msgstr ""
+
+msgctxt "9075"
+msgid ""
+"俺ぁ今でも不思議に思う。\n"
+"どうして親っさんは、上士でありながら\n"
+"あんなことをしたんだ？"
+msgstr ""
+
+msgctxt "9162"
+msgid ""
+"さあ、どうしてだろうな……\n"
+"だが、ひとつ言えるのは、\n"
+"ワシは土佐が大嫌いだってことだ。"
+msgstr ""
+
+msgctxt "9249"
+msgid "嫌い？"
+msgstr ""
+
+msgctxt "9256"
+msgid ""
+"ああ。\n"
+"土佐は階級が絶対的な国だ。"
+msgstr ""
+
+msgctxt "9291"
+msgid ""
+"武士だけでも「上士」「白札郷士」\n"
+"そして「郷士」の３階級が存在する。"
+msgstr ""
+
+msgctxt "9360"
+msgid ""
+"土佐藩は同じ武士であるはずの人間に\n"
+"そういった階級を与え、身分の壁を作る事によって\n"
+"藩の秩序を守ってきた。"
+msgstr ""
+
+msgctxt "9467"
+msgid ""
+"だが本来、武士も農民も商人も女も子供も、\n"
+"全ては同じ人間。差なんてねぇんだ。"
+msgstr ""
+
+msgctxt "9544"
+msgid "ああ。"
+msgstr ""
+
+msgctxt "9551"
+msgid ""
+"だからワシは、そんな土佐に恨みを持つ\n"
+"お前たちを塾に引き取った。"
+msgstr ""
+
+msgctxt "9616"
+msgid "……土佐を変えられる人間を育てるためにな。"
+msgstr ""
+
+msgctxt "9659"
+msgid "土佐を変えられる人間……"
+msgstr ""
+
+msgctxt "9684"
+msgid ""
+"そうだ。\n"
+"……階級という制度に飼いならされた人間には、\n"
+"変えたいという気持ちは生まれない。"
+msgstr ""
+
+msgctxt "9775"
+msgid ""
+"ワシはな龍馬。\n"
+"土佐を変えられる人間てのは、土佐を誰よりも愛し、\n"
+"土佐を誰よりも憎んでいるヤツだと思うんだ。"
+msgstr ""
+
+msgctxt "9884"
+msgid "……"
+msgstr ""
+
+msgctxt "9889"
+msgid ""
+"お前は１５年前、上士に家を焼かれ、\n"
+"実の親兄弟を失った……\n"
+"お前は、土佐を変えたいと願っているはずだ。"
+msgstr ""
+
+msgctxt "9992"
+msgid "……"
+msgstr ""
+
+msgctxt "9997"
+msgid "……親っさん。"
+msgstr ""
+
+msgctxt "10012"
+msgid "ん？"
+msgstr ""
+
+msgctxt "10017"
+msgid ""
+"じゃあどうして親っさんは、\n"
+"藩の仕事をしてるんだ。"
+msgstr ""
+
+msgctxt "10068"
+msgid "……"
+msgstr ""
+
+msgctxt "10073"
+msgid ""
+"藩の参政ってのは、土佐の階級制度を\n"
+"守る立場なんじゃねえのか!?"
+msgstr ""
+
+msgctxt "10136"
+msgid ""
+"そうだ。\n"
+"ワシは土佐で最も身分や階級といった“規律”を\n"
+"重んじる男だ。……表向きにはな。"
+msgstr ""
+
+msgctxt "10225"
+msgid "？"
+msgstr ""
+
+msgctxt "10228"
+msgid ""
+"龍馬。\n"
+"……武市にはもう会ったか？"
+msgstr ""
+
+msgctxt "10263"
+msgid "兄弟に？　いやまだだが。"
+msgstr ""
+
+msgctxt "10288"
+msgid ""
+"お前が留守にしている間、\n"
+"アイツには重大な仕事をしてもらった。"
+msgstr ""
+
+msgctxt "10351"
+msgid "仕事？"
+msgstr ""
+
+msgctxt "10358"
+msgid ""
+"ああ……\n"
+"土佐勤王党という組織をつくらせた。"
+msgstr ""
+
+msgctxt "10403"
+msgid "土佐、勤王党……"
+msgstr ""
+
+msgctxt "10420"
+msgid ""
+"今の土佐藩の体制に不満をもった郷士を中心に\n"
+"５００名……"
+msgstr ""
+
+msgctxt "10477"
+msgid ""
+"名目上、勤王とは謳っているがその思いはひとつ。\n"
+"土佐の身分制度の崩壊が目的の集団だ。"
+msgstr ""
+
+msgctxt "10562"
+msgid "それじゃ、勤王党の敵は土佐藩ということか？"
+msgstr ""
+
+msgctxt "10605"
+msgid ""
+"ワシはな、龍馬。\n"
+"その勤王党の力で、土佐をぶっ壊そうと思ってる。"
+msgstr ""
+
+msgctxt "10670"
+msgid "壊す？"
+msgstr ""
+
+msgctxt "10677"
+msgid ""
+"そうだ。\n"
+"ワシがこの塾で息子同然に育ててきた\n"
+"お前ら２人……"
+msgstr ""
+
+msgctxt "10738"
+msgid "武市半平太、坂本龍馬の手によってな。"
+msgstr ""
+
+msgctxt "10775"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10776"
+msgid "…………"
+msgstr ""
+
+msgctxt "10785"
+msgid ""
+"龍馬。武市に会いに行け。\n"
+"そして土佐勤王党に入るんだ。"
+msgstr ""
+
+msgctxt "10840"
+msgid ""
+"とにかく詳しい話は武市に会って直接聞いてくれ。\n"
+"ワシはそろそろ城へ戻らねばならん。"
+msgstr ""
+
+msgctxt "10923"
+msgid "今、兄弟はどこにいるんだ。"
+msgstr ""
+
+msgctxt "10950"
+msgid ""
+"街で土佐勤王党の武市と言えば、\n"
+"知らないヤツはいない。\n"
+"だがすんなり会えるかは分からんがな。"
+msgstr ""
+
+msgctxt "11043"
+msgid "？"
+msgstr ""
+
+msgctxt "11046"
+msgid "字引きテスト足軽の女将です。"
+msgstr ""
+
+msgctxt "11075"
+msgid "首向け解除。"
+msgstr ""
+
+msgctxt "11088"
+msgid "字引きテスト足軽の女将です。"
+msgstr ""
+
+msgctxt "11117"
+msgid "首向け解除。"
+msgstr ""
+
+msgctxt "11428"
+msgid "東洋"
+msgstr ""
+
+msgctxt "11433"
+msgid "toyo_c01_050_01"
+msgstr ""
+
+msgctxt "11449"
+msgid "toyo_c01_050_01b"
+msgstr ""
+
+msgctxt "11466"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "11471"
+msgid "kiryu_c01_050_01"
+msgstr ""
+
+msgctxt "11488"
+msgid "toyo_c01_050_02"
+msgstr ""
+
+msgctxt "11504"
+msgid "kiryu_c01_050_02"
+msgstr ""
+
+msgctxt "11521"
+msgid "toyo_c01_050_03"
+msgstr ""
+
+msgctxt "11537"
+msgid "kiryu_c01_050_03"
+msgstr ""
+
+msgctxt "11554"
+msgid "toyo_c01_050_04"
+msgstr ""
+
+msgctxt "11570"
+msgid "toyo_c01_050_04b"
+msgstr ""
+
+msgctxt "11587"
+msgid "kiryu_c01_050_04"
+msgstr ""
+
+msgctxt "11604"
+msgid "toyo_c01_050_05"
+msgstr ""
+
+msgctxt "11620"
+msgid "toyo_c01_050_05b"
+msgstr ""
+
+msgctxt "11637"
+msgid "toyo_c01_050_05c"
+msgstr ""
+
+msgctxt "11654"
+msgid "kiryu_c01_050_05"
+msgstr ""
+
+msgctxt "11671"
+msgid "toyo_c01_050_06"
+msgstr ""
+
+msgctxt "11687"
+msgid "toyo_c01_050_06b"
+msgstr ""
+
+msgctxt "11704"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11710"
+msgid "toyo_c01_050_07"
+msgstr ""
+
+msgctxt "11726"
+msgid "kiryu_c01_050_06"
+msgstr ""
+
+msgctxt "11743"
+msgid "kaiwabgm_apathy_05"
+msgstr ""
+
+msgctxt "11762"
+msgid "toyo_c01_050_08"
+msgstr ""
+
+msgctxt "11778"
+msgid "kiryu_c01_050_07"
+msgstr ""
+
+msgctxt "11795"
+msgid "toyo_c01_050_09"
+msgstr ""
+
+msgctxt "11811"
+msgid "kiryu_c01_050_08"
+msgstr ""
+
+msgctxt "11828"
+msgid "toyo_c01_050_10"
+msgstr ""
+
+msgctxt "11844"
+msgid "kiryu_c01_050_09"
+msgstr ""
+
+msgctxt "11861"
+msgid "toyo_c01_050_11"
+msgstr ""
+
+msgctxt "11877"
+msgid "kiryu_c01_050_10"
+msgstr ""
+
+msgctxt "11894"
+msgid "toyo_c01_050_12"
+msgstr ""
+
+msgctxt "11910"
+msgid "toyo_c01_050_12b"
+msgstr ""
+
+msgctxt "11927"
+msgid "toyo_c01_050_12c"
+msgstr ""
+
+msgctxt "11944"
+msgid "toyo_c01_050_12d"
+msgstr ""
+
+msgctxt "11961"
+msgid "kiryu_c01_050_11"
+msgstr ""
+
+msgctxt "11978"
+msgid "toyo_c01_050_13"
+msgstr ""
+
+msgctxt "11994"
+msgid "toyo_c01_050_13b"
+msgstr ""
+
+msgctxt "12011"
+msgid "kiryu_c01_050_12"
+msgstr ""
+
+msgctxt "12028"
+msgid "toyo_c01_050_14"
+msgstr ""
+
+msgctxt "12044"
+msgid "toyo_c01_050_14b"
+msgstr ""
+
+msgctxt "12061"
+msgid "kiryu_c01_050_13"
+msgstr ""
+
+msgctxt "12078"
+msgid "toyo_c01_050_15"
+msgstr ""
+
+msgctxt "12094"
+msgid "kiryu_c01_050_14"
+msgstr ""
+
+msgctxt "12111"
+msgid "kiryu_c01_050_15"
+msgstr ""
+
+msgctxt "12128"
+msgid "toyo_c01_050_16"
+msgstr ""
+
+msgctxt "12144"
+msgid "acsce0120"
+msgstr ""
+
+msgctxt "12154"
+msgid "TALK_sake_pour"
+msgstr ""
+
+msgctxt "12169"
+msgid "kiryu_c01_050_16"
+msgstr ""
+
+msgctxt "12186"
+msgid "toyo_c01_050_17"
+msgstr ""
+
+msgctxt "12202"
+msgid "kiryu_c01_050_17"
+msgstr ""
+
+msgctxt "12219"
+msgid "toyo_c01_050_18"
+msgstr ""
+
+msgctxt "12235"
+msgid "kiryu_c01_050_18"
+msgstr ""
+
+msgctxt "12252"
+msgid "toyo_c01_050_19"
+msgstr ""
+
+msgctxt "12268"
+msgid "kiryu_c01_050_19"
+msgstr ""
+
+msgctxt "12285"
+msgid "toyo_c01_050_20"
+msgstr ""
+
+msgctxt "12301"
+msgid "kiryu_c01_050_20"
+msgstr ""
+
+msgctxt "12318"
+msgid "toyo_c01_050_21"
+msgstr ""
+
+msgctxt "12334"
+msgid "kiryu_c01_050_21"
+msgstr ""
+
+msgctxt "12351"
+msgid "toyo_c01_050_22"
+msgstr ""
+
+msgctxt "12367"
+msgid "toyo_c01_050_22b"
+msgstr ""
+
+msgctxt "12384"
+msgid "kiryu_c01_050_22"
+msgstr ""
+
+msgctxt "12401"
+msgid "toyo_c01_050_23"
+msgstr ""
+
+msgctxt "12417"
+msgid "kiryu_c01_050_23"
+msgstr ""
+
+msgctxt "12434"
+msgid "toyo_c01_050_24"
+msgstr ""
+
+msgctxt "12450"
+msgid "toyo_c01_050_24b"
+msgstr ""
+
+msgctxt "12467"
+msgid "TALK_sake_drink1"
+msgstr ""
+
+msgctxt "12484"
+msgid "kiryu_c01_050_24"
+msgstr ""
+
+msgctxt "12501"
+msgid "toyo_c01_050_25"
+msgstr ""
+
+msgctxt "12517"
+msgid "toyo_c01_050_25b"
+msgstr ""
+
+msgctxt "12534"
+msgid "kiryu_c01_050_25"
+msgstr ""
+
+msgctxt "12551"
+msgid "toyo_c01_050_26"
+msgstr ""
+
+msgctxt "12567"
+msgid "kiryu_c01_050_26"
+msgstr ""
+
+msgctxt "12584"
+msgid "相手"
+msgstr ""
+
+msgctxt "12589"
+msgid "Player"
+msgstr ""

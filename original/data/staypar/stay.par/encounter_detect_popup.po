@@ -1,0 +1,364 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "YATOU_POPUP_0"
+msgid "ん…？"
+msgstr ""
+
+msgctxt "YATOU_POPUP_1"
+msgid "お…？"
+msgstr ""
+
+msgctxt "YATOU_POPUP_2"
+msgid "あ…？"
+msgstr ""
+
+msgctxt "YATOU_POPUP_3"
+msgid "むっ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_4"
+msgid "おっ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_5"
+msgid "あっ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_6"
+msgid "あいつ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_7"
+msgid "あいつは…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_8"
+msgid "あやつ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_9"
+msgid "あやつは…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_10"
+msgid "あれは…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_0"
+msgid "ん…？"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_1"
+msgid "お…？"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_2"
+msgid "あ…？"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_3"
+msgid "むっ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_4"
+msgid "おっ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_5"
+msgid "あっ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_6"
+msgid "あいつ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_7"
+msgid "あいつは…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_8"
+msgid "あやつ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_9"
+msgid "あやつは…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_10"
+msgid "あれは…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_0"
+msgid "ん…？"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_1"
+msgid "お…？"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_2"
+msgid "あ…？"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_3"
+msgid "むっ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_4"
+msgid "おっ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_5"
+msgid "あっ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_6"
+msgid "あいつ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_7"
+msgid "あいつは…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_8"
+msgid "あやつ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_9"
+msgid "あやつは…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_10"
+msgid "あれは…"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_0"
+msgid "ん…？"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_1"
+msgid "お…？"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_2"
+msgid "あ…？"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_3"
+msgid "むっ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_4"
+msgid "おっ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_5"
+msgid "あっ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_6"
+msgid "あいつ…"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_7"
+msgid "あいつは…"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_8"
+msgid "あやつ…"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_9"
+msgid "あやつは…"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_10"
+msgid "あれは…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_0"
+msgid "ん…？"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_1"
+msgid "お…？"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_2"
+msgid "あ…？"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_3"
+msgid "むっ！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_4"
+msgid "おっ！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_5"
+msgid "あっ！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_6"
+msgid "あいつ…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_7"
+msgid "あいつは…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_8"
+msgid "あやつ…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_9"
+msgid "あやつは…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_10"
+msgid "あれは…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_0"
+msgid "ん…？"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_1"
+msgid "お…？"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_2"
+msgid "あ…？"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_3"
+msgid "むっ！"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_4"
+msgid "おっ！"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_5"
+msgid "あっ！"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_6"
+msgid "あいつ…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_7"
+msgid "あいつは…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_8"
+msgid "あやつ…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_9"
+msgid "あやつは…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_10"
+msgid "あれは…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_0"
+msgid "ん…？"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_1"
+msgid "お…？"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_2"
+msgid "あ…？"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_3"
+msgid "むっ！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_4"
+msgid "おっ！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_5"
+msgid "あっ！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_6"
+msgid "あいつ…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_7"
+msgid "あいつは…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_8"
+msgid "あやつ…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_9"
+msgid "あやつは…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_10"
+msgid "あれは…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_0"
+msgid "ん…？"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_1"
+msgid "お…？"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_2"
+msgid "あ…？"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_3"
+msgid "むっ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_4"
+msgid "おっ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_5"
+msgid "あっ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_6"
+msgid "あいつ…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_7"
+msgid "あいつは…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_8"
+msgid "あやつ…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_9"
+msgid "あやつは…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_10"
+msgid "あれは…"
+msgstr ""

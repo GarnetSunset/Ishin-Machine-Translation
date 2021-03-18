@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "316"
+msgid "－"
+msgstr ""
+
+msgctxt "319"
+msgid "所持数"
+msgstr ""
+
+msgctxt "326"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "351"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "384"
+msgid "ほんますいません。%sや。"
+msgstr ""
+
+msgctxt "409"
+msgid "（これ以上食べられないな……）"
+msgstr ""
+
+msgctxt "440"
+msgid "（これ以上飲めないな……）"
+msgstr ""
+
+msgctxt "467"
+msgid "御品書"
+msgstr ""
+
+msgctxt "474"
+msgid "－"
+msgstr ""
+
+msgctxt "477"
+msgid "注"
+msgstr ""
+
+msgctxt "480"
+msgid "（うむ、うまいな）"
+msgstr ""
+
+msgctxt "499"
+msgid "（いけるな）"
+msgstr ""
+
+msgctxt "512"
+msgid "（なかなかのものだな）"
+msgstr ""
+
+msgctxt "535"
+msgid "（うむ、なかなかだな）"
+msgstr ""
+
+msgctxt "558"
+msgid "（これは、いいな）"
+msgstr ""
+
+msgctxt "577"
+msgid "（うまいものだな）"
+msgstr ""
+
+msgctxt "596"
+msgid "（なかなか、いけるな）"
+msgstr ""
+
+msgctxt "619"
+msgid "（これは、なかなか……）"
+msgstr ""
+
+msgctxt "644"
+msgid "（こいつは、うまいぞ）"
+msgstr ""
+
+msgctxt "667"
+msgid "（ふむ、いけるな）"
+msgstr ""
+
+msgctxt "686"
+msgid "（う～ん……　イマイチだな……）"
+msgstr ""
+
+msgctxt "719"
+msgid "chair"
+msgstr ""
+
+msgctxt "725"
+msgid ""
+"酒にすり下ろした山芋を入れたものや。\n"
+"滋養にいいとか、病に効くとか……\n"
+"とりあえず、注文してもらえんやろか。"
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"ちょっとね、何の酒って訳やないんですが\n"
+"とりあえず酔えると思うんで\n"
+"注文してくれへんやろか……"
+msgstr ""
+
+msgctxt "925"
+msgid ""
+"手に入った材料を、色々入れて鍋にしました。\n"
+"うまいと思いまっせ、……たぶん。\n"
+"注文してくれはる？"
+msgstr ""
+
+msgctxt "1020"
+msgid ""
+"えーと、何煮たかちょっと覚えて無いんやけど\n"
+"結構うまいもんやと思うで。\n"
+"注文してや。"
+msgstr ""

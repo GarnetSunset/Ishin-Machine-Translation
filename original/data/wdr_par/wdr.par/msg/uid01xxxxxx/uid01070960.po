@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2208"
+msgid "まずは親を決めようか。"
+msgstr ""
+
+msgctxt "2231"
+msgid "私が親だよね？"
+msgstr ""
+
+msgctxt "2246"
+msgid "いくら賭けるかい？"
+msgstr ""
+
+msgctxt "2265"
+msgid "では、始めようか。"
+msgstr ""
+
+msgctxt "2284"
+msgid "私の番だよね？"
+msgstr ""
+
+msgctxt "2299"
+msgid "（この台詞が出たら駄目）"
+msgstr ""
+
+msgctxt "2324"
+msgid "精算してもいいかな？"
+msgstr ""
+
+msgctxt "2345"
+msgid "次、親 誰だっけ？"
+msgstr ""
+
+msgctxt "2363"
+msgid "親の交代だよね？"
+msgstr ""
+
+msgctxt "2380"
+msgid ""
+"さてさて、次だ！\n"
+"もうひと勝負するよね？"
+msgstr ""
+
+msgctxt "2421"
+msgid ""
+"ああ、スッカラカンだよ……\n"
+"帰っていいよね？"
+msgstr ""
+
+msgctxt "2466"
+msgid ""
+"もう手持ちがないんだ？\n"
+"また来てもらえるかな？"
+msgstr ""
+
+msgctxt "2513"
+msgid "親の即精算メッセージ。"
+msgstr ""
+
+msgctxt "2536"
+msgid "親の奇の見は３になるよ。"
+msgstr ""
+
+msgctxt "2561"
+msgid ""
+"最初の子が出した奇の見は\n"
+"３になるよ。"
+msgstr ""
+
+msgctxt "2600"
+msgid ""
+"奇の見は一つ前の子と\n"
+"同じ出目になるよ。"
+msgstr ""
+
+msgctxt "2641"
+msgid "親の偶の音は４になるよ。"
+msgstr ""
+
+msgctxt "2666"
+msgid ""
+"偶の音は一つ後の子と\n"
+"同じ出目になるよ。"
+msgstr ""
+
+msgctxt "2707"
+msgid ""
+"最後の子が出した偶の音は\n"
+"４になるよ。"
+msgstr ""
+
+msgctxt "2746"
+msgid ""
+"偶の音は、後ろの子と\n"
+"同じ出目になるよ。"
+msgstr ""
+
+msgctxt "2787"
+msgid "偶の音のあとに奇の見が出たよ。"
+msgstr ""
+
+msgctxt "2818"
+msgid "ははは、ムサシだ。"
+msgstr ""
+
+msgctxt "2844"
+msgid "根暗な尚助"
+msgstr ""

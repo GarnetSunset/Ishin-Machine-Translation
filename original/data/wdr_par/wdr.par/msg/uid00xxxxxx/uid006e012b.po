@@ -1,0 +1,1479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "41656"
+msgid ""
+"あ、おっちゃん！\n"
+"いらないもの、あるかなぁ？\n"
+"大事なおもちゃになるかもしれないからさぁ！"
+msgstr ""
+
+msgctxt "41745"
+msgid ""
+"そっかー……\n"
+"いらないものができたら、ちょうだいね。"
+msgstr ""
+
+msgctxt "41798"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41799"
+msgid "こんなものはどうだ？"
+msgstr ""
+
+msgctxt "41820"
+msgid ""
+"ぷっ……！　なんだこれ、すげー！\n"
+"ありがとう、おっちゃん！\n"
+"さっそくこれで友達と遊んでこよっと！"
+msgstr ""
+
+msgctxt "41917"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41918"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41920"
+msgid "もし、いらないものができたら、ちょうだいね。"
+msgstr ""
+
+msgctxt "41965"
+msgid "おっちゃん！"
+msgstr ""
+
+msgctxt "41978"
+msgid "よう、仲直りはできたか？"
+msgstr ""
+
+msgctxt "42003"
+msgid ""
+"うん！　おっちゃんがくれたおもちゃで\n"
+"遊んでたらケンカのことなんて忘れちゃってた！"
+msgstr ""
+
+msgctxt "42086"
+msgid ""
+"だから言ったろう？\n"
+"子供なんてそんなもんだ。"
+msgstr ""
+
+msgctxt "42131"
+msgid ""
+"すごいよなー、おっちゃんは大人なのに、\n"
+"子供についてよく知ってるんだもん！"
+msgstr ""
+
+msgctxt "42206"
+msgid "フッ、俺も昔は子供だったからな。"
+msgstr ""
+
+msgctxt "42239"
+msgid ""
+"え、えー！　うそだよ！\n"
+"ぜんぜん想像つかないもん！"
+msgstr ""
+
+msgctxt "42290"
+msgid "…………"
+msgstr ""
+
+msgctxt "42299"
+msgid "おっちゃん、ありがとね。"
+msgstr ""
+
+msgctxt "42324"
+msgid "ん？"
+msgstr ""
+
+msgctxt "42329"
+msgid ""
+"……みんなと一緒に遊べるようになったのも、\n"
+"仲直りできたのも、おっちゃんがいたからだもん。"
+msgstr ""
+
+msgctxt "42420"
+msgid "……そうか。"
+msgstr ""
+
+msgctxt "42433"
+msgid ""
+"また、なにかいらないものがあったらちょうだいね！\n"
+"どんないらないものでも……\n"
+"大事なおもちゃになるかもしれないからさぁ！"
+msgstr ""
+
+msgctxt "42554"
+msgid "フッ、その通りだな。"
+msgstr ""
+
+msgctxt "42575"
+msgid "えへへへっ！"
+msgstr ""
+
+msgctxt "42588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42589"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42590"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42591"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42592"
+msgid "あ、おっちゃん……"
+msgstr ""
+
+msgctxt "42611"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42612"
+msgid "今日は元気がないな。何かあったのか？"
+msgstr ""
+
+msgctxt "42649"
+msgid ""
+"うん……　実はこの前、友達とケンカ……\n"
+"あ、いや、違う、もう友達なんかじゃないんだった。"
+msgstr ""
+
+msgctxt "42738"
+msgid "……友達と喧嘩をしたのか。"
+msgstr ""
+
+msgctxt "42765"
+msgid ""
+"……あいつったらひどいんだぜ！\n"
+"おっちゃんからもらったおもちゃ、壊しちゃうしさ！\n"
+"あんなやつ、もう俺の友達にはいらないんだ！"
+msgstr ""
+
+msgctxt "42890"
+msgid "……その子は、わざとおもちゃを壊したのか？"
+msgstr ""
+
+msgctxt "42933"
+msgid ""
+"……ううん、わざとじゃないと思う。\n"
+"そのあとすっごくあやまってきたもん。"
+msgstr ""
+
+msgctxt "43006"
+msgid "……それでもお前は許さなかったのか？"
+msgstr ""
+
+msgctxt "43043"
+msgid "う、うん……"
+msgstr ""
+
+msgctxt "43056"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43057"
+msgid ""
+"だ、だってさぁ！　あのおもちゃは、\n"
+"おっちゃんがくれた大切な……"
+msgstr ""
+
+msgctxt "43122"
+msgid ""
+"友達と一緒に遊べるようになった、\n"
+"大事なものだったんだ……"
+msgstr ""
+
+msgctxt "43181"
+msgid ""
+"……お前にあげたあれはおもちゃじゃない。\n"
+"俺にとっていらなかったものだ。"
+msgstr ""
+
+msgctxt "43254"
+msgid "そ、そうだけどさぁ、オレにとっては……"
+msgstr ""
+
+msgctxt "43293"
+msgid ""
+"俺のいらないものを、\n"
+"お前はとても大事にしてくれたんだな。"
+msgstr ""
+
+msgctxt "43352"
+msgid "うん……"
+msgstr ""
+
+msgctxt "43361"
+msgid ""
+"お前はその友達のことをいらないと言っていたが……\n"
+"本当にそうなのか？"
+msgstr ""
+
+msgctxt "43430"
+msgid "えっ？"
+msgstr ""
+
+msgctxt "43437"
+msgid ""
+"いらないものだって、ちょっとしたことで\n"
+"とても大事なものに変わるんだ。"
+msgstr ""
+
+msgctxt "43508"
+msgid ""
+"いらないからと言って、\n"
+"そんな簡単に友達を切り捨てるもんじゃない。"
+msgstr ""
+
+msgctxt "43575"
+msgid ""
+"そういうものこそ本当は、\n"
+"お前にとっての大事なものかもしれないだろ。"
+msgstr ""
+
+msgctxt "43644"
+msgid "…………"
+msgstr ""
+
+msgctxt "43653"
+msgid "オレ、友達のとこ……　行かなきゃ……"
+msgstr ""
+
+msgctxt "43690"
+msgid "あぁ、そうだな。"
+msgstr ""
+
+msgctxt "43707"
+msgid ""
+"でも……\n"
+"なんて言ってあやまったらいいんだろ……"
+msgstr ""
+
+msgctxt "43756"
+msgid ""
+"フッ、子供なんてのは、\n"
+"一緒に遊べばいつのまにか仲直りしてるもんだ。"
+msgstr ""
+
+msgctxt "43825"
+msgid "そ、そんなぁ……"
+msgstr ""
+
+msgctxt "43842"
+msgid "おっちゃん、オレ、仲直りなんて……"
+msgstr ""
+
+msgctxt "43877"
+msgid ""
+"（友達と仲直りをしたいが、\n"
+"　きっかけが見つからないようだ。\n"
+"　……何かやるか？）"
+msgstr ""
+
+msgctxt "43960"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43961"
+msgid ""
+"……しかたない。\n"
+"おもちゃが壊れたと言っていたな。\n"
+"こいつを持って行け。"
+msgstr ""
+
+msgctxt "44034"
+msgid "…………"
+msgstr ""
+
+msgctxt "44043"
+msgid "ん、これじゃだめか……？"
+msgstr ""
+
+msgctxt "44068"
+msgid ""
+"……ぷふっ！　なんだこれ！\n"
+"おっちゃんがくれるものはいつも変だよなー！"
+msgstr ""
+
+msgctxt "44139"
+msgid "そ、そうか？"
+msgstr ""
+
+msgctxt "44152"
+msgid ""
+"おっちゃん……　ありがと！\n"
+"おっちゃんがくれたおもちゃで、仲直りしてくるよ！"
+msgstr ""
+
+msgctxt "44229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44231"
+msgid ""
+"（何かやりたいのはやまやまだが、\n"
+"　今はいらないものを持ってないな……）"
+msgstr ""
+
+msgctxt "44304"
+msgid "…………"
+msgstr ""
+
+msgctxt "44313"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44314"
+msgid "あ、おっちゃん……"
+msgstr ""
+
+msgctxt "44333"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44334"
+msgid "今日は元気がないな。何かあったのか？"
+msgstr ""
+
+msgctxt "44371"
+msgid ""
+"うん……　実はこの前、友達とケンカ……\n"
+"あ、いや、違う、もう友達なんかじゃないんだった。"
+msgstr ""
+
+msgctxt "44460"
+msgid "……友達と喧嘩をしたのか。"
+msgstr ""
+
+msgctxt "44487"
+msgid ""
+"……あいつったらひどいんだぜ！\n"
+"おっちゃんからもらったおもちゃ、壊しちゃうしさ！\n"
+"あんなやつ、もう俺の友達にはいらないんだ！"
+msgstr ""
+
+msgctxt "44612"
+msgid "……その子は、わざとおもちゃを壊したのか？"
+msgstr ""
+
+msgctxt "44655"
+msgid ""
+"……ううん、わざとじゃないと思う。\n"
+"そのあとすっごくあやまってきたもん。"
+msgstr ""
+
+msgctxt "44728"
+msgid "……それでもお前は許さなかったのか？"
+msgstr ""
+
+msgctxt "44765"
+msgid "う、うん……"
+msgstr ""
+
+msgctxt "44778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44779"
+msgid ""
+"だ、だってさぁ！　あのおもちゃは、\n"
+"おっちゃんがくれた大切な……"
+msgstr ""
+
+msgctxt "44844"
+msgid ""
+"友達と一緒に遊べるようになった、\n"
+"大事なものだったんだ……"
+msgstr ""
+
+msgctxt "44903"
+msgid ""
+"……お前にあげたあれはおもちゃじゃない。\n"
+"俺にとっていらなかったものだ。"
+msgstr ""
+
+msgctxt "44976"
+msgid "そ、そうだけどさぁ、オレにとっては……"
+msgstr ""
+
+msgctxt "45015"
+msgid ""
+"俺のいらないものを、\n"
+"お前はとても大事にしてくれたんだな。"
+msgstr ""
+
+msgctxt "45074"
+msgid "うん……"
+msgstr ""
+
+msgctxt "45083"
+msgid ""
+"お前はその友達のことをいらないと言っていたが……\n"
+"本当にそうなのか？"
+msgstr ""
+
+msgctxt "45152"
+msgid "えっ？"
+msgstr ""
+
+msgctxt "45159"
+msgid ""
+"いらないものだって、ちょっとしたことで\n"
+"とても大事なものに変わるんだ。"
+msgstr ""
+
+msgctxt "45230"
+msgid ""
+"いらないからと言って、\n"
+"そんな簡単に友達を切り捨てるもんじゃない。"
+msgstr ""
+
+msgctxt "45297"
+msgid ""
+"そういうものこそ本当は、\n"
+"お前にとっての大事なものかもしれないだろ。"
+msgstr ""
+
+msgctxt "45366"
+msgid "…………"
+msgstr ""
+
+msgctxt "45375"
+msgid "オレ、友達のとこ……　行かなきゃ……"
+msgstr ""
+
+msgctxt "45412"
+msgid "あぁ、そうだな。"
+msgstr ""
+
+msgctxt "45429"
+msgid ""
+"でも……\n"
+"なんて言ってあやまったらいいんだろ……"
+msgstr ""
+
+msgctxt "45478"
+msgid ""
+"フッ、子供なんてのは、\n"
+"一緒に遊べばいつのまにか仲直りしてるもんだ。"
+msgstr ""
+
+msgctxt "45547"
+msgid "そ、そんなぁ……"
+msgstr ""
+
+msgctxt "45564"
+msgid "おっちゃん、オレ、仲直りなんて……"
+msgstr ""
+
+msgctxt "45599"
+msgid ""
+"（友達と仲直りをしたいが、\n"
+"　きっかけが見つからないようだ。\n"
+"　……何かやるか？）"
+msgstr ""
+
+msgctxt "45682"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45683"
+msgid ""
+"……しかたない。\n"
+"おもちゃが壊れたと言っていたな。\n"
+"こいつを持って行け。"
+msgstr ""
+
+msgctxt "45756"
+msgid "…………"
+msgstr ""
+
+msgctxt "45765"
+msgid "ん、これじゃだめか……？"
+msgstr ""
+
+msgctxt "45790"
+msgid ""
+"……ぷふっ！　なんだこれ！\n"
+"おっちゃんがくれるものはいつも変だよなー！"
+msgstr ""
+
+msgctxt "45861"
+msgid "そ、そうか？"
+msgstr ""
+
+msgctxt "45874"
+msgid ""
+"おっちゃん……　ありがと！\n"
+"おっちゃんがくれたおもちゃで、仲直りしてくるよ！"
+msgstr ""
+
+msgctxt "45951"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45953"
+msgid ""
+"（何かやりたいのはやまやまだが、\n"
+"　今はいらないものを持ってないな……）"
+msgstr ""
+
+msgctxt "46026"
+msgid "…………"
+msgstr ""
+
+msgctxt "46035"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46036"
+msgid "あ、おっちゃん！"
+msgstr ""
+
+msgctxt "46053"
+msgid "ん？　あぁ、お前か。"
+msgstr ""
+
+msgctxt "46074"
+msgid ""
+"この前はありがとう！\n"
+"おっちゃんがくれたおもちゃで、\n"
+"みんなと一緒に一日中遊んでたよ！"
+msgstr ""
+
+msgctxt "46161"
+msgid ""
+"（あんなもので一日中遊べるものなのか……\n"
+"　子供はすごいな）"
+msgstr ""
+
+msgctxt "46222"
+msgid "よかったな。"
+msgstr ""
+
+msgctxt "46235"
+msgid "うん！　おっちゃんのおかげだよ！"
+msgstr ""
+
+msgctxt "46268"
+msgid ""
+"……それでさ、お願いがあるんだけど、\n"
+"また、いらないものくれないかな？"
+msgstr ""
+
+msgctxt "46339"
+msgid "ん？　前のじゃだめなのか？"
+msgstr ""
+
+msgctxt "46366"
+msgid "だめってわけじゃないけどさぁ……"
+msgstr ""
+
+msgctxt "46399"
+msgid ""
+"オレ、今まで、\n"
+"みんなとおもちゃで遊んだこと、ぜんぜんないから、\n"
+"……もっといろんなことして遊んでみたいんだ。"
+msgstr ""
+
+msgctxt "46510"
+msgid "なるほど、そういうことか。"
+msgstr ""
+
+msgctxt "46537"
+msgid ""
+"だからお願いだよ。おっちゃんのいらないもの、\n"
+"なんでもいいから、なんかちょうだい！"
+msgstr ""
+
+msgctxt "46620"
+msgid ""
+"あ、おっちゃん！　いらないもの持ってないかな？\n"
+"なんでもいいから、なんかちょうだい！"
+msgstr ""
+
+msgctxt "46705"
+msgid ""
+"……何かやりたいのはやまやまだが、\n"
+"今はいらないものを持ってないんだ。"
+msgstr ""
+
+msgctxt "46776"
+msgid "うーんそっか。それなら仕方ないなぁ。"
+msgstr ""
+
+msgctxt "46813"
+msgid ""
+"そしたらさぁ、約束！\n"
+"何かいらないものができたらちょうだいね！"
+msgstr ""
+
+msgctxt "46876"
+msgid "わかった。覚えておく。"
+msgstr ""
+
+msgctxt "46899"
+msgid "絶対だよ～！"
+msgstr ""
+
+msgctxt "46912"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46913"
+msgid "こんなものはどうだ？"
+msgstr ""
+
+msgctxt "46934"
+msgid "えー！　な、なんだこれ！"
+msgstr ""
+
+msgctxt "46959"
+msgid "だめか。それなら……"
+msgstr ""
+
+msgctxt "46980"
+msgid ""
+"ううん！　これも、すごくいいよ！\n"
+"なんだよこれー！　あはははは！"
+msgstr ""
+
+msgctxt "47045"
+msgid ""
+"（また気に入ってもらえたようだ……\n"
+"　相変わらず子供の趣味はわからん）"
+msgstr ""
+
+msgctxt "47116"
+msgid ""
+"おっちゃん、ありがとう！\n"
+"これ、さっそくみんなに見せびらかしてくるよ！"
+msgstr ""
+
+msgctxt "47187"
+msgid "そ、そうか。"
+msgstr ""
+
+msgctxt "47200"
+msgid "またおはなししようね！　じゃあね！"
+msgstr ""
+
+msgctxt "47235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47240"
+msgid "あ、おっちゃん！"
+msgstr ""
+
+msgctxt "47257"
+msgid "ん？　あぁ、お前か。"
+msgstr ""
+
+msgctxt "47278"
+msgid ""
+"この前はありがとう！\n"
+"おっちゃんがくれたおもちゃで、\n"
+"みんなと一緒に一日中遊んでたよ！"
+msgstr ""
+
+msgctxt "47365"
+msgid ""
+"（あんなもので一日中遊べるものなのか……\n"
+"　子供はすごいな）"
+msgstr ""
+
+msgctxt "47426"
+msgid "よかったな。"
+msgstr ""
+
+msgctxt "47439"
+msgid "うん！　おっちゃんのおかげだよ！"
+msgstr ""
+
+msgctxt "47472"
+msgid ""
+"……それでさ、お願いがあるんだけど、\n"
+"また、いらないものくれないかな？"
+msgstr ""
+
+msgctxt "47543"
+msgid "ん？　前のじゃだめなのか？"
+msgstr ""
+
+msgctxt "47570"
+msgid "だめってわけじゃないけどさぁ……"
+msgstr ""
+
+msgctxt "47603"
+msgid ""
+"オレ、今まで、\n"
+"みんなとおもちゃで遊んだこと、ぜんぜんないから、\n"
+"……もっといろんなことして遊んでみたいんだ。"
+msgstr ""
+
+msgctxt "47714"
+msgid "なるほど、そういうことか。"
+msgstr ""
+
+msgctxt "47741"
+msgid ""
+"だからお願いだよ。おっちゃんのいらないもの、\n"
+"なんでもいいから、なんかちょうだい！"
+msgstr ""
+
+msgctxt "47824"
+msgid ""
+"あ、おっちゃん！　いらないもの持ってないかな？\n"
+"なんでもいいから、なんかちょうだい！"
+msgstr ""
+
+msgctxt "47909"
+msgid ""
+"……何かやりたいのはやまやまだが、\n"
+"今はいらないものを持ってないんだ。"
+msgstr ""
+
+msgctxt "47980"
+msgid "うーんそっか。それなら仕方ないなぁ。"
+msgstr ""
+
+msgctxt "48017"
+msgid ""
+"そしたらさぁ、約束！\n"
+"何かいらないものができたらちょうだいね！"
+msgstr ""
+
+msgctxt "48080"
+msgid "わかった。覚えておく。"
+msgstr ""
+
+msgctxt "48103"
+msgid "絶対だよ～！"
+msgstr ""
+
+msgctxt "48116"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48117"
+msgid "こんなものはどうだ？"
+msgstr ""
+
+msgctxt "48138"
+msgid "えー！　な、なんだこれ！"
+msgstr ""
+
+msgctxt "48163"
+msgid "だめか。それなら……"
+msgstr ""
+
+msgctxt "48184"
+msgid ""
+"ううん！　これも、すごくいいよ！\n"
+"なんだよこれー！　あはははは！"
+msgstr ""
+
+msgctxt "48249"
+msgid ""
+"（また気に入ってもらえたようだ……\n"
+"　相変わらず子供の趣味はわからん）"
+msgstr ""
+
+msgctxt "48320"
+msgid ""
+"おっちゃん、ありがとう！\n"
+"これ、さっそくみんなに見せびらかしてくるよ！"
+msgstr ""
+
+msgctxt "48391"
+msgid "そ、そうか。"
+msgstr ""
+
+msgctxt "48404"
+msgid "またおはなししようね！　じゃあね！"
+msgstr ""
+
+msgctxt "48439"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48440"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48441"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48442"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48443"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48444"
+msgid "あ、おっちゃん！"
+msgstr ""
+
+msgctxt "48461"
+msgid "ん？　あぁ、お前か。"
+msgstr ""
+
+msgctxt "48482"
+msgid ""
+"この前はありがとう！\n"
+"おっちゃんがくれたおもちゃで、\n"
+"みんなと一緒に一日中遊んでたよ！"
+msgstr ""
+
+msgctxt "48569"
+msgid ""
+"（あんなもので一日中遊べるものなのか……\n"
+"　子供はすごいな）"
+msgstr ""
+
+msgctxt "48630"
+msgid "よかったな。"
+msgstr ""
+
+msgctxt "48643"
+msgid "うん！　おっちゃんのおかげだよ！"
+msgstr ""
+
+msgctxt "48676"
+msgid ""
+"……それでさ、お願いがあるんだけど、\n"
+"また、いらないものくれないかな？"
+msgstr ""
+
+msgctxt "48747"
+msgid "ん？　前のじゃだめなのか？"
+msgstr ""
+
+msgctxt "48774"
+msgid "だめってわけじゃないけどさぁ……"
+msgstr ""
+
+msgctxt "48807"
+msgid ""
+"オレ、今まで、\n"
+"みんなとおもちゃで遊んだこと、ぜんぜんないから、\n"
+"……もっといろんなことして遊んでみたいんだ。"
+msgstr ""
+
+msgctxt "48918"
+msgid "なるほど、そういうことか。"
+msgstr ""
+
+msgctxt "48945"
+msgid ""
+"だからお願いだよ。おっちゃんのいらないもの、\n"
+"なんでもいいから、なんかちょうだい！"
+msgstr ""
+
+msgctxt "49028"
+msgid ""
+"あ、おっちゃん！　いらないもの持ってないかな？\n"
+"なんでもいいから、なんかちょうだい！"
+msgstr ""
+
+msgctxt "49113"
+msgid ""
+"……何かやりたいのはやまやまだが、\n"
+"今はいらないものを持ってないんだ。"
+msgstr ""
+
+msgctxt "49184"
+msgid "うーんそっか。それなら仕方ないなぁ。"
+msgstr ""
+
+msgctxt "49221"
+msgid ""
+"そしたらさぁ、約束！\n"
+"何かいらないものができたらちょうだいね！"
+msgstr ""
+
+msgctxt "49284"
+msgid "わかった。覚えておく。"
+msgstr ""
+
+msgctxt "49307"
+msgid "絶対だよ～！"
+msgstr ""
+
+msgctxt "49320"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49321"
+msgid "こんなものはどうだ？"
+msgstr ""
+
+msgctxt "49342"
+msgid "えー！　な、なんだこれ！"
+msgstr ""
+
+msgctxt "49367"
+msgid "だめか。それなら……"
+msgstr ""
+
+msgctxt "49388"
+msgid ""
+"ううん！　これも、すごくいいよ！\n"
+"なんだよこれー！　あはははは！"
+msgstr ""
+
+msgctxt "49453"
+msgid ""
+"（また気に入ってもらえたようだ……\n"
+"　相変わらず子供の趣味はわからん）"
+msgstr ""
+
+msgctxt "49524"
+msgid ""
+"おっちゃん、ありがとう！\n"
+"これ、さっそくみんなに見せびらかしてくるよ！"
+msgstr ""
+
+msgctxt "49595"
+msgid "そ、そうか。"
+msgstr ""
+
+msgctxt "49608"
+msgid "またおはなししようね！　じゃあね！"
+msgstr ""
+
+msgctxt "49643"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49644"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49645"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49646"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49647"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49648"
+msgid "あ、おっちゃん！"
+msgstr ""
+
+msgctxt "49665"
+msgid "ん？　あぁ、お前か。"
+msgstr ""
+
+msgctxt "49686"
+msgid ""
+"この前はありがとう！\n"
+"おっちゃんがくれたおもちゃで、\n"
+"みんなと一緒に一日中遊んでたよ！"
+msgstr ""
+
+msgctxt "49773"
+msgid ""
+"（あんなもので一日中遊べるものなのか……\n"
+"　子供はすごいな）"
+msgstr ""
+
+msgctxt "49834"
+msgid "よかったな。"
+msgstr ""
+
+msgctxt "49847"
+msgid "うん！　おっちゃんのおかげだよ！"
+msgstr ""
+
+msgctxt "49880"
+msgid ""
+"……それでさ、お願いがあるんだけど、\n"
+"また、いらないものくれないかな？"
+msgstr ""
+
+msgctxt "49951"
+msgid "ん？　前のじゃだめなのか？"
+msgstr ""
+
+msgctxt "49978"
+msgid "だめってわけじゃないけどさぁ……"
+msgstr ""
+
+msgctxt "50011"
+msgid ""
+"オレ、今まで、\n"
+"みんなとおもちゃで遊んだこと、ぜんぜんないから、\n"
+"……もっといろんなことして遊んでみたいんだ。"
+msgstr ""
+
+msgctxt "50122"
+msgid "なるほど、そういうことか。"
+msgstr ""
+
+msgctxt "50149"
+msgid ""
+"だからお願いだよ。おっちゃんのいらないもの、\n"
+"なんでもいいから、なんかちょうだい！"
+msgstr ""
+
+msgctxt "50232"
+msgid ""
+"あ、おっちゃん！　いらないもの持ってないかな？\n"
+"なんでもいいから、なんかちょうだい！"
+msgstr ""
+
+msgctxt "50317"
+msgid ""
+"……何かやりたいのはやまやまだが、\n"
+"今はいらないものを持ってないんだ。"
+msgstr ""
+
+msgctxt "50388"
+msgid "うーんそっか。それなら仕方ないなぁ。"
+msgstr ""
+
+msgctxt "50425"
+msgid ""
+"そしたらさぁ、約束！\n"
+"何かいらないものができたらちょうだいね！"
+msgstr ""
+
+msgctxt "50488"
+msgid "わかった。覚えておく。"
+msgstr ""
+
+msgctxt "50511"
+msgid "絶対だよ～！"
+msgstr ""
+
+msgctxt "50524"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50525"
+msgid "こんなものはどうだ？"
+msgstr ""
+
+msgctxt "50546"
+msgid "えー！　な、なんだこれ！"
+msgstr ""
+
+msgctxt "50571"
+msgid "だめか。それなら……"
+msgstr ""
+
+msgctxt "50592"
+msgid ""
+"ううん！　これも、すごくいいよ！\n"
+"なんだよこれー！　あはははは！"
+msgstr ""
+
+msgctxt "50657"
+msgid ""
+"（また気に入ってもらえたようだ……\n"
+"　相変わらず子供の趣味はわからん）"
+msgstr ""
+
+msgctxt "50728"
+msgid ""
+"おっちゃん、ありがとう！\n"
+"これ、さっそくみんなに見せびらかしてくるよ！"
+msgstr ""
+
+msgctxt "50799"
+msgid "そ、そうか。"
+msgstr ""
+
+msgctxt "50812"
+msgid "またおはなししようね！　じゃあね！"
+msgstr ""
+
+msgctxt "50847"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50848"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50849"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50850"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50851"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50852"
+msgid ""
+"だからお願いだよ。おっちゃんのいらないもの、\n"
+"なんでもいいから、なんかちょうだい！"
+msgstr ""
+
+msgctxt "50935"
+msgid ""
+"あ、おっちゃん！　いらないもの持ってないかな？\n"
+"なんでもいいから、なんかちょうだい！"
+msgstr ""
+
+msgctxt "51020"
+msgid ""
+"……何かやりたいのはやまやまだが、\n"
+"今はいらないものを持ってないんだ。"
+msgstr ""
+
+msgctxt "51091"
+msgid "うーんそっか。それなら仕方ないなぁ。"
+msgstr ""
+
+msgctxt "51128"
+msgid ""
+"そしたらさぁ、約束！\n"
+"何かいらないものができたらちょうだいね！"
+msgstr ""
+
+msgctxt "51191"
+msgid "わかった。覚えておく。"
+msgstr ""
+
+msgctxt "51214"
+msgid "絶対だよ～！"
+msgstr ""
+
+msgctxt "51227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51228"
+msgid "こんなものはどうだ？"
+msgstr ""
+
+msgctxt "51249"
+msgid "な、なんだこれ！"
+msgstr ""
+
+msgctxt "51266"
+msgid "だめか。それなら……"
+msgstr ""
+
+msgctxt "51287"
+msgid ""
+"ううん！　これ、すごくいいよ！\n"
+"なんだこれ！　あはは！"
+msgstr ""
+
+msgctxt "51342"
+msgid ""
+"（気に入ってもらえたようだ……\n"
+"　子供の趣味はわからんな）"
+msgstr ""
+
+msgctxt "51401"
+msgid ""
+"おっちゃん、ありがとう！\n"
+"これ、さっそくみんなに見せびらかしてくるよ！"
+msgstr ""
+
+msgctxt "51472"
+msgid "そ、そうか。"
+msgstr ""
+
+msgctxt "51485"
+msgid "またおはなししようね！　じゃあね！"
+msgstr ""
+
+msgctxt "51520"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51521"
+msgid ""
+"「がらくた少年」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「がらくた少年」と交流してみましょう。"
+msgstr ""
+
+msgctxt "51742"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51743"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51744"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51745"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51746"
+msgid ""
+"だからお願いだよ。おっちゃんのいらないもの、\n"
+"なんでもいいから、なんかちょうだい！"
+msgstr ""
+
+msgctxt "51829"
+msgid ""
+"あ、おっちゃん！　いらないもの持ってないかな？\n"
+"なんでもいいから、なんかちょうだい！"
+msgstr ""
+
+msgctxt "51914"
+msgid ""
+"……何かやりたいのはやまやまだが、\n"
+"今はいらないものを持ってないんだ。"
+msgstr ""
+
+msgctxt "51985"
+msgid "うーんそっか。それなら仕方ないなぁ。"
+msgstr ""
+
+msgctxt "52022"
+msgid ""
+"そしたらさぁ、約束！\n"
+"何かいらないものができたらちょうだいね！"
+msgstr ""
+
+msgctxt "52085"
+msgid "わかった。覚えておく。"
+msgstr ""
+
+msgctxt "52108"
+msgid "絶対だよ～！"
+msgstr ""
+
+msgctxt "52121"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52122"
+msgid "こんなものはどうだ？"
+msgstr ""
+
+msgctxt "52143"
+msgid "な、なんだこれ！"
+msgstr ""
+
+msgctxt "52160"
+msgid "だめか。それなら……"
+msgstr ""
+
+msgctxt "52181"
+msgid ""
+"ううん！　これ、すごくいいよ！\n"
+"なんだこれ！　あはは！"
+msgstr ""
+
+msgctxt "52236"
+msgid ""
+"（気に入ってもらえたようだ……\n"
+"　子供の趣味はわからんな）"
+msgstr ""
+
+msgctxt "52295"
+msgid ""
+"おっちゃん、ありがとう！\n"
+"これ、さっそくみんなに見せびらかしてくるよ！"
+msgstr ""
+
+msgctxt "52366"
+msgid "そ、そうか。"
+msgstr ""
+
+msgctxt "52379"
+msgid "またおはなししようね！　じゃあね！"
+msgstr ""
+
+msgctxt "52414"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52415"
+msgid ""
+"「がらくた少年」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「がらくた少年」と交流してみましょう。"
+msgstr ""
+
+msgctxt "52636"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52637"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52638"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52639"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54144"
+msgid "がらくた少年"
+msgstr ""
+
+msgctxt "54157"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "54167"
+msgid "渡す"
+msgstr ""
+
+msgctxt "54172"
+msgid "渡さない"
+msgstr ""
+
+msgctxt "54181"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "54189"
+msgid "N"
+msgstr ""
+
+msgctxt "54191"
+msgid "Player"
+msgstr ""
+
+msgctxt "54198"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "54208"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "54219"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "54228"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "54233"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "54245"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "54256"
+msgid "dummy"
+msgstr ""
+
+msgctxt "54262"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "54273"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "54286"
+msgid "kaiwabgm_sub_hartwarm_01"
+msgstr ""
+
+msgctxt "54311"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "54322"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "54335"
+msgid "何かやる"
+msgstr ""
+
+msgctxt "54344"
+msgid "何もやらない"
+msgstr ""
+
+msgctxt "54357"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "54368"
+msgid "少年"
+msgstr ""
+
+msgctxt "54373"
+msgid "がらくた少年との絆"
+msgstr ""

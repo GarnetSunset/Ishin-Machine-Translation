@@ -1,0 +1,458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7768"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7769"
+msgid ""
+"よし、それじゃ舞台は用意できた。\n"
+"あとは西郷と桂をどう誘いだすかだが……"
+msgstr ""
+
+msgctxt "7842"
+msgid "西郷は俺が引き受ける。"
+msgstr ""
+
+msgctxt "7865"
+msgid "あんたが？"
+msgstr ""
+
+msgctxt "7876"
+msgid "今の西郷が一面識もない人間に会うとは思えんが。"
+msgstr ""
+
+msgctxt "7923"
+msgid ""
+"けど俺は御陵衛士とやらに面が割れてねえから\n"
+"あんたらと違って目立たずに動ける……"
+msgstr ""
+
+msgctxt "8004"
+msgid ""
+"それに西郷にはあいさつ代わりの\n"
+"とっておきのネタを土佐で手に入れてきた。"
+msgstr ""
+
+msgctxt "8077"
+msgid "とっておきのネタ？"
+msgstr ""
+
+msgctxt "8096"
+msgid ""
+"ああ。\n"
+"……もう一人の「坂本龍馬」を名乗る偽者の顔さ。"
+msgstr ""
+
+msgctxt "8151"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8152"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8153"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8154"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8155"
+msgid "!?　な、なんやこれ……!!"
+msgstr ""
+
+msgctxt "8180"
+msgid ""
+"“ほとぐらふ”ってやつだが……\n"
+"どうだ、龍馬？　この顔、懐かしいだろ？"
+msgstr ""
+
+msgctxt "8251"
+msgid "ああ……　武市、半平太だ。"
+msgstr ""
+
+msgctxt "8278"
+msgid "誰やそれ？"
+msgstr ""
+
+msgctxt "8289"
+msgid ""
+"俺の兄弟分で土佐勤王党の盟主。\n"
+"土佐で切腹したと言われていたが……　やはりな。"
+msgstr ""
+
+msgctxt "8368"
+msgid "その人です。"
+msgstr ""
+
+msgctxt "8381"
+msgid "？"
+msgstr ""
+
+msgctxt "8384"
+msgid "その人が、私が知ってる、坂本龍馬さんです……"
+msgstr ""
+
+msgctxt "8429"
+msgid "なんやて？"
+msgstr ""
+
+msgctxt "8440"
+msgid "せや、この人やった。"
+msgstr ""
+
+msgctxt "8461"
+msgid ""
+"一（はじめ）ちゃん……\n"
+"お前、この武市が坂本龍馬名乗っとること、\n"
+"知っとったんか？"
+msgstr ""
+
+msgctxt "8544"
+msgid ""
+"岡田以蔵からそう聞いてはいた。\n"
+"だが……　これが動かぬ証拠ってやつらしい。"
+msgstr ""
+
+msgctxt "8619"
+msgid ""
+"俺はこの“ほとぐらふ”を見せて\n"
+"西郷に会見を申し込むつもりだ。"
+msgstr ""
+
+msgctxt "8682"
+msgid ""
+"西郷はもうおそらく「坂本龍馬」の正体を\n"
+"知っているだろうが……"
+msgstr ""
+
+msgctxt "8745"
+msgid ""
+"薩長の関係者でも武市が「坂本龍馬」を\n"
+"名乗っていると知る人間は少ねえはずだからな。"
+msgstr ""
+
+msgctxt "8828"
+msgid ""
+"これで西郷が話を聞きたくなる程度には\n"
+"興味を引けると思うんだが。"
+msgstr ""
+
+msgctxt "8893"
+msgid ""
+"ああ、悪くない。……だが長州の方はどうする。\n"
+"桂は西郷と違ってどこに現れるかわからん。\n"
+"会う手段がない。"
+msgstr ""
+
+msgctxt "8998"
+msgid ""
+"ひとつだけある。\n"
+"……幾松という女に近づけば桂に近づけるはずだ。"
+msgstr ""
+
+msgctxt "9063"
+msgid ""
+"桂が秘密裏にやってる松之井という店の女将だ。\n"
+"以前その女を通じて桂と会ったことがある。"
+msgstr ""
+
+msgctxt "9150"
+msgid "それじゃ桂の方は俺が行きますよ。"
+msgstr ""
+
+msgctxt "9183"
+msgid "平助。"
+msgstr ""
+
+msgctxt "9190"
+msgid ""
+"俺ならある程度自由に街で動けますから。\n"
+"今の“ほとぐらふ”でしたっけ？\n"
+"そのハナシもしちゃっていいですよね？"
+msgstr ""
+
+msgctxt "9299"
+msgid ""
+"せやけどお前には伊東にこの近江屋を勧める仕事も\n"
+"あるやろ。"
+msgstr ""
+
+msgctxt "9358"
+msgid ""
+"せや。それにお前が桂に会いに行く理由を\n"
+"伊東らにどない説明する気や？"
+msgstr ""
+
+msgctxt "9427"
+msgid ""
+"さあ……\n"
+"飲みに行くふりしてシレっと行ってきますよ。"
+msgstr ""
+
+msgctxt "9480"
+msgid ""
+"藤堂……　お前は今危ねえ橋を渡っている。\n"
+"くれぐれも伊東たちに気づかれないように\n"
+"用心しろよ。"
+msgstr ""
+
+msgctxt "9575"
+msgid "分かってますって。"
+msgstr ""
+
+msgctxt "9594"
+msgid ""
+"よし、では我々は日の落ちる前に屯所に戻ろう。\n"
+"伊東たちの目を俺たちに引きつけるんだ。"
+msgstr ""
+
+msgctxt "9679"
+msgid "そうすれば中岡も平助も動きやすくなる……"
+msgstr ""
+
+msgctxt "9720"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9721"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11692"
+msgid "中岡"
+msgstr ""
+
+msgctxt "11697"
+msgid "date_c13_015_01"
+msgstr ""
+
+msgctxt "11713"
+msgid "date_c13_015_01b"
+msgstr ""
+
+msgctxt "11730"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "11735"
+msgid "kiryu_c13_015_01"
+msgstr ""
+
+msgctxt "11752"
+msgid "土方"
+msgstr ""
+
+msgctxt "11757"
+msgid "hijikata_c13_015_01b"
+msgstr ""
+
+msgctxt "11778"
+msgid "date_c13_015_02b"
+msgstr ""
+
+msgctxt "11795"
+msgid "date_c13_015_02bb"
+msgstr ""
+
+msgctxt "11813"
+msgid "hijikata_c13_015_01"
+msgstr ""
+
+msgctxt "11833"
+msgid "date_c13_015_03b"
+msgstr ""
+
+msgctxt "11850"
+msgid "ACSCE1310"
+msgstr ""
+
+msgctxt "11860"
+msgid "C13015_NAK_A"
+msgstr ""
+
+msgctxt "11873"
+msgid "C13015_NAK_0"
+msgstr ""
+
+msgctxt "11886"
+msgid "C13015_KRU_B"
+msgstr ""
+
+msgctxt "11899"
+msgid "C13015_KRU_A_to_B"
+msgstr ""
+
+msgctxt "11917"
+msgid "C13015_NAG_B"
+msgstr ""
+
+msgctxt "11930"
+msgid "C13015_NAG_A_to_B"
+msgstr ""
+
+msgctxt "11948"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "11955"
+msgid "沖田"
+msgstr ""
+
+msgctxt "11960"
+msgid "kaiwabgm_fuon_01"
+msgstr ""
+
+msgctxt "11977"
+msgid "majima_c13_015_02"
+msgstr ""
+
+msgctxt "11995"
+msgid "date_c13_015_05b"
+msgstr ""
+
+msgctxt "12012"
+msgid "kiryu_c13_015_03"
+msgstr ""
+
+msgctxt "12029"
+msgid "majima_c13_015_02b"
+msgstr ""
+
+msgctxt "12048"
+msgid "kiryu_c13_015_03b"
+msgstr ""
+
+msgctxt "12066"
+msgid "おりょう"
+msgstr ""
+
+msgctxt "12075"
+msgid "oryo_c13_015_01"
+msgstr ""
+
+msgctxt "12091"
+msgid "kiryu_c13_015_04"
+msgstr ""
+
+msgctxt "12108"
+msgid "oryo_c13_015_02"
+msgstr ""
+
+msgctxt "12124"
+msgid "永倉"
+msgstr ""
+
+msgctxt "12129"
+msgid "saejima_c13_015_01"
+msgstr ""
+
+msgctxt "12148"
+msgid "お登勢"
+msgstr ""
+
+msgctxt "12155"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "12166"
+msgid "ADV_P_KRU_AGURA"
+msgstr ""
+
+msgctxt "12182"
+msgid "otose_c13_015_01"
+msgstr ""
+
+msgctxt "12199"
+msgid "majima_c13_015_03b"
+msgstr ""
+
+msgctxt "12218"
+msgid "kiryu_c13_015_05"
+msgstr ""
+
+msgctxt "12235"
+msgid "date_c13_015_06b"
+msgstr ""
+
+msgctxt "12252"
+msgid "date_c13_015_06bb"
+msgstr ""
+
+msgctxt "12270"
+msgid "date_c13_015_06bc"
+msgstr ""
+
+msgctxt "12288"
+msgid "date_c13_015_06bd"
+msgstr ""
+
+msgctxt "12306"
+msgid "hijikata_c13_015_02"
+msgstr ""
+
+msgctxt "12326"
+msgid "kiryu_c13_015_06"
+msgstr ""
+
+msgctxt "12343"
+msgid "kiryu_c13_015_06b"
+msgstr ""
+
+msgctxt "12361"
+msgid "藤堂"
+msgstr ""
+
+msgctxt "12366"
+msgid "todo_c13_015_01"
+msgstr ""
+
+msgctxt "12382"
+msgid "hijikata_c13_015_04"
+msgstr ""
+
+msgctxt "12402"
+msgid "todo_c13_015_02"
+msgstr ""
+
+msgctxt "12418"
+msgid "saejima_c13_015_02"
+msgstr ""
+
+msgctxt "12437"
+msgid "majima_c13_015_04b"
+msgstr ""
+
+msgctxt "12456"
+msgid "todo_c13_015_03"
+msgstr ""
+
+msgctxt "12472"
+msgid "kiryu_c13_015_07"
+msgstr ""
+
+msgctxt "12489"
+msgid "todo_c13_015_04"
+msgstr ""
+
+msgctxt "12505"
+msgid "hijikata_c13_015_05"
+msgstr ""
+
+msgctxt "12525"
+msgid "hijikata_c13_015_05b"
+msgstr ""

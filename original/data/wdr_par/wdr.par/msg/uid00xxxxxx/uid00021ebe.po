@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2384"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2385"
+msgid "戻ったか、龍馬。"
+msgstr ""
+
+msgctxt "2402"
+msgid "ああ、それで西郷の方はどうだった？"
+msgstr ""
+
+msgctxt "2437"
+msgid ""
+"俺が予想した通りだったぜ。\n"
+"例の“ほとぐらふ”を見せた途端、\n"
+"食いついてきやがったぜ。"
+msgstr ""
+
+msgctxt "2524"
+msgid ""
+"あとは、桂がこの話に乗ってくれるか\n"
+"どうかにかかってる。"
+msgstr ""
+
+msgctxt "2581"
+msgid ""
+"たしか、桂については、藤堂が幾松の店へ\n"
+"向かってたはずだ。\n"
+"そろそろ、戻ってきてもいい頃だが……"
+msgstr ""
+
+msgctxt "2678"
+msgid ""
+"怪しいな……\n"
+"その店へ行くぞ、龍馬。"
+msgstr ""
+
+msgctxt "2715"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "2726"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2727"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2728"
+msgid "……何だ？"
+msgstr ""
+
+msgctxt "2739"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2740"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2741"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3112"
+msgid "中岡"
+msgstr ""
+
+msgctxt "3117"
+msgid "date_adv_c13_020_001"
+msgstr ""
+
+msgctxt "3138"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "3143"
+msgid "kiryu_adv_c13_020_001"
+msgstr ""
+
+msgctxt "3165"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3174"
+msgid "date_adv_c13_020_002"
+msgstr ""
+
+msgctxt "3195"
+msgid "date_adv_c13_020_003"
+msgstr ""
+
+msgctxt "3216"
+msgid "kiryu_adv_c13_020_002"
+msgstr ""
+
+msgctxt "3238"
+msgid "date_adv_c13_020_004"
+msgstr ""
+
+msgctxt "3259"
+msgid "kiryu_adv_c13_020_003"
+msgstr ""
+
+msgctxt "3281"
+msgid "kiryu_05_050_07"
+msgstr ""
+
+msgctxt "3297"
+msgid "0"
+msgstr ""

@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "4404"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4405"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4406"
+msgid ""
+"（井上の死体が見つかったのは……\n"
+"　たしか、この辺りって話だったな）"
+msgstr ""
+
+msgctxt "4475"
+msgid "斎藤さん。"
+msgstr ""
+
+msgctxt "4486"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4487"
+msgid "……山崎か。"
+msgstr ""
+
+msgctxt "4500"
+msgid "伊東さんから伝言を頼まれましてね。"
+msgstr ""
+
+msgctxt "4535"
+msgid "参謀の伊東が？"
+msgstr ""
+
+msgctxt "4550"
+msgid ""
+"伊東さんもこんなところで新選組を潰されたんじゃ\n"
+"たまったもんじゃないですからね。"
+msgstr ""
+
+msgctxt "4631"
+msgid "何としても沖田さんの暴走を止めて欲しいと。"
+msgstr ""
+
+msgctxt "4674"
+msgid "それで、言伝ってのは？"
+msgstr ""
+
+msgctxt "4697"
+msgid ""
+"沖田さんは今、\n"
+"骸街で一番隊に招集をかけているようです。"
+msgstr ""
+
+msgctxt "4754"
+msgid "なに？"
+msgstr ""
+
+msgctxt "4761"
+msgid ""
+"井上さん殺しの犯人に目星をつけたようで……\n"
+"なんでも虚無僧を探しているとか。"
+msgstr ""
+
+msgctxt "4838"
+msgid "虚無僧……？"
+msgstr ""
+
+msgctxt "4851"
+msgid ""
+"御存知ないですか？\n"
+"深い編笠かぶって、よく尺八吹いてる連中ですが。"
+msgstr ""
+
+msgctxt "4918"
+msgid ""
+"いや虚無僧のことは分かる……\n"
+"そうじゃなくて、虚無僧が井上を殺したというのか？"
+msgstr ""
+
+msgctxt "4997"
+msgid ""
+"さあ。私にはわかりませんが\n"
+"沖田さんはなにかつかんだらしい。"
+msgstr ""
+
+msgctxt "5058"
+msgid ""
+"ですが伊東さんは、とにかく\n"
+"一番隊の暴走を止めるようにとのことです。"
+msgstr ""
+
+msgctxt "5127"
+msgid "斎藤さんには骸街に向かっていただきます。"
+msgstr ""
+
+msgctxt "5168"
+msgid "……山崎。"
+msgstr ""
+
+msgctxt "5179"
+msgid "は？"
+msgstr ""
+
+msgctxt "5184"
+msgid "伊東に伝えとけ。"
+msgstr ""
+
+msgctxt "5201"
+msgid "たまにはてめえも自分の足を動かせってな。"
+msgstr ""
+
+msgctxt "5242"
+msgid "フフ……　いいでしょう、お伝えしておきます。"
+msgstr ""
+
+msgctxt "5287"
+msgid "ですが一番隊の件、たしかにお願いしましたよ。"
+msgstr ""
+
+msgctxt "5332"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5333"
+msgid ""
+"（……骸街に行くか。\n"
+"　沖田と一番隊が集まっているはずだ）"
+msgstr ""
+
+msgctxt "5392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6384"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6390"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "6395"
+msgid "山崎"
+msgstr ""
+
+msgctxt "6400"
+msgid "yamazaki_c10_040_01"
+msgstr ""
+
+msgctxt "6420"
+msgid "kiryu_c10_040_01"
+msgstr ""
+
+msgctxt "6437"
+msgid "yamazaki_c10_040_02"
+msgstr ""
+
+msgctxt "6457"
+msgid "kiryu_c10_040_02"
+msgstr ""
+
+msgctxt "6474"
+msgid "yamazaki_c10_040_03"
+msgstr ""
+
+msgctxt "6494"
+msgid "yamazaki_c10_040_03b"
+msgstr ""
+
+msgctxt "6515"
+msgid "kiryu_c10_040_03"
+msgstr ""
+
+msgctxt "6532"
+msgid "yamazaki_c10_040_04"
+msgstr ""
+
+msgctxt "6552"
+msgid "kiryu_c10_040_04"
+msgstr ""
+
+msgctxt "6569"
+msgid "yamazaki_c10_040_05"
+msgstr ""
+
+msgctxt "6589"
+msgid "kiryu_c10_040_05"
+msgstr ""
+
+msgctxt "6606"
+msgid "yamazaki_c10_040_06"
+msgstr ""
+
+msgctxt "6626"
+msgid "kiryu_c10_040_06"
+msgstr ""
+
+msgctxt "6643"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6651"
+msgid "yamazaki_c10_040_07"
+msgstr ""
+
+msgctxt "6671"
+msgid "yamazaki_c10_040_07b"
+msgstr ""
+
+msgctxt "6692"
+msgid "yamazaki_c10_040_07c"
+msgstr ""
+
+msgctxt "6713"
+msgid "kiryu_c10_040_07"
+msgstr ""
+
+msgctxt "6730"
+msgid "yamazaki_c10_040_08"
+msgstr ""
+
+msgctxt "6750"
+msgid "kiryu_c10_040_08"
+msgstr ""
+
+msgctxt "6767"
+msgid "kiryu_c10_040_08b"
+msgstr ""
+
+msgctxt "6785"
+msgid "yamazaki_c10_040_09"
+msgstr ""
+
+msgctxt "6805"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6816"
+msgid "yamazaki_c10_040_09b"
+msgstr ""

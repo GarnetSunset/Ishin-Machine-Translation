@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3608"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3609"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3610"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3611"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3612"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3613"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3614"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3617"
+msgid ""
+"（この先が最後の部屋のようだ。\n"
+"　このまま入るか？）"
+msgstr ""
+
+msgctxt "3670"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3671"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3672"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3673"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3674"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3675"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3676"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3677"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3678"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3679"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3680"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3681"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3682"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3683"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3684"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3685"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3686"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3687"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3688"
+msgid "志半ばで……　む、無念……"
+msgstr ""
+
+msgctxt "3715"
+msgid "くそっ……　つ、強い……"
+msgstr ""
+
+msgctxt "3740"
+msgid "と、徳川の犬め……　覚えておけ……"
+msgstr ""
+
+msgctxt "3775"
+msgid "これで終わりだと……　思うなよ……"
+msgstr ""
+
+msgctxt "3810"
+msgid "し、新選組め……"
+msgstr ""
+
+msgctxt "3827"
+msgid "御館様……　すいません……"
+msgstr ""
+
+msgctxt "3854"
+msgid "お……　御館様……"
+msgstr ""
+
+msgctxt "3873"
+msgid "ぐ……　ぐはっ……"
+msgstr ""
+
+msgctxt "3892"
+msgid "くそっ……　ここまでか……"
+msgstr ""
+
+msgctxt "3919"
+msgid "（任務は片付いた、屯所へ戻るか？）"
+msgstr ""
+
+msgctxt "3954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3955"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4112"
+msgid "Player"
+msgstr ""
+
+msgctxt "4119"
+msgid "入る"
+msgstr ""
+
+msgctxt "4124"
+msgid "後にする"
+msgstr ""
+
+msgctxt "4133"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4139"
+msgid "残党"
+msgstr ""
+
+msgctxt "4144"
+msgid "戻らない"
+msgstr ""
+
+msgctxt "4153"
+msgid "屯所に戻る"
+msgstr ""

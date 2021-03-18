@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "4792"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4793"
+msgid ""
+"（この先が豊臣秀武の部屋だ。\n"
+"　このまま入るか？）"
+msgstr ""
+
+msgctxt "4844"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4845"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4846"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4847"
+msgid ""
+"もはや言葉は必要ない。\n"
+"いくぞ！"
+msgstr ""
+
+msgctxt "4880"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4881"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4882"
+msgid ""
+"（この先が豊臣秀武の部屋だ。\n"
+"　このまま入るか？）"
+msgstr ""
+
+msgctxt "4933"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4934"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4937"
+msgid ""
+"（この先が豊臣秀武の部屋のようだ。\n"
+"　このまま入るか？）"
+msgstr ""
+
+msgctxt "4994"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4995"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4996"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4997"
+msgid "よくぞここまで辿り着いたな。"
+msgstr ""
+
+msgctxt "5026"
+msgid ""
+"我が名は豊臣秀武。\n"
+"積年の徳川への恨みを晴らさんと、\n"
+"ここまで兵を集めてきた。"
+msgstr ""
+
+msgctxt "5105"
+msgid ""
+"お前が……\n"
+"豊臣秀武……"
+msgstr ""
+
+msgctxt "5130"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5131"
+msgid ""
+"貴様を倒し、\n"
+"今こそ豊臣の旗を揚げようぞ！"
+msgstr ""
+
+msgctxt "5174"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5175"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5176"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5177"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5178"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5179"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5180"
+msgid "ぐぬぬ……またしても敗れるとは……"
+msgstr ""
+
+msgctxt "5215"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5216"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5217"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5218"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5219"
+msgid ""
+"ぐぬぬ……豊臣の名を語り……\n"
+"ここまで築き上げてきた我が軍勢が、\n"
+"こうも容易く壊滅されるとは……"
+msgstr ""
+
+msgctxt "5316"
+msgid ""
+"我が名は曽田地……曽田地秀武……\n"
+"この乱世に乗じ、天下を狙う我が野望が……"
+msgstr ""
+
+msgctxt "5391"
+msgid ""
+"武人として、この借りは……\n"
+"必ず……　必ず返す……"
+msgstr ""
+
+msgctxt "5442"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5443"
+msgid "（任務は片付いた、屯所へ戻るか？）"
+msgstr ""
+
+msgctxt "5478"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5479"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5800"
+msgid "Player"
+msgstr ""
+
+msgctxt "5807"
+msgid "入る"
+msgstr ""
+
+msgctxt "5812"
+msgid "後にする"
+msgstr ""
+
+msgctxt "5821"
+msgid "曽田地"
+msgstr ""
+
+msgctxt "5828"
+msgid "秀武"
+msgstr ""
+
+msgctxt "5833"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5839"
+msgid "戻らない"
+msgstr ""
+
+msgctxt "5848"
+msgid "屯所に戻る"
+msgstr ""

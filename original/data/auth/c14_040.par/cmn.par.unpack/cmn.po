@@ -1,0 +1,476 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "357252"
+msgid "来たか"
+msgstr ""
+
+msgctxt "357396"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "357540"
+msgid "武市"
+msgstr ""
+
+msgctxt "357684"
+msgid "ここを覚えてるか"
+msgstr ""
+
+msgctxt "357828"
+msgid "親っさんが死んだ場所だ"
+msgstr ""
+
+msgctxt "357972"
+msgid "忘れるわけがない"
+msgstr ""
+
+msgctxt "358116"
+msgid "この１年で土佐は変わった"
+msgstr ""
+
+msgctxt "358260"
+msgid "だがここだけはあの日のままだ"
+msgstr ""
+
+msgctxt "358404"
+msgid "俺がそうさせた"
+msgstr ""
+
+msgctxt "358548"
+msgid "あの日親っさんはな"
+msgstr ""
+
+msgctxt "358692"
+msgid "俺ではなく"
+msgstr ""
+
+msgctxt "358836"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "358980"
+msgid "お前に土佐勤王党を託すつもりだったんだ"
+msgstr ""
+
+msgctxt "359124"
+msgid "何？"
+msgstr ""
+
+msgctxt "359268"
+msgid "気付いてなかったか"
+msgstr ""
+
+msgctxt "359412"
+msgid ""
+"お前はそういう奴だ\n"
+"昔っから"
+msgstr ""
+
+msgctxt "359556"
+msgid "人のために自分を投げ出せちまうくせに"
+msgstr ""
+
+msgctxt "359700"
+msgid "手前のこととなるとサッパリだ"
+msgstr ""
+
+msgctxt "359844"
+msgid "俺は"
+msgstr ""
+
+msgctxt "359988"
+msgid "お前のそういう甘さが許せなかった"
+msgstr ""
+
+msgctxt "360132"
+msgid "そんなお前に土佐を託そうとした親っさんもな"
+msgstr ""
+
+msgctxt "360276"
+msgid "お前は勤王党の盟主でいたいがために"
+msgstr ""
+
+msgctxt "360420"
+msgid "親っさんを殺したっていうのか"
+msgstr ""
+
+msgctxt "360564"
+msgid "前にも言ったはずだ"
+msgstr ""
+
+msgctxt "360708"
+msgid "一介の郷士が土佐を……"
+msgstr ""
+
+msgctxt "360852"
+msgid ""
+"ましてこの国を変えようと本気で想うなら\n"
+"手段になどこだわっていられない"
+msgstr ""
+
+msgctxt "360996"
+msgid "革命には血が必要なんだよ"
+msgstr ""
+
+msgctxt "361140"
+msgid ""
+"お前や親っさんのような甘いやり方じゃ\n"
+"世の中は変わらないんだ"
+msgstr ""
+
+msgctxt "361284"
+msgid "だが親っさんの考えは変わらなかった"
+msgstr ""
+
+msgctxt "361428"
+msgid "だから俺は"
+msgstr ""
+
+msgctxt "361572"
+msgid "親っさんの意志を継ぐために"
+msgstr ""
+
+msgctxt "361716"
+msgid "親っさんを殺したんだ"
+msgstr ""
+
+msgctxt "361860"
+msgid "意志を継ぐために殺すだと？"
+msgstr ""
+
+msgctxt "362004"
+msgid "そんなバカな話があるか！！"
+msgstr ""
+
+msgctxt "362148"
+msgid ""
+"親っさんの意志は\n"
+"土佐を変えろってことだ"
+msgstr ""
+
+msgctxt "362292"
+msgid "だが親っさんはその手段にこだわり過ぎた"
+msgstr ""
+
+msgctxt "362436"
+msgid "血を流さない方法に　な"
+msgstr ""
+
+msgctxt "362580"
+msgid "だから"
+msgstr ""
+
+msgctxt "362724"
+msgid "親っさんの意志を邪魔しているのは"
+msgstr ""
+
+msgctxt "362868"
+msgid ""
+"他ならぬ親っさんの存在\n"
+"そのものだったんだよ"
+msgstr ""
+
+msgctxt "363012"
+msgid ""
+"親っさんの目的を果たすために\n"
+"育てられてきた俺が"
+msgstr ""
+
+msgctxt "363156"
+msgid "その障害を排除するのは"
+msgstr ""
+
+msgctxt "363300"
+msgid "当然のことだろ？"
+msgstr ""
+
+msgctxt "363444"
+msgid "武市"
+msgstr ""
+
+msgctxt "363588"
+msgid "お前……"
+msgstr ""
+
+msgctxt "363732"
+msgid ""
+"こんなことを言っても\n"
+"お前に理解されないのは分かってる"
+msgstr ""
+
+msgctxt "363876"
+msgid "お前は親っさんによく似ているからな"
+msgstr ""
+
+msgctxt "364020"
+msgid "芹沢鴨に親っさんの暗殺を依頼した時から"
+msgstr ""
+
+msgctxt "364164"
+msgid "俺はお前の名……"
+msgstr ""
+
+msgctxt "364308"
+msgid "坂本龍馬の名を騙るようになった"
+msgstr ""
+
+msgctxt "364452"
+msgid "何故だかわかるか？"
+msgstr ""
+
+msgctxt "364596"
+msgid "俺とお前……"
+msgstr ""
+
+msgctxt "364740"
+msgid "どっちが正しいのか　ケリをつけるためさ"
+msgstr ""
+
+msgctxt "364884"
+msgid "俺は俺の信念を貫き"
+msgstr ""
+
+msgctxt "365028"
+msgid "血で世界を変える道を行く"
+msgstr ""
+
+msgctxt "365172"
+msgid ""
+"新選組にいれば\n"
+"いずれ“もう一人の龍馬”の噂は耳に入るだろう"
+msgstr ""
+
+msgctxt "365316"
+msgid "お前なら何もしないわけはない"
+msgstr ""
+
+msgctxt "365460"
+msgid "坂本龍馬の名は"
+msgstr ""
+
+msgctxt "365604"
+msgid "お前への挑戦状だったんだ"
+msgstr ""
+
+msgctxt "365748"
+msgid "挑戦状だと？"
+msgstr ""
+
+msgctxt "365892"
+msgid "坂本龍馬という人間は"
+msgstr ""
+
+msgctxt "366036"
+msgid ""
+"歴史を血で塗り替えた男として\n"
+"語り継がれるか"
+msgstr ""
+
+msgctxt "366180"
+msgid "それとも"
+msgstr ""
+
+msgctxt "366324"
+msgid ""
+"吉田東洋と同じ道を歩んだ男として\n"
+"語り継がれるか"
+msgstr ""
+
+msgctxt "366468"
+msgid "俺とお前のこの１年は"
+msgstr ""
+
+msgctxt "366612"
+msgid ""
+"その決着をつけるための\n"
+"時間だったということだ"
+msgstr ""
+
+msgctxt "366756"
+msgid "どちらにせよ"
+msgstr ""
+
+msgctxt "366900"
+msgid "坂本龍馬は歴史を変えた男として名を刻む"
+msgstr ""
+
+msgctxt "367044"
+msgid ""
+"親っさんの遺志を継いだことに\n"
+"変わりはないと思わないか？"
+msgstr ""
+
+msgctxt "367188"
+msgid "馬鹿なこと言ってんじゃねえ"
+msgstr ""
+
+msgctxt "367332"
+msgid "そんな勝負に"
+msgstr ""
+
+msgctxt "367476"
+msgid "どんな意味があるっていうんだ"
+msgstr ""
+
+msgctxt "367620"
+msgid ""
+"俺にとっちゃ\n"
+"それが何よりも重要だったんだ"
+msgstr ""
+
+msgctxt "367764"
+msgid "その為ならどんな手も使った"
+msgstr ""
+
+msgctxt "367908"
+msgid "お前の動きは逐一報告させたよ"
+msgstr ""
+
+msgctxt "368052"
+msgid "新選組の山崎"
+msgstr ""
+
+msgctxt "368196"
+msgid "それに"
+msgstr ""
+
+msgctxt "368340"
+msgid "宿屋の女を使ってな"
+msgstr ""
+
+msgctxt "368484"
+msgid "おりょうのことか"
+msgstr ""
+
+msgctxt "368628"
+msgid "全て上手くいっていた"
+msgstr ""
+
+msgctxt "368772"
+msgid ""
+"お前が薩長の仲を\n"
+"取り持ったこともうまく利用して"
+msgstr ""
+
+msgctxt "368916"
+msgid ""
+"この国に倒幕戦争を引き起こす寸前まで\n"
+"持っていくこともできた"
+msgstr ""
+
+msgctxt "369060"
+msgid "だが"
+msgstr ""
+
+msgctxt "369204"
+msgid "大政奉還まで成し遂げちまうとはな"
+msgstr ""
+
+msgctxt "369348"
+msgid ""
+"あれには\n"
+"俺も奥の手を使わざるを得なかった"
+msgstr ""
+
+msgctxt "369492"
+msgid "それで"
+msgstr ""
+
+msgctxt "369636"
+msgid "京へ火を"
+msgstr ""
+
+msgctxt "369780"
+msgid "ああ"
+msgstr ""
+
+msgctxt "369924"
+msgid "だがそれすらお前は乗り越えやがった"
+msgstr ""
+
+msgctxt "370068"
+msgid "まさか本気の以蔵すら倒すとはな"
+msgstr ""
+
+msgctxt "370212"
+msgid "愛する女の裏切りさえ受け入れた"
+msgstr ""
+
+msgctxt "370356"
+msgid "どこまで行っても変わらねえよ　お前は"
+msgstr ""
+
+msgctxt "370500"
+msgid "だからお前をここへ呼び出したのさ"
+msgstr ""
+
+msgctxt "370644"
+msgid "俺とお前"
+msgstr ""
+
+msgctxt "370788"
+msgid "誰にも邪魔されず"
+msgstr ""
+
+msgctxt "370932"
+msgid "最後の決着をつけるためにな"
+msgstr ""
+
+msgctxt "371076"
+msgid "それで初めて……"
+msgstr ""
+
+msgctxt "371220"
+msgid "俺は俺の正しさを証明できる"
+msgstr ""
+
+msgctxt "371364"
+msgid "兄弟"
+msgstr ""
+
+msgctxt "371508"
+msgid "兄弟か"
+msgstr ""
+
+msgctxt "371652"
+msgid "懐かしい響きだ"
+msgstr ""
+
+msgctxt "371796"
+msgid "その言葉を聞くと"
+msgstr ""
+
+msgctxt "371940"
+msgid "心の底から"
+msgstr ""
+
+msgctxt "372084"
+msgid "熱いものがこみ上げてくる"
+msgstr ""
+
+msgctxt "372228"
+msgid "だが"
+msgstr ""
+
+msgctxt "372372"
+msgid "もう戻ることなどできない"
+msgstr ""
+
+msgctxt "372516"
+msgid "坂本龍馬として生きた男は"
+msgstr ""
+
+msgctxt "372660"
+msgid "２人いらない"
+msgstr ""

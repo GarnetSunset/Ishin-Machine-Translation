@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "りく"
+msgstr ""
+
+msgctxt "NAME_1"
+msgid "かぐや"
+msgstr ""
+
+msgctxt "NAME_2"
+msgid "ほのか"
+msgstr ""
+
+msgctxt "NAME_3"
+msgid "詩音"
+msgstr ""
+
+msgctxt "NAME_4"
+msgid "桜咲ひなた"
+msgstr ""
+
+msgctxt "CLUB_0"
+msgid "Ｌａ　Ｓｅｉｎｅ"
+msgstr ""
+
+msgctxt "CLUB_1"
+msgid "ローズヒップ"
+msgstr ""
+
+msgctxt "CLUB_2"
+msgid "ＰＲＩＭＥ"
+msgstr ""
+
+msgctxt "CLUB_3"
+msgid "Ｃｌｕｂ　ＥＤＥＮ"
+msgstr ""
+
+msgctxt "CLUB_4"
+msgid "ＥＬＩＳＥ"
+msgstr ""
+
+msgctxt "BIRTHDAY_0"
+msgid "7月3日"
+msgstr ""
+
+msgctxt "BIRTHDAY_1"
+msgid "11月17日"
+msgstr ""
+
+msgctxt "BIRTHDAY_2"
+msgid "9月21日"
+msgstr ""
+
+msgctxt "BIRTHDAY_3"
+msgid "6月26日"
+msgstr ""
+
+msgctxt "BIRTHDAY_4"
+msgid "2月14日"
+msgstr ""
+
+msgctxt "HEIGHT_0"
+msgid "158cm"
+msgstr ""
+
+msgctxt "HEIGHT_1"
+msgid "163cm"
+msgstr ""
+
+msgctxt "HEIGHT_2"
+msgid "155cm"
+msgstr ""
+
+msgctxt "HEIGHT_3"
+msgid "170cm"
+msgstr ""
+
+msgctxt "HEIGHT_4"
+msgid "160cm"
+msgstr ""
+
+msgctxt "BLOOD_TYPE_0"
+msgid "Ｂ型"
+msgstr ""
+
+msgctxt "BLOOD_TYPE_1"
+msgid "Ａ型"
+msgstr ""
+
+msgctxt "BLOOD_TYPE_2"
+msgid "ＡＢ型"
+msgstr ""
+
+msgctxt "BLOOD_TYPE_3"
+msgid "Ｏ型"
+msgstr ""
+
+msgctxt "BLOOD_TYPE_4"
+msgid "Ａ型"
+msgstr ""
+
+msgctxt "CONSTELLATION_0"
+msgid "かに座"
+msgstr ""
+
+msgctxt "CONSTELLATION_1"
+msgid "さそり座"
+msgstr ""
+
+msgctxt "CONSTELLATION_2"
+msgid "おとめ座"
+msgstr ""
+
+msgctxt "CONSTELLATION_3"
+msgid "ふたご座"
+msgstr ""
+
+msgctxt "CONSTELLATION_4"
+msgid "みずがめ座"
+msgstr ""
+
+msgctxt "FAVORITE_0"
+msgid "カレーライス、ポテト"
+msgstr ""
+
+msgctxt "FAVORITE_1"
+msgid "うに、チョコレート"
+msgstr ""
+
+msgctxt "FAVORITE_2"
+msgid "串カツ、鶏の唐揚げ"
+msgstr ""
+
+msgctxt "FAVORITE_3"
+msgid "味噌カツ、スイーツ全般"
+msgstr ""
+
+msgctxt "FAVORITE_4"
+msgid "ホルモン、貝類"
+msgstr ""
+
+msgctxt "HATE_0"
+msgid "納豆、とんこつラーメン"
+msgstr ""
+
+msgctxt "HATE_1"
+msgid "キノコ"
+msgstr ""
+
+msgctxt "HATE_2"
+msgid "生クリーム、魚"
+msgstr ""
+
+msgctxt "HATE_3"
+msgid "特になし"
+msgstr ""
+
+msgctxt "HATE_4"
+msgid "トマト、ピーマン"
+msgstr ""
+
+msgctxt "PICT_NAME_0"
+msgid "2d_mr_prof_riku.dds"
+msgstr ""
+
+msgctxt "PICT_NAME_1"
+msgid "2d_mr_prof_kaguya.dds"
+msgstr ""
+
+msgctxt "PICT_NAME_2"
+msgid "2d_mr_prof_honoka.dds"
+msgstr ""
+
+msgctxt "PICT_NAME_3"
+msgid "2d_mr_prof_sion.dds"
+msgstr ""
+
+msgctxt "PICT_NAME_4"
+msgid "2d_mr_prof_hinata.dds"
+msgstr ""
+
+msgctxt "PICT_NAME2_0"
+msgid "2d_mr_prof_riku_c.dds"
+msgstr ""
+
+msgctxt "PICT_NAME2_1"
+msgid "2d_mr_prof_kaguya_c.dds"
+msgstr ""
+
+msgctxt "PICT_NAME2_2"
+msgid "2d_mr_prof_honoka_c.dds"
+msgstr ""
+
+msgctxt "PICT_NAME2_3"
+msgid "2d_mr_prof_sion_c.dds"
+msgstr ""
+
+msgctxt "PICT_NAME2_4"
+msgid "2d_mr_prof_hinata_c.dds"
+msgstr ""
+
+msgctxt "ROMAN_NAME_0"
+msgid "Ｌａ　Ｓｅｉｎｅ"
+msgstr ""
+
+msgctxt "ROMAN_NAME_1"
+msgid "ローズヒップ"
+msgstr ""
+
+msgctxt "ROMAN_NAME_2"
+msgid "ＰＲＩＭＥ"
+msgstr ""
+
+msgctxt "ROMAN_NAME_3"
+msgid "Ｃｌｕｂ　ＥＤＥＮ"
+msgstr ""
+
+msgctxt "ROMAN_NAME_4"
+msgid "ＥＬＩＳＥ"
+msgstr ""
+
+msgctxt "EXPLANATION_0"
+msgid "Ｌａ　Ｓｅｉｎｅのりくに名刺をもらった。"
+msgstr ""
+
+msgctxt "EXPLANATION_1"
+msgid ""
+"りくがスバルという男に会いにいったらしい。\n"
+"筑前川通り南の駐車場に俺も行ってみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_2"
+msgid ""
+"りくが車で拉致されてしまった。\n"
+"すぐに後を追いかけよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_3"
+msgid ""
+"スバルを追い詰めたぞ。\n"
+"こいつを倒してりくを助け出そう。"
+msgstr ""
+
+msgctxt "EXPLANATION_4"
+msgid ""
+"その後りくは元気にしているだろうか。\n"
+"店に様子を見に行ってみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_5"
+msgid ""
+"りくと素敵なひと時を過ごし、\n"
+"強い信頼関係で結ばれている。"
+msgstr ""
+
+msgctxt "EXPLANATION_6"
+msgid "ローズヒップのかぐやに名刺をもらった。"
+msgstr ""
+
+msgctxt "EXPLANATION_7"
+msgid ""
+"オーディションに行くかぐやを励ましたろう。\n"
+"月見野交差点のブラディエ前にいる言うてたな。"
+msgstr ""
+
+msgctxt "EXPLANATION_8"
+msgid ""
+"恨みはないけど、他人の夢邪魔するヤツは\n"
+"拳で解決するしかあらへんな……！"
+msgstr ""
+
+msgctxt "EXPLANATION_9"
+msgid ""
+"オーディションの結果はどないやったろうか。\n"
+"店に様子見に行ってみよか。"
+msgstr ""
+
+msgctxt "EXPLANATION_10"
+msgid ""
+"かぐやと素敵なひと時を過ごし、\n"
+"強い信頼関係で結ばれている。"
+msgstr ""
+
+msgctxt "EXPLANATION_11"
+msgid "ＰＲＩＭＥのほのかに名刺をもらった。"
+msgstr ""
+
+msgctxt "EXPLANATION_12"
+msgid ""
+"ほのかちゃんから電話が来たが、\n"
+"よく聞き取れなかったな……"
+msgstr ""
+
+msgctxt "EXPLANATION_13"
+msgid ""
+"試験前だってのに、声が出なくなったらしい。\n"
+"ダメ元で薬局にでも行ってみるか……？"
+msgstr ""
+
+msgctxt "EXPLANATION_14"
+msgid ""
+"伝説の飴ちゃんというものがあるらしい。\n"
+"あしたば公園なら扱ってる人間がいるかも知れない。"
+msgstr ""
+
+msgctxt "EXPLANATION_15"
+msgid ""
+"何か知ってそうな男を見つけたが……\n"
+"どうすれば飴ちゃんを売ってもらえるだろうか？"
+msgstr ""
+
+msgctxt "EXPLANATION_16"
+msgid ""
+"そうか、薬を欲しがってもダメなんだな。\n"
+"もう一度さっきの公園の男に話しかけてみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_17"
+msgid ""
+"試験の結果はどうなっただろうか。\n"
+"店に様子を見に行ってみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_18"
+msgid ""
+"ほのかと素敵なひと時を過ごし、\n"
+"強い信頼関係で結ばれている。"
+msgstr ""
+
+msgctxt "EXPLANATION_19"
+msgid "Ｃｌｕｂ　ＥＤＥＮの詩音に名刺をもらった。"
+msgstr ""
+
+msgctxt "EXPLANATION_20"
+msgid ""
+"詩音ちゃんがストーカーに尾けられているらしい。\n"
+"すぐに久米大通の東の方に向かわなきゃ！"
+msgstr ""
+
+msgctxt "EXPLANATION_21"
+msgid "ストーカーめ、逃がさないぞ！"
+msgstr ""
+
+msgctxt "EXPLANATION_22"
+msgid ""
+"詩音ちゃんも過去に複雑な事情があったんだな……\n"
+"こんな時、思い出の場所にいるかも知れないな。"
+msgstr ""
+
+msgctxt "EXPLANATION_23"
+msgid ""
+"その後詩音ちゃんは元気にしているだろうか。\n"
+"店に様子を見に行ってみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_24"
+msgid ""
+"詩音と素敵なひと時を過ごし、\n"
+"強い信頼関係で結ばれている。"
+msgstr ""
+
+msgctxt "EXPLANATION_25"
+msgid "ＥＬＩＳＥの桜咲ひなたに名刺をもらった。"
+msgstr ""
+
+msgctxt "EXPLANATION_26"
+msgid ""
+"ひなたから電話があったが、様子が変だったな。\n"
+"ホテルの近くにいるらしいが……？"
+msgstr ""
+
+msgctxt "EXPLANATION_27"
+msgid ""
+"ひなたを男の手から守るためには金が必要だ。\n"
+"５００万円用意する以外、他に手はないみたいだな。"
+msgstr ""
+
+msgctxt "EXPLANATION_28"
+msgid ""
+"ひなたがエリーゼのナンバー１になったらしい。\n"
+"店に様子を見に行ってみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_29"
+msgid ""
+"桜咲ひなたと素敵なひと時を過ごし、\n"
+"強い信頼関係で結ばれている。"
+msgstr ""
+
+msgctxt "CONTENTS_EXP_0"
+msgid "桐生でのみ指名可能なキャバ嬢です。"
+msgstr ""
+
+msgctxt "CONTENTS_EXP_1"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CONTENTS_EXP_2"
+msgid "冴島でのみ指名可能なキャバ嬢です。"
+msgstr ""
+
+msgctxt "CONTENTS_EXP_3"
+msgid "秋山でのみ指名可能なキャバ嬢です。"
+msgstr ""
+
+msgctxt "CONTENTS_EXP_4"
+msgid "品田でのみ指名可能なキャバ嬢です。"
+msgstr ""

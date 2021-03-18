@@ -1,0 +1,1313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "24036"
+msgid "お前の好みを聞かせてくれないか？"
+msgstr ""
+
+msgctxt "24069"
+msgid "え？　好みって、なんのことですか？"
+msgstr ""
+
+msgctxt "24104"
+msgid "食べ物だと何が好きなんだ？"
+msgstr ""
+
+msgctxt "24131"
+msgid "ん～、ホルモンとか？"
+msgstr ""
+
+msgctxt "24152"
+msgid "あ、最近貝にハマってますね！"
+msgstr ""
+
+msgctxt "24181"
+msgid "貝？"
+msgstr ""
+
+msgctxt "24186"
+msgid ""
+"ほら、コンビニに売ってるじゃないですか。\n"
+"帆立とか、つぶ貝とか、酒のおつまみ系のヤツ♪"
+msgstr ""
+
+msgctxt "24273"
+msgid ""
+"俺も好きだな。なかなか歯ごたえがあって、\n"
+"やみつきになるんだよな。"
+msgstr ""
+
+msgctxt "24340"
+msgid ""
+"そうそう♪　小腹が空いた時にちょっとつまむ\n"
+"つもりが、気づいたらひと袋まるまる\n"
+"食べちゃってたとかあり過ぎて困る♪"
+msgstr ""
+
+msgctxt "24455"
+msgid ""
+"わかってるじゃないか。\n"
+"お前とはいい酒が飲めそうだな……"
+msgstr ""
+
+msgctxt "24512"
+msgid ""
+"若い女にしちゃ珍しい好みだな。\n"
+"何か好きになったきっかけでもあるのか？"
+msgstr ""
+
+msgctxt "24583"
+msgid ""
+"多分、お寿司食べに行った時にたまたま貝を食べて、\n"
+"それがすごく美味しかったからかな……？"
+msgstr ""
+
+msgctxt "24672"
+msgid "なるほど。それじゃ当然、寿司も貝が好きなんだな。"
+msgstr ""
+
+msgctxt "24721"
+msgid "もちろん♪　トロとかよりも断然貝が好きですね♪"
+msgstr ""
+
+msgctxt "24768"
+msgid "フッ、そうか……　覚えておこう。"
+msgstr ""
+
+msgctxt "24801"
+msgid "じゃあ嫌いなものは？"
+msgstr ""
+
+msgctxt "24822"
+msgid "ピーマン！"
+msgstr ""
+
+msgctxt "24833"
+msgid "即答だな……　ま、そういう女多いよな。"
+msgstr ""
+
+msgctxt "24872"
+msgid ""
+"トマトも嫌い！　人参もダメ！\n"
+"あとブロッコリーとセロリと……　あとアスパラ！"
+msgstr ""
+
+msgctxt "24949"
+msgid ""
+"おいおい、ほとんどダメなんじゃないか。\n"
+"野菜も食べないと身体に悪いぞ？"
+msgstr ""
+
+msgctxt "25020"
+msgid "野菜ジュース飲んでるから大丈夫ですよ～。"
+msgstr ""
+
+msgctxt "25061"
+msgid "うーむ、それならいいか……"
+msgstr ""
+
+msgctxt "25088"
+msgid "どんな音楽を聴くんだ？"
+msgstr ""
+
+msgctxt "25111"
+msgid "え、ロック。"
+msgstr ""
+
+msgctxt "25124"
+msgid "俺も好きだぜ。カラオケではよく歌う。"
+msgstr ""
+
+msgctxt "25161"
+msgid "え、絶対違うし！　私が好きなのＶ系ですから。"
+msgstr ""
+
+msgctxt "25206"
+msgid ""
+"Ｖ系……？　ああ、ヴィジュアル系ってヤツか。\n"
+"一時期流行ってたらしいな。\n"
+"俺はその時期をよく知らないんだが……"
+msgstr ""
+
+msgctxt "25317"
+msgid ""
+"今もあるし！　知らないんだったら\n"
+"無理に話合わせなくていいですよ。"
+msgstr ""
+
+msgctxt "25384"
+msgid "ロックにも色々あるんだな……"
+msgstr ""
+
+msgctxt "25413"
+msgid ""
+"俺とは合わないな。\n"
+"俺はブルースのような、渋い曲が好みだ。"
+msgstr ""
+
+msgctxt "25472"
+msgid ""
+"ピッタリ！　桐生さんそういうの超似合う！\n"
+"え～、今度歌ってみてよ♪"
+msgstr ""
+
+msgctxt "25539"
+msgid "ああ、いいぜ。"
+msgstr ""
+
+msgctxt "25554"
+msgid "今、一番欲しいものはなんだ？"
+msgstr ""
+
+msgctxt "25583"
+msgid "ん～……　服？　かなぁ……"
+msgstr ""
+
+msgctxt "25610"
+msgid "どんな服なんだ？"
+msgstr ""
+
+msgctxt "25627"
+msgid ""
+"どんなっていうか。普段着る服。\n"
+"私あんまり種類持ってないから、\n"
+"もっと着回せるように色々あればいいなって。"
+msgstr ""
+
+msgctxt "25734"
+msgid ""
+"なるほど……　俺はいつも同じ服装だが、\n"
+"女の場合そうも言ってられんだろうしな。"
+msgstr ""
+
+msgctxt "25813"
+msgid "お前、何が趣味なんだ？"
+msgstr ""
+
+msgctxt "25836"
+msgid ""
+"ん～、あんまりそういうのはないんですけど……\n"
+"強いて言えば……　映画鑑賞とか？"
+msgstr ""
+
+msgctxt "25915"
+msgid "ほう。よく映画を観に行くのか。"
+msgstr ""
+
+msgctxt "25946"
+msgid "観に行くっていうか、ほとんどレンタルですけど。"
+msgstr ""
+
+msgctxt "25993"
+msgid ""
+"レンタルか。それじゃ家にいる時は\n"
+"よく映画を観てるってことか。"
+msgstr ""
+
+msgctxt "26056"
+msgid ""
+"そうですね。でも私、\n"
+"好きな作品を何度も観てるだけで。\n"
+"あんまり映画には詳しくないんですよ。"
+msgstr ""
+
+msgctxt "26149"
+msgid ""
+"そういうのもアリだな。\n"
+"色んな作品を手広く観るのもいいが、\n"
+"名画を何度も楽しむのも立派な映画通だよな。"
+msgstr ""
+
+msgctxt "26252"
+msgid ""
+"好きな作品は、台詞全部丸暗記しちゃうくらい、\n"
+"何度も観るんですよ♪"
+msgstr ""
+
+msgctxt "26319"
+msgid ""
+"それはすごいな。俺なんて一度観たヤツを\n"
+"うっかりまた借りてきちまうことがあるくらいだ。"
+msgstr ""
+
+msgctxt "26406"
+msgid ""
+"アハハ♪　私も借りる時、店員さんが履歴見て、\n"
+"“こちら、以前もレンタルされてますが……？”\n"
+"なんて聞いてくることがしょっちゅう！"
+msgstr ""
+
+msgctxt "26535"
+msgid "それでどう答えるんだ？"
+msgstr ""
+
+msgctxt "26558"
+msgid ""
+"“そうですけど、それが何か？”って♪\n"
+"好きなんだから何回観てもいいじゃないねぇ？"
+msgstr ""
+
+msgctxt "26639"
+msgid "フッ、そうだな……"
+msgstr ""
+
+msgctxt "26658"
+msgid ""
+"よく飽きないな。\n"
+"もっと違う作品を観た方がいいんじゃないか？"
+msgstr ""
+
+msgctxt "26719"
+msgid ""
+"別にいつも同じ作品を観てるわけじゃないですよ……\n"
+"大体何カ月ごととかに、“あ、アレまた観たいな”\n"
+"ってなった時に借りてくるだけで。"
+msgstr ""
+
+msgctxt "26850"
+msgid ""
+"それじゃそれ以外の時はまったく違う作品を\n"
+"観てるわけか。"
+msgstr ""
+
+msgctxt "26907"
+msgid ""
+"って言っても、好きな作品は１本だけじゃないんで。\n"
+"好きなヤツを全部ローテーションで観てるうちに、\n"
+"また最初の方に観たヤツが観たくなるんですけどね。"
+msgstr ""
+
+msgctxt "27054"
+msgid "なんだ、結局同じ作品ばかりなんじゃないか……"
+msgstr ""
+
+msgctxt "27099"
+msgid ""
+"そんなに好きなら買えよ。\n"
+"最近はＤＶＤも安いし、そっちの方が\n"
+"何度も借りるより安上がりなんじゃないか？"
+msgstr ""
+
+msgctxt "27202"
+msgid ""
+"あ～、それは家に物が増えるからダメ。\n"
+"どうせレンタル屋近いし、\n"
+"観たい時に借りられればそれでいいです。"
+msgstr ""
+
+msgctxt "27305"
+msgid ""
+"余計な物は買わないようにしてるわけか。\n"
+"衝動買いとかしないのか？"
+msgstr ""
+
+msgctxt "27370"
+msgid ""
+"ないですねー。あんまり物欲がないっていうか。\n"
+"なにか買うより、どこか遊びに行くことに\n"
+"お金を使う方がメインですね。"
+msgstr ""
+
+msgctxt "27485"
+msgid "なるほど、そういうタイプなんだな。"
+msgstr ""
+
+msgctxt "27520"
+msgid ""
+"映画館もいいぞ。最近の映画は映像も迫力あるし、\n"
+"大画面で観てこそじゃないか。"
+msgstr ""
+
+msgctxt "27597"
+msgid ""
+"あー、私そもそもアクション映画とか\n"
+"あんまり観ないんで。家のテレビで十分……\n"
+"家の方がリラックスできていいし。"
+msgstr ""
+
+msgctxt "27708"
+msgid ""
+"たしかに。２時間も席に座ってるのって、\n"
+"結構疲れるんだよな。"
+msgstr ""
+
+msgctxt "27769"
+msgid ""
+"そうそう♪　家ならうっかり寝ちゃっても\n"
+"巻き戻すことができるし♪"
+msgstr ""
+
+msgctxt "27834"
+msgid ""
+"ああ、それはわかるな。仕事明けに観に行った時、\n"
+"ついウトウトしてしまって損したことがある。\n"
+"やっぱり家で観る方がいいのかもな……"
+msgstr ""
+
+msgctxt "27963"
+msgid ""
+"もったいない。せっかく映画館が多い\n"
+"東京で暮らしてるんだから、\n"
+"もっと利用した方がいいと思うぞ。"
+msgstr ""
+
+msgctxt "28060"
+msgid ""
+"地方で暮らしてると、観に行きたくても、\n"
+"その作品が公開されていないということも\n"
+"しょっちゅうあるからな。"
+msgstr ""
+
+msgctxt "28165"
+msgid ""
+"私、アレ観たいなって突然思い立った時に\n"
+"ふらっと借りて観るのが好きなんですよ。"
+msgstr ""
+
+msgctxt "28244"
+msgid ""
+"映画館は初めから予定立てて観に行かなきゃ\n"
+"いけないから、あまり好きじゃないんです……"
+msgstr ""
+
+msgctxt "28329"
+msgid "なるほど、映画館も一長一短ってことだな……"
+msgstr ""
+
+msgctxt "28372"
+msgid "お前の恋愛観に興味があるな。"
+msgstr ""
+
+msgctxt "28401"
+msgid "恋愛観……？　なにそれ、どういうことですか？"
+msgstr ""
+
+msgctxt "28446"
+msgid "好きな男の条件は？"
+msgstr ""
+
+msgctxt "28465"
+msgid ""
+"えー……　タバコ吸わない人。\n"
+"マジ意味わかんない。"
+msgstr ""
+
+msgctxt "28516"
+msgid "どうしてタバコがダメなんだ？"
+msgstr ""
+
+msgctxt "28545"
+msgid ""
+"え～、だって服に匂いつくし。\n"
+"そしたらすぐに洗わないといけないから\n"
+"嫌じゃないですか。"
+msgstr ""
+
+msgctxt "28632"
+msgid ""
+"なるほど。そんなこと、気にしたこともなかったな。\n"
+"そんなに我慢できないほどなのか？"
+msgstr ""
+
+msgctxt "28715"
+msgid ""
+"桐生さんだったら、他人から身体中に\n"
+"生ゴミの匂いをベッタリつけられて我慢できます？"
+msgstr ""
+
+msgctxt "28798"
+msgid ""
+"それは無理だな……\n"
+"そんな失礼なヤツには手が出てもおかしくない。"
+msgstr ""
+
+msgctxt "28863"
+msgid "でしょー!?　それくらい嫌ってこと！"
+msgstr ""
+
+msgctxt "28898"
+msgid "……今度から少しは気をつけるようにするよ。"
+msgstr ""
+
+msgctxt "28941"
+msgid ""
+"我慢しろよ。所詮ただの匂いだろ？\n"
+"酒臭いのと同じようなものじゃないか。"
+msgstr ""
+
+msgctxt "29012"
+msgid ""
+"匂いだけじゃなくて肺も息苦しくなるし！\n"
+"吸わない人間にとっては、有毒ガスと同じですよ？"
+msgstr ""
+
+msgctxt "29099"
+msgid ""
+"副流煙がどんだけ有害か知らないわけないのに、\n"
+"それでも吸う男って、ホントなんなんだろ……？"
+msgstr ""
+
+msgctxt "29190"
+msgid ""
+"吸わない人間にとっては\n"
+"そんなにキツいものなのか……\n"
+"今後は気をつけるようにするよ。"
+msgstr ""
+
+msgctxt "29275"
+msgid ""
+"わかってないな。俺らの世代にとって、\n"
+"タバコは大人の象徴みたいなものだったんだよ。"
+msgstr ""
+
+msgctxt "29358"
+msgid ""
+"ガキの頃は、映画の俳優なんかがタバコを吸う姿に\n"
+"みんな憧れていたもんだ。"
+msgstr ""
+
+msgctxt "29431"
+msgid ""
+"昔はそうだったかも知れませんけど、\n"
+"今は全然カッコよくないし……"
+msgstr ""
+
+msgctxt "29496"
+msgid ""
+"タバコ吸う人って、ホントそういう空気読めないこと\n"
+"言いますよね。カッコいいとか悪いとか、\n"
+"そういう話してるんじゃないのに……"
+msgstr ""
+
+msgctxt "29621"
+msgid "じゃあ何がダメなんだ……？"
+msgstr ""
+
+msgctxt "29648"
+msgid "他には？　まさかそれだけってことはないだろう。"
+msgstr ""
+
+msgctxt "29695"
+msgid "あー、じゃ、モテる人。"
+msgstr ""
+
+msgctxt "29718"
+msgid "モテる人？"
+msgstr ""
+
+msgctxt "29729"
+msgid ""
+"そうそう。魅力がある人って、自然とまわりに人が\n"
+"集まってるでしょ？　そういう人が好き♪"
+msgstr ""
+
+msgctxt "29816"
+msgid ""
+"お前もファンの輪の中に入りたいってことか。\n"
+"意外とミーハーなんだな。"
+msgstr ""
+
+msgctxt "29885"
+msgid ""
+"いいじゃん。誰からも相手にされてない人なんて、\n"
+"私が好きになる理由もないし。"
+msgstr ""
+
+msgctxt "29962"
+msgid "フッ、それもそうだな……"
+msgstr ""
+
+msgctxt "29987"
+msgid "男の仕草の中じゃ、どんなのが好きだ？"
+msgstr ""
+
+msgctxt "30024"
+msgid "そうですね～……"
+msgstr ""
+
+msgctxt "30041"
+msgid "手招きされるとキュンとするかな♪"
+msgstr ""
+
+msgctxt "30074"
+msgid "手招き？"
+msgstr ""
+
+msgctxt "30083"
+msgid ""
+"なんかね、“こっちおいで”って手招きされると、\n"
+"嬉しくてそっちに寄っていっちゃうんですよ♪"
+msgstr ""
+
+msgctxt "30174"
+msgid "ほう……　そんなこと言うヤツは初めてだ。"
+msgstr ""
+
+msgctxt "30215"
+msgid ""
+"桐生さんはそういうことないですか？\n"
+"女の子が遠くで“ねぇねぇ！”って可愛く\n"
+"手招きしてたら、行きたくなりません？"
+msgstr ""
+
+msgctxt "30328"
+msgid ""
+"なるな。俺に気があるのかと\n"
+"勘違いしてしまうかも知れないな。"
+msgstr ""
+
+msgctxt "30389"
+msgid "でしょー!?　つまりそういうことですよ♪"
+msgstr ""
+
+msgctxt "30428"
+msgid "なるほど……"
+msgstr ""
+
+msgctxt "30441"
+msgid "ならんな。用があるなら向こうから来るべきだ。"
+msgstr ""
+
+msgctxt "30486"
+msgid ""
+"も～、そういうことじゃないでしょ!?\n"
+"桐生さんはときめきがわからない人ですね～……"
+msgstr ""
+
+msgctxt "30567"
+msgid "…………"
+msgstr ""
+
+msgctxt "30576"
+msgid ""
+"子供みたいだな。\n"
+"あまり大人同士じゃやらないだろう。"
+msgstr ""
+
+msgctxt "30629"
+msgid ""
+"だからいいんじゃないですか♪　歳上の男の人から、\n"
+"妹みたいに扱われてる感じがして♪"
+msgstr ""
+
+msgctxt "30712"
+msgid ""
+"大人の女として、対等に扱って欲しいとは\n"
+"思わないのか？"
+msgstr ""
+
+msgctxt "30767"
+msgid ""
+"別にそういうのはないですねー。\n"
+"その人と付き合いたいってわけでもないですし。\n"
+"可愛がってもらえればそれでいいです。"
+msgstr ""
+
+msgctxt "30882"
+msgid "フッ、そういうところはやっぱり子供なんだな……"
+msgstr ""
+
+msgctxt "30929"
+msgid "お前の守備範囲はどれくらいだ？"
+msgstr ""
+
+msgctxt "30960"
+msgid ""
+"守備範囲……　ん～、年下は嫌かも。\n"
+"他は別に。歳上でも同い年でも。"
+msgstr ""
+
+msgctxt "31027"
+msgid "なるほど。年齢はあまり重要視してないんだな。"
+msgstr ""
+
+msgctxt "31072"
+msgid ""
+"意外だな。もっとこだわりが\n"
+"ありそうな気がしたんだがな。"
+msgstr ""
+
+msgctxt "31129"
+msgid ""
+"え～、だって結局は性格が合うかどうかとか、\n"
+"そういうところが重要なわけでしょ？\n"
+"だったら年齢なんてどうでも良くないですか？"
+msgstr ""
+
+msgctxt "31252"
+msgid ""
+"それもそうだな。年齢で相手を判断するのは\n"
+"良くないかもしれん。"
+msgstr ""
+
+msgctxt "31315"
+msgid ""
+"あ、私、しつこくこだわらない人、好き♪\n"
+"桐生さんは物分かりが良くていいですね♪"
+msgstr ""
+
+msgctxt "31394"
+msgid "フッ、それは褒めてるのか……？"
+msgstr ""
+
+msgctxt "31425"
+msgid ""
+"どうでも良くはない。年齢の違いからくる\n"
+"個人個人の考え方の違いは大きい。\n"
+"親の世代と付き合えるか？　無理だろう。"
+msgstr ""
+
+msgctxt "31538"
+msgid ""
+"考え方なんて違っててもいいじゃないですか。\n"
+"むしろそういう人の方が私には面白いし。"
+msgstr ""
+
+msgctxt "31621"
+msgid ""
+"あ、でも、桐生さんみたいに細かいことに\n"
+"こだわる人はちょっと合わないかもね……"
+msgstr ""
+
+msgctxt "31700"
+msgid "うーむ……"
+msgstr ""
+
+msgctxt "31711"
+msgid "年下は何故ダメなんだ？"
+msgstr ""
+
+msgctxt "31734"
+msgid ""
+"ん～、私に妹や弟がいるからかな？\n"
+"年下の相手はもう勘弁って感じで……"
+msgstr ""
+
+msgctxt "31803"
+msgid ""
+"なるほど、逆に同い年以上のヤツとのふれあいを\n"
+"求めてるってわけか。それなら納得だな。"
+msgstr ""
+
+msgctxt "31888"
+msgid "お前のこと、聞かせてくれないか？"
+msgstr ""
+
+msgctxt "31921"
+msgid "はぁ……　私の、なに？"
+msgstr ""
+
+msgctxt "31944"
+msgid "お前、兄弟はいるのか？"
+msgstr ""
+
+msgctxt "31967"
+msgid "うん。妹と弟が。私、一番上なの。"
+msgstr ""
+
+msgctxt "32000"
+msgid "羨ましいな。楽しそうな家族じゃないか。"
+msgstr ""
+
+msgctxt "32039"
+msgid "桐生さんはひとりっ子なの？"
+msgstr ""
+
+msgctxt "32066"
+msgid ""
+"ああ……　だが、兄弟のように育ったヤツらがいた。\n"
+"同い年の男と、３つ下の女だ。"
+msgstr ""
+
+msgctxt "32145"
+msgid ""
+"へ～♪　私も同い年の兄弟、欲しかったな～♪\n"
+"ねぇねぇ、同い年って、どんな感じだったの？"
+msgstr ""
+
+msgctxt "32232"
+msgid "フッ、これじゃ俺が質問されてるじゃないか……"
+msgstr ""
+
+msgctxt "32277"
+msgid ""
+"そうは見えないな。\n"
+"お前はひとりっ子というか……\n"
+"そう、末っ子といった感じがする。"
+msgstr ""
+
+msgctxt "32360"
+msgid ""
+"あー、よく言われる。\n"
+"でもそれ多分、桐生さんが相手だからですよ。"
+msgstr ""
+
+msgctxt "32425"
+msgid "どういうことだ？"
+msgstr ""
+
+msgctxt "32442"
+msgid ""
+"普段、家じゃ私がお姉ちゃんだから、\n"
+"外では他の人に思いっきり甘えることにしてるの。"
+msgstr ""
+
+msgctxt "32525"
+msgid ""
+"なるほど、それでか……\n"
+"それじゃ今日は俺に甘えてもいいんだぜ？"
+msgstr ""
+
+msgctxt "32588"
+msgid "ホントに？　やったぁ♪"
+msgstr ""
+
+msgctxt "32611"
+msgid "フッ、やれやれ……"
+msgstr ""
+
+msgctxt "32630"
+msgid "身体のどこに自信がある？"
+msgstr ""
+
+msgctxt "32655"
+msgid "え～？　足の長さとか？"
+msgstr ""
+
+msgctxt "32678"
+msgid "ほう……　どれくらいなんだ？"
+msgstr ""
+
+msgctxt "32707"
+msgid "８５ｃｍ！"
+msgstr ""
+
+msgctxt "32718"
+msgid "身長は？"
+msgstr ""
+
+msgctxt "32727"
+msgid "１６０ちょうど。"
+msgstr ""
+
+msgctxt "32744"
+msgid ""
+"ということは胴体より足の方が長いのか。\n"
+"確かにそれはすごいな。"
+msgstr ""
+
+msgctxt "32807"
+msgid "でしょ～♪　結構自信あるんだ♪"
+msgstr ""
+
+msgctxt "32838"
+msgid "特技はなんだ？"
+msgstr ""
+
+msgctxt "32853"
+msgid ""
+"ん～、部屋のかたづけかな？\n"
+"他人が散らかした部屋とか見ると、\n"
+"無性に片付けたくなって仕方ないのよね。"
+msgstr ""
+
+msgctxt "32954"
+msgid "いいじゃないか。家事ができる女はモテるぜ。"
+msgstr ""
+
+msgctxt "32997"
+msgid ""
+"でしょ～♪　無駄な物は買わない主義だから、\n"
+"とにかくお金も貯まるし！"
+msgstr ""
+
+msgctxt "33066"
+msgid ""
+"フッ、そりゃまた変わった性癖だな。\n"
+"他人がやったことくらい、放っておけよ。"
+msgstr ""
+
+msgctxt "33141"
+msgid ""
+"うちね、家が狭いから、少しでもスペースを\n"
+"有効活用しようと思って色々努力してたら、\n"
+"いつの間にか超収納上手になっちゃって。"
+msgstr ""
+
+msgctxt "33264"
+msgid ""
+"そしたら最近お母さんまで私に任せっきりで\n"
+"ズボラになってきちゃって……"
+msgstr ""
+
+msgctxt "33335"
+msgid "フッ、まぁそれも親孝行でいいじゃないか。"
+msgstr ""
+
+msgctxt "33376"
+msgid "他には？"
+msgstr ""
+
+msgctxt "33385"
+msgid "あ、私タクシー停めるの上手！"
+msgstr ""
+
+msgctxt "33414"
+msgid "タクシーを……？　どういうことだ？"
+msgstr ""
+
+msgctxt "33449"
+msgid ""
+"ここら辺ってね、キャバ嬢相手だとめんどくさがって\n"
+"乗せてくれない運転手が多いの。"
+msgstr ""
+
+msgctxt "33530"
+msgid "本当か？　それはひどいな。"
+msgstr ""
+
+msgctxt "33557"
+msgid ""
+"でもね、そういう運転手でも絶対に停まってくれる\n"
+"裏技があるのよ～♪"
+msgstr ""
+
+msgctxt "33624"
+msgid "それは興味深いな。どうやるんだ？"
+msgstr ""
+
+msgctxt "33657"
+msgid ""
+"んとね、手に１万円札もってヒラヒラさせるの♪\n"
+"そうすると大体停まってくれる♪"
+msgstr ""
+
+msgctxt "33734"
+msgid ""
+"フッ、馬鹿馬鹿しい。\n"
+"どうせ運賃の分きっかりしかもらえないのにな……"
+msgstr ""
+
+msgctxt "33803"
+msgid "ちょっと気になることがあるんだが……"
+msgstr ""
+
+msgctxt "33840"
+msgid "はい？"
+msgstr ""
+
+msgctxt "33847"
+msgid "スリーサイズは？"
+msgstr ""
+
+msgctxt "33864"
+msgid "えーなに？　聞こえなーい。"
+msgstr ""
+
+msgctxt "33891"
+msgid "スリーサイズは？"
+msgstr ""
+
+msgctxt "33908"
+msgid "そんなの聞いてどうすんの？"
+msgstr ""
+
+msgctxt "33935"
+msgid ""
+"別にどうもしないが。\n"
+"単に知的好奇心から聞いただけだ。"
+msgstr ""
+
+msgctxt "33990"
+msgid "えー、じゃあ１００、１００、１００。"
+msgstr ""
+
+msgctxt "34027"
+msgid "聞いた俺が悪かったよ……"
+msgstr ""
+
+msgctxt "34052"
+msgid "いや、いい。つまらんことを聞いたな……"
+msgstr ""
+
+msgctxt "34091"
+msgid ""
+"も～、今バストアップ頑張ってるんだから、\n"
+"効果あったら教えてあげる。"
+msgstr ""
+
+msgctxt "34160"
+msgid "バストアップ？　何をやってるんだ？"
+msgstr ""
+
+msgctxt "34195"
+msgid ""
+"豆乳飲んだり、キャベツ食べたり、水泳したり……\n"
+"とにかく色々！"
+msgstr ""
+
+msgctxt "34258"
+msgid "ほう……　かなり本気で取り組んでるんだな。"
+msgstr ""
+
+msgctxt "34301"
+msgid "ＳとＭ、どっちだ？"
+msgstr ""
+
+msgctxt "34320"
+msgid "は～？　どっちでもないし……"
+msgstr ""
+
+msgctxt "34349"
+msgid ""
+"強いて言えば、でいいんだよ。\n"
+"どっちだと思う？"
+msgstr ""
+
+msgctxt "34396"
+msgid ""
+"そういうの自分から言う人ってうざくないですか？\n"
+"女性にセクハラしといて、“自分Ｓだから”とか\n"
+"言って誤魔化す人！　それただの犯罪だし……"
+msgstr ""
+
+msgctxt "34533"
+msgid "あまりこの手の話題は好きじゃないみたいだな……"
+msgstr ""
+
+msgctxt "34580"
+msgid "寝る時の格好は？"
+msgstr ""
+
+msgctxt "34597"
+msgid "えー、普通にスウェット。"
+msgstr ""
+
+msgctxt "34622"
+msgid ""
+"俺と一緒だな。やはり家じゃスウェットが\n"
+"過ごしやすくて一番だよな。"
+msgstr ""
+
+msgctxt "34689"
+msgid "あ、ホント？　気が合いますねー。"
+msgstr ""
+
+msgctxt "34722"
+msgid "……あまり興味なさそうだな。"
+msgstr ""
+
+msgctxt "34751"
+msgid "だって私、男の人が寝る時の服装なんて興味ないし。"
+msgstr ""
+
+msgctxt "34800"
+msgid "そうか……"
+msgstr ""
+
+msgctxt "34811"
+msgid ""
+"案外ラフだな。もっとしっかりした格好を\n"
+"してるものかと思っていたが。"
+msgstr ""
+
+msgctxt "34880"
+msgid ""
+"あー、私よく部屋でダンスの練習とか\n"
+"してるんですよ。\n"
+"だから動きやすい服装の方が良くて。"
+msgstr ""
+
+msgctxt "34969"
+msgid ""
+"確かに俺もスウェットのまま\n"
+"トレーニングをしたりするな。"
+msgstr ""
+
+msgctxt "35026"
+msgid ""
+"でしょ～♪　いちいち着替えてたら面倒ですし、\n"
+"そんな汗かくほどにはやりませんしね。"
+msgstr ""
+
+msgctxt "35109"
+msgid "なるほど、納得がいったぜ。"
+msgstr ""
+
+msgctxt "35136"
+msgid "質問会話05。"
+msgstr ""
+
+msgctxt "35149"
+msgid "質問会話06。"
+msgstr ""
+
+msgctxt "35162"
+msgid "質問会話07。"
+msgstr ""
+
+msgctxt "35175"
+msgid "質問会話08。"
+msgstr ""
+
+msgctxt "35188"
+msgid "質問会話09。"
+msgstr ""
+
+msgctxt "35201"
+msgid "質問会話10。"
+msgstr ""
+
+msgctxt "35214"
+msgid "質問会話11。"
+msgstr ""
+
+msgctxt "35227"
+msgid "質問会話12。"
+msgstr ""
+
+msgctxt "35240"
+msgid "質問会話13。"
+msgstr ""
+
+msgctxt "35253"
+msgid "質問会話14。"
+msgstr ""
+
+msgctxt "35266"
+msgid "質問会話15。"
+msgstr ""
+
+msgctxt "35504"
+msgid "桐生"
+msgstr ""
+
+msgctxt "35509"
+msgid "ひなた"
+msgstr ""
+
+msgctxt "35516"
+msgid "○食べ物"
+msgstr ""
+
+msgctxt "35525"
+msgid "□音楽"
+msgstr ""
+
+msgctxt "35532"
+msgid "△欲しいもの"
+msgstr ""
+
+msgctxt "35545"
+msgid "F_CAB_TLK_sitsofa_laugh_m"
+msgstr ""
+
+msgctxt "35571"
+msgid "○俺も好きだな"
+msgstr ""
+
+msgctxt "35586"
+msgid "□珍しいな"
+msgstr ""
+
+msgctxt "35597"
+msgid "△じゃあ嫌いなものは？"
+msgstr ""
+
+msgctxt "35620"
+msgid "F_CAB_TLK_sitsofa_yes_02"
+msgstr ""
+
+msgctxt "35645"
+msgid "F_CAB_TLK_sitsofa_think"
+msgstr ""
+
+msgctxt "35669"
+msgid "F_CAB_TLK_sitsofa_no_02"
+msgstr ""
+
+msgctxt "35693"
+msgid "○俺も好きだぜ"
+msgstr ""
+
+msgctxt "35708"
+msgid "□俺とは合わないな"
+msgstr ""
+
+msgctxt "35727"
+msgid "F_CAB_TLK_sitsofa_maenomeri"
+msgstr ""
+
+msgctxt "35755"
+msgid "F_CAB_TLK_sitsofa_omoituku"
+msgstr ""
+
+msgctxt "35782"
+msgid "○レンタルか"
+msgstr ""
+
+msgctxt "35795"
+msgid "□映画館もいいぞ"
+msgstr ""
+
+msgctxt "35812"
+msgid "○そういうのもアリだな"
+msgstr ""
+
+msgctxt "35835"
+msgid "□よく飽きないな"
+msgstr ""
+
+msgctxt "35852"
+msgid "△そんなに好きなら買えよ"
+msgstr ""
+
+msgctxt "35877"
+msgid "F_CAB_TLK_sitsofa_shigusa_01"
+msgstr ""
+
+msgctxt "35906"
+msgid "○たしかに"
+msgstr ""
+
+msgctxt "35917"
+msgid "□もったいない"
+msgstr ""
+
+msgctxt "35932"
+msgid "○好きな男の条件"
+msgstr ""
+
+msgctxt "35949"
+msgid "□好きな男の仕草"
+msgstr ""
+
+msgctxt "35966"
+msgid "△守備範囲"
+msgstr ""
+
+msgctxt "35977"
+msgid "○どうして？"
+msgstr ""
+
+msgctxt "35990"
+msgid "□わかってないな"
+msgstr ""
+
+msgctxt "36007"
+msgid "△他には？"
+msgstr ""
+
+msgctxt "36018"
+msgid "○なるほど"
+msgstr ""
+
+msgctxt "36029"
+msgid "□我慢しろよ"
+msgstr ""
+
+msgctxt "36042"
+msgid "F_CAB_TLK_sitsofa_sorry"
+msgstr ""
+
+msgctxt "36066"
+msgid "○ほう……"
+msgstr ""
+
+msgctxt "36077"
+msgid "□子供みたいだな"
+msgstr ""
+
+msgctxt "36094"
+msgid "○なるな"
+msgstr ""
+
+msgctxt "36103"
+msgid "□ならんな"
+msgstr ""
+
+msgctxt "36114"
+msgid "□意外だな"
+msgstr ""
+
+msgctxt "36125"
+msgid "○それもそうだな"
+msgstr ""
+
+msgctxt "36142"
+msgid "□どうでも良くはない"
+msgstr ""
+
+msgctxt "36163"
+msgid "△年下は何故ダメなんだ？"
+msgstr ""
+
+msgctxt "36188"
+msgid "○兄弟はいるのか？"
+msgstr ""
+
+msgctxt "36207"
+msgid "□身体のどこに自信がある？"
+msgstr ""
+
+msgctxt "36234"
+msgid "△特技はなんだ？"
+msgstr ""
+
+msgctxt "36251"
+msgid "○羨ましいな"
+msgstr ""
+
+msgctxt "36264"
+msgid "□そうは見えないな"
+msgstr ""
+
+msgctxt "36283"
+msgid "○いいじゃないか"
+msgstr ""
+
+msgctxt "36300"
+msgid "□変わってるな"
+msgstr ""
+
+msgctxt "36315"
+msgid "F_CAB_TLK_sitsofa_resit"
+msgstr ""
+
+msgctxt "36339"
+msgid "○スリーサイズは？"
+msgstr ""
+
+msgctxt "36358"
+msgid "□ＳとＭ、どっちだ？"
+msgstr ""
+
+msgctxt "36379"
+msgid "△寝る時の格好は？"
+msgstr ""
+
+msgctxt "36398"
+msgid "□いや、いい"
+msgstr ""
+
+msgctxt "36411"
+msgid "○俺と一緒だな"
+msgstr ""
+
+msgctxt "36426"
+msgid "□案外ラフだな"
+msgstr ""
+
+msgctxt "36441"
+msgid "りく"
+msgstr ""

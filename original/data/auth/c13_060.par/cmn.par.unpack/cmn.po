@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "249784"
+msgid "お前ら"
+msgstr ""
+
+msgctxt "249928"
+msgid "何してるんだ　沖田！"
+msgstr ""
+
+msgctxt "250072"
+msgid "藤堂平助はここ“油小路”で新選組に襲われ"
+msgstr ""
+
+msgctxt "250216"
+msgid "武田観柳斎と共に御陵衛士として……"
+msgstr ""
+
+msgctxt "250360"
+msgid "死んだことにする"
+msgstr ""
+
+msgctxt "250504"
+msgid "何だと？"
+msgstr ""
+
+msgctxt "250648"
+msgid "どういうことなんだ"
+msgstr ""
+
+msgctxt "250792"
+msgid "それが平助の遺言や"
+msgstr ""
+
+msgctxt "250936"
+msgid "平助は……"
+msgstr ""
+
+msgctxt "251080"
+msgid ""
+"自分が新選組の間者やということを\n"
+"伊東に悟られんようにするため"
+msgstr ""
+
+msgctxt "251224"
+msgid "ここに遺体を運んでくれと"
+msgstr ""
+
+msgctxt "251368"
+msgid "あいつは最期まで"
+msgstr ""
+
+msgctxt "251512"
+msgid "近藤さんから与えられた使命を守ったんや"
+msgstr ""
+
+msgctxt "251656"
+msgid "もう　後戻りはできひんで"
+msgstr ""
+
+msgctxt "251800"
+msgid "一（はじめ）ちゃん"
+msgstr ""
+
+msgctxt "251944"
+msgid "沖田……"
+msgstr ""
+
+msgctxt "252088"
+msgid "坂本龍馬は一（はじめ）ちゃんに譲ったる"
+msgstr ""
+
+msgctxt "252232"
+msgid ""
+"せやけど\n"
+"万が一あんたが兄弟に情が移ったりした時は……"
+msgstr ""
+
+msgctxt "252376"
+msgid "躊躇なくワシが“二人の”坂本龍馬を　斬る"
+msgstr ""
+
+msgctxt "252520"
+msgid "それでええな？"
+msgstr ""
+
+msgctxt "252664"
+msgid "ああ　明日の夜"
+msgstr ""
+
+msgctxt "252808"
+msgid "全てに決着をつける"
+msgstr ""
+
+msgctxt "252952"
+msgid "坂本龍馬の歴史は"
+msgstr ""
+
+msgctxt "253096"
+msgid "近江屋で終わらせる"
+msgstr ""
+
+msgctxt "253240"
+msgid "絶対に"
+msgstr ""

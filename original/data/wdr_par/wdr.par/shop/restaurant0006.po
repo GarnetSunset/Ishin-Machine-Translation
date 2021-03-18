@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "476"
+msgid "－"
+msgstr ""
+
+msgctxt "479"
+msgid "所持数"
+msgstr ""
+
+msgctxt "486"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "511"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "544"
+msgid "ありがとうございます。%sになります。"
+msgstr ""
+
+msgctxt "581"
+msgid "（これ以上食べられないな……）"
+msgstr ""
+
+msgctxt "612"
+msgid "（これ以上飲めないな……）"
+msgstr ""
+
+msgctxt "639"
+msgid "御品書"
+msgstr ""
+
+msgctxt "646"
+msgid "－"
+msgstr ""
+
+msgctxt "649"
+msgid "注"
+msgstr ""
+
+msgctxt "652"
+msgid "（うむ、うまいな）"
+msgstr ""
+
+msgctxt "671"
+msgid "（いけるな）"
+msgstr ""
+
+msgctxt "684"
+msgid "（なかなかのものだな）"
+msgstr ""
+
+msgctxt "707"
+msgid "（うむ、なかなかだな）"
+msgstr ""
+
+msgctxt "730"
+msgid "（これは、いいな）"
+msgstr ""
+
+msgctxt "749"
+msgid "（うまいものだな）"
+msgstr ""
+
+msgctxt "768"
+msgid "（なかなか、いけるな）"
+msgstr ""
+
+msgctxt "791"
+msgid "（これは、なかなか……）"
+msgstr ""
+
+msgctxt "816"
+msgid "（こいつは、うまいぞ）"
+msgstr ""
+
+msgctxt "839"
+msgid "（ふむ、いけるな）"
+msgstr ""
+
+msgctxt "858"
+msgid "（う～ん……　イマイチだな……）"
+msgstr ""
+
+msgctxt "891"
+msgid "chair"
+msgstr ""
+
+msgctxt "897"
+msgid ""
+"大とろ、中とろ、赤身の３種類のにぎりの\n"
+"盛り合わせです。当店自慢の本鮪を同時に楽しめる、\n"
+"お得な一皿です。"
+msgstr ""
+
+msgctxt "1002"
+msgid ""
+"新鮮な数十種類のねたを豪華に盛り付けた\n"
+"他には真似できない贅沢な丼です。"
+msgstr ""
+
+msgctxt "1074"
+msgid ""
+"大とろ、中とろ、赤身の３種類の本鮪を\n"
+"贅沢に盛りつけた丼です。\n"
+"鮪の美味しさを存分にご堪能下さい。"
+msgstr ""
+
+msgctxt "1171"
+msgid ""
+"特選にぎり１３貫と、野菜、大名椀がついた\n"
+"盛り合わせになります。\n"
+"選び抜かれたねたに、きっとご満足頂けますよ。"
+msgstr ""
+
+msgctxt "1280"
+msgid ""
+"本鮪の様々なねたを楽しめるにぎり盛り合わせです。\n"
+"大とろ、中とろ、赤身にねぎとろ、鉄火にあぶりとろ、\n"
+"まさにまぐろざんまいな上に大名椀もおつけします。"
+msgstr ""
+
+msgctxt "1429"
+msgid ""
+"新鮮な魚を扱う当店の職人が\n"
+"選び抜いた魚の刺身を盛り合わせました。\n"
+"季節の風味をお楽しみ下さい。"
+msgstr ""
+
+msgctxt "1524"
+msgid ""
+"白味噌につけ込んだ銀鱈を、\n"
+"当店の職人が絶妙に焼き上げました。\n"
+"焼けた味噌の香ばしさをご堪能頂けます。"
+msgstr ""
+
+msgctxt "1625"
+msgid ""
+"厳選した卵を使い、特製のおだしで\n"
+"蒸し上げました。具材も豊富で栄養満点です。"
+msgstr ""
+
+msgctxt "1701"
+msgid ""
+"鯛の頭を丸ごと使い、醤油で甘辛く煮上げました。\n"
+"普段あまり食べられない部位の独特の食感を\n"
+"お楽しみ頂けます。"
+msgstr ""

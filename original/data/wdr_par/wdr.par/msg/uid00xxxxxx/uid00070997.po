@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5144"
+msgid ""
+"どうだい、いい勝負だったか？\n"
+"ありがとうな。"
+msgstr ""
+
+msgctxt "5189"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5190"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5191"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5192"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5193"
+msgid ""
+"兄ちゃん、将棋さしていくかい？\n"
+"遊び代は５００円だよ。"
+msgstr ""
+
+msgctxt "5248"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5249"
+msgid "ああ、遊ばせてもらおう。"
+msgstr ""
+
+msgctxt "5274"
+msgid ""
+"おお、やりますか。\n"
+"だれと対局しますかね？"
+msgstr ""
+
+msgctxt "5317"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5318"
+msgid "それじゃ、頑張ってな。"
+msgstr ""
+
+msgctxt "5341"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5342"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5343"
+msgid "ああ、遊ばせてもらおう。"
+msgstr ""
+
+msgctxt "5368"
+msgid ""
+"おお、やりますか。\n"
+"だれと対局しますかね？"
+msgstr ""
+
+msgctxt "5411"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5412"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5413"
+msgid "それじゃ、頑張ってな。"
+msgstr ""
+
+msgctxt "5436"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5437"
+msgid ""
+"お、「手数制限」のかかってる盤面だね。\n"
+"この盤面で遊ぶときは、\n"
+"手数制限以内に相手を詰ませないとダメなんだわ。"
+msgstr ""
+
+msgctxt "5548"
+msgid ""
+"待ったが好きなだけ使えるから、\n"
+"じっくりと手を考えてみるといいわな。\n"
+"それじゃ、頑張ってな。"
+msgstr ""
+
+msgctxt "5641"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5642"
+msgid "いや、やめておこう。"
+msgstr ""
+
+msgctxt "5663"
+msgid ""
+"そうかぁ。\n"
+"気が向いたら、また来てな。"
+msgstr ""
+
+msgctxt "5702"
+msgid "この店のことを聞かせてくれ。"
+msgstr ""
+
+msgctxt "5731"
+msgid ""
+"兄ちゃん、この店じゃ見かけない顔だね？\n"
+"将棋を始めようってのかい？\n"
+"それはいいねぇ。"
+msgstr ""
+
+msgctxt "5816"
+msgid ""
+"この店では頂上を目指す「順位戦」と、\n"
+"「試練踏破」で遊ぶことができますわ。"
+msgstr ""
+
+msgctxt "5891"
+msgid ""
+"「順位戦」は、お客さんの段位に近い人から\n"
+"対局相手を選ぶんだわ。　だから強い人と\n"
+"指したかったら、自分が段位を上げるんだわ。"
+msgstr ""
+
+msgctxt "6016"
+msgid ""
+"段位は、自分より上の段位の相手に勝つと\n"
+"その段位になれるよ。\n"
+"どんどん上を目指すといいんだわ。"
+msgstr ""
+
+msgctxt "6111"
+msgid ""
+"「試練踏破」は、盤面が特別なんですわ。\n"
+"最初はお客さんに有利な盤面にしときますけど、\n"
+"だんだん難しい盤面にしていきますんで。"
+msgstr ""
+
+msgctxt "6236"
+msgid ""
+"遊び代を、５００円頂きますけど\n"
+"勝てばウレシイ景品をあげますわ。\n"
+"頑張ってな。"
+msgstr ""
+
+msgctxt "6315"
+msgid ""
+"なんだい、お兄ちゃん、お金無いんか？\n"
+"５００円ためてから、また来て。"
+msgstr ""
+
+msgctxt "6384"
+msgid ""
+"いらっしゃい！\n"
+"今、新・将棋王誕生キャンペーン期間なんだ。\n"
+"無料になるから、ちょっと遊んでいくかい？"
+msgstr ""
+
+msgctxt "6485"
+msgid "ああ、遊ばせてもらおう。"
+msgstr ""
+
+msgctxt "6510"
+msgid ""
+"わかった。\n"
+"だれと対局するかね？"
+msgstr ""
+
+msgctxt "6543"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6544"
+msgid "それじゃ、頑張って！"
+msgstr ""
+
+msgctxt "6565"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6566"
+msgid "ああ、遊ばせてもらおう。"
+msgstr ""
+
+msgctxt "6591"
+msgid ""
+"おお、やりますか。\n"
+"だれと対局しますかね？"
+msgstr ""
+
+msgctxt "6634"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6635"
+msgid "それじゃ、頑張ってな。"
+msgstr ""
+
+msgctxt "6658"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6659"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6696"
+msgid "店主"
+msgstr ""
+
+msgctxt "6701"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6707"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6716"
+msgid "順位戦で遊ぶ"
+msgstr ""
+
+msgctxt "6729"
+msgid "試練踏破で遊ぶ"
+msgstr ""
+
+msgctxt "6744"
+msgid "説明を聞く"
+msgstr ""
+
+msgctxt "6755"
+msgid "やめる"
+msgstr ""
+
+msgctxt "6762"
+msgid "Player"
+msgstr ""
+
+msgctxt "6769"
+msgid "Talk_No"
+msgstr ""

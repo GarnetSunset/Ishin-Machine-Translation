@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "10420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10421"
+msgid "ぐふっ……　ば、ばかな……"
+msgstr ""
+
+msgctxt "10448"
+msgid ""
+"な、なんということだ……\n"
+"クソッ！　負けたから、金は払わんからなっ！\n"
+"さ、さらばじゃっ！"
+msgstr ""
+
+msgctxt "10537"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10538"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10539"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10540"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10541"
+msgid ""
+"あんた、強えな……\n"
+"こんなに強い奴、初めて会ったぜ……"
+msgstr ""
+
+msgctxt "10596"
+msgid ""
+"お前も十分強い。\n"
+"運が悪かったとでも、思うんだな。"
+msgstr ""
+
+msgctxt "10647"
+msgid ""
+"いや、この差は運じゃねぇ。\n"
+"俺は、自分の力にあぐらをかいていたみてぇだ。\n"
+"……もう一度、出直してくる。"
+msgstr ""
+
+msgctxt "10750"
+msgid ""
+"強い奴とどんどん戦って、倒して……\n"
+"この体の入れ墨が、今の倍になったとき。\n"
+"もう一度、あんたに挑戦させてもらう。"
+msgstr ""
+
+msgctxt "10863"
+msgid ""
+"それまでせいぜい、首を洗って待っててくれ。\n"
+"じゃあな。"
+msgstr ""
+
+msgctxt "10918"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10921"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10922"
+msgid ""
+"（変な奴だが、なかなかの腕前だ……\n"
+"　今度会った時には、やっかいな相手になりそうだな）"
+msgstr ""
+
+msgctxt "11009"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11010"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11011"
+msgid ""
+"おっ？　お客さんかい？\n"
+"いらっしゃい。"
+msgstr ""
+
+msgctxt "11050"
+msgid ""
+"いや、客じゃない。\n"
+"なんなんだ？　喧嘩屋とは……？"
+msgstr ""
+
+msgctxt "11101"
+msgid ""
+"ああ。これはね。\n"
+"誰かぶっ倒してほしい奴がいたら、俺が替わりに\n"
+"ぶっ倒しますよ！っていう仕事だ。"
+msgstr ""
+
+msgctxt "11198"
+msgid ""
+"まぁ……　殺し屋に近いかもしれねぇな。\n"
+"ちなみに墨坊主は、俺の名前な。"
+msgstr ""
+
+msgctxt "11269"
+msgid ""
+"ふむ。物騒な職業だな。\n"
+"……いいのか？　堂々とそんな旗かかげて？\n"
+"つかまるかもしれないだろ？"
+msgstr ""
+
+msgctxt "11362"
+msgid ""
+"へっ。そん時は、俺を捕まえようとするやつを\n"
+"ボコボコにすればいいだけの話ですわ。"
+msgstr ""
+
+msgctxt "11443"
+msgid ""
+"いかにも喧嘩屋らしい理屈だな。\n"
+"……しかし、お前の体に入っている名前の入れ墨。\n"
+"それはなんだ？"
+msgstr ""
+
+msgctxt "11538"
+msgid ""
+"ああ。これは俺がぶっ倒した奴の名前ですわ。\n"
+"倒した奴の分だけ、名前を彫ってるんです。\n"
+"これをどんどん、増やしていくのが目標なんですわ。"
+msgstr ""
+
+msgctxt "11673"
+msgid "悪趣味だな……"
+msgstr ""
+
+msgctxt "11688"
+msgid ""
+"へへ。まぁ、旦那も気が向いたら使ってくださいよ。\n"
+"……今日はこの後、馴染みの客が来るんで、\n"
+"またの機会にでも。"
+msgstr ""
+
+msgctxt "11799"
+msgid "ふっ。悪いが間に合っている。"
+msgstr ""
+
+msgctxt "11828"
+msgid "こんなところに何でワシが……"
+msgstr ""
+
+msgctxt "11857"
+msgid ""
+"あっ、喧嘩屋！\n"
+"こんなところにいたのか。探させおって。"
+msgstr ""
+
+msgctxt "11912"
+msgid ""
+"来たか。\n"
+"で、今回はどんな奴をぶっ倒せばいいんですかい？"
+msgstr ""
+
+msgctxt "11969"
+msgid "このワシに恥をかかせた奴がいるんだが……"
+msgstr ""
+
+msgctxt "12010"
+msgid ""
+"おぉ、ちょうどこの男くらいの背丈で、\n"
+"眼は鋭くて、ガラが悪そうな……"
+msgstr ""
+
+msgctxt "12079"
+msgid "……って、おぉい!!　喧嘩屋！"
+msgstr ""
+
+msgctxt "12108"
+msgid "こいつだ！　こいつ！"
+msgstr ""
+
+msgctxt "12129"
+msgid "ん……？"
+msgstr ""
+
+msgctxt "12138"
+msgid "お前は……"
+msgstr ""
+
+msgctxt "12149"
+msgid "へへへ。覚えているだろう？"
+msgstr ""
+
+msgctxt "12176"
+msgid "…………"
+msgstr ""
+
+msgctxt "12185"
+msgid "……誰だ？"
+msgstr ""
+
+msgctxt "12196"
+msgid "あぁ!?"
+msgstr ""
+
+msgctxt "12203"
+msgid ""
+"お前に以前、ええじゃないか騒ぎの時にやられた\n"
+"代官様だよ！　忘れたとは言わせんぞ！"
+msgstr ""
+
+msgctxt "12286"
+msgid "…………"
+msgstr ""
+
+msgctxt "12295"
+msgid "…………!!"
+msgstr ""
+
+msgctxt "12306"
+msgid "すまんな。完全に忘れてしまった……"
+msgstr ""
+
+msgctxt "12341"
+msgid ""
+"ええい！　もういい！\n"
+"さぁ、喧嘩屋！　契約通りボコボコにしてくれ！"
+msgstr ""
+
+msgctxt "12408"
+msgid "何？"
+msgstr ""
+
+msgctxt "12413"
+msgid ""
+"偶然だねぇ……　まさか次の仕事の相手が、\n"
+"あんただったなんて。\n"
+"運命を感じるぜ……"
+msgstr ""
+
+msgctxt "12496"
+msgid ""
+"……そうか。お前の馴染みの客ってのは、\n"
+"この代官だったのか。"
+msgstr ""
+
+msgctxt "12557"
+msgid ""
+"すみませんねぇ。仕事なんで。\n"
+"……あんた、名前は？"
+msgstr ""
+
+msgctxt "12608"
+msgid "斎藤だ。"
+msgstr ""
+
+msgctxt "12617"
+msgid ""
+"斎藤、か……\n"
+"じゃあ、さっさとぶっ倒して、あんたの名前……\n"
+"俺の体に刻ませてもらうぜ！"
+msgstr ""
+
+msgctxt "12704"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12705"
+msgid "（ん……？　なんだ、あれは？）"
+msgstr ""
+
+msgctxt "12736"
+msgid "喧嘩屋……　すみぼうず……？"
+msgstr ""
+
+msgctxt "14684"
+msgid "喧嘩屋・墨坊主"
+msgstr ""
+
+msgctxt "14699"
+msgid "悪代官"
+msgstr ""
+
+msgctxt "14706"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "14728"
+msgid "M_BUS_TLK_btl_aft_nw_03_en"
+msgstr ""
+
+msgctxt "14755"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "14760"
+msgid "M_BUS_TLK_stand_no"
+msgstr ""
+
+msgctxt "14779"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14785"
+msgid "M_BUS_TLK_stand_yes"
+msgstr ""
+
+msgctxt "14805"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "14816"
+msgid "kaiwabgm_apathy_03"
+msgstr ""
+
+msgctxt "14835"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "14845"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "14857"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "14868"
+msgid "M_CHO_TLK_stand_info_f"
+msgstr ""
+
+msgctxt "14891"
+msgid "Talk_Yes"
+msgstr ""

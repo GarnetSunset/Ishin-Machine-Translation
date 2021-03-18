@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3832"
+msgid ""
+"ようこそ。\n"
+"バカラテーブルへ。"
+msgstr ""
+
+msgctxt "3863"
+msgid "それではゲームを開始します。"
+msgstr ""
+
+msgctxt "3892"
+msgid "またの御越しをお待ちしております。"
+msgstr ""
+
+msgctxt "3927"
+msgid ""
+"チップが足りないようですね、\n"
+"またの御越しをお待ちしております。"
+msgstr ""
+
+msgctxt "3992"
+msgid ""
+"ＰＬＡＹＥＲかＢＡＮＫＥＲのどちらが勝つか、\n"
+"またはＴＩＥ（引き分け）かを選んでください。"
+msgstr ""
+
+msgctxt "4083"
+msgid ""
+"ＰＬＡＹＥＲかＢＡＮＫＥＲのどちらが勝つか、\n"
+"またはＴＩＥ（引き分け）、ＰＡＩＲ、ＳＵＰＥＲ６\n"
+"かを選んでください。"
+msgstr ""
+
+msgctxt "4200"
+msgid ""
+"ＢＥＴ　ＬＩＭＩＴを参考に、\n"
+"ＭＩＮ～ＭＡＸまでのチップを賭けてください。"
+msgstr ""
+
+msgctxt "4275"
+msgid "カードを配ります。"
+msgstr ""
+
+msgctxt "4294"
+msgid ""
+"では、ＰＬＡＹＥＲの\n"
+"１枚目のカードをオープンします。"
+msgstr ""
+
+msgctxt "4349"
+msgid ""
+"ＰＬＡＹＥＲの\n"
+"２枚目のカードをオープンします。"
+msgstr ""
+
+msgctxt "4398"
+msgid "ＰＬＡＹＥＲは６でスタンドです。"
+msgstr ""
+
+msgctxt "4431"
+msgid "ＰＬＡＹＥＲは７でスタンドです。"
+msgstr ""
+
+msgctxt "4464"
+msgid "ＰＬＡＹＥＲは８でナチュラルです。"
+msgstr ""
+
+msgctxt "4499"
+msgid "ＰＬＡＹＥＲは９でナチュラルです。"
+msgstr ""
+
+msgctxt "4534"
+msgid ""
+"ＢＡＮＫＥＲが８か９でない場合は、\n"
+"３枚目が配られます。"
+msgstr ""
+
+msgctxt "4591"
+msgid ""
+"ＢＡＮＫＥＲの\n"
+"１枚目のカードをオープンします。"
+msgstr ""
+
+msgctxt "4640"
+msgid ""
+"ＢＡＮＫＥＲの\n"
+"２枚目のカードをオープンします。"
+msgstr ""
+
+msgctxt "4689"
+msgid "ＢＡＮＫＥＲは６でスタンドです。"
+msgstr ""
+
+msgctxt "4722"
+msgid ""
+"ＢＡＮＫＥＲは６でスタンドです。\n"
+"ＰＬＡＹＥＲに３枚目のカードを配ります。"
+msgstr ""
+
+msgctxt "4797"
+msgid "ＢＡＮＫＥＲは７でスタンドです。"
+msgstr ""
+
+msgctxt "4830"
+msgid ""
+"ＢＡＮＫＥＲは７でスタンドです。\n"
+"ＰＬＡＹＥＲに３枚目のカードを配ります。"
+msgstr ""
+
+msgctxt "4905"
+msgid "ＢＡＮＫＥＲは８でナチュラルです。"
+msgstr ""
+
+msgctxt "4940"
+msgid "ＢＡＮＫＥＲは９でナチュラルです。"
+msgstr ""
+
+msgctxt "4975"
+msgid ""
+"ＰＬＡＹＥＲの３枚目をあわせた合計によって、\n"
+"ＢＡＮＫＥＲに３枚目が配られるかが決まります。"
+msgstr ""
+
+msgctxt "5068"
+msgid ""
+"ＰＬＡＹＥＲはスタンドです。\n"
+"ＢＡＮＫＥＲに３枚目のカードを配ります。"
+msgstr ""
+
+msgctxt "5139"
+msgid ""
+"ＰＬＡＹＥＲの\n"
+"３枚目のカードをオープンします。"
+msgstr ""
+
+msgctxt "5188"
+msgid ""
+"条件により\n"
+"ＢＡＮＫＥＲには３枚目のカードは配られません。"
+msgstr ""
+
+msgctxt "5247"
+msgid ""
+"条件により\n"
+"ＢＡＮＫＥＲに３枚目のカードを配ります。"
+msgstr ""
+
+msgctxt "5300"
+msgid ""
+"ＢＡＮＫＥＲの\n"
+"３枚目のカードをオープンします。"
+msgstr ""
+
+msgctxt "5349"
+msgid "ＰＬＡＹＥＲの勝ちです。"
+msgstr ""
+
+msgctxt "5374"
+msgid "ＢＡＮＫＥＲの勝ちです。"
+msgstr ""
+
+msgctxt "5399"
+msgid "ＴＩＥ（引き分け）ですね。"
+msgstr ""
+
+msgctxt "5426"
+msgid "おめでとうございます。"
+msgstr ""
+
+msgctxt "5449"
+msgid "残念でした。"
+msgstr ""
+
+msgctxt "5462"
+msgid "続けますか？"
+msgstr ""
+
+msgctxt "5475"
+msgid "どうぞ。"
+msgstr ""
+
+msgctxt "5484"
+msgid "山札が残りわずかになったので、シャッフルします。"
+msgstr ""
+
+msgctxt "5533"
+msgid "ＰＬＡＹＥＲがペアのようですね。"
+msgstr ""
+
+msgctxt "5566"
+msgid "ＢＡＮＫＥＲがペアのようですね。"
+msgstr ""
+
+msgctxt "5599"
+msgid "ＳＵＰＥＲ６です。"
+msgstr ""
+
+msgctxt "5618"
+msgid "お客様、波に乗っていますね。"
+msgstr ""
+
+msgctxt "5647"
+msgid "いい調子ですね。"
+msgstr ""
+
+msgctxt "5664"
+msgid "（アイテムの効果が切れたようだ……）"
+msgstr ""
+
+msgctxt "5701"
+msgid ""
+"ＰＬＡＹＥＲとＢＡＮＫＥＲに\n"
+"それぞれ３枚目のカードを配ります。"
+msgstr ""

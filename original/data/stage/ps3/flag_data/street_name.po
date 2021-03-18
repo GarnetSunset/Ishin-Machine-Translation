@@ -1,0 +1,1008 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "17"
+msgid "テスト１"
+msgstr ""
+
+msgctxt "28"
+msgid "テスト２"
+msgstr ""
+
+msgctxt "39"
+msgid "テスト３"
+msgstr ""
+
+msgctxt "68"
+msgid "京都"
+msgstr ""
+
+msgctxt "75"
+msgid "洛内"
+msgstr ""
+
+msgctxt "82"
+msgid "洛外"
+msgstr ""
+
+msgctxt "89"
+msgid "伏見"
+msgstr ""
+
+msgctxt "96"
+msgid "骸街"
+msgstr ""
+
+msgctxt "103"
+msgid "薩摩藩邸"
+msgstr ""
+
+msgctxt "114"
+msgid "神社"
+msgstr ""
+
+msgctxt "121"
+msgid "京都御所へ"
+msgstr ""
+
+msgctxt "134"
+msgid "祗園へ"
+msgstr ""
+
+msgctxt "143"
+msgid "新選組屯所へ"
+msgstr ""
+
+msgctxt "158"
+msgid "洛外へ"
+msgstr ""
+
+msgctxt "167"
+msgid "骸街へ"
+msgstr ""
+
+msgctxt "176"
+msgid "清水寺へ"
+msgstr ""
+
+msgctxt "187"
+msgid "林道へ"
+msgstr ""
+
+msgctxt "196"
+msgid "伏見へ"
+msgstr ""
+
+msgctxt "205"
+msgid "龍馬邸へ"
+msgstr ""
+
+msgctxt "216"
+msgid "釣り場へ"
+msgstr ""
+
+msgctxt "227"
+msgid "海釣り場へ"
+msgstr ""
+
+msgctxt "240"
+msgid "江戸城へ"
+msgstr ""
+
+msgctxt "251"
+msgid "烏丸通"
+msgstr ""
+
+msgctxt "260"
+msgid "烏丸通南"
+msgstr ""
+
+msgctxt "271"
+msgid "寺町通"
+msgstr ""
+
+msgctxt "280"
+msgid "寺町通南"
+msgstr ""
+
+msgctxt "291"
+msgid "四条通り"
+msgstr ""
+
+msgctxt "302"
+msgid "四条通り西"
+msgstr ""
+
+msgctxt "315"
+msgid "四条通り東"
+msgstr ""
+
+msgctxt "328"
+msgid "四条大橋"
+msgstr ""
+
+msgctxt "339"
+msgid "四条通り関所前"
+msgstr ""
+
+msgctxt "356"
+msgid "神明町"
+msgstr ""
+
+msgctxt "365"
+msgid "寺町"
+msgstr ""
+
+msgctxt "372"
+msgid "河原町"
+msgstr ""
+
+msgctxt "381"
+msgid "梅小路町"
+msgstr ""
+
+msgctxt "392"
+msgid "梅小路町北"
+msgstr ""
+
+msgctxt "405"
+msgid "梅小路町西"
+msgstr ""
+
+msgctxt "418"
+msgid "梅小路町東"
+msgstr ""
+
+msgctxt "431"
+msgid "梅小路町南"
+msgstr ""
+
+msgctxt "444"
+msgid "山王町"
+msgstr ""
+
+msgctxt "453"
+msgid "伏見一番街"
+msgstr ""
+
+msgctxt "466"
+msgid "伏見一番街北"
+msgstr ""
+
+msgctxt "481"
+msgid "伏見一番街南"
+msgstr ""
+
+msgctxt "496"
+msgid "屋敷町"
+msgstr ""
+
+msgctxt "505"
+msgid "屋敷町北"
+msgstr ""
+
+msgctxt "516"
+msgid "屋敷町南"
+msgstr ""
+
+msgctxt "527"
+msgid "新町"
+msgstr ""
+
+msgctxt "534"
+msgid "蔵町"
+msgstr ""
+
+msgctxt "541"
+msgid "どん・きほーて"
+msgstr ""
+
+msgctxt "558"
+msgid "はなまるうどん"
+msgstr ""
+
+msgctxt "575"
+msgid "銀だこ"
+msgstr ""
+
+msgctxt "584"
+msgid "すしざんまい"
+msgstr ""
+
+msgctxt "599"
+msgid "富士そば"
+msgstr ""
+
+msgctxt "610"
+msgid "卓袱料理　百川"
+msgstr ""
+
+msgctxt "627"
+msgid "和民"
+msgstr ""
+
+msgctxt "634"
+msgid "釜寅"
+msgstr ""
+
+msgctxt "641"
+msgid "越中堂"
+msgstr ""
+
+msgctxt "650"
+msgid "洛内　ゑびすや"
+msgstr ""
+
+msgctxt "667"
+msgid "鍛冶　くろがね屋"
+msgstr ""
+
+msgctxt "686"
+msgid "にちぶ座"
+msgstr ""
+
+msgctxt "697"
+msgid "生駒屋"
+msgstr ""
+
+msgctxt "706"
+msgid "吟柳道場"
+msgstr ""
+
+msgctxt "717"
+msgid "池田屋"
+msgstr ""
+
+msgctxt "726"
+msgid "四国屋"
+msgstr ""
+
+msgctxt "735"
+msgid "天元寺"
+msgstr ""
+
+msgctxt "744"
+msgid "極楽"
+msgstr ""
+
+msgctxt "751"
+msgid "宇治茶屋"
+msgstr ""
+
+msgctxt "762"
+msgid "武器屋　洛外"
+msgstr ""
+
+msgctxt "777"
+msgid "武器屋　骸街"
+msgstr ""
+
+msgctxt "792"
+msgid "闘技場"
+msgstr ""
+
+msgctxt "801"
+msgid "古牧道場"
+msgstr ""
+
+msgctxt "812"
+msgid "鵜入庵"
+msgstr ""
+
+msgctxt "821"
+msgid "吟柳道場"
+msgstr ""
+
+msgctxt "832"
+msgid "かかし屋敷"
+msgstr ""
+
+msgctxt "845"
+msgid "大砲弾捌き"
+msgstr ""
+
+msgctxt "858"
+msgid "お尋ね者受付"
+msgstr ""
+
+msgctxt "873"
+msgid "居酒屋　骸街"
+msgstr ""
+
+msgctxt "888"
+msgid "麻雀荘"
+msgstr ""
+
+msgctxt "897"
+msgid "競鶏場"
+msgstr ""
+
+msgctxt "906"
+msgid "賭場"
+msgstr ""
+
+msgctxt "913"
+msgid "歌まる屋"
+msgstr ""
+
+msgctxt "924"
+msgid "居酒屋　はなこ"
+msgstr ""
+
+msgctxt "941"
+msgid "うまい屋うどん"
+msgstr ""
+
+msgctxt "958"
+msgid "伏見　ゑびすや"
+msgstr ""
+
+msgctxt "975"
+msgid "万　一蔵屋"
+msgstr ""
+
+msgctxt "988"
+msgid "達者堂"
+msgstr ""
+
+msgctxt "997"
+msgid "播磨屋"
+msgstr ""
+
+msgctxt "1006"
+msgid "播磨屋"
+msgstr ""
+
+msgctxt "1015"
+msgid "寺田屋"
+msgstr ""
+
+msgctxt "1024"
+msgid "千石邸"
+msgstr ""
+
+msgctxt "1033"
+msgid "天奉道場"
+msgstr ""
+
+msgctxt "1044"
+msgid "居酒屋　松之井"
+msgstr ""
+
+msgctxt "1061"
+msgid "居酒屋　伏見"
+msgstr ""
+
+msgctxt "1076"
+msgid "関所"
+msgstr ""
+
+msgctxt "1083"
+msgid "骸街２階"
+msgstr ""
+
+msgctxt "1094"
+msgid "骸街３階"
+msgstr ""
+
+msgctxt "1105"
+msgid "五条大橋"
+msgstr ""
+
+msgctxt "1116"
+msgid "予備6"
+msgstr ""
+
+msgctxt "1124"
+msgid "予備7"
+msgstr ""
+
+msgctxt "1132"
+msgid "予備8"
+msgstr ""
+
+msgctxt "1140"
+msgid "予備9"
+msgstr ""
+
+msgctxt "1148"
+msgid "予備10"
+msgstr ""
+
+msgctxt "1157"
+msgid "予備11"
+msgstr ""
+
+msgctxt "1166"
+msgid "予備12"
+msgstr ""
+
+msgctxt "1192"
+msgid "土佐"
+msgstr ""
+
+msgctxt "1199"
+msgid "奉行所"
+msgstr ""
+
+msgctxt "1208"
+msgid "高知城"
+msgstr ""
+
+msgctxt "1217"
+msgid "牽牛子塾"
+msgstr ""
+
+msgctxt "1228"
+msgid "浜茶屋"
+msgstr ""
+
+msgctxt "1237"
+msgid "酔い酔い"
+msgstr ""
+
+msgctxt "1248"
+msgid "武市道場"
+msgstr ""
+
+msgctxt "1259"
+msgid "神社"
+msgstr ""
+
+msgctxt "1266"
+msgid "船着き場"
+msgstr ""
+
+msgctxt "1297"
+msgid "達者堂"
+msgstr ""
+
+msgctxt "1327"
+msgid "寺田屋"
+msgstr ""
+
+msgctxt "1360"
+msgid "伏見　ゑびすや"
+msgstr ""
+
+msgctxt "1395"
+msgid "すしざんまい"
+msgstr ""
+
+msgctxt "1433"
+msgid "和民"
+msgstr ""
+
+msgctxt "1464"
+msgid "万　一蔵屋"
+msgstr ""
+
+msgctxt "1496"
+msgid "はなまるうどん"
+msgstr ""
+
+msgctxt "1532"
+msgid "鍛冶　くろがね屋"
+msgstr ""
+
+msgctxt "1575"
+msgid "武市道場"
+msgstr ""
+
+msgctxt "1605"
+msgid "近江屋"
+msgstr ""
+
+msgctxt "1637"
+msgid "播磨屋"
+msgstr ""
+
+msgctxt "1672"
+msgid "牽牛子塾"
+msgstr ""
+
+msgctxt "1704"
+msgid "高知城"
+msgstr ""
+
+msgctxt "1713"
+msgid "裏山社中　隠れ家"
+msgstr ""
+
+msgctxt "1732"
+msgid "城"
+msgstr ""
+
+msgctxt "1763"
+msgid "高知城(一室)"
+msgstr ""
+
+msgctxt "1804"
+msgid "高知城(庭)"
+msgstr ""
+
+msgctxt "1835"
+msgid "牢屋"
+msgstr ""
+
+msgctxt "1866"
+msgid "山道(土佐)"
+msgstr ""
+
+msgctxt "1902"
+msgid "とある道場"
+msgstr ""
+
+msgctxt "1940"
+msgid "とある料亭"
+msgstr ""
+
+msgctxt "1978"
+msgid "武市のねぐら"
+msgstr ""
+
+msgctxt "2014"
+msgid "新選組屯所"
+msgstr ""
+
+msgctxt "2027"
+msgid "新選組屯所　門"
+msgstr ""
+
+msgctxt "2044"
+msgid "新選組屯所　蔵"
+msgstr ""
+
+msgctxt "2061"
+msgid "新選組屯所　境内"
+msgstr ""
+
+msgctxt "2080"
+msgid "新選組屯所　隊長棟"
+msgstr ""
+
+msgctxt "2101"
+msgid "新選組屯所　鐘突堂"
+msgstr ""
+
+msgctxt "2122"
+msgid "新選組屯所　本堂"
+msgstr ""
+
+msgctxt "2166"
+msgid "清水寺"
+msgstr ""
+
+msgctxt "2201"
+msgid "春日"
+msgstr ""
+
+msgctxt "2235"
+msgid "日向屋"
+msgstr ""
+
+msgctxt "2272"
+msgid "椿楼"
+msgstr ""
+
+msgctxt "2296"
+msgid "賭場"
+msgstr ""
+
+msgctxt "2325"
+msgid "武器屋　洛外"
+msgstr ""
+
+msgctxt "2362"
+msgid "武器屋　骸街"
+msgstr ""
+
+msgctxt "2405"
+msgid "民家"
+msgstr ""
+
+msgctxt "2440"
+msgid "民家"
+msgstr ""
+
+msgctxt "2475"
+msgid "民家"
+msgstr ""
+
+msgctxt "2506"
+msgid "洛内　ゑびすや"
+msgstr ""
+
+msgctxt "2547"
+msgid "どん・きほーて"
+msgstr ""
+
+msgctxt "2590"
+msgid "新選組屯所"
+msgstr ""
+
+msgctxt "2603"
+msgid "壬生"
+msgstr ""
+
+msgctxt "2610"
+msgid "洛内へ"
+msgstr ""
+
+msgctxt "2619"
+msgid "大竹茶屋"
+msgstr ""
+
+msgctxt "2647"
+msgid "祗園"
+msgstr ""
+
+msgctxt "2654"
+msgid "洛内へ"
+msgstr ""
+
+msgctxt "2663"
+msgid "春日"
+msgstr ""
+
+msgctxt "2670"
+msgid "椿楼"
+msgstr ""
+
+msgctxt "2677"
+msgid "旭屋"
+msgstr ""
+
+msgctxt "2684"
+msgid "日向屋"
+msgstr ""
+
+msgctxt "2693"
+msgid "山吹"
+msgstr ""
+
+msgctxt "2700"
+msgid "四条通り"
+msgstr ""
+
+msgctxt "2711"
+msgid "鴨川大社"
+msgstr ""
+
+msgctxt "2742"
+msgid "池田屋"
+msgstr ""
+
+msgctxt "2751"
+msgid "池田屋　一階"
+msgstr ""
+
+msgctxt "2766"
+msgid "池田屋　二階"
+msgstr ""
+
+msgctxt "2781"
+msgid "池田屋　三階"
+msgstr ""
+
+msgctxt "2796"
+msgid "池田屋　玄関"
+msgstr ""
+
+msgctxt "2834"
+msgid "京都薩摩藩邸"
+msgstr ""
+
+msgctxt "2875"
+msgid "旭屋"
+msgstr ""
+
+msgctxt "2902"
+msgid "千石邸"
+msgstr ""
+
+msgctxt "2932"
+msgid "松之井"
+msgstr ""
+
+msgctxt "2959"
+msgid "江戸城"
+msgstr ""
+
+msgctxt "2989"
+msgid "御所前"
+msgstr ""
+
+msgctxt "3017"
+msgid "出島"
+msgstr ""
+
+msgctxt "3044"
+msgid "青葉"
+msgstr ""
+
+msgctxt "3078"
+msgid "百川"
+msgstr ""
+
+msgctxt "3108"
+msgid "福々屋"
+msgstr ""
+
+msgctxt "3137"
+msgid "越中堂"
+msgstr ""
+
+msgctxt "3166"
+msgid "釣り"
+msgstr ""
+
+msgctxt "3193"
+msgid "ダンジョン狩場"
+msgstr ""
+
+msgctxt "3228"
+msgid "闘技場"
+msgstr ""
+
+msgctxt "3255"
+msgid "将棋屋"
+msgstr ""
+
+msgctxt "3284"
+msgid "麻雀屋"
+msgstr ""
+
+msgctxt "3313"
+msgid "にちぶ座"
+msgstr ""
+
+msgctxt "3348"
+msgid "古牧道場"
+msgstr ""
+
+msgctxt "3383"
+msgid "吟柳道場"
+msgstr ""
+
+msgctxt "3418"
+msgid "ウィリアムの隠れ家"
+msgstr ""
+
+msgctxt "3439"
+msgid "鵜入庵"
+msgstr ""
+
+msgctxt "3472"
+msgid "かかし屋敷"
+msgstr ""
+
+msgctxt "3509"
+msgid "お尋ね者受付"
+msgstr ""
+
+msgctxt "3548"
+msgid "競鶏場"
+msgstr ""
+
+msgctxt "3576"
+msgid "歌まる屋"
+msgstr ""
+
+msgctxt "3609"
+msgid "江戸城(門)"
+msgstr ""
+
+msgctxt "3645"
+msgid "江戸城(部屋)"
+msgstr ""
+
+msgctxt "3680"
+msgid "八木邸"
+msgstr ""
+
+msgctxt "3709"
+msgid "野盗の洞窟"
+msgstr ""
+
+msgctxt "3742"
+msgid "野盗の洞窟"
+msgstr ""
+
+msgctxt "3775"
+msgid "野盗の洞窟"
+msgstr ""
+
+msgctxt "3808"
+msgid "野盗の洞窟"
+msgstr ""
+
+msgctxt "3841"
+msgid "野盗の洞窟"
+msgstr ""
+
+msgctxt "3874"
+msgid "野盗の洞窟"
+msgstr ""
+
+msgctxt "3907"
+msgid "野盗の洞窟"
+msgstr ""
+
+msgctxt "3940"
+msgid "野盗の洞窟"
+msgstr ""
+
+msgctxt "3973"
+msgid "野盗の洞窟"
+msgstr ""
+
+msgctxt "4006"
+msgid "野盗の洞窟"
+msgstr ""
+
+msgctxt "4040"
+msgid "龍馬の別宅"
+msgstr ""
+
+msgctxt "4073"
+msgid "土佐行きの船"
+msgstr ""
+
+msgctxt "4114"
+msgid "とある邸宅"
+msgstr ""
+
+msgctxt "4150"
+msgid "天守閣"
+msgstr ""
+
+msgctxt "4184"
+msgid "とある書斎"
+msgstr ""
+
+msgctxt "4224"
+msgid "義賊の廃鉱"
+msgstr ""
+
+msgctxt "4264"
+msgid "義賊の廃鉱"
+msgstr ""
+
+msgctxt "4304"
+msgid "義賊の廃鉱"
+msgstr ""
+
+msgctxt "4344"
+msgid "義賊の廃鉱"
+msgstr ""
+
+msgctxt "4384"
+msgid "義賊の廃鉱"
+msgstr ""
+
+msgctxt "4424"
+msgid "義賊の廃鉱"
+msgstr ""
+
+msgctxt "4464"
+msgid "義賊の廃鉱"
+msgstr ""
+
+msgctxt "4504"
+msgid "義賊の廃鉱"
+msgstr ""
+
+msgctxt "4544"
+msgid "義賊の廃鉱"
+msgstr ""
+
+msgctxt "4584"
+msgid "義賊の廃鉱"
+msgstr ""
+
+msgctxt "4622"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "4660"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "4698"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "4736"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "4774"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "4812"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "4850"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "4888"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "4926"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "4964"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "5002"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "5040"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "5078"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "5116"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "5154"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "5192"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "5230"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "5268"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "5306"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "5344"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "5383"
+msgid "とある座敷"
+msgstr ""
+
+msgctxt "5420"
+msgid "土佐(要塞)"
+msgstr ""
+
+msgctxt "5459"
+msgid "龍馬の家(外)"
+msgstr ""
+
+msgctxt "5493"
+msgid "林道"
+msgstr ""

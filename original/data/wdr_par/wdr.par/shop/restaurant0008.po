@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "380"
+msgid "－"
+msgstr ""
+
+msgctxt "383"
+msgid "所持数"
+msgstr ""
+
+msgctxt "390"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "415"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "448"
+msgid "ありがとうございます。%sになります。"
+msgstr ""
+
+msgctxt "485"
+msgid "（これ以上食べられないな……）"
+msgstr ""
+
+msgctxt "516"
+msgid "（これ以上飲めないな……）"
+msgstr ""
+
+msgctxt "543"
+msgid "御品書"
+msgstr ""
+
+msgctxt "550"
+msgid "－"
+msgstr ""
+
+msgctxt "553"
+msgid "注"
+msgstr ""
+
+msgctxt "556"
+msgid "（うむ、うまいな）"
+msgstr ""
+
+msgctxt "575"
+msgid "（いけるな）"
+msgstr ""
+
+msgctxt "588"
+msgid "（なかなかのものだな）"
+msgstr ""
+
+msgctxt "611"
+msgid "（うむ、なかなかだな）"
+msgstr ""
+
+msgctxt "634"
+msgid "（これは、いいな）"
+msgstr ""
+
+msgctxt "653"
+msgid "（うまいものだな）"
+msgstr ""
+
+msgctxt "672"
+msgid "（なかなか、いけるな）"
+msgstr ""
+
+msgctxt "695"
+msgid "（これは、なかなか……）"
+msgstr ""
+
+msgctxt "720"
+msgid "（こいつは、うまいぞ）"
+msgstr ""
+
+msgctxt "743"
+msgid "（ふむ、いけるな）"
+msgstr ""
+
+msgctxt "762"
+msgid "（う～ん……　イマイチだな……）"
+msgstr ""
+
+msgctxt "795"
+msgid "chair"
+msgstr ""
+
+msgctxt "801"
+msgid ""
+"海と大地の恵みを堪能する釜飯の王様です。\n"
+"エビ・鶏・ホタテ・山菜など１３種類もの具材が\n"
+"絶妙に調和する豪華な釜飯です。"
+msgstr ""
+
+msgctxt "918"
+msgid ""
+"柔らかく旨味たっぷりの鶏肉はご飯の友。\n"
+"照り焼き風に味付けした鶏肉をどか～んとのせました。\n"
+"鶏の旨味が口の中に広がります。"
+msgstr ""
+
+msgctxt "1039"
+msgid ""
+"贅沢な旨味いっぱいの海の幸が見事に共演。\n"
+"お口いっぱいに広がる海の香りと豊潤な味わいを\n"
+"心ゆくまでご堪能ください。"
+msgstr ""
+
+msgctxt "1152"
+msgid ""
+"『釜寅』を代表する絶品釜飯です。\n"
+"驚くほど柔らかい、あつあつのうなぎの旨さに絶句！\n"
+"絶妙の蒸し加減でうなぎを柔らかく仕上げました。"
+msgstr ""
+
+msgctxt "1281"
+msgid ""
+"ふんわりと柔らかく仕上げた\n"
+"あさりの美味しさが格別の釜飯です。"
+msgstr ""
+
+msgctxt "1343"
+msgid ""
+"まさに一流料亭の味です。\n"
+"鯛の香りと味を生かし、上品に仕上げました。\n"
+"お茶漬けも絶品です。"
+msgstr ""

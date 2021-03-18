@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2292"
+msgid "ピンゾロの丁！"
+msgstr ""
+
+msgctxt "2307"
+msgid "イチニの半！"
+msgstr ""
+
+msgctxt "2320"
+msgid "サンイチの丁！"
+msgstr ""
+
+msgctxt "2335"
+msgid "ヨイチの半！"
+msgstr ""
+
+msgctxt "2348"
+msgid "グイチの丁！"
+msgstr ""
+
+msgctxt "2361"
+msgid "イチロクの半！"
+msgstr ""
+
+msgctxt "2376"
+msgid "ニゾロの丁！"
+msgstr ""
+
+msgctxt "2389"
+msgid "サニの半！"
+msgstr ""
+
+msgctxt "2400"
+msgid "シニの丁！"
+msgstr ""
+
+msgctxt "2411"
+msgid "グニの半！"
+msgstr ""
+
+msgctxt "2422"
+msgid "ニロクの丁！"
+msgstr ""
+
+msgctxt "2435"
+msgid "サンゾロの丁！"
+msgstr ""
+
+msgctxt "2450"
+msgid "シソウの半！"
+msgstr ""
+
+msgctxt "2463"
+msgid "グサンの丁！"
+msgstr ""
+
+msgctxt "2476"
+msgid "サブロクの半！"
+msgstr ""
+
+msgctxt "2491"
+msgid "シゾロの丁！"
+msgstr ""
+
+msgctxt "2504"
+msgid "グシの半！"
+msgstr ""
+
+msgctxt "2515"
+msgid "シロクの丁！"
+msgstr ""
+
+msgctxt "2528"
+msgid "ゴゾロの丁！"
+msgstr ""
+
+msgctxt "2541"
+msgid "ゴロクの半！"
+msgstr ""
+
+msgctxt "2554"
+msgid "ロクゾロの丁！"
+msgstr ""
+
+msgctxt "2576"
+msgid "壺振り"
+msgstr ""

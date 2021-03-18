@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "MSG01_0"
+msgid "ぃよっしゃあ！"
+msgstr ""
+
+msgctxt "MSG01_1"
+msgid "よっしゃ！"
+msgstr ""
+
+msgctxt "MSG01_2"
+msgid "ふっ"
+msgstr ""
+
+msgctxt "MSG01_3"
+msgid "おほほほ…"
+msgstr ""
+
+msgctxt "MSG01_4"
+msgid "ふぉふぉふぉ…"
+msgstr ""
+
+msgctxt "MSG01_5"
+msgid "やったぁ…"
+msgstr ""
+
+msgctxt "MSG01_6"
+msgid "ふふん"
+msgstr ""
+
+msgctxt "MSG01_7"
+msgid "この調子で行くでぇ"
+msgstr ""
+
+msgctxt "MSG01_8"
+msgid "拙者の勝ちでござる"
+msgstr ""
+
+msgctxt "MSG01_9"
+msgid "おっしゃ、おっしゃ！"
+msgstr ""
+
+msgctxt "MSG01_10"
+msgid "ええぞ！　ええぞ！"
+msgstr ""
+
+msgctxt "MSG01_11"
+msgid "おっ！"
+msgstr ""
+
+msgctxt "MSG01_12"
+msgid "よっしゃ"
+msgstr ""
+
+msgctxt "MSG01_13"
+msgid "ええで～"
+msgstr ""
+
+msgctxt "MSG01_14"
+msgid "よっしゃ～！"
+msgstr ""
+
+msgctxt "MSG02_0"
+msgid "ぐあぁぁぁ…"
+msgstr ""
+
+msgctxt "MSG02_1"
+msgid "なぬっ！"
+msgstr ""
+
+msgctxt "MSG02_2"
+msgid "むぅ…"
+msgstr ""
+
+msgctxt "MSG02_3"
+msgid "キーッ！"
+msgstr ""
+
+msgctxt "MSG02_4"
+msgid "こりゃ、あかんわ"
+msgstr ""
+
+msgctxt "MSG02_5"
+msgid "ダメかぁ…"
+msgstr ""
+
+msgctxt "MSG02_6"
+msgid "なんやぁ…"
+msgstr ""
+
+msgctxt "MSG02_7"
+msgid "ホゲ～"
+msgstr ""
+
+msgctxt "MSG02_8"
+msgid "うぬぅ～"
+msgstr ""
+
+msgctxt "MSG02_9"
+msgid "しまった！"
+msgstr ""
+
+msgctxt "MSG02_10"
+msgid "しくじったわ～"
+msgstr ""
+
+msgctxt "MSG02_11"
+msgid "おっと…"
+msgstr ""
+
+msgctxt "MSG02_12"
+msgid "なんや…"
+msgstr ""
+
+msgctxt "MSG02_13"
+msgid "あかんわ…"
+msgstr ""
+
+msgctxt "MSG02_14"
+msgid "あかん…"
+msgstr ""
+
+msgctxt "MSG03_0"
+msgid "やるなぁ～"
+msgstr ""
+
+msgctxt "MSG03_1"
+msgid "やりますなぁ！"
+msgstr ""
+
+msgctxt "MSG03_2"
+msgid "ほほぅ"
+msgstr ""
+
+msgctxt "MSG03_3"
+msgid "惚れ惚れするわ～"
+msgstr ""
+
+msgctxt "MSG03_4"
+msgid "どえらいこっちゃ！"
+msgstr ""
+
+msgctxt "MSG03_5"
+msgid "すごいなぁ…"
+msgstr ""
+
+msgctxt "MSG03_6"
+msgid "あ～ぁ…"
+msgstr ""
+
+msgctxt "MSG03_7"
+msgid "え～やん！"
+msgstr ""
+
+msgctxt "MSG03_8"
+msgid "アッパレでござる"
+msgstr ""
+
+msgctxt "MSG03_9"
+msgid "やるやん！"
+msgstr ""
+
+msgctxt "MSG03_10"
+msgid "スゴイやないか！"
+msgstr ""
+
+msgctxt "MSG03_11"
+msgid "やるねぇ"
+msgstr ""
+
+msgctxt "MSG03_12"
+msgid "ほぅ…"
+msgstr ""
+
+msgctxt "MSG03_13"
+msgid "大したもんやなぁ"
+msgstr ""
+
+msgctxt "MSG03_14"
+msgid "ほぉ…"
+msgstr ""
+
+msgctxt "MSG04_0"
+msgid "なははははは"
+msgstr ""
+
+msgctxt "MSG04_1"
+msgid "おやおや…"
+msgstr ""
+
+msgctxt "MSG04_2"
+msgid "ふん…"
+msgstr ""
+
+msgctxt "MSG04_3"
+msgid "あら、残念やったね"
+msgstr ""
+
+msgctxt "MSG04_4"
+msgid "ツキに見放されたのう"
+msgstr ""
+
+msgctxt "MSG04_5"
+msgid "気を落とさずに…"
+msgstr ""
+
+msgctxt "MSG04_6"
+msgid "かっこ悪…"
+msgstr ""
+
+msgctxt "MSG04_7"
+msgid "次がんばりや！"
+msgstr ""
+
+msgctxt "MSG04_8"
+msgid "お主の負けでござる"
+msgstr ""
+
+msgctxt "MSG04_9"
+msgid "こら、あかんわぁ"
+msgstr ""
+
+msgctxt "MSG04_10"
+msgid "残念やったなぁ～"
+msgstr ""
+
+msgctxt "MSG04_11"
+msgid "楽しまないと損だよ"
+msgstr ""
+
+msgctxt "MSG04_12"
+msgid "力みすぎやで"
+msgstr ""
+
+msgctxt "MSG04_13"
+msgid "ま、気にすんなや"
+msgstr ""
+
+msgctxt "MSG04_14"
+msgid "気にすんなや"
+msgstr ""
+
+msgctxt "MSG05_0"
+msgid "丁じゃね？"
+msgstr ""
+
+msgctxt "MSG05_1"
+msgid "丁や！"
+msgstr ""
+
+msgctxt "MSG05_2"
+msgid "丁…"
+msgstr ""
+
+msgctxt "MSG05_3"
+msgid "丁！"
+msgstr ""
+
+msgctxt "MSG05_4"
+msgid "ちょう"
+msgstr ""
+
+msgctxt "MSG05_5"
+msgid "ちょ…丁っ！"
+msgstr ""
+
+msgctxt "MSG05_6"
+msgid "丁や"
+msgstr ""
+
+msgctxt "MSG05_7"
+msgid "チョ～！"
+msgstr ""
+
+msgctxt "MSG05_8"
+msgid "ちょー！"
+msgstr ""
+
+msgctxt "MSG05_9"
+msgid "チョウ！"
+msgstr ""
+
+msgctxt "MSG06_0"
+msgid "半だろ？"
+msgstr ""
+
+msgctxt "MSG06_1"
+msgid "半や！"
+msgstr ""
+
+msgctxt "MSG06_2"
+msgid "半…"
+msgstr ""
+
+msgctxt "MSG06_3"
+msgid "半！"
+msgstr ""
+
+msgctxt "MSG06_4"
+msgid "はん"
+msgstr ""
+
+msgctxt "MSG06_5"
+msgid "は…半っ！"
+msgstr ""
+
+msgctxt "MSG06_6"
+msgid "半や"
+msgstr ""
+
+msgctxt "MSG06_7"
+msgid "ハ～ン！"
+msgstr ""
+
+msgctxt "MSG06_8"
+msgid "はんっ！"
+msgstr ""
+
+msgctxt "MSG06_9"
+msgid "ハン！"
+msgstr ""

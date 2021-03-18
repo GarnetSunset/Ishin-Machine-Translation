@@ -1,0 +1,480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "8388"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8389"
+msgid "はあぁ!?"
+msgstr ""
+
+msgctxt "8398"
+msgid "アンタ、アホちゃうの!?"
+msgstr ""
+
+msgctxt "8421"
+msgid "……"
+msgstr ""
+
+msgctxt "8426"
+msgid ""
+"ちょっとどないしたん？　大声出して。\n"
+"お客さんがびっくりしてしまうやないの。"
+msgstr ""
+
+msgctxt "8503"
+msgid ""
+"女将さん、聞いてえな！\n"
+"一（はじめ）さんが新選組に入るなんて\n"
+"言うとんのよ！"
+msgstr ""
+
+msgctxt "8580"
+msgid ""
+"えぇ？\n"
+"……それホンマなん？"
+msgstr ""
+
+msgctxt "8609"
+msgid "……ああ。"
+msgstr ""
+
+msgctxt "8620"
+msgid "……アホやねぇ。"
+msgstr ""
+
+msgctxt "8637"
+msgid "ほら見ぃ。"
+msgstr ""
+
+msgctxt "8648"
+msgid "……"
+msgstr ""
+
+msgctxt "8653"
+msgid "毎日ブラブラしてはったくせに。急に何のつもり？"
+msgstr ""
+
+msgctxt "8700"
+msgid ""
+"……新選組ってのは、\n"
+"えらく羽振りがいいって聞いてな。"
+msgstr ""
+
+msgctxt "8755"
+msgid ""
+"実入りは良いし、組の名前を出せば\n"
+"ずいぶん融通が利くらしいじゃねえか。"
+msgstr ""
+
+msgctxt "8826"
+msgid "まぁ、確かにそうらしいけど。"
+msgstr ""
+
+msgctxt "8855"
+msgid ""
+"それにあそこは浪士の集まりだ。\n"
+"腕さえ確かなら身分も関係ない。\n"
+"俺が宿代を稼ぐのにうってつけだ。"
+msgstr ""
+
+msgctxt "8952"
+msgid ""
+"何言うとるの。あんた、宿代のために人斬るん？\n"
+"“壬生狼”（みぶろ）になんかなったら\n"
+"あきまへん！"
+msgstr ""
+
+msgctxt "9049"
+msgid "……みぶろ？"
+msgstr ""
+
+msgctxt "9062"
+msgid ""
+"新選組のあだ名や。\n"
+"昔は「壬生浪士組」っちゅう名前で、\n"
+"暴れまわってたんや。"
+msgstr ""
+
+msgctxt "9139"
+msgid "壬生浪士組……"
+msgstr ""
+
+msgctxt "9154"
+msgid ""
+"「みぶろの野良犬は“鴨”も食い殺す」ってなぁ……\n"
+"よう噂されたもんや。"
+msgstr ""
+
+msgctxt "9225"
+msgid "なんだそれは。"
+msgstr ""
+
+msgctxt "9240"
+msgid ""
+"なんやそないなことも知らんの？\n"
+"壬生の浪士組には最初、局長が２人おったなぁ。"
+msgstr ""
+
+msgctxt "9317"
+msgid ""
+"今の局長さん、近藤勇ともう１人……\n"
+"「芹沢鴨」いう人。"
+msgstr ""
+
+msgctxt "9372"
+msgid "その芹沢さんが近藤勇の一派に殺されたんやって。"
+msgstr ""
+
+msgctxt "9419"
+msgid "身内のいざこざか。"
+msgstr ""
+
+msgctxt "9438"
+msgid ""
+"近藤勇と芹沢鴨はどっちが偉いかで\n"
+"いつもいがみ合うてたらしいわ。"
+msgstr ""
+
+msgctxt "9503"
+msgid ""
+"それで、近藤さんは芹沢派の全員を\n"
+"殺してしまったんやと。\n"
+"八つ裂きにしてな……"
+msgstr ""
+
+msgctxt "9582"
+msgid "ホンマおっかない話やで。"
+msgstr ""
+
+msgctxt "9607"
+msgid "相当危険な連中のようだな。"
+msgstr ""
+
+msgctxt "9634"
+msgid "連中は腰に大小差しただけの野良犬やさかい。"
+msgstr ""
+
+msgctxt "9677"
+msgid ""
+"一（はじめ）さん、ぼうっとしとるからなぁ……\n"
+"あんたがもし新選組入ったら、早死にするだけやで。"
+msgstr ""
+
+msgctxt "9772"
+msgid ""
+"なあ、あんな野良犬たちの仲間なんて\n"
+"やめた方がええって。"
+msgstr ""
+
+msgctxt "9829"
+msgid "野良犬か。ずいぶんと嫌われたもんだな。"
+msgstr ""
+
+msgctxt "9868"
+msgid ""
+"それにウチのお客に新選組がおるなんて噂\n"
+"立ったら、誰も寄り付かんようになって\n"
+"商売上がったりやわ。"
+msgstr ""
+
+msgctxt "9967"
+msgid "そもそも一（はじめ）さん、剣術なんてできるん？"
+msgstr ""
+
+msgctxt "10014"
+msgid ""
+"ま、そこはそれなりに、な。\n"
+"……じゃ、行ってくる。"
+msgstr ""
+
+msgctxt "10065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10066"
+msgid "あ、ちょっと、一（はじめ）さん！"
+msgstr ""
+
+msgctxt "10099"
+msgid ""
+"なあ、働く気になったんはええけど、\n"
+"もっと普通の仕事でええやないの。"
+msgstr ""
+
+msgctxt "10168"
+msgid ""
+"悪いが……　もう決めたことだ。\n"
+"あんたらには迷惑はかけない。"
+msgstr ""
+
+msgctxt "10229"
+msgid "一（はじめ）さん……"
+msgstr ""
+
+msgctxt "10250"
+msgid "これ以上話しても時間の無駄だ。"
+msgstr ""
+
+msgctxt "10281"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10282"
+msgid ""
+"あれで結構頑固なとこあるんやな、\n"
+"一（はじめ）さんも。"
+msgstr ""
+
+msgctxt "10337"
+msgid "…………"
+msgstr ""
+
+msgctxt "10346"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10347"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10348"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10349"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10350"
+msgid ""
+"（たしか新選組の屯所は四条通りを\n"
+"　西へ進んだ所にあるらしい……）"
+msgstr ""
+
+msgctxt "10417"
+msgid "（まずは洛内へ向かうとするか）"
+msgstr ""
+
+msgctxt "10448"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12244"
+msgid "おりょう"
+msgstr ""
+
+msgctxt "12253"
+msgid "oryo_c03_005_01"
+msgstr ""
+
+msgctxt "12269"
+msgid "oryo_c03_005_02"
+msgstr ""
+
+msgctxt "12285"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "12290"
+msgid "お登勢"
+msgstr ""
+
+msgctxt "12297"
+msgid "otose_c03_005_01"
+msgstr ""
+
+msgctxt "12314"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "12325"
+msgid "oryo_c03_005_03"
+msgstr ""
+
+msgctxt "12341"
+msgid "kaiwabgm_apathy_05"
+msgstr ""
+
+msgctxt "12360"
+msgid "otose_c03_005_02"
+msgstr ""
+
+msgctxt "12377"
+msgid "kiryu_c03_005_02"
+msgstr ""
+
+msgctxt "12394"
+msgid "otose_c03_005_03"
+msgstr ""
+
+msgctxt "12411"
+msgid "oryo_c03_005_04"
+msgstr ""
+
+msgctxt "12427"
+msgid "kiryu_c03_005_03"
+msgstr ""
+
+msgctxt "12444"
+msgid "otose_c03_005_04"
+msgstr ""
+
+msgctxt "12461"
+msgid "kiryu_c03_005_04"
+msgstr ""
+
+msgctxt "12478"
+msgid "kiryu_c03_005_04b"
+msgstr ""
+
+msgctxt "12496"
+msgid "oryo_c03_005_05"
+msgstr ""
+
+msgctxt "12512"
+msgid "kiryu_c03_005_05"
+msgstr ""
+
+msgctxt "12529"
+msgid "otose_c03_005_05"
+msgstr ""
+
+msgctxt "12546"
+msgid "kiryu_c03_005_06"
+msgstr ""
+
+msgctxt "12563"
+msgid "oryo_c03_005_06"
+msgstr ""
+
+msgctxt "12579"
+msgid "kiryu_c03_005_07"
+msgstr ""
+
+msgctxt "12596"
+msgid "otose_c03_005_06"
+msgstr ""
+
+msgctxt "12613"
+msgid "kiryu_c03_005_08"
+msgstr ""
+
+msgctxt "12630"
+msgid "otose_c03_005_07"
+msgstr ""
+
+msgctxt "12647"
+msgid "otose_c03_005_07b"
+msgstr ""
+
+msgctxt "12665"
+msgid "otose_c03_005_07c"
+msgstr ""
+
+msgctxt "12683"
+msgid "kiryu_c03_005_09"
+msgstr ""
+
+msgctxt "12700"
+msgid "otose_c03_005_08"
+msgstr ""
+
+msgctxt "12717"
+msgid "otose_c03_005_08b"
+msgstr ""
+
+msgctxt "12735"
+msgid "otose_c03_005_08c"
+msgstr ""
+
+msgctxt "12753"
+msgid "kiryu_c03_005_10"
+msgstr ""
+
+msgctxt "12770"
+msgid "otose_c03_005_09"
+msgstr ""
+
+msgctxt "12787"
+msgid "otose_c03_005_10"
+msgstr ""
+
+msgctxt "12804"
+msgid "oryo_c03_005_07"
+msgstr ""
+
+msgctxt "12820"
+msgid "kiryu_c03_005_11"
+msgstr ""
+
+msgctxt "12837"
+msgid "otose_c03_005_11"
+msgstr ""
+
+msgctxt "12854"
+msgid "otose_c03_005_11b"
+msgstr ""
+
+msgctxt "12872"
+msgid "kiryu_c03_005_12"
+msgstr ""
+
+msgctxt "12889"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "12900"
+msgid "oryo_c03_005_08"
+msgstr ""
+
+msgctxt "12916"
+msgid "oryo_c03_005_09"
+msgstr ""
+
+msgctxt "12932"
+msgid "kiryu_c03_005_13"
+msgstr ""
+
+msgctxt "12949"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "12960"
+msgid "oryo_c03_005_10"
+msgstr ""
+
+msgctxt "12976"
+msgid "kiryu_c03_005_14"
+msgstr ""
+
+msgctxt "12993"
+msgid "ADV_P_KRU_STAND"
+msgstr ""
+
+msgctxt "13009"
+msgid "Idle"
+msgstr ""
+
+msgctxt "13014"
+msgid "otose_c03_005_12"
+msgstr ""
+
+msgctxt "13031"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13037"
+msgid "0"
+msgstr ""

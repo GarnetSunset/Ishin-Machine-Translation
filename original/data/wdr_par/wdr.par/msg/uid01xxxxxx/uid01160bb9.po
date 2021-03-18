@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7752"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7753"
+msgid ""
+"よくぞ来てくれた。\n"
+"無理な願いを聞き入れてくれた\n"
+"お主の器の広さに敬意を表す。"
+msgstr ""
+
+msgctxt "7832"
+msgid ""
+"悪事からは手を引いたようだな。\n"
+"その上で剣の道を目指すのであれば\n"
+"侍として、その願いは断れない。"
+msgstr ""
+
+msgctxt "7929"
+msgid ""
+"心遣い感謝する。\n"
+"この決闘を終え、晴れやかな心で\n"
+"お主と酒でも飲み交わしたいものだ。"
+msgstr ""
+
+msgctxt "8014"
+msgid "ああ、付き合ってやるよ。"
+msgstr ""
+
+msgctxt "8039"
+msgid ""
+"では……\n"
+"いざ、尋常に勝負！"
+msgstr ""
+
+msgctxt "8068"
+msgid "させぬ。"
+msgstr ""
+
+msgctxt "8077"
+msgid "……ん？"
+msgstr ""
+
+msgctxt "8086"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8087"
+msgid "ぐあぁ!!"
+msgstr ""
+
+msgctxt "8096"
+msgid "曽田地!!"
+msgstr ""
+
+msgctxt "8105"
+msgid ""
+"やっと見つけたぞ、稀代の豪傑、曽田地よ。\n"
+"お前を、この妖刀「夢龍砕」の餌食とする日を\n"
+"どれほど待ち望んだことか……"
+msgstr ""
+
+msgctxt "8220"
+msgid ""
+"くっ……　ぬぅ。\n"
+"力が……　全身の力が入らぬっ！"
+msgstr ""
+
+msgctxt "8269"
+msgid ""
+"この「夢龍砕」は、斬った相手の血の流れを砕き\n"
+"すべての力を失わせる、最凶の妖刀だ。\n"
+"そして……"
+msgstr ""
+
+msgctxt "8364"
+msgid ""
+"その失われた力は、妖刀が吸い上げ\n"
+"所持者の新たな力となる。"
+msgstr ""
+
+msgctxt "8423"
+msgid ""
+"そう、つまり\n"
+"お前の有していた圧倒的な力は\n"
+"今、我のものとなったのだ！"
+msgstr ""
+
+msgctxt "8494"
+msgid "そ、そんな馬鹿な……"
+msgstr ""
+
+msgctxt "8515"
+msgid ""
+"哀れなものだな、豪傑よ。\n"
+"お前の血から武の力は失われた……\n"
+"一族の末代まで、弱者として地を這うがいい。"
+msgstr ""
+
+msgctxt "8618"
+msgid "くっ……"
+msgstr ""
+
+msgctxt "8627"
+msgid ""
+"そして、今日の我は強運だ。\n"
+"もう一人の標的、斎藤一もこの場にいるのだからな。"
+msgstr ""
+
+msgctxt "8704"
+msgid "……お前は、何者だ？"
+msgstr ""
+
+msgctxt "8725"
+msgid ""
+"我は、亜門玄丈斎。\n"
+"決して表に出ることのない、暗殺者一族の長だ。"
+msgstr ""
+
+msgctxt "8790"
+msgid "亜門……"
+msgstr ""
+
+msgctxt "8799"
+msgid ""
+"斎藤一、お前の強さも聞き及んでいる。\n"
+"是非とも、この「夢龍砕」の肥やしとしたいものだ。"
+msgstr ""
+
+msgctxt "8886"
+msgid ""
+"妖刀の力に頼って研鑽を怠っているような輩に\n"
+"俺の剣を砕くことはできない。"
+msgstr ""
+
+msgctxt "8959"
+msgid ""
+"フッ……\n"
+"減らず口を叩けるのも今のうちだけだ。"
+msgstr ""
+
+msgctxt "9006"
+msgid "行くぞ……！"
+msgstr ""
+
+msgctxt "9019"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9020"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9021"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9022"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9023"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9024"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9025"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9026"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9027"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9028"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9029"
+msgid ""
+"くっ……!!\n"
+"馬鹿な、我が敗れただと!?"
+msgstr ""
+
+msgctxt "9066"
+msgid ""
+"どうやら減らず口叩いてたのは\n"
+"お前の方だったようだな。"
+msgstr ""
+
+msgctxt "9121"
+msgid ""
+"認めん！　認めんぞ!!\n"
+"斎藤一、この雪辱は必ず果たす！"
+msgstr ""
+
+msgctxt "9174"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9175"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9176"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9177"
+msgid "く……　うぅ。"
+msgstr ""
+
+msgctxt "9192"
+msgid ""
+"曽田地！\n"
+"おい、大丈夫か？"
+msgstr ""
+
+msgctxt "9219"
+msgid ""
+"怪我自体は大したことはない……\n"
+"だが、蓄えた力も武の知識も\n"
+"すべてが体から溶け出ていくような感覚だ。"
+msgstr ""
+
+msgctxt "9320"
+msgid ""
+"あの妖刀……\n"
+"どうやら、本物のようだな。"
+msgstr ""
+
+msgctxt "9361"
+msgid ""
+"決闘を申し込んでおいてこの体たらく。\n"
+"本当に申し訳ない。"
+msgstr ""
+
+msgctxt "9418"
+msgid ""
+"いや、お前のせいじゃない。\n"
+"気に病むな。"
+msgstr ""
+
+msgctxt "9459"
+msgid ""
+"感覚を取り戻せるよう努力はするが\n"
+"何か、不思議な力で封じ込められているのを感じる。\n"
+"……本当に、私はここまでなのかもしれん。"
+msgstr ""
+
+msgctxt "9584"
+msgid ""
+"一族の末代までの呪いだと、亜門は言っていた。\n"
+"あれが本当なら……"
+msgstr ""
+
+msgctxt "9649"
+msgid ""
+"それ以上は言うな、斎藤。\n"
+"力を失っても武の精神は失ってはおらん。"
+msgstr ""
+
+msgctxt "9714"
+msgid ""
+"お主と剣を交えて、やっとこの境地に達したのだ。\n"
+"ここからは己の身を賭して、武の道を完遂する。"
+msgstr ""
+
+msgctxt "9807"
+msgid ""
+"……そうか。\n"
+"亜門はきっと、俺に再び挑んでくるだろう。\n"
+"お前の無念は、俺が晴らす。"
+msgstr ""
+
+msgctxt "9890"
+msgid ""
+"そう言ってくれるだけで、満足だ。\n"
+"恩に着る。"
+msgstr ""
+
+msgctxt "9935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10924"
+msgid "曽田地"
+msgstr ""
+
+msgctxt "10931"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "10936"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "10947"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10956"
+msgid "静かな声"
+msgstr ""
+
+msgctxt "10965"
+msgid "E_WPE_CMB_a_01"
+msgstr ""
+
+msgctxt "10980"
+msgid "C_DAM_body_lv02_F"
+msgstr ""
+
+msgctxt "10998"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "11008"
+msgid "M_BUS_TLK_btl_aft_nw_02_kamae"
+msgstr ""
+
+msgctxt "11038"
+msgid "E_KNS_LW_stand"
+msgstr ""
+
+msgctxt "11053"
+msgid "色眼鏡の男"
+msgstr ""
+
+msgctxt "11064"
+msgid "亜門"
+msgstr ""
+
+msgctxt "11069"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11077"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11083"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "11095"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "11117"
+msgid "M_BUS_TLK_btl_aft_nw_02_en"
+msgstr ""
+
+msgctxt "11144"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "11156"
+msgid "Talk_Think"
+msgstr ""

@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1572"
+msgid "どうだった、俺の舞は？"
+msgstr ""
+
+msgctxt "1595"
+msgid ""
+"驚いた……　上手！\n"
+"うち、つい見とれてたわ。"
+msgstr ""
+
+msgctxt "1640"
+msgid ""
+"一（はじめ）さん、いつも博打ばっかりしてると\n"
+"思ってたから、びっくりした。"
+msgstr ""
+
+msgctxt "1715"
+msgid "……フッ、悪くなかったようだな。"
+msgstr ""
+
+msgctxt "1748"
+msgid "あはは、一（はじめ）さん、案外器用なんやね。"
+msgstr ""
+
+msgctxt "1793"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1794"
+msgid "一（はじめ）さん、ほんまに踊れるん？"
+msgstr ""
+
+msgctxt "1831"
+msgid "さあな。　とにかくやってみせるさ。"
+msgstr ""
+
+msgctxt "1866"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2056"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "2061"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2070"
+msgid "おりょう"
+msgstr ""
+
+msgctxt "2079"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2090"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2096"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2107"
+msgid "ADV_F_CHO_BASE"
+msgstr ""

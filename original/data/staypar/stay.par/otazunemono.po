@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "てすと"
+msgstr ""
+
+msgctxt "NAME_1"
+msgid "てすと壱"
+msgstr ""
+
+msgctxt "NAME_2"
+msgid "てすと弐"
+msgstr ""
+
+msgctxt "NAME_3"
+msgid "てすと参"
+msgstr ""
+
+msgctxt "NAME_4"
+msgid "てすと四"
+msgstr ""
+
+msgctxt "EXPLANATION_0"
+msgid ""
+"説明文が入ります。\n"
+"複数行のテストも兼ねてみます。\n"
+"てすてす\n"
+"てすてすてすと\n"
+"ほげ"
+msgstr ""
+
+msgctxt "REWARD_0"
+msgid "百両一文"
+msgstr ""
+
+msgctxt "REWARD_1"
+msgid "一文"
+msgstr ""
+
+msgctxt "REWARD_2"
+msgid "十文"
+msgstr ""
+
+msgctxt "REWARD_3"
+msgid "一両"
+msgstr ""
+
+msgctxt "REWARD_4"
+msgid "一両"
+msgstr ""
+
+msgctxt "CONDITION1_0"
+msgid "なし"
+msgstr ""
+
+msgctxt "CONDITION1_1"
+msgid "ほげ"
+msgstr ""
+
+msgctxt "CONDITION1_2"
+msgid "ほげら"
+msgstr ""
+
+msgctxt "CONDITION2_0"
+msgid "船で移動"
+msgstr ""
+
+msgctxt "CONDITION2_1"
+msgid "なし"
+msgstr ""
+
+msgctxt "CONDITION2_2"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CONDITION2_3"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CONDITION2_4"
+msgid "あれをとってくる"
+msgstr ""

@@ -1,0 +1,863 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "21140"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21141"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21142"
+msgid ""
+"おっ、旦那！　来てくれたのかい。\n"
+"京の街は大変そうだけど、しっかり\n"
+"腹ごしらえしていってくれよ。"
+msgstr ""
+
+msgctxt "21239"
+msgid ""
+"おっ、旦那！　来てくれたのかい。\n"
+"今日は何にする？"
+msgstr ""
+
+msgctxt "21290"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21291"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "21330"
+msgid ""
+"ありがとうございました！\n"
+"旦那、また来てくれよっ！"
+msgstr ""
+
+msgctxt "21381"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "21432"
+msgid "おうとも、また来てな。"
+msgstr ""
+
+msgctxt "21455"
+msgid "おっ、旦那いらっしゃーい。"
+msgstr ""
+
+msgctxt "21482"
+msgid "（さて、どうするかな……）"
+msgstr ""
+
+msgctxt "21509"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21510"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21511"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21512"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21513"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "21552"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21553"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21554"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21555"
+msgid ""
+"……大将、今日もうまかった。\n"
+"また来る。"
+msgstr ""
+
+msgctxt "21596"
+msgid "おう。また来てな。"
+msgstr ""
+
+msgctxt "21615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21617"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "21668"
+msgid "おう。また来てな。"
+msgstr ""
+
+msgctxt "21687"
+msgid "……お、旦那。　ちょうどよかった！"
+msgstr ""
+
+msgctxt "21722"
+msgid "ん？　何だ？"
+msgstr ""
+
+msgctxt "21735"
+msgid ""
+"いつもうちに食べに来てくれる旦那のための一品。\n"
+"今、ちょうど用意できたところだ。"
+msgstr ""
+
+msgctxt "21816"
+msgid "ほう、そいつは運がいいな。ん？　……この匂いは。"
+msgstr ""
+
+msgctxt "21865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21866"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21867"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21868"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21869"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21870"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21871"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21872"
+msgid ""
+"あぁ、これからの季節も踏まえて……\n"
+"食べると温かくなるものといったらこれだろう？"
+msgstr ""
+
+msgctxt "21953"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21955"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21956"
+msgid ""
+"あぁ、これからの季節も踏まえて……\n"
+"とにかく具だくさんなものといったらこれだろう？"
+msgstr ""
+
+msgctxt "22039"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22040"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22041"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22042"
+msgid ""
+"あぁ、これからの季節も踏まえて……\n"
+"手軽に食べられるものといったらこれだろう？"
+msgstr ""
+
+msgctxt "22121"
+msgid "ほう、こいつはうまそうな……"
+msgstr ""
+
+msgctxt "22150"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22151"
+msgid "おでんだな。"
+msgstr ""
+
+msgctxt "22164"
+msgid ""
+"うちのおでんは、ただのおでんじゃないぜ。\n"
+"さぁ、冷めないうちに食べてくれ。"
+msgstr ""
+
+msgctxt "22239"
+msgid "それでは、いただくとしよう。"
+msgstr ""
+
+msgctxt "22268"
+msgid ""
+"うん……　うまい！\n"
+"さすが大将の作るおでんだ。"
+msgstr ""
+
+msgctxt "22315"
+msgid ""
+"はは、そう言ってもらえると頑張った甲斐があるよ。\n"
+"旦那を喜ばせたい一心で作ったからな。"
+msgstr ""
+
+msgctxt "22402"
+msgid "これからも、うちの店をよろしく頼むよ。"
+msgstr ""
+
+msgctxt "22441"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22442"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22443"
+msgid "……お、旦那！　よく来たねぇ！"
+msgstr ""
+
+msgctxt "22474"
+msgid "（さて、どうするかな……）"
+msgstr ""
+
+msgctxt "22501"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22502"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22503"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22504"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22505"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "22544"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22545"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22546"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22547"
+msgid "……大将、今日もうまかった。"
+msgstr ""
+
+msgctxt "22576"
+msgid "そうか。そいつぁよかった。"
+msgstr ""
+
+msgctxt "22603"
+msgid "……あ、そうだ旦那。ちょっといいかい？"
+msgstr ""
+
+msgctxt "22642"
+msgid "ん？　何だ？"
+msgstr ""
+
+msgctxt "22655"
+msgid ""
+"いつも贔屓にしてくれてる旦那へのお礼に、\n"
+"今度、旦那だけに出す特別料理を作ろうって\n"
+"考えてるんだ。"
+msgstr ""
+
+msgctxt "22754"
+msgid "ほう、そいつは楽しみだな。"
+msgstr ""
+
+msgctxt "22781"
+msgid "……だが、どんなもんを作ればいいか悩んでてなぁ。"
+msgstr ""
+
+msgctxt "22830"
+msgid ""
+"旦那の好みの食べ物が\n"
+"どういうもんなのか教えてくれないか？"
+msgstr ""
+
+msgctxt "22889"
+msgid "俺の、好みの食べ物か……"
+msgstr ""
+
+msgctxt "22914"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22915"
+msgid "食べると温かくなるものだな……"
+msgstr ""
+
+msgctxt "22946"
+msgid ""
+"なるほど、食べると温かくなるものか……\n"
+"たしかにこれからの季節、\n"
+"そういうのが一品あるといいよな。"
+msgstr ""
+
+msgctxt "23045"
+msgid "とにかく具だくさんなものだな……"
+msgstr ""
+
+msgctxt "23078"
+msgid ""
+"なるほど、具だくさんなものか……\n"
+"たしかに色んな味を楽しめるし、\n"
+"栄養だってとれるもんな。"
+msgstr ""
+
+msgctxt "23169"
+msgid "手軽に食べられるものだな……"
+msgstr ""
+
+msgctxt "23198"
+msgid ""
+"なるほど、手軽に食べられるものかぁ……\n"
+"旦那みたいに忙しそうな人なら\n"
+"ひょいと口に運べるようなもんがいいのかねぇ。"
+msgstr ""
+
+msgctxt "23313"
+msgid "……よし、わかった！"
+msgstr ""
+
+msgctxt "23334"
+msgid ""
+"ひとまずどんな料理を作るか、\n"
+"色々考えておくから、できたら食べに来ておくれ。"
+msgstr ""
+
+msgctxt "23411"
+msgid "あぁ、楽しみにしておく。"
+msgstr ""
+
+msgctxt "23436"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23437"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23438"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "23489"
+msgid "おう。また来てな。"
+msgstr ""
+
+msgctxt "23508"
+msgid ""
+"……お、旦那じゃないの。\n"
+"いらっしゃーい。"
+msgstr ""
+
+msgctxt "23551"
+msgid "（さて、どうするかな……）"
+msgstr ""
+
+msgctxt "23578"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23582"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "23621"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23622"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23623"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23624"
+msgid ""
+"……大将、今日もうまかった。\n"
+"また来る。"
+msgstr ""
+
+msgctxt "23665"
+msgid "おう。また来てな。"
+msgstr ""
+
+msgctxt "23684"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23685"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23686"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "23737"
+msgid "おう。また来てな。"
+msgstr ""
+
+msgctxt "23756"
+msgid ""
+"……お、旦那じゃないの。\n"
+"いらっしゃーい。"
+msgstr ""
+
+msgctxt "23799"
+msgid "（さて、どうするかな……）"
+msgstr ""
+
+msgctxt "23826"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23827"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23828"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23829"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23830"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "23869"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23870"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23871"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23872"
+msgid ""
+"……大将、今日もうまかった。\n"
+"また来る。"
+msgstr ""
+
+msgctxt "23913"
+msgid "おう。また来てな。"
+msgstr ""
+
+msgctxt "23932"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23933"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23934"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "23985"
+msgid "おう。また来てな。"
+msgstr ""
+
+msgctxt "24004"
+msgid ""
+"……お、旦那じゃないの。\n"
+"いらっしゃーい。"
+msgstr ""
+
+msgctxt "24047"
+msgid "（さて、どうするかな……）"
+msgstr ""
+
+msgctxt "24074"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24075"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24076"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24077"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24078"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "24117"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24118"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24119"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24120"
+msgid ""
+"（……やはりここの料理はいいな\n"
+"　料理から、作った人の熱意が伝わってくる）"
+msgstr ""
+
+msgctxt "24195"
+msgid "……大将、今日もうまかった。"
+msgstr ""
+
+msgctxt "24224"
+msgid ""
+"旦那に満足してもらえるように、今回も\n"
+"気持ちを入れて作らせてもらったよ。\n"
+"口にあったなら、嬉しいよ。"
+msgstr ""
+
+msgctxt "24325"
+msgid "ごちそうさん。また来る。"
+msgstr ""
+
+msgctxt "24350"
+msgid "おう。また来てな。"
+msgstr ""
+
+msgctxt "24369"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24370"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24371"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "24422"
+msgid "おう。また来てな。"
+msgstr ""
+
+msgctxt "24441"
+msgid ""
+"いらっしゃーい。\n"
+"旦那、注文は何にする？"
+msgstr ""
+
+msgctxt "24482"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24483"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24484"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24485"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24486"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "24525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24528"
+msgid "（……心が温まるような懐かしい味だったな）"
+msgstr ""
+
+msgctxt "24571"
+msgid ""
+"旦那、どうだい？\n"
+"うまかったかい？"
+msgstr ""
+
+msgctxt "24606"
+msgid ""
+"あぁ、味付けも、品目さえ違うのに\n"
+"故郷の味を思い出してしまった。"
+msgstr ""
+
+msgctxt "24671"
+msgid "まさに……　職人の技だな。"
+msgstr ""
+
+msgctxt "24698"
+msgid ""
+"あっしはただお客さんを喜ばせたい……\n"
+"その一心で食材やお客さん、料理ってもんと\n"
+"向き合ってるだけですわ。"
+msgstr ""
+
+msgctxt "24803"
+msgid ""
+"なるほどな……\n"
+"そういうひたむきな気持ちがあるからこそ、\n"
+"こういう味がだせるのかもしれないな。"
+msgstr ""
+
+msgctxt "24898"
+msgid "旦那……　見たところ、お侍さん？"
+msgstr ""
+
+msgctxt "24931"
+msgid "ん？　あぁ、そうだが。"
+msgstr ""
+
+msgctxt "24954"
+msgid ""
+"あっしはね……\n"
+"料理の道って、剣の道と似てるんじゃないかと\n"
+"思ってるんですよ。"
+msgstr ""
+
+msgctxt "25033"
+msgid ""
+"……精神を集中させて、相手に向き合う。\n"
+"日々の修練によって、技術が増していく。\n"
+"料理人にとって包丁は、刀みたいなもんですわ。"
+msgstr ""
+
+msgctxt "25158"
+msgid ""
+"フッ、なるほど。奥深い話だな……\n"
+"色々といい話が聞けそうだ。また来させてもらうぜ。"
+msgstr ""
+
+msgctxt "25241"
+msgid ""
+"ああ。ぜひ来てくれ。\n"
+"その時までには、もっと美味い料理が出せるように\n"
+"頑張るとするよ。"
+msgstr ""
+
+msgctxt "25328"
+msgid ""
+"「小料理屋・青葉の大将」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「小料理屋・青葉の大将」と交流してみましょう。"
+msgstr ""
+
+msgctxt "25565"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25566"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25567"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "25618"
+msgid "おうとも、また来てな。"
+msgstr ""
+
+msgctxt "26652"
+msgid "小料理屋の大将"
+msgstr ""
+
+msgctxt "26667"
+msgid "dummy"
+msgstr ""
+
+msgctxt "26673"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "26678"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "26689"
+msgid "P_KRU_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "26711"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "26721"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "26732"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "26741"
+msgid "Player"
+msgstr ""
+
+msgctxt "26748"
+msgid "2d_yk_sh-09"
+msgstr ""
+
+msgctxt "26760"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "26770"
+msgid "P_KRU_TLK_chair_eat_washoku"
+msgstr ""
+
+msgctxt "26798"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "26809"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "26820"
+msgid "選択肢"
+msgstr ""
+
+msgctxt "26827"
+msgid "食べると温かくなるもの"
+msgstr ""
+
+msgctxt "26850"
+msgid "とにかく具だくさんなもの"
+msgstr ""
+
+msgctxt "26875"
+msgid "手軽に食べられるもの"
+msgstr ""
+
+msgctxt "26896"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "26908"
+msgid "小料理屋・青葉の大将との絆"
+msgstr ""

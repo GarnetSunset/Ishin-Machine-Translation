@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "247916"
+msgid "お前は"
+msgstr ""
+
+msgctxt "248060"
+msgid "以蔵……！"
+msgstr ""
+
+msgctxt "248204"
+msgid "久しぶりです　筆頭"
+msgstr ""
+
+msgctxt "248348"
+msgid ""
+"お前が\n"
+"“もう一人の坂本龍馬”だったのか？"
+msgstr ""
+
+msgctxt "248492"
+msgid "その顔は　ほっとしたってところですね"
+msgstr ""
+
+msgctxt "248636"
+msgid "何？"
+msgstr ""
+
+msgctxt "248780"
+msgid ""
+"あなたはここに　武市先生が待っていると\n"
+"思っていたんじゃありませんか？"
+msgstr ""
+
+msgctxt "248924"
+msgid "お前の目的はなんだ以蔵"
+msgstr ""
+
+msgctxt "249068"
+msgid "どうして俺の名を騙りこんなことをしている"
+msgstr ""
+
+msgctxt "249212"
+msgid "どうして武市を裏切ったんだ"
+msgstr ""
+
+msgctxt "249356"
+msgid "武市とお前の間には……"
+msgstr ""
+
+msgctxt "249500"
+msgid "深い絆があったんじゃないのか！"
+msgstr ""
+
+msgctxt "249644"
+msgid "裏切った？"
+msgstr ""
+
+msgctxt "249788"
+msgid "私が？"
+msgstr ""
+
+msgctxt "249932"
+msgid "ああそうだ！"
+msgstr ""
+
+msgctxt "250076"
+msgid ""
+"新選組に捕まった後\n"
+"土佐に戻ったお前の自供が原因で……"
+msgstr ""
+
+msgctxt "250220"
+msgid "武市は切腹させられた"
+msgstr ""
+
+msgctxt "250364"
+msgid "だがあの時……"
+msgstr ""
+
+msgctxt "250508"
+msgid ""
+"新選組に捕まることも\n"
+"その後のことも全て……"
+msgstr ""
+
+msgctxt "250652"
+msgid ""
+"最初からお前は見越した上で\n"
+"動いていたんじゃないのか！？"
+msgstr ""
+
+msgctxt "250796"
+msgid ""
+"それじゃあなたは\n"
+"私が武市さんを山内容堂に売り……"
+msgstr ""
+
+msgctxt "250940"
+msgid "こんな計画を仕掛けたと"
+msgstr ""
+
+msgctxt "251084"
+msgid "そう思ってるということですか？"
+msgstr ""
+
+msgctxt "251228"
+msgid "ああ"
+msgstr ""
+
+msgctxt "251372"
+msgid "本当に？"
+msgstr ""
+
+msgctxt "251516"
+msgid "何が言いたい！"
+msgstr ""
+
+msgctxt "251660"
+msgid "あなたは嘘をついている"
+msgstr ""
+
+msgctxt "251804"
+msgid ""
+"心の底では武市さんが\n"
+"“もう一人の坂本龍馬”だと確信しながら……"
+msgstr ""
+
+msgctxt "251948"
+msgid "それでもなお"
+msgstr ""
+
+msgctxt "252092"
+msgid ""
+"武市さんがあなたを裏切ったという\n"
+"事実を認めたくない"
+msgstr ""
+
+msgctxt "252236"
+msgid "そうなんでしょう？"
+msgstr ""
+
+msgctxt "252380"
+msgid "あなたは怖がっている"
+msgstr ""
+
+msgctxt "252524"
+msgid "真実を知ることを"
+msgstr ""
+
+msgctxt "252668"
+msgid "以蔵……"
+msgstr ""
+
+msgctxt "252812"
+msgid "決着をつけましょう"
+msgstr ""
+
+msgctxt "252956"
+msgid ""
+"私は斎藤一じゃない　本物の「坂本龍馬」と\n"
+"闘える日をずっと待っていた"
+msgstr ""
+
+msgctxt "253100"
+msgid ""
+"私はこうして\n"
+"あなたと闘えればそれでよかった"
+msgstr ""
+
+msgctxt "253244"
+msgid "“もう一人の坂本龍馬”に命令され"
+msgstr ""
+
+msgctxt "253388"
+msgid ""
+"近藤勇を殺し\n"
+"こんな状況を作り出したのはそのためです"
+msgstr ""
+
+msgctxt "253532"
+msgid "勝負をすれば"
+msgstr ""
+
+msgctxt "253676"
+msgid "全てを認めるということか"
+msgstr ""
+
+msgctxt "253820"
+msgid "ええ"
+msgstr ""
+
+msgctxt "253964"
+msgid "悪い条件ではないはずです"
+msgstr ""
+
+msgctxt "254108"
+msgid "いいだろう"
+msgstr ""
+
+msgctxt "254252"
+msgid "これで終わりだ以蔵"
+msgstr ""
+
+msgctxt "254396"
+msgid "俺は"
+msgstr ""
+
+msgctxt "254540"
+msgid "人斬り以蔵としてのお前の人生に……"
+msgstr ""
+
+msgctxt "254684"
+msgid "終止符を打ってやる"
+msgstr ""
+
+msgctxt "254828"
+msgid "来い……！"
+msgstr ""
+
+msgctxt "254972"
+msgid "以蔵！！"
+msgstr ""
+
+msgctxt "255116"
+msgid "行くぞ"
+msgstr ""
+
+msgctxt "255260"
+msgid "龍馬！！"
+msgstr ""

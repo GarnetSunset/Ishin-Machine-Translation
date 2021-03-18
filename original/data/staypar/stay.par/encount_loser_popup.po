@@ -1,0 +1,840 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "YATOU_POPUP_0"
+msgid "俺が悪かった…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_1"
+msgid "ワシが悪かった…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_2"
+msgid "悪かった…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_3"
+msgid "すまねぇ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_4"
+msgid "申し訳ねぇ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_5"
+msgid "申し訳ない…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_6"
+msgid "申し訳ございません…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_7"
+msgid "もうしません…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_8"
+msgid "もうしねぇよ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_9"
+msgid "もうせえへん…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_10"
+msgid "俺はゴミだ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_11"
+msgid "ワシはゴミや…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_12"
+msgid "俺はクズだ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_13"
+msgid "ワシはクズや…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_14"
+msgid "身の程知らずだった…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_15"
+msgid "反省してるよ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_16"
+msgid "反省してます…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_17"
+msgid "反省します…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_18"
+msgid "許してください…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_19"
+msgid "もう許して…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_20"
+msgid "もう許してくれ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_21"
+msgid "許して…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_22"
+msgid "許してくれ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_23"
+msgid "許してください…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_24"
+msgid "もう勘弁して…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_25"
+msgid "もう勘弁してくれ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_26"
+msgid "勘弁して…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_27"
+msgid "勘弁してくれ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_28"
+msgid "勘弁してください…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_29"
+msgid "ご勘弁を…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_30"
+msgid "ご勘弁ください…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_31"
+msgid "もう堪忍や…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_32"
+msgid "もう堪忍してくれ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_33"
+msgid "堪忍や…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_34"
+msgid "堪忍してくれ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_35"
+msgid "堪忍してください…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_36"
+msgid "強すぎだって…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_37"
+msgid "強すぎや…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_38"
+msgid "強すぎる…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_39"
+msgid "強すぎるだろ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_40"
+msgid "ここまでとは…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_41"
+msgid "これまでか…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_42"
+msgid "そんなアホな…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_43"
+msgid "そんなバカな…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_44"
+msgid "バカな…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_45"
+msgid "アホな…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_46"
+msgid "ありえねぇ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_47"
+msgid "信じられねぇ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_48"
+msgid "化け物かよ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_49"
+msgid "化け物め…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_50"
+msgid "怪物かよ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_51"
+msgid "怪物め…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_52"
+msgid "もうだめだ…"
+msgstr ""
+
+msgctxt "YATOU_POPUP_53"
+msgid "だめだ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_0"
+msgid "俺が悪かった…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_1"
+msgid "ワシが悪かった…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_2"
+msgid "悪かった…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_3"
+msgid "すまねぇ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_4"
+msgid "申し訳ねぇ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_5"
+msgid "申し訳ない…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_6"
+msgid "申し訳ございません…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_7"
+msgid "もうしません…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_8"
+msgid "もうしねぇよ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_9"
+msgid "もうせえへん…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_10"
+msgid "俺はゴミだ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_11"
+msgid "ワシはゴミや…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_12"
+msgid "俺はクズだ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_13"
+msgid "ワシはクズや…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_14"
+msgid "身の程知らずだった…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_15"
+msgid "反省してるよ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_16"
+msgid "反省してます…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_17"
+msgid "反省します…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_18"
+msgid "許してください…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_19"
+msgid "もう許して…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_20"
+msgid "もう許してくれ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_21"
+msgid "許して…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_22"
+msgid "許してくれ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_23"
+msgid "許してください…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_24"
+msgid "もう勘弁して…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_25"
+msgid "もう勘弁してくれ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_26"
+msgid "勘弁して…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_27"
+msgid "勘弁してくれ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_28"
+msgid "勘弁してください…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_29"
+msgid "ご勘弁を…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_30"
+msgid "ご勘弁ください…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_31"
+msgid "もう堪忍や…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_32"
+msgid "もう堪忍してくれ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_33"
+msgid "堪忍や…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_34"
+msgid "堪忍してくれ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_35"
+msgid "堪忍してください…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_36"
+msgid "強すぎだって…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_37"
+msgid "強すぎや…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_38"
+msgid "強すぎる…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_39"
+msgid "強すぎるだろ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_40"
+msgid "ここまでとは…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_41"
+msgid "これまでか…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_42"
+msgid "そんなアホな…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_43"
+msgid "そんなバカな…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_44"
+msgid "バカな…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_45"
+msgid "アホな…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_46"
+msgid "ありえねぇ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_47"
+msgid "信じられねぇ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_48"
+msgid "化け物かよ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_49"
+msgid "化け物め…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_50"
+msgid "怪物かよ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_51"
+msgid "怪物め…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_52"
+msgid "もうだめだ…"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_53"
+msgid "だめだ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_0"
+msgid "俺が悪かった…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_1"
+msgid "ワシが悪かった…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_2"
+msgid "悪かった…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_3"
+msgid "すまねぇ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_4"
+msgid "申し訳ねぇ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_5"
+msgid "申し訳ない…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_6"
+msgid "申し訳ございません…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_7"
+msgid "もうしません…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_8"
+msgid "もうしねぇよ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_9"
+msgid "もうせえへん…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_10"
+msgid "俺はゴミだ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_11"
+msgid "ワシはゴミや…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_12"
+msgid "俺はクズだ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_13"
+msgid "ワシはクズや…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_14"
+msgid "身の程知らずだった…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_15"
+msgid "反省してるよ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_16"
+msgid "反省してます…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_17"
+msgid "反省します…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_18"
+msgid "許してください…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_19"
+msgid "もう許して…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_20"
+msgid "もう許してくれ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_21"
+msgid "許して…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_22"
+msgid "許してくれ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_23"
+msgid "許してください…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_24"
+msgid "もう勘弁して…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_25"
+msgid "もう勘弁してくれ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_26"
+msgid "勘弁して…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_27"
+msgid "勘弁してくれ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_28"
+msgid "勘弁してください…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_29"
+msgid "ご勘弁を…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_30"
+msgid "ご勘弁ください…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_31"
+msgid "もう堪忍や…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_32"
+msgid "もう堪忍してくれ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_33"
+msgid "堪忍や…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_34"
+msgid "堪忍してくれ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_35"
+msgid "堪忍してください…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_36"
+msgid "強すぎだって…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_37"
+msgid "強すぎや…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_38"
+msgid "強すぎる…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_39"
+msgid "強すぎるだろ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_40"
+msgid "ここまでとは…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_41"
+msgid "これまでか…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_42"
+msgid "そんなアホな…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_43"
+msgid "そんなバカな…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_44"
+msgid "バカな…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_45"
+msgid "アホな…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_46"
+msgid "ありえねぇ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_47"
+msgid "信じられねぇ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_48"
+msgid "化け物かよ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_49"
+msgid "化け物め…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_50"
+msgid "怪物かよ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_51"
+msgid "怪物め…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_52"
+msgid "もうだめだ…"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_53"
+msgid "だめだ…"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_0"
+msgid "吾輩の負けでござる…"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_1"
+msgid "負けたでござる…"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_2"
+msgid "完敗でござる…"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_3"
+msgid "強すぎるでござる…"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_4"
+msgid "こんなに強いとは…"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_5"
+msgid "やるでござるな…"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_6"
+msgid "次は負けんでござる…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_0"
+msgid "そんなバカな…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_1"
+msgid "くそが…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_2"
+msgid "くそったれ…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_3"
+msgid "くっそぉ…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_4"
+msgid "おのれぇ…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_5"
+msgid "強すぎる…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_6"
+msgid "強すぎるだろ…"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_7"
+msgid "こんなに強いのか…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_0"
+msgid "俺が悪かった…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_1"
+msgid "すまねぇ…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_2"
+msgid "申し訳ねぇ…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_3"
+msgid "もうしねぇよ…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_4"
+msgid "反省してるよ…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_5"
+msgid "強すぎる…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_6"
+msgid "強すぎるだろ…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_7"
+msgid "圧倒的すぎる…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_8"
+msgid "そんなバカな…"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_9"
+msgid "くそがぁ…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_0"
+msgid "俺が悪かった…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_1"
+msgid "すまねぇ…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_2"
+msgid "申し訳ねぇ…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_3"
+msgid "もうしねぇよ…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_4"
+msgid "反省してるよ…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_5"
+msgid "強すぎる…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_6"
+msgid "強すぎるだろ…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_7"
+msgid "圧倒的すぎる…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_8"
+msgid "そんなバカな…"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_9"
+msgid "くそがぁ…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_0"
+msgid "俺が悪かった…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_1"
+msgid "すまねぇ…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_2"
+msgid "申し訳ねぇ…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_3"
+msgid "もうしねぇよ…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_4"
+msgid "反省してるよ…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_5"
+msgid "強すぎる…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_6"
+msgid "強すぎるだろ…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_7"
+msgid "圧倒的すぎる…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_8"
+msgid "そんなバカな…"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_9"
+msgid "くそがぁ…"
+msgstr ""

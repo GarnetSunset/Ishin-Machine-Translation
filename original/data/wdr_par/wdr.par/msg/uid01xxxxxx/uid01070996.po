@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "392"
+msgid "アイテムの効果が切れたようだな。"
+msgstr ""
+
+msgctxt "425"
+msgid "アイテムの効果が切れたようやな。"
+msgstr ""
+
+msgctxt "458"
+msgid "アイテムの効果が切れたようだな。"
+msgstr ""
+
+msgctxt "491"
+msgid "アイテムの効果が切れたようだな。"
+msgstr ""
+
+msgctxt "540"
+msgid "Player"
+msgstr ""
+
+msgctxt "547"
+msgid "冴島"
+msgstr ""
+
+msgctxt "552"
+msgid "秋山"
+msgstr ""
+
+msgctxt "557"
+msgid "品田"
+msgstr ""

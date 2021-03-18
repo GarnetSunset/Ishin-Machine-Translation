@@ -1,0 +1,796 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "564"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "708"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "852"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "996"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "1140"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "1284"
+msgid "そして"
+msgstr ""
+
+msgctxt "1428"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "1572"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "1716"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "1860"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "2004"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "2148"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "2580"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "2724"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "2868"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "3012"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "3156"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "3300"
+msgid "そして"
+msgstr ""
+
+msgctxt "3444"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "3588"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "3732"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "3876"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "4020"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "4164"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "4596"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "4740"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "4884"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "5028"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "5172"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "5316"
+msgid "そして"
+msgstr ""
+
+msgctxt "5460"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "5604"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "5748"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "5892"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "6036"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "6180"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "6612"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "6756"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "6900"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "7044"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "7188"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "7332"
+msgid "そして"
+msgstr ""
+
+msgctxt "7476"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "7620"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "7764"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "7908"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "8052"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "8196"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "8628"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "8772"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "8916"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "9060"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "9204"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "9348"
+msgid "そして"
+msgstr ""
+
+msgctxt "9492"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "9636"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "9780"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "9924"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "10068"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "10212"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "10644"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "10788"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "10932"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "11076"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "11220"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "11364"
+msgid "そして"
+msgstr ""
+
+msgctxt "11508"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "11652"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "11796"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "11940"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派の対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "12084"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "12228"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "12660"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "12804"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "12948"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "13092"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "13236"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "13380"
+msgid "そして"
+msgstr ""
+
+msgctxt "13524"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "13668"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "13812"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "13956"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "14100"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "14244"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "14676"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "14820"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "14964"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "15108"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "15252"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "15396"
+msgid "そして"
+msgstr ""
+
+msgctxt "15540"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "15684"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "15828"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "15972"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "16116"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "16260"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "16692"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "16836"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "16980"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "17124"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "17268"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "17412"
+msgid "そして"
+msgstr ""
+
+msgctxt "17556"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "17700"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "17844"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "17988"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "18132"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "18276"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "18708"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "18852"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "18996"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "19140"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "19284"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "19428"
+msgid "そして"
+msgstr ""
+
+msgctxt "19572"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "19716"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "19860"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "20004"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "20148"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "20292"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "20724"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "20868"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "21012"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "21156"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "21300"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "21444"
+msgid "そして"
+msgstr ""
+
+msgctxt "21588"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "21732"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "21876"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "22020"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "22164"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "22308"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "22740"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "22884"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "23028"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "23172"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "23316"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "23460"
+msgid "そして"
+msgstr ""
+
+msgctxt "23604"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "23748"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "23892"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "24036"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "24180"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "24324"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "24756"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "24900"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "25044"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "25188"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "25332"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "25476"
+msgid "そして"
+msgstr ""
+
+msgctxt "25620"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "25764"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "25908"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "26052"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "26196"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "26340"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""
+
+msgctxt "26772"
+msgid ""
+"将軍との謁見に成功した\r\n"
+"龍馬と沖田を待っていたのは"
+msgstr ""
+
+msgctxt "26916"
+msgid "燃え上がる京の町だった"
+msgstr ""
+
+msgctxt "27060"
+msgid "すべては手後れだったのか"
+msgstr ""
+
+msgctxt "27204"
+msgid "灼熱の京を　龍馬は奔る"
+msgstr ""
+
+msgctxt "27348"
+msgid ""
+"そこで目にしたのは\r\n"
+"志半ばにして倒れた近藤の姿"
+msgstr ""
+
+msgctxt "27492"
+msgid "そして"
+msgstr ""
+
+msgctxt "27636"
+msgid "“もう一人の坂本龍馬”の命を受けて"
+msgstr ""
+
+msgctxt "27780"
+msgid "龍馬の前に立ちふさがる岡田以蔵の姿だった"
+msgstr ""
+
+msgctxt "27924"
+msgid "夜は明け"
+msgstr ""
+
+msgctxt "28068"
+msgid ""
+"伊東甲子太郎一派と\r\n"
+"近藤派との対立は決定的なものとなる"
+msgstr ""
+
+msgctxt "28212"
+msgid ""
+"そして　新選組の敵\r\n"
+"「御陵衛士」となった伊東一派"
+msgstr ""
+
+msgctxt "28356"
+msgid "その中には藤堂平助の姿があった"
+msgstr ""

@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "380"
+msgid "－"
+msgstr ""
+
+msgctxt "383"
+msgid "所持数"
+msgstr ""
+
+msgctxt "390"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "415"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "448"
+msgid "ありがとうございます。%sでございます。"
+msgstr ""
+
+msgctxt "487"
+msgid "（持ち物が一杯だな……）"
+msgstr ""
+
+msgctxt "512"
+msgid "（売り切れのようだ……）"
+msgstr ""
+
+msgctxt "537"
+msgid "（これは既に持っているな……）"
+msgstr ""
+
+msgctxt "568"
+msgid "所持品"
+msgstr ""
+
+msgctxt "575"
+msgid "詳細"
+msgstr ""
+
+msgctxt "580"
+msgid "商品"
+msgstr ""
+
+msgctxt "585"
+msgid "<Sign:1>前へ"
+msgstr ""
+
+msgctxt "598"
+msgid "<Sign:1>次へ %d/%d"
+msgstr ""
+
+msgctxt "617"
+msgid "－"
+msgstr ""
+
+msgctxt "620"
+msgid "注"
+msgstr ""
+
+msgctxt "623"
+msgid ""
+"怪我した箇所に塗る「傷薬」です。\n"
+"体力をわずかに回復してくれます。"
+msgstr ""
+
+msgctxt "689"
+msgid ""
+"希少性の高い白金で作られた皿です。\n"
+"かなりの価値があります。"
+msgstr ""
+
+msgctxt "749"
+msgid ""
+"金で作られた皿です。\n"
+"かなり価値のある皿です。"
+msgstr ""
+
+msgctxt "795"
+msgid ""
+"銀で作られた皿です。\n"
+"結構な価値があります。"
+msgstr ""
+
+msgctxt "839"
+msgid ""
+"銅で作られた皿です。\n"
+"あまり高価ではないですが、\n"
+"それなりの価値はあります。"
+msgstr ""
+
+msgctxt "914"
+msgid ""
+"鉄で作られた皿です。\n"
+"価値は低いですが、売れば資金になるでしょう。"
+msgstr ""

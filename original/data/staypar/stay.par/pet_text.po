@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "STATE_0"
+msgid "機嫌が悪い（様子①）"
+msgstr ""
+
+msgctxt "STATE_1"
+msgid "機嫌が悪い（様子②）"
+msgstr ""
+
+msgctxt "STATE_2"
+msgid "機嫌が悪い（様子③）"
+msgstr ""
+
+msgctxt "STATE_3"
+msgid "機嫌そこそこ（様子①）"
+msgstr ""
+
+msgctxt "STATE_4"
+msgid "機嫌そこそこ（様子②）"
+msgstr ""
+
+msgctxt "STATE_5"
+msgid "機嫌そこそこ（様子③）"
+msgstr ""
+
+msgctxt "STATE_6"
+msgid "機嫌が良い（様子①）"
+msgstr ""
+
+msgctxt "STATE_7"
+msgid "機嫌が良い（様子②）"
+msgstr ""
+
+msgctxt "STATE_8"
+msgid "機嫌が良い（様子③）"
+msgstr ""
+
+msgctxt "STATE_9"
+msgid "やたら機嫌がよい（様子①）"
+msgstr ""
+
+msgctxt "STATE_10"
+msgid "やたら機嫌がよい（様子②）"
+msgstr ""
+
+msgctxt "STATE_11"
+msgid "やたら機嫌がよい（様子③）"
+msgstr ""
+
+msgctxt "BEFORE_0"
+msgid "（機嫌が悪いみたいだな……　腹でも減ってるのか？）"
+msgstr ""
+
+msgctxt "BEFORE_1"
+msgid "（機嫌が悪いみたいだな……　遊びつかれたのか？）"
+msgstr ""
+
+msgctxt "BEFORE_2"
+msgid "（機嫌が悪いみたいだな……　欲求不満なのか？）"
+msgstr ""
+
+msgctxt "BEFORE_3"
+msgid "（機嫌そこそこみたいだな……　誰かに可愛がられたのか？）"
+msgstr ""
+
+msgctxt "BEFORE_4"
+msgid "（機嫌そこそこみたいだな……　遊んでもらったのか？）"
+msgstr ""
+
+msgctxt "BEFORE_5"
+msgid "（機嫌そこそこみたいだな……　餌でももらったのか？）"
+msgstr ""
+
+msgctxt "BEFORE_6"
+msgid "（機嫌が良いみたいだな……）"
+msgstr ""
+
+msgctxt "BEFORE_7"
+msgid "（やたら機嫌が良いみたいだな……）"
+msgstr ""
+
+msgctxt "CHOICE_1_0"
+msgid "餌をあげる"
+msgstr ""
+
+msgctxt "CHOICE_2_0"
+msgid "遊んであげる"
+msgstr ""
+
+msgctxt "CHOICE_3_0"
+msgid "なでてあげる"
+msgstr ""
+
+msgctxt "AFTER_1_0_0"
+msgid "（全く食わないな……　腹が一杯だったか……）"
+msgstr ""
+
+msgctxt "AFTER_1_1_0"
+msgid "（よく食べたな！　遊びすぎて腹が減ってたんだな）"
+msgstr ""
+
+msgctxt "AFTER_1_1_1"
+msgid "（よく食べたな！　腹が減ってたんだな）"
+msgstr ""
+
+msgctxt "AFTER_1_2_0"
+msgid "（食欲旺盛だな！　遊びすぎて相当腹が減ってたんだな）"
+msgstr ""
+
+msgctxt "AFTER_1_2_1"
+msgid "（食欲旺盛だな！　相当腹が減ってたんだな）"
+msgstr ""
+
+msgctxt "AFTER_2_0_0"
+msgid "（無視されてしまった……　遊び飽きたのか……）"
+msgstr ""
+
+msgctxt "AFTER_2_1_0"
+msgid "（満足したようだな。　相手がいなくて寂しかったのか？）"
+msgstr ""
+
+msgctxt "AFTER_2_2_0"
+msgid "（目がキラキラしているな！　退屈だったんだな）"
+msgstr ""
+
+msgctxt "AFTER_3_0_0"
+msgid "（全く反応無いな……）"
+msgstr ""
+
+msgctxt "AFTER_3_1_0"
+msgid "（少しは機嫌よくなったか。　寂しかったんだな）"
+msgstr ""
+
+msgctxt "AFTER_3_1_1"
+msgid "（気持ちよさそうだ！　温もりに飢えていたんだな）"
+msgstr ""
+
+msgctxt "AFTER_3_2_0"
+msgid "（気持ちよさそうだ！　温もりに飢えていたんだな）"
+msgstr ""
+
+msgctxt "BEFORE_DOG_0"
+msgid "……"
+msgstr ""
+
+msgctxt "BEFORE_DOG_1"
+msgid "クーン……"
+msgstr ""
+
+msgctxt "BEFORE_DOG_2"
+msgid "わん！"
+msgstr ""
+
+msgctxt "BEFORE_DOG_3"
+msgid "わん！　わん！"
+msgstr ""
+
+msgctxt "BEFORE_CAT_0"
+msgid "……"
+msgstr ""
+
+msgctxt "BEFORE_CAT_1"
+msgid "にゃん……"
+msgstr ""
+
+msgctxt "BEFORE_CAT_2"
+msgid "にゃー！"
+msgstr ""
+
+msgctxt "BEFORE_CAT_3"
+msgid "にゃーん！"
+msgstr ""

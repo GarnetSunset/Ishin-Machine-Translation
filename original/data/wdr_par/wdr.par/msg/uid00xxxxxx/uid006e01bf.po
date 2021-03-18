@@ -1,0 +1,1361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "34700"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34701"
+msgid ""
+"むむ……　あなた……\n"
+"失礼かもしれませんが……\n"
+"あやしい人ですね！"
+msgstr ""
+
+msgctxt "34768"
+msgid ""
+"……あやしいのはお前だ。\n"
+"何をそんなにきょろきょろしているんだ？"
+msgstr ""
+
+msgctxt "34833"
+msgid ""
+"私ですか？　そんなこと決まっております！\n"
+"困っている人がいないか、\n"
+"町の見回りをしているのですよ！"
+msgstr ""
+
+msgctxt "34932"
+msgid "町の見回り……？"
+msgstr ""
+
+msgctxt "34949"
+msgid ""
+"そうですとも！　今も使命の真っ最中なのです！\n"
+"だからあなた、私の邪魔をしないでいただきた……"
+msgstr ""
+
+msgctxt "35042"
+msgid "や、やめてください！"
+msgstr ""
+
+msgctxt "35063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35064"
+msgid "んん!?"
+msgstr ""
+
+msgctxt "35071"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35072"
+msgid "そこを通してください！"
+msgstr ""
+
+msgctxt "35095"
+msgid ""
+"へへ、いいじゃねえか、\n"
+"ちぃとばかり俺らと茶でも飲みにいこうぜぇ。"
+msgstr ""
+
+msgctxt "35162"
+msgid ""
+"クク、まぁ茶だけじゃすまねぇかもしれねぇが、\n"
+"お嬢ちゃんも子供じゃねえんだから、わかるよなぁ？"
+msgstr ""
+
+msgctxt "35257"
+msgid ""
+"お願いです！　私、急いでいるんです！\n"
+"そこを、ど……　どいてください！"
+msgstr ""
+
+msgctxt "35328"
+msgid ""
+"まぁまぁ、そう言いなさんなって。\n"
+"へへへ、嫌がる顔もまたかわいいなぁ！"
+msgstr ""
+
+msgctxt "35399"
+msgid "たちの悪い奴らがいやがる……"
+msgstr ""
+
+msgctxt "35428"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35429"
+msgid "（……ん？　さっきのあやしい男はどこ行った？）"
+msgstr ""
+
+msgctxt "35476"
+msgid "待て待て待てぃッ!!"
+msgstr ""
+
+msgctxt "35495"
+msgid "……えっ。"
+msgstr ""
+
+msgctxt "35506"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35507"
+msgid ""
+"あなた達！　いたいけなお嬢さんを\n"
+"無理やり、逢引にお誘いするおつもりですか!?"
+msgstr ""
+
+msgctxt "35584"
+msgid "彼女、困っているでしょう!?"
+msgstr ""
+
+msgctxt "35611"
+msgid "恥を知りなさい！　恥を！"
+msgstr ""
+
+msgctxt "35636"
+msgid "（あ、あいつ……！）"
+msgstr ""
+
+msgctxt "35657"
+msgid ""
+"げっ、侍！　……さ、侍だからって、\n"
+"いきなりやって来て、でかいツラしてんじゃねぇぞ！"
+msgstr ""
+
+msgctxt "35742"
+msgid ""
+"お、俺たちだってやる時はやるぞ!?　二対一だぞ!?\n"
+"それに、お侍さんには、か、関係ないだろう！"
+msgstr ""
+
+msgctxt "35833"
+msgid ""
+"フン！　関係なくなどありません！\n"
+"この町の困っている人は全員、私が守るのですから！"
+msgstr ""
+
+msgctxt "35916"
+msgid "はぁ？"
+msgstr ""
+
+msgctxt "35923"
+msgid ""
+"さぁ、お嬢さん。\n"
+"危ないですから離れていてください。"
+msgstr ""
+
+msgctxt "35976"
+msgid "は……　はい！"
+msgstr ""
+
+msgctxt "35991"
+msgid "さぁ、諸悪の根源達よ、かかってきなさい！"
+msgstr ""
+
+msgctxt "36032"
+msgid ""
+"くっ……　もう後にはひけねぇ!!\n"
+"本気で、や、やっちまうぞ！"
+msgstr ""
+
+msgctxt "36091"
+msgid ""
+"さ、侍だからって手加減しねぇんだからな！\n"
+"い、い、痛い目見せてやるんだからな！"
+msgstr ""
+
+msgctxt "36170"
+msgid "うおぉぉぉ！"
+msgstr ""
+
+msgctxt "36183"
+msgid "ふっ……"
+msgstr ""
+
+msgctxt "36192"
+msgid "（な……　あ、あいつ……）"
+msgstr ""
+
+msgctxt "36219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36222"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36224"
+msgid "（弱い……！）"
+msgstr ""
+
+msgctxt "36239"
+msgid "い、痛いよー！　わーん！"
+msgstr ""
+
+msgctxt "36264"
+msgid "なんだ、こいつ……"
+msgstr ""
+
+msgctxt "36283"
+msgid "……"
+msgstr ""
+
+msgctxt "36288"
+msgid ""
+"わ、私せっかく手加減してあげたのに、\n"
+"あなた達、ちょっと本気、だしすぎですよ！\n"
+"わ、わーん！　痛いよー！"
+msgstr ""
+
+msgctxt "36393"
+msgid "……おい、なんだかしらけちまったな。"
+msgstr ""
+
+msgctxt "36430"
+msgid "……あぁ、行こうぜ。"
+msgstr ""
+
+msgctxt "36451"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36452"
+msgid "……あ、あの、お侍様！"
+msgstr ""
+
+msgctxt "36475"
+msgid "あ、あなたは！　大丈夫でしたか、お嬢さん！"
+msgstr ""
+
+msgctxt "36518"
+msgid ""
+"え……　えぇ。\n"
+"あの、私、急いでるんで……　もう行きますね。"
+msgstr ""
+
+msgctxt "36579"
+msgid "え、あ、はい！　……どうぞ!!"
+msgstr ""
+
+msgctxt "36608"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36609"
+msgid "…………"
+msgstr ""
+
+msgctxt "36618"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36619"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36620"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36621"
+msgid "お前……　威勢がいいのは口だけだったな。"
+msgstr ""
+
+msgctxt "36662"
+msgid ""
+"あ、さっきの！　……そんなことありません！\n"
+"時代が私についてこれていないのですよ！"
+msgstr ""
+
+msgctxt "36745"
+msgid ""
+"何を言ってるかわからねぇが、\n"
+"お前……　すごかったぜ。"
+msgstr ""
+
+msgctxt "36800"
+msgid "……えっ？"
+msgstr ""
+
+msgctxt "36811"
+msgid "お前は誰も傷つけずに、いざこざを片付けちまった。"
+msgstr ""
+
+msgctxt "36860"
+msgid ""
+"確かに……　そうかもしれませんね。\n"
+"ただ……　私はすごく傷ついておるのですが。"
+msgstr ""
+
+msgctxt "36939"
+msgid ""
+"……あ、思い出したらまた痛い！\n"
+"あ、あなた、何か傷を癒すもの等\n"
+"お持ちではないですかね!?"
+msgstr ""
+
+msgctxt "37028"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37029"
+msgid "すまないが今は持っていないな。"
+msgstr ""
+
+msgctxt "37060"
+msgid "うわーん、痛い、痛すぎる！"
+msgstr ""
+
+msgctxt "37087"
+msgid ""
+"傷を癒すもの、なんでもいいので\n"
+"……あとで持ってきていただけませんかね！"
+msgstr ""
+
+msgctxt "37160"
+msgid ""
+"（……こいつのおかげで\n"
+"　騒ぎが収まったのも事実だ、何かしてやりたいが）"
+msgstr ""
+
+msgctxt "37233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37234"
+msgid "これでいいか？"
+msgstr ""
+
+msgctxt "37249"
+msgid "おぉ、これはこれは！"
+msgstr ""
+
+msgctxt "37270"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37271"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37272"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37273"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37274"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37275"
+msgid "（弱い……！）"
+msgstr ""
+
+msgctxt "37290"
+msgid "い、痛いよー！　わーん！"
+msgstr ""
+
+msgctxt "37315"
+msgid "なんだ、こいつ……"
+msgstr ""
+
+msgctxt "37334"
+msgid "……"
+msgstr ""
+
+msgctxt "37339"
+msgid ""
+"わ、私せっかく手加減してあげたのに、\n"
+"あなた達、ちょっと本気、だしすぎですよ！\n"
+"わ、わーん！　痛いよー！"
+msgstr ""
+
+msgctxt "37444"
+msgid "……おい、なんだかしらけちまったな。"
+msgstr ""
+
+msgctxt "37481"
+msgid "……あぁ、行こうぜ。"
+msgstr ""
+
+msgctxt "37502"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37503"
+msgid "……あ、あの、お侍様！"
+msgstr ""
+
+msgctxt "37526"
+msgid "あ、あなたは！　大丈夫でしたか、お嬢さん！"
+msgstr ""
+
+msgctxt "37569"
+msgid ""
+"え……　えぇ。\n"
+"あの、私、急いでるんで……　もう行きますね。"
+msgstr ""
+
+msgctxt "37630"
+msgid "え、あ、はい！　……どうぞ!!"
+msgstr ""
+
+msgctxt "37659"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37660"
+msgid "…………"
+msgstr ""
+
+msgctxt "37669"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37670"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37671"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37672"
+msgid "お前……　威勢がいいのは口だけだったな。"
+msgstr ""
+
+msgctxt "37713"
+msgid ""
+"あ、さっきの！　……そんなことありません！\n"
+"時代が私についてこれていないのですよ！"
+msgstr ""
+
+msgctxt "37796"
+msgid ""
+"何を言ってるかわからねぇが、\n"
+"お前……　すごかったぜ。"
+msgstr ""
+
+msgctxt "37851"
+msgid "……えっ？"
+msgstr ""
+
+msgctxt "37862"
+msgid "お前は誰も傷つけずに、いざこざを片付けちまった。"
+msgstr ""
+
+msgctxt "37911"
+msgid ""
+"確かに……　そうかもしれませんね。\n"
+"ただ……　私はすごく傷ついておるのですが。"
+msgstr ""
+
+msgctxt "37990"
+msgid ""
+"……あ、思い出したらまた痛い！\n"
+"あ、あなた、何か傷を癒すもの等\n"
+"お持ちではないですかね!?"
+msgstr ""
+
+msgctxt "38079"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38080"
+msgid "すまないが今は持っていないな。"
+msgstr ""
+
+msgctxt "38111"
+msgid "うわーん、痛い、痛すぎる！"
+msgstr ""
+
+msgctxt "38138"
+msgid ""
+"傷を癒すもの、なんでもいいので\n"
+"……あとで持ってきていただけませんかね！"
+msgstr ""
+
+msgctxt "38211"
+msgid ""
+"（……こいつのおかげで\n"
+"　騒ぎが収まったのも事実だ、何かしてやりたいが）"
+msgstr ""
+
+msgctxt "38284"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38285"
+msgid "これでいいか？"
+msgstr ""
+
+msgctxt "38300"
+msgid "おぉ、これはこれは！"
+msgstr ""
+
+msgctxt "38321"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38322"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38323"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38324"
+msgid "ふむ、あなた、素晴らしい働きでしたとも！"
+msgstr ""
+
+msgctxt "38365"
+msgid ""
+"……どうやらあなたも、私と同じ、\n"
+"困った人を放っておけない性質のようですね！"
+msgstr ""
+
+msgctxt "38442"
+msgid ""
+"いや、お前が切実に頼んできたんだろ。\n"
+"……そんなことより、お前はなんなんだ？"
+msgstr ""
+
+msgctxt "38519"
+msgid "なんなんだ……　と申しますと？"
+msgstr ""
+
+msgctxt "38550"
+msgid ""
+"見たところ武士のようだが……\n"
+"ここらの武士は、町の見回りまでやっているのか？"
+msgstr ""
+
+msgctxt "38627"
+msgid ""
+"えぇ、私は武士です……　が、\n"
+"見回りは、私個人でやっておるのですよ！"
+msgstr ""
+
+msgctxt "38696"
+msgid "個人だと……？"
+msgstr ""
+
+msgctxt "38711"
+msgid ""
+"えぇ！　それもそのはず！\n"
+"私、困っている人を放っておけない性質でしてね！"
+msgstr ""
+
+msgctxt "38784"
+msgid ""
+"京の町を見回りしては、\n"
+"助けが必要な人に手を差し伸べておるのですよ！"
+msgstr ""
+
+msgctxt "38853"
+msgid ""
+"そ、そうか……\n"
+"意外といい奴だな、お前。"
+msgstr ""
+
+msgctxt "38894"
+msgid "意外とはなんですか！　意外とは！"
+msgstr ""
+
+msgctxt "38927"
+msgid "……ん？　誰かが困っている声がする！　行かねば！"
+msgstr ""
+
+msgctxt "38976"
+msgid ""
+"本日は助かりましたとも！\n"
+"また……　お会いしましょう！"
+msgstr ""
+
+msgctxt "39031"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39032"
+msgid "……"
+msgstr ""
+
+msgctxt "39037"
+msgid ""
+"「正義感ある怪我人」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「正義感ある怪我人」と交流してみましょう。"
+msgstr ""
+
+msgctxt "39266"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39267"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39268"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39269"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39270"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39271"
+msgid "や、あなたではないですか！"
+msgstr ""
+
+msgctxt "39298"
+msgid ""
+"まだ私、傷が痛むのです！\n"
+"傷を癒すもの、持ってきていただけませんかね!?"
+msgstr ""
+
+msgctxt "39369"
+msgid "や、あなたはいつぞやの！"
+msgstr ""
+
+msgctxt "39394"
+msgid ""
+"……またお前、騒動にちょっかいだして\n"
+"ぼこぼこにされたのか？"
+msgstr ""
+
+msgctxt "39455"
+msgid ""
+"し、失礼な！　人々の笑顔を身をていして守った、\n"
+"そう言っていただきたい！"
+msgstr ""
+
+msgctxt "39528"
+msgid "それにしても痛い！　全身が痛すぎる！"
+msgstr ""
+
+msgctxt "39565"
+msgid "フッ、お前も懲りないな……"
+msgstr ""
+
+msgctxt "39592"
+msgid ""
+"そりゃあもう！　たびたび申し訳ありませんが、\n"
+"傷を癒すもの、持ってきていただけませんかね!?"
+msgstr ""
+
+msgctxt "39683"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39684"
+msgid "すまないが今は持っていないな。"
+msgstr ""
+
+msgctxt "39715"
+msgid "うわーん、痛い、痛すぎる！"
+msgstr ""
+
+msgctxt "39742"
+msgid ""
+"傷を癒すもの、なんでもいいので\n"
+"……あとで持ってきていただけませんかね！"
+msgstr ""
+
+msgctxt "39815"
+msgid "しかたねぇな……　まったく、こまった奴だ。"
+msgstr ""
+
+msgctxt "39858"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39859"
+msgid "これでいいか？"
+msgstr ""
+
+msgctxt "39874"
+msgid "おぉ、これはこれは！"
+msgstr ""
+
+msgctxt "39895"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39896"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39897"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39898"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39899"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39900"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39901"
+msgid ""
+"うぅ、ありがとうございます……\n"
+"しかしながらまだ痛みが残っておりますゆえ……"
+msgstr ""
+
+msgctxt "39978"
+msgid ""
+"もうしばらく、私の治療に\n"
+"お付き合いいただけるとありがたいのですが……"
+msgstr ""
+
+msgctxt "40049"
+msgid "しかたねぇな……　まったく、手間のかかる奴だ。"
+msgstr ""
+
+msgctxt "40096"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40097"
+msgid "ふむ、痛みがひいた！　完治しましたとも！"
+msgstr ""
+
+msgctxt "40138"
+msgid ""
+"……どうやら私は、\n"
+"またあなたに助けられてしまったようですね！"
+msgstr ""
+
+msgctxt "40201"
+msgid "お前が助けを求めてきたから、仕方なくな。"
+msgstr ""
+
+msgctxt "40242"
+msgid ""
+"ふふふ、あなたも段々と、\n"
+"人助けをする快感を覚えてきたようですね！"
+msgstr ""
+
+msgctxt "40309"
+msgid "……ん？　誰かが困っている声がする！　行かねば！"
+msgstr ""
+
+msgctxt "40358"
+msgid ""
+"今回も助かりましたとも！\n"
+"また……　お会いしましょう！"
+msgstr ""
+
+msgctxt "40413"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40414"
+msgid "……"
+msgstr ""
+
+msgctxt "40419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40421"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40424"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40425"
+msgid "や、あなたではないですか！"
+msgstr ""
+
+msgctxt "40452"
+msgid ""
+"まだ私、傷が痛むのです！\n"
+"傷を癒すもの、持ってきていただけませんかね!?"
+msgstr ""
+
+msgctxt "40523"
+msgid "や、あなたはいつぞやの！"
+msgstr ""
+
+msgctxt "40548"
+msgid ""
+"……またお前、騒動にちょっかいだして\n"
+"ぼこぼこにされたのか？"
+msgstr ""
+
+msgctxt "40609"
+msgid ""
+"し、失礼な！　人々の笑顔を身をていして守った、\n"
+"そう言っていただきたい！"
+msgstr ""
+
+msgctxt "40682"
+msgid "それにしても痛い！　全身が痛すぎる！"
+msgstr ""
+
+msgctxt "40719"
+msgid "フッ、お前も懲りないな……"
+msgstr ""
+
+msgctxt "40746"
+msgid ""
+"そりゃあもう！　たびたび申し訳ありませんが、\n"
+"傷を癒すもの、持ってきていただけませんかね!?"
+msgstr ""
+
+msgctxt "40837"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40838"
+msgid "すまないが今は持っていないな。"
+msgstr ""
+
+msgctxt "40869"
+msgid "うわーん、痛い、痛すぎる！"
+msgstr ""
+
+msgctxt "40896"
+msgid ""
+"傷を癒すもの、なんでもいいので\n"
+"……あとで持ってきていただけませんかね！"
+msgstr ""
+
+msgctxt "40969"
+msgid "しかたねぇな……　まったく、こまった奴だ。"
+msgstr ""
+
+msgctxt "41012"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41013"
+msgid "これでいいか？"
+msgstr ""
+
+msgctxt "41028"
+msgid "おぉ、これはこれは！"
+msgstr ""
+
+msgctxt "41049"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41050"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41051"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41052"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41053"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41054"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41055"
+msgid ""
+"うぅ、ありがとうございます……\n"
+"しかしながらまだ痛みが残っておりますゆえ……"
+msgstr ""
+
+msgctxt "41132"
+msgid ""
+"もうしばらく、私の治療に\n"
+"お付き合いいただけるとありがたいのですが……"
+msgstr ""
+
+msgctxt "41203"
+msgid "しかたねぇな……　まったく、手間のかかる奴だ。"
+msgstr ""
+
+msgctxt "41250"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41251"
+msgid "ふむ、痛みがひいた！　完治しましたとも！"
+msgstr ""
+
+msgctxt "41292"
+msgid ""
+"……どうやら私は、\n"
+"またあなたに助けられてしまったようですね！"
+msgstr ""
+
+msgctxt "41355"
+msgid "お前が助けを求めてきたから、仕方なくな。"
+msgstr ""
+
+msgctxt "41396"
+msgid ""
+"ふふふ、あなたも段々と、\n"
+"人助けをする快感を覚えてきたようですね！"
+msgstr ""
+
+msgctxt "41463"
+msgid "……ん？　誰かが困っている声がする！　行かねば！"
+msgstr ""
+
+msgctxt "41512"
+msgid ""
+"今回も助かりましたとも！\n"
+"また……　お会いしましょう！"
+msgstr ""
+
+msgctxt "41567"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41568"
+msgid "……"
+msgstr ""
+
+msgctxt "41573"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41574"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41575"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41576"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41577"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41578"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41579"
+msgid "や、あなたではないですか！"
+msgstr ""
+
+msgctxt "41606"
+msgid ""
+"私、まだ殴られた傷が痛むのですよ！\n"
+"傷を癒すもの、持ってきていただけましたか！"
+msgstr ""
+
+msgctxt "41685"
+msgid "や、あなたはいつもの！"
+msgstr ""
+
+msgctxt "41708"
+msgid ""
+"お前も懲りないな……\n"
+"また、ぼこぼこにされたのか。"
+msgstr ""
+
+msgctxt "41759"
+msgid "……"
+msgstr ""
+
+msgctxt "41764"
+msgid ""
+"しかし、今回はひどくやられたな。\n"
+"熊に襲われている女でも助けたのか？"
+msgstr ""
+
+msgctxt "41833"
+msgid "……この町には、平和を乱す輩が多すぎます！"
+msgstr ""
+
+msgctxt "41876"
+msgid "……？"
+msgstr ""
+
+msgctxt "41883"
+msgid ""
+"どうして、人の嫌がることを\n"
+"平気でする人がいるのでしょうか!?"
+msgstr ""
+
+msgctxt "41944"
+msgid ""
+"相手の気持ちを想像できないのでしょうか!?\n"
+"どうして、人は人を傷つけようとするのでしょうか!?"
+msgstr ""
+
+msgctxt "42035"
+msgid "人は傷ついたら、こんなに……　痛いのですよ……"
+msgstr ""
+
+msgctxt "42082"
+msgid "……ああ。その通りだな。"
+msgstr ""
+
+msgctxt "42107"
+msgid ""
+"そうです、傷ついたらこんなに痛いのです……\n"
+"……って、痛い痛い！　忘れておりました！\n"
+"殴られたところがとても痛いです！"
+msgstr ""
+
+msgctxt "42226"
+msgid "……ふっ、そうか、そうだな。"
+msgstr ""
+
+msgctxt "42255"
+msgid ""
+"何を笑っておられるのですか？　いつもの如く、\n"
+"傷を癒すものをよろしくお願いしますよ！"
+msgstr ""
+
+msgctxt "42340"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42341"
+msgid "すまないが今は持っていないな。"
+msgstr ""
+
+msgctxt "42372"
+msgid "うわーん、痛い、痛すぎる！"
+msgstr ""
+
+msgctxt "42399"
+msgid ""
+"傷を癒すもの、なんでもいいので\n"
+"……はやく持ってきていただけませんかね！"
+msgstr ""
+
+msgctxt "42472"
+msgid "あぁ、わかった。"
+msgstr ""
+
+msgctxt "42489"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42490"
+msgid "これでいいか？"
+msgstr ""
+
+msgctxt "42505"
+msgid "おぉ、これはこれは！"
+msgstr ""
+
+msgctxt "42526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42530"
+msgid ""
+"うぅ、ありがとうございます……\n"
+"しかしながらまだ痛みが残っておりますゆえ……"
+msgstr ""
+
+msgctxt "42607"
+msgid ""
+"もう少しばかり、傷を癒すものを\n"
+"お届けしていただけると幸いなのですが……"
+msgstr ""
+
+msgctxt "42680"
+msgid "フッ、まかせておけ。"
+msgstr ""
+
+msgctxt "42701"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42702"
+msgid "ふむ、痛みがひいた！　完治しましたとも！"
+msgstr ""
+
+msgctxt "42743"
+msgid ""
+"しかし……　いくら体の傷が癒えても、\n"
+"心の傷は癒えそうにありません……"
+msgstr ""
+
+msgctxt "42814"
+msgid "心の傷……？"
+msgstr ""
+
+msgctxt "42827"
+msgid "……えぇ、私、気付いてしまったのですよ。"
+msgstr ""
+
+msgctxt "42868"
+msgid ""
+"私、この町で困っている人がいなくなるようにと、\n"
+"喧嘩の仲裁やら、暴漢の撃退やら……\n"
+"いろいろがんばってきたつもりです！"
+msgstr ""
+
+msgctxt "42987"
+msgid ""
+"しかし、その場は丸く収まったとしても、\n"
+"また別の場所でまた、人が争うのです！"
+msgstr ""
+
+msgctxt "43064"
+msgid "困ってる人が……　いなくならないのです！"
+msgstr ""
+
+msgctxt "43105"
+msgid ""
+"それでは私、殴られ損じゃないですか！\n"
+"私が痛い思いをするだけで、\n"
+"この町は何も変わらないのです！"
+msgstr ""
+
+msgctxt "43202"
+msgid "そんなことは……"
+msgstr ""
+
+msgctxt "43219"
+msgid ""
+"困っている人を助けるという使命は\n"
+"しばらくお休みしようと思います……"
+msgstr ""
+
+msgctxt "43288"
+msgid "今回も、ありがとうございました。……それでは。"
+msgstr ""
+
+msgctxt "43335"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43336"
+msgid "……"
+msgstr ""
+
+msgctxt "43341"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43342"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43343"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43344"
+msgid ""
+"や、あなたではないですか！\n"
+"困ったことがあったらいつでも助けに行きますよ！"
+msgstr ""
+
+msgctxt "45680"
+msgid "挙動不審な男"
+msgstr ""
+
+msgctxt "45693"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "45704"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "45709"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "45721"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "45730"
+msgid "女の声"
+msgstr ""
+
+msgctxt "45737"
+msgid "kaiwabgm_sub_kinpaku_03"
+msgstr ""
+
+msgctxt "45761"
+msgid "F_CHO_ACT_stand_karamare_lp"
+msgstr ""
+
+msgctxt "45789"
+msgid "いたいけなお嬢さん"
+msgstr ""
+
+msgctxt "45808"
+msgid "意地の悪そうな男"
+msgstr ""
+
+msgctxt "45825"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "45836"
+msgid "根性の曲がった男"
+msgstr ""
+
+msgctxt "45853"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "45865"
+msgid "F_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "45887"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "45899"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "45910"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "45919"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "45929"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "45937"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "45948"
+msgid "二人"
+msgstr ""
+
+msgctxt "45953"
+msgid "M_BUS_ACT_stand_accuse_odosu"
+msgstr ""
+
+msgctxt "45982"
+msgid "kaiwabgm_sub_comical"
+msgstr ""
+
+msgctxt "46003"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "46016"
+msgid "0"
+msgstr ""
+
+msgctxt "46018"
+msgid "正義感ある怪我人"
+msgstr ""
+
+msgctxt "46035"
+msgid "dummy"
+msgstr ""
+
+msgctxt "46041"
+msgid "L"
+msgstr ""
+
+msgctxt "46043"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "46053"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "46064"
+msgid "正義感ある怪我人との絆"
+msgstr ""
+
+msgctxt "46087"
+msgid "正義感ある怪我人の体力"
+msgstr ""
+
+msgctxt "46110"
+msgid "Talk_Sad"
+msgstr ""

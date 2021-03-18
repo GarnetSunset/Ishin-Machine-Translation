@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "404"
+msgid "ここは……"
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"数日前完成したばっかりの\n"
+"新築の宿屋どす"
+msgstr ""
+
+msgctxt "692"
+msgid "名は“近江屋”"
+msgstr ""
+
+msgctxt "836"
+msgid "近江屋……"
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"誰かさんたちのせいで　寺田屋が\n"
+"あないなことになってしまいましたやろ？"
+msgstr ""
+
+msgctxt "1124"
+msgid ""
+"一度騒動の起こった店に\n"
+"お客さんは寄り付きません"
+msgstr ""
+
+msgctxt "1268"
+msgid ""
+"せやから　こうして新しい宿を\n"
+"作っとったわけどす"
+msgstr ""
+
+msgctxt "1412"
+msgid ""
+"それで　俺たちをここに\n"
+"連れ出してきてどうする気だ"
+msgstr ""
+
+msgctxt "1556"
+msgid "近江屋はまだ営業もしてへん無名の宿"
+msgstr ""
+
+msgctxt "1700"
+msgid ""
+"土佐と薩摩　長州の方がお会いするには\n"
+"絶好の場所と思いましてな"
+msgstr ""
+
+msgctxt "1844"
+msgid "ここで三者会談を？"
+msgstr ""
+
+msgctxt "1988"
+msgid "女将"
+msgstr ""
+
+msgctxt "2132"
+msgid ""
+"あなたは自分の言ってることの\n"
+"意味が分かっているのか？"
+msgstr ""
+
+msgctxt "2276"
+msgid "会合といってもただの会合ではない"
+msgstr ""
+
+msgctxt "2420"
+msgid "我々の目的は襲撃なのだ"
+msgstr ""
+
+msgctxt "2564"
+msgid "そないなことはもちろん分かってます"
+msgstr ""
+
+msgctxt "2708"
+msgid ""
+"この近江屋\n"
+"煮るなり焼くなり好きにしてください"
+msgstr ""
+
+msgctxt "2852"
+msgid "何やて？"
+msgstr ""
+
+msgctxt "2996"
+msgid "暴れて傷つけてもええっちゅうんか"
+msgstr ""
+
+msgctxt "3140"
+msgid "お好きに"
+msgstr ""
+
+msgctxt "3284"
+msgid "中途半端に傷もんにするくらいやったら"
+msgstr ""
+
+msgctxt "3428"
+msgid ""
+"いっそ　火でもつけて\n"
+"燃やしてもらった方がええくらいや"
+msgstr ""
+
+msgctxt "3572"
+msgid ""
+"取り壊す手間が省けて\n"
+"建て直しが安う上がりますさかい"
+msgstr ""
+
+msgctxt "3716"
+msgid "何を考えてるんだお登勢"
+msgstr ""
+
+msgctxt "3860"
+msgid "一（はじめ）はん　いや　坂本様"
+msgstr ""
+
+msgctxt "4004"
+msgid ""
+"このお登勢\n"
+"私財の全てを失うても構いません"
+msgstr ""
+
+msgctxt "4148"
+msgid "せやから　この京の街をお救いください"
+msgstr ""
+
+msgctxt "4292"
+msgid "お登勢"
+msgstr ""
+
+msgctxt "4436"
+msgid "壬生狼が京にやって来てから１年"
+msgstr ""
+
+msgctxt "4580"
+msgid "京の街は血で汚れ"
+msgstr ""
+
+msgctxt "4724"
+msgid ""
+"斬り捨てられた人の肉を喰らわんとする\n"
+"鴉の鳴き声が止まない有様"
+msgstr ""
+
+msgctxt "4868"
+msgid "うちは　そんな京を見てられへんのどす"
+msgstr ""
+
+msgctxt "5012"
+msgid ""
+"坂本様やない　その“もう一人の坂本龍馬”が\n"
+"居らんようになれば"
+msgstr ""
+
+msgctxt "5156"
+msgid "それも全て終りになるんでっしゃろ？"
+msgstr ""
+
+msgctxt "5300"
+msgid ""
+"せやったら\n"
+"宿の一つや二つ惜しゅうありまへん"
+msgstr ""
+
+msgctxt "5444"
+msgid "どうかこの京のため"
+msgstr ""
+
+msgctxt "5588"
+msgid ""
+"京に生きる人間のため\n"
+"決着をつけてください"
+msgstr ""
+
+msgctxt "5732"
+msgid "顔をあげてくれ　お登勢"
+msgstr ""
+
+msgctxt "5876"
+msgid "あんたのその願い"
+msgstr ""
+
+msgctxt "6020"
+msgid "俺が引き受けた"
+msgstr ""
+
+msgctxt "6164"
+msgid "この近江屋で全てを終わらせる"
+msgstr ""
+
+msgctxt "6308"
+msgid "全てを"
+msgstr ""
+
+msgctxt "6452"
+msgid "坂本様"
+msgstr ""
+
+msgctxt "6596"
+msgid "おりょう"
+msgstr ""
+
+msgctxt "6740"
+msgid "うちも女将さんと同じ想いです"
+msgstr ""
+
+msgctxt "6884"
+msgid ""
+"せやさかい　うちにできることなら\n"
+"何でも言うてください"
+msgstr ""
+
+msgctxt "7028"
+msgid "それが"
+msgstr ""
+
+msgctxt "7172"
+msgid ""
+"一（はじめ）さんにできる\n"
+"せめてもの罪滅ぼしですから"
+msgstr ""
+
+msgctxt "7316"
+msgid "わかった"
+msgstr ""
+
+msgctxt "7460"
+msgid "なら　まず……"
+msgstr ""
+
+msgctxt "7604"
+msgid "その顔をあげて　笑顔を見せてくれ"
+msgstr ""
+
+msgctxt "7748"
+msgid "え？"
+msgstr ""
+
+msgctxt "7892"
+msgid "俺にとってはそれが"
+msgstr ""
+
+msgctxt "8036"
+msgid "一番かけがえのないものだ"
+msgstr ""
+
+msgctxt "8180"
+msgid "はい……！"
+msgstr ""

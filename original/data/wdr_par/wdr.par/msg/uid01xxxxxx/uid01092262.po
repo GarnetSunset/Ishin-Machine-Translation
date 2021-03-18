@@ -1,0 +1,352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6040"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6041"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6042"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6043"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6044"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6045"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6046"
+msgid ""
+"イテテテ……\n"
+"あ、あんた強いんだな……"
+msgstr ""
+
+msgctxt "6085"
+msgid ""
+"その腕に惚れたよ。\n"
+"良かったら俺を仲間にしてくれないか。\n"
+"頼む、一生のお願いだ！"
+msgstr ""
+
+msgctxt "6166"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6167"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6168"
+msgid ""
+"あ、ありがとうございます！\n"
+"粉骨砕身、頑張ります！"
+msgstr ""
+
+msgctxt "6219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6222"
+msgid ""
+"やっぱダメかぁ……\n"
+"そうですよね。失礼しました。"
+msgstr ""
+
+msgctxt "6271"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6272"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6273"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6274"
+msgid ""
+"べらぼうに強い奴もいたもんだ……\n"
+"やられたよ……"
+msgstr ""
+
+msgctxt "6323"
+msgid ""
+"そうだ、俺を仲間にしてくれねえか。\n"
+"あんたのような強い男の元で働きてえんだ。\n"
+"きっと役に立ってみせるぞ？"
+msgstr ""
+
+msgctxt "6428"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6429"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6430"
+msgid ""
+"見る目あるじゃねえか。\n"
+"俺を仲間にしたこと、決して後悔はさせねえよ。"
+msgstr ""
+
+msgctxt "6499"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6500"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6501"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6502"
+msgid ""
+"見る目がねえなぁ……\n"
+"まあ、思いっきりやられちまったからな……\n"
+"分不相応な申し出をして、悪かったよ。"
+msgstr ""
+
+msgctxt "6603"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6604"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6605"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6606"
+msgid ""
+"う、うぐぅ……\n"
+"強すぎるでござるよ……"
+msgstr ""
+
+msgctxt "6645"
+msgid ""
+"そんな貴殿の腕に我が未来を託したいでござる。\n"
+"後生でござる！\n"
+"私を仲間に加えてはもらえないだろうか！"
+msgstr ""
+
+msgctxt "6746"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6747"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6748"
+msgid ""
+"思わず感涙にむせびそうでござる！\n"
+"かならずお役に立つでござるよ！"
+msgstr ""
+
+msgctxt "6813"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6814"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6815"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6816"
+msgid ""
+"やはりダメでござるか……\n"
+"とんだ失礼な申し出をしたでござる……"
+msgstr ""
+
+msgctxt "6879"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6880"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6881"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6882"
+msgid ""
+"くっ……\n"
+"まさかこの俺が負けるとは……"
+msgstr ""
+
+msgctxt "6921"
+msgid ""
+"その強さは本物だ。この俺が保証してやるぜ。\n"
+"だからよ、俺がもっとお前を強くしてやる。\n"
+"お前が望むなら、仲間になってやっても良いぜ。"
+msgstr ""
+
+msgctxt "7052"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7053"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7054"
+msgid ""
+"礼は言わないぜ。\n"
+"お前が俺を欲した結果だからな。\n"
+"ま、これからもよろしく頼むぜ。"
+msgstr ""
+
+msgctxt "7135"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7136"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7137"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7138"
+msgid ""
+"まあ、俺がいるとお前の輝きが鈍っちまうからな。\n"
+"俺は潔く身を引くぜ。\n"
+"あばよ！"
+msgstr ""
+
+msgctxt "7217"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7218"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7220"
+msgid ""
+"アンタ強いな……\n"
+"良かったら俺を仲間にしてくれないか……\n"
+"と思ったけど、そんな余裕ないみたいだな。"
+msgstr ""
+
+msgctxt "7319"
+msgid "（たしかに屯所は隊士で一杯だな……）"
+msgstr ""
+
+msgctxt "7356"
+msgid ""
+"まだお会いできたら、\n"
+"その時に再度申し込ませて頂きます……"
+msgstr ""
+
+msgctxt "7415"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7416"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7508"
+msgid "まだ元気そうな男"
+msgstr ""
+
+msgctxt "7525"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7531"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "7544"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7555"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "7568"
+msgid "頑丈な男"
+msgstr ""
+
+msgctxt "7577"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "7588"
+msgid "傷ついた男"
+msgstr ""
+
+msgctxt "7599"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "7610"
+msgid "倒れそうな男"
+msgstr ""
+
+msgctxt "7623"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "7635"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "7645"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7654"
+msgid "Player"
+msgstr ""

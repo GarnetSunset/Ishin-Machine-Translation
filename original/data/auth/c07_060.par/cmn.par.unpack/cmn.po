@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "193028"
+msgid "俺も衰えたもんだ"
+msgstr ""
+
+msgctxt "193172"
+msgid "たまには現場にも顔を出すんだな“局長”"
+msgstr ""
+
+msgctxt "193316"
+msgid "いい気になりやがって"
+msgstr ""
+
+msgctxt "193460"
+msgid "近藤"
+msgstr ""
+
+msgctxt "193604"
+msgid "あんたは　あの覆面の男じゃねえ"
+msgstr ""
+
+msgctxt "193748"
+msgid "あ？　なぜそう思う"
+msgstr ""
+
+msgctxt "193892"
+msgid "親っさんを斬ったあの覆面の男は"
+msgstr ""
+
+msgctxt "194036"
+msgid "あんたよりも強かった"
+msgstr ""
+
+msgctxt "194180"
+msgid "まったく　傷つくねえ"
+msgstr ""
+
+msgctxt "194324"
+msgid "覆面の男は誰だ？"
+msgstr ""
+
+msgctxt "194468"
+msgid ""
+"計画に乗れば教えてやる\n"
+"そう言ったはずだぜ"
+msgstr ""
+
+msgctxt "194612"
+msgid "何だやめるのかい"
+msgstr ""
+
+msgctxt "194756"
+msgid "あんたの言った通りだ"
+msgstr ""
+
+msgctxt "194900"
+msgid "俺はまだまだガキってことだ"
+msgstr ""
+
+msgctxt "195044"
+msgid "はぁ？"
+msgstr ""
+
+msgctxt "195188"
+msgid ""
+"分からねえことは\n"
+"すぐに人に聞いちまう"
+msgstr ""
+
+msgctxt "195332"
+msgid "自分には学も教養もねえ……"
+msgstr ""
+
+msgctxt "195476"
+msgid "そう思って　考えるのもやめちまう"
+msgstr ""
+
+msgctxt "195620"
+msgid "だがな……"
+msgstr ""
+
+msgctxt "195764"
+msgid "親っさんは誰にどうして殺されたのか"
+msgstr ""
+
+msgctxt "195908"
+msgid ""
+"この答えだけはどうしても\n"
+"自分の力で見つけたいんだ"
+msgstr ""
+
+msgctxt "196052"
+msgid "ガキだと言われても構わない"
+msgstr ""
+
+msgctxt "196196"
+msgid ""
+"このことだけは\n"
+"最後まで意地張り続けるつもりだ"
+msgstr ""
+
+msgctxt "196340"
+msgid ""
+"答えを見つけるまで\n"
+"新選組には居続けさせてもらう"
+msgstr ""
+
+msgctxt "196484"
+msgid "文句ねえよな？"
+msgstr ""
+
+msgctxt "196628"
+msgid ""
+"文句はあるが　勝負に負けたんだ\n"
+"許可してやるよ"
+msgstr ""
+
+msgctxt "196772"
+msgid ""
+"三番隊隊長としての仕事はする\n"
+"それじゃ"
+msgstr ""
+
+msgctxt "196916"
+msgid ""
+"あんたと闘って\n"
+"もうひとつ分かったことがある"
+msgstr ""
+
+msgctxt "197060"
+msgid "何だ"
+msgstr ""
+
+msgctxt "197204"
+msgid ""
+"天念理心流の使い手は\n"
+"一流の剣士ばかりだ"
+msgstr ""
+
+msgctxt "197348"
+msgid ""
+"俺が闘うべき敵は\n"
+"覆面の男のさらに奥……"
+msgstr ""
+
+msgctxt "197492"
+msgid ""
+"もっと深い闇に\n"
+"潜んでるのかもしれないな"
+msgstr ""
+
+msgctxt "197636"
+msgid "見てたかい"
+msgstr ""
+
+msgctxt "197780"
+msgid "いや強えなぁ　あいつは"
+msgstr ""
+
+msgctxt "197924"
+msgid "そうは思わねえか"
+msgstr ""
+
+msgctxt "198068"
+msgid "源さん"
+msgstr ""
+
+msgctxt "198212"
+msgid "勇さん　いいのか？"
+msgstr ""
+
+msgctxt "198356"
+msgid "このままあの男を行かせても"
+msgstr ""
+
+msgctxt "198500"
+msgid "あいつは　深く知りすぎた"
+msgstr ""
+
+msgctxt "198644"
+msgid "ああ　だが……"
+msgstr ""
+
+msgctxt "198788"
+msgid ""
+"あいつなら真の謎にも\n"
+"たどり着けるかもしれねえな"
+msgstr ""
+
+msgctxt "198932"
+msgid "あれが……"
+msgstr ""
+
+msgctxt "199076"
+msgid "坂本龍馬　か"
+msgstr ""

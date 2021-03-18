@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2160"
+msgid "まずは親を決めようか！"
+msgstr ""
+
+msgctxt "2183"
+msgid "オレが親な！"
+msgstr ""
+
+msgctxt "2196"
+msgid "いくら賭けんの？"
+msgstr ""
+
+msgctxt "2213"
+msgid "ほな、始めるで！"
+msgstr ""
+
+msgctxt "2230"
+msgid "オレの番な！"
+msgstr ""
+
+msgctxt "2243"
+msgid "（この台詞が出たら駄目）"
+msgstr ""
+
+msgctxt "2268"
+msgid "精算や！"
+msgstr ""
+
+msgctxt "2277"
+msgid "アンタが親やで！"
+msgstr ""
+
+msgctxt "2294"
+msgid "親の交代や！"
+msgstr ""
+
+msgctxt "2307"
+msgid "ほな続き行こか～？"
+msgstr ""
+
+msgctxt "2326"
+msgid ""
+"オケラや！\n"
+"はぁ、帰るわ……"
+msgstr ""
+
+msgctxt "2355"
+msgid ""
+"もう賭けれへんのやろ？\n"
+"出直してくれや！"
+msgstr ""
+
+msgctxt "2396"
+msgid "親の即精算メッセージ。"
+msgstr ""
+
+msgctxt "2419"
+msgid "親の奇の見は３になるんやで！"
+msgstr ""
+
+msgctxt "2448"
+msgid ""
+"最初の子が出した奇の見は\n"
+"３になるんやで！"
+msgstr ""
+
+msgctxt "2491"
+msgid ""
+"奇の見は一つ前の子と\n"
+"同じ出目になるんやで！"
+msgstr ""
+
+msgctxt "2536"
+msgid "親の偶の音は４になるんやで！"
+msgstr ""
+
+msgctxt "2565"
+msgid ""
+"偶の音は一つ後の子と\n"
+"同じ出目になるんやで！"
+msgstr ""
+
+msgctxt "2610"
+msgid ""
+"最後の子が出した偶の音は\n"
+"４になるんやで！"
+msgstr ""
+
+msgctxt "2653"
+msgid ""
+"偶の音は、後ろの子と\n"
+"同じ出目になるんやで！"
+msgstr ""
+
+msgctxt "2698"
+msgid "偶の音のあとに奇の見が出たで！"
+msgstr ""
+
+msgctxt "2729"
+msgid "ムサシやで！　どやっ！"
+msgstr ""
+
+msgctxt "2756"
+msgid "欲張り五郎"
+msgstr ""

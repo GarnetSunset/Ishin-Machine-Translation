@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7380"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7381"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7382"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7383"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7384"
+msgid "待っていたぞ、斎藤！"
+msgstr ""
+
+msgctxt "7405"
+msgid "ああ、久しぶりだな。"
+msgstr ""
+
+msgctxt "7426"
+msgid ""
+"お前にこっぴどくやられた……\n"
+"あの日からこの屈辱忘れたことはなかった！"
+msgstr ""
+
+msgctxt "7497"
+msgid "浄僧、一連の事件の首謀者はお前だな？"
+msgstr ""
+
+msgctxt "7534"
+msgid ""
+"そうさ、ここにいる赤忍や後ろの奴らも\n"
+"俺の手下だ。なぁ、赤忍？"
+msgstr ""
+
+msgctxt "7597"
+msgid "うぅ……"
+msgstr ""
+
+msgctxt "7606"
+msgid ""
+"チッ　こいつだけは\n"
+"暗示が上手くかかからないな。"
+msgstr ""
+
+msgctxt "7655"
+msgid ""
+"おい、どういうことだ。\n"
+"そいつらに何をした!?"
+msgstr ""
+
+msgctxt "7700"
+msgid ""
+"俺は新しく力を手に入れた！\n"
+"あの香さえあれば\n"
+"誰もが俺の忠実な下僕になるんだぜ！"
+msgstr ""
+
+msgctxt "7781"
+msgid ""
+"しかも、「お前は強い！」と暗示にかけることで\n"
+"弱い部下たちの力が大幅に増幅させられる！\n"
+"まさにやりたい放題ってわけだ！　はっはっは！"
+msgstr ""
+
+msgctxt "7914"
+msgid ""
+"それもこれも、お前を痛い目に\n"
+"あわせるために用意してやったんだぜ！\n"
+"斎藤よぉ！"
+msgstr ""
+
+msgctxt "7993"
+msgid ""
+"てめぇのそのツラ、生首にして晒してやるわ！\n"
+"感謝してくれよなぁ！　はっはー！"
+msgstr ""
+
+msgctxt "8070"
+msgid ""
+"卑怯な奴だ。\n"
+"自分の力だけでは何もできねぇ。\n"
+"どうしようもない野郎だ。"
+msgstr ""
+
+msgctxt "8141"
+msgid ""
+"うるせぇ！\n"
+"勝てばいいんだよ、勝てば！"
+msgstr ""
+
+msgctxt "8180"
+msgid "お前ら……　やれっ！"
+msgstr ""
+
+msgctxt "8201"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8202"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8203"
+msgid ""
+"ぐぅ……\n"
+"なんで……"
+msgstr ""
+
+msgctxt "8224"
+msgid "……はっ！"
+msgstr ""
+
+msgctxt "8235"
+msgid "ここ、は……？"
+msgstr ""
+
+msgctxt "8250"
+msgid "ううっ。"
+msgstr ""
+
+msgctxt "8259"
+msgid ""
+"クッ……\n"
+"体が……"
+msgstr ""
+
+msgctxt "8278"
+msgid ""
+"赤忍さん！\n"
+"大丈夫ですか？"
+msgstr ""
+
+msgctxt "8305"
+msgid "お前らは浄僧に変な術を掛けられていたんだ。"
+msgstr ""
+
+msgctxt "8348"
+msgid "どういうことだ……？"
+msgstr ""
+
+msgctxt "8369"
+msgid ""
+"そ、そんな……\n"
+"頭領が？"
+msgstr ""
+
+msgctxt "8394"
+msgid ""
+"浄僧……\n"
+"よくも、クッ……"
+msgstr ""
+
+msgctxt "8421"
+msgid ""
+"赤忍さん！\n"
+"安静にしていないとダメです。"
+msgstr ""
+
+msgctxt "8462"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8463"
+msgid ""
+"貴様……\n"
+"赤忍さんによくも……！"
+msgstr ""
+
+msgctxt "8496"
+msgid ""
+"ひぃぃ！\n"
+"俺は……　俺は悪くねぇ！"
+msgstr ""
+
+msgctxt "8531"
+msgid ""
+"待て！\n"
+"落ち着け。"
+msgstr ""
+
+msgctxt "8550"
+msgid "俺はあいつにそそのかされただけなんだ……"
+msgstr ""
+
+msgctxt "8591"
+msgid ""
+"あいつ……？\n"
+"どういうことだ。"
+msgstr ""
+
+msgctxt "8622"
+msgid ""
+"お前にやられたあの日、\n"
+"あいつは突然俺の前に現れたんだ。"
+msgstr ""
+
+msgctxt "8679"
+msgid ""
+"どうにかお前に仕返ししてやろうと考えていた俺に\n"
+"あいつは言ったんだ。"
+msgstr ""
+
+msgctxt "8748"
+msgid ""
+"『この香があればすべて思い通りになるぞ』\n"
+"ってな。"
+msgstr ""
+
+msgctxt "8799"
+msgid ""
+"そんな力が目の前にあったら\n"
+"お前だって使うだろ？　な!?"
+msgstr ""
+
+msgctxt "8854"
+msgid "…………"
+msgstr ""
+
+msgctxt "8863"
+msgid "だから、俺のせいじゃ……"
+msgstr ""
+
+msgctxt "8888"
+msgid "勝手なこと言いやがって。"
+msgstr ""
+
+msgctxt "8913"
+msgid "……！"
+msgstr ""
+
+msgctxt "8920"
+msgid ""
+"ひぃ……\n"
+"何でも言う。何でも言うから許してくれ。"
+msgstr ""
+
+msgctxt "8969"
+msgid "そいつはどんな奴だ。"
+msgstr ""
+
+msgctxt "8990"
+msgid ""
+"商人みたいな恰好をしていた。\n"
+"卑屈そうな顔で……　いつも香を持っていた。"
+msgstr ""
+
+msgctxt "9063"
+msgid ""
+"それ以外は、知らねえ……\n"
+"俺も数回しか会ってないからな。"
+msgstr ""
+
+msgctxt "9120"
+msgid "そいつの居場所を教えろ。"
+msgstr ""
+
+msgctxt "9145"
+msgid ""
+"今頃、洛外の川辺にいるはずだ。\n"
+"計画を実行すると言っていた。"
+msgstr ""
+
+msgctxt "9206"
+msgid "計画？"
+msgstr ""
+
+msgctxt "9213"
+msgid ""
+"詳しくは知らねぇ！\n"
+"俺が知ってることは全部話した！"
+msgstr ""
+
+msgctxt "9264"
+msgid "だから許してくれ、頼む！"
+msgstr ""
+
+msgctxt "9289"
+msgid ""
+"わかった。\n"
+"とにかくお前らは橘組まで\n"
+"付いてきてもらうぞ。"
+msgstr ""
+
+msgctxt "9348"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10292"
+msgid "浄僧"
+msgstr ""
+
+msgctxt "10297"
+msgid "Player"
+msgstr ""
+
+msgctxt "10304"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "10316"
+msgid "kaiwabgm_kinpaku_01"
+msgstr ""
+
+msgctxt "10336"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10345"
+msgid "赤忍"
+msgstr ""
+
+msgctxt "10350"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "10361"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10372"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "10382"
+msgid "苦しそうな天狗"
+msgstr ""
+
+msgctxt "10397"
+msgid "操られていた天狗"
+msgstr ""
+
+msgctxt "10414"
+msgid "緑忍"
+msgstr ""
+
+msgctxt "10419"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10429"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10437"
+msgid "Talk_Request"
+msgstr ""

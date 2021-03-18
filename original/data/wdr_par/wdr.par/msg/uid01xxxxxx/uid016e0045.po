@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3712"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3713"
+msgid "ここで釣りができそうだな……"
+msgstr ""
+
+msgctxt "3742"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3743"
+msgid ""
+"左スティックでカーソルを動かし、\n"
+"投げたいポイントで<Sign:0>を押すと、\n"
+"その場所に仕掛けが投入されます。"
+msgstr ""
+
+msgctxt "3848"
+msgid ""
+"魚が反応すると、ウキが動き始めます。\n"
+"ウキの赤い部分が水面と交わるタイミングで、\n"
+"<Sign:0>を押しましょう。（アワセる）"
+msgstr ""
+
+msgctxt "3967"
+msgid ""
+"撒き餌や魚については、\n"
+"「釣りと魚について」で確認することができます。"
+msgstr ""
+
+msgctxt "4038"
+msgid "釣りをしますか？"
+msgstr ""
+
+msgctxt "4055"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4056"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4057"
+msgid "何を見ようか？"
+msgstr ""
+
+msgctxt "4072"
+msgid ""
+"左スティックでカーソルを動かし、\n"
+"投げたいポイントで<Sign:0>を押すと、\n"
+"その場所に仕掛けが投入されます。"
+msgstr ""
+
+msgctxt "4177"
+msgid ""
+"魚が反応すると、ウキが動き始めます。\n"
+"ウキの赤い部分が水面と交わるタイミングで、\n"
+"<Sign:0>を押しましょう。（アワセる）"
+msgstr ""
+
+msgctxt "4296"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4297"
+msgid ""
+"撒き餌を撒くと、魚の数が増えたり、\n"
+"珍しい魚が現れる可能性が高まります。\n"
+"良い撒き餌ほどこの効果が高まります。\n"
+"またどの撒き餌も１回につき効果は約３分間です。"
+msgstr ""
+
+msgctxt "4456"
+msgid ""
+"釣具は、魚の食いつき（釣れやすさ）に影響します。\n"
+"また、釣具によっては、より遠くに投げられたり、\n"
+"アワセが簡単になるものがあります。\n"
+"釣具は、神社で徳と交換で手に入れることができます。"
+msgstr ""
+
+msgctxt "4641"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4642"
+msgid "「宇治川」で釣れる魚。"
+msgstr ""
+
+msgctxt "4665"
+msgid ""
+"数も多く、比較的釣れやすい魚。\n"
+"よく手前で定着していることが多い。"
+msgstr ""
+
+msgctxt "4732"
+msgid ""
+"数も多く、比較的釣れやすい。\n"
+"よく手前で定着していることが多い。"
+msgstr ""
+
+msgctxt "4797"
+msgid ""
+"数も多く、比較的釣れやすい。\n"
+"よく手前で定着していることが多い。\n"
+"コイはここでのみ釣ることができる。"
+msgstr ""
+
+msgctxt "4898"
+msgid ""
+"手前から中ほどにいることが多い。\n"
+"あまり移動せず、定着している。"
+msgstr ""
+
+msgctxt "4963"
+msgid ""
+"比較的釣れやすい。\n"
+"川の中ほどから奥のほうを回遊している。"
+msgstr ""
+
+msgctxt "5022"
+msgid ""
+"まれに手前から川の中ほどあたりに出現する。\n"
+"スッポンはここでのみ釣ることができる。"
+msgstr ""
+
+msgctxt "5105"
+msgid ""
+"まれに川の中ほどから奥のほうを回遊している。\n"
+"比較的釣るのが難しい。"
+msgstr ""
+
+msgctxt "5174"
+msgid ""
+"まれに手前の方に出現する。\n"
+"ニシキゴイはここでのみ釣ることができる。"
+msgstr ""
+
+msgctxt "5243"
+msgid ""
+"かなり珍しい魚。\n"
+"人面魚はここでのみ釣ることができる。"
+msgstr ""
+
+msgctxt "5412"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "5417"
+msgid "基本操作"
+msgstr ""
+
+msgctxt "5426"
+msgid "釣りをする"
+msgstr ""
+
+msgctxt "5437"
+msgid "釣りと魚について"
+msgstr ""
+
+msgctxt "5454"
+msgid "しない"
+msgstr ""
+
+msgctxt "5461"
+msgid "撒き餌と釣具の効果"
+msgstr ""
+
+msgctxt "5480"
+msgid "ここで釣れる魚"
+msgstr ""
+
+msgctxt "5495"
+msgid "説明はもう十分だ"
+msgstr ""
+
+msgctxt "5512"
+msgid "撒き餌の効果"
+msgstr ""
+
+msgctxt "5525"
+msgid "釣具の効果"
+msgstr ""
+
+msgctxt "5536"
+msgid "フナ"
+msgstr ""
+
+msgctxt "5541"
+msgid "ザリガニ"
+msgstr ""
+
+msgctxt "5550"
+msgid "コイ"
+msgstr ""
+
+msgctxt "5555"
+msgid "エレキナマズ"
+msgstr ""
+
+msgctxt "5568"
+msgid "ニジマス"
+msgstr ""
+
+msgctxt "5577"
+msgid "スッポン"
+msgstr ""
+
+msgctxt "5586"
+msgid "サケ"
+msgstr ""
+
+msgctxt "5591"
+msgid "ニシキゴイ"
+msgstr ""
+
+msgctxt "5602"
+msgid "人面魚"
+msgstr ""
+
+msgctxt "5609"
+msgid "魚の説明はもう十分だ"
+msgstr ""

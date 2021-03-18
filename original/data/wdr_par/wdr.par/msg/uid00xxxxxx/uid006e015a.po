@@ -1,0 +1,1377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "39704"
+msgid ""
+"あ、旦那！　ひひひ……\n"
+"いらないもんがあれば、引き取りますぜ？"
+msgstr ""
+
+msgctxt "39767"
+msgid ""
+"ひひひ……\n"
+"もし御用があれば、声かけてくだせぇ。\n"
+"……よろしく頼んますぜ。"
+msgstr ""
+
+msgctxt "39842"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39843"
+msgid ""
+"いつもすみませんねぇ。\n"
+"旦那にはいつも、助けられてばかりですわ。"
+msgstr ""
+
+msgctxt "39908"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39909"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39910"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39911"
+msgid ""
+"ひひひ……\n"
+"もし御用があれば、声かけてくだせぇ。\n"
+"……よろしく頼んますぜ。"
+msgstr ""
+
+msgctxt "39986"
+msgid "はぁ……　はぁ……"
+msgstr ""
+
+msgctxt "40005"
+msgid ""
+"おい……！\n"
+"神主をつれてきたぞ。もう大丈夫だ。"
+msgstr ""
+
+msgctxt "40052"
+msgid "旦、那……　か……"
+msgstr ""
+
+msgctxt "40071"
+msgid ""
+"ずいぶん苦しそうだね……\n"
+"これはかなり強力な呪いだよ……"
+msgstr ""
+
+msgctxt "40128"
+msgid "頼んだぞ。"
+msgstr ""
+
+msgctxt "40139"
+msgid "まかせといて！"
+msgstr ""
+
+msgctxt "40154"
+msgid "では……"
+msgstr ""
+
+msgctxt "40163"
+msgid ""
+"神よ……　この者の体を蝕む呪縛から……\n"
+"今こそ解放し給え……　むにゃむにゃ……"
+msgstr ""
+
+msgctxt "40242"
+msgid "……イシン！"
+msgstr ""
+
+msgctxt "40255"
+msgid "デンシン！"
+msgstr ""
+
+msgctxt "40266"
+msgid "シンコウシーン！"
+msgstr ""
+
+msgctxt "40283"
+msgid "…………"
+msgstr ""
+
+msgctxt "40292"
+msgid ""
+"よし、これで大丈夫だよ。呪いは解けたね。\n"
+"うん、絶対解けた。"
+msgstr ""
+
+msgctxt "40353"
+msgid "……今ので本当に大丈夫なのか!?"
+msgstr ""
+
+msgctxt "40384"
+msgid "もちろんだよ！　全ては神の御心のままに。"
+msgstr ""
+
+msgctxt "40425"
+msgid "はぁ……　はぁ……　苦しい……！"
+msgstr ""
+
+msgctxt "40458"
+msgid "……まだ苦しんでいるぞ。"
+msgstr ""
+
+msgctxt "40483"
+msgid ""
+"ありゃ、なんで？\n"
+"お、おかしいなぁ……"
+msgstr ""
+
+msgctxt "40522"
+msgid ""
+"……まさか、私の力でも解けない呪い、\n"
+"ということなのかな……？"
+msgstr ""
+
+msgctxt "40585"
+msgid "それだけ強い呪い、ということか……？"
+msgstr ""
+
+msgctxt "40622"
+msgid "……いや、わからない。"
+msgstr ""
+
+msgctxt "40645"
+msgid ""
+"体が熱い……！\n"
+"ゴホッゴホッ！　ズルズル……"
+msgstr ""
+
+msgctxt "40690"
+msgid "……ん？　待てよ。"
+msgstr ""
+
+msgctxt "40709"
+msgid ""
+"発熱……　せき、くしゃみ、鼻水、倦怠感……\n"
+"これは、もしかすると、呪いではなく……"
+msgstr ""
+
+msgctxt "40792"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40793"
+msgid "へっくしゅん！"
+msgstr ""
+
+msgctxt "40808"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40809"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40810"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40811"
+msgid ""
+"ヒヒ、神主さんがくれた風邪薬のおかげで\n"
+"だいぶ楽になりましたぜ……"
+msgstr ""
+
+msgctxt "40878"
+msgid "まさかただの風邪だったとはな……"
+msgstr ""
+
+msgctxt "40911"
+msgid ""
+"まったく、何が呪いだ。\n"
+"脅かしやがって。"
+msgstr ""
+
+msgctxt "40952"
+msgid "…………"
+msgstr ""
+
+msgctxt "40961"
+msgid "…………"
+msgstr ""
+
+msgctxt "40970"
+msgid "ん？　……何か言いたいことでもあるのか？"
+msgstr ""
+
+msgctxt "41011"
+msgid ""
+"い、いえいえいえ。\n"
+"……ま、まぁ結果的に助かりましたし、\n"
+"旦那には感謝してやす。"
+msgstr ""
+
+msgctxt "41092"
+msgid ""
+"不要品どころか、風邪薬までいただけるなんて\n"
+"やっぱり旦那は……　俺にとっての神さんですぜ。"
+msgstr ""
+
+msgctxt "41183"
+msgid "フッ、本当に調子のいい男だな。"
+msgstr ""
+
+msgctxt "41214"
+msgid "あの……　風邪薬あげたのは私なんだけど……"
+msgstr ""
+
+msgctxt "41257"
+msgid ""
+"ヒヒヒ、とにかく。\n"
+"今日のところは早めに帰って養生しますわ。"
+msgstr ""
+
+msgctxt "41318"
+msgid ""
+"旦那に処分したいものがあるときは、\n"
+"いつでもどこでも引き取りに行きますからな。\n"
+"……よろしく頼んますぜ。"
+msgstr ""
+
+msgctxt "41423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41424"
+msgid ""
+"（呪いだなんて、信じる俺もどうかしていたな。\n"
+"　まぁとにかく、無事に片付いてよかった）"
+msgstr ""
+
+msgctxt "41511"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41512"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41513"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41514"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41515"
+msgid "ごほ……　ごほ……"
+msgstr ""
+
+msgctxt "41534"
+msgid "（早く神主を呼んで、呪いを解いてやらねば……）"
+msgstr ""
+
+msgctxt "41581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41582"
+msgid "だ、旦那……　ヒヒ……　お久しぶりです……"
+msgstr ""
+
+msgctxt "41625"
+msgid "ずいぶん具合が悪そうだな……"
+msgstr ""
+
+msgctxt "41654"
+msgid ""
+"ヒヒ、なんだか……\n"
+"体が熱くて、だるくて、重たいんですわ……"
+msgstr ""
+
+msgctxt "41715"
+msgid ""
+"だ……　大丈夫か？\n"
+"いつごろからそんなに具合が悪いんだ？"
+msgstr ""
+
+msgctxt "41772"
+msgid ""
+"うーん、そうですな……\n"
+"最近はずっと、体調がすぐれなくて……"
+msgstr ""
+
+msgctxt "41833"
+msgid ""
+"あ、症状が顕著になってきたのは……\n"
+"ちょうど髪が伸びる人形を処分した時からですかね。"
+msgstr ""
+
+msgctxt "41918"
+msgid "何!?　髪が伸びる人形を……　処分だと!?"
+msgstr ""
+
+msgctxt "41957"
+msgid ""
+"ヒヒ……　だってあんな不気味な人形、\n"
+"買い手がつきませんぜ……"
+msgstr ""
+
+msgctxt "42020"
+msgid ""
+"そうそう、思い出してきた……\n"
+"あの時から一気に体調が悪くなったんですわ……\n"
+"最近働きすぎで飯もちゃんと食ってなかったし……"
+msgstr ""
+
+msgctxt "42143"
+msgid ""
+"（これはまさか……　人形の呪い？\n"
+"　いや、そんなばかな、だがしかし……）"
+msgstr ""
+
+msgctxt "42216"
+msgid "ううう……　寒気がしてきやした……"
+msgstr ""
+
+msgctxt "42251"
+msgid ""
+"（寒気……　幽霊に会うとゾクっとすると言うが、\n"
+"　やはりそうか……）"
+msgstr ""
+
+msgctxt "42320"
+msgid "……もしかしたら、呪いかもしれないな。"
+msgstr ""
+
+msgctxt "42359"
+msgid "の、呪い？"
+msgstr ""
+
+msgctxt "42370"
+msgid ""
+"ああ。信じたくはないが……\n"
+"お前が処分した人形の呪いだ。"
+msgstr ""
+
+msgctxt "42427"
+msgid "え、ええ!?"
+msgstr ""
+
+msgctxt "42438"
+msgid ""
+"俺だって信じたくはない。\n"
+"だが、現にお前は人形を処分してから、こうなった。\n"
+"これは偶然とは言い切れない。"
+msgstr ""
+
+msgctxt "42543"
+msgid ""
+"……念には念を、だ。\n"
+"人形を供養しよう。\n"
+"その人形は今、どこにあるんだ？"
+msgstr ""
+
+msgctxt "42616"
+msgid ""
+"は、はぁ……　人形は、えーと……\n"
+"燃やして灰にして、灰買いに売りました。"
+msgstr ""
+
+msgctxt "42689"
+msgid "は……　灰になってしまったのか!?"
+msgstr ""
+
+msgctxt "42722"
+msgid "え、えぇ……　人形のままじゃ売れませんから。"
+msgstr ""
+
+msgctxt "42767"
+msgid ""
+"（なんということだ。これでは供養できない。\n"
+"　となると、残るはお祓いか……）"
+msgstr ""
+
+msgctxt "42844"
+msgid "よし。お祓いをしてもらおう。"
+msgstr ""
+
+msgctxt "42873"
+msgid "え？　お、お祓いですか？"
+msgstr ""
+
+msgctxt "42898"
+msgid ""
+"ああ。俺の知り合いに神主がいる。\n"
+"そいつにお祓いしてもらえば、呪いも消えるはずだ。"
+msgstr ""
+
+msgctxt "42981"
+msgid ""
+"い、いや、体が熱くて倦怠感があるだけですぜ？\n"
+"しかもほら、鼻水もでてるし、あきらかに……"
+msgstr ""
+
+msgctxt "43070"
+msgid ""
+"あまりしゃべると体に悪い。\n"
+"もうしゃべるな。\n"
+"……神主を呼んでくる。待っていろ。"
+msgstr ""
+
+msgctxt "43151"
+msgid ""
+"（神主は洛内の神社にいるはずだ。\n"
+"　一度神社へ行こう）"
+msgstr ""
+
+msgctxt "43206"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43207"
+msgid ""
+"おぉ、旦那。\n"
+"いつもお世話になってますな。ヒヒ。"
+msgstr ""
+
+msgctxt "43256"
+msgid "今日も何か不要品をいただけるんで？"
+msgstr ""
+
+msgctxt "43291"
+msgid "……今は処分したいものはない。"
+msgstr ""
+
+msgctxt "43322"
+msgid ""
+"ヒヒ、そいつは残念。\n"
+"また機会があれば、お願いしますぜ、旦那。"
+msgstr ""
+
+msgctxt "43385"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "43396"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43397"
+msgid "今渡せるものは、こんなものだ。"
+msgstr ""
+
+msgctxt "43428"
+msgid ""
+"ヒヒ、毎度ありがとうございます。\n"
+"あっしはもう旦那には足を向けて寝られませんぜ……"
+msgstr ""
+
+msgctxt "43511"
+msgid "フッ、調子のいい男だ。"
+msgstr ""
+
+msgctxt "43534"
+msgid ""
+"いや、こりゃあ本心ですぜ。\n"
+"旦那にはいつもいいもんばかりもらってるんでねぇ。"
+msgstr ""
+
+msgctxt "43611"
+msgid ""
+"お客さんの中には、\n"
+"どう扱ったらいいか見当がつかないもんを\n"
+"無理やり押し付けてくる人もいますからな……"
+msgstr ""
+
+msgctxt "43714"
+msgid "ほう、例えばどういうものだ？"
+msgstr ""
+
+msgctxt "43743"
+msgid ""
+"最近でいうと、そうですねぇ……\n"
+"おふだとか……　髪が伸びる人形とかですかねぇ？"
+msgstr ""
+
+msgctxt "43822"
+msgid "そ……　それは、たしかに扱いに困りそうだな。"
+msgstr ""
+
+msgctxt "43867"
+msgid ""
+"ヒヒ、その人形のせいか、最近体がだるくて……\n"
+"あ、今持ってるんですけど、見ますかい？"
+msgstr ""
+
+msgctxt "43952"
+msgid "い、いや、結構だ……"
+msgstr ""
+
+msgctxt "43973"
+msgid "旦那、もしかして……　結構怖がりなんですかい？"
+msgstr ""
+
+msgctxt "44020"
+msgid "ば……　馬鹿言え。"
+msgstr ""
+
+msgctxt "44039"
+msgid ""
+"ヒヒ、まぁいいや。\n"
+"また処分したいものがあれば、よろしく頼んますぜ。"
+msgstr ""
+
+msgctxt "44108"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44109"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44110"
+msgid ""
+"旦那、旦那。何か処分したい不要品があれば、\n"
+"あっしに恵んではいただけないですかねぇ？"
+msgstr ""
+
+msgctxt "44195"
+msgid "そうだな……"
+msgstr ""
+
+msgctxt "44208"
+msgid "……今は処分したいものはないな。"
+msgstr ""
+
+msgctxt "44241"
+msgid ""
+"ヒヒ、そいつは残念。\n"
+"また機会があれば、お願いしますぜ、旦那。"
+msgstr ""
+
+msgctxt "44304"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "44315"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44316"
+msgid "今渡せるものは、こんなものだ。"
+msgstr ""
+
+msgctxt "44347"
+msgid ""
+"おぉ、今回もなかなか……　ヒヒ。\n"
+"旦那、毎度ありがとうございます。"
+msgstr ""
+
+msgctxt "44414"
+msgid "そんなにいいものなのか？　それは。"
+msgstr ""
+
+msgctxt "44449"
+msgid ""
+"そりゃあもう。一部の方々にはたまらない品ですぜ。\n"
+"旦那の使用済みってだけで価値が上が……　おっと。"
+msgstr ""
+
+msgctxt "44548"
+msgid "……？　よくわからんが、そういうものか。"
+msgstr ""
+
+msgctxt "44589"
+msgid ""
+"旦那、処分したいもんがあったら、\n"
+"またお願いしますぜ……　ヒヒヒ。"
+msgstr ""
+
+msgctxt "44656"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44657"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44658"
+msgid ""
+"旦那、旦那。何か処分したい不要品があれば、\n"
+"あっしに恵んではいただけないですかねぇ？"
+msgstr ""
+
+msgctxt "44743"
+msgid "そうだな……"
+msgstr ""
+
+msgctxt "44756"
+msgid "……今は処分したいものはないな。"
+msgstr ""
+
+msgctxt "44789"
+msgid ""
+"ヒヒ、そいつは残念。\n"
+"また機会があれば、お願いしますぜ、旦那。"
+msgstr ""
+
+msgctxt "44852"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "44863"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44864"
+msgid "今渡せるものは、こんなものだ。"
+msgstr ""
+
+msgctxt "44895"
+msgid ""
+"おぉ、今回もなかなか……　ヒヒ。\n"
+"旦那、毎度ありがとうございます。"
+msgstr ""
+
+msgctxt "44962"
+msgid "そんなにいいものなのか？　それは。"
+msgstr ""
+
+msgctxt "44997"
+msgid ""
+"そりゃあもう。一部の方々にはたまらない品ですぜ。\n"
+"旦那の使用済みってだけで価値が上が……　おっと。"
+msgstr ""
+
+msgctxt "45096"
+msgid "……？　よくわからんが、そういうものか。"
+msgstr ""
+
+msgctxt "45137"
+msgid ""
+"旦那、処分したいもんがあったら、\n"
+"またお願いしますぜ……　ヒヒヒ。"
+msgstr ""
+
+msgctxt "45204"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45205"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45206"
+msgid ""
+"旦那、旦那。何か処分したい不要品があれば、\n"
+"あっしに恵んではいただけないですかねぇ？"
+msgstr ""
+
+msgctxt "45291"
+msgid "そうだな……"
+msgstr ""
+
+msgctxt "45304"
+msgid "……今は処分したいものはないな。"
+msgstr ""
+
+msgctxt "45337"
+msgid ""
+"ヒヒ、そいつは残念。\n"
+"また機会があれば、お願いしますぜ、旦那。"
+msgstr ""
+
+msgctxt "45400"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "45411"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45412"
+msgid "今渡せるものは、こんなものだ。"
+msgstr ""
+
+msgctxt "45443"
+msgid ""
+"おぉ、今回もなかなか……　ヒヒ。\n"
+"旦那、毎度ありがとうございます。"
+msgstr ""
+
+msgctxt "45510"
+msgid "そんなにいいものなのか？　それは。"
+msgstr ""
+
+msgctxt "45545"
+msgid ""
+"そりゃあもう。一部の方々にはたまらない品ですぜ。\n"
+"旦那の使用済みってだけで価値が上が……　おっと。"
+msgstr ""
+
+msgctxt "45644"
+msgid "……？　よくわからんが、そういうものか。"
+msgstr ""
+
+msgctxt "45685"
+msgid ""
+"旦那、処分したいもんがあったら、\n"
+"またお願いしますぜ……　ヒヒヒ。"
+msgstr ""
+
+msgctxt "45752"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45753"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45754"
+msgid ""
+"旦那、旦那。何か処分したい不要品があれば、\n"
+"あっしに恵んではいただけないですかねぇ？"
+msgstr ""
+
+msgctxt "45839"
+msgid "そうだな……"
+msgstr ""
+
+msgctxt "45852"
+msgid "……今は処分したいものはないな。"
+msgstr ""
+
+msgctxt "45885"
+msgid ""
+"ヒヒ、そいつは残念。\n"
+"また機会があれば、お願いしますぜ、旦那。"
+msgstr ""
+
+msgctxt "45948"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "45959"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45960"
+msgid "今渡せるものは、こんなものだ。"
+msgstr ""
+
+msgctxt "45991"
+msgid ""
+"おぉ、今回もなかなか……　ヒヒ。\n"
+"旦那、毎度ありがとうございます。"
+msgstr ""
+
+msgctxt "46058"
+msgid "そんなにいいものなのか？　それは。"
+msgstr ""
+
+msgctxt "46093"
+msgid ""
+"そりゃあもう。一部の方々にはたまらない品ですぜ。\n"
+"旦那の使用済みってだけで価値が上が……　おっと。"
+msgstr ""
+
+msgctxt "46192"
+msgid "……？　よくわからんが、そういうものか。"
+msgstr ""
+
+msgctxt "46233"
+msgid ""
+"旦那、処分したいもんがあったら、\n"
+"またお願いしますぜ……　ヒヒヒ。"
+msgstr ""
+
+msgctxt "46300"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46301"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46302"
+msgid ""
+"旦那、旦那。何か処分したい不要品があれば、\n"
+"あっしに恵んではいただけないですかねぇ？"
+msgstr ""
+
+msgctxt "46387"
+msgid "そうだな……"
+msgstr ""
+
+msgctxt "46400"
+msgid "……今は処分したいものはないな。"
+msgstr ""
+
+msgctxt "46433"
+msgid ""
+"ヒヒ、そいつは残念。\n"
+"また機会があれば、お願いしますぜ、旦那。"
+msgstr ""
+
+msgctxt "46496"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "46507"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46508"
+msgid "今渡せるものは、こんなものだ。"
+msgstr ""
+
+msgctxt "46539"
+msgid ""
+"おぉ、今回もなかなか……　ヒヒ。\n"
+"旦那、毎度ありがとうございます。"
+msgstr ""
+
+msgctxt "46606"
+msgid "そんなにいいものなのか？　それは。"
+msgstr ""
+
+msgctxt "46641"
+msgid ""
+"そりゃあもう。一部の方々にはたまらない品ですぜ。\n"
+"旦那の使用済みってだけで価値が上が……　おっと。"
+msgstr ""
+
+msgctxt "46740"
+msgid "……？　よくわからんが、そういうものか。"
+msgstr ""
+
+msgctxt "46781"
+msgid ""
+"旦那、処分したいもんがあったら、\n"
+"またお願いしますぜ……　ヒヒヒ。"
+msgstr ""
+
+msgctxt "46848"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46849"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46850"
+msgid ""
+"旦那、旦那。何か処分したい不要品があれば、\n"
+"あっしに恵んではいただけないですかねぇ？"
+msgstr ""
+
+msgctxt "46935"
+msgid "そうだな……"
+msgstr ""
+
+msgctxt "46948"
+msgid "……今は処分したいものはないな。"
+msgstr ""
+
+msgctxt "46981"
+msgid ""
+"ヒヒ、そいつは残念。\n"
+"また機会があれば、お願いしますぜ、旦那。"
+msgstr ""
+
+msgctxt "47044"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "47055"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47056"
+msgid "今渡せるものは、こんなものだ。"
+msgstr ""
+
+msgctxt "47087"
+msgid ""
+"おぉ、今回もなかなか……　ヒヒ。\n"
+"旦那、毎度ありがとうございます。"
+msgstr ""
+
+msgctxt "47154"
+msgid "そんなにいいものなのか？　それは。"
+msgstr ""
+
+msgctxt "47189"
+msgid ""
+"そりゃあもう。一部の方々にはたまらない品ですぜ。\n"
+"旦那の使用済みってだけで価値が上が……　おっと。"
+msgstr ""
+
+msgctxt "47288"
+msgid "……？　よくわからんが、そういうものか。"
+msgstr ""
+
+msgctxt "47329"
+msgid ""
+"旦那、処分したいもんがあったら、\n"
+"またお願いしますぜ……　ヒヒヒ。"
+msgstr ""
+
+msgctxt "47396"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47397"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47398"
+msgid ""
+"旦那、旦那。何か処分したい不要品があれば、\n"
+"あっしに恵んではいただけないですかねぇ？"
+msgstr ""
+
+msgctxt "47483"
+msgid "そうだな……"
+msgstr ""
+
+msgctxt "47496"
+msgid "……今は処分したいものはないな。"
+msgstr ""
+
+msgctxt "47529"
+msgid ""
+"ヒヒ、そいつは残念。\n"
+"また機会があれば、お願いしますぜ、旦那。"
+msgstr ""
+
+msgctxt "47592"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "47603"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47604"
+msgid "今渡せるものは、こんなものだ。"
+msgstr ""
+
+msgctxt "47635"
+msgid ""
+"おぉ、今回もなかなか……　ヒヒ。\n"
+"旦那、毎度ありがとうございます。"
+msgstr ""
+
+msgctxt "47702"
+msgid "そんなにいいものなのか？　それは。"
+msgstr ""
+
+msgctxt "47737"
+msgid ""
+"そりゃあもう。一部の方々にはたまらない品ですぜ。\n"
+"旦那の使用済みってだけで価値が上が……　おっと。"
+msgstr ""
+
+msgctxt "47836"
+msgid "……？　よくわからんが、そういうものか。"
+msgstr ""
+
+msgctxt "47877"
+msgid ""
+"旦那、処分したいもんがあったら、\n"
+"またお願いしますぜ……　ヒヒヒ。"
+msgstr ""
+
+msgctxt "47944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47945"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47947"
+msgid ""
+"旦那、旦那……\n"
+"何かいただけませんかねぇ？"
+msgstr ""
+
+msgctxt "47990"
+msgid ""
+"ん？　物乞いか？\n"
+"あいにく、たいした金目のものは持ってないぞ。"
+msgstr ""
+
+msgctxt "48053"
+msgid "ヒヒ……　金目のものなんていりませんぜ。"
+msgstr ""
+
+msgctxt "48094"
+msgid ""
+"あっしは旦那のいらなくなったもの……\n"
+"不要品が欲しいんですわ。"
+msgstr ""
+
+msgctxt "48157"
+msgid "不要品？　……そんなものどうするんだ？"
+msgstr ""
+
+msgctxt "48196"
+msgid ""
+"ヒヒ、あっしは皆様の不要品を集めてましてねぇ。\n"
+"そいつを手入れなり、修理なりして……\n"
+"まぁ、色々と有効活用させていただいとるんですわ。"
+msgstr ""
+
+msgctxt "48331"
+msgid "ほう。なるほどな。"
+msgstr ""
+
+msgctxt "48350"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48351"
+msgid ""
+"で、旦那。何か処分したいもんのひとつでも、\n"
+"あっしに恵んではいただけないですかねぇ？"
+msgstr ""
+
+msgctxt "48436"
+msgid ""
+"旦那、処分したいもんがあったら、\n"
+"あっしに恵んではいただけないですかねぇ？"
+msgstr ""
+
+msgctxt "48511"
+msgid "……今は不要なものを持っていない。"
+msgstr ""
+
+msgctxt "48546"
+msgid ""
+"ヒヒ、そいつは残念。\n"
+"また機会があれば、お願いしますぜ、旦那。"
+msgstr ""
+
+msgctxt "48609"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "48620"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48621"
+msgid "今渡せるものは、こんなものだな。"
+msgstr ""
+
+msgctxt "48654"
+msgid ""
+"お、おぉ、これはこれは……\n"
+"旦那、あんた神様のような人ですぜ。"
+msgstr ""
+
+msgctxt "48717"
+msgid "そうか？　こんなものでいいのか？"
+msgstr ""
+
+msgctxt "48750"
+msgid ""
+"ヒヒ、そういうもんがいいんです。\n"
+"大抵のもんは、有効活用できますからねぇ……"
+msgstr ""
+
+msgctxt "48827"
+msgid ""
+"旦那、処分したいもんがあったら、\n"
+"またお願いしますぜ……"
+msgstr ""
+
+msgctxt "48884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48885"
+msgid ""
+"「ごみを集める男」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「ごみを集める男」と交流してみましょう。"
+msgstr ""
+
+msgctxt "49110"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49111"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49112"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49113"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49114"
+msgid ""
+"旦那、旦那……\n"
+"何かいただけませんかねぇ？"
+msgstr ""
+
+msgctxt "49157"
+msgid ""
+"ん？　物乞いか？\n"
+"あいにく、たいした金目のものは持ってないぞ。"
+msgstr ""
+
+msgctxt "49220"
+msgid "ヒヒ……　金目のものなんていりませんぜ。"
+msgstr ""
+
+msgctxt "49261"
+msgid ""
+"あっしは旦那のいらなくなったもの……\n"
+"不要品が欲しいんですわ。"
+msgstr ""
+
+msgctxt "49324"
+msgid "不要品？　……そんなものどうするんだ？"
+msgstr ""
+
+msgctxt "49363"
+msgid ""
+"ヒヒ、あっしは皆様の不要品を集めてましてねぇ。\n"
+"そいつを手入れなり、修理なりして……\n"
+"まぁ、色々と有効活用させていただいとるんですわ。"
+msgstr ""
+
+msgctxt "49498"
+msgid "ほう。なるほどな。"
+msgstr ""
+
+msgctxt "49517"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49518"
+msgid ""
+"で、旦那。何か処分したいもんのひとつでも、\n"
+"あっしに恵んではいただけないですかねぇ？"
+msgstr ""
+
+msgctxt "49603"
+msgid ""
+"旦那、処分したいもんがあったら、\n"
+"あっしに恵んではいただけないですかねぇ？"
+msgstr ""
+
+msgctxt "49678"
+msgid "……今は不要なものを持っていない。"
+msgstr ""
+
+msgctxt "49713"
+msgid ""
+"ヒヒ、そいつは残念。\n"
+"また機会があれば、お願いしますぜ、旦那。"
+msgstr ""
+
+msgctxt "49776"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "49787"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49788"
+msgid "今渡せるものは、こんなものだな。"
+msgstr ""
+
+msgctxt "49821"
+msgid ""
+"お、おぉ、これはこれは……\n"
+"旦那、あんた神様のような人ですぜ。"
+msgstr ""
+
+msgctxt "49884"
+msgid "そうか？　こんなものでいいのか？"
+msgstr ""
+
+msgctxt "49917"
+msgid ""
+"ヒヒ、そういうもんがいいんです。\n"
+"大抵のもんは、有効活用できますからねぇ……"
+msgstr ""
+
+msgctxt "49994"
+msgid ""
+"旦那、処分したいもんがあったら、\n"
+"またお願いしますぜ……"
+msgstr ""
+
+msgctxt "50051"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50052"
+msgid ""
+"「ごみを集める男」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「ごみを集める男」と交流してみましょう。"
+msgstr ""
+
+msgctxt "50277"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50278"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50279"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52800"
+msgid "ごみを集める男"
+msgstr ""
+
+msgctxt "52815"
+msgid "渡す"
+msgstr ""
+
+msgctxt "52820"
+msgid "渡さない"
+msgstr ""
+
+msgctxt "52829"
+msgid "N"
+msgstr ""
+
+msgctxt "52831"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "52842"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "52847"
+msgid "神主"
+msgstr ""
+
+msgctxt "52852"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "52861"
+msgid "M_CHO_SS_stand_jumon"
+msgstr ""
+
+msgctxt "52882"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "52892"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "52901"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "52909"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "52920"
+msgid "M_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "52942"
+msgid "ADV_M_CHO_STAND"
+msgstr ""
+
+msgctxt "52958"
+msgid "kaiwabgm_sub_apathy_01"
+msgstr ""
+
+msgctxt "52981"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "52992"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "53004"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "53015"
+msgid "dummy"
+msgstr ""
+
+msgctxt "53021"
+msgid "M_SHP_ACT_stand_urikomi"
+msgstr ""
+
+msgctxt "53045"
+msgid "kaiwabgm_sub_fuon_04"
+msgstr ""
+
+msgctxt "53066"
+msgid "何かやる"
+msgstr ""
+
+msgctxt "53075"
+msgid "何もやらない"
+msgstr ""
+
+msgctxt "53088"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "53098"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "53111"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "53122"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "53132"
+msgid "怪しい男"
+msgstr ""
+
+msgctxt "53141"
+msgid "ごみを集める男との絆"
+msgstr ""

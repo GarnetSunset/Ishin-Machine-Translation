@@ -1,0 +1,442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "9980"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9981"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9982"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9983"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9984"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9985"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9986"
+msgid "ん……？"
+msgstr ""
+
+msgctxt "9995"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9996"
+msgid "（……気のせい、か）"
+msgstr ""
+
+msgctxt "10017"
+msgid "勝負……　セヨ……"
+msgstr ""
+
+msgctxt "10036"
+msgid "誰だ!?"
+msgstr ""
+
+msgctxt "10043"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10044"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10045"
+msgid ""
+"（……たしかここは、\n"
+"　亡霊武者がでると噂の通りだったか？）"
+msgstr ""
+
+msgctxt "10106"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10107"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10108"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10109"
+msgid "……!?"
+msgstr ""
+
+msgctxt "10116"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10117"
+msgid ""
+"おヌシ……　腕の立つ剣士と……\n"
+"お見受けスル……"
+msgstr ""
+
+msgctxt "10166"
+msgid ""
+"勝負……　セヨ……！\n"
+"拙者と……　勝負……　セヨ……！"
+msgstr ""
+
+msgctxt "10221"
+msgid "（まさか本当に亡霊武者のお出ましとは……）"
+msgstr ""
+
+msgctxt "10264"
+msgid "フッ、勝負か……"
+msgstr ""
+
+msgctxt "10281"
+msgid ""
+"いいぜ、亡霊と戦えるなんて、\n"
+"めったにない機会だしな！"
+msgstr ""
+
+msgctxt "10336"
+msgid "いざ……　参ル！"
+msgstr ""
+
+msgctxt "10353"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10354"
+msgid "ウウ……"
+msgstr ""
+
+msgctxt "10363"
+msgid ""
+"（さすが亡霊武者だ……\n"
+"　噂通り、なかなか強かったな）"
+msgstr ""
+
+msgctxt "10418"
+msgid "イ……　イ……"
+msgstr ""
+
+msgctxt "10433"
+msgid ""
+"……いやー、驚いた！　あんた強いねー！\n"
+"降参、降参！　久しぶりに負けちまったよ！"
+msgstr ""
+
+msgctxt "10514"
+msgid "んっ!?"
+msgstr ""
+
+msgctxt "10521"
+msgid ""
+"はー、久しぶりに楽しかったなぁ！\n"
+"あんた、どこの流派？　その武器なに？"
+msgstr ""
+
+msgctxt "10592"
+msgid ""
+"……おい、急に人が変わったように思えるが、\n"
+"お前、本当に亡霊武者なのか？"
+msgstr ""
+
+msgctxt "10665"
+msgid ""
+"はっはっは！　俺が亡霊？\n"
+"あんた、何言ってんだい？　そんなわけあるかい！"
+msgstr ""
+
+msgctxt "10738"
+msgid ""
+"な、なんだと!?　しかし……　夜、この通りで\n"
+"亡霊武者に勝負を挑まれると噂になっているが……"
+msgstr ""
+
+msgctxt "10829"
+msgid ""
+"この通りには強い奴がよく通りかかるから、\n"
+"しょっちゅう勝負しに来てるんだけどよ……"
+msgstr ""
+
+msgctxt "10912"
+msgid ""
+"亡霊がでるって噂があったとは知らなかった……\n"
+"怖いな……　拙者、幽霊とか亡霊とか苦手なんだよ。"
+msgstr ""
+
+msgctxt "11007"
+msgid "いや、多分それ……　お前だ。"
+msgstr ""
+
+msgctxt "11036"
+msgid "へ？　どういうことだい？"
+msgstr ""
+
+msgctxt "11061"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11062"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11065"
+msgid ""
+"なるほど、それで拙者のことを亡霊だと思ったのか！\n"
+"そりゃあいい！"
+msgstr ""
+
+msgctxt "11130"
+msgid ""
+"フッ、まったく人騒がせな奴だ。\n"
+"お前のせいで、震えあがっている奴もいたぞ。"
+msgstr ""
+
+msgctxt "11205"
+msgid "ありゃ、そいつは悪いことをしちまったね。"
+msgstr ""
+
+msgctxt "11246"
+msgid ""
+"わかった。もうここには来ないよ。\n"
+"気持ちよく負けることができたしな。"
+msgstr ""
+
+msgctxt "11315"
+msgid "……気持ちよく、負ける？"
+msgstr ""
+
+msgctxt "11340"
+msgid "あぁ、実は拙者、結構名の知れた剣士だったんだ。"
+msgstr ""
+
+msgctxt "11387"
+msgid "ほう、どうりで強いわけだ。"
+msgstr ""
+
+msgctxt "11414"
+msgid ""
+"あぁ、そこらじゃ負け知らずだったんだけど、\n"
+"卑怯な手を使われて負けたことがあってさ……"
+msgstr ""
+
+msgctxt "11501"
+msgid ""
+"待ち伏せ……　十数人対一人……\n"
+"あの時はたしか、罠まであったなぁ……"
+msgstr ""
+
+msgctxt "11570"
+msgid "……むしろ、それでよく生きてたな。"
+msgstr ""
+
+msgctxt "11605"
+msgid ""
+"そんな卑怯な手で負けたのが悔しくて、どうしても\n"
+"納得いかなくてさ、自分が納得できる負けってやつを\n"
+"味わわせてくれる相手を探してたんだ。"
+msgstr ""
+
+msgctxt "11740"
+msgid ""
+"なるほどな。\n"
+"だから、強そうな連中に声をかけていたのか。"
+msgstr ""
+
+msgctxt "11797"
+msgid ""
+"ああ。だが、なかなか拙者より強い奴がいなくて\n"
+"困っていたんだ。"
+msgstr ""
+
+msgctxt "11860"
+msgid ""
+"だけど、あんたのおかげで目的は達成できた。\n"
+"しばらくはゆっくり休むことにするぜ。\n"
+"亡霊武者の噂も、しばらくしたら落ち着くだろう。"
+msgstr ""
+
+msgctxt "11989"
+msgid "そうか。……ん？"
+msgstr ""
+
+msgctxt "12006"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12007"
+msgid "「<Color:8>錦鯉の御守り<Color:Default>」を拾った"
+msgstr ""
+
+msgctxt "12056"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12057"
+msgid ""
+"おい。これ、お前のか？\n"
+"落としたぞ？"
+msgstr ""
+
+msgctxt "12094"
+msgid "……もう行ってしまったのか？"
+msgstr ""
+
+msgctxt "12123"
+msgid "…………"
+msgstr ""
+
+msgctxt "12132"
+msgid "（昔、卑怯な手を使われて死んだ、武者の亡霊……）"
+msgstr ""
+
+msgctxt "12181"
+msgid "…………まさかな。"
+msgstr ""
+
+msgctxt "12200"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12201"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12202"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12203"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12204"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13972"
+msgid "Player"
+msgstr ""
+
+msgctxt "13979"
+msgid "謎の声"
+msgstr ""
+
+msgctxt "13986"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13992"
+msgid "亡霊武者"
+msgstr ""
+
+msgctxt "14001"
+msgid "E_KNS_HS_stand"
+msgstr ""
+
+msgctxt "14016"
+msgid "E_ENC_KNS_HS_btlst_battou_C"
+msgstr ""
+
+msgctxt "14044"
+msgid "P_WPE_stand_btl_lp"
+msgstr ""
+
+msgctxt "14063"
+msgid "P_WPE_battou"
+msgstr ""
+
+msgctxt "14076"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "14098"
+msgid "M_BUS_TLK_btl_aft_nw_01_en"
+msgstr ""
+
+msgctxt "14125"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "14137"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14146"
+msgid "亡霊武者？"
+msgstr ""
+
+msgctxt "14157"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "14168"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "14178"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "14191"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14199"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "14210"
+msgid "kaiwabgm_sub_apathy_04"
+msgstr ""
+
+msgctxt "14233"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "14244"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "14255"
+msgid "P_KRU_TLK_stand_item_get_lp"
+msgstr ""
+
+msgctxt "14283"
+msgid "P_KRU_TLK_stand_item_get_st"
+msgstr ""
+
+msgctxt "14311"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "14333"
+msgid "P_KRU_TLK_stand_item_get_en"
+msgstr ""

@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6048"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6049"
+msgid "はぁ……　はぁ……"
+msgstr ""
+
+msgctxt "6068"
+msgid "さぁ。俺のおいなりさんを返してもらうぞ。"
+msgstr ""
+
+msgctxt "6109"
+msgid "すいませんでした……　すいませんでした……"
+msgstr ""
+
+msgctxt "6152"
+msgid ""
+"まったく……\n"
+"人のものを盗んでまで、食べたかったのか？"
+msgstr ""
+
+msgctxt "6207"
+msgid ""
+"いえ……\n"
+"実は、盗んだのには理由がありまして……"
+msgstr ""
+
+msgctxt "6256"
+msgid "理由？"
+msgstr ""
+
+msgctxt "6263"
+msgid ""
+"はい……　実は息子が病気で寝込んでおるのです。\n"
+"ずっと食欲がなくて……\n"
+"ここ数日、ずっと何も食べようとしないんです。"
+msgstr ""
+
+msgctxt "6380"
+msgid ""
+"でも、そんな息子が今日、\n"
+"「あのお店のおいなりさんが食べたい」\n"
+"と私に頼んできたんです。"
+msgstr ""
+
+msgctxt "6469"
+msgid ""
+"息子は以前、一度あそこの店のおいなりさんを\n"
+"食べたことがあって……\n"
+"その味が忘れられなかったのでしょう。"
+msgstr ""
+
+msgctxt "6574"
+msgid ""
+"すぐにいなり寿司屋の行列に並んだんですが、\n"
+"運悪く、直前で売り切れてしまって……"
+msgstr ""
+
+msgctxt "6655"
+msgid ""
+"なるほどな。\n"
+"それで、俺の買った最後のいなり寿司を……"
+msgstr ""
+
+msgctxt "6710"
+msgid ""
+"はい……　本当に、申し訳ありませんでした。\n"
+"奉行所に突き出すなり、なんなりと……"
+msgstr ""
+
+msgctxt "6791"
+msgid "…………"
+msgstr ""
+
+msgctxt "6800"
+msgid "ほら。もっていけ。"
+msgstr ""
+
+msgctxt "6819"
+msgid "え？"
+msgstr ""
+
+msgctxt "6824"
+msgid ""
+"あんたの息子が待ってるんだろ？\n"
+"……これを食わせてやれ。"
+msgstr ""
+
+msgctxt "6881"
+msgid "で、でも……"
+msgstr ""
+
+msgctxt "6894"
+msgid ""
+"病気の子供が、\n"
+"お前の帰りといなり寿司を待っているんだろ？"
+msgstr ""
+
+msgctxt "6953"
+msgid ""
+"ほ、本当にいいんですか？\n"
+"あなたもきっと食べたいでしょうに……"
+msgstr ""
+
+msgctxt "7016"
+msgid ""
+"（……確かに食いたいのは山々だが。\n"
+"　まぁ、もう一度並んで買えばいいだろう）"
+msgstr ""
+
+msgctxt "7093"
+msgid ""
+"ああ。男に二言は無い。\n"
+"持っていけ。"
+msgstr ""
+
+msgctxt "7130"
+msgid ""
+"あ、ありがとうございます！\n"
+"……今日があそこの店のおいなりさんが食べられる\n"
+"最後の機会だったので……　本当にうれしいです！"
+msgstr ""
+
+msgctxt "7253"
+msgid "……ん？　最後の機会？"
+msgstr ""
+
+msgctxt "7276"
+msgid ""
+"あ、はい。あのいなり寿司屋、\n"
+"明日からは他の町で商売を始めるそうなんです。"
+msgstr ""
+
+msgctxt "7351"
+msgid ""
+"今日を逃したら、多分もう二度と食べれない。\n"
+"だから私、あなたのおいなりさんを\n"
+"盗もうとしてしまったんです……"
+msgstr ""
+
+msgctxt "7460"
+msgid "な、なんだと……？"
+msgstr ""
+
+msgctxt "7479"
+msgid ""
+"そんな貴重な品を……\n"
+"本当にありがとうございました！\n"
+"それでは、私はこれで！"
+msgstr ""
+
+msgctxt "7556"
+msgid "あ……"
+msgstr ""
+
+msgctxt "7563"
+msgid "…………"
+msgstr ""
+
+msgctxt "7572"
+msgid "（……団子でも食いに行くか）"
+msgstr ""
+
+msgctxt "7601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7602"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7603"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7604"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7605"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7606"
+msgid "（……ん？　なんだ、この行列は？）"
+msgstr ""
+
+msgctxt "7641"
+msgid "おいなりさん、１０貫ちょうだい。"
+msgstr ""
+
+msgctxt "7674"
+msgid "あいよ！　次の方、ご注文どうぞ！"
+msgstr ""
+
+msgctxt "7707"
+msgid "俺は２０貫くれ！"
+msgstr ""
+
+msgctxt "7724"
+msgid "あい、少々お待ちを！"
+msgstr ""
+
+msgctxt "7745"
+msgid ""
+"（新しくいなり寿司屋ができたのか……\n"
+"　それにしても、すごく繁盛しているな）"
+msgstr ""
+
+msgctxt "8828"
+msgid "逃げていた男"
+msgstr ""
+
+msgctxt "8841"
+msgid "ADV_M_BUS_STAND"
+msgstr ""
+
+msgctxt "8857"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "8879"
+msgid "M_BUS_TLK_btl_aft_nw_03_en"
+msgstr ""
+
+msgctxt "8906"
+msgid "Player"
+msgstr ""
+
+msgctxt "8913"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "8925"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "8936"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8944"
+msgid "kaiwabgm_hartwarm_01"
+msgstr ""
+
+msgctxt "8965"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "8978"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8987"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8998"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "9008"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9019"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "9030"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "9040"
+msgid "dummy"
+msgstr ""
+
+msgctxt "9046"
+msgid "客"
+msgstr ""
+
+msgctxt "9049"
+msgid "いなり寿司屋"
+msgstr ""

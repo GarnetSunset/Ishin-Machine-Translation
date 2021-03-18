@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "198528"
+msgid ""
+"一（はじめ）ちゃん\n"
+"お前　これ読めるか？"
+msgstr ""
+
+msgctxt "198672"
+msgid "あちゃあ　やっぱりアカンか"
+msgstr ""
+
+msgctxt "198816"
+msgid ""
+"読み書きができないわけじゃないが\n"
+"この字はさすがに読めない"
+msgstr ""
+
+msgctxt "198960"
+msgid "達筆すぎるな"
+msgstr ""
+
+msgctxt "199104"
+msgid ""
+"ホンマやな　将軍に渡すくらいやから\n"
+"近藤さんも気合い入れて書いたんやろが……"
+msgstr ""
+
+msgctxt "199248"
+msgid "おい　そこのお前！"
+msgstr ""
+
+msgctxt "199392"
+msgid "これ読めるか？"
+msgstr ""
+
+msgctxt "199536"
+msgid "わ　私ですか？"
+msgstr ""
+
+msgctxt "199680"
+msgid "他におらんやろが！　はよ来いや！"
+msgstr ""
+
+msgctxt "199824"
+msgid "は　はあ……"
+msgstr ""
+
+msgctxt "199968"
+msgid "では　拝見"
+msgstr ""
+
+msgctxt "200112"
+msgid "これは　一体……！？"
+msgstr ""
+
+msgctxt "200256"
+msgid "何が書いてあるんや？"
+msgstr ""
+
+msgctxt "200400"
+msgid ""
+"何と言いますか\n"
+"と　とんでもないことが……"
+msgstr ""
+
+msgctxt "200544"
+msgid "だから何やっちゅうねん！"
+msgstr ""
+
+msgctxt "200688"
+msgid "ま　まずこの一番始めの　この一文ですが……"
+msgstr ""
+
+msgctxt "200832"
+msgid ""
+"「一　天下の政権を朝廷に奉還せしめ\n"
+"　政令宜しく朝廷より出づべきこと」"
+msgstr ""
+
+msgctxt "200976"
+msgid "何のこっちゃ？"
+msgstr ""
+
+msgctxt "201120"
+msgid ""
+"これは　幕府の持っている政権を\n"
+"朝廷に返すってことです！"
+msgstr ""
+
+msgctxt "201264"
+msgid ""
+"こんな手紙　持っているだけで\n"
+"幕府の人間に殺されますよ！"
+msgstr ""
+
+msgctxt "201408"
+msgid "ああ　それやったら問題ないわ"
+msgstr ""
+
+msgctxt "201552"
+msgid "ワシらがその幕府の人間や"
+msgstr ""
+
+msgctxt "201696"
+msgid "まさか　本当ですか！？"
+msgstr ""
+
+msgctxt "201840"
+msgid "本当だ"
+msgstr ""
+
+msgctxt "201984"
+msgid "それより　その先を続けてくれ"
+msgstr ""

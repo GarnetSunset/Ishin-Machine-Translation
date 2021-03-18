@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "220"
+msgid "－"
+msgstr ""
+
+msgctxt "223"
+msgid "所持数"
+msgstr ""
+
+msgctxt "230"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "255"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "288"
+msgid "ありがとうございます。%sになります。"
+msgstr ""
+
+msgctxt "325"
+msgid "（持ち物が一杯だな……）"
+msgstr ""
+
+msgctxt "350"
+msgid "（売り切れのようだ……）"
+msgstr ""
+
+msgctxt "375"
+msgid "（これは既に持っているな……）"
+msgstr ""
+
+msgctxt "406"
+msgid "所持品"
+msgstr ""
+
+msgctxt "413"
+msgid "詳細"
+msgstr ""
+
+msgctxt "418"
+msgid "商品"
+msgstr ""
+
+msgctxt "423"
+msgid "<Sign:1>前へ"
+msgstr ""
+
+msgctxt "436"
+msgid "<Sign:1>次へ %d/%d"
+msgstr ""
+
+msgctxt "455"
+msgid "－"
+msgstr ""
+
+msgctxt "458"
+msgid "注"
+msgstr ""
+
+msgctxt "461"
+msgid ""
+"回復薬の「活力丹」ですわ。\n"
+"体力を少し回復してくれます。"
+msgstr ""

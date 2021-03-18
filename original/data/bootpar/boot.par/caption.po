@@ -1,0 +1,1796 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "街のチンピラ"
+msgstr ""
+
+msgctxt "NAME_1"
+msgid "雷電"
+msgstr ""
+
+msgctxt "NAME_2"
+msgid "逃げろ"
+msgstr ""
+
+msgctxt "NAME_3"
+msgid "脱出しろ！"
+msgstr ""
+
+msgctxt "NAME_4"
+msgid "覆面の男を追え"
+msgstr ""
+
+msgctxt "NAME_5"
+msgid "勤王志士"
+msgstr ""
+
+msgctxt "NAME_6"
+msgid "包囲網を突破しろ"
+msgstr ""
+
+msgctxt "NAME_7"
+msgid "土佐勤王党"
+msgstr ""
+
+msgctxt "NAME_8"
+msgid "土佐勤王党員"
+msgstr ""
+
+msgctxt "NAME_9"
+msgid "吉田稔麿を探せ"
+msgstr ""
+
+msgctxt "NAME_10"
+msgid "桂小五郎を探せ"
+msgstr ""
+
+msgctxt "NAME_11"
+msgid "千石虎之丞を追え"
+msgstr ""
+
+msgctxt "NAME_12"
+msgid "坂本龍馬を探せ"
+msgstr ""
+
+msgctxt "NAME_13"
+msgid "幕臣"
+msgstr ""
+
+msgctxt "NAME_14"
+msgid "幕臣たち"
+msgstr ""
+
+msgctxt "NAME_15"
+msgid "天守閣へ向かえ"
+msgstr ""
+
+msgctxt "NAME_16"
+msgid "上士 （シナリオ）"
+msgstr ""
+
+msgctxt "NAME_17"
+msgid "上士たち"
+msgstr ""
+
+msgctxt "NAME_18"
+msgid "偽党員たち"
+msgstr ""
+
+msgctxt "NAME_19"
+msgid "偽土佐勤王党員"
+msgstr ""
+
+msgctxt "NAME_20"
+msgid "土佐勤王党　岡田以蔵"
+msgstr ""
+
+msgctxt "NAME_21"
+msgid "土佐藩士"
+msgstr ""
+
+msgctxt "NAME_22"
+msgid "覆面の男"
+msgstr ""
+
+msgctxt "NAME_23"
+msgid "道場の男たち"
+msgstr ""
+
+msgctxt "NAME_24"
+msgid "不逞浪士"
+msgstr ""
+
+msgctxt "NAME_25"
+msgid "不逞浪士たち"
+msgstr ""
+
+msgctxt "NAME_26"
+msgid "巨漢の男"
+msgstr ""
+
+msgctxt "NAME_27"
+msgid "新選組　二番隊隊長　永倉新八"
+msgstr ""
+
+msgctxt "NAME_28"
+msgid "白装束の男"
+msgstr ""
+
+msgctxt "NAME_29"
+msgid "新選組脱走隊士　秋元"
+msgstr ""
+
+msgctxt "NAME_30"
+msgid "賭場の見張り"
+msgstr ""
+
+msgctxt "NAME_31"
+msgid "勤王の志士"
+msgstr ""
+
+msgctxt "NAME_32"
+msgid "長州藩士　桂小五郎"
+msgstr ""
+
+msgctxt "NAME_33"
+msgid "薩摩藩士"
+msgstr ""
+
+msgctxt "NAME_34"
+msgid "薩摩藩士たち"
+msgstr ""
+
+msgctxt "NAME_35"
+msgid "新選組　局長　近藤勇"
+msgstr ""
+
+msgctxt "NAME_36"
+msgid "新選組　一番隊隊長　沖田総司"
+msgstr ""
+
+msgctxt "NAME_37"
+msgid "薩摩藩士　西郷吉之助　長州藩士　桂小五郎"
+msgstr ""
+
+msgctxt "NAME_38"
+msgid "江戸幕府第十五代征夷大将軍　徳川慶喜"
+msgstr ""
+
+msgctxt "NAME_39"
+msgid "京都見廻組"
+msgstr ""
+
+msgctxt "NAME_40"
+msgid "新選組　十番隊隊長　原田左之助"
+msgstr ""
+
+msgctxt "NAME_41"
+msgid "御陵衛士　武田観柳斎"
+msgstr ""
+
+msgctxt "NAME_42"
+msgid "土佐勤王党盟主　武市半平太"
+msgstr ""
+
+msgctxt "NAME_43"
+msgid "野盗"
+msgstr ""
+
+msgctxt "NAME_44"
+msgid "上士 （エンカウント）"
+msgstr ""
+
+msgctxt "NAME_45"
+msgid "野武士"
+msgstr ""
+
+msgctxt "NAME_46"
+msgid "浪人"
+msgstr ""
+
+msgctxt "NAME_47"
+msgid "無法者"
+msgstr ""
+
+msgctxt "NAME_48"
+msgid "ならず者"
+msgstr ""
+
+msgctxt "NAME_49"
+msgid "武士"
+msgstr ""
+
+msgctxt "NAME_50"
+msgid "黄金衆"
+msgstr ""
+
+msgctxt "NAME_51"
+msgid "義賊"
+msgstr ""
+
+msgctxt "NAME_52"
+msgid "豊臣家残党"
+msgstr ""
+
+msgctxt "NAME_53"
+msgid "鎧武者"
+msgstr ""
+
+msgctxt "NAME_54"
+msgid "忍者"
+msgstr ""
+
+msgctxt "NAME_55"
+msgid "ガラの悪い男"
+msgstr ""
+
+msgctxt "NAME_56"
+msgid "街のゴロツキ"
+msgstr ""
+
+msgctxt "NAME_57"
+msgid "たちの悪い男"
+msgstr ""
+
+msgctxt "NAME_58"
+msgid "南蛮人"
+msgstr ""
+
+msgctxt "NAME_59"
+msgid "謎の男"
+msgstr ""
+
+msgctxt "NAME_60"
+msgid "御陵衛士"
+msgstr ""
+
+msgctxt "NAME_61"
+msgid "カマ使い"
+msgstr ""
+
+msgctxt "NAME_62"
+msgid "たちの悪い熊"
+msgstr ""
+
+msgctxt "NAME_63"
+msgid "新選組"
+msgstr ""
+
+msgctxt "NAME_64"
+msgid "新選組　一番隊隊士"
+msgstr ""
+
+msgctxt "NAME_65"
+msgid "新選組　二番隊隊士"
+msgstr ""
+
+msgctxt "NAME_66"
+msgid "新選組　三番隊隊士"
+msgstr ""
+
+msgctxt "NAME_67"
+msgid "新選組　四番隊隊士"
+msgstr ""
+
+msgctxt "NAME_68"
+msgid "新選組　五番隊隊士"
+msgstr ""
+
+msgctxt "NAME_69"
+msgid "新選組　六番隊隊士"
+msgstr ""
+
+msgctxt "NAME_70"
+msgid "新選組　七番隊隊士"
+msgstr ""
+
+msgctxt "NAME_71"
+msgid "新選組　八番隊隊士"
+msgstr ""
+
+msgctxt "NAME_72"
+msgid "新選組　九番隊隊士"
+msgstr ""
+
+msgctxt "NAME_73"
+msgid "新選組　十番隊隊士"
+msgstr ""
+
+msgctxt "NAME_74"
+msgid "勤王志士"
+msgstr ""
+
+msgctxt "NAME_75"
+msgid "土佐勤王党員"
+msgstr ""
+
+msgctxt "NAME_76"
+msgid "乱戦闘技1"
+msgstr ""
+
+msgctxt "NAME_77"
+msgid "乱戦闘技2"
+msgstr ""
+
+msgctxt "NAME_78"
+msgid "乱戦闘技3"
+msgstr ""
+
+msgctxt "NAME_79"
+msgid "乱戦闘技4"
+msgstr ""
+
+msgctxt "NAME_80"
+msgid "乱戦闘技5"
+msgstr ""
+
+msgctxt "NAME_81"
+msgid "乱戦闘技6"
+msgstr ""
+
+msgctxt "NAME_82"
+msgid "乱戦闘技7"
+msgstr ""
+
+msgctxt "NAME_83"
+msgid "乱戦闘技8"
+msgstr ""
+
+msgctxt "NAME_84"
+msgid "乱戦闘技9"
+msgstr ""
+
+msgctxt "NAME_85"
+msgid "乱戦闘技10"
+msgstr ""
+
+msgctxt "NAME_86"
+msgid "試練闘技1"
+msgstr ""
+
+msgctxt "NAME_87"
+msgid "試練闘技2"
+msgstr ""
+
+msgctxt "NAME_88"
+msgid "試練闘技3"
+msgstr ""
+
+msgctxt "NAME_89"
+msgid "試練闘技4"
+msgstr ""
+
+msgctxt "NAME_90"
+msgid "試練闘技5"
+msgstr ""
+
+msgctxt "NAME_91"
+msgid "試練闘技6"
+msgstr ""
+
+msgctxt "NAME_92"
+msgid "試練闘技7"
+msgstr ""
+
+msgctxt "NAME_93"
+msgid "試練闘技8"
+msgstr ""
+
+msgctxt "NAME_94"
+msgid "試練闘技9"
+msgstr ""
+
+msgctxt "NAME_95"
+msgid "試練闘技10"
+msgstr ""
+
+msgctxt "NAME_96"
+msgid "疾走闘技1"
+msgstr ""
+
+msgctxt "NAME_97"
+msgid "疾走闘技2"
+msgstr ""
+
+msgctxt "NAME_98"
+msgid "疾走闘技3"
+msgstr ""
+
+msgctxt "NAME_99"
+msgid "疾走闘技4"
+msgstr ""
+
+msgctxt "NAME_100"
+msgid "疾走闘技5"
+msgstr ""
+
+msgctxt "NAME_101"
+msgid "究極闘技1"
+msgstr ""
+
+msgctxt "NAME_102"
+msgid "究極闘技2"
+msgstr ""
+
+msgctxt "NAME_103"
+msgid "究極闘技3"
+msgstr ""
+
+msgctxt "NAME_104"
+msgid "究極闘技4"
+msgstr ""
+
+msgctxt "NAME_105"
+msgid "究極闘技5"
+msgstr ""
+
+msgctxt "NAME_106"
+msgid "土方"
+msgstr ""
+
+msgctxt "NAME_107"
+msgid "其の一"
+msgstr ""
+
+msgctxt "NAME_108"
+msgid "其の二"
+msgstr ""
+
+msgctxt "NAME_109"
+msgid "其の三"
+msgstr ""
+
+msgctxt "NAME_110"
+msgid "其の四"
+msgstr ""
+
+msgctxt "NAME_111"
+msgid "其の五"
+msgstr ""
+
+msgctxt "NAME_112"
+msgid "其の六"
+msgstr ""
+
+msgctxt "NAME_113"
+msgid "其の七"
+msgstr ""
+
+msgctxt "NAME_114"
+msgid "其の八"
+msgstr ""
+
+msgctxt "NAME_115"
+msgid "其の九"
+msgstr ""
+
+msgctxt "NAME_116"
+msgid "其の十"
+msgstr ""
+
+msgctxt "NAME_117"
+msgid "闘技場選手枠1"
+msgstr ""
+
+msgctxt "NAME_118"
+msgid "闘技場選手枠2"
+msgstr ""
+
+msgctxt "NAME_119"
+msgid "闘技場選手枠3"
+msgstr ""
+
+msgctxt "NAME_120"
+msgid "闘技場選手枠4"
+msgstr ""
+
+msgctxt "NAME_121"
+msgid "闘技場選手枠5"
+msgstr ""
+
+msgctxt "NAME_122"
+msgid "闘技場選手枠6"
+msgstr ""
+
+msgctxt "NAME_123"
+msgid "闘技場選手枠7"
+msgstr ""
+
+msgctxt "NAME_124"
+msgid "闘技場選手枠8"
+msgstr ""
+
+msgctxt "NAME_125"
+msgid "闘技場選手枠9"
+msgstr ""
+
+msgctxt "NAME_126"
+msgid "闘技場選手枠10"
+msgstr ""
+
+msgctxt "NAME_127"
+msgid "闘技場選手枠11"
+msgstr ""
+
+msgctxt "NAME_128"
+msgid "闘技場選手枠12"
+msgstr ""
+
+msgctxt "NAME_129"
+msgid "闘技場選手枠13"
+msgstr ""
+
+msgctxt "NAME_130"
+msgid "闘技場選手枠14"
+msgstr ""
+
+msgctxt "NAME_131"
+msgid "闘技場選手枠15"
+msgstr ""
+
+msgctxt "NAME_132"
+msgid "闘技場選手枠16"
+msgstr ""
+
+msgctxt "NAME_133"
+msgid "闘技場選手枠17"
+msgstr ""
+
+msgctxt "NAME_134"
+msgid "闘技場選手枠18"
+msgstr ""
+
+msgctxt "NAME_135"
+msgid "闘技場選手枠19"
+msgstr ""
+
+msgctxt "NAME_136"
+msgid "闘技場選手枠20"
+msgstr ""
+
+msgctxt "NAME_137"
+msgid "闘技場選手枠21"
+msgstr ""
+
+msgctxt "NAME_138"
+msgid "闘技場選手枠22"
+msgstr ""
+
+msgctxt "NAME_139"
+msgid "闘技場選手枠23"
+msgstr ""
+
+msgctxt "NAME_140"
+msgid "闘技場選手枠24"
+msgstr ""
+
+msgctxt "NAME_141"
+msgid "闘技場選手枠25"
+msgstr ""
+
+msgctxt "NAME_142"
+msgid "闘技場選手枠26"
+msgstr ""
+
+msgctxt "NAME_143"
+msgid "闘技場選手枠27"
+msgstr ""
+
+msgctxt "NAME_144"
+msgid "闘技場選手枠28"
+msgstr ""
+
+msgctxt "NAME_145"
+msgid "闘技場選手枠29"
+msgstr ""
+
+msgctxt "NAME_146"
+msgid "闘技場選手枠30"
+msgstr ""
+
+msgctxt "NAME_147"
+msgid "闘技場選手枠31"
+msgstr ""
+
+msgctxt "NAME_148"
+msgid "闘技場選手枠32"
+msgstr ""
+
+msgctxt "NAME_149"
+msgid "闘技場選手枠33"
+msgstr ""
+
+msgctxt "NAME_150"
+msgid "闘技場選手枠34"
+msgstr ""
+
+msgctxt "NAME_151"
+msgid "闘技場選手枠35"
+msgstr ""
+
+msgctxt "NAME_152"
+msgid "闘技場選手枠36"
+msgstr ""
+
+msgctxt "NAME_153"
+msgid "闘技場選手枠37"
+msgstr ""
+
+msgctxt "NAME_154"
+msgid "百人斬り"
+msgstr ""
+
+msgctxt "NAME_155"
+msgid "鞍馬天狗　親分"
+msgstr ""
+
+msgctxt "NAME_156"
+msgid "天狗面の男"
+msgstr ""
+
+msgctxt "NAME_157"
+msgid "義賊忍盗　頭領"
+msgstr ""
+
+msgctxt "NAME_158"
+msgid "赤忍者"
+msgstr ""
+
+msgctxt "NAME_159"
+msgid "白忍者"
+msgstr ""
+
+msgctxt "NAME_160"
+msgid "緑忍者"
+msgstr ""
+
+msgctxt "NAME_161"
+msgid "青忍者"
+msgstr ""
+
+msgctxt "NAME_162"
+msgid "刀剣一家　盟主"
+msgstr ""
+
+msgctxt "NAME_163"
+msgid "辻斬り侍"
+msgstr ""
+
+msgctxt "NAME_164"
+msgid "ウィリアム　ブラッドリー"
+msgstr ""
+
+msgctxt "NAME_165"
+msgid "古牧　宗光"
+msgstr ""
+
+msgctxt "NAME_166"
+msgid "吟柳"
+msgstr ""
+
+msgctxt "NAME_167"
+msgid "土佐藩上士"
+msgstr ""
+
+msgctxt "NAME_168"
+msgid "牽牛子塾へ向かえ"
+msgstr ""
+
+msgctxt "NAME_169"
+msgid "武市半平太を捜せ"
+msgstr ""
+
+msgctxt "NAME_170"
+msgid "高知城へ向かえ"
+msgstr ""
+
+msgctxt "NAME_171"
+msgid "城から脱出しろ"
+msgstr ""
+
+msgctxt "NAME_172"
+msgid "新選組から逃げろ"
+msgstr ""
+
+msgctxt "NAME_173"
+msgid "風呂屋へ向かえ"
+msgstr ""
+
+msgctxt "NAME_174"
+msgid "新選組屯所へ向かえ"
+msgstr ""
+
+msgctxt "NAME_175"
+msgid "椿楼へ向かえ"
+msgstr ""
+
+msgctxt "NAME_176"
+msgid "おりょうを捜せ"
+msgstr ""
+
+msgctxt "NAME_177"
+msgid "清水寺へ向かえ"
+msgstr ""
+
+msgctxt "NAME_178"
+msgid "日向屋へ向かえ"
+msgstr ""
+
+msgctxt "NAME_179"
+msgid "岡田以蔵を捜せ"
+msgstr ""
+
+msgctxt "NAME_180"
+msgid "四国屋へ向かえ"
+msgstr ""
+
+msgctxt "NAME_181"
+msgid "池田屋へ向かえ"
+msgstr ""
+
+msgctxt "NAME_182"
+msgid "吉田稔麿を捜せ"
+msgstr ""
+
+msgctxt "NAME_183"
+msgid "桂小五郎を捜せ"
+msgstr ""
+
+msgctxt "NAME_184"
+msgid "薩摩藩邸へ向かえ"
+msgstr ""
+
+msgctxt "NAME_185"
+msgid "旭屋へ向かえ"
+msgstr ""
+
+msgctxt "NAME_186"
+msgid "千石邸へ向かえ"
+msgstr ""
+
+msgctxt "NAME_187"
+msgid "千石虎之丞を捜せ"
+msgstr ""
+
+msgctxt "NAME_188"
+msgid "松之井へ向かえ"
+msgstr ""
+
+msgctxt "NAME_189"
+msgid "居酒屋を回れ"
+msgstr ""
+
+msgctxt "NAME_190"
+msgid "船着場へ向かえ"
+msgstr ""
+
+msgctxt "NAME_191"
+msgid "骸街へ向かえ"
+msgstr ""
+
+msgctxt "NAME_192"
+msgid "寺田屋へ向かえ"
+msgstr ""
+
+msgctxt "NAME_193"
+msgid "寺田屋へ向かえ"
+msgstr ""
+
+msgctxt "NAME_194"
+msgid "坂本龍馬を捜せ"
+msgstr ""
+
+msgctxt "NAME_195"
+msgid "近藤勇を捜せ"
+msgstr ""
+
+msgctxt "NAME_196"
+msgid "御所へ向かえ"
+msgstr ""
+
+msgctxt "NAME_197"
+msgid "松之井へ急げ"
+msgstr ""
+
+msgctxt "NAME_198"
+msgid "近江屋へ向かえ"
+msgstr ""
+
+msgctxt "NAME_199"
+msgid "高知城を目指せ"
+msgstr ""
+
+msgctxt "NAME_200"
+msgid "城内へ侵入しろ"
+msgstr ""
+
+msgctxt "NAME_201"
+msgid "造船工場を突破しろ"
+msgstr ""
+
+msgctxt "NAME_202"
+msgid "江戸幕府　幕臣"
+msgstr ""
+
+msgctxt "NAME_203"
+msgid "長州藩士　吉田稔麿"
+msgstr ""
+
+msgctxt "NAME_204"
+msgid "土佐藩郷士　坂本龍馬"
+msgstr ""
+
+msgctxt "NAME_205"
+msgid "京都見廻組　佐々木只三郎"
+msgstr ""
+
+msgctxt "NAME_206"
+msgid "新選組副長　土方歳三"
+msgstr ""
+
+msgctxt "NAME_207"
+msgid "英国商人　トーマス・グラバー"
+msgstr ""
+
+msgctxt "NAME_208"
+msgid "御陵衛士　伊東甲子太郎"
+msgstr ""
+
+msgctxt "NAME_209"
+msgid "稲原阿久水"
+msgstr ""
+
+msgctxt "CAPTION_NAME_0"
+msgid "2d_jm_bc_ss_tinpiramachi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_1"
+msgid "2d_jm_bc_boss_raiden"
+msgstr ""
+
+msgctxt "CAPTION_NAME_2"
+msgid "2d_jm_ac_321_nigero"
+msgstr ""
+
+msgctxt "CAPTION_NAME_3"
+msgid "2d_jm_lb_dassyutsu"
+msgstr ""
+
+msgctxt "CAPTION_NAME_4"
+msgid "2d_jm_lb_fukumen"
+msgstr ""
+
+msgctxt "CAPTION_NAME_5"
+msgid "2d_jm_lb_kinoushishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_6"
+msgid "2d_jm_lb_houimou"
+msgstr ""
+
+msgctxt "CAPTION_NAME_7"
+msgid "2d_jm_lb_tosakinnoutou"
+msgstr ""
+
+msgctxt "CAPTION_NAME_8"
+msgid "2d_jm_lb_tosakinnoutouin"
+msgstr ""
+
+msgctxt "CAPTION_NAME_9"
+msgid "2d_jm_lb_yoshidatoshimaro"
+msgstr ""
+
+msgctxt "CAPTION_NAME_10"
+msgid "2d_jm_lb_katsurakogorou"
+msgstr ""
+
+msgctxt "CAPTION_NAME_11"
+msgid "2d_jm_lb_sengokutoranojo"
+msgstr ""
+
+msgctxt "CAPTION_NAME_12"
+msgid "2d_jm_lb_sakamotosagase"
+msgstr ""
+
+msgctxt "CAPTION_NAME_13"
+msgid "2d_jm_lb_bakushin"
+msgstr ""
+
+msgctxt "CAPTION_NAME_14"
+msgid "2d_jm_lb_bakushintatchi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_15"
+msgid "2d_jm_lb_tensyukakuhe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_16"
+msgid "2d_jm_sb_s_joushi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_17"
+msgid "2d_jm_sb_s_joushitachi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_18"
+msgid "2d_jm_sb_m_nisetouintachi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_19"
+msgid "2d_jm_sb_m_nisetosakinnou"
+msgstr ""
+
+msgctxt "CAPTION_NAME_20"
+msgid "2d_jm_sb_l_okada"
+msgstr ""
+
+msgctxt "CAPTION_NAME_21"
+msgid "2d_jm_sb_m_tosahanshi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_22"
+msgid "2d_jm_sb_m_fukumennootoko"
+msgstr ""
+
+msgctxt "CAPTION_NAME_23"
+msgid "2d_jm_sb_m_dojonootokotachi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_24"
+msgid "2d_jm_sb_m_futeiroushi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_25"
+msgid "2d_jm_sb_m_futeiroushitachi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_26"
+msgid "2d_jm_sb_m_kyokannootoko"
+msgstr ""
+
+msgctxt "CAPTION_NAME_27"
+msgid "2d_jm_sb_l_nagakura"
+msgstr ""
+
+msgctxt "CAPTION_NAME_28"
+msgid "2d_jm_sb_m_shirosouzoku"
+msgstr ""
+
+msgctxt "CAPTION_NAME_29"
+msgid "2d_jm_sb_l_akimoto"
+msgstr ""
+
+msgctxt "CAPTION_NAME_30"
+msgid "2d_jm_sb_m_tobanomihari"
+msgstr ""
+
+msgctxt "CAPTION_NAME_31"
+msgid "2d_jm_sb_m_kinounoshishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_32"
+msgid "2d_jm_sb_l_katsura"
+msgstr ""
+
+msgctxt "CAPTION_NAME_33"
+msgid "2d_jm_sb_m_satsumahanshi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_34"
+msgid "2d_jm_sb_m_satsumahanshitachi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_35"
+msgid "2d_jm_sb_l_kondou"
+msgstr ""
+
+msgctxt "CAPTION_NAME_36"
+msgid "2d_jm_sb_l_okita"
+msgstr ""
+
+msgctxt "CAPTION_NAME_37"
+msgid "2d_jm_sb_l2_katsura_saigou"
+msgstr ""
+
+msgctxt "CAPTION_NAME_38"
+msgid "2d_jm_sb_l_tokugawayoshi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_39"
+msgid "2d_jm_sb_m_kyotomimawari"
+msgstr ""
+
+msgctxt "CAPTION_NAME_40"
+msgid "2d_jm_sb_l_haradasanosuke"
+msgstr ""
+
+msgctxt "CAPTION_NAME_41"
+msgid "2d_jm_sb_l_takedakanryusai"
+msgstr ""
+
+msgctxt "CAPTION_NAME_42"
+msgid "2d_jm_sb_l_takeichi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_43"
+msgid "2d_jm_eb_s_yatou"
+msgstr ""
+
+msgctxt "CAPTION_NAME_44"
+msgid "2d_jm_eb_s_joushi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_45"
+msgid "2d_jm_eb_s_nobushi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_46"
+msgid "2d_jm_eb_s_rounin"
+msgstr ""
+
+msgctxt "CAPTION_NAME_47"
+msgid "2d_jm_eb_s_muhoumono"
+msgstr ""
+
+msgctxt "CAPTION_NAME_48"
+msgid "2d_jm_eb_s_narazumono"
+msgstr ""
+
+msgctxt "CAPTION_NAME_49"
+msgid "2d_jm_eb_s_bushi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_50"
+msgid "2d_jm_eb_s_ougonsyu"
+msgstr ""
+
+msgctxt "CAPTION_NAME_51"
+msgid "2d_jm_sb_s_gizoku"
+msgstr ""
+
+msgctxt "CAPTION_NAME_52"
+msgid "2d_jm_sb_m_toyotomikezantou"
+msgstr ""
+
+msgctxt "CAPTION_NAME_53"
+msgid "2d_jm_sb_s_yoroimusya"
+msgstr ""
+
+msgctxt "CAPTION_NAME_54"
+msgid "2d_jm_sb_s_ninja"
+msgstr ""
+
+msgctxt "CAPTION_NAME_55"
+msgid "2d_jm_sb_m_garanowaruiotoko"
+msgstr ""
+
+msgctxt "CAPTION_NAME_56"
+msgid "2d_jm_sb_m_machinogorotsuki"
+msgstr ""
+
+msgctxt "CAPTION_NAME_57"
+msgid "2d_jm_sb_m_tachinowaruiotoko"
+msgstr ""
+
+msgctxt "CAPTION_NAME_58"
+msgid "2d_jm_sb_s_nanbanjin"
+msgstr ""
+
+msgctxt "CAPTION_NAME_59"
+msgid "2d_jm_sb_s_nazonootoko"
+msgstr ""
+
+msgctxt "CAPTION_NAME_60"
+msgid "2d_jm_sb_m_goryoueshi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_61"
+msgid "2d_jm_sb_s_kamatsukai"
+msgstr ""
+
+msgctxt "CAPTION_NAME_62"
+msgid "2d_jm_sb_m_tachinowaruikuma"
+msgstr ""
+
+msgctxt "CAPTION_NAME_63"
+msgid "2d_jm_sb_s_shinsengumi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_64"
+msgid "2d_jm_sb_l_1bantaishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_65"
+msgid "2d_jm_sb_l_2bantaishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_66"
+msgid "2d_jm_sb_l_3bantaishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_67"
+msgid "2d_jm_sb_l_4bantaishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_68"
+msgid "2d_jm_sb_l_5bantaishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_69"
+msgid "2d_jm_sb_l_6bantaishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_70"
+msgid "2d_jm_sb_l_7bantaishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_71"
+msgid "2d_jm_sb_l_8bantaishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_72"
+msgid "2d_jm_sb_l_9bantaishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_73"
+msgid "2d_jm_sb_l_10bantaishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_74"
+msgid "2d_jm_sb_m_kinoushishi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_75"
+msgid "2d_jm_sb_m_tosakinoutouin"
+msgstr ""
+
+msgctxt "CAPTION_NAME_76"
+msgid "2d_jm_bc_kyukyoku_a1"
+msgstr ""
+
+msgctxt "CAPTION_NAME_77"
+msgid "2d_jm_bc_kyukyoku_a2"
+msgstr ""
+
+msgctxt "CAPTION_NAME_78"
+msgid "2d_jm_bc_kyukyoku_a3"
+msgstr ""
+
+msgctxt "CAPTION_NAME_79"
+msgid "2d_jm_bc_kyukyoku_a4"
+msgstr ""
+
+msgctxt "CAPTION_NAME_80"
+msgid "2d_jm_bc_kyukyoku_a5"
+msgstr ""
+
+msgctxt "CAPTION_NAME_81"
+msgid "2d_jm_bc_kyukyoku_a6"
+msgstr ""
+
+msgctxt "CAPTION_NAME_82"
+msgid "2d_jm_bc_kyukyoku_a7"
+msgstr ""
+
+msgctxt "CAPTION_NAME_83"
+msgid "2d_jm_bc_kyukyoku_a8"
+msgstr ""
+
+msgctxt "CAPTION_NAME_84"
+msgid "2d_jm_bc_kyukyoku_a9"
+msgstr ""
+
+msgctxt "CAPTION_NAME_85"
+msgid "2d_jm_bc_kyukyoku_a10"
+msgstr ""
+
+msgctxt "CAPTION_NAME_86"
+msgid "2d_jm_bc_kyukyoku_b1"
+msgstr ""
+
+msgctxt "CAPTION_NAME_87"
+msgid "2d_jm_bc_kyukyoku_b2"
+msgstr ""
+
+msgctxt "CAPTION_NAME_88"
+msgid "2d_jm_bc_kyukyoku_b3"
+msgstr ""
+
+msgctxt "CAPTION_NAME_89"
+msgid "2d_jm_bc_kyukyoku_b4"
+msgstr ""
+
+msgctxt "CAPTION_NAME_90"
+msgid "2d_jm_bc_kyukyoku_b5"
+msgstr ""
+
+msgctxt "CAPTION_NAME_91"
+msgid "2d_jm_bc_kyukyoku_b6"
+msgstr ""
+
+msgctxt "CAPTION_NAME_92"
+msgid "2d_jm_bc_kyukyoku_b7"
+msgstr ""
+
+msgctxt "CAPTION_NAME_93"
+msgid "2d_jm_bc_kyukyoku_b8"
+msgstr ""
+
+msgctxt "CAPTION_NAME_94"
+msgid "2d_jm_bc_kyukyoku_b9"
+msgstr ""
+
+msgctxt "CAPTION_NAME_95"
+msgid "2d_jm_bc_kyukyoku_b10"
+msgstr ""
+
+msgctxt "CAPTION_NAME_96"
+msgid "2d_jm_bc_kyukyoku_c1"
+msgstr ""
+
+msgctxt "CAPTION_NAME_97"
+msgid "2d_jm_bc_kyukyoku_c2"
+msgstr ""
+
+msgctxt "CAPTION_NAME_98"
+msgid "2d_jm_bc_kyukyoku_c3"
+msgstr ""
+
+msgctxt "CAPTION_NAME_99"
+msgid "2d_jm_bc_kyukyoku_c4"
+msgstr ""
+
+msgctxt "CAPTION_NAME_100"
+msgid "2d_jm_bc_kyukyoku_c5"
+msgstr ""
+
+msgctxt "CAPTION_NAME_101"
+msgid "2d_jm_bc_kyukyoku_d1"
+msgstr ""
+
+msgctxt "CAPTION_NAME_102"
+msgid "2d_jm_bc_kyukyoku_d2"
+msgstr ""
+
+msgctxt "CAPTION_NAME_103"
+msgid "2d_jm_bc_kyukyoku_d3"
+msgstr ""
+
+msgctxt "CAPTION_NAME_104"
+msgid "2d_jm_bc_kyukyoku_d4"
+msgstr ""
+
+msgctxt "CAPTION_NAME_105"
+msgid "2d_jm_bc_kyukyoku_d5"
+msgstr ""
+
+msgctxt "CAPTION_NAME_106"
+msgid "2d_jm_sb_l_hijikata"
+msgstr ""
+
+msgctxt "CAPTION_NAME_107"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_108"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_109"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_110"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_111"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_112"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_113"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_114"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_115"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_116"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_117"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_118"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_119"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_120"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_121"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_122"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_123"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_124"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_125"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_126"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_127"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_128"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_129"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_130"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_131"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_132"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_133"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_134"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_135"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_136"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_137"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_138"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_139"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_140"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_141"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_142"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_143"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_144"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_145"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_146"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_147"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_148"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_149"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_150"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_151"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_152"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_153"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_154"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_155"
+msgid "2d_jm_sb_m_josotengu"
+msgstr ""
+
+msgctxt "CAPTION_NAME_156"
+msgid "2d_jm_sb_m_tengumen"
+msgstr ""
+
+msgctxt "CAPTION_NAME_157"
+msgid "2d_jm_sb_m_gizokunintou"
+msgstr ""
+
+msgctxt "CAPTION_NAME_158"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_159"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_160"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_161"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CAPTION_NAME_162"
+msgid "2d_jm_sb_m_toukenikka"
+msgstr ""
+
+msgctxt "CAPTION_NAME_163"
+msgid "2d_jm_sb_m_tsujigiri"
+msgstr ""
+
+msgctxt "CAPTION_NAME_164"
+msgid "2d_jm_sb_m_william"
+msgstr ""
+
+msgctxt "CAPTION_NAME_165"
+msgid "2d_jm_sb_m_komaki"
+msgstr ""
+
+msgctxt "CAPTION_NAME_166"
+msgid "2d_jm_sb_s_ginryu"
+msgstr ""
+
+msgctxt "CAPTION_NAME_167"
+msgid "2d_jm_adv_tosajohanshi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_168"
+msgid "2d_jm_adv_kengushi"
+msgstr ""
+
+msgctxt "CAPTION_NAME_169"
+msgid "2d_jm_adv_takechiwosagase"
+msgstr ""
+
+msgctxt "CAPTION_NAME_170"
+msgid "2d_jm_adv_kouchijohe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_171"
+msgid "2d_jm_adv_shirokaradasyutu"
+msgstr ""
+
+msgctxt "CAPTION_NAME_172"
+msgid "2d_jm_adv_shinsengumikara"
+msgstr ""
+
+msgctxt "CAPTION_NAME_173"
+msgid "2d_jm_adv_furoyahe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_174"
+msgid "2d_jm_adv_shinsengumitonsyo"
+msgstr ""
+
+msgctxt "CAPTION_NAME_175"
+msgid "2d_jm_adv_tsubakirou"
+msgstr ""
+
+msgctxt "CAPTION_NAME_176"
+msgid "2d_jm_adv_oryowosagase"
+msgstr ""
+
+msgctxt "CAPTION_NAME_177"
+msgid "2d_jm_adv_kiyomizudera"
+msgstr ""
+
+msgctxt "CAPTION_NAME_178"
+msgid "2d_jm_adv_hinatayahe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_179"
+msgid "2d_jm_adv_okadaizo"
+msgstr ""
+
+msgctxt "CAPTION_NAME_180"
+msgid "2d_jm_adv_shikokuyahe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_181"
+msgid "2d_jm_adv_ikedayahe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_182"
+msgid "2d_yk_adv_yoshida_sagase"
+msgstr ""
+
+msgctxt "CAPTION_NAME_183"
+msgid "2d_jm_adv_katsura_sagase"
+msgstr ""
+
+msgctxt "CAPTION_NAME_184"
+msgid "2d_yk_adv_satsumahanhe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_185"
+msgid "2d_yk_adv_asahiyahe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_186"
+msgid "2d_yk_adv_sengokuteihe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_187"
+msgid "2d_yk_adv_sengoku_sagase"
+msgstr ""
+
+msgctxt "CAPTION_NAME_188"
+msgid "2d_yk_adv_matunoihe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_189"
+msgid "2d_yk_adv_izakaya"
+msgstr ""
+
+msgctxt "CAPTION_NAME_190"
+msgid "2d_yk_adv_hunatsukibahe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_191"
+msgid "2d_yk_adv_mukurogaihe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_192"
+msgid "2d_yk_adv_teradayahe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_193"
+msgid "2d_yk_adv_teradayahe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_194"
+msgid "2d_yk_adv_sakamoto_sagase"
+msgstr ""
+
+msgctxt "CAPTION_NAME_195"
+msgid "2d_yk_adv_kondou_sagase"
+msgstr ""
+
+msgctxt "CAPTION_NAME_196"
+msgid "2d_yk_adv_goshohe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_197"
+msgid "2d_yk_adv_matunoihe_isoge"
+msgstr ""
+
+msgctxt "CAPTION_NAME_198"
+msgid "2d_yk_adv_oumiyahe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_199"
+msgid "2d_yk_adv_kouchijyou"
+msgstr ""
+
+msgctxt "CAPTION_NAME_200"
+msgid "2d_yk_adv_jyounaihe"
+msgstr ""
+
+msgctxt "CAPTION_NAME_201"
+msgid "2d_yk_adv_zousen_toppa"
+msgstr ""
+
+msgctxt "CAPTION_NAME_202"
+msgid "2d_jm_sb_m_edobakufu_bakushin"
+msgstr ""
+
+msgctxt "CAPTION_NAME_203"
+msgid "2d_jm_sb_l_yoshida"
+msgstr ""
+
+msgctxt "CAPTION_NAME_204"
+msgid "2d_jm_sb_l_goushi_sakamoto"
+msgstr ""
+
+msgctxt "CAPTION_NAME_205"
+msgid "2d_jm_sb_l_sasaki"
+msgstr ""
+
+msgctxt "CAPTION_NAME_206"
+msgid "2d_jm_sb_l_hijikata"
+msgstr ""
+
+msgctxt "CAPTION_NAME_207"
+msgid "2d_jm_sb_l_tomasuguraba"
+msgstr ""
+
+msgctxt "CAPTION_NAME_208"
+msgid "2d_jm_sb_l_itou"
+msgstr ""
+
+msgctxt "CAPTION_NAME_209"
+msgid "2d_jm_sb_m_inahara"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_0"
+msgid "2d_jm_bc_daimon_aisaka"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_1"
+msgid "2d_jm_bc_daimon_nagakura"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_2"
+msgid "2d_jm_bc_daimon_chosyu"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_3"
+msgid "2d_jm_bc_daimon_kondou"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_4"
+msgid "2d_jm_bc_daimon_okita"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_5"
+msgid "2d_jm_bc_daimon_tokugawa"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_6"
+msgid "2d_jm_bc_daimon_harada"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_7"
+msgid "2d_jm_bc_daimon_goryoeji"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_8"
+msgid "2d_jm_bc_daimon_takechi"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_9"
+msgid "2d_jm_bc_daimon_chosyu"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_10"
+msgid "2d_jm_bc_daimon_tosahan"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_11"
+msgid "2d_jm_bc_daimon_sasaki"
+msgstr ""
+
+msgctxt "EMBLEM_NAME_12"
+msgid "2d_jm_bc_daimon_goryoeji"
+msgstr ""
+
+msgctxt "PLAY_SCENE_0"
+msgid "BTL_CAP_SS"
+msgstr ""
+
+msgctxt "PLAY_SCENE_1"
+msgid "BOSS_CAP_NOHEAD"
+msgstr ""
+
+msgctxt "PLAY_SCENE_2"
+msgid "CHASE"
+msgstr ""
+
+msgctxt "PLAY_SCENE_3"
+msgid "LB"
+msgstr ""
+
+msgctxt "PLAY_SCENE_4"
+msgid "SB_S"
+msgstr ""
+
+msgctxt "PLAY_SCENE_5"
+msgid "SB_M"
+msgstr ""
+
+msgctxt "PLAY_SCENE_6"
+msgid "SB_L"
+msgstr ""
+
+msgctxt "PLAY_SCENE_7"
+msgid "SB_L2"
+msgstr ""
+
+msgctxt "PLAY_SCENE_8"
+msgid "SB_HACT"
+msgstr ""
+
+msgctxt "PLAY_SCENE_9"
+msgid "EB_S"
+msgstr ""
+
+msgctxt "PLAY_SCENE_10"
+msgid "KYUKYOKU"
+msgstr ""
+
+msgctxt "PLAY_SCENE_11"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "PLAY_SCENE_12"
+msgid "ADV_CAP_S"
+msgstr ""

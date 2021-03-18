@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "73196"
+msgid ""
+"寺田屋では\n"
+"でけえ魚を逃がしたもんだなぁ　あんた"
+msgstr ""
+
+msgctxt "73340"
+msgid "見廻組の邪魔が入ってな"
+msgstr ""
+
+msgctxt "73484"
+msgid ""
+"連中は\n"
+"勝麟太郎に動かされていたらしい"
+msgstr ""
+
+msgctxt "73628"
+msgid ""
+"それで結局\n"
+"「坂本龍馬」の正体はわからずじまいか"
+msgstr ""
+
+msgctxt "73772"
+msgid "なあ"
+msgstr ""
+
+msgctxt "73916"
+msgid ""
+"あいつは何をしに\n"
+"また京に舞い戻ってきたと思う？"
+msgstr ""
+
+msgctxt "74060"
+msgid "さあな"
+msgstr ""
+
+msgctxt "74204"
+msgid "あんたは知っているのか？"
+msgstr ""
+
+msgctxt "74348"
+msgid "ああ"
+msgstr ""
+
+msgctxt "74492"
+msgid ""
+"そいつを教えるために\n"
+"あんたをここへ呼んだんだ"
+msgstr ""
+
+msgctxt "74636"
+msgid "それに……"
+msgstr ""
+
+msgctxt "74780"
+msgid ""
+"いよいよ時間がなくなってきたことも\n"
+"承知しといてもらいてえと思ってよ"
+msgstr ""
+
+msgctxt "74924"
+msgid "時間？"
+msgstr ""
+
+msgctxt "75068"
+msgid "何のだ？"
+msgstr ""
+
+msgctxt "75212"
+msgid "この日本て国が自滅するまでの時間だよ"
+msgstr ""
+
+msgctxt "75356"
+msgid "何……！？"
+msgstr ""
+
+msgctxt "75500"
+msgid "「坂本龍馬」はな……"
+msgstr ""
+
+msgctxt "75644"
+msgid ""
+"国中を巻き込んだ倒幕戦争の引き金を引きに\n"
+"この京に来てるんだよ"
+msgstr ""

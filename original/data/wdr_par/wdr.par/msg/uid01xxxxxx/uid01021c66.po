@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2548"
+msgid "斎藤さん。"
+msgstr ""
+
+msgctxt "2559"
+msgid "お前は……"
+msgstr ""
+
+msgctxt "2570"
+msgid "藤堂ですよ。藤堂平助。"
+msgstr ""
+
+msgctxt "2593"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2594"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2595"
+msgid "仕事の説明は明日からじゃなかったのか？"
+msgstr ""
+
+msgctxt "2634"
+msgid "それとは別件でして。はいこれ。"
+msgstr ""
+
+msgctxt "2665"
+msgid "……これは？"
+msgstr ""
+
+msgctxt "2678"
+msgid ""
+"新選組名物、浅葱色の羽織です。\n"
+"しかもこれは隊長のみが着用を許された、\n"
+"隊長格仕様です。"
+msgstr ""
+
+msgctxt "2767"
+msgid ""
+"明日からは、これ着て来て下さいね。\n"
+"隊長としてパリッとしてもらわないと。"
+msgstr ""
+
+msgctxt "2840"
+msgid "じゃ、お疲れ様でした。"
+msgstr ""
+
+msgctxt "2863"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2864"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2866"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2867"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2868"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3424"
+msgid "藤堂"
+msgstr ""
+
+msgctxt "3429"
+msgid "todo_c04_020_01"
+msgstr ""
+
+msgctxt "3445"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "3450"
+msgid "kiryu_c04_020_01"
+msgstr ""
+
+msgctxt "3467"
+msgid "todo_c04_020_02"
+msgstr ""
+
+msgctxt "3483"
+msgid "kiryu_c04_020_02"
+msgstr ""
+
+msgctxt "3500"
+msgid "todo_c04_020_03"
+msgstr ""
+
+msgctxt "3516"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "3538"
+msgid "C04020_TOD_haori_send"
+msgstr ""
+
+msgctxt "3560"
+msgid "C04020_KRU_haori_kamae"
+msgstr ""
+
+msgctxt "3583"
+msgid "C04020_KRU_haori_get"
+msgstr ""
+
+msgctxt "3604"
+msgid "ACSCE0410"
+msgstr ""
+
+msgctxt "3614"
+msgid "kiryu_c04_020_03"
+msgstr ""
+
+msgctxt "3631"
+msgid "todo_c04_020_04"
+msgstr ""
+
+msgctxt "3647"
+msgid "todo_c04_020_05"
+msgstr ""
+
+msgctxt "3663"
+msgid "todo_c04_020_05b"
+msgstr ""
+
+msgctxt "3680"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3691"
+msgid "Talk_Kamae"
+msgstr ""

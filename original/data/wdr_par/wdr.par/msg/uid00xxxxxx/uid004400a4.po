@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1144"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1145"
+msgid ""
+"せっかく乗ってきたのに、どうしたんや？\n"
+"また歌おうや～。"
+msgstr ""
+
+msgctxt "1202"
+msgid "よう、一（はじめ）ちゃんも歌いにきたんか。"
+msgstr ""
+
+msgctxt "1245"
+msgid ""
+"わし、これから歌おう思うんやけど、\n"
+"一緒に盛り上げてくれんか？"
+msgstr ""
+
+msgctxt "1308"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1309"
+msgid "なんや、ノリ悪いのぅ……"
+msgstr ""
+
+msgctxt "1334"
+msgid "ヒヒヒ。よし、一緒に一発、ぶちかましたろうな！"
+msgstr ""
+
+msgctxt "1381"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1480"
+msgid "沖田"
+msgstr ""
+
+msgctxt "1485"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1491"
+msgid "majima_game_utagoe_00"
+msgstr ""
+
+msgctxt "1513"
+msgid "majima_game_utagoe_01"
+msgstr ""
+
+msgctxt "1535"
+msgid "はい"
+msgstr ""
+
+msgctxt "1540"
+msgid "いいえ"
+msgstr ""
+
+msgctxt "1547"
+msgid "majima_game_utagoe_03"
+msgstr ""
+
+msgctxt "1569"
+msgid "majima_game_utagoe_02"
+msgstr ""

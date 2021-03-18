@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "468"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "469"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "470"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "471"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "472"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "532"
+msgid "a60189_tosa_hougeki"
+msgstr ""
+
+msgctxt "552"
+msgid "A60190_tosa_sanbashi"
+msgstr ""

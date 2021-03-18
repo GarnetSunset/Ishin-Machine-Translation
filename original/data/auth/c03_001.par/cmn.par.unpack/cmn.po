@@ -1,0 +1,768 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "564"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "708"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "852"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "996"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "1140"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "1284"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "1428"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "1572"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "1716"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "1860"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "2004"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "2148"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "2292"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "2724"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "2868"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "3012"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "3156"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "3300"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "3444"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "3588"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "3732"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "3876"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "4020"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "4164"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "4308"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "4452"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "4884"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "5028"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "5172"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "5316"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "5460"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "5604"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "5748"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "5892"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "6036"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "6180"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "6324"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "6468"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "6612"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "7044"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "7188"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "7332"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "7476"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "7620"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "7764"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "7908"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "8052"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "8196"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "8340"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "8484"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "8628"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "8772"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "9204"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "9348"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "9492"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "9636"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "9780"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "9924"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "10068"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "10212"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "10356"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "10500"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "10644"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "10788"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "10932"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "11364"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "11508"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "11652"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "11796"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "11940"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "12084"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "12228"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "12372"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "12516"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "12660"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "12804"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "12948"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "13092"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "13524"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "13668"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "13812"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "13956"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "14100"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "14244"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "14388"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "14532"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "14676"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "14820"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "14964"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "15108"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "15252"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "15684"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "15828"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "15972"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "16116"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "16260"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "16404"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "16548"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "16692"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "16836"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "16980"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "17124"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "17268"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "17412"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "17844"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "17988"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "18132"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "18276"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "18420"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "18564"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "18708"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "18852"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "18996"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "19140"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "19284"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "19428"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "19572"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "20004"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "20148"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "20292"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "20436"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "20580"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "20724"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "20868"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "21012"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "21156"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "21300"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "21444"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "21588"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "21732"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "22164"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "22308"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "22452"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "22596"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "22740"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "22884"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "23028"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "23172"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "23316"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "23460"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "23604"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "23748"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "23892"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "24324"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "24468"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "24612"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "24756"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "24900"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "25044"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "25188"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "25332"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "25476"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "25620"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "25764"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "25908"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "26052"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "26484"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "26628"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "26772"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "26916"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "27060"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "27204"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "27348"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "27492"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "27636"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "27780"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "27924"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "28068"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "28212"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""
+
+msgctxt "28644"
+msgid "土佐を脱藩して１年"
+msgstr ""
+
+msgctxt "28788"
+msgid "坂本龍馬は今“斎藤一”の偽名で京に潜伏し"
+msgstr ""
+
+msgctxt "28932"
+msgid "「覆面の男」を追い続けていた"
+msgstr ""
+
+msgctxt "29076"
+msgid "手がかりはただひとつ"
+msgstr ""
+
+msgctxt "29220"
+msgid "東洋を殺した剣"
+msgstr ""
+
+msgctxt "29364"
+msgid "「天念理心流」"
+msgstr ""
+
+msgctxt "29508"
+msgid "やがて龍馬は　その使い手が"
+msgstr ""
+
+msgctxt "29652"
+msgid ""
+"“壬生狼”と呼ばれる\r\n"
+"「新選組」の古参幹部たちだったことを知る"
+msgstr ""
+
+msgctxt "29796"
+msgid "すべては吉田東洋の仇を討つため"
+msgstr ""
+
+msgctxt "29940"
+msgid "苦悩の末　龍馬が選んだ道は"
+msgstr ""
+
+msgctxt "30084"
+msgid "斎藤一として「新選組」へ潜入することだった"
+msgstr ""
+
+msgctxt "30228"
+msgid "たとえそれが"
+msgstr ""
+
+msgctxt "30372"
+msgid "兄弟との絆を断つ決断だったとしても"
+msgstr ""

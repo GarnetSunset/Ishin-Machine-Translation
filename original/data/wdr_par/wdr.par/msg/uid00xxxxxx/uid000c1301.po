@@ -1,0 +1,1354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "36772"
+msgid ""
+"うっちゃん、いるんでしょう……？\n"
+"さっきはごめんね。"
+msgstr ""
+
+msgctxt "36825"
+msgid ""
+"うっちゃん、あのね。\n"
+"今日はうっちゃんのために斎藤さんって方が\n"
+"いらっしゃってくれてるのよ。"
+msgstr ""
+
+msgctxt "36918"
+msgid "部屋に行ってもいいかしら？"
+msgstr ""
+
+msgctxt "36945"
+msgid "だめに決まってんだろ！　帰らせろよ！"
+msgstr ""
+
+msgctxt "36982"
+msgid "…………"
+msgstr ""
+
+msgctxt "36991"
+msgid "だめらしいです……"
+msgstr ""
+
+msgctxt "37010"
+msgid "……上がるぞ。"
+msgstr ""
+
+msgctxt "37025"
+msgid "……はい。"
+msgstr ""
+
+msgctxt "37036"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37037"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37038"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37039"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37040"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37041"
+msgid ""
+"あ、あんた誰だよ！\n"
+"勝手に入ってくるんじゃねーよ！"
+msgstr ""
+
+msgctxt "37092"
+msgid "……俺は斎藤だ。お前と話をしに来た。"
+msgstr ""
+
+msgctxt "37129"
+msgid "はぁ？　何なんだよ！"
+msgstr ""
+
+msgctxt "37150"
+msgid ""
+"斎藤さんもね、武士の家系に生まれたのに\n"
+"長男じゃないんですって。"
+msgstr ""
+
+msgctxt "37215"
+msgid ""
+"うっちゃんがいろいろ相談できるんじゃないかって\n"
+"思って来ていただいたの。"
+msgstr ""
+
+msgctxt "37288"
+msgid ""
+"なっ！　た、頼んでないだろ!?\n"
+"それに……　会ったばかりの奴に\n"
+"相談なんかできるわけないだろ！"
+msgstr ""
+
+msgctxt "37381"
+msgid ""
+"奥さん……\n"
+"すまんが、こいつと２人きりにさせてくれ。"
+msgstr ""
+
+msgctxt "37434"
+msgid "え？　あ、はい。"
+msgstr ""
+
+msgctxt "37451"
+msgid "……そ、それじゃあね、うっちゃん。"
+msgstr ""
+
+msgctxt "37486"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37487"
+msgid "あ、ちょ、待っ……！"
+msgstr ""
+
+msgctxt "37508"
+msgid "…………"
+msgstr ""
+
+msgctxt "37517"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37518"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37519"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37520"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37521"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37522"
+msgid "…………"
+msgstr ""
+
+msgctxt "37531"
+msgid ""
+"（母親がいなくなった途端\n"
+"　急に無口になってしまったな……）"
+msgstr ""
+
+msgctxt "37592"
+msgid "…………"
+msgstr ""
+
+msgctxt "37601"
+msgid "（何か話をふってみようか……）"
+msgstr ""
+
+msgctxt "37632"
+msgid ""
+"……ずっと家に引きこもっていると聞いたが、\n"
+"いったい、いつも何をしているんだ？"
+msgstr ""
+
+msgctxt "37711"
+msgid "えっ……"
+msgstr ""
+
+msgctxt "37720"
+msgid ""
+"……母親に買ってきてもらった瓦版を読んだり、\n"
+"春画見たり、基本家でごろごろしてる。"
+msgstr ""
+
+msgctxt "37803"
+msgid "……他は？"
+msgstr ""
+
+msgctxt "37814"
+msgid "特にないよ……"
+msgstr ""
+
+msgctxt "37829"
+msgid "……本当に、他に何もないのか？"
+msgstr ""
+
+msgctxt "37860"
+msgid "ほ、本当だけど……"
+msgstr ""
+
+msgctxt "37879"
+msgid "……それでいいのか？　お前は？"
+msgstr ""
+
+msgctxt "37910"
+msgid "え……　な、何がだよ！"
+msgstr ""
+
+msgctxt "37933"
+msgid ""
+"家の外にはお前の知らないおもしろいものが\n"
+"もっとたくさんあると思うぞ。"
+msgstr ""
+
+msgctxt "38004"
+msgid ""
+"人生は一度きりだ。\n"
+"このままずっとそんな生活でいいのか？\n"
+"……後悔、するんじゃないか？"
+msgstr ""
+
+msgctxt "38091"
+msgid "あ、いや……　その、はい。"
+msgstr ""
+
+msgctxt "38118"
+msgid "そ、そうですね……"
+msgstr ""
+
+msgctxt "38137"
+msgid "……友達はいるのか？"
+msgstr ""
+
+msgctxt "38158"
+msgid "えっ、何だよ……"
+msgstr ""
+
+msgctxt "38175"
+msgid "友達だ。友達はいないのか？"
+msgstr ""
+
+msgctxt "38202"
+msgid "む、昔はいたさ……　子供のころだけどな……"
+msgstr ""
+
+msgctxt "38245"
+msgid ""
+"けど大人になっていくにつれて、\n"
+"段々遊ばなくなったり、連絡しなくなったり……"
+msgstr ""
+
+msgctxt "38322"
+msgid ""
+"だから現状、友達っていうものが\n"
+"いるのかいないのか問われると……"
+msgstr ""
+
+msgctxt "38387"
+msgid "いないのか……"
+msgstr ""
+
+msgctxt "38402"
+msgid ""
+"違う違う。\n"
+"いないというか……　作らないだけ。"
+msgstr ""
+
+msgctxt "38449"
+msgid ""
+"そもそも大人になったら友達なんていらないし？\n"
+"そんなに遊ばないし？　現に１人でも今楽しいし？"
+msgstr ""
+
+msgctxt "38542"
+msgid ""
+"……むしろさ、友達なんていたら大変だよ。\n"
+"付き合いでお金も時間もかかるし、\n"
+"気も遣わなくちゃいけないじゃないか。"
+msgstr ""
+
+msgctxt "38655"
+msgid ""
+"……うん、やっぱりそうだ。\n"
+"友達なんていない方がいいに決まってる。"
+msgstr ""
+
+msgctxt "38722"
+msgid "……そんなことはない。"
+msgstr ""
+
+msgctxt "38745"
+msgid "えっ。"
+msgstr ""
+
+msgctxt "38752"
+msgid ""
+"そいつのために金や時間をかけても惜しくない……\n"
+"そんな友に、お前はまだ会ってないだけじゃないか？"
+msgstr ""
+
+msgctxt "38849"
+msgid ""
+"多少友人に気を遣うのも当然だろう、\n"
+"……それだけ大事な存在なんだからな。"
+msgstr ""
+
+msgctxt "38922"
+msgid "…………"
+msgstr ""
+
+msgctxt "38931"
+msgid "……そうは思わないか？"
+msgstr ""
+
+msgctxt "38954"
+msgid "あぁ……　はい、そっすね……"
+msgstr ""
+
+msgctxt "38983"
+msgid "好きなことはあるのか？"
+msgstr ""
+
+msgctxt "39006"
+msgid "えっ、何？　……好きなこと？"
+msgstr ""
+
+msgctxt "39035"
+msgid ""
+"あぁ。何か夢中になれるものが、\n"
+"１つや２つあるだろう？"
+msgstr ""
+
+msgctxt "39090"
+msgid "はぁ……"
+msgstr ""
+
+msgctxt "39099"
+msgid "……よく考えてみろ。"
+msgstr ""
+
+msgctxt "39120"
+msgid ""
+"む、夢中になれる……\n"
+"好きなこと……　うーん……"
+msgstr ""
+
+msgctxt "39169"
+msgid "……ない。"
+msgstr ""
+
+msgctxt "39180"
+msgid "な……　ないのか？"
+msgstr ""
+
+msgctxt "39199"
+msgid "うん、ない。"
+msgstr ""
+
+msgctxt "39212"
+msgid ""
+"……あ、しいていえば\n"
+"何もせず暮らしていける今の生活が好きかな！"
+msgstr ""
+
+msgctxt "39277"
+msgid "…………"
+msgstr ""
+
+msgctxt "39286"
+msgid "……な、何だよ。"
+msgstr ""
+
+msgctxt "39303"
+msgid ""
+"俺の知っている、お前と同じ年頃の若者は\n"
+"自分の好きなことのために一生懸命だ。"
+msgstr ""
+
+msgctxt "39380"
+msgid ""
+"そいつらは、ちゃんと自分の人生を、\n"
+"一心不乱に生きている……"
+msgstr ""
+
+msgctxt "39441"
+msgid ""
+"ちょ、待って！　同年代の奴らの話はやめてくれ！\n"
+"精神が不安定になるだろ!!"
+msgstr ""
+
+msgctxt "39514"
+msgid "…………"
+msgstr ""
+
+msgctxt "39523"
+msgid "…………"
+msgstr ""
+
+msgctxt "39532"
+msgid ""
+"お、俺だって、同い歳の奴らが頑張ってるの見て、\n"
+"引け目に感じたりするんだよ……"
+msgstr ""
+
+msgctxt "39611"
+msgid ""
+"……何故そんな気持ちはあるくせに、\n"
+"現状を変えようとしないんだ？"
+msgstr ""
+
+msgctxt "39676"
+msgid "え、あ、えぇっと……"
+msgstr ""
+
+msgctxt "39697"
+msgid "……自分を変えるつもりはあるのか？"
+msgstr ""
+
+msgctxt "39732"
+msgid "それは……　えーと、な……"
+msgstr ""
+
+msgctxt "39759"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39760"
+msgid "いや、ある……　ありますよ……"
+msgstr ""
+
+msgctxt "39791"
+msgid "……いつ変わるんだ？"
+msgstr ""
+
+msgctxt "39812"
+msgid "……いつでしょう？"
+msgstr ""
+
+msgctxt "39831"
+msgid "今だろ!!"
+msgstr ""
+
+msgctxt "39840"
+msgid "……そっすね。"
+msgstr ""
+
+msgctxt "39855"
+msgid "…………"
+msgstr ""
+
+msgctxt "39864"
+msgid ""
+"（この男が、自分を変えようとする\n"
+"　何かきっかけのようなものが必要だと思うが……）"
+msgstr ""
+
+msgctxt "39947"
+msgid ""
+"（見ず知らずの俺がいきなり正面から言っても、\n"
+"　聞き入れてもらえないだろう……\n"
+"　いったいどうしたものか）"
+msgstr ""
+
+msgctxt "40054"
+msgid ""
+"（まずは打ち解けることが大事だ。\n"
+"　何気ない会話から内太郎との心の距離を縮めねば）"
+msgstr ""
+
+msgctxt "40137"
+msgid "……内太郎、お前はどんな女が好きなんだ？"
+msgstr ""
+
+msgctxt "40178"
+msgid ""
+"ふ、ふぇ!?　女!?\n"
+"いきなり、何？"
+msgstr ""
+
+msgctxt "40211"
+msgid ""
+"その歳だ、色々経験もあるだろう。\n"
+"どういう女が好みなんだ？"
+msgstr ""
+
+msgctxt "40270"
+msgid "経験……　ないよ。"
+msgstr ""
+
+msgctxt "40289"
+msgid "えっ。"
+msgstr ""
+
+msgctxt "40296"
+msgid ""
+"い、いや、家にずっといるのに\n"
+"女と出会う機会なんてあるわけないじゃない。\n"
+"そういったお店にも行かないし。"
+msgstr ""
+
+msgctxt "40401"
+msgid ""
+"毎日目にする女と言えば母親か、親戚のおばさんか、\n"
+"……春画のうすっぺらい人達だね。"
+msgstr ""
+
+msgctxt "40484"
+msgid "だから好みって言われると、よくわからないな。"
+msgstr ""
+
+msgctxt "40529"
+msgid "そ、そうなのか……"
+msgstr ""
+
+msgctxt "40548"
+msgid "あ、でも理想ならあるかな？"
+msgstr ""
+
+msgctxt "40575"
+msgid "おぉ、どんな理想だ？"
+msgstr ""
+
+msgctxt "40596"
+msgid "えーっと、そうだなぁ……"
+msgstr ""
+
+msgctxt "40621"
+msgid ""
+"髪が長くて、すっごく美人で、おしとやかで、\n"
+"やさしくて、俺だけをずっと好きで、家が金持ちで、\n"
+"床上手で、料理も得意で、俺を養ってくれる人かな！"
+msgstr ""
+
+msgctxt "40764"
+msgid "……ずいぶん理想が高いな。"
+msgstr ""
+
+msgctxt "40791"
+msgid ""
+"だって、その人と一生添い遂げるわけでしょう？\n"
+"これでも妥協してる方だよ！\n"
+"あ、地主の娘とかだったらなおいいよね。"
+msgstr ""
+
+msgctxt "40904"
+msgid ""
+"……時々窓からさぁ、\n"
+"その辺を歩いている女達を見かけるんだけどね。"
+msgstr ""
+
+msgctxt "40971"
+msgid ""
+"いやーあんなのだめだめ。見るからに平凡って感じ！\n"
+"色気も教養もなさそうだし、あんなのは無理無理！"
+msgstr ""
+
+msgctxt "41068"
+msgid "現実を見ろ!!"
+msgstr ""
+
+msgctxt "41081"
+msgid "!!"
+msgstr ""
+
+msgctxt "41084"
+msgid ""
+"お前は家に引きこもって何もしようとしない、\n"
+"……ただの無職の男なんだぞ！"
+msgstr ""
+
+msgctxt "41157"
+msgid ""
+"自分では何もしようとせず他人に要求してばかり。\n"
+"口ばかり達者で、そのくせ理想だけは高い……\n"
+"そんな男に、理想の女が振り向いてくれると思うか？"
+msgstr ""
+
+msgctxt "41298"
+msgid ""
+"いや、お前が馬鹿にしてる普通の女にだって、\n"
+"好かれるわけがないだろう!!"
+msgstr ""
+
+msgctxt "41369"
+msgid "…………"
+msgstr ""
+
+msgctxt "41378"
+msgid ""
+"（しまった、何気ない会話で打ち解けるつもりが\n"
+"　つい説教をしてしまった……）"
+msgstr ""
+
+msgctxt "41455"
+msgid "……その通り、ですよね。"
+msgstr ""
+
+msgctxt "41480"
+msgid "えっ。"
+msgstr ""
+
+msgctxt "41487"
+msgid ""
+"本当はわかってるんですよ。\n"
+"俺に誰かから好かれる資格なんてありません。"
+msgstr ""
+
+msgctxt "41558"
+msgid ""
+"つい強がって……\n"
+"周りの人を見下してるふりをして……\n"
+"そうやって、自分を保ってるだけ。"
+msgstr ""
+
+msgctxt "41645"
+msgid ""
+"はは、斎藤さん。今まであなたみたいに\n"
+"はっきりとしかってくれる人、いなかったな……"
+msgstr ""
+
+msgctxt "41728"
+msgid "あ、ありがとう……"
+msgstr ""
+
+msgctxt "41747"
+msgid ""
+"（……意図した通りではなかったが、\n"
+"　内太郎が少し打ち解けてくれたようだな……）"
+msgstr ""
+
+msgctxt "41828"
+msgid ""
+"（この男を変えるためには、\n"
+"　多少焦らせた方がいい気がするな……）"
+msgstr ""
+
+msgctxt "41895"
+msgid "……内太郎、お前、将来どうするんだ？"
+msgstr ""
+
+msgctxt "41932"
+msgid "えっ？"
+msgstr ""
+
+msgctxt "41939"
+msgid ""
+"まさか、このままずっと死ぬまで\n"
+"この家で部屋住みとして暮らしていくつもりなのか？"
+msgstr ""
+
+msgctxt "42020"
+msgid "いや、そこまでは思ってないけど……"
+msgstr ""
+
+msgctxt "42055"
+msgid ""
+"なるほど、家を出るつもりはあるということか？\n"
+"じゃあどうする？\n"
+"お前は将来どんな仕事についている予定なんだ？"
+msgstr ""
+
+msgctxt "42164"
+msgid "あの、そんな真面目なこと突然言われても……"
+msgstr ""
+
+msgctxt "42207"
+msgid ""
+"突然というけどな、\n"
+"お前は今までじゅうぶん考える時間があったはずだ。"
+msgstr ""
+
+msgctxt "42276"
+msgid ""
+"親だっていつまでも生きちゃいない。\n"
+"お前１人残されたら、この先どうする？\n"
+"お前を守ってくれる人が誰１人いなくなるんだぞ。"
+msgstr ""
+
+msgctxt "42397"
+msgid ""
+"このままだと路頭に迷うぞ。それとも\n"
+"疎まれながら兄夫婦の厄介になり続けるのか？"
+msgstr ""
+
+msgctxt "42476"
+msgid "う……　う……"
+msgstr ""
+
+msgctxt "42491"
+msgid "う、うわぁぁぁん!!"
+msgstr ""
+
+msgctxt "42510"
+msgid ""
+"精神的なところをえぐるのやめてください！\n"
+"もう心ズタボロですよ！　俺、心弱いんですよ！"
+msgstr ""
+
+msgctxt "42597"
+msgid "す、すまん……　言いすぎた。"
+msgstr ""
+
+msgctxt "42626"
+msgid "わ、わかりましたよ……"
+msgstr ""
+
+msgctxt "42649"
+msgid ""
+"これからは将来のこと、\n"
+"もっと真面目に考えなきゃだめだなって……\n"
+"思いました。"
+msgstr ""
+
+msgctxt "42728"
+msgid ""
+"（あまりいい手ではなかった気がするが、\n"
+"　少しは現実と向き合ってくれるようだな……）"
+msgstr ""
+
+msgctxt "42813"
+msgid "内太郎……　ちょっとそこに立て。"
+msgstr ""
+
+msgctxt "42846"
+msgid "えっ、なんで？"
+msgstr ""
+
+msgctxt "42861"
+msgid "一発殴って根性を叩きなおそうと思ってな。"
+msgstr ""
+
+msgctxt "42902"
+msgid ""
+"えっ、えっ、なんでだよ！\n"
+"やだよ！　痛いよ！"
+msgstr ""
+
+msgctxt "42947"
+msgid "これもお前のためだ……"
+msgstr ""
+
+msgctxt "42970"
+msgid ""
+"殴られた痛みでお前の中の何かが目覚め\n"
+"そのひねくれた根性も治るはずだ。"
+msgstr ""
+
+msgctxt "43041"
+msgid "何言ってんだこいつ！　考え方が危ないんだけど!?"
+msgstr ""
+
+msgctxt "43088"
+msgid "そ、そうか……？"
+msgstr ""
+
+msgctxt "43105"
+msgid ""
+"自分で言うのもなんだけどさ、\n"
+"そういうのは俺みたいなひねくれ者には\n"
+"逆効果じゃないの？"
+msgstr ""
+
+msgctxt "43192"
+msgid "…………"
+msgstr ""
+
+msgctxt "43201"
+msgid ""
+"はぁー、斎藤さんしっかりしてくださいよ。\n"
+"仮にもうちの母親から俺のこと任されてるんでしょ？"
+msgstr ""
+
+msgctxt "43292"
+msgid ""
+"そんなんでどうするんですか。\n"
+"殴るって何なんですか。"
+msgstr ""
+
+msgctxt "43345"
+msgid ""
+"そんな単純なことで解決するもんなら\n"
+"俺なんてとっくの昔に家の外、出てますよ。"
+msgstr ""
+
+msgctxt "43422"
+msgid "……たしかに。"
+msgstr ""
+
+msgctxt "43437"
+msgid "（ちからわざはあまりよくないみたいだな……）"
+msgstr ""
+
+msgctxt "43482"
+msgid "（さて、ここからどうするか……）"
+msgstr ""
+
+msgctxt "43515"
+msgid ""
+"（勝負に出るなら今だ。\n"
+"　もっと深く、内太郎と言う男に踏み込んでみよう）"
+msgstr ""
+
+msgctxt "43588"
+msgid "……おい、立て。"
+msgstr ""
+
+msgctxt "43605"
+msgid "えっ。何ですか。"
+msgstr ""
+
+msgctxt "43622"
+msgid "今から外へ行くぞ。"
+msgstr ""
+
+msgctxt "43641"
+msgid "何言ってんの！　い、嫌ですよ！"
+msgstr ""
+
+msgctxt "43672"
+msgid ""
+"多少荒療治になるが……\n"
+"引きこもりのお前を外に連れ出すためだ。\n"
+"これしか方法がないだろう。"
+msgstr ""
+
+msgctxt "43763"
+msgid ""
+"いや、あるある！\n"
+"他にも方法多分ありますよ、きっと！"
+msgstr ""
+
+msgctxt "43816"
+msgid ""
+"……えっとですね、そもそも俺を外に連れ出すのって\n"
+"そういう物理的な問題じゃないでしょう？"
+msgstr ""
+
+msgctxt "43905"
+msgid ""
+"斎藤さん、あなたが俺を外に連れ出したとします。\n"
+"それでいったいどうなるんですか？"
+msgstr ""
+
+msgctxt "43986"
+msgid ""
+"あなたが帰った後、明日以降、\n"
+"俺が引きこもりから脱却して、\n"
+"自分からすすんで外に出るかって話ですよ。"
+msgstr ""
+
+msgctxt "44087"
+msgid "そういうことじゃないでしょう？"
+msgstr ""
+
+msgctxt "44118"
+msgid "（正論だな……）"
+msgstr ""
+
+msgctxt "44135"
+msgid ""
+"（まさか引きこもりの男に説教されるとは……\n"
+"　ここから挽回できるのか？）"
+msgstr ""
+
+msgctxt "44208"
+msgid ""
+"（厳しく強制するよりも、優しく諭すだけの方が\n"
+"　時に効果的な場合もある……）"
+msgstr ""
+
+msgctxt "44285"
+msgid "（よし……　情に訴えかけてみよう）"
+msgstr ""
+
+msgctxt "44320"
+msgid ""
+"内太郎……\n"
+"お前もじゅうぶん知ってることだとは思うが……"
+msgstr ""
+
+msgctxt "44377"
+msgid "な、なんですか。"
+msgstr ""
+
+msgctxt "44394"
+msgid "……親御さん、お前のこと心配してたぞ。"
+msgstr ""
+
+msgctxt "44433"
+msgid "そ、そんなこと……　もちろん知ってますよ……"
+msgstr ""
+
+msgctxt "44478"
+msgid ""
+"いい母親を持ったな。よその家なら\n"
+"とっくに愛想を尽かされてもおかしくない。"
+msgstr ""
+
+msgctxt "44553"
+msgid ""
+"……それでもお前の母親は、お前のことを\n"
+"いつだって一番に心配しているようだった。"
+msgstr ""
+
+msgctxt "44634"
+msgid "…………"
+msgstr ""
+
+msgctxt "44643"
+msgid "すぐに外に出ていけとは言わない。"
+msgstr ""
+
+msgctxt "44676"
+msgid ""
+"だが、自分がやりたいことを探すくらいは\n"
+"してみたらどうだ？　お母さん、喜ぶぞ。"
+msgstr ""
+
+msgctxt "44755"
+msgid "お、俺……"
+msgstr ""
+
+msgctxt "44766"
+msgid ""
+"そ、そりゃあ俺だって、できることなら\n"
+"母さんに何かしてあげたいですよ……"
+msgstr ""
+
+msgctxt "44839"
+msgid ""
+"働いて金稼いで、今まで世話になったぶん、\n"
+"めいっぱい親孝行してやりたい！\n"
+"そうは思いますけど……"
+msgstr ""
+
+msgctxt "44936"
+msgid "……無理なんですよ。"
+msgstr ""
+
+msgctxt "44957"
+msgid "何？"
+msgstr ""
+
+msgctxt "44962"
+msgid "そんなの、俺には、できないんですよ……"
+msgstr ""
+
+msgctxt "45001"
+msgid "…………"
+msgstr ""
+
+msgctxt "45010"
+msgid ""
+"（情に訴えかけるのはうまくいったようだが、\n"
+"　それ以前にこの男、何か問題があるようだな……）"
+msgstr ""
+
+msgctxt "45103"
+msgid "（最終的に、前へ踏み出すのは内太郎自身だ）"
+msgstr ""
+
+msgctxt "45146"
+msgid ""
+"（劣等感の塊のようなこの男に、\n"
+"　自分にも何かできると、\n"
+"　そう自信をつけさせることができれば……）"
+msgstr ""
+
+msgctxt "45247"
+msgid "内太郎、お前には得意なことはないのか？"
+msgstr ""
+
+msgctxt "45286"
+msgid "へ？　得意なこと……？"
+msgstr ""
+
+msgctxt "45309"
+msgid "あぁ、ひとつくらいあるだろう。"
+msgstr ""
+
+msgctxt "45340"
+msgid "……得意なことか、そうだな。"
+msgstr ""
+
+msgctxt "45369"
+msgid ""
+"ひとつくらいある……　いや、あったな。\n"
+"ハハ、誰にも負けないくらいの、あったよ。"
+msgstr ""
+
+msgctxt "45450"
+msgid "それはすごいな。いったい何なんだ？"
+msgstr ""
+
+msgctxt "45485"
+msgid "……あんまり、言いたくない。"
+msgstr ""
+
+msgctxt "45514"
+msgid "……？　そうなのか？"
+msgstr ""
+
+msgctxt "45535"
+msgid "ちょっと……　色々あってさ。"
+msgstr ""
+
+msgctxt "45564"
+msgid "そうか……　無理には聞かないことにしよう。"
+msgstr ""
+
+msgctxt "45607"
+msgid ""
+"……だがな、\n"
+"誰にも負けないと思える何かがあるということは\n"
+"それだけでじゅうぶん武器になる。"
+msgstr ""
+
+msgctxt "45700"
+msgid ""
+"もしお前が、自分には何もできないと\n"
+"思い込んでいるのなら、それは大きな間違いだ。"
+msgstr ""
+
+msgctxt "45781"
+msgid "お前ならきっと大丈夫だ。自分に自信を持て。"
+msgstr ""
+
+msgctxt "45824"
+msgid ""
+"斎藤さん……　ありがとう。\n"
+"そんなこと、俺、久しぶりに言われた。嬉しいよ。"
+msgstr ""
+
+msgctxt "45899"
+msgid ""
+"俺の武器……\n"
+"俺の自信……　かぁ。"
+msgstr ""
+
+msgctxt "45934"
+msgid ""
+"（内太郎が前を向いて歩きだそうとしている……\n"
+"　どうやらうまくいったようだ）"
+msgstr ""
+
+msgctxt "46011"
+msgid ""
+"……実は小さい頃、\n"
+"俺、剣が好きだったんですよ。"
+msgstr ""
+
+msgctxt "46060"
+msgid "……！"
+msgstr ""
+
+msgctxt "46067"
+msgid ""
+"毎日剣を振って……　少し才もあったんでしょうね、\n"
+"自分でもわかるくらいどんどん上達していきました。"
+msgstr ""
+
+msgctxt "46166"
+msgid ""
+"道場で開かれた大会では\n"
+"結構いい成績、残したこともあるんすよ。"
+msgstr ""
+
+msgctxt "46229"
+msgid "ほう、それはすごいな。"
+msgstr ""
+
+msgctxt "46252"
+msgid ""
+"長男じゃないから家は継げないってわかってたけど\n"
+"将来は何か剣に関わる仕事をしたいって\n"
+"本気で思ってたんです。"
+msgstr ""
+
+msgctxt "46361"
+msgid "……あの時までは。"
+msgstr ""
+
+msgctxt "46380"
+msgid "あの時？"
+msgstr ""
+
+msgctxt "46389"
+msgid "……目の前で人が斬り殺されたんです。"
+msgstr ""
+
+msgctxt "46426"
+msgid "……！"
+msgstr ""
+
+msgctxt "46433"
+msgid ""
+"死んだのは、斬られて当然の悪党でした。\n"
+"逃亡中のところを、背中から同心に斬られたんです。"
+msgstr ""
+
+msgctxt "46522"
+msgid "その時、初めて人が死ぬ瞬間を見ました。"
+msgstr ""
+
+msgctxt "46561"
+msgid ""
+"どんどん流れてく血と、生気を失っていく体を見て\n"
+"俺、すごく怖くなって……"
+msgstr ""
+
+msgctxt "46634"
+msgid "……それと同時に思ったんです。"
+msgstr ""
+
+msgctxt "46665"
+msgid ""
+"俺が一心不乱に振ってた剣ってやつは\n"
+"人の命を奪うためにあったんだなって。"
+msgstr ""
+
+msgctxt "46738"
+msgid "……気付いたら何もする気がおきなくなってました。"
+msgstr ""
+
+msgctxt "46787"
+msgid ""
+"そんで、いつの間にか部屋住みとして\n"
+"だらだらと暮らすようになってたんです……"
+msgstr ""
+
+msgctxt "46864"
+msgid "……もう剣は握らないのか？"
+msgstr ""
+
+msgctxt "46891"
+msgid "……はい。"
+msgstr ""
+
+msgctxt "46902"
+msgid ""
+"剣じゃなくても……　他のことでもいいから\n"
+"何か頑張らないといけないとは思うんですけどね。"
+msgstr ""
+
+msgctxt "46991"
+msgid "……駄目なんですよ。"
+msgstr ""
+
+msgctxt "47012"
+msgid ""
+"何かにやる気を出した瞬間、\n"
+"目の前で悪党が死んでいく光景が蘇って\n"
+"力が抜けちゃうんです……"
+msgstr ""
+
+msgctxt "47103"
+msgid ""
+"剣を握るなんて、もってのほか。\n"
+"……俺には一生部屋住みがお似合いなんですよ。"
+msgstr ""
+
+msgctxt "47180"
+msgid "…………"
+msgstr ""
+
+msgctxt "47189"
+msgid ""
+"ハハハ……\n"
+"俺がどうしようもない奴ってこと、わかりました？"
+msgstr ""
+
+msgctxt "47248"
+msgid "今日はわざわざ来てくれてありがとうございます。"
+msgstr ""
+
+msgctxt "47295"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47296"
+msgid ""
+"斎藤さんと話せてよかったです。\n"
+"今の自分から変わりたいって、本気で思いました。\n"
+"でも……　やっぱり俺には……"
+msgstr ""
+
+msgctxt "47405"
+msgid ""
+"斎藤さんと話せてよかったです。\n"
+"何となく俺、今のままじゃいけないって思いました。\n"
+"でも……　やっぱり俺には……"
+msgstr ""
+
+msgctxt "47516"
+msgid ""
+"正直言ってめちゃくちゃで、空回りしてましたけど\n"
+"俺のために頑張ってくれようとしたことは\n"
+"わかりました。　それでも、俺は……"
+msgstr ""
+
+msgctxt "47639"
+msgid "お願いだからもう帰ってください。"
+msgstr ""
+
+msgctxt "47672"
+msgid "帰ってくださいよっ……!!"
+msgstr ""
+
+msgctxt "47697"
+msgid "…………"
+msgstr ""
+
+msgctxt "47706"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53752"
+msgid "内太郎の母親"
+msgstr ""
+
+msgctxt "53765"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "53776"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "53787"
+msgid "内太郎"
+msgstr ""
+
+msgctxt "53794"
+msgid "Player"
+msgstr ""
+
+msgctxt "53801"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "53810"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "53821"
+msgid "ADV_M_BUS_STAND"
+msgstr ""
+
+msgctxt "53837"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "53859"
+msgid "M_BUS_TLK_btl_aft_nw_04_en"
+msgstr ""
+
+msgctxt "53886"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "53898"
+msgid "ADV_M_BUS_SEIZA"
+msgstr ""
+
+msgctxt "53914"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "53925"
+msgid "ADV_P_KRU_AGURA"
+msgstr ""
+
+msgctxt "53941"
+msgid "kaiwabgm_sub_apathy_04"
+msgstr ""
+
+msgctxt "53964"
+msgid "いつも何をしているんだ？"
+msgstr ""
+
+msgctxt "53989"
+msgid "友達はいるのか？"
+msgstr ""
+
+msgctxt "54006"
+msgid "好きなことは？"
+msgstr ""
+
+msgctxt "54021"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "54032"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "54040"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "54050"
+msgid "まずは何気ない会話で打ち解ける"
+msgstr ""
+
+msgctxt "54081"
+msgid "将来について不安を煽る"
+msgstr ""
+
+msgctxt "54104"
+msgid "一発殴る"
+msgstr ""
+
+msgctxt "54113"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "54125"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "54147"
+msgid "P_KRU_TLK_agura_to_stand"
+msgstr ""
+
+msgctxt "54172"
+msgid "P_KRU_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "54194"
+msgid "P_KRU_TLK_stand_to_agura"
+msgstr ""
+
+msgctxt "54219"
+msgid "Talk_Sad"
+msgstr ""
+
+msgctxt "54228"
+msgid "ADV_P_KRU_STAND"
+msgstr ""
+
+msgctxt "54244"
+msgid "強引に外へ連れ出す"
+msgstr ""
+
+msgctxt "54263"
+msgid "情に訴えかける"
+msgstr ""
+
+msgctxt "54278"
+msgid "自信をつけさせる"
+msgstr ""
+
+msgctxt "54295"
+msgid "M_BUS_TLK_seiza_to_stand"
+msgstr ""

@@ -1,0 +1,812 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "564"
+msgid "京の町に突如として現れた"
+msgstr ""
+
+msgctxt "708"
+msgid "“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "852"
+msgid "英国の武器商人から"
+msgstr ""
+
+msgctxt "996"
+msgid "大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "1140"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "1284"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "1428"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "1572"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "1716"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "1860"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "2004"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "2148"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "2292"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "2724"
+msgid "京の町に突如として現れた"
+msgstr ""
+
+msgctxt "2868"
+msgid "“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "3012"
+msgid "英国の武器商人から"
+msgstr ""
+
+msgctxt "3156"
+msgid "大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "3300"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "3444"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "3588"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "3732"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "3876"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "4020"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "4164"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "4308"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "4452"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "4884"
+msgid ""
+"京の町に突如として現れた\r\n"
+"“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "5028"
+msgid "英国の武器商人から"
+msgstr ""
+
+msgctxt "5172"
+msgid "大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "5316"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "5460"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "5604"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "5748"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "5892"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "6036"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "6180"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "6324"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "6468"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "6900"
+msgid "京の町に突如として現れた"
+msgstr ""
+
+msgctxt "7044"
+msgid "“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "7188"
+msgid "英国の武器商人から"
+msgstr ""
+
+msgctxt "7332"
+msgid "大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "7476"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "7620"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "7764"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "7908"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "8052"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "8196"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "8340"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "8484"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "8628"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "9060"
+msgid ""
+"京の町に突如として現れた\r\n"
+"“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "9204"
+msgid "英国の武器商人から"
+msgstr ""
+
+msgctxt "9348"
+msgid "大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "9492"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "9636"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "9780"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "9924"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "10068"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "10212"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "10356"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "10500"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "10644"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "11076"
+msgid "京の町に突如として現れた"
+msgstr ""
+
+msgctxt "11220"
+msgid "“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "11364"
+msgid ""
+"英国の武器商人から\r\n"
+"大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "11508"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "11652"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "11796"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "11940"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "12084"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "12228"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "12372"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "12516"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "12660"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "13092"
+msgid "京の町に突如として現れた"
+msgstr ""
+
+msgctxt "13236"
+msgid "“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "13380"
+msgid "英国の武器商人から"
+msgstr ""
+
+msgctxt "13524"
+msgid "大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "13668"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "13812"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "13956"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "14100"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "14244"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "14388"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "14532"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "14676"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "14820"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "15252"
+msgid "京の町に突如として現れた"
+msgstr ""
+
+msgctxt "15396"
+msgid "“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "15540"
+msgid "英国の武器商人から"
+msgstr ""
+
+msgctxt "15684"
+msgid "大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "15828"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "15972"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "16116"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "16260"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "16404"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "16548"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "16692"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "16836"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "16980"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "17412"
+msgid ""
+"京の町に突如として現れた\r\n"
+"“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "17556"
+msgid ""
+"英国の武器商人から\r\n"
+"大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "17700"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "17844"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "17988"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "18132"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "18276"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "18420"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "18564"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "18708"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "18852"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "19284"
+msgid "京の町に突如として現れた"
+msgstr ""
+
+msgctxt "19428"
+msgid "“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "19572"
+msgid "英国の武器商人から"
+msgstr ""
+
+msgctxt "19716"
+msgid "大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "19860"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "20004"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "20148"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "20292"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "20436"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "20580"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "20724"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "20868"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "21012"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "21444"
+msgid "京の町に突如として現れた"
+msgstr ""
+
+msgctxt "21588"
+msgid "“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "21732"
+msgid ""
+"英国の武器商人から\r\n"
+"大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "21876"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "22020"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "22164"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "22308"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "22452"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "22596"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "22740"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "22884"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "23028"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "23460"
+msgid "京の町に突如として現れた"
+msgstr ""
+
+msgctxt "23604"
+msgid "“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "23748"
+msgid "英国の武器商人から"
+msgstr ""
+
+msgctxt "23892"
+msgid "大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "24036"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "24180"
+msgid ""
+"一方　ついに龍馬の前に\r\n"
+"姿を現した新選組局長"
+msgstr ""
+
+msgctxt "24324"
+msgid ""
+"近藤勇は京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "24468"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "24612"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "24756"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "24900"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "25044"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "25188"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "25620"
+msgid "京の町に突如として現れた"
+msgstr ""
+
+msgctxt "25764"
+msgid "“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "25908"
+msgid "英国の武器商人から"
+msgstr ""
+
+msgctxt "26052"
+msgid "大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "26196"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "26340"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "26484"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "26628"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "26772"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "26916"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "27060"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "27204"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "27348"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""
+
+msgctxt "27780"
+msgid "京の町に突如として現れた"
+msgstr ""
+
+msgctxt "27924"
+msgid "“もう一人の坂本龍馬”"
+msgstr ""
+
+msgctxt "28068"
+msgid "英国の武器商人から"
+msgstr ""
+
+msgctxt "28212"
+msgid "大量の武器を倒幕派へと流すその動きは"
+msgstr ""
+
+msgctxt "28356"
+msgid "幕末の動乱にさらなる風雲を呼び寄せる"
+msgstr ""
+
+msgctxt "28500"
+msgid ""
+"一方　ついに龍馬の前に姿を現した\r\n"
+"新選組局長　近藤勇は"
+msgstr ""
+
+msgctxt "28644"
+msgid ""
+"京を焼き尽くすという\r\n"
+"「江戸遷都計画」をひそかに進めていた"
+msgstr ""
+
+msgctxt "28788"
+msgid "近藤は龍馬の腕を見込んで"
+msgstr ""
+
+msgctxt "28932"
+msgid "計画への加担を要求する"
+msgstr ""
+
+msgctxt "29076"
+msgid "その見返りは"
+msgstr ""
+
+msgctxt "29220"
+msgid ""
+"吉田東洋を暗殺した\r\n"
+"あの「覆面の男」の正体"
+msgstr ""
+
+msgctxt "29364"
+msgid "だが　龍馬は決意する"
+msgstr ""
+
+msgctxt "29508"
+msgid "己のその手で覆面の素顔を暴きだすことを"
+msgstr ""

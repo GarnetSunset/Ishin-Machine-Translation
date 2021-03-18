@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "404"
+msgid "ああ　ただ逃げるんなら気をつけて行け"
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"表に藤堂が待機してる\n"
+"静かに裏口から逃げるんだな"
+msgstr ""
+
+msgctxt "692"
+msgid "ホント！？"
+msgstr ""
+
+msgctxt "836"
+msgid "やった！　美月ちゃん　行こう！"
+msgstr ""
+
+msgctxt "980"
+msgid "え？　ちょ　私は……"
+msgstr ""
+
+msgctxt "1124"
+msgid "ほら早く　コイツの気が変わらないうちに"
+msgstr ""
+
+msgctxt "1268"
+msgid ""
+"でも私がここから\n"
+"足抜けできるワケないじゃない！"
+msgstr ""
+
+msgctxt "1412"
+msgid ""
+"そんなことどうにでもなるって！\n"
+"さあ早く……"
+msgstr ""
+
+msgctxt "1556"
+msgid "おい"
+msgstr ""
+
+msgctxt "1700"
+msgid "きゃぁああああ！！"
+msgstr ""
+
+msgctxt "1844"
+msgid "おっと　ばっちぃ"
+msgstr ""
+
+msgctxt "1988"
+msgid "血の汚れって洗っても取れにくいんですよねぇ"
+msgstr ""
+
+msgctxt "2132"
+msgid "藤堂　なぜ斬った！？"
+msgstr ""
+
+msgctxt "2276"
+msgid ""
+"なぜって？\n"
+"え？　俺なんか悪いことしました？"
+msgstr ""
+
+msgctxt "2420"
+msgid "殺す必要はなかった"
+msgstr ""
+
+msgctxt "2564"
+msgid ""
+"この男を逃がしたところで\n"
+"新選組に不利益になることなどひとつもないはずだ！"
+msgstr ""
+
+msgctxt "2708"
+msgid "いや……"
+msgstr ""
+
+msgctxt "2852"
+msgid "そりゃあ　ちょっと違うなぁ"
+msgstr ""
+
+msgctxt "2996"
+msgid "そんなんだったら隊は明日にも潰れちまう"
+msgstr ""
+
+msgctxt "3140"
+msgid ""
+"そんな“まとも”なこと言う人だったんですか？\n"
+"斎藤さんて"
+msgstr ""
+
+msgctxt "3284"
+msgid "何だと？"
+msgstr ""
+
+msgctxt "3428"
+msgid ""
+"そもそも新選組　それにこの京の街自体が\n"
+"まともじゃないんですよ"
+msgstr ""
+
+msgctxt "3572"
+msgid "勤王だってだけで俺らに殺されたり"
+msgstr ""
+
+msgctxt "3716"
+msgid ""
+"逆にそれを追ってる俺らも\n"
+"殺されたりするような場所なんです　ここは"
+msgstr ""
+
+msgctxt "3860"
+msgid "京の街　いや……"
+msgstr ""
+
+msgctxt "4004"
+msgid "時代そのものが狂ってるんですよ"
+msgstr ""
+
+msgctxt "4148"
+msgid ""
+"そんなところで\n"
+"まともなこと言っても通用しない　でしょ？"
+msgstr ""
+
+msgctxt "4292"
+msgid "脱走者は死罪……"
+msgstr ""
+
+msgctxt "4436"
+msgid ""
+"その狂った法度が　狂った時代に生きてる\n"
+"俺らを繋ぎとめてくれている　ってことです"
+msgstr ""
+
+msgctxt "4580"
+msgid "じゃあお前は……"
+msgstr ""
+
+msgctxt "4724"
+msgid ""
+"そこまで分かっていてなお\n"
+"殺すというのか"
+msgstr ""
+
+msgctxt "4868"
+msgid "殺しますよ　俺は"
+msgstr ""
+
+msgctxt "5012"
+msgid "そうやって最後は誰もいなくなればいい"
+msgstr ""
+
+msgctxt "5156"
+msgid ""
+"そうなれば世の中も\n"
+"少しは落ち着くってもんじゃないですかね"
+msgstr ""
+
+msgctxt "5300"
+msgid "あ　いやいや　今のはただのボヤきです"
+msgstr ""
+
+msgctxt "5444"
+msgid "いやぁ疲れますよね　隊長ってのも"
+msgstr ""
+
+msgctxt "5588"
+msgid "藤堂　お前……"
+msgstr ""
+
+msgctxt "5732"
+msgid ""
+"さてと　仕事も終わったし\n"
+"俺先に上がりますね　じゃ"
+msgstr ""
+
+msgctxt "5876"
+msgid ""
+"ああ　そうだ\n"
+"ひとつ言い忘れてました"
+msgstr ""
+
+msgctxt "6020"
+msgid ""
+"斎藤さんマジメそうだから\n"
+"先に言っておきますけど"
+msgstr ""
+
+msgctxt "6164"
+msgid "あんまり深く考えない方がいいですよ？"
+msgstr ""
+
+msgctxt "6308"
+msgid "何をだ"
+msgstr ""
+
+msgctxt "6452"
+msgid ""
+"裏口にも　ウチの隊の隊士\n"
+"張り付かせてましたから"
+msgstr ""
+
+msgctxt "6596"
+msgid ""
+"彼がコッソリ裏から逃げてたとしても\n"
+"どっちにしろ殺されてたって話っす"
+msgstr ""
+
+msgctxt "6740"
+msgid "「脱走は許さず」……"
+msgstr ""
+
+msgctxt "6884"
+msgid "それが新選組の掟ですから"
+msgstr ""
+
+msgctxt "7028"
+msgid "それじゃ"
+msgstr ""
+
+msgctxt "7172"
+msgid "あーあ　汚れちゃったよ早く風呂入んなきゃ"
+msgstr ""
+
+msgctxt "7316"
+msgid "これが……"
+msgstr ""
+
+msgctxt "7460"
+msgid "新選組……！"
+msgstr ""

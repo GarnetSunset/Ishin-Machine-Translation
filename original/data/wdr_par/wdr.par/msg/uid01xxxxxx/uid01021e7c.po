@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3064"
+msgid "（あの女……　見透かしたような事を言う……）"
+msgstr ""
+
+msgctxt "3109"
+msgid ""
+"（……今は酒が飲めるならそれでいい。\n"
+"　蔵町の「松之井」だったか……　行ってみるか）"
+msgstr ""
+
+msgctxt "3194"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3195"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3196"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3197"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3198"
+msgid "旦那はん、よぉ飲まれますなぁ。"
+msgstr ""
+
+msgctxt "3229"
+msgid "……"
+msgstr ""
+
+msgctxt "3234"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3235"
+msgid ""
+"……せやけど、いい飲みっぷりとは言えまへん。\n"
+"そないな飲み方したら、お酒が泣きますえ。"
+msgstr ""
+
+msgctxt "3322"
+msgid "……"
+msgstr ""
+
+msgctxt "3327"
+msgid ""
+"今宵はもう少し静かな場所で\n"
+"飲みたいんやないんどすか？"
+msgstr ""
+
+msgctxt "3382"
+msgid "うち、ええお店知ってますけど。"
+msgstr ""
+
+msgctxt "3413"
+msgid "……"
+msgstr ""
+
+msgctxt "3418"
+msgid ""
+"蔵町にある松之井という小さなお店どす……\n"
+"うち、そこでお待ちしてます。"
+msgstr ""
+
+msgctxt "3489"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3490"
+msgid "待て。お前何者だ。"
+msgstr ""
+
+msgctxt "3509"
+msgid ""
+"お店に来てくれはったら、教えてあげます。\n"
+"ほな。"
+msgstr ""
+
+msgctxt "3558"
+msgid "……"
+msgstr ""
+
+msgctxt "3563"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4120"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "4125"
+msgid "謎の女"
+msgstr ""
+
+msgctxt "4132"
+msgid "iku_c09_030_01"
+msgstr ""
+
+msgctxt "4147"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "4158"
+msgid "iku_c09_030_02"
+msgstr ""
+
+msgctxt "4173"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "4184"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "4195"
+msgid "iku_c09_030_03"
+msgstr ""
+
+msgctxt "4210"
+msgid "iku_c09_030_03b"
+msgstr ""
+
+msgctxt "4226"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "4237"
+msgid "iku_c09_030_04"
+msgstr ""
+
+msgctxt "4252"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "4263"
+msgid "kiryu_c09_030_04"
+msgstr ""
+
+msgctxt "4280"
+msgid "iku_c09_030_05"
+msgstr ""
+
+msgctxt "4295"
+msgid "TLK_SCN007"
+msgstr ""

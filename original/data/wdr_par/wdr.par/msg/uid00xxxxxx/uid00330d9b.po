@@ -1,0 +1,449 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "10024"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10025"
+msgid ""
+"（駕籠賃が払えそうにない。\n"
+"　５５０文稼ぐか……）"
+msgstr ""
+
+msgctxt "10076"
+msgid ""
+"駕籠賃５５０文になります。\n"
+"どちらまで行かれますか？"
+msgstr ""
+
+msgctxt "10129"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10130"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10131"
+msgid ""
+"……ってお客さん\n"
+"お金持ってないやないですか……\n"
+"たのんますわ。"
+msgstr ""
+
+msgctxt "10196"
+msgid ""
+"おおきに。\n"
+"さあ、行くで。"
+msgstr ""
+
+msgctxt "10223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10225"
+msgid "また、よろしゅうお願いしますわ。"
+msgstr ""
+
+msgctxt "10258"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10259"
+msgid ""
+"（駕籠賃が払えそうにない。\n"
+"　５５０文稼ぐか……）"
+msgstr ""
+
+msgctxt "10310"
+msgid ""
+"駕籠賃５５０文になります。\n"
+"どちらまで行かれますか？"
+msgstr ""
+
+msgctxt "10363"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10364"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10365"
+msgid ""
+"……ってお客さん\n"
+"お金持ってないやないですか……\n"
+"たのんますわ。"
+msgstr ""
+
+msgctxt "10430"
+msgid ""
+"おおきに。\n"
+"さあ、行くで。"
+msgstr ""
+
+msgctxt "10457"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10458"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10459"
+msgid "また、よろしゅうお願いしますわ。"
+msgstr ""
+
+msgctxt "10492"
+msgid ""
+"ダンナ。賊、退治してくれて\n"
+"ほんまに、ほんまにありがとうございます！"
+msgstr ""
+
+msgctxt "10561"
+msgid ""
+"フッ、礼を言われる筋合いはない。\n"
+"俺はただ、自分の身を守っただけだ。"
+msgstr ""
+
+msgctxt "10630"
+msgid "またまたぁ～、そんなこと言っちゃって！"
+msgstr ""
+
+msgctxt "10669"
+msgid ""
+"あっしらだけやない……\n"
+"あいつらにはみんな迷惑しとりましたからね。\n"
+"駕籠屋全員大喜びですわ。"
+msgstr ""
+
+msgctxt "10762"
+msgid ""
+"……というわけで、斎藤のダンナ。\n"
+"御礼に、ダンナがよくいく場所に、\n"
+"あっしら、駕籠かきを駐在させることにしやした。"
+msgstr ""
+
+msgctxt "10877"
+msgid "何？　そんなこといいのか？"
+msgstr ""
+
+msgctxt "10904"
+msgid ""
+"そりゃもう！　ダンナは駕籠屋全員の恩人やさかい！\n"
+"……あ、もちろんお金はいただきますけどね。"
+msgstr ""
+
+msgctxt "10997"
+msgid ""
+"ふ。ちゃっかりしている……\n"
+"だが、助かる。"
+msgstr ""
+
+msgctxt "11040"
+msgid "今後ともご贔屓に！"
+msgstr ""
+
+msgctxt "11059"
+msgid "駕籠屋で行ける場所に「洛外」が追加されました。"
+msgstr ""
+
+msgctxt "11106"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11107"
+msgid ""
+"（駕籠賃が払えそうにない。\n"
+"　５５０文稼ぐか……）"
+msgstr ""
+
+msgctxt "11158"
+msgid ""
+"駕籠賃５５０文になります。\n"
+"どちらまで行かれますか？"
+msgstr ""
+
+msgctxt "11211"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11212"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11213"
+msgid ""
+"……ってお客さん\n"
+"お金持ってないやないですか……\n"
+"たのんますわ。"
+msgstr ""
+
+msgctxt "11278"
+msgid ""
+"分かりました。\n"
+"そしたら、出発しまっせ。"
+msgstr ""
+
+msgctxt "11319"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11320"
+msgid ""
+"分かりました。\n"
+"そしたら、出発しまっせ。"
+msgstr ""
+
+msgctxt "11361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11362"
+msgid ""
+"分かりました。\n"
+"そしたら、出発しまっせ。"
+msgstr ""
+
+msgctxt "11403"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11404"
+msgid "また、よろしゅうお願いしますわ。"
+msgstr ""
+
+msgctxt "11437"
+msgid "ふぅー、なんとか無事着くことができたなぁ。"
+msgstr ""
+
+msgctxt "11480"
+msgid "ん？　何か不安なことでもあったのか？"
+msgstr ""
+
+msgctxt "11517"
+msgid ""
+"いえね、最近この辺りに賊が出るって話なんですわ。\n"
+"それも……　駕籠屋ばかり狙う賊が。"
+msgstr ""
+
+msgctxt "11602"
+msgid "駕籠屋ばかりを狙う賊？"
+msgstr ""
+
+msgctxt "11625"
+msgid ""
+"えぇ。駕籠かきにとっちゃいい迷惑ですわほんま。\n"
+"そんな賊おったら、怖くてお客さん減りますさかい。"
+msgstr ""
+
+msgctxt "11722"
+msgid ""
+"たしかにそうだな。\n"
+"……お前らも気をつけろよ。"
+msgstr ""
+
+msgctxt "11769"
+msgid ""
+"ダンナぁ、心配してくれるんですか！　おおきに！\n"
+"賊に負けずに頑張りますんで、今後ともご贔屓に！"
+msgstr ""
+
+msgctxt "11864"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11865"
+msgid ""
+"（駕籠賃が払えそうにない。\n"
+"　５５０文稼ぐか……）"
+msgstr ""
+
+msgctxt "11916"
+msgid ""
+"駕籠賃５５０文になります。\n"
+"どちらまで行かれますか？"
+msgstr ""
+
+msgctxt "11969"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11970"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11971"
+msgid ""
+"……ってお客さん\n"
+"お金持ってないやないですか……\n"
+"たのんますわ。"
+msgstr ""
+
+msgctxt "12036"
+msgid ""
+"おおきに。\n"
+"さあ、行くで。"
+msgstr ""
+
+msgctxt "12063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12065"
+msgid "また、よろしゅうお願いしますわ。"
+msgstr ""
+
+msgctxt "12098"
+msgid "お侍のダンナ。到着しましたぜ。"
+msgstr ""
+
+msgctxt "12129"
+msgid "ずいぶん早いんだな。"
+msgstr ""
+
+msgctxt "12150"
+msgid ""
+"これくらい朝飯前ですわ。\n"
+"毎日足腰鍛えてますさかい。"
+msgstr ""
+
+msgctxt "12203"
+msgid ""
+"頼もしいな。\n"
+"……また利用させてもらおう。"
+msgstr ""
+
+msgctxt "12246"
+msgid "毎度どうも！　今後ともご贔屓に！"
+msgstr ""
+
+msgctxt "12279"
+msgid ""
+"「駕籠屋」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「駕籠屋」と交流してみましょう。"
+msgstr ""
+
+msgctxt "12488"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12489"
+msgid ""
+"（駕籠賃が払えそうにない。\n"
+"　５５０文稼ぐか……）"
+msgstr ""
+
+msgctxt "12540"
+msgid ""
+"駕籠賃５５０文になります。\n"
+"どちらまで行かれますか？"
+msgstr ""
+
+msgctxt "12593"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12594"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12595"
+msgid ""
+"……ってお客さん\n"
+"お金持ってないやないですか……\n"
+"たのんますわ。"
+msgstr ""
+
+msgctxt "12660"
+msgid ""
+"おおきに。\n"
+"さあ、行くで。"
+msgstr ""
+
+msgctxt "12687"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12688"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12689"
+msgid "また、よろしゅうお願いしますわ。"
+msgstr ""
+
+msgctxt "13256"
+msgid "Player"
+msgstr ""
+
+msgctxt "13263"
+msgid "駕籠かき"
+msgstr ""
+
+msgctxt "13272"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13278"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13289"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "13294"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13305"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13313"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "13324"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "13334"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "13343"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "13354"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13363"
+msgid "駕籠屋との絆"
+msgstr ""

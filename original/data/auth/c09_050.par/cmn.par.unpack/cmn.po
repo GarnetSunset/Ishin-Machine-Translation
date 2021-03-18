@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "673140"
+msgid "龍馬さん"
+msgstr ""
+
+msgctxt "673284"
+msgid ""
+"捨て鉢になったって\n"
+"何にもなりゃしないよ"
+msgstr ""
+
+msgctxt "673428"
+msgid "龍馬さん？"
+msgstr ""
+
+msgctxt "673572"
+msgid "おいおい　志の低い連中だねどうも"
+msgstr ""
+
+msgctxt "673716"
+msgid "あーちょっと　君たち？"
+msgstr ""
+
+msgctxt "673860"
+msgid "食らえ！　幕府の犬め！"
+msgstr ""
+
+msgctxt "674004"
+msgid "何だてめえは！？　それにその髪の色……"
+msgstr ""
+
+msgctxt "674148"
+msgid "さては貴様　夷狄の子だなぁ！？"
+msgstr ""
+
+msgctxt "674292"
+msgid "うぶぅわッ！！"
+msgstr ""
+
+msgctxt "674436"
+msgid "よっちゃん！？"
+msgstr ""
+
+msgctxt "674580"
+msgid "なにすんだてめえ！"
+msgstr ""
+
+msgctxt "674724"
+msgid "ワシは今日大変な一日でのう"
+msgstr ""
+
+msgctxt "674868"
+msgid "すこぶる機嫌が悪いんや"
+msgstr ""
+
+msgctxt "675012"
+msgid "あぁ！？"
+msgstr ""
+
+msgctxt "675156"
+msgid "運がなかったのう　お前ら"
+msgstr ""
+
+msgctxt "675300"
+msgid "は！　粋がりおって！"
+msgstr ""
+
+msgctxt "675444"
+msgid "やっちまえ！！"
+msgstr ""
+
+msgctxt "675588"
+msgid "おいおい　機嫌が悪いからってまさか……"
+msgstr ""
+
+msgctxt "675732"
+msgid "おおおおお可愛いやっちゃのう～！！"
+msgstr ""
+
+msgctxt "675876"
+msgid "よしよしよしよし～！！"
+msgstr ""
+
+msgctxt "676020"
+msgid "ワシに噛み付くとはのう"
+msgstr ""
+
+msgctxt "676164"
+msgid "気に入ったで"
+msgstr ""
+
+msgctxt "676308"
+msgid "今日からお前は薩摩藩預かりや！"
+msgstr ""
+
+msgctxt "676452"
+msgid "何や　長州の青二才がおるやんけ"
+msgstr ""
+
+msgctxt "676596"
+msgid "それにアンタもか"
+msgstr ""
+
+msgctxt "676740"
+msgid "縁があるのう"
+msgstr ""
+
+msgctxt "676884"
+msgid "お前は……"
+msgstr ""
+
+msgctxt "677028"
+msgid ""
+"西郷さん\n"
+"ったく　ずいぶんな言われようですね"
+msgstr ""
+
+msgctxt "677172"
+msgid ""
+"どないした？\n"
+"憎き薩摩の大将首がおるんやで"
+msgstr ""
+
+msgctxt "677316"
+msgid "かかってこんのかい"
+msgstr ""
+
+msgctxt "677460"
+msgid ""
+"いや正直　あんまりアンタのことで\n"
+"どうこう言うつもりはないんですよ"
+msgstr ""
+
+msgctxt "677604"
+msgid "寝技使ってるのはお互い様なんでね"
+msgstr ""
+
+msgctxt "677748"
+msgid ""
+"ただ俺も　一応長州の代表\n"
+"みたいなことになってるからね"
+msgstr ""
+
+msgctxt "677892"
+msgid ""
+"アンタを目の前にして\n"
+"刀を抜かないわけにはいかないんだ"
+msgstr ""
+
+msgctxt "678036"
+msgid "悪いね"
+msgstr ""
+
+msgctxt "678180"
+msgid "ええで"
+msgstr ""
+
+msgctxt "678324"
+msgid "ワシも薩摩背負うとるんや"
+msgstr ""
+
+msgctxt "678468"
+msgid ""
+"ワシとアンタの喧嘩でこの件\n"
+"ケリつけようやないか"
+msgstr ""
+
+msgctxt "678612"
+msgid "わざわざ間合いに入ったったんや"
+msgstr ""
+
+msgctxt "678756"
+msgid "斬ってみろや"
+msgstr ""
+
+msgctxt "678900"
+msgid "それじゃ……"
+msgstr ""
+
+msgctxt "679044"
+msgid "お言葉に甘えて"
+msgstr ""
+
+msgctxt "679188"
+msgid "斎藤さん？"
+msgstr ""
+
+msgctxt "679332"
+msgid "何すんじゃワレ"
+msgstr ""
+
+msgctxt "679476"
+msgid ""
+"てめえらの都合だけで\n"
+"勝手に喧嘩始めんな"
+msgstr ""
+
+msgctxt "679620"
+msgid "気に入らねえ"
+msgstr ""
+
+msgctxt "679764"
+msgid "何や　今日はアンタがイラついとるんかい"
+msgstr ""
+
+msgctxt "679908"
+msgid "せやけど　アンタに指図される言われはないで"
+msgstr ""
+
+msgctxt "680052"
+msgid ""
+"あいにく　俺も引き下がれないんですよ\n"
+"立場上ね"
+msgstr ""
+
+msgctxt "680196"
+msgid "そうか"
+msgstr ""
+
+msgctxt "680340"
+msgid "だったら　殴り合いでケリつけろ"
+msgstr ""
+
+msgctxt "680484"
+msgid "あぁ？"
+msgstr ""
+
+msgctxt "680628"
+msgid "斎藤さん　アンタ何言って……"
+msgstr ""
+
+msgctxt "680772"
+msgid "ついでに"
+msgstr ""
+
+msgctxt "680916"
+msgid "俺も混ぜてもらうぜ"
+msgstr ""
+
+msgctxt "681060"
+msgid "今はとことん暴れてえ気分なんだ"
+msgstr ""
+
+msgctxt "681204"
+msgid ""
+"何や！\n"
+"要はアンタが憂さ晴らししたいだけかい"
+msgstr ""
+
+msgctxt "681348"
+msgid "ええで　付き合うたるわ！！"
+msgstr ""
+
+msgctxt "681492"
+msgid "風呂屋ん時のケリがついてへんしな！"
+msgstr ""
+
+msgctxt "681636"
+msgid "やれやれ"
+msgstr ""
+
+msgctxt "681780"
+msgid ""
+"アンタたちの流儀には\n"
+"ついていけないんだけどね"
+msgstr ""
+
+msgctxt "681924"
+msgid "まあいいよ"
+msgstr ""
+
+msgctxt "682068"
+msgid "やるからには徹底的に行きましょう"
+msgstr ""
+
+msgctxt "682212"
+msgid ""
+"ほう　思ったよりノリがええやんか\n"
+"見直したで"
+msgstr ""
+
+msgctxt "682356"
+msgid "覚悟はいいな"
+msgstr ""
+
+msgctxt "682500"
+msgid "行くぞ！！"
+msgstr ""

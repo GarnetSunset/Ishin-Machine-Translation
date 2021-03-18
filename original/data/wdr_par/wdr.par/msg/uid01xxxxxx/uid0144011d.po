@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1928"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1929"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1930"
+msgid "ん？"
+msgstr ""
+
+msgctxt "1935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1936"
+msgid "お助け～。"
+msgstr ""
+
+msgctxt "1947"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1948"
+msgid ""
+"おいこらババア！\n"
+"さっさと金出せ！　舞踊教室なんてやってるんだ。\n"
+"いっぱいもってんだろ？"
+msgstr ""
+
+msgctxt "2037"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2038"
+msgid ""
+"確かにお金は持っておりますわ。おほほほほ。\n"
+"ですが、ババアではありませんことよ！\n"
+"ガサツな方ねぇ。いやだわぁ……"
+msgstr ""
+
+msgctxt "2151"
+msgid ""
+"なんだと、この野郎……！\n"
+"ええい、なら力ずくで奪わせてもらうぞ！"
+msgstr ""
+
+msgctxt "2216"
+msgid ""
+"あらまぁ！　それは困りますわね。\n"
+"お助けあそばせ～！"
+msgstr ""
+
+msgctxt "2269"
+msgid "（……何かもめているな）"
+msgstr ""
+
+msgctxt "2740"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "2745"
+msgid "おばさん"
+msgstr ""
+
+msgctxt "2754"
+msgid "野盗"
+msgstr ""
+
+msgctxt "2759"
+msgid "M_BUS_TLK_stand_info_f"
+msgstr ""
+
+msgctxt "2782"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2793"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2804"
+msgid "dummy"
+msgstr ""

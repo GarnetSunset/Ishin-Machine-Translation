@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "197152"
+msgid "そうか"
+msgstr ""
+
+msgctxt "197296"
+msgid "本当にそれしかないのか？"
+msgstr ""
+
+msgctxt "197440"
+msgid "何かを変えるには"
+msgstr ""
+
+msgctxt "197584"
+msgid "絶対に何かを犠牲にしなきゃならねえのか？"
+msgstr ""
+
+msgctxt "197728"
+msgid "ガキだなぁお前さんは"
+msgstr ""
+
+msgctxt "197872"
+msgid ""
+"そうやって聞いてばかりで生きてきたんだろ\n"
+"これまでもよ"
+msgstr ""
+
+msgctxt "198016"
+msgid "だからあの時　吉田東洋は言ったんだろうよ"
+msgstr ""
+
+msgctxt "198160"
+msgid "お前が勤王党の筆頭にふさわしい男じゃないと"
+msgstr ""
+
+msgctxt "198304"
+msgid "お前"
+msgstr ""
+
+msgctxt "198448"
+msgid "今　何て……！？"
+msgstr ""
+
+msgctxt "198592"
+msgid "なぜお前が親っさんの話したことを知ってる？"
+msgstr ""
+
+msgctxt "198736"
+msgid "あんたがあの覆面の男っていうなら話が早い"
+msgstr ""
+
+msgctxt "198880"
+msgid "ここであんたを斬れば"
+msgstr ""
+
+msgctxt "199024"
+msgid "新選組にいる理由もなくなるからな"
+msgstr ""
+
+msgctxt "199168"
+msgid "なら斬ってみりゃいい"
+msgstr ""
+
+msgctxt "199312"
+msgid ""
+"ま　天念理心流四代目宗家の\n"
+"俺を斬れればの話だがな？"
+msgstr ""
+
+msgctxt "199456"
+msgid "何！？"
+msgstr ""
+
+msgctxt "199600"
+msgid "こいつに見覚えがあるのか？"
+msgstr ""
+
+msgctxt "199744"
+msgid "やはりお前があの時の……！"
+msgstr ""
+
+msgctxt "199888"
+msgid "生きてるうちに"
+msgstr ""
+
+msgctxt "200032"
+msgid "それが分かるといいな"
+msgstr ""
+
+msgctxt "200176"
+msgid "さあ　１年ぶりの実戦だ"
+msgstr ""
+
+msgctxt "200320"
+msgid "剣士として純粋に殺し合いを楽しませてもらうよ"
+msgstr ""
+
+msgctxt "200464"
+msgid "いくぞ"
+msgstr ""
+
+msgctxt "200608"
+msgid "坂本龍馬ぁ！！！！"
+msgstr ""

@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2628"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2629"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2630"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2631"
+msgid "沖田……"
+msgstr ""
+
+msgctxt "2640"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2641"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2642"
+msgid "女と別れの挨拶は済んだんか？"
+msgstr ""
+
+msgctxt "2671"
+msgid "……あんたの知ったことじゃねえ。"
+msgstr ""
+
+msgctxt "2704"
+msgid ""
+"ええやないか、ワシの方も\n"
+"なじみに挨拶済ませてきたんや。"
+msgstr ""
+
+msgctxt "2761"
+msgid "あんたにこれ渡せ、言われたわ。"
+msgstr ""
+
+msgctxt "2792"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2793"
+msgid "その手紙は？"
+msgstr ""
+
+msgctxt "2806"
+msgid "近藤さんからや。徳川将軍へのお手紙やと。"
+msgstr ""
+
+msgctxt "2847"
+msgid "あんたのなじみってのは近藤のことか……"
+msgstr ""
+
+msgctxt "2886"
+msgid ""
+"ヒヒ……\n"
+"将軍に会えたらこいつを見せろ言うとったで。"
+msgstr ""
+
+msgctxt "2939"
+msgid "…………"
+msgstr ""
+
+msgctxt "2948"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3644"
+msgid "0"
+msgstr ""
+
+msgctxt "3646"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "3651"
+msgid "kiryu_c11_080_01"
+msgstr ""
+
+msgctxt "3668"
+msgid "沖田"
+msgstr ""
+
+msgctxt "3673"
+msgid "majima_c11_080_01"
+msgstr ""
+
+msgctxt "3691"
+msgid "C11080_OKI_A"
+msgstr ""
+
+msgctxt "3704"
+msgid "C11080_OKI_A_tlk"
+msgstr ""
+
+msgctxt "3721"
+msgid "kiryu_c11_080_02"
+msgstr ""
+
+msgctxt "3738"
+msgid "majima_c11_080_02"
+msgstr ""
+
+msgctxt "3756"
+msgid "majima_c11_080_02b"
+msgstr ""
+
+msgctxt "3775"
+msgid "C11080_OKI_B"
+msgstr ""
+
+msgctxt "3788"
+msgid "C11080_OKI_A_to_B"
+msgstr ""
+
+msgctxt "3806"
+msgid "kiryu_c11_080_03"
+msgstr ""
+
+msgctxt "3823"
+msgid "majima_c11_080_03"
+msgstr ""
+
+msgctxt "3841"
+msgid "C11080_OKI_B_tlk"
+msgstr ""
+
+msgctxt "3858"
+msgid "kiryu_c11_080_04"
+msgstr ""
+
+msgctxt "3875"
+msgid "majima_c11_080_04"
+msgstr ""

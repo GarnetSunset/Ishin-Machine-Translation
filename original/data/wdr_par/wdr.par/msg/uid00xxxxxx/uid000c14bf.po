@@ -1,0 +1,1010 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "29068"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29070"
+msgid "スゥ……　スゥ……"
+msgstr ""
+
+msgctxt "29089"
+msgid ""
+"（福を招くと言われている猫だが……\n"
+"　今は休養中のようだ）"
+msgstr ""
+
+msgctxt "29148"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29149"
+msgid "（お布施をやると福を招くと言われる猫だ……）"
+msgstr ""
+
+msgctxt "29194"
+msgid "（……思い切って１両、やってみようか？）"
+msgstr ""
+
+msgctxt "29235"
+msgid "（お布施をやると福を招くと言われる猫だ……）"
+msgstr ""
+
+msgctxt "29280"
+msgid ""
+"（こいつが頑張ってくれているのはわかるが、\n"
+"　まだそれほどの福を招いてくれたことがない……）"
+msgstr ""
+
+msgctxt "29373"
+msgid ""
+"俺、今まであの招き猫様に\n"
+"たくさん福をいただいたからさ。\n"
+"お礼にって、１両あげてみたんだよ。"
+msgstr ""
+
+msgctxt "29466"
+msgid "１両も!?　いったいどんな福が返ってきたんだ!?"
+msgstr ""
+
+msgctxt "29511"
+msgid "それが……"
+msgstr ""
+
+msgctxt "29522"
+msgid "……ゴクリ。"
+msgstr ""
+
+msgctxt "29535"
+msgid ""
+"その後、神社のおみくじ全部引いたら……\n"
+"全部……　大吉だった。"
+msgstr ""
+
+msgctxt "29598"
+msgid ""
+"あ……　ありえねぇだろ!!\n"
+"そいつはもう福どころの騒ぎじゃないぜ！"
+msgstr ""
+
+msgctxt "29663"
+msgid "あぁ。今の俺だったらなんでもできる気がする。"
+msgstr ""
+
+msgctxt "29708"
+msgid "（俺以外の体験談はいつもすごいんだがな……）"
+msgstr ""
+
+msgctxt "29753"
+msgid "（……思い切って１両、やってみようか？）"
+msgstr ""
+
+msgctxt "29794"
+msgid "（金を捨てるようなものだな……　やめておこう）"
+msgstr ""
+
+msgctxt "29841"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29842"
+msgid "（金が足りないようだな……）"
+msgstr ""
+
+msgctxt "29871"
+msgid "……１両やってみよう。"
+msgstr ""
+
+msgctxt "29894"
+msgid "…………"
+msgstr ""
+
+msgctxt "29903"
+msgid "…………"
+msgstr ""
+
+msgctxt "29912"
+msgid "…………"
+msgstr ""
+
+msgctxt "29921"
+msgid "（……？　いつもと様子が違うな）"
+msgstr ""
+
+msgctxt "29954"
+msgid "ンニャン！　ンニャンニャン!!"
+msgstr ""
+
+msgctxt "29983"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29984"
+msgid "（ついて来いと言っているのか……？）"
+msgstr ""
+
+msgctxt "30021"
+msgid "お、おい待て。"
+msgstr ""
+
+msgctxt "30036"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "30037"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "30038"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "30039"
+msgid "（お布施をやると福を招くと言われる猫だ……）"
+msgstr ""
+
+msgctxt "30084"
+msgid "（……５０００文くらい、やってみようか？）"
+msgstr ""
+
+msgctxt "30127"
+msgid "（お布施をやると福を招くと言われる猫だ……）"
+msgstr ""
+
+msgctxt "30172"
+msgid ""
+"やっぱり５０００文くらいじゃないと\n"
+"本当の福は得られないんだよ。"
+msgstr ""
+
+msgctxt "30237"
+msgid "それって福を招く招き猫の話？"
+msgstr ""
+
+msgctxt "30266"
+msgid ""
+"うん。俺、この前知り合った美人と\n"
+"仲良くなりたかったんだけど、\n"
+"どうにもきっかけがなくて困ってたんだ……"
+msgstr ""
+
+msgctxt "30371"
+msgid ""
+"思い切って招き猫様に５０００文差し上げてみた。\n"
+"そしたらなんか……"
+msgstr ""
+
+msgctxt "30438"
+msgid "……彼女と婚約しちゃった。"
+msgstr ""
+
+msgctxt "30465"
+msgid "えぇ!?　お、おめでとう！"
+msgstr ""
+
+msgctxt "30490"
+msgid "…………"
+msgstr ""
+
+msgctxt "30499"
+msgid "（……５０００文か）"
+msgstr ""
+
+msgctxt "30520"
+msgid "（金を捨てるようなものだな……　やめておこう）"
+msgstr ""
+
+msgctxt "30567"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "30568"
+msgid "（金が足りないようだな……）"
+msgstr ""
+
+msgctxt "30597"
+msgid ""
+"そら、５０００文だ。\n"
+"今度こそ……　どでかい福を頼むぞ……"
+msgstr ""
+
+msgctxt "30656"
+msgid "ンニャン！"
+msgstr ""
+
+msgctxt "30667"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "30668"
+msgid "…………"
+msgstr ""
+
+msgctxt "30677"
+msgid "…………"
+msgstr ""
+
+msgctxt "30686"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "30687"
+msgid "ンニャン！"
+msgstr ""
+
+msgctxt "30698"
+msgid "（５０００文分の福を持ってきたようだな……）"
+msgstr ""
+
+msgctxt "30743"
+msgid "「<Color:8>４０００文<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "30792"
+msgid "（……減った！）"
+msgstr ""
+
+msgctxt "30809"
+msgid "ンニャン！"
+msgstr ""
+
+msgctxt "30820"
+msgid "ンニャンじゃない！"
+msgstr ""
+
+msgctxt "30839"
+msgid "ンニャゴ……"
+msgstr ""
+
+msgctxt "30852"
+msgid ""
+"（……いや、待て。こいつはこいつなりに、\n"
+"　俺に福を招こうとしたんだ……）"
+msgstr ""
+
+msgctxt "30927"
+msgid ""
+"（それが満足いかない結果になったからといって\n"
+"　猫にあたるのはお門違いだろう……）"
+msgstr ""
+
+msgctxt "31010"
+msgid ""
+"……金は減ったが、お前の気持ち嬉しかったぜ。\n"
+"……ありがとうな。"
+msgstr ""
+
+msgctxt "31075"
+msgid "……ンニャン！"
+msgstr ""
+
+msgctxt "31090"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31091"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31092"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31093"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31094"
+msgid "（お布施をやると福を招くと言われる猫だ……）"
+msgstr ""
+
+msgctxt "31139"
+msgid "（……３０００文くらい、やってみようか？）"
+msgstr ""
+
+msgctxt "31182"
+msgid "（お布施をやると福を招くと言われる猫だ……）"
+msgstr ""
+
+msgctxt "31227"
+msgid "……ん？"
+msgstr ""
+
+msgctxt "31236"
+msgid ""
+"この前、思い切って招き猫様に\n"
+"３０００文、お布施をしてみたら、\n"
+"お返しに手紙をくださったんだよ！"
+msgstr ""
+
+msgctxt "31333"
+msgid "手紙？　それって猫語で書いてるのかい？"
+msgstr ""
+
+msgctxt "31372"
+msgid ""
+"違う違う。　おおかたどっかのドジな飛脚が\n"
+"仕事中に落としたんだろう。\n"
+"宛先が近くだったんで、親切に届けてみたら……"
+msgstr ""
+
+msgctxt "31487"
+msgid ""
+"なんと、手紙の受取人がすごい美人でさ。\n"
+"お茶菓子とお茶をご馳走になっちまったよ！\n"
+"いや～、美人だったなぁ。"
+msgstr ""
+
+msgctxt "31594"
+msgid ""
+"招き猫様には、恋愛のご利益もあるのか!?\n"
+"よし、今度俺もやってみよう！"
+msgstr ""
+
+msgctxt "31663"
+msgid "…………"
+msgstr ""
+
+msgctxt "31672"
+msgid "（……３０００文、やってみるか？）"
+msgstr ""
+
+msgctxt "31707"
+msgid "（金を捨てるようなものだな……　やめておこう）"
+msgstr ""
+
+msgctxt "31754"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31755"
+msgid "（金が足りないようだな……）"
+msgstr ""
+
+msgctxt "31784"
+msgid ""
+"ほら、３０００文だ。\n"
+"今度こそ福を招いてくれよ。"
+msgstr ""
+
+msgctxt "31833"
+msgid "ンニャン！"
+msgstr ""
+
+msgctxt "31844"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31845"
+msgid "…………"
+msgstr ""
+
+msgctxt "31854"
+msgid "…………"
+msgstr ""
+
+msgctxt "31863"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31864"
+msgid "ンニャン！"
+msgstr ""
+
+msgctxt "31875"
+msgid "（何か持ってきたようだ）"
+msgstr ""
+
+msgctxt "31900"
+msgid "「<Color:8>春画<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "31943"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31944"
+msgid "俺にとっての福が、これだと……？"
+msgstr ""
+
+msgctxt "31977"
+msgid "……ンニャ！"
+msgstr ""
+
+msgctxt "31990"
+msgid ""
+"うーむ、激情が燃えたぎっている男児にとっては\n"
+"福かもしれんが……　俺に渡されてもな……"
+msgstr ""
+
+msgctxt "32077"
+msgid "ンニャゴ……"
+msgstr ""
+
+msgctxt "32090"
+msgid "（……いや、そういう問題じゃない）"
+msgstr ""
+
+msgctxt "32125"
+msgid ""
+"（こいつはこいつなりに\n"
+"　俺のことを思って持って来てくれたんだ……）"
+msgstr ""
+
+msgctxt "32194"
+msgid ""
+"よっぽど困ったことがあったら読ませてもらう。\n"
+"……ありがとうな。"
+msgstr ""
+
+msgctxt "32259"
+msgid "……ンニャン！"
+msgstr ""
+
+msgctxt "32274"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32275"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32276"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32277"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32278"
+msgid "（お布施をやると福を招くと言われる猫だ……）"
+msgstr ""
+
+msgctxt "32323"
+msgid "（……２０００文くらい、やってみようか？）"
+msgstr ""
+
+msgctxt "32366"
+msgid "（お布施をやると福を招くと言われる猫だ……）"
+msgstr ""
+
+msgctxt "32411"
+msgid "……ん？"
+msgstr ""
+
+msgctxt "32420"
+msgid ""
+"この前、招き猫様に\n"
+"２０００文、お布施をしてみたら、\n"
+"お返しに小判をくださったんだよ！"
+msgstr ""
+
+msgctxt "32507"
+msgid ""
+"それって福を招くっていうあの……？\n"
+"す、すごい！　俺もやってみようかな！"
+msgstr ""
+
+msgctxt "32580"
+msgid "…………"
+msgstr ""
+
+msgctxt "32589"
+msgid "（……２０００文くらい、やってみようか？）"
+msgstr ""
+
+msgctxt "32632"
+msgid "（金を捨てるようなものだな……　やめておこう）"
+msgstr ""
+
+msgctxt "32679"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32680"
+msgid "（金が足りないようだな……）"
+msgstr ""
+
+msgctxt "32709"
+msgid ""
+"ほら、２０００文だ。\n"
+"今度こそ福を招いてくれよ。"
+msgstr ""
+
+msgctxt "32758"
+msgid "ンニャン！"
+msgstr ""
+
+msgctxt "32769"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32770"
+msgid "…………"
+msgstr ""
+
+msgctxt "32779"
+msgid "…………"
+msgstr ""
+
+msgctxt "32788"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32789"
+msgid "ンニャン！"
+msgstr ""
+
+msgctxt "32800"
+msgid "（何か持ってきたようだ）"
+msgstr ""
+
+msgctxt "32825"
+msgid "「<Color:8>酔い覚め丹<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "32874"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32875"
+msgid ""
+"酔い覚め丹……\n"
+"まさかお前、俺の体を心配して……？"
+msgstr ""
+
+msgctxt "32926"
+msgid "……ンニャ！"
+msgstr ""
+
+msgctxt "32939"
+msgid ""
+"気持ちは嬉しいが、\n"
+"２０００文分の福ではないな……"
+msgstr ""
+
+msgctxt "32990"
+msgid "ンニャゴ……"
+msgstr ""
+
+msgctxt "33003"
+msgid "（……いや、金の問題じゃない）"
+msgstr ""
+
+msgctxt "33034"
+msgid ""
+"（こいつはこいつなりに\n"
+"　俺のことを思って持って来てくれたんだ……）"
+msgstr ""
+
+msgctxt "33103"
+msgid ""
+"泥酔したときにでも使わせてもらう。\n"
+"……ありがとうな。"
+msgstr ""
+
+msgctxt "33158"
+msgid "……ンニャン！"
+msgstr ""
+
+msgctxt "33173"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33174"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33175"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33176"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33177"
+msgid ""
+"（この猫に金をやると\n"
+"　福を招いてくれるらしいが……）"
+msgstr ""
+
+msgctxt "33232"
+msgid ""
+"（福を招く猫か……\n"
+"　本当だったらすごいことだが）"
+msgstr ""
+
+msgctxt "33283"
+msgid "（１０００文くらい、やってみようか？）"
+msgstr ""
+
+msgctxt "33322"
+msgid "（金を捨てるようなものだな……　やめておこう）"
+msgstr ""
+
+msgctxt "33369"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33370"
+msgid "（金が足りないようだな……）"
+msgstr ""
+
+msgctxt "33399"
+msgid ""
+"ほら、１０００文だ。\n"
+"福を招いてくれ。"
+msgstr ""
+
+msgctxt "33438"
+msgid "ンニャン！"
+msgstr ""
+
+msgctxt "33449"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33450"
+msgid "…………"
+msgstr ""
+
+msgctxt "33459"
+msgid "（……くっ、やはり猫に小判だったか）"
+msgstr ""
+
+msgctxt "33496"
+msgid "……ん？"
+msgstr ""
+
+msgctxt "33505"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33506"
+msgid "ンニャン！"
+msgstr ""
+
+msgctxt "33517"
+msgid "……！"
+msgstr ""
+
+msgctxt "33524"
+msgid "（何か持ってきたようだ）"
+msgstr ""
+
+msgctxt "33549"
+msgid "「<Color:8>シラス<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "33594"
+msgid "…………"
+msgstr ""
+
+msgctxt "33603"
+msgid "……ンニャン！"
+msgstr ""
+
+msgctxt "33618"
+msgid ""
+"うーむ、これは……\n"
+"お前にとっては福かもしれんが……"
+msgstr ""
+
+msgctxt "33671"
+msgid "……ジュル。"
+msgstr ""
+
+msgctxt "33684"
+msgid "……もしかして、食いたいのか？"
+msgstr ""
+
+msgctxt "33715"
+msgid "「<Color:8>シラス<Color:Default>」を猫に返した"
+msgstr ""
+
+msgctxt "33762"
+msgid "ンニャゴー！"
+msgstr ""
+
+msgctxt "33775"
+msgid "（うーむ、喜んでくれたようだ……）"
+msgstr ""
+
+msgctxt "33810"
+msgid ""
+"「招き猫」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「招き猫」と交流してみましょう。"
+msgstr ""
+
+msgctxt "34019"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34020"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34021"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34022"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34023"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34024"
+msgid ""
+"招き猫様！　１０００文、ご用意いたしました！\n"
+"どうかこの金で、私めに幸せをお招きください！"
+msgstr ""
+
+msgctxt "34115"
+msgid "ンニャン！"
+msgstr ""
+
+msgctxt "34126"
+msgid "お願いします……　お願いします……"
+msgstr ""
+
+msgctxt "34161"
+msgid "……何をしているんだ？"
+msgstr ""
+
+msgctxt "34184"
+msgid ""
+"うわぁびっくりした……\n"
+"いきなり話しかけないでくださいよ。"
+msgstr ""
+
+msgctxt "34243"
+msgid ""
+"……？　猫に金をやっていたようだが、\n"
+"いったい今のはなんだ？"
+msgstr ""
+
+msgctxt "34304"
+msgid ""
+"フッフッフー、あなた知らないんですか？\n"
+"今の猫はそんじょそこらの猫ではございません。"
+msgstr ""
+
+msgctxt "34389"
+msgid "なんと……　福を招く、招き猫様なのです！"
+msgstr ""
+
+msgctxt "34430"
+msgid "……福を招く猫、だと？"
+msgstr ""
+
+msgctxt "34453"
+msgid ""
+"えぇ、今みたいに招き猫様に\n"
+"お布施を差し上げるとですね……"
+msgstr ""
+
+msgctxt "34512"
+msgid "ぷいっ。"
+msgstr ""
+
+msgctxt "34521"
+msgid "おい、そっぽ向いたぞ。"
+msgstr ""
+
+msgctxt "34544"
+msgid "いいから見ててくださいよ。"
+msgstr ""
+
+msgctxt "34571"
+msgid "クルッ！"
+msgstr ""
+
+msgctxt "34580"
+msgid "ンニャン！"
+msgstr ""
+
+msgctxt "34591"
+msgid "あ！"
+msgstr ""
+
+msgctxt "34596"
+msgid ""
+"こ、これは、ずいぶん前になくした……\n"
+"大切なお守り！　やったー！"
+msgstr ""
+
+msgctxt "34661"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34662"
+msgid "……と、こういう風に、福を招いてくれるんですよ。"
+msgstr ""
+
+msgctxt "34711"
+msgid "なんだかうさんくさいな……"
+msgstr ""
+
+msgctxt "34738"
+msgid ""
+"うさんくさいって……　何言ってるんですか！\n"
+"実際に今、あなた見てたでしょう!?"
+msgstr ""
+
+msgctxt "34815"
+msgid "うーむ……"
+msgstr ""
+
+msgctxt "34826"
+msgid "まぁ、信じても信じなくていいですけど。"
+msgstr ""
+
+msgctxt "34865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34866"
+msgid ""
+"……今回もありがとうございます、招き猫様！\n"
+"またいつの日か、よろしくお願いいたします。"
+msgstr ""
+
+msgctxt "34953"
+msgid "ンニャ。"
+msgstr ""
+
+msgctxt "34962"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34963"
+msgid "…………"
+msgstr ""
+
+msgctxt "34972"
+msgid "…………"
+msgstr ""
+
+msgctxt "34981"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34982"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37080"
+msgid "招き猫"
+msgstr ""
+
+msgctxt "37087"
+msgid "Player"
+msgstr ""
+
+msgctxt "37094"
+msgid "やってみる"
+msgstr ""
+
+msgctxt "37105"
+msgid "やらない"
+msgstr ""
+
+msgctxt "37114"
+msgid "猫頼みの男"
+msgstr ""
+
+msgctxt "37125"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "37137"
+msgid "驚く男性"
+msgstr ""
+
+msgctxt "37146"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "37156"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "37165"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "37173"
+msgid "kaiwabgm_sub_apathy_03"
+msgstr ""
+
+msgctxt "37196"
+msgid "P_KRU_SS_stand_pet_esa_lp"
+msgstr ""
+
+msgctxt "37222"
+msgid "P_KRU_SS_stand_pet_esa_st"
+msgstr ""
+
+msgctxt "37248"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "37270"
+msgid "P_KRU_SS_stand_pet_esa_en"
+msgstr ""
+
+msgctxt "37296"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "37307"
+msgid "dummy"
+msgstr ""
+
+msgctxt "37313"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "37324"
+msgid "１０００文やってみる"
+msgstr ""
+
+msgctxt "37345"
+msgid "招き猫との絆"
+msgstr ""
+
+msgctxt "37358"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "37369"
+msgid "猫"
+msgstr ""
+
+msgctxt "37372"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "37383"
+msgid "P_KRU_SS_shagami_check_lp"
+msgstr ""
+
+msgctxt "37409"
+msgid "P_KRU_SS_shagami_check_st"
+msgstr ""
+
+msgctxt "37435"
+msgid "P_KRU_SS_shagami_check_en"
+msgstr ""
+
+msgctxt "37461"
+msgid "M_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "37483"
+msgid "M_CHO_TLK_stand_no"
+msgstr ""

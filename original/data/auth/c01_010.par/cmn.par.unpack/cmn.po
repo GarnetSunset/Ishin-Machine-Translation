@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "404"
+msgid "いくで"
+msgstr ""
+
+msgctxt "548"
+msgid "討ち入りか！"
+msgstr ""
+
+msgctxt "692"
+msgid "新選組か！？"
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"仰山おるなあ\n"
+"暴れ甲斐があるってもんやで！"
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"余計なおしゃべりはええ！\n"
+"真面目にやれや！"
+msgstr ""
+
+msgctxt "1124"
+msgid "ここは私たちに任せて　君は行け！"
+msgstr ""
+
+msgctxt "1268"
+msgid "坂本龍馬は　上の階や！"
+msgstr ""
+
+msgctxt "1412"
+msgid "始まったか"
+msgstr ""
+
+msgctxt "1556"
+msgid "ああ"
+msgstr ""
+
+msgctxt "1700"
+msgid "誰ぜよ……？"
+msgstr ""
+
+msgctxt "1844"
+msgid "おまんは……！？"
+msgstr ""
+
+msgctxt "1988"
+msgid "不思議な話もあったもんやな"
+msgstr ""
+
+msgctxt "2132"
+msgid ""
+"時代を動かすはずの男が\n"
+"時代遅れの男に斬られ死ぬ"
+msgstr ""
+
+msgctxt "2276"
+msgid "しかもこの世に存在しないはずの……"
+msgstr ""
+
+msgctxt "2420"
+msgid ""
+"“もう一人の自分”に\n"
+"斬られることになるんやからなあ"
+msgstr ""
+
+msgctxt "2564"
+msgid "なあ"
+msgstr ""
+
+msgctxt "2708"
+msgid "坂本……"
+msgstr ""
+
+msgctxt "2852"
+msgid "龍馬さんよ"
+msgstr ""

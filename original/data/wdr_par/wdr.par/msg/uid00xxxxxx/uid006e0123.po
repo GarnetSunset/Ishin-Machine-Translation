@@ -1,0 +1,1217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "33428"
+msgid ""
+"あらん、色男さん。\n"
+"またあなたのお野菜が食べたくて……\n"
+"何でもいいから、譲って下さらないかしらん？"
+msgstr ""
+
+msgctxt "33527"
+msgid "あらん、残念ですわん……"
+msgstr ""
+
+msgctxt "33552"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33553"
+msgid ""
+"あらまぁ、こんなたくましいお野菜を……\n"
+"あ・り・が・と・う。んふふふん。"
+msgstr ""
+
+msgctxt "33626"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33627"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33628"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33629"
+msgid ""
+"また、\n"
+"あなたのたくましいお野菜が食べたいわん。"
+msgstr ""
+
+msgctxt "33678"
+msgid "はぁん……　おカボチャ……"
+msgstr ""
+
+msgctxt "33705"
+msgid ""
+"あらん、色男さん。\n"
+"約束のおカボチャ、持ってきてくれたのかしらん？"
+msgstr ""
+
+msgctxt "33772"
+msgid "悪いがあんたに渡せるものは持っていない。"
+msgstr ""
+
+msgctxt "33813"
+msgid ""
+"あぁん、本当に焦らすのがお上手なんだからん。\n"
+"いつまでも待ってるわ。おカボチャ。"
+msgstr ""
+
+msgctxt "33894"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33895"
+msgid "かぼちゃが１つ欲しいんだったな。"
+msgstr ""
+
+msgctxt "33928"
+msgid "「<Color:8>かぼちゃ<Color:Default>」を渡した"
+msgstr ""
+
+msgctxt "33973"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33974"
+msgid "んん、おっきい……"
+msgstr ""
+
+msgctxt "33993"
+msgid "そして、この重量感……！"
+msgstr ""
+
+msgctxt "34018"
+msgid "すっごぉい！"
+msgstr ""
+
+msgctxt "34031"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34032"
+msgid "なんて立派なおカボチャなの……！"
+msgstr ""
+
+msgctxt "34065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34066"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34067"
+msgid ""
+"んふっ、あなたって最高ね。\n"
+"はい、これ約束のお礼ですわん。"
+msgstr ""
+
+msgctxt "34126"
+msgid "「<Color:8>金の皿<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "34171"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34172"
+msgid ""
+"んふっ、これだけあれば、旦那の大好物……\n"
+"おカボチャの煮物、いっぱい作れそうだわん！"
+msgstr ""
+
+msgctxt "34257"
+msgid "えっ、煮物？　……食うのか？"
+msgstr ""
+
+msgctxt "34286"
+msgid ""
+"えっ、何言ってるのん？\n"
+"野菜は食べるものでしょう？"
+msgstr ""
+
+msgctxt "34337"
+msgid ""
+"漬物に、お浸しに、みそ汁の具……\n"
+"今まであなたがくださったお野菜の数々……\n"
+"みんな、おいしくお料理させていただいたわよん？"
+msgstr ""
+
+msgctxt "34460"
+msgid "…………"
+msgstr ""
+
+msgctxt "34469"
+msgid ""
+"んふっ、私の旦那、１年ぶりに帰ってくるんだもの！\n"
+"腕によりをかけてお料理しないといけませんわ！"
+msgstr ""
+
+msgctxt "34564"
+msgid ""
+"それじゃあ、私、今から\n"
+"おカボチャの下ごしらえをしにお家に帰りますわ！"
+msgstr ""
+
+msgctxt "34635"
+msgid ""
+"今まで本当にありがとう、色男さん！\n"
+"あなたのおかげで……　寂しくなかったわん！"
+msgstr ""
+
+msgctxt "34714"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34715"
+msgid ""
+"（いろいろ言いたいことはあるが、\n"
+"　なんにせよ、よかったな……）"
+msgstr ""
+
+msgctxt "34780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34781"
+msgid ""
+"あらん、色男さん……\n"
+"この間はありがとうね。"
+msgstr ""
+
+msgctxt "34826"
+msgid ""
+"んふっ、あなたがくれたおダイコン、\n"
+"とってもおいしかったわ。"
+msgstr ""
+
+msgctxt "34887"
+msgid ""
+"さすが大きな根っこと言われるお野菜よねん……\n"
+"大きくって、味わい甲斐があったわん……"
+msgstr ""
+
+msgctxt "34972"
+msgid ""
+"あ、それよりも聞いてくださらない？\n"
+"実は、出稼ぎにいってる私の旦那がもうすぐ……\n"
+"１年ぶりに、帰ってくるらしいのよん！"
+msgstr ""
+
+msgctxt "35091"
+msgid "ほう、そいつはよかったな。"
+msgstr ""
+
+msgctxt "35118"
+msgid ""
+"だからねん、私、また欲しくて欲しくて\n"
+"たまらないものができてしまったのん……\n"
+"なんだか、お・わ・か・り？"
+msgstr ""
+
+msgctxt "35223"
+msgid "……何が欲しいんだ？"
+msgstr ""
+
+msgctxt "35244"
+msgid ""
+"んふっ、私が今欲しくてたまらないもの、\n"
+"それはねぇ……"
+msgstr ""
+
+msgctxt "35299"
+msgid "お・カ・ボ・チャ、ですわん。"
+msgstr ""
+
+msgctxt "35328"
+msgid "かぼちゃ……？"
+msgstr ""
+
+msgctxt "35343"
+msgid ""
+"んふっ、そうおカボチャ。\n"
+"今度は旦那と一緒に楽しもうと思って。\n"
+"今、欲しくて欲しくてたまらないのよん……"
+msgstr ""
+
+msgctxt "35448"
+msgid "（旦那と一緒にかぼちゃを……）"
+msgstr ""
+
+msgctxt "35479"
+msgid ""
+"私のために、あなたのおカボチャを１つ、\n"
+"持ってきてくださらないかしらん？"
+msgstr ""
+
+msgctxt "35552"
+msgid "かぼちゃを１つ持って来ればいいんだな？"
+msgstr ""
+
+msgctxt "35591"
+msgid "んふっ、そうなのん。よろしくお願いしますわん。"
+msgstr ""
+
+msgctxt "35638"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35639"
+msgid "はぁん……　おダイコン……"
+msgstr ""
+
+msgctxt "35666"
+msgid ""
+"あらん、色男さん。\n"
+"約束のおダイコン、持ってきてくれたのかしらん？"
+msgstr ""
+
+msgctxt "35733"
+msgid "悪いがあんたに渡せるものは持っていない。"
+msgstr ""
+
+msgctxt "35774"
+msgid ""
+"あぁん、本当に焦らすのがお上手ねぇ。んふっ。\n"
+"いつまでも待ってるわ。おダイコン。"
+msgstr ""
+
+msgctxt "35855"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35856"
+msgid "大根が１本欲しいんだったな。"
+msgstr ""
+
+msgctxt "35885"
+msgid "「<Color:8>大根<Color:Default>」を渡した"
+msgstr ""
+
+msgctxt "35926"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35927"
+msgid "んん、おっきい……"
+msgstr ""
+
+msgctxt "35946"
+msgid "そう、この長さ……"
+msgstr ""
+
+msgctxt "35965"
+msgid "この太さ……"
+msgstr ""
+
+msgctxt "35978"
+msgid "あぁん！"
+msgstr ""
+
+msgctxt "35987"
+msgid "まさに理想のおダイコンだわん！"
+msgstr ""
+
+msgctxt "36018"
+msgid ""
+"んふっ、あなたって最高ね。\n"
+"はい、これ約束のお礼ですわん。"
+msgstr ""
+
+msgctxt "36077"
+msgid "「<Color:8>活力丹　高級<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "36128"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36129"
+msgid "……ずいぶん野菜が好きなんだな。"
+msgstr ""
+
+msgctxt "36162"
+msgid "あらん、私に興味があるのん？　色男さん！"
+msgstr ""
+
+msgctxt "36203"
+msgid ""
+"んふっ、実は私、旦那がいるのよん。\n"
+"今、彼は遠くの町に出稼ぎに行ってるんだけど。\n"
+"……もう１年になるかしらねぇ。"
+msgstr ""
+
+msgctxt "36316"
+msgid "私、彼に会えないのがつらくて、つらくて……"
+msgstr ""
+
+msgctxt "36359"
+msgid ""
+"毎日……　大好きなお野菜を味わうことで、\n"
+"寂しさをまぎらわしていたのよん……"
+msgstr ""
+
+msgctxt "36436"
+msgid ""
+"（野菜で寂しさをまぎらわす……\n"
+"　まさかそんな、いや、しかし……\n"
+"　むむむ……）"
+msgstr ""
+
+msgctxt "36517"
+msgid ""
+"んふっ、変な女だと思うわよねん。\n"
+"それでも寂しい気持ちはなくならなかったわん。"
+msgstr ""
+
+msgctxt "36596"
+msgid ""
+"旦那に会いたくて会いたくてたまらない……！\n"
+"そんな時……　街であなたを見かけたのん。"
+msgstr ""
+
+msgctxt "36681"
+msgid "……？"
+msgstr ""
+
+msgctxt "36688"
+msgid ""
+"あなたの寡黙で、実直で、真面目そうな雰囲気……\n"
+"なんとなく、私の旦那に似てた気がしたのん。"
+msgstr ""
+
+msgctxt "36779"
+msgid "気付いたら私、あなたに声をかけていたわん……"
+msgstr ""
+
+msgctxt "36824"
+msgid ""
+"ちょっとでも寂しさを紛らわしたくて……\n"
+"それでお野菜を持ってきてだなんて変なお願いを……\n"
+"本当にごめんなさい。"
+msgstr ""
+
+msgctxt "36935"
+msgid "……なるほど、そういうことだったのか。"
+msgstr ""
+
+msgctxt "36974"
+msgid ""
+"んふっ、私ったら、\n"
+"つい真面目な話をしてしまったわねん……"
+msgstr ""
+
+msgctxt "37033"
+msgid ""
+"んふっ、そろそろ私、おダイコン、\n"
+"いっぱい味わいたくなってきてしまったわん。"
+msgstr ""
+
+msgctxt "37110"
+msgid "それじゃあまたお会いしましょう！　色男さん！"
+msgstr ""
+
+msgctxt "37155"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37156"
+msgid "……"
+msgstr ""
+
+msgctxt "37161"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37162"
+msgid ""
+"あらん、色男さん……\n"
+"この間はありがとうね。"
+msgstr ""
+
+msgctxt "37207"
+msgid ""
+"んふっ、あなたがくれたおナス、\n"
+"大きさだけじゃなくて色もとってもヨかった。\n"
+"おいしすぎて、何度も味わってしまったわよん。"
+msgstr ""
+
+msgctxt "37328"
+msgid "そうか、それはよかったな。"
+msgstr ""
+
+msgctxt "37355"
+msgid ""
+"でもねん、私、また欲しくて欲しくて\n"
+"たまらないものができてしまったのん……\n"
+"なんだか、お・わ・か・り？"
+msgstr ""
+
+msgctxt "37458"
+msgid "……次はなんだ。"
+msgstr ""
+
+msgctxt "37475"
+msgid ""
+"んふっ、私が今欲しくてたまらないもの、\n"
+"それはねぇ……"
+msgstr ""
+
+msgctxt "37530"
+msgid "お・ダ・イ・コ・ン、ですわん。"
+msgstr ""
+
+msgctxt "37561"
+msgid "そ、そうか。"
+msgstr ""
+
+msgctxt "37574"
+msgid ""
+"んふっ、私、今すぐおダイコンを味わいたい……\n"
+"欲しくて欲しくてたまらないんですの……"
+msgstr ""
+
+msgctxt "37659"
+msgid "（この女、なぜここまで野菜を欲しがるんだ……？）"
+msgstr ""
+
+msgctxt "37708"
+msgid ""
+"そこで、あなたにまたお願いしたいのよん。\n"
+"私のために、あなたのおダイコンを１本\n"
+"持ってきてくださらないかしらん？"
+msgstr ""
+
+msgctxt "37821"
+msgid "……わかった。大根だな。"
+msgstr ""
+
+msgctxt "37846"
+msgid ""
+"んふっ、素直な坊やって好きよん。\n"
+"お礼、たっぷり用意しておくわねん……"
+msgstr ""
+
+msgctxt "37917"
+msgid "……"
+msgstr ""
+
+msgctxt "37922"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37923"
+msgid "はぁん……　おナス……"
+msgstr ""
+
+msgctxt "37946"
+msgid ""
+"あらん、色男さん。約束のおナス、\n"
+"持ってきてくれたのかしらん？"
+msgstr ""
+
+msgctxt "38009"
+msgid "悪いがあんたに渡せるものは持っていない。"
+msgstr ""
+
+msgctxt "38050"
+msgid ""
+"あぁん、本当に焦らすのがお上手なんだからん。\n"
+"いつまでも待ってるわ。おナス。"
+msgstr ""
+
+msgctxt "38127"
+msgid "なすが１本欲しいんだったな。"
+msgstr ""
+
+msgctxt "38156"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38157"
+msgid "「<Color:8>なす<Color:Default>」を渡した"
+msgstr ""
+
+msgctxt "38198"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38199"
+msgid "そう、この長さ……"
+msgstr ""
+
+msgctxt "38218"
+msgid "この太さ……"
+msgstr ""
+
+msgctxt "38231"
+msgid "あぁん！"
+msgstr ""
+
+msgctxt "38240"
+msgid "まさにこんなおナスが欲しかったんですの！"
+msgstr ""
+
+msgctxt "38281"
+msgid ""
+"んふっ、あなたって最高ね。\n"
+"はい、これ約束のお礼ですわん。"
+msgstr ""
+
+msgctxt "38340"
+msgid "「<Color:8>万能丹<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "38385"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38386"
+msgid ""
+"はぁ、はぁ……　ごめんなさい。\n"
+"私、今すぐこれを味わいたいのん……！"
+msgstr ""
+
+msgctxt "38455"
+msgid "それじゃあまたお会いしましょう！　色男さん！"
+msgstr ""
+
+msgctxt "38500"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38501"
+msgid "……"
+msgstr ""
+
+msgctxt "38506"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38507"
+msgid ""
+"あらん、色男さん……\n"
+"この間はありがとうね。"
+msgstr ""
+
+msgctxt "38552"
+msgid ""
+"んふっ、あなたがくれたおニンジン、ヨかったわん。\n"
+"とってもおいしくて、何度も味わってしまったもの。"
+msgstr ""
+
+msgctxt "38651"
+msgid "そうか、それはよかったな。"
+msgstr ""
+
+msgctxt "38678"
+msgid ""
+"でもねん、私、また欲しくて欲しくて\n"
+"たまらないものができてしまったのよん……\n"
+"なんだか、お・わ・か・り？"
+msgstr ""
+
+msgctxt "38783"
+msgid "……まったくわからん。"
+msgstr ""
+
+msgctxt "38806"
+msgid ""
+"んもう、本当にいけずな人。んふっ。\n"
+"私が今欲しくてたまらないもの、それはねぇ……"
+msgstr ""
+
+msgctxt "38887"
+msgid "お・ナ・ス、ですわん。"
+msgstr ""
+
+msgctxt "38910"
+msgid "そ、そうか。"
+msgstr ""
+
+msgctxt "38923"
+msgid ""
+"私、今すぐおナスを味わいたい……\n"
+"欲しくて欲しくてたまらないんですの……"
+msgstr ""
+
+msgctxt "38996"
+msgid "（この女、そんなに野菜が好きなのだろうか……）"
+msgstr ""
+
+msgctxt "39043"
+msgid ""
+"そこで、あなたにまたお願いしたいのよん。\n"
+"私のために、おナスを１本\n"
+"持ってきてくださらないかしらん？"
+msgstr ""
+
+msgctxt "39144"
+msgid "自分で八百屋に買いに行くつもりはないようだな……"
+msgstr ""
+
+msgctxt "39193"
+msgid ""
+"そんないけずなこと言わないでおくんなまし。\n"
+"お礼ならたっぷり、してあげるからん……\n"
+"ね？　お・ね・が・い？"
+msgstr ""
+
+msgctxt "39300"
+msgid "……"
+msgstr ""
+
+msgctxt "39305"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39306"
+msgid "はぁん……　おニンジン……"
+msgstr ""
+
+msgctxt "39333"
+msgid ""
+"あらん、色男さん。約束のおニンジン、\n"
+"持ってきてくれたのかしらん？"
+msgstr ""
+
+msgctxt "39400"
+msgid "悪いがあんたに渡せるものは持っていない。"
+msgstr ""
+
+msgctxt "39441"
+msgid ""
+"あぁん、本当に焦らすのがお上手なんだからん。\n"
+"いつまでも待ってるわ。おニンジン。"
+msgstr ""
+
+msgctxt "39522"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39523"
+msgid "人参が１本欲しいんだったな。"
+msgstr ""
+
+msgctxt "39552"
+msgid "「<Color:8>人参<Color:Default>」を渡した"
+msgstr ""
+
+msgctxt "39593"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39594"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39595"
+msgid "そう、この長さ……"
+msgstr ""
+
+msgctxt "39614"
+msgid "この太さ……"
+msgstr ""
+
+msgctxt "39627"
+msgid "あぁん！"
+msgstr ""
+
+msgctxt "39636"
+msgid "まさにこんなおニンジンが欲しかったんですの！"
+msgstr ""
+
+msgctxt "39681"
+msgid ""
+"んふっ、あなたって最高ね。\n"
+"はい、これ約束のお礼ですわん。"
+msgstr ""
+
+msgctxt "39740"
+msgid "「<Color:8>熱血丹<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "39785"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39786"
+msgid ""
+"はぁ、はぁ……　ごめんなさい。\n"
+"私、今すぐこれを味わいたいのん……！"
+msgstr ""
+
+msgctxt "39855"
+msgid "それじゃあまたお会いしましょう！　色男さん！"
+msgstr ""
+
+msgctxt "39900"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39901"
+msgid "……"
+msgstr ""
+
+msgctxt "39906"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39907"
+msgid ""
+"あらん、色男さん……\n"
+"この間はありがとうね。"
+msgstr ""
+
+msgctxt "39952"
+msgid ""
+"んふっ、あなたがくれたおキュウリ、ヨかったわん。\n"
+"とってもおいしくて、何度も味わってしまったもの。"
+msgstr ""
+
+msgctxt "40051"
+msgid "そうか、それはよかったな。"
+msgstr ""
+
+msgctxt "40078"
+msgid ""
+"でもねん、私、また欲しくて欲しくて\n"
+"たまらないものができてしまったのよん……\n"
+"なんだか、お・わ・か・り？"
+msgstr ""
+
+msgctxt "40183"
+msgid "……まったくわからん。"
+msgstr ""
+
+msgctxt "40206"
+msgid ""
+"んもう、本当にいけずな人。んふっ。\n"
+"私が今欲しくてたまらないもの、それはねぇ……"
+msgstr ""
+
+msgctxt "40287"
+msgid "お・ニ・ン・ジ・ン、ですわん。"
+msgstr ""
+
+msgctxt "40318"
+msgid "そ、そうか。"
+msgstr ""
+
+msgctxt "40331"
+msgid ""
+"私、今すぐおニンジンを味わいたい……\n"
+"欲しくて欲しくてたまらないんですの……"
+msgstr ""
+
+msgctxt "40408"
+msgid ""
+"（この女、そんなに野菜が好きなのだろうか。\n"
+"　そして欲しい野菜が段々大きくなっているな……）"
+msgstr ""
+
+msgctxt "40501"
+msgid ""
+"そこで、あなたにまたお願いしたいのよん。\n"
+"私のために、おニンジンを１本\n"
+"持ってきてくださらないかしらん？"
+msgstr ""
+
+msgctxt "40606"
+msgid "自分で八百屋に買いに行くつもりはないようだな……"
+msgstr ""
+
+msgctxt "40655"
+msgid ""
+"そんないけずなこと言わないでおくんなまし。\n"
+"お礼ならたっぷり、してあげるからん……\n"
+"ね？　お・ね・が・い？"
+msgstr ""
+
+msgctxt "40762"
+msgid "……"
+msgstr ""
+
+msgctxt "40767"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40768"
+msgid "はぁん……　おキュウリ……"
+msgstr ""
+
+msgctxt "40795"
+msgid ""
+"あらん、色男さん。約束のおキュウリ、\n"
+"持ってきてくれたのかしらん？"
+msgstr ""
+
+msgctxt "40862"
+msgid "悪いがあんたに渡せるものは持っていない。"
+msgstr ""
+
+msgctxt "40903"
+msgid ""
+"あぁん、本当に焦らすのがお上手なんだからん。\n"
+"いつまでも待ってるわ。おキュウリ。"
+msgstr ""
+
+msgctxt "40984"
+msgid "きゅうりが１本欲しいんだったな。"
+msgstr ""
+
+msgctxt "41017"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41018"
+msgid "「<Color:8>きゅうり<Color:Default>」を渡した"
+msgstr ""
+
+msgctxt "41063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41065"
+msgid "そう、この長さ……"
+msgstr ""
+
+msgctxt "41084"
+msgid "この太さ……"
+msgstr ""
+
+msgctxt "41097"
+msgid "あぁん！"
+msgstr ""
+
+msgctxt "41106"
+msgid "まさにこんなキュウリが欲しかったんですの！"
+msgstr ""
+
+msgctxt "41149"
+msgid ""
+"んふっ、あなたって最高ね。\n"
+"はい、これ約束のお礼ですわん。"
+msgstr ""
+
+msgctxt "41208"
+msgid "「<Color:8>活力丹<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "41253"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41254"
+msgid ""
+"はぁ、はぁ……　ごめんなさい。\n"
+"私、今すぐこれを味わいたいのん……！"
+msgstr ""
+
+msgctxt "41323"
+msgid "それじゃあまたお会いしましょう！　色男さん！"
+msgstr ""
+
+msgctxt "41368"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41369"
+msgid "……"
+msgstr ""
+
+msgctxt "41374"
+msgid ""
+"「妖艶な奥様」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「妖艶な奥様」と交流してみましょう。"
+msgstr ""
+
+msgctxt "41591"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41593"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41594"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41595"
+msgid ""
+"あらん、イイ男……\n"
+"そこ行くあなた、ちょっとよろしいかしらん？"
+msgstr ""
+
+msgctxt "41658"
+msgid "む、なんだ？"
+msgstr ""
+
+msgctxt "41671"
+msgid ""
+"ちょっとお願いがあるんだけれど、\n"
+"少しお話を聞いてくださらない？"
+msgstr ""
+
+msgctxt "41736"
+msgid "悪いが今、忙しい。またにしてくれ。"
+msgstr ""
+
+msgctxt "41771"
+msgid ""
+"んふっ、色男さん。焦らすのがお上手だこと。\n"
+"それじゃあ、あなたが忙しくなくなった時にでも、\n"
+"お話、聞いてちょうだいな。"
+msgstr ""
+
+msgctxt "41890"
+msgid "なんだ？"
+msgstr ""
+
+msgctxt "41899"
+msgid ""
+"あらん、聞いてくれるの？\n"
+"んふっ、嬉しいわ。"
+msgstr ""
+
+msgctxt "41944"
+msgid ""
+"私、今欲しくてたまらないものがあるのよん……\n"
+"なんだか、お・わ・か・り？"
+msgstr ""
+
+msgctxt "42017"
+msgid "……まったくわからん。"
+msgstr ""
+
+msgctxt "42040"
+msgid ""
+"んもう、いけずな人ねぇ。んふっ。\n"
+"私が今欲しくてたまらないもの、それはねぇ……"
+msgstr ""
+
+msgctxt "42119"
+msgid "お・キュ・ウ・リ、ですわん。"
+msgstr ""
+
+msgctxt "42148"
+msgid "……"
+msgstr ""
+
+msgctxt "42153"
+msgid ""
+"私、今すぐおキュウリを味わいたい……\n"
+"欲しくて欲しくてたまらないんですの……"
+msgstr ""
+
+msgctxt "42230"
+msgid "（そんなにきゅうりが好きなんだろうか……）"
+msgstr ""
+
+msgctxt "42273"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42274"
+msgid "……それで？"
+msgstr ""
+
+msgctxt "42287"
+msgid ""
+"あぁん、みなまで言わせないでおくんなまし。\n"
+"もう、本当に焦らすのがお上手ですこと……！"
+msgstr ""
+
+msgctxt "42374"
+msgid ""
+"お願いですわ、私のために、\n"
+"おキュウリを１本くださらないかしらん？"
+msgstr ""
+
+msgctxt "42441"
+msgid "きゅうりなら、八百屋に行けば買えると思うが……"
+msgstr ""
+
+msgctxt "42488"
+msgid ""
+"そんないけずなこと言わないでぇん？\n"
+"いろいろ事情があるのよん……\n"
+"他でもない、あなたからおキュウリが欲しいのよん……"
+msgstr ""
+
+msgctxt "42605"
+msgid ""
+"お礼ならたっぷり、してあげるからん……\n"
+"ね？　お・ね・が・い？"
+msgstr ""
+
+msgctxt "42668"
+msgid ""
+"（この女と話していると、不思議ときゅうりを\n"
+"　渡してみたい気持ちになってくるな……）"
+msgstr ""
+
+msgctxt "42753"
+msgid ""
+"（なにか事情もあるらしいし……\n"
+"　野菜のひとつくらい、持ってきてやるか）"
+msgstr ""
+
+msgctxt "42826"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42827"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "42838"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44928"
+msgid "妖艶な奥様"
+msgstr ""
+
+msgctxt "44939"
+msgid "渡す"
+msgstr ""
+
+msgctxt "44944"
+msgid "渡さない"
+msgstr ""
+
+msgctxt "44953"
+msgid "農作"
+msgstr ""
+
+msgctxt "44958"
+msgid "F_CHO_SS_stand_sexy_talk"
+msgstr ""
+
+msgctxt "44983"
+msgid "かぼちゃを渡す"
+msgstr ""
+
+msgctxt "44998"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "45003"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "45011"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "45021"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "45030"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "45041"
+msgid "F_CHO_SS_stand_sexy_item"
+msgstr ""
+
+msgctxt "45066"
+msgid "kaiwabgm_sub_apathy_04"
+msgstr ""
+
+msgctxt "45089"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "45099"
+msgid "F_CHO_SS_stand_sexy_kamae"
+msgstr ""
+
+msgctxt "45125"
+msgid "F_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "45147"
+msgid "F_CHO_TLK_stand_ase"
+msgstr ""
+
+msgctxt "45167"
+msgid "F_CHO_TLK_stand_happy"
+msgstr ""
+
+msgctxt "45189"
+msgid "dummy"
+msgstr ""
+
+msgctxt "45195"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "45204"
+msgid "大根を渡す"
+msgstr ""
+
+msgctxt "45215"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "45227"
+msgid "F_CHO_TLK_stand_ojigi"
+msgstr ""
+
+msgctxt "45249"
+msgid "なすを渡す"
+msgstr ""
+
+msgctxt "45260"
+msgid "人参を渡す"
+msgstr ""
+
+msgctxt "45271"
+msgid "きゅうりを渡す"
+msgstr ""
+
+msgctxt "45286"
+msgid "妖艶な奥様との絆"
+msgstr ""
+
+msgctxt "45303"
+msgid "聞いてやる"
+msgstr ""
+
+msgctxt "45314"
+msgid "今忙しい"
+msgstr ""
+
+msgctxt "45323"
+msgid "Talk_Quest"
+msgstr ""

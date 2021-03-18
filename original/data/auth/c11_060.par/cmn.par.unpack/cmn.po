@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "293792"
+msgid "上様　奴が例の賊にございます"
+msgstr ""
+
+msgctxt "293936"
+msgid "見れば分かる"
+msgstr ""
+
+msgctxt "294080"
+msgid "太刀を持て"
+msgstr ""
+
+msgctxt "294224"
+msgid "はっ"
+msgstr ""
+
+msgctxt "294368"
+msgid ""
+"恐ろしく　手練れの者たちでございます\n"
+"たった２人でここまで……"
+msgstr ""
+
+msgctxt "294512"
+msgid "その方　何が目的だ"
+msgstr ""
+
+msgctxt "294656"
+msgid "あんたが　徳川将軍か？"
+msgstr ""
+
+msgctxt "294800"
+msgid "なるほど　俺の顔も知らんか"
+msgstr ""
+
+msgctxt "294944"
+msgid "だが"
+msgstr ""
+
+msgctxt "295088"
+msgid "たった２人でここまでたどり着いたのは"
+msgstr ""
+
+msgctxt "295232"
+msgid "見事だ"
+msgstr ""
+
+msgctxt "295376"
+msgid "お前の狙いは……"
+msgstr ""
+
+msgctxt "295520"
+msgid "この慶喜の首か？"
+msgstr ""
+
+msgctxt "295664"
+msgid "いえ　俺たちは……"
+msgstr ""
+
+msgctxt "295808"
+msgid "上様に聞いていただきたい話を持って参上しました"
+msgstr ""
+
+msgctxt "295952"
+msgid ""
+"御無礼は承知の上\n"
+"ですが……"
+msgstr ""
+
+msgctxt "296096"
+msgid "この国を救うためです"
+msgstr ""
+
+msgctxt "296240"
+msgid ""
+"たわけが！\n"
+"賊がえらそうに何をぬかすか！！"
+msgstr ""
+
+msgctxt "296384"
+msgid "お前は下がっていろ"
+msgstr ""
+
+msgctxt "296528"
+msgid "お前たちも手を出すな"
+msgstr ""
+
+msgctxt "296672"
+msgid "う　上様！？"
+msgstr ""
+
+msgctxt "296816"
+msgid ""
+"徳川開幕以来３００年\n"
+"将軍の首を狙う賊は何人もいた"
+msgstr ""
+
+msgctxt "296960"
+msgid ""
+"だが今度の賊は\n"
+"この俺に「国を救う話を聞け」と言う"
+msgstr ""
+
+msgctxt "297104"
+msgid ""
+"徳川の世は\n"
+"そこまで衰えたか？"
+msgstr ""
+
+msgctxt "297248"
+msgid "俺に話を聞かせたいのなら……"
+msgstr ""
+
+msgctxt "297392"
+msgid "聞く耳を持たせてみろ"
+msgstr ""
+
+msgctxt "297536"
+msgid "安心してかかってくるがいい"
+msgstr ""
+
+msgctxt "297680"
+msgid ""
+"一度命令を下した以上\n"
+"この者たちはたとえ俺が死んでも手は出さん"
+msgstr ""
+
+msgctxt "297824"
+msgid "それが……"
+msgstr ""
+
+msgctxt "297968"
+msgid "上様のお望みなら"
+msgstr ""
+
+msgctxt "298112"
+msgid "遠慮は無用だ"
+msgstr ""
+
+msgctxt "298256"
+msgid ""
+"お前も国を救うと言うなら\n"
+"それに殉ずる覚悟もあるのだろう"
+msgstr ""
+
+msgctxt "298400"
+msgid "だが"
+msgstr ""
+
+msgctxt "298544"
+msgid ""
+"俺も伊達に\n"
+"将軍を名乗る男じゃないんでな"
+msgstr ""
+
+msgctxt "298688"
+msgid "いくぞ！"
+msgstr ""

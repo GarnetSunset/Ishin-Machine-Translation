@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "444"
+msgid "－"
+msgstr ""
+
+msgctxt "447"
+msgid "所持数"
+msgstr ""
+
+msgctxt "454"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "479"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "512"
+msgid "ありがとうございます。%sになります。"
+msgstr ""
+
+msgctxt "549"
+msgid "（これ以上食べられないな……）"
+msgstr ""
+
+msgctxt "580"
+msgid "（これ以上飲めないな……）"
+msgstr ""
+
+msgctxt "607"
+msgid "御品書"
+msgstr ""
+
+msgctxt "614"
+msgid "－"
+msgstr ""
+
+msgctxt "617"
+msgid "注"
+msgstr ""
+
+msgctxt "620"
+msgid "（うむ、うまいな）"
+msgstr ""
+
+msgctxt "639"
+msgid "（いけるな）"
+msgstr ""
+
+msgctxt "652"
+msgid "（なかなかのものだな）"
+msgstr ""
+
+msgctxt "675"
+msgid "（うむ、なかなかだな）"
+msgstr ""
+
+msgctxt "698"
+msgid "（これは、いいな）"
+msgstr ""
+
+msgctxt "717"
+msgid "（うまいものだな）"
+msgstr ""
+
+msgctxt "736"
+msgid "（なかなか、いけるな）"
+msgstr ""
+
+msgctxt "759"
+msgid "（これは、なかなか……）"
+msgstr ""
+
+msgctxt "784"
+msgid "（こいつは、うまいぞ）"
+msgstr ""
+
+msgctxt "807"
+msgid "（ふむ、いけるな）"
+msgstr ""
+
+msgctxt "826"
+msgid "（う～ん……　イマイチだな……）"
+msgstr ""
+
+msgctxt "859"
+msgid "stand"
+msgstr ""
+
+msgctxt "865"
+msgid ""
+"茹でたてのおそばとあつあつの自家製そば汁で\n"
+"美味しくいただける、当店の定番商品です。"
+msgstr ""
+
+msgctxt "949"
+msgid ""
+"茹でた後に水で洗っておそばをしめるという\n"
+"手間をかけた美味しいおそばと\n"
+"当店自慢のつゆとの相性をお楽しみください。"
+msgstr ""
+
+msgctxt "1062"
+msgid ""
+"自家製だし汁を使用した冷たいつゆと\n"
+"茹でたておそばに揚げ玉を乗せた商品です。\n"
+"ぶっかけの人気定番商品です。"
+msgstr ""
+
+msgctxt "1167"
+msgid ""
+"自家製だし汁を使用した冷たいつゆと\n"
+"茹でたておそばに当店特製の大判お揚げを\n"
+"食べやすい大きさに切って乗せた商品です。"
+msgstr ""
+
+msgctxt "1282"
+msgid ""
+"あつあつおそばに温泉玉子と野菜の天ぷらを\n"
+"乗せた人気不動の商品です。途中で温泉玉子を割って\n"
+"そば汁に溶かし、ふたつの味をお楽しみください。"
+msgstr ""
+
+msgctxt "1419"
+msgid ""
+"あつあつのおそばに、揚げ玉とお揚げ\n"
+"温泉玉子とかまぼこが入った\n"
+"盛りだくさんなおそばです。"
+msgstr ""
+
+msgctxt "1508"
+msgid ""
+"あつあつのおそばに、ほぐしたむし鶏と\n"
+"ほうれん草を乗せて、ゆずを加えた\n"
+"彩りと香りを楽しめるおそばです。"
+msgstr ""
+
+msgctxt "1611"
+msgid ""
+"西洋の調理法を取り入れた当店独自の丼です。\n"
+"豚の一枚肉をからっと揚げたかつに\n"
+"特製だれと玉子でふんわり作られた看板商品です。"
+msgstr ""

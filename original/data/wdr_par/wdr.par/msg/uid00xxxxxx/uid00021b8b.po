@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3588"
+msgid "テスト開始。"
+msgstr ""
+
+msgctxt "3601"
+msgid ""
+"そういえば社長、亡くなる直前に\n"
+"堀江さん宛てのメモを書いてました。左手を使って。"
+msgstr ""
+
+msgctxt "3682"
+msgid "そのメモがどこかにあると思います。"
+msgstr ""
+
+msgctxt "3717"
+msgid "ん？　あの金庫は？"
+msgstr ""
+
+msgctxt "3736"
+msgid "……鍵がかかってる。"
+msgstr ""
+
+msgctxt "3757"
+msgid "開けるんですか？"
+msgstr ""
+
+msgctxt "3774"
+msgid "なんかこの鍵、変わった形してるね。"
+msgstr ""
+
+msgctxt "3809"
+msgid "え？"
+msgstr ""
+
+msgctxt "3814"
+msgid "見てごらん。鉛筆でもつっこめそうな感じの鍵穴だ。"
+msgstr ""
+
+msgctxt "3863"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3864"
+msgid "……ダメか。……な、ワケないよね。"
+msgstr ""
+
+msgctxt "3899"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3900"
+msgid ""
+"そういえば社長、亡くなる直前に\n"
+"堀江さん宛てのメモを書いてました。左手を使って。"
+msgstr ""
+
+msgctxt "3981"
+msgid "そのメモがどこかにあると思います。"
+msgstr ""
+
+msgctxt "4016"
+msgid "ん？　あの金庫は？"
+msgstr ""
+
+msgctxt "4035"
+msgid "……鍵がかかってる。"
+msgstr ""
+
+msgctxt "4056"
+msgid ""
+"開けるんですか？\n"
+"（遥→プレイヤーにTURNHEAD）"
+msgstr ""
+
+msgctxt "4103"
+msgid "なんかこの鍵、変わった形してるね。"
+msgstr ""
+
+msgctxt "4138"
+msgid "え？"
+msgstr ""
+
+msgctxt "4143"
+msgid "見てごらん。鉛筆でもつっこめそうな感じの鍵穴だ。"
+msgstr ""
+
+msgctxt "4192"
+msgid "（遥、首向けNONE）"
+msgstr ""
+
+msgctxt "4211"
+msgid ""
+"……ダメか。……な、ワケないよね。\n"
+"（遥→プレイヤーにTURNHEAD）"
+msgstr ""
+
+msgctxt "4276"
+msgid ""
+"あ……　もしかして。\n"
+"（プレイヤー→遥にTURNHEAD）"
+msgstr ""
+
+msgctxt "4327"
+msgid ""
+"それは？\n"
+"（プレイヤー→遥にTURNBODY）"
+msgstr ""
+
+msgctxt "4366"
+msgid ""
+"社長から亡くなる前にいただいたんです。\n"
+"少し早いけど私のデビュー祝いにって……"
+msgstr ""
+
+msgctxt "4900"
+msgid "Idle"
+msgstr ""
+
+msgctxt "4905"
+msgid "遥"
+msgstr ""
+
+msgctxt "4908"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "4919"
+msgid "秋山"
+msgstr ""
+
+msgctxt "4924"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "4935"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "4946"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "4957"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "4968"
+msgid "TLK_SCN006"
+msgstr ""

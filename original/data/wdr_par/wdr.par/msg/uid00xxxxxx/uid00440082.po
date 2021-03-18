@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6636"
+msgid ""
+"ガハッ……　た、頼む。\n"
+"見逃してくれ……"
+msgstr ""
+
+msgctxt "6677"
+msgid ""
+"あぁ、その代わり、\n"
+"もう二度と、駕籠屋を襲うんじゃねぇ。\n"
+"……いいな？"
+msgstr ""
+
+msgctxt "6748"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6749"
+msgid "は、はいぃぃぃ!!　すいませんでしたぁぁぁ!!"
+msgstr ""
+
+msgctxt "6792"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6793"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6794"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6795"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6796"
+msgid "お侍のダンナ、あんたぁ命の恩人だ……！"
+msgstr ""
+
+msgctxt "6835"
+msgid ""
+"相方の足もよくなったんで、\n"
+"ひとまず町まで向かいます。駕籠に乗ってくだせぇ。"
+msgstr ""
+
+msgctxt "6912"
+msgid "あぁ。"
+msgstr ""
+
+msgctxt "6919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6921"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6922"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6924"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6925"
+msgid ""
+"ダンナぁ。すみません、\n"
+"ちょいと休憩させてくだせぇ。\n"
+"相方が足を痛めちまって。"
+msgstr ""
+
+msgctxt "7004"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7005"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7006"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7007"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7008"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7009"
+msgid "おいおい、大丈夫か？"
+msgstr ""
+
+msgctxt "7030"
+msgid "ひ、ひぃぃぃ！　……もうあかん！"
+msgstr ""
+
+msgctxt "7063"
+msgid "そんなにひどいのか？"
+msgstr ""
+
+msgctxt "7084"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7085"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7086"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7087"
+msgid "ち、ちゃうちゃう！　ダンナ、後ろ後ろ！"
+msgstr ""
+
+msgctxt "7126"
+msgid "ん？"
+msgstr ""
+
+msgctxt "7131"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7132"
+msgid "おい、兄ちゃん達！　どこ行くんだい？"
+msgstr ""
+
+msgctxt "7169"
+msgid ""
+"こ、こいつら、噂の……\n"
+"駕籠屋ばかり狙う賊や！　もうおしまいやぁ！"
+msgstr ""
+
+msgctxt "7236"
+msgid "こいつらが……"
+msgstr ""
+
+msgctxt "7251"
+msgid ""
+"くそ、相方が足なんて痛めてへんかったら\n"
+"こんなことには……　ダンナ、すんまへん。"
+msgstr ""
+
+msgctxt "7332"
+msgid "……"
+msgstr ""
+
+msgctxt "7337"
+msgid ""
+"へっへっへ！　今回は当たりだな。見たところ侍だ。\n"
+"金持ちじゃあないが、刀が高く売れる。"
+msgstr ""
+
+msgctxt "7424"
+msgid ""
+"おい、お侍さんよ。身ぐるみ全部置いてけや。\n"
+"そうすりゃ、命は助かるかもしれねぇぞ。"
+msgstr ""
+
+msgctxt "7507"
+msgid "……断る。"
+msgstr ""
+
+msgctxt "7518"
+msgid "だ、ダンナ……!?"
+msgstr ""
+
+msgctxt "7535"
+msgid ""
+"……痛い目見たくなかったら、\n"
+"すぐに消えるんだな。"
+msgstr ""
+
+msgctxt "7586"
+msgid ""
+"へっ、ずいぶん舐めた口叩きやがるが……\n"
+"お前、この人数相手に勝てると思ってるのかぁ？"
+msgstr ""
+
+msgctxt "7671"
+msgid "そうだと言ったら。どうする……？"
+msgstr ""
+
+msgctxt "7704"
+msgid ""
+"そうかいそうかい……　おい、テメェラ！\n"
+"こいつの身ぐるみ、命ごと剥いじまいな！"
+msgstr ""
+
+msgctxt "7783"
+msgid "おう！"
+msgstr ""
+
+msgctxt "7790"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8856"
+msgid "駕籠狙いの賊"
+msgstr ""
+
+msgctxt "8869"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "8874"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "8896"
+msgid "M_BUS_TLK_btl_aft_nw_01_en"
+msgstr ""
+
+msgctxt "8923"
+msgid "M_BUS_TLK_btl_aft_nw_04_en"
+msgstr ""
+
+msgctxt "8950"
+msgid "M_BUS_TLK_btl_aft_nw_03_en"
+msgstr ""
+
+msgctxt "8977"
+msgid "M_BUS_TLK_btl_aft_nw_02_en"
+msgstr ""
+
+msgctxt "9004"
+msgid "M_BUS_TLK_stand_sorry"
+msgstr ""
+
+msgctxt "9026"
+msgid "駕籠かき"
+msgstr ""
+
+msgctxt "9035"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "9046"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9055"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "9064"
+msgid "M_BUS_TLK_btl_aft_nw_04_lp"
+msgstr ""
+
+msgctxt "9091"
+msgid "kaiwabgm_fuon_04"
+msgstr ""
+
+msgctxt "9108"
+msgid "ガラの悪い男"
+msgstr ""
+
+msgctxt "9121"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "9131"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "9143"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "9154"
+msgid "子分"
+msgstr ""
+
+msgctxt "9159"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9167"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "9178"
+msgid "子分たち"
+msgstr ""

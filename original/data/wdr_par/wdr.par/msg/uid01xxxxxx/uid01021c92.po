@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2068"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2070"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2071"
+msgid "遅いですよ、斎藤さん。"
+msgstr ""
+
+msgctxt "2094"
+msgid "藤堂……？　なぜここに。"
+msgstr ""
+
+msgctxt "2119"
+msgid ""
+"土方さんが行けって。\n"
+"斎藤さんの最初の仕事だし、\n"
+"万が一ってときのための保険だそうです。"
+msgstr ""
+
+msgctxt "2208"
+msgid "……そんなもの必要ない。"
+msgstr ""
+
+msgctxt "2233"
+msgid ""
+"俺もそう願います。\n"
+"また三番隊の隊長が変わったりしたら、\n"
+"名前覚え直すの面倒だし。"
+msgstr ""
+
+msgctxt "2316"
+msgid "……"
+msgstr ""
+
+msgctxt "2321"
+msgid ""
+"さてと、斎藤さん強そうだから、\n"
+"隊士くらいまぁ１人で十分ですよね？"
+msgstr ""
+
+msgctxt "2388"
+msgid ""
+"俺は秋元が逃げないように\n"
+"ここで出口ふさいでます。"
+msgstr ""
+
+msgctxt "2439"
+msgid "ああ。それでいい。"
+msgstr ""
+
+msgctxt "2458"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2960"
+msgid "C05070_TOD_kamae"
+msgstr ""
+
+msgctxt "2977"
+msgid "C05070_TOD_stealth_turn"
+msgstr ""
+
+msgctxt "3001"
+msgid "藤堂"
+msgstr ""
+
+msgctxt "3006"
+msgid "todo_c05_070_01"
+msgstr ""
+
+msgctxt "3022"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "3027"
+msgid "kiryu_c05_070_01"
+msgstr ""
+
+msgctxt "3044"
+msgid "todo_c05_070_02"
+msgstr ""
+
+msgctxt "3060"
+msgid "kiryu_c05_070_02"
+msgstr ""
+
+msgctxt "3077"
+msgid "todo_c05_070_03"
+msgstr ""
+
+msgctxt "3093"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "3115"
+msgid "todo_c05_070_04"
+msgstr ""
+
+msgctxt "3131"
+msgid "M_BUS_TLK_stand_think"
+msgstr ""
+
+msgctxt "3153"
+msgid "todo_c05_070_04b"
+msgstr ""
+
+msgctxt "3170"
+msgid "M_BUS_TLK_stand_yes"
+msgstr ""
+
+msgctxt "3190"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "3212"
+msgid "kiryu_c05_070_04"
+msgstr ""
+
+msgctxt "3229"
+msgid "P_KRU_TLK_stand_yes"
+msgstr ""

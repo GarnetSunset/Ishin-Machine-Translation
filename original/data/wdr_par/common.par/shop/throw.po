@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2864"
+msgid "所持品"
+msgstr ""
+
+msgctxt "2871"
+msgid "所持数"
+msgstr ""
+
+msgctxt "2878"
+msgid "（持ち物が一杯だ……　何か捨てよう……）"
+msgstr ""
+
+msgctxt "2919"
+msgid "本当に捨てても良いですか？"
+msgstr ""
+
+msgctxt "2946"
+msgid "（これは捨てるには惜しいな……）"
+msgstr ""
+
+msgctxt "2979"
+msgid "（この武器は捨てるには惜しいな……）"
+msgstr ""
+
+msgctxt "3016"
+msgid "%s を捨てました"
+msgstr ""

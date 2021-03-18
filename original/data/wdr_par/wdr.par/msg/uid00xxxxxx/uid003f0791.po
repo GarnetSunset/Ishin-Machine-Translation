@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "11752"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11753"
+msgid ""
+"おっ、お客さん。来てくれたのかい！\n"
+"今日もいいもの揃えてるよ～！"
+msgstr ""
+
+msgctxt "11818"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11819"
+msgid "福引き券%d枚渡すよ。"
+msgstr ""
+
+msgctxt "11840"
+msgid ""
+"お客さん、まいどあり！\n"
+"また来てちょうだいね！"
+msgstr ""
+
+msgctxt "11887"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11888"
+msgid "またおいで！"
+msgstr ""
+
+msgctxt "11901"
+msgid ""
+"おっ、お客さん。来てくれたのかい！\n"
+"今日もいいもの揃えてるよ～！"
+msgstr ""
+
+msgctxt "11966"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11967"
+msgid "福引き券%d枚渡すよ。"
+msgstr ""
+
+msgctxt "11988"
+msgid ""
+"お客さん、まいどあり！\n"
+"また来てちょうだいね！"
+msgstr ""
+
+msgctxt "12035"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12036"
+msgid "またおいで！"
+msgstr ""
+
+msgctxt "12049"
+msgid ""
+"おっ、お客さん！\n"
+"人参を１０本、持って来てくれたのかい？"
+msgstr ""
+
+msgctxt "12106"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12107"
+msgid ""
+"いや、まだだ。すまない。\n"
+"なるべく早く用意する。もう少し待っていてくれ。"
+msgstr ""
+
+msgctxt "12180"
+msgid ""
+"そうか……　ごめんね、\n"
+"急かしてるみたいになっちゃって。\n"
+"悪いけど、よろしく頼んだよ！"
+msgstr ""
+
+msgctxt "12267"
+msgid ""
+"（必要な数、人参を持っているな。\n"
+"　八百屋に１０本渡そうか）"
+msgstr ""
+
+msgctxt "12328"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12329"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12330"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12331"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12332"
+msgid "これで大丈夫か？"
+msgstr ""
+
+msgctxt "12349"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12350"
+msgid ""
+"おぉ！　正真正銘の人参だ！\n"
+"しかもすごくいい色つやしてるねぇ！"
+msgstr ""
+
+msgctxt "12413"
+msgid ""
+"これでお客に人参を提供することができる……\n"
+"一時はどうなることかと思ったけど、助かったよ。\n"
+"お礼させておくれ。"
+msgstr ""
+
+msgctxt "12524"
+msgid ""
+"いや、受け取れない。\n"
+"以前、おまけをしてもらったことがある。\n"
+"今回はそのお返しだ。"
+msgstr ""
+
+msgctxt "12607"
+msgid ""
+"お客さん、かっこいいね……！\n"
+"でもそれじゃ俺の気持ちがおさまらないからさ。\n"
+"ね？　受け取ってちょうだい。はい、少ないけど。"
+msgstr ""
+
+msgctxt "12730"
+msgid "「<Color:8>丈夫な木材<Color:Default>」を手に入れた"
+msgstr ""
+
+msgctxt "12781"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12782"
+msgid ""
+"とにかく助かったよ。\n"
+"これからも末長く、うちの店をよろしくね！"
+msgstr ""
+
+msgctxt "12845"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12846"
+msgid "むむむ……　どうしたもんか……"
+msgstr ""
+
+msgctxt "12877"
+msgid "どうしたんだ？　そんなに落ち込んで。"
+msgstr ""
+
+msgctxt "12914"
+msgid ""
+"あ！　お客さん。\n"
+"……実は以前話した、野菜を卸してくれてる商人が\n"
+"ここに来る途中で事故にあったみたいなんだ。"
+msgstr ""
+
+msgctxt "13023"
+msgid ""
+"事故に？　それは大変だな……\n"
+"で、店の在庫の方は大丈夫なのか？"
+msgstr ""
+
+msgctxt "13086"
+msgid ""
+"こんなこともあろうかと、多めに用意していたから\n"
+"ほとんどの品は大丈夫なんだけど、\n"
+"人参だけ無くてね……"
+msgstr ""
+
+msgctxt "13189"
+msgid ""
+"人参は人気だから、用意してないと\n"
+"色んなお客さんに迷惑かけちゃうんだよね。\n"
+"……困ったなぁ。どうしよう。"
+msgstr ""
+
+msgctxt "13294"
+msgid ""
+"人参か……\n"
+"何本くらいあれば足りるんだ？"
+msgstr ""
+
+msgctxt "13335"
+msgid "１０本あればどうにかなるんだが……"
+msgstr ""
+
+msgctxt "13370"
+msgid ""
+"（人参１０本か。売っている店も知らないし、\n"
+"　畑で育てたりでもしなければ入手は難しそうだな）"
+msgstr ""
+
+msgctxt "13463"
+msgid ""
+"一応、当てがある。\n"
+"人参１０本だったな。用意してこよう。"
+msgstr ""
+
+msgctxt "13520"
+msgid ""
+"ほ、本当かい!?\n"
+"助かるよ。それじゃあ悪いけど、よろしくね！"
+msgstr ""
+
+msgctxt "13579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13581"
+msgid "うーん……"
+msgstr ""
+
+msgctxt "13592"
+msgid "よう。どうした？　困った顔して。"
+msgstr ""
+
+msgctxt "13625"
+msgid ""
+"あっ、お客さん！\n"
+"ちょっとこっちの都合でね……\n"
+"さて、何にしましょう？"
+msgstr ""
+
+msgctxt "13696"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13697"
+msgid "福引き券%d枚渡すよ。"
+msgstr ""
+
+msgctxt "13718"
+msgid "まいどあり。ふぅ……"
+msgstr ""
+
+msgctxt "13739"
+msgid ""
+"……やっぱり何かあったのか？\n"
+"心ここにあらず、って感じだぞ。"
+msgstr ""
+
+msgctxt "13800"
+msgid ""
+"あ、いえね。\n"
+"……定期的に野菜を卸してくれる商人が\n"
+"いるんですけど、そいつの到着が遅れてるんですわ。"
+msgstr ""
+
+msgctxt "13901"
+msgid ""
+"もしこのまま来なかったら、野菜の種類によっては\n"
+"在庫がなくなってまうかもしれんからね。\n"
+"それが心配で……"
+msgstr ""
+
+msgctxt "14006"
+msgid "そうか。……無事到着するといいな。"
+msgstr ""
+
+msgctxt "14041"
+msgid ""
+"ええ。心配掛けてすんません。\n"
+"またよろしくお願いね！"
+msgstr ""
+
+msgctxt "14094"
+msgid "あぁ、もちろんだ。"
+msgstr ""
+
+msgctxt "14113"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14114"
+msgid "またおいで！"
+msgstr ""
+
+msgctxt "14127"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14128"
+msgid ""
+"らっしゃい！\n"
+"おっ、お客さん、今日は何にする？"
+msgstr ""
+
+msgctxt "14175"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14176"
+msgid "福引き券%d枚渡すよ。"
+msgstr ""
+
+msgctxt "14197"
+msgid ""
+"まいどありー！\n"
+"来てくれてありがとね。またよろしく！"
+msgstr ""
+
+msgctxt "14250"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14251"
+msgid "またおいで！"
+msgstr ""
+
+msgctxt "14264"
+msgid "らっしゃい！　何にする？"
+msgstr ""
+
+msgctxt "14289"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14290"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14291"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14292"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14293"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14294"
+msgid "福引き券%d枚渡すよ。"
+msgstr ""
+
+msgctxt "14315"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14316"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14317"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14318"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14319"
+msgid ""
+"まいどあり……　ん？\n"
+"お客さん、うちで買い物するの初めてかい？"
+msgstr ""
+
+msgctxt "14382"
+msgid "あぁ、そうだ。"
+msgstr ""
+
+msgctxt "14397"
+msgid ""
+"そうかい。なら、お近づきの印に……\n"
+"はい、おまけ。もってけ泥棒！"
+msgstr ""
+
+msgctxt "14462"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14463"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14464"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14465"
+msgid ""
+"じゃが芋３個、大根３本、とまと３個\n"
+"を手に入れた。"
+msgstr ""
+
+msgctxt "14516"
+msgid "こんなに……　いいのか？"
+msgstr ""
+
+msgctxt "14541"
+msgid ""
+"いいのいいの！\n"
+"そのかわりうちの店のこと、これからよろしくね！\n"
+"また来ておくれよ？"
+msgstr ""
+
+msgctxt "14624"
+msgid ""
+"ふっ。商売上手だな。\n"
+"わかった。また利用させてもらう。"
+msgstr ""
+
+msgctxt "14679"
+msgid "おうとも！　よろしくっ！"
+msgstr ""
+
+msgctxt "14704"
+msgid ""
+"「八百屋の主人」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「八百屋の主人」と交流してみましょう。"
+msgstr ""
+
+msgctxt "14925"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14926"
+msgid "またおいで！"
+msgstr ""
+
+msgctxt "14939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15936"
+msgid "八百屋"
+msgstr ""
+
+msgctxt "15943"
+msgid "dummy"
+msgstr ""
+
+msgctxt "15949"
+msgid "Player"
+msgstr ""
+
+msgctxt "15956"
+msgid "渡す"
+msgstr ""
+
+msgctxt "15961"
+msgid "渡さない"
+msgstr ""
+
+msgctxt "15970"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "15980"
+msgid "M_SHP_TLK_stand_happy"
+msgstr ""
+
+msgctxt "16002"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "16011"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "16019"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "16030"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "16041"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "16052"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "16062"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "16075"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "16085"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "16096"
+msgid "八百屋の主人との絆"
+msgstr ""

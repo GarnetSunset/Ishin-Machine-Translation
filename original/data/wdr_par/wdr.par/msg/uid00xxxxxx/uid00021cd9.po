@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2388"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2389"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2390"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2391"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2393"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2394"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2395"
+msgid "おう。お前は四国屋組らしいな。"
+msgstr ""
+
+msgctxt "2426"
+msgid "わしは沖田らと一緒に池田屋をやる。"
+msgstr ""
+
+msgctxt "2461"
+msgid ""
+"フッ、相手は４０人からの勤王志士や……\n"
+"向こうも死に物狂いで抵抗してくるで。\n"
+"覚悟しとけ。"
+msgstr ""
+
+msgctxt "2552"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2553"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2554"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2555"
+msgid ""
+"俺らが桂小五郎を斬れば、\n"
+"長州はそろそろ勤王の弾が切れる。"
+msgstr ""
+
+msgctxt "2614"
+msgid ""
+"逆に言えばやつがおる限り\n"
+"勤王派は抑えられんっちゅうことや。"
+msgstr ""
+
+msgctxt "2675"
+msgid ""
+"俺は、吉田っちゅう奴のことは正直知らん。\n"
+"でたとこ勝負でやるしかないな。"
+msgstr ""
+
+msgctxt "2748"
+msgid "まぁ俺もあんたも、実践は得意な方やろ？"
+msgstr ""
+
+msgctxt "3072"
+msgid "永倉"
+msgstr ""
+
+msgctxt "3077"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3083"
+msgid "saejima_c06_070_01b"
+msgstr ""
+
+msgctxt "3103"
+msgid "saejima_c06_070_01bb"
+msgstr ""
+
+msgctxt "3124"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3133"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3144"
+msgid "saejima_c06_070_01bc"
+msgstr ""

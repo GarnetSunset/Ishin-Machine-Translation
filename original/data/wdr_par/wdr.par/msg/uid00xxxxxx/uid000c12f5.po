@@ -1,0 +1,474 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "11036"
+msgid "犯人だと思う人、２人に話しかけてみてくれ！"
+msgstr ""
+
+msgctxt "11079"
+msgid ""
+"この中で嘘をついている２人……\n"
+"俺の大福を食っちまった犯人に目星はついたのか？"
+msgstr ""
+
+msgctxt "11158"
+msgid "あぁ、犯人がわかった。"
+msgstr ""
+
+msgctxt "11181"
+msgid ""
+"ほ、本当か!?\n"
+"い、いったい犯人は誰なんだ!?\n"
+"犯人だと思う人、２人に話しかけてみてくれ！"
+msgstr ""
+
+msgctxt "11268"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11269"
+msgid "いや、全然わからん。"
+msgstr ""
+
+msgctxt "11290"
+msgid ""
+"……難しい事件だもんな。\n"
+"ま、ゆっくり考えてくれよ。"
+msgstr ""
+
+msgctxt "11343"
+msgid ""
+"嘘をついているのは犯人である２人だけ。\n"
+"もしこいつが正直者だったら矛盾が生まれるか……\n"
+"そうやって考えてみてもいいかもな。"
+msgstr ""
+
+msgctxt "11466"
+msgid ""
+"ひとまずは全員に話を聞いてみてくれ。\n"
+"もし犯人がわかったら、俺に話しかけてくれよな。"
+msgstr ""
+
+msgctxt "11551"
+msgid ""
+"ん？　あんたは……\n"
+"大福を食った犯人探しに協力してくれるのか？"
+msgstr ""
+
+msgctxt "11614"
+msgid "……仕方ないな。"
+msgstr ""
+
+msgctxt "11631"
+msgid ""
+"そうか、すまねぇな！\n"
+"じゃあ早速、こいつら５人から\n"
+"証言を聞いてみてくれ。"
+msgstr ""
+
+msgctxt "11706"
+msgid "ちなみにこいつらの名前は、左から……"
+msgstr ""
+
+msgctxt "11743"
+msgid "東原でさ。"
+msgstr ""
+
+msgctxt "11754"
+msgid "西山だ。"
+msgstr ""
+
+msgctxt "11763"
+msgid "中川っす。"
+msgstr ""
+
+msgctxt "11774"
+msgid "南野……"
+msgstr ""
+
+msgctxt "11783"
+msgid "北島ですぅ。"
+msgstr ""
+
+msgctxt "11796"
+msgid ""
+"……っていうんだ。\n"
+"ひとまずは全員に話を聞いてみてくれ。\n"
+"もし犯人がわかったら、俺に話しかけてくれよな。"
+msgstr ""
+
+msgctxt "11901"
+msgid ""
+"それじゃあお前ら、\n"
+"このお方と話がしやすいように整列しろー！"
+msgstr ""
+
+msgctxt "11962"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11963"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11964"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11965"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11966"
+msgid "……すまないが、力になれそうにない。"
+msgstr ""
+
+msgctxt "12003"
+msgid ""
+"そっか……　じゃあ仕方ねぇな。\n"
+"お前らみんな極刑だ。"
+msgstr ""
+
+msgctxt "12056"
+msgid "えぇぇぇ!!"
+msgstr ""
+
+msgctxt "12067"
+msgid "…………"
+msgstr ""
+
+msgctxt "12076"
+msgid ""
+"騒がしいな……\n"
+"いったい何の騒ぎだ？"
+msgstr ""
+
+msgctxt "12113"
+msgid ""
+"何だと!?\n"
+"こちとらそれどころじゃねえんだよ！"
+msgstr ""
+
+msgctxt "12158"
+msgid "……何かあったのか？"
+msgstr ""
+
+msgctxt "12179"
+msgid ""
+"こいつら５人の中に犯人がいるんだけどよ、\n"
+"そいつが誰かわからないんだよ！"
+msgstr ""
+
+msgctxt "12252"
+msgid ""
+"事件のようだな……\n"
+"しかし、犯人がわからないとは\n"
+"いったいどういうことなんだ？"
+msgstr ""
+
+msgctxt "12331"
+msgid "……この男達は五人組ってやつなんだけどよ。"
+msgstr ""
+
+msgctxt "12374"
+msgid "五人組……"
+msgstr ""
+
+msgctxt "12385"
+msgid ""
+"知ってると思うが、年貢を納めることや、\n"
+"罪を犯したことに関して連帯責任を負い、\n"
+"互いに監視し合うため編成された組織のことだな。"
+msgstr ""
+
+msgctxt "12512"
+msgid ""
+"それで、今日の朝こいつらの組に、\n"
+"奉行所の掃除を手伝ってもらってたんだよ。"
+msgstr ""
+
+msgctxt "12587"
+msgid "そこであの忌まわしい事件が起きたんだ……"
+msgstr ""
+
+msgctxt "12628"
+msgid "事件……"
+msgstr ""
+
+msgctxt "12637"
+msgid "俺の大切な……"
+msgstr ""
+
+msgctxt "12652"
+msgid ""
+"大切な大福が、\n"
+"何者かに食べられちゃったんだよ!!!!"
+msgstr ""
+
+msgctxt "12703"
+msgid "…………"
+msgstr ""
+
+msgctxt "12712"
+msgid ""
+"今朝は同心の連中もほぼ出払ってるし、\n"
+"大福が置かれていた部屋に行き来できたのは\n"
+"この５人だけ！"
+msgstr ""
+
+msgctxt "12807"
+msgid ""
+"その上、近隣住民の目撃証言によれば、奉行所の裏で\n"
+"大福を食っている２人の男がいたっていうんだ！\n"
+"ま、それが誰かまでは特定できてねぇんだが……"
+msgstr ""
+
+msgctxt "12948"
+msgid ""
+"なるほど、大福を食った犯人は、\n"
+"この５人の内、誰か２人だということか。"
+msgstr ""
+
+msgctxt "13019"
+msgid "あぁ、その通り！"
+msgstr ""
+
+msgctxt "13036"
+msgid ""
+"さっきまでこいつら５人に\n"
+"犯人の情報を問いただしてたんだが、困ったことに\n"
+"言ってることが食い違うんだよ！"
+msgstr ""
+
+msgctxt "13141"
+msgid ""
+"大方、自分が犯人であると悟られたくない２人が\n"
+"嘘をついて捜査をかく乱させてんだろうけどな……"
+msgstr ""
+
+msgctxt "13234"
+msgid ""
+"そうだ……　頼む！\n"
+"あんた、この中の誰が嘘をついている犯人なのか\n"
+"推理してくれねぇか!?"
+msgstr ""
+
+msgctxt "13321"
+msgid "何……　なぜ俺が？"
+msgstr ""
+
+msgctxt "13340"
+msgid ""
+"大福を食われて頭に血が上ってる俺には\n"
+"正常な判断ができねぇ！　どの２人が嘘ついてる\n"
+"犯人かなんて分かるわけねぇんだよ！"
+msgstr ""
+
+msgctxt "13459"
+msgid ""
+"犯人はわかんねぇし、\n"
+"俺の堪忍袋の緒は切れちまってるしで……\n"
+"俺はもう５人全員極刑でもいいと思うんだが……"
+msgstr ""
+
+msgctxt "13566"
+msgid "えぇぇぇ！"
+msgstr ""
+
+msgctxt "13577"
+msgid ""
+"あんたなら、頭も切れそうだし、\n"
+"冷静な判断をしてくれそうな気がするんだが……"
+msgstr ""
+
+msgctxt "13654"
+msgid "…………"
+msgstr ""
+
+msgctxt "13663"
+msgid "頼む、あんたの知恵を貸してくれ！"
+msgstr ""
+
+msgctxt "13696"
+msgid "……仕方ないな。"
+msgstr ""
+
+msgctxt "13713"
+msgid ""
+"そうか、すまねぇな！\n"
+"じゃあ早速、こいつら５人から\n"
+"証言を聞いてみてくれ。"
+msgstr ""
+
+msgctxt "13788"
+msgid "ちなみにこいつらの名前は、左から……"
+msgstr ""
+
+msgctxt "13825"
+msgid "東原でさ。"
+msgstr ""
+
+msgctxt "13836"
+msgid "西山だ。"
+msgstr ""
+
+msgctxt "13845"
+msgid "中川っす。"
+msgstr ""
+
+msgctxt "13856"
+msgid "南野……"
+msgstr ""
+
+msgctxt "13865"
+msgid "北島ですぅ。"
+msgstr ""
+
+msgctxt "13878"
+msgid ""
+"……っていうんだ。\n"
+"ひとまずは全員に話を聞いてみてくれ。\n"
+"もし犯人がわかったら、俺に話しかけてくれよな。"
+msgstr ""
+
+msgctxt "13983"
+msgid ""
+"それじゃあお前ら、\n"
+"このお方と話がしやすいように整列しろー！"
+msgstr ""
+
+msgctxt "14044"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14045"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14046"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14047"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14048"
+msgid "……すまないが、力になれそうにない。"
+msgstr ""
+
+msgctxt "14085"
+msgid ""
+"そっか……　じゃあ仕方ねぇな。\n"
+"お前らみんな極刑だ。"
+msgstr ""
+
+msgctxt "14138"
+msgid "えぇぇぇ!!"
+msgstr ""
+
+msgctxt "14149"
+msgid "…………"
+msgstr ""
+
+msgctxt "14158"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15368"
+msgid "同心"
+msgstr ""
+
+msgctxt "15373"
+msgid "ついた"
+msgstr ""
+
+msgctxt "15380"
+msgid "全然わからん"
+msgstr ""
+
+msgctxt "15393"
+msgid "Player"
+msgstr ""
+
+msgctxt "15400"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "15410"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15418"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "15431"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "15441"
+msgid "知恵を貸す"
+msgstr ""
+
+msgctxt "15452"
+msgid "無理だ"
+msgstr ""
+
+msgctxt "15459"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "15468"
+msgid "東原"
+msgstr ""
+
+msgctxt "15473"
+msgid "西山"
+msgstr ""
+
+msgctxt "15478"
+msgid "中川"
+msgstr ""
+
+msgctxt "15483"
+msgid "南野"
+msgstr ""
+
+msgctxt "15488"
+msgid "北島"
+msgstr ""
+
+msgctxt "15493"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "15504"
+msgid "五人組"
+msgstr ""
+
+msgctxt "15511"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "15523"
+msgid "kaiwabgm_sub_apathy_04"
+msgstr ""
+
+msgctxt "15546"
+msgid "Talk_Sad"
+msgstr ""
+
+msgctxt "15555"
+msgid "dummy"
+msgstr ""

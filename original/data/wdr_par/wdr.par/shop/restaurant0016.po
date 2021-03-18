@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "316"
+msgid "－"
+msgstr ""
+
+msgctxt "319"
+msgid "所持数"
+msgstr ""
+
+msgctxt "326"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "351"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "384"
+msgid "どうも。%sになります。"
+msgstr ""
+
+msgctxt "407"
+msgid "（これ以上食べられないな……）"
+msgstr ""
+
+msgctxt "438"
+msgid "（これ以上飲めないな……）"
+msgstr ""
+
+msgctxt "465"
+msgid "御品書"
+msgstr ""
+
+msgctxt "472"
+msgid "－"
+msgstr ""
+
+msgctxt "475"
+msgid "注"
+msgstr ""
+
+msgctxt "478"
+msgid "（うむ、うまいな）"
+msgstr ""
+
+msgctxt "497"
+msgid "（いけるな）"
+msgstr ""
+
+msgctxt "510"
+msgid "（なかなかのものだな）"
+msgstr ""
+
+msgctxt "533"
+msgid "（うむ、なかなかだな）"
+msgstr ""
+
+msgctxt "556"
+msgid "（これは、いいな）"
+msgstr ""
+
+msgctxt "575"
+msgid "（うまいものだな）"
+msgstr ""
+
+msgctxt "594"
+msgid "（なかなか、いけるな）"
+msgstr ""
+
+msgctxt "617"
+msgid "（これは、なかなか……）"
+msgstr ""
+
+msgctxt "642"
+msgid "（こいつは、うまいぞ）"
+msgstr ""
+
+msgctxt "665"
+msgid "（ふむ、いけるな）"
+msgstr ""
+
+msgctxt "684"
+msgid "（う～ん……　イマイチだな……）"
+msgstr ""
+
+msgctxt "717"
+msgid "chair"
+msgstr ""
+
+msgctxt "723"
+msgid ""
+"土佐で作られたお酒です。\n"
+"淡麗辛口ですっきりとした味わいです。"
+msgstr ""
+
+msgctxt "785"
+msgid ""
+"栗を原料にした焼酎です。\n"
+"栗独自の香ばしさと甘みで\n"
+"飲みやすい焼酎ですね。"
+msgstr ""
+
+msgctxt "858"
+msgid ""
+"安芸の国は西条で作られるお酒です。\n"
+"３大銘醸地の１つで、その名水から作られる\n"
+"深みに定評があるお酒です。"
+msgstr ""
+
+msgctxt "961"
+msgid ""
+"お酒にすり下ろした山芋を入れたものです。\n"
+"滋養にいいとされ、病に効くといいます。"
+msgstr ""

@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "16908"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16909"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16910"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16911"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16912"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16913"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16914"
+msgid ""
+"どいたどいた～！　お侍さん！\n"
+"ちょっとちょっと、そこ避けてくださ～い！"
+msgstr ""
+
+msgctxt "16985"
+msgid "ん？　なんだ……？"
+msgstr ""
+
+msgctxt "17004"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17005"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17006"
+msgid ""
+"ちょっとちょっと！\n"
+"は、早く避けてく……　う、うわぁぁぁ！"
+msgstr ""
+
+msgctxt "17065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17066"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17067"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17068"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17070"
+msgid ""
+"（くっ、よくわからないうちに\n"
+"　ぶつかってしまった……）"
+msgstr ""
+
+msgctxt "17127"
+msgid "（よし、俺は避けん！）"
+msgstr ""
+
+msgctxt "17150"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17151"
+msgid ""
+"ちょっとちょっと！\n"
+"は、早く避けてく……　う、うわぁぁぁ！"
+msgstr ""
+
+msgctxt "17210"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17211"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17212"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17213"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17214"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17215"
+msgid ""
+"（くっ、ぶつかってしまった……\n"
+"　避けなかったら当然と言えば当然だが……）"
+msgstr ""
+
+msgctxt "17290"
+msgid "（よし、右に避けよう！）"
+msgstr ""
+
+msgctxt "17315"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17316"
+msgid ""
+"ちょっとちょっと！\n"
+"なんで同じ方向に避けるんすか……　う、うわぁぁ！"
+msgstr ""
+
+msgctxt "17385"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17386"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17387"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17388"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17389"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17390"
+msgid ""
+"（くっ、なぜ人はこういう時、\n"
+"　同じ方向に避けてしまうんだろうな……）"
+msgstr ""
+
+msgctxt "17461"
+msgid "（よし、左に避けよう！）"
+msgstr ""
+
+msgctxt "17486"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17487"
+msgid ""
+"ちょっとちょっと！\n"
+"なんで同じ方向に避けるんすか……　う、うわぁぁ！"
+msgstr ""
+
+msgctxt "17556"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17557"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17558"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17559"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17560"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17561"
+msgid ""
+"（くっ、なぜ人はこういう時、\n"
+"　同じ方向に避けてしまうんだろうな……）"
+msgstr ""
+
+msgctxt "17632"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17633"
+msgid ""
+"す、すんません。怪我ないっすか？\n"
+"急いでたもんだからつい……"
+msgstr ""
+
+msgctxt "17694"
+msgid "って、痛ぇっ！"
+msgstr ""
+
+msgctxt "17709"
+msgid "お、おい……　お前こそ大丈夫か？"
+msgstr ""
+
+msgctxt "17742"
+msgid ""
+"ううう……\n"
+"ど、どうやら足をくじいちまったみたいっす……\n"
+"ぐおおおおお！　痛いよおおっ！"
+msgstr ""
+
+msgctxt "17831"
+msgid ""
+"その痛がりようは尋常じゃないな……\n"
+"今すぐ医者に診てもらった方がいい。"
+msgstr ""
+
+msgctxt "17902"
+msgid ""
+"そうしたいのは山々なんですけど、それはダメっす。\n"
+"まだ配達は残ってるんす。\n"
+"早く、手紙を届けないと……"
+msgstr ""
+
+msgctxt "18005"
+msgid ""
+"手紙を届けるって……\n"
+"その足では無理だろ。なぜそんなに急ぐんだ？"
+msgstr ""
+
+msgctxt "18070"
+msgid ""
+"……うちの飛脚組合は弱小なんです。\n"
+"届けるのが遅れたら、ただでさえ少ない信用も\n"
+"評判もガタ落ちしちゃいます。"
+msgstr ""
+
+msgctxt "18179"
+msgid ""
+"下手したら、それが原因で組合が破綻して解散、\n"
+"なんてことになっちゃうかもしれません。"
+msgstr ""
+
+msgctxt "18264"
+msgid ""
+"そうしたら……　俺はまた無職に逆戻りっすよ！\n"
+"色んな飛脚組合を受けて、落ちまくって、\n"
+"それでようやく今の組合に入れたのに……"
+msgstr ""
+
+msgctxt "18389"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18390"
+msgid ""
+"だから……　足が痛いのどうのと\n"
+"言ってられないんす！　早く届けないと……！"
+msgstr ""
+
+msgctxt "18465"
+msgid ""
+"なるほどな……\n"
+"そんな理由があったのか。"
+msgstr ""
+
+msgctxt "18506"
+msgid ""
+"はい。……泣き言なんて言ってる暇ないんす。\n"
+"どんなに痛くても……　我慢してでも、\n"
+"届けて見せますよ！　それじゃ！"
+msgstr ""
+
+msgctxt "18619"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18620"
+msgid ""
+"（職人意識のある、良い若者だな。\n"
+"　俺も見習わねば……）"
+msgstr ""
+
+msgctxt "18677"
+msgid "いたーい！"
+msgstr ""
+
+msgctxt "18688"
+msgid "ん？"
+msgstr ""
+
+msgctxt "18693"
+msgid ""
+"やっぱり痛いものは痛いっす！\n"
+"もう無理っす！　自分、諦めるっす！\n"
+"限界、ばりばり感じてるっす!!"
+msgstr ""
+
+msgctxt "18788"
+msgid ""
+"……泣き言言いまくりじゃないか。\n"
+"届けないと組合がつぶれるかもしれないんだろ？\n"
+"いいのか？"
+msgstr ""
+
+msgctxt "18879"
+msgid ""
+"それはよくないですけど……\n"
+"自分が届けなくても組合がつぶれない可能性もある。\n"
+"その可能性にかけることにしようかと……"
+msgstr ""
+
+msgctxt "18996"
+msgid "……まったく、仕方のない奴だな。"
+msgstr ""
+
+msgctxt "19029"
+msgid ""
+"だって痛いんですもーん！\n"
+"なら、お侍さんが替わりに配ってくださいよー！"
+msgstr ""
+
+msgctxt "19100"
+msgid "お、俺が？"
+msgstr ""
+
+msgctxt "19111"
+msgid ""
+"そうっす！　残り６件くらいですし、\n"
+"お侍さんでもできるはずっす！"
+msgstr ""
+
+msgctxt "19176"
+msgid ""
+"それに、もとはと言えば、俺を避けきれなかった\n"
+"お侍さんの瞬発力不足も、怪我の原因なんですよ？\n"
+"それくらい手伝ってくれてもいいじゃないですか！"
+msgstr ""
+
+msgctxt "19317"
+msgid "むむむ……"
+msgstr ""
+
+msgctxt "19328"
+msgid ""
+"ね！　お願いします！\n"
+"お侍さまー！　まだ痛いんすよ、お侍さんと\n"
+"ぶつかったときの傷が……　あー痛い痛い！"
+msgstr ""
+
+msgctxt "19433"
+msgid "そんなの俺の知ったことか。"
+msgstr ""
+
+msgctxt "19460"
+msgid ""
+"えー！　そ、そんなー！\n"
+"器小さいっすねー最近の侍は！"
+msgstr ""
+
+msgctxt "19513"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19514"
+msgid ""
+"（納得はいかんが……　６件くらいなら\n"
+"　助けてやるか……）"
+msgstr ""
+
+msgctxt "19573"
+msgid ""
+"仕方ねぇな……　分かったよ。\n"
+"ほら、さっさとその残りの手紙を渡せ。"
+msgstr ""
+
+msgctxt "19640"
+msgid ""
+"やったー！　あざーっす！　お侍さん！\n"
+"よっ！　日本一！"
+msgstr ""
+
+msgctxt "19695"
+msgid "まったく、調子のいいやつだぜ……"
+msgstr ""
+
+msgctxt "19728"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19729"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19730"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19731"
+msgid ""
+"お侍さん！　ありがとうございました！\n"
+"なんとお礼を言っていいか……\n"
+"これでうちの組合も安泰です！"
+msgstr ""
+
+msgctxt "19828"
+msgid "まったく。調子のいいやつだぜ。"
+msgstr ""
+
+msgctxt "19859"
+msgid ""
+"へへへ。これは手伝ってもらったお礼です！\n"
+"受け取ってください！"
+msgstr ""
+
+msgctxt "19922"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19923"
+msgid "「<Color:8>金印<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "19966"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19967"
+msgid ""
+"いやー！　それにしても、良い走りでしたね！\n"
+"俺よりも早いかもしれないっす！\n"
+"もともと飛脚だったりしたんですか？"
+msgstr ""
+
+msgctxt "20078"
+msgid "いや。そんなことはないが……"
+msgstr ""
+
+msgctxt "20107"
+msgid ""
+"そうなんすか。お侍さんなら、もしかしたら\n"
+"京最速の飛脚になれるかもしれないっす。\n"
+"それくらいの素質を感じたっすよ！"
+msgstr ""
+
+msgctxt "20222"
+msgid ""
+"お侍さん！　ありがとうございました！\n"
+"なんとお礼を言っていいか……\n"
+"これでうちの組合も安泰です！"
+msgstr ""
+
+msgctxt "20319"
+msgid ""
+"少し遅れてしまったが……\n"
+"慣れない作業だったんでな。勘弁してくれ。"
+msgstr ""
+
+msgctxt "20386"
+msgid ""
+"全然大丈夫っす！\n"
+"これは手伝ってもらったお礼です！\n"
+"受け取ってください！"
+msgstr ""
+
+msgctxt "20459"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20460"
+msgid "「<Color:8>金印<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "20503"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20504"
+msgid "いやーでも、お侍さん脚が早いですね！"
+msgstr ""
+
+msgctxt "20541"
+msgid "そうか？"
+msgstr ""
+
+msgctxt "20550"
+msgid ""
+"ええ。作業に慣れれば、お侍さんならもしかしたら\n"
+"京最速の飛脚になれるかもしれないっす。\n"
+"それくらいの素質を感じたっすよ！"
+msgstr ""
+
+msgctxt "20671"
+msgid ""
+"自分、名前を清川と言います。\n"
+"……お侍さんは？"
+msgstr ""
+
+msgctxt "20718"
+msgid "ああ。斎藤だ。"
+msgstr ""
+
+msgctxt "20733"
+msgid ""
+"斎藤さん、ですね。\n"
+"もしよかったら、また仕事を手伝ってください。"
+msgstr ""
+
+msgctxt "20798"
+msgid ""
+"俺は斎藤さんに、飛脚としての無限の可能性を\n"
+"感じてるんす。ぜひ！"
+msgstr ""
+
+msgctxt "20863"
+msgid ""
+"……とかなんとか言って、\n"
+"本当は俺に仕事を押し付けて、自分がサボりたい\n"
+"だけなんじゃないのか？"
+msgstr ""
+
+msgctxt "20958"
+msgid ""
+"えへへへへ……\n"
+"まぁ、それもありますけどね。\n"
+"気が向いたら、またお願いしますね！"
+msgstr ""
+
+msgctxt "21039"
+msgid "まったく……"
+msgstr ""
+
+msgctxt "21052"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21053"
+msgid ""
+"……気に入らねぇな。\n"
+"あの男。"
+msgstr ""
+
+msgctxt "21084"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21085"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21086"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21087"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21088"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23000"
+msgid "飛脚"
+msgstr ""
+
+msgctxt "23005"
+msgid "Player"
+msgstr ""
+
+msgctxt "23012"
+msgid "dummy"
+msgstr ""
+
+msgctxt "23018"
+msgid "どかない"
+msgstr ""
+
+msgctxt "23027"
+msgid "右に避ける"
+msgstr ""
+
+msgctxt "23038"
+msgid "左に避ける"
+msgstr ""
+
+msgctxt "23049"
+msgid "0"
+msgstr ""
+
+msgctxt "23051"
+msgid "M_BUS_TLK_btl_aft_nw_04_lp"
+msgstr ""
+
+msgctxt "23078"
+msgid "M_BUS_TLK_btl_aft_nw_02_lp"
+msgstr ""
+
+msgctxt "23105"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "23127"
+msgid "M_BUS_TLK_btl_aft_nw_02_en"
+msgstr ""
+
+msgctxt "23154"
+msgid "M_BUS_TLK_btl_aft_nw_05_en"
+msgstr ""
+
+msgctxt "23181"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "23192"
+msgid "M_HKK_SS_dam_lp"
+msgstr ""
+
+msgctxt "23208"
+msgid "kaiwabgm_sub_apathy_01"
+msgstr ""
+
+msgctxt "23231"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "23253"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "23261"
+msgid "M_HKK_SS_dam_talk_kamae"
+msgstr ""
+
+msgctxt "23285"
+msgid "M_BUS_TLK_seiza_to_stand"
+msgstr ""
+
+msgctxt "23310"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "23319"
+msgid "放っておく"
+msgstr ""
+
+msgctxt "23330"
+msgid "手伝う"
+msgstr ""
+
+msgctxt "23337"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "23350"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "23361"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "23373"
+msgid "kaiwabgm_sub_apathy_04"
+msgstr ""
+
+msgctxt "23396"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "23407"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "23417"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "23428"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "23439"
+msgid "清川"
+msgstr ""
+
+msgctxt "23444"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "23454"
+msgid "謎の男"
+msgstr ""

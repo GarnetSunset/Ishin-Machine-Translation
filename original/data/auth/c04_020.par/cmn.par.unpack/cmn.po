@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "413176"
+msgid "来たな"
+msgstr ""
+
+msgctxt "413320"
+msgid "こちらへ"
+msgstr ""
+
+msgctxt "413464"
+msgid "総司"
+msgstr ""
+
+msgctxt "413608"
+msgid "あぁ？"
+msgstr ""
+
+msgctxt "413752"
+msgid "はいはい"
+msgstr ""
+
+msgctxt "413896"
+msgid "揃ったな"
+msgstr ""
+
+msgctxt "414040"
+msgid "皆"
+msgstr ""
+
+msgctxt "414184"
+msgid "三番隊隊長就任の件は聞いているな？"
+msgstr ""
+
+msgctxt "414328"
+msgid "斎藤君"
+msgstr ""
+
+msgctxt "414472"
+msgid ""
+"三番隊隊長の\n"
+"斎藤一です"
+msgstr ""
+
+msgctxt "414616"
+msgid "以後　お見知りおきを"
+msgstr ""
+
+msgctxt "414760"
+msgid "三番隊隊長だ？"
+msgstr ""
+
+msgctxt "414904"
+msgid ""
+"こいつ昨日入隊したばかりだって\n"
+"話じゃねえか"
+msgstr ""
+
+msgctxt "415048"
+msgid ""
+"そんな奴に隊長の座\n"
+"任せちまっていいんですかね？"
+msgstr ""
+
+msgctxt "415192"
+msgid "斎藤は俺と総司が立ち合うて実力を認めた"
+msgstr ""
+
+msgctxt "415336"
+msgid "それやったら不足なんか　谷"
+msgstr ""
+
+msgctxt "415480"
+msgid "ずいぶん肩を持つじゃねえか永倉さんよ"
+msgstr ""
+
+msgctxt "415624"
+msgid "いくら貰ったんだ　あぁ？"
+msgstr ""
+
+msgctxt "415768"
+msgid "それとも女か？"
+msgstr ""
+
+msgctxt "415912"
+msgid "お前と一緒にすんなや下衆が"
+msgstr ""
+
+msgctxt "416056"
+msgid "へっ　相変わらず堅物だねえ"
+msgstr ""
+
+msgctxt "416200"
+msgid "俺達は今をときめく新選組の隊長サマだぜ？"
+msgstr ""
+
+msgctxt "416344"
+msgid "この立場を最大限利用しないでどうするんだよ？"
+msgstr ""
+
+msgctxt "416488"
+msgid "誰が三番隊隊長かなんてどうでもええわ"
+msgstr ""
+
+msgctxt "416632"
+msgid ""
+"要件済ませて\n"
+"さっさと切り上げてくれませんか？"
+msgstr ""
+
+msgctxt "416776"
+msgid "隊の訓練を控えとるんで"
+msgstr ""
+
+msgctxt "416920"
+msgid "隊の訓練ねぇ　ははは！"
+msgstr ""
+
+msgctxt "417064"
+msgid "あ？"
+msgstr ""
+
+msgctxt "417208"
+msgid "何笑とんねん左之助"
+msgstr ""
+
+msgctxt "417352"
+msgid "いやいや"
+msgstr ""
+
+msgctxt "417496"
+msgid "さすが光州流軍学を修めた武田さんだ"
+msgstr ""
+
+msgctxt "417640"
+msgid "変わった訓練してらっしゃる"
+msgstr ""
+
+msgctxt "417784"
+msgid ""
+"この前もアンタんとこの隊士が\n"
+"愚痴ってましたよ"
+msgstr ""
+
+msgctxt "417928"
+msgid "隊長様の“愛”が怖いって"
+msgstr ""
+
+msgctxt "418072"
+msgid "心もカラダも教育するんがワシの信条や"
+msgstr ""
+
+msgctxt "418216"
+msgid "一晩あれば　結構な教育ができる"
+msgstr ""
+
+msgctxt "418360"
+msgid "なんなら己も味わってみるか？"
+msgstr ""
+
+msgctxt "418504"
+msgid "幹部会だぞ"
+msgstr ""
+
+msgctxt "418648"
+msgid "余計な口を開くな"
+msgstr ""
+
+msgctxt "418792"
+msgid ""
+"左之助　隊長のお前が\n"
+"そういう態度をとっているから"
+msgstr ""
+
+msgctxt "418936"
+msgid "十番隊は素行が悪いのだ"
+msgstr ""
+
+msgctxt "419080"
+msgid "口を慎め"
+msgstr ""
+
+msgctxt "419224"
+msgid "へいへい"
+msgstr ""
+
+msgctxt "419368"
+msgid "新選組の小姑が"
+msgstr ""
+
+msgctxt "419512"
+msgid "斎藤君には明日から任務に就いてもらう"
+msgstr ""
+
+msgctxt "419656"
+msgid "松原君"
+msgstr ""
+
+msgctxt "419800"
+msgid "その時に任務を一通り説明するように"
+msgstr ""
+
+msgctxt "419944"
+msgid "なぜ私が？"
+msgstr ""
+
+msgctxt "420088"
+msgid ""
+"隊長になって日が浅い者同士\n"
+"協力してやれ"
+msgstr ""
+
+msgctxt "420232"
+msgid "失礼ながら副長"
+msgstr ""
+
+msgctxt "420376"
+msgid ""
+"私もこの男がいきなり隊長というのは\n"
+"納得しておりません"
+msgstr ""
+
+msgctxt "420520"
+msgid ""
+"私がどれだけの苦労をして\n"
+"この座に就いたか……"
+msgstr ""
+
+msgctxt "420664"
+msgid "松原君"
+msgstr ""
+
+msgctxt "420808"
+msgid "私はお願いしてるのではない"
+msgstr ""
+
+msgctxt "420952"
+msgid "命令しているのだ"
+msgstr ""
+
+msgctxt "421096"
+msgid "くっ……"
+msgstr ""
+
+msgctxt "421240"
+msgid "ハイハイ！"
+msgstr ""
+
+msgctxt "421384"
+msgid "じゃあ俺が教えますよ"
+msgstr ""
+
+msgctxt "421528"
+msgid "こう見えて　教えるのうまいんですよ俺"
+msgstr ""
+
+msgctxt "421672"
+msgid "いいでしょ？　土方さん"
+msgstr ""
+
+msgctxt "421816"
+msgid "藤堂……"
+msgstr ""
+
+msgctxt "421960"
+msgid "日和見だお前は"
+msgstr ""
+
+msgctxt "422104"
+msgid ""
+"あ　ひどいなぁ松原さん\n"
+"助け舟出したのに"
+msgstr ""
+
+msgctxt "422248"
+msgid "どうです土方さん"
+msgstr ""
+
+msgctxt "422392"
+msgid ""
+"いいだろう\n"
+"では斎藤君の件は平助に任せる"
+msgstr ""
+
+msgctxt "422536"
+msgid "了解です"
+msgstr ""
+
+msgctxt "422680"
+msgid "じゃあ　明日"
+msgstr ""
+
+msgctxt "422824"
+msgid "それともう一件"
+msgstr ""
+
+msgctxt "422968"
+msgid "先般　隊脱走の罪で身柄を捕えられていた"
+msgstr ""
+
+msgctxt "423112"
+msgid "総長兼三番隊隊長の山南敬助だが"
+msgstr ""
+
+msgctxt "423256"
+msgid "昨晩隊規に基づき"
+msgstr ""
+
+msgctxt "423400"
+msgid "切腹に処した"
+msgstr ""
+
+msgctxt "423544"
+msgid "切腹？"
+msgstr ""
+
+msgctxt "423688"
+msgid "ええ？"
+msgstr ""
+
+msgctxt "423832"
+msgid "山南さん殺しちゃったんですか？"
+msgstr ""
+
+msgctxt "423976"
+msgid "どういうことすか副長！"
+msgstr ""
+
+msgctxt "424120"
+msgid ""
+"山南さんは“俺ら”試衛館の\n"
+"仲間の一人だったじゃないすか"
+msgstr ""
+
+msgctxt "424264"
+msgid "なのにどうして？"
+msgstr ""
+
+msgctxt "424408"
+msgid ""
+"「俺ら」って　左之助さん\n"
+"試衛館出身じゃないじゃないですか"
+msgstr ""
+
+msgctxt "424552"
+msgid "いつから近藤派になったんですか？"
+msgstr ""
+
+msgctxt "424696"
+msgid "うるせぇ！"
+msgstr ""
+
+msgctxt "424840"
+msgid ""
+"俺は何年も前に一度\n"
+"近藤さんの手ほどきを受けてんだ"
+msgstr ""
+
+msgctxt "424984"
+msgid "心は試衛館よ"
+msgstr ""
+
+msgctxt "425128"
+msgid "とにかく"
+msgstr ""
+
+msgctxt "425272"
+msgid "隊を脱するを許さず"
+msgstr ""
+
+msgctxt "425416"
+msgid "それが新選組の鉄の掟だ"
+msgstr ""
+
+msgctxt "425560"
+msgid "山南はそれを承知した上で隊を離れた"
+msgstr ""
+
+msgctxt "425704"
+msgid "だから殺したまでだ"
+msgstr ""
+
+msgctxt "425848"
+msgid ""
+"一年前の芹沢鴨\n"
+"平山五郎　平間重助の粛清然り"
+msgstr ""
+
+msgctxt "425992"
+msgid "法度に例外はない"
+msgstr ""
+
+msgctxt "426136"
+msgid "裏切りは死"
+msgstr ""
+
+msgctxt "426280"
+msgid "ここにいる皆も"
+msgstr ""
+
+msgctxt "426424"
+msgid "肝に銘じておくことだな"
+msgstr ""
+
+msgctxt "426568"
+msgid "我々の働きに幕府も信頼を寄せている"
+msgstr ""
+
+msgctxt "426712"
+msgid "各隊"
+msgstr ""
+
+msgctxt "426856"
+msgid "更なる働きを期待する"
+msgstr ""
+
+msgctxt "427000"
+msgid "以上だ"
+msgstr ""

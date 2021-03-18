@@ -1,0 +1,842 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "12624"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12625"
+msgid ""
+"おい、見たか。\n"
+"俺がお前を筆頭にすると言った時の連中の反応。"
+msgstr ""
+
+msgctxt "12686"
+msgid ""
+"最近は勤王党も、妙に堅苦しい組織に\n"
+"なってきちまってたからな。\n"
+"良い起爆剤になったろうぜ。"
+msgstr ""
+
+msgctxt "12777"
+msgid ""
+"古参の連中からは、\n"
+"あまり良く思われないだろうな。"
+msgstr ""
+
+msgctxt "12828"
+msgid ""
+"いいんだよ、それくらいで。\n"
+"あれ位の刺激がねぇと、下の連中も焦らない。\n"
+"組織ってのは、固まっちまったら終いだ。"
+msgstr ""
+
+msgctxt "12939"
+msgid "土佐藩がいい例だろ？"
+msgstr ""
+
+msgctxt "12960"
+msgid "まあ、そうだが……"
+msgstr ""
+
+msgctxt "12979"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12980"
+msgid "……まだ痛むのか？　背中。"
+msgstr ""
+
+msgctxt "13007"
+msgid ""
+"ん？　おお、これか？\n"
+"いや、痛みはねぇさ。\n"
+"まぁ跡だけは派手に残っちまってるがな。"
+msgstr ""
+
+msgctxt "13090"
+msgid "すまねえ、兄弟。"
+msgstr ""
+
+msgctxt "13107"
+msgid ""
+"もう謝んなって言ったろ？\n"
+"いつの話だ。"
+msgstr ""
+
+msgctxt "13146"
+msgid ""
+"１５年前だ。\n"
+"だが今でも昨日のことのように思い出す。"
+msgstr ""
+
+msgctxt "13199"
+msgid "まあ、忘れようったって忘れられねえか……"
+msgstr ""
+
+msgctxt "13240"
+msgid ""
+"上士による焼き討ち。\n"
+"目の前で両親と家が焼け落ちるのを\n"
+"見ちまってんだからな。"
+msgstr ""
+
+msgctxt "13319"
+msgid ""
+"あの時、兄弟が助けてくれなかったら、\n"
+"俺ぁ両親共々、灰にされてた。"
+msgstr ""
+
+msgctxt "13386"
+msgid ""
+"だが俺を助けたせいで、兄弟は大火傷を……\n"
+"本当にすまないと思ってる。"
+msgstr ""
+
+msgctxt "13455"
+msgid ""
+"だから謝んなっつってんだろ？\n"
+"謝るのはお前じゃねえ。"
+msgstr ""
+
+msgctxt "13508"
+msgid ""
+"あの日、お前の家と家族を焼いた上士どもだ。\n"
+"……だろ？"
+msgstr ""
+
+msgctxt "13563"
+msgid "……ああ。"
+msgstr ""
+
+msgctxt "13574"
+msgid ""
+"龍馬……\n"
+"俺と親っさんは土佐藩を変えるつもりだ。\n"
+"当然お前にも力になってもらいたい。"
+msgstr ""
+
+msgctxt "13659"
+msgid ""
+"粗方の話は聞いてる。\n"
+"だが実際んとこ、何をする気なんだ？"
+msgstr ""
+
+msgctxt "13716"
+msgid ""
+"土佐藩の天守……「高知城」を襲撃するのさ。\n"
+"土佐勤王党の党員、５００人でな。"
+msgstr ""
+
+msgctxt "13793"
+msgid "襲撃だと……!?"
+msgstr ""
+
+msgctxt "13808"
+msgid ""
+"襲撃っつっても、\n"
+"実際には手を出さずに終わるはずだ。"
+msgstr ""
+
+msgctxt "13861"
+msgid ""
+"城を包囲して「勤王党の覚悟」が\n"
+"藩の上層部に伝わればいい。"
+msgstr ""
+
+msgctxt "13920"
+msgid ""
+"そのうえで親っさんが城を牛耳る老人たちに\n"
+"隠居を迫るんだよ。"
+msgstr ""
+
+msgctxt "13981"
+msgid ""
+"万が一、老人たちがそれを拒めば……\n"
+"当然、その場合の軍備はできている。"
+msgstr ""
+
+msgctxt "14052"
+msgid "そうやって空いた席に「勤王党」が座るのか？"
+msgstr ""
+
+msgctxt "14095"
+msgid ""
+"ああ……　すぐそこに迫る危機。\n"
+"命の危険を感じて初めて、上士連中は\n"
+"自分たちの考えの浅はかさに気づく。"
+msgstr ""
+
+msgctxt "14198"
+msgid ""
+"ガチガチに固まっちまった\n"
+"土佐藩の身分制度を壊すには、\n"
+"そのくらいの荒療治が必要だってことだ。"
+msgstr ""
+
+msgctxt "14293"
+msgid "なるほどな……"
+msgstr ""
+
+msgctxt "14308"
+msgid ""
+"黒船が初めてこの国に来た時と同じさ。\n"
+"……脅威というものを感じることで、\n"
+"人間は動揺する。"
+msgstr ""
+
+msgctxt "14399"
+msgid ""
+"変わらなければならないと考えるようになる。\n"
+"そういうことだ。"
+msgstr ""
+
+msgctxt "14460"
+msgid ""
+"東洋の親っさんは、\n"
+"牽牛子塾を開いているときから\n"
+"このことを考えてたのか？"
+msgstr ""
+
+msgctxt "14535"
+msgid ""
+"多分な。\n"
+"……あの人は、お前に剣を、\n"
+"俺には政治と学問を叩きこんだ。"
+msgstr ""
+
+msgctxt "14604"
+msgid "それもすべてはこの計画のためだ。"
+msgstr ""
+
+msgctxt "14637"
+msgid ""
+"そうだったのか……\n"
+"だが、もう剣が役立つこともなさそうだな。"
+msgstr ""
+
+msgctxt "14698"
+msgid "ん？　どうしてだ？"
+msgstr ""
+
+msgctxt "14717"
+msgid ""
+"きっと剣で人を斬るという時代は終わるんだろう。\n"
+"実際、さっきお前もピストルの練習を\n"
+"させていただろう？"
+msgstr ""
+
+msgctxt "14820"
+msgid ""
+"いやそれは、勤王党の連中には剣の才がないからだ。\n"
+"剣はいくら教えても才能が無ければうまくならない。"
+msgstr ""
+
+msgctxt "14919"
+msgid ""
+"だがピストルは違う。\n"
+"練習さえすれば、戦力になり得る。\n"
+"万人に平等な武器というわけだ。"
+msgstr ""
+
+msgctxt "15006"
+msgid "平等な武器か……"
+msgstr ""
+
+msgctxt "15023"
+msgid ""
+"龍馬……\n"
+"俺らは身分という壁を壊そうとしてる。"
+msgstr ""
+
+msgctxt "15070"
+msgid ""
+"だがたとえそれが実現したとしても、\n"
+"人間は決して平等になんかならない。"
+msgstr ""
+
+msgctxt "15141"
+msgid ""
+"才能がある者とない者……\n"
+"身分という壁はなくなっても、\n"
+"今度は別の壁が立ちはだかる。"
+msgstr ""
+
+msgctxt "15226"
+msgid ""
+"だから俺は、どうにかして、\n"
+"どんなに学がない人間でも、\n"
+"どんなに剣が振れない人間でも、"
+msgstr ""
+
+msgctxt "15313"
+msgid ""
+"せめて楽しく生きられる\n"
+"世の中を作りたいと思ってる。"
+msgstr ""
+
+msgctxt "15366"
+msgid "兄弟……"
+msgstr ""
+
+msgctxt "15375"
+msgid ""
+"お前も持っておいてくれ。\n"
+"勤王党の一員として。"
+msgstr ""
+
+msgctxt "15422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15423"
+msgid ""
+"俺たちが剣や銃を持たなくて良くなった時……\n"
+"その時初めて、この国に真の平等が訪れる。"
+msgstr ""
+
+msgctxt "15508"
+msgid "それまで、俺と一緒に戦ってくれないか？"
+msgstr ""
+
+msgctxt "15547"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15548"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15549"
+msgid "土佐勤王党を俺と一緒に支えてくれ。頼む。"
+msgstr ""
+
+msgctxt "15590"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15591"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15592"
+msgid "ああ、分かった。"
+msgstr ""
+
+msgctxt "15609"
+msgid ""
+"そうか！\n"
+"よし、実はな、今晩高知城で東洋の親っさんと\n"
+"今後の話をすることになってるんだ。"
+msgstr ""
+
+msgctxt "15698"
+msgid "一緒に行かないか？"
+msgstr ""
+
+msgctxt "15717"
+msgid "そんなに大っぴらに会って大丈夫なのか？"
+msgstr ""
+
+msgctxt "15756"
+msgid ""
+"なぁに、高知城まで行けば、\n"
+"親っさんの近臣が招き入れてくれる\n"
+"手はずになってる。大丈夫だ。"
+msgstr ""
+
+msgctxt "15847"
+msgid "そうか。"
+msgstr ""
+
+msgctxt "15856"
+msgid ""
+"それじゃお前は表で少し時間を潰しててくれ。\n"
+"俺もすぐ支度していく。"
+msgstr ""
+
+msgctxt "15923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18332"
+msgid "武市"
+msgstr ""
+
+msgctxt "18337"
+msgid "takechi_c01_070_01b"
+msgstr ""
+
+msgctxt "18357"
+msgid "takechi_c01_070_01c"
+msgstr ""
+
+msgctxt "18377"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "18382"
+msgid "kiryu_c01_070_01"
+msgstr ""
+
+msgctxt "18399"
+msgid "takechi_c01_070_02"
+msgstr ""
+
+msgctxt "18418"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "18429"
+msgid "takechi_c01_070_02b"
+msgstr ""
+
+msgctxt "18449"
+msgid "kiryu_c01_070_02"
+msgstr ""
+
+msgctxt "18466"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "18477"
+msgid "kiryu_c01_070_03"
+msgstr ""
+
+msgctxt "18494"
+msgid "takechi_c01_070_03"
+msgstr ""
+
+msgctxt "18513"
+msgid "TLK_SCN006"
+msgstr ""
+
+msgctxt "18524"
+msgid "kiryu_c01_070_04"
+msgstr ""
+
+msgctxt "18541"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "18552"
+msgid "takechi_c01_070_04"
+msgstr ""
+
+msgctxt "18571"
+msgid "TLK_SCN008"
+msgstr ""
+
+msgctxt "18582"
+msgid "kiryu_c01_070_05"
+msgstr ""
+
+msgctxt "18599"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "18610"
+msgid "TLK_SCN010"
+msgstr ""
+
+msgctxt "18621"
+msgid "takechi_c01_070_05"
+msgstr ""
+
+msgctxt "18640"
+msgid "TLK_SCN012"
+msgstr ""
+
+msgctxt "18651"
+msgid "takechi_c01_070_05b"
+msgstr ""
+
+msgctxt "18671"
+msgid "TLK_SCN014"
+msgstr ""
+
+msgctxt "18682"
+msgid "kiryu_c01_070_06"
+msgstr ""
+
+msgctxt "18699"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "18710"
+msgid "kiryu_c01_070_06b"
+msgstr ""
+
+msgctxt "18728"
+msgid "takechi_c01_070_06"
+msgstr ""
+
+msgctxt "18747"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "18758"
+msgid "TLK_SCN016"
+msgstr ""
+
+msgctxt "18769"
+msgid "takechi_c01_070_06b"
+msgstr ""
+
+msgctxt "18789"
+msgid "TLK_SCN018"
+msgstr ""
+
+msgctxt "18800"
+msgid "kiryu_c01_070_07"
+msgstr ""
+
+msgctxt "18817"
+msgid "TLK_SCN009"
+msgstr ""
+
+msgctxt "18828"
+msgid "takechi_c01_070_07"
+msgstr ""
+
+msgctxt "18847"
+msgid "kiryu_c01_070_08"
+msgstr ""
+
+msgctxt "18864"
+msgid "TLK_SCN011"
+msgstr ""
+
+msgctxt "18875"
+msgid "kaiwabgm_fuon_12"
+msgstr ""
+
+msgctxt "18892"
+msgid "takechi_c01_070_08"
+msgstr ""
+
+msgctxt "18911"
+msgid "TLK_SCN022"
+msgstr ""
+
+msgctxt "18922"
+msgid "kiryu_c01_070_09"
+msgstr ""
+
+msgctxt "18939"
+msgid "takechi_c01_070_09"
+msgstr ""
+
+msgctxt "18958"
+msgid "TLK_SCN024"
+msgstr ""
+
+msgctxt "18969"
+msgid "takechi_c01_070_09b"
+msgstr ""
+
+msgctxt "18989"
+msgid "takechi_c01_070_09c"
+msgstr ""
+
+msgctxt "19009"
+msgid "TLK_SCN026"
+msgstr ""
+
+msgctxt "19020"
+msgid "takechi_c01_070_09d"
+msgstr ""
+
+msgctxt "19040"
+msgid "kiryu_c01_070_10"
+msgstr ""
+
+msgctxt "19057"
+msgid "TLK_SCN015"
+msgstr ""
+
+msgctxt "19068"
+msgid "takechi_c01_070_10"
+msgstr ""
+
+msgctxt "19087"
+msgid "TLK_SCN028"
+msgstr ""
+
+msgctxt "19098"
+msgid "takechi_c01_070_10b"
+msgstr ""
+
+msgctxt "19118"
+msgid "TLK_SCN030"
+msgstr ""
+
+msgctxt "19129"
+msgid "kiryu_c01_070_11"
+msgstr ""
+
+msgctxt "19146"
+msgid "TLK_SCN017"
+msgstr ""
+
+msgctxt "19157"
+msgid "takechi_c01_070_11"
+msgstr ""
+
+msgctxt "19176"
+msgid "TLK_SCN032"
+msgstr ""
+
+msgctxt "19187"
+msgid "takechi_c01_070_11b"
+msgstr ""
+
+msgctxt "19207"
+msgid "TLK_SCN034"
+msgstr ""
+
+msgctxt "19218"
+msgid "kiryu_c01_070_12"
+msgstr ""
+
+msgctxt "19235"
+msgid "TLK_SCN019"
+msgstr ""
+
+msgctxt "19246"
+msgid "takechi_c01_070_12"
+msgstr ""
+
+msgctxt "19265"
+msgid "TLK_SCN036"
+msgstr ""
+
+msgctxt "19276"
+msgid "takechi_c01_070_12b"
+msgstr ""
+
+msgctxt "19296"
+msgid "TLK_SCN038"
+msgstr ""
+
+msgctxt "19307"
+msgid "kiryu_c01_070_13"
+msgstr ""
+
+msgctxt "19324"
+msgid "TLK_SCN021"
+msgstr ""
+
+msgctxt "19335"
+msgid "takechi_c01_070_13"
+msgstr ""
+
+msgctxt "19354"
+msgid "TLK_SCN040"
+msgstr ""
+
+msgctxt "19365"
+msgid "kiryu_c01_070_14"
+msgstr ""
+
+msgctxt "19382"
+msgid "TLK_SCN023"
+msgstr ""
+
+msgctxt "19393"
+msgid "takechi_c01_070_14"
+msgstr ""
+
+msgctxt "19412"
+msgid "TLK_SCN042"
+msgstr ""
+
+msgctxt "19423"
+msgid "takechi_c01_070_14b"
+msgstr ""
+
+msgctxt "19443"
+msgid "TLK_SCN044"
+msgstr ""
+
+msgctxt "19454"
+msgid "kiryu_c01_070_15"
+msgstr ""
+
+msgctxt "19471"
+msgid "TLK_SCN025"
+msgstr ""
+
+msgctxt "19482"
+msgid "kaiwabgm_hope_02"
+msgstr ""
+
+msgctxt "19499"
+msgid "takechi_c01_070_15"
+msgstr ""
+
+msgctxt "19518"
+msgid "TLK_SCN046"
+msgstr ""
+
+msgctxt "19529"
+msgid "takechi_c01_070_15b"
+msgstr ""
+
+msgctxt "19549"
+msgid "TLK_SCN048"
+msgstr ""
+
+msgctxt "19560"
+msgid "takechi_c01_070_15c"
+msgstr ""
+
+msgctxt "19580"
+msgid "TLK_SCN050"
+msgstr ""
+
+msgctxt "19591"
+msgid "takechi_c01_070_16"
+msgstr ""
+
+msgctxt "19610"
+msgid "TLK_SCN052"
+msgstr ""
+
+msgctxt "19621"
+msgid "takechi_c01_070_16b"
+msgstr ""
+
+msgctxt "19641"
+msgid "TLK_SCN054"
+msgstr ""
+
+msgctxt "19652"
+msgid "kiryu_c01_070_17"
+msgstr ""
+
+msgctxt "19669"
+msgid "TLK_SCN027"
+msgstr ""
+
+msgctxt "19680"
+msgid "takechi_c01_070_17"
+msgstr ""
+
+msgctxt "19699"
+msgid "TLK_SCN029"
+msgstr ""
+
+msgctxt "19710"
+msgid "TLK_SCN056"
+msgstr ""
+
+msgctxt "19721"
+msgid "takechi_c01_070_18"
+msgstr ""
+
+msgctxt "19740"
+msgid "TLK_SCN058"
+msgstr ""
+
+msgctxt "19751"
+msgid "Player"
+msgstr ""
+
+msgctxt "19758"
+msgid "takechi_c01_070_18b"
+msgstr ""
+
+msgctxt "19778"
+msgid "TLK_SCN060"
+msgstr ""
+
+msgctxt "19789"
+msgid "TLK_SCN031"
+msgstr ""
+
+msgctxt "19800"
+msgid "takechi_c01_070_19"
+msgstr ""
+
+msgctxt "19819"
+msgid "TLK_SCN033"
+msgstr ""
+
+msgctxt "19830"
+msgid "TLK_SCN062"
+msgstr ""
+
+msgctxt "19841"
+msgid "TLK_SCN035"
+msgstr ""
+
+msgctxt "19852"
+msgid "kiryu_c01_070_19"
+msgstr ""
+
+msgctxt "19869"
+msgid "TLK_SCN037"
+msgstr ""
+
+msgctxt "19880"
+msgid "TLK_SCN064"
+msgstr ""
+
+msgctxt "19891"
+msgid "takechi_c01_070_20"
+msgstr ""
+
+msgctxt "19910"
+msgid "TLK_SCN066"
+msgstr ""
+
+msgctxt "19921"
+msgid "takechi_c01_070_20b"
+msgstr ""
+
+msgctxt "19941"
+msgid "TLK_SCN068"
+msgstr ""
+
+msgctxt "19952"
+msgid "kiryu_c01_070_20"
+msgstr ""
+
+msgctxt "19969"
+msgid "TLK_SCN039"
+msgstr ""
+
+msgctxt "19980"
+msgid "takechi_c01_070_21"
+msgstr ""
+
+msgctxt "19999"
+msgid "TLK_SCN070"
+msgstr ""
+
+msgctxt "20010"
+msgid "kiryu_c01_070_21"
+msgstr ""
+
+msgctxt "20027"
+msgid "TLK_SCN041"
+msgstr ""
+
+msgctxt "20038"
+msgid "takechi_c01_070_22"
+msgstr ""
+
+msgctxt "20057"
+msgid "TLK_SCN072"
+msgstr ""

@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "388416"
+msgid "お前が“もう一人の坂本龍馬”なのか？"
+msgstr ""
+
+msgctxt "388560"
+msgid "誰なんだお前は"
+msgstr ""
+
+msgctxt "388704"
+msgid "お前の目的は何だ？"
+msgstr ""
+
+msgctxt "388848"
+msgid "なぜ俺の名を騙る！？"
+msgstr ""
+
+msgctxt "388992"
+msgid "答えろ！！"
+msgstr ""
+
+msgctxt "389136"
+msgid "お前が親っさんを殺させたのか？"
+msgstr ""
+
+msgctxt "389280"
+msgid ""
+"そうなんだろ！\n"
+"何とか言え！！"
+msgstr ""
+
+msgctxt "389424"
+msgid ""
+"鴨さんの仇や！\n"
+"オラァアア！！"
+msgstr ""
+
+msgctxt "389568"
+msgid "何やと！？"
+msgstr ""
+
+msgctxt "389712"
+msgid ""
+"一（はじめ）ちゃん！！\n"
+"窓や！　窓から逃げよった！"
+msgstr ""
+
+msgctxt "389856"
+msgid "追うで一（はじめ）ちゃん！"
+msgstr ""
+
+msgctxt "390000"
+msgid "一（はじめ）ちゃん？"
+msgstr ""
+
+msgctxt "390144"
+msgid "まさか　兄弟が……"
+msgstr ""
+
+msgctxt "390288"
+msgid "おのれらそこ動くな！"
+msgstr ""
+
+msgctxt "390432"
+msgid ""
+"チッ　見廻組の佐々木か\n"
+"何の用や"
+msgstr ""
+
+msgctxt "390576"
+msgid "こないなとこで何しとんねや　お前ら"
+msgstr ""
+
+msgctxt "390720"
+msgid ""
+"見たら分かるやろ\n"
+"不逞浪士の取り締まりや！"
+msgstr ""
+
+msgctxt "390864"
+msgid "ほぅ　そりゃご苦労なこっちゃな"
+msgstr ""
+
+msgctxt "391008"
+msgid ""
+"せやけどここから先は\n"
+"見廻組が預からせてもらう"
+msgstr ""
+
+msgctxt "391152"
+msgid "何やと！？"
+msgstr ""
+
+msgctxt "391296"
+msgid "聞こえへんかったんか？"
+msgstr ""
+
+msgctxt "391440"
+msgid ""
+"「坂本龍馬」は\n"
+"見廻組が預かる言うとんねん"
+msgstr ""
+
+msgctxt "391584"
+msgid "何だと？"
+msgstr ""
+
+msgctxt "391728"
+msgid "これは幕府　ご公儀の命令や"
+msgstr ""
+
+msgctxt "391872"
+msgid ""
+"これ以上　坂本龍馬の件\n"
+"新選組の手出しは無用"
+msgstr ""
+
+msgctxt "392016"
+msgid "ふざけんなや！"
+msgstr ""
+
+msgctxt "392160"
+msgid "坂本は新選組の幹部殺した男や"
+msgstr ""
+
+msgctxt "392304"
+msgid ""
+"それを手出し無用とは\n"
+"どういうことやねん！"
+msgstr ""
+
+msgctxt "392448"
+msgid "さあのぅ"
+msgstr ""
+
+msgctxt "392592"
+msgid ""
+"文句があるんやったら\n"
+"御上に言うたらどや？"
+msgstr ""
+
+msgctxt "392736"
+msgid "ワシらに命令した幕府のお役人に"
+msgstr ""
+
+msgctxt "392880"
+msgid "くそっ！！"
+msgstr ""
+
+msgctxt "393024"
+msgid "おい"
+msgstr ""
+
+msgctxt "393168"
+msgid "誰なんだ"
+msgstr ""
+
+msgctxt "393312"
+msgid "見廻組にその命令を出した役人ってのは"
+msgstr ""
+
+msgctxt "393456"
+msgid "幕府軍艦奉行並"
+msgstr ""
+
+msgctxt "393600"
+msgid "勝麟太郎や"
+msgstr ""
+
+msgctxt "393744"
+msgid "勝麟太郎……"
+msgstr ""
+
+msgctxt "393888"
+msgid "余計な詮索はせんこっちゃ"
+msgstr ""
+
+msgctxt "394032"
+msgid ""
+"その方が\n"
+"お互いの身のためなんとちゃいまっか？"
+msgstr ""
+
+msgctxt "394176"
+msgid "謎だらけの三番隊隊長さんよ"
+msgstr ""

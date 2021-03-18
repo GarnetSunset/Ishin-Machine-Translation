@@ -1,0 +1,929 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "16644"
+msgid ""
+"そうしてその日から、芹沢鴨は「井上源三郎」に。\n"
+"平間重助は「永倉新八」に。そして平山五郎は\n"
+"「沖田総司」へと生まれ変わった……"
+msgstr ""
+
+msgctxt "16771"
+msgid ""
+"鴨さん最後の仕事……\n"
+"吉田東洋暗殺がきっかけとなってな。"
+msgstr ""
+
+msgctxt "16828"
+msgid "１年前に、そんなことが……"
+msgstr ""
+
+msgctxt "16855"
+msgid ""
+"以来、俺たちは名を「壬生浪士組」から\n"
+"「新選組」へと改めた。"
+msgstr ""
+
+msgctxt "16916"
+msgid ""
+"芹沢鴨が乱暴狼藉の末、粛清されたという噂を流し、\n"
+"浅葱色の派手な羽織で装うことで、過去を払拭し、\n"
+"事実を隠した。"
+msgstr ""
+
+msgctxt "17029"
+msgid ""
+"フッ、沖田総司っていやあ美少年で通ってたから、\n"
+"そこの五郎ちゃんにはこのツラで自分を美少年と\n"
+"言い張らせたもんだ。"
+msgstr ""
+
+msgctxt "17144"
+msgid ""
+"そして、万が一にも秘密が漏れぬよう、\n"
+"“法度”を作った……"
+msgstr ""
+
+msgctxt "17203"
+msgid "隊を脱するは死罪……　あの法度のことか。"
+msgstr ""
+
+msgctxt "17244"
+msgid ""
+"ああ。\n"
+"いつの間にか新選組全体の掟になっちまったが、\n"
+"法度は元々この秘密を知る「７名」……"
+msgstr ""
+
+msgctxt "17335"
+msgid ""
+"近藤、土方、山南、藤堂、そして「水戸組」の\n"
+"３人の“口封じ”を目的として作られたものだった、\n"
+"ってワケだ。"
+msgstr ""
+
+msgctxt "17442"
+msgid "そうだったのか……"
+msgstr ""
+
+msgctxt "17461"
+msgid ""
+"俺は、鴨さんの剣術「水戸天狗流」を\n"
+"どうしても新選組に取り入れたかった。"
+msgstr ""
+
+msgctxt "17534"
+msgid ""
+"だから鴨さんが源さんになった翌日から、\n"
+"試衛館出身者は皆、天狗流の指南を受けたんだ。"
+msgstr ""
+
+msgctxt "17619"
+msgid ""
+"そして俺はその剣を「天念理心流」と改称し、\n"
+"京の街から世に広めていこうとした……\n"
+"「試衛館」の独自流派としてな。"
+msgstr ""
+
+msgctxt "17732"
+msgid ""
+"そうすりゃあ、強さを求める手練れの剣士たちが、\n"
+"新選組に集まるって考えたのさ。"
+msgstr ""
+
+msgctxt "17811"
+msgid ""
+"結果、７人しかいなかった組は、急激に拡大……\n"
+"左之助や伊東さん、武田といった有名な剣士の\n"
+"加入もあって今の規模になった。"
+msgstr ""
+
+msgctxt "17932"
+msgid ""
+"じゃあ俺はあんたの仕掛けた理心流の風潮に\n"
+"引っ掛かった１人、ということなのか。"
+msgstr ""
+
+msgctxt "18011"
+msgid ""
+"ああ。\n"
+"でもその結果、あんたはこうして新選組に入り、\n"
+"事の真相を知り得ることが出来たというわけだ。"
+msgstr ""
+
+msgctxt "18110"
+msgid "人生とは何があるか分かったもんじゃねえな。"
+msgstr ""
+
+msgctxt "18153"
+msgid "……"
+msgstr ""
+
+msgctxt "18158"
+msgid "龍馬さんよ。これが新選組と天念理心流の真実だ。"
+msgstr ""
+
+msgctxt "18205"
+msgid ""
+"そしてアンタが追いかけてた覆面の男の正体。\n"
+"それは井上源三郎として生きた「芹沢鴨」だった、\n"
+"ということだ。"
+msgstr ""
+
+msgctxt "18312"
+msgid "……"
+msgstr ""
+
+msgctxt "18317"
+msgid ""
+"きっと鴨さんは、一（はじめ）ちゃんに対して\n"
+"後ろめたい気持ちがあったんや……"
+msgstr ""
+
+msgctxt "18394"
+msgid ""
+"池田屋で松原が一（はじめ）ちゃんの秘密を\n"
+"バラそうとした時、背後から突然斬ったんも、\n"
+"一（はじめ）ちゃんを守るためにやったんやと思う。"
+msgstr ""
+
+msgctxt "18529"
+msgid ""
+"せやなかったらあの鴨さんが、\n"
+"敵を後ろから斬るようなマネ、するわけないしな。"
+msgstr ""
+
+msgctxt "18606"
+msgid ""
+"井上は俺の目的を知りながら、新選組に\n"
+"留まれるよう手を貸してくれていたということか……"
+msgstr ""
+
+msgctxt "18693"
+msgid ""
+"鴨の恩返し……っちゅうトコやな。\n"
+"フッ、ホンマあの人らしいわ。"
+msgstr ""
+
+msgctxt "18756"
+msgid "……"
+msgstr ""
+
+msgctxt "18761"
+msgid "どうだい。全てを知った今の心境は？"
+msgstr ""
+
+msgctxt "18796"
+msgid ""
+"正直、まだ釈然としない……\n"
+"どうして井上は、東洋の親っさんを\n"
+"殺さねばならなかったんだ。"
+msgstr ""
+
+msgctxt "18885"
+msgid ""
+"水戸藩経由で頼まれたらしい……\n"
+"仕事を成功させたら、俺らの脱藩を\n"
+"取り消してもらえるという条件でな。"
+msgstr ""
+
+msgctxt "18986"
+msgid ""
+"水戸藩からだと？\n"
+"じゃあ親っさんを殺そうとしたヤツは\n"
+"水戸にいるってのか。"
+msgstr ""
+
+msgctxt "19061"
+msgid ""
+"それは分からん。最後まで鴨さんは喋らんかった。\n"
+"影として生きる者の習性やな。"
+msgstr ""
+
+msgctxt "19138"
+msgid ""
+"それじゃ、俺はこれから先、\n"
+"何を追いかければいいんだ……"
+msgstr ""
+
+msgctxt "19195"
+msgid ""
+"龍馬さんよ。\n"
+"ひとつアンタに確認したい。"
+msgstr ""
+
+msgctxt "19236"
+msgid ""
+"もし今、吉田東洋の殺害を依頼した人間が誰なのか\n"
+"知ったら、アンタぁ復讐のため\n"
+"そいつを殺しにいくかい？"
+msgstr ""
+
+msgctxt "19339"
+msgid ""
+"……分からない。\n"
+"だが覆面の男の正体を知った今、\n"
+"ひとつだけはっきりしたことがある。"
+msgstr ""
+
+msgctxt "19424"
+msgid "なんだ？"
+msgstr ""
+
+msgctxt "19433"
+msgid ""
+"俺は復讐がしたかったんじゃない……\n"
+"真実が知りたい。それだけなんだと。"
+msgstr ""
+
+msgctxt "19504"
+msgid "……その言葉を聞けて安心したよ。"
+msgstr ""
+
+msgctxt "19537"
+msgid ""
+"今のアンタなら、これから俺が話すことを\n"
+"受け止められるだろう。"
+msgstr ""
+
+msgctxt "19600"
+msgid "ん？　なんだ。"
+msgstr ""
+
+msgctxt "19615"
+msgid ""
+"どうして俺がアンタが“本物の”坂本龍馬だと\n"
+"知っていたか……\n"
+"それは鴨さんから報告を受けてたからだ。"
+msgstr ""
+
+msgctxt "19716"
+msgid ""
+"そしてもうひとつ、鴨さんから\n"
+"報告を受けていたことがある。それは……"
+msgstr ""
+
+msgctxt "19785"
+msgid "……"
+msgstr ""
+
+msgctxt "19790"
+msgid ""
+"鴨さんに吉田東洋殺害の依頼をした男の名は……\n"
+"「坂本龍馬」だ。"
+msgstr ""
+
+msgctxt "19853"
+msgid ""
+"!?　な、なんだと……\n"
+"それじゃまさか、“もう一人の坂本龍馬”が……？"
+msgstr ""
+
+msgctxt "19922"
+msgid "例の虚無僧の坂本龍馬やな？"
+msgstr ""
+
+msgctxt "19949"
+msgid ""
+"ああ……　そして今になって、\n"
+"やつは覆面の男だった源さんを殺した。"
+msgstr ""
+
+msgctxt "20016"
+msgid "おそらくは吉田東洋暗殺の口封じのためにな。"
+msgstr ""
+
+msgctxt "20059"
+msgid "くそが!!"
+msgstr ""
+
+msgctxt "20068"
+msgid ""
+"驚くのはまだ早え。\n"
+"今、そのもう一人の坂本龍馬がいるのは……\n"
+"「寺田屋」らしい。隊の監察から知らせがあった。"
+msgstr ""
+
+msgctxt "20177"
+msgid "寺田屋に、もう一人の坂本龍馬が……？"
+msgstr ""
+
+msgctxt "20214"
+msgid ""
+"寺田屋はアンタの常宿らしいじゃねえか……\n"
+"つまり２人の坂本龍馬が寺田屋を\n"
+"宿にしているってことになる。"
+msgstr ""
+
+msgctxt "20317"
+msgid "どうなっとるんや……"
+msgstr ""
+
+msgctxt "20338"
+msgid ""
+"以前からたびたび「坂本龍馬」は\n"
+"寺田屋を使ってたようだ。"
+msgstr ""
+
+msgctxt "20395"
+msgid "京で活動するときの拠点のひとつなのかもな。"
+msgstr ""
+
+msgctxt "20438"
+msgid ""
+"とにかくそれで今、伊東さんと武田の\n"
+"五番隊が寺田屋に向かってる。"
+msgstr ""
+
+msgctxt "20503"
+msgid "寺田屋に踏み込むつもりってことか？"
+msgstr ""
+
+msgctxt "20538"
+msgid ""
+"せやけど連中の手に負える相手やないで。\n"
+"その「坂本龍馬」は芹沢鴨を仕留めたほどの男やぞ？"
+msgstr ""
+
+msgctxt "20627"
+msgid "ああ……　そうやすやすと捕まるとは思えねえな。"
+msgstr ""
+
+msgctxt "20674"
+msgid ""
+"もしここで取り逃がせば、もう見つからなくなる\n"
+"かもしれん。"
+msgstr ""
+
+msgctxt "20733"
+msgid "……"
+msgstr ""
+
+msgctxt "20738"
+msgid ""
+"龍馬さん。いや、斎藤さんよ。\n"
+"あんた「斎藤一」として寺田屋襲撃に向かえ。"
+msgstr ""
+
+msgctxt "20811"
+msgid ""
+"伊東や武田より先にもう一人の龍馬を捕まえねえと、\n"
+"アンタが追いかけてきた吉田東洋殺害の謎は\n"
+"永久に闇ん中だ。"
+msgstr ""
+
+msgctxt "20920"
+msgid "分かった。"
+msgstr ""
+
+msgctxt "20931"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20932"
+msgid "近藤さん……"
+msgstr ""
+
+msgctxt "20945"
+msgid "ん？"
+msgstr ""
+
+msgctxt "20950"
+msgid ""
+"全てを教えてくれてありがとう。\n"
+"……俺は新選組に入ったことを後悔してない。"
+msgstr ""
+
+msgctxt "21025"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21026"
+msgid ""
+"そうかい。ならよかった。\n"
+"ほら、早く行け！"
+msgstr ""
+
+msgctxt "21069"
+msgid "ああ。"
+msgstr ""
+
+msgctxt "21076"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21077"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21078"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21079"
+msgid ""
+"悪いねぇ。\n"
+"話が話なんで場所を変えさせてもらったよ。"
+msgstr ""
+
+msgctxt "21132"
+msgid ""
+"でもここならアンタのことを気兼ねなく\n"
+"龍馬さんと呼べるしな。互いに腹も割りやすいや。"
+msgstr ""
+
+msgctxt "21217"
+msgid ""
+"それで、一体何なんだ。天念理心流の謎。\n"
+"それに新選組最大の秘密というのは。"
+msgstr ""
+
+msgctxt "21292"
+msgid ""
+"かれこれ１年以上前のことになる。\n"
+"ちょうど新選組が「壬生浪士組」という名で\n"
+"京の街に出てきた頃の話だ。"
+msgstr ""
+
+msgctxt "21395"
+msgid ""
+"その頃、俺達「壬生浪士組」には、\n"
+"俺の他にもう１人の“局長”が存在した。"
+msgstr ""
+
+msgctxt "21468"
+msgid "たしか芹沢鴨……　だったな。"
+msgstr ""
+
+msgctxt "21497"
+msgid ""
+"ああ、裏の世界……　つまり影として、\n"
+"日の本一と恐れられた水戸藩出身の男だ。"
+msgstr ""
+
+msgctxt "21574"
+msgid "影……？"
+msgstr ""
+
+msgctxt "21583"
+msgid ""
+"壬生浪士組は、将軍様の上洛警護を目的とする\n"
+"幕府お抱えの組織として結成された。"
+msgstr ""
+
+msgctxt "21662"
+msgid ""
+"俺が率いる試衛館から、\n"
+"近藤、土方、山南、沖田、永倉、井上、藤堂の７名……"
+msgstr ""
+
+msgctxt "21737"
+msgid ""
+"芹沢率いる水戸藩から、\n"
+"芹沢鴨、平山五郎、平間重助の３名が加わり、\n"
+"１つの組となったんだ。"
+msgstr ""
+
+msgctxt "21828"
+msgid ""
+"鴨に五郎……\n"
+"さっきアンタが口にしていた名だが……\n"
+"まさか……"
+msgstr ""
+
+msgctxt "21891"
+msgid ""
+"察しがついたようだな。\n"
+"……そう、井上源三郎、沖田総司、そして永倉新八。"
+msgstr ""
+
+msgctxt "21964"
+msgid ""
+"この３人は、すでにこの世に居ねぇ……\n"
+"芹沢鴨、平山五郎、平間重助。\n"
+"それぞれが演じている仮の姿なんだ。"
+msgstr ""
+
+msgctxt "22067"
+msgid "なんだと……!?"
+msgstr ""
+
+msgctxt "22082"
+msgid ""
+"そしてその全ては、あの吉田東洋の暗殺と\n"
+"密接に関係している。"
+msgstr ""
+
+msgctxt "22143"
+msgid "どういうことなんだ……"
+msgstr ""
+
+msgctxt "22166"
+msgid "１年前のあの日……　事件は起こった。"
+msgstr ""
+
+msgctxt "22203"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22204"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25860"
+msgid "近藤"
+msgstr ""
+
+msgctxt "25865"
+msgid "kondo_c10_070_01"
+msgstr ""
+
+msgctxt "25882"
+msgid "kondo_c10_070_01b"
+msgstr ""
+
+msgctxt "25900"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "25905"
+msgid "kiryu_c10_070_07"
+msgstr ""
+
+msgctxt "25922"
+msgid "kondo_c10_070_02"
+msgstr ""
+
+msgctxt "25939"
+msgid "kondo_c10_070_02b"
+msgstr ""
+
+msgctxt "25957"
+msgid "kondo_c10_070_02c"
+msgstr ""
+
+msgctxt "25975"
+msgid "kondo_c10_070_02d"
+msgstr ""
+
+msgctxt "25993"
+msgid "kiryu_c10_070_08"
+msgstr ""
+
+msgctxt "26010"
+msgid "M_BUS_TLK_agura_yes"
+msgstr ""
+
+msgctxt "26030"
+msgid "kondo_c10_070_03"
+msgstr ""
+
+msgctxt "26047"
+msgid "kondo_c10_070_03b"
+msgstr ""
+
+msgctxt "26065"
+msgid "kiryu_c10_070_09"
+msgstr ""
+
+msgctxt "26082"
+msgid "kondo_c10_070_04"
+msgstr ""
+
+msgctxt "26099"
+msgid "kondo_c10_070_04b"
+msgstr ""
+
+msgctxt "26117"
+msgid "kondo_c10_070_04c"
+msgstr ""
+
+msgctxt "26135"
+msgid "kondo_c10_070_04d"
+msgstr ""
+
+msgctxt "26153"
+msgid "kondo_c10_070_04e"
+msgstr ""
+
+msgctxt "26171"
+msgid "kiryu_c10_070_10"
+msgstr ""
+
+msgctxt "26188"
+msgid "kondo_c10_070_05"
+msgstr ""
+
+msgctxt "26205"
+msgid "kondo_c10_070_05b"
+msgstr ""
+
+msgctxt "26223"
+msgid "kondo_c10_070_06"
+msgstr ""
+
+msgctxt "26240"
+msgid "kondo_c10_070_06b"
+msgstr ""
+
+msgctxt "26258"
+msgid "沖田"
+msgstr ""
+
+msgctxt "26263"
+msgid "majima_c10_070_01"
+msgstr ""
+
+msgctxt "26281"
+msgid "majima_c10_070_01b"
+msgstr ""
+
+msgctxt "26300"
+msgid "majima_c10_070_01c"
+msgstr ""
+
+msgctxt "26319"
+msgid "kiryu_c10_070_13"
+msgstr ""
+
+msgctxt "26336"
+msgid "majima_c10_070_02"
+msgstr ""
+
+msgctxt "26354"
+msgid "kondo_c10_070_07"
+msgstr ""
+
+msgctxt "26371"
+msgid "kiryu_c10_070_15"
+msgstr ""
+
+msgctxt "26388"
+msgid "majima_c10_070_03"
+msgstr ""
+
+msgctxt "26406"
+msgid "kiryu_c10_070_16"
+msgstr ""
+
+msgctxt "26423"
+msgid "majima_c10_070_04b"
+msgstr ""
+
+msgctxt "26442"
+msgid "kiryu_c10_070_17"
+msgstr ""
+
+msgctxt "26459"
+msgid "kondo_c10_070_08"
+msgstr ""
+
+msgctxt "26476"
+msgid "kondo_c10_070_08b"
+msgstr ""
+
+msgctxt "26494"
+msgid "kiryu_c10_070_18"
+msgstr ""
+
+msgctxt "26511"
+msgid "kondo_c10_070_09"
+msgstr ""
+
+msgctxt "26528"
+msgid "kiryu_c10_070_19"
+msgstr ""
+
+msgctxt "26545"
+msgid "kondo_c10_070_10"
+msgstr ""
+
+msgctxt "26562"
+msgid "kondo_c10_070_10b"
+msgstr ""
+
+msgctxt "26580"
+msgid "kiryu_c10_070_20"
+msgstr ""
+
+msgctxt "26597"
+msgid "kondo_c10_070_11"
+msgstr ""
+
+msgctxt "26614"
+msgid "kondo_c10_070_11b"
+msgstr ""
+
+msgctxt "26632"
+msgid "kondo_c10_070_12"
+msgstr ""
+
+msgctxt "26649"
+msgid "kiryu_c10_070_22"
+msgstr ""
+
+msgctxt "26666"
+msgid "majima_c10_070_06b"
+msgstr ""
+
+msgctxt "26685"
+msgid "kondo_c10_070_13"
+msgstr ""
+
+msgctxt "26702"
+msgid "kondo_c10_070_13b"
+msgstr ""
+
+msgctxt "26720"
+msgid "majima_c10_070_07b"
+msgstr ""
+
+msgctxt "26739"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "26747"
+msgid "kondo_c10_070_16"
+msgstr ""
+
+msgctxt "26764"
+msgid "kiryu_c10_070_25"
+msgstr ""
+
+msgctxt "26781"
+msgid "kondo_c10_070_17"
+msgstr ""
+
+msgctxt "26798"
+msgid "majima_c10_070_09"
+msgstr ""
+
+msgctxt "26816"
+msgid "kondo_c10_070_18"
+msgstr ""
+
+msgctxt "26833"
+msgid "kondo_c10_070_18b"
+msgstr ""
+
+msgctxt "26851"
+msgid "kondo_c10_070_18c"
+msgstr ""
+
+msgctxt "26869"
+msgid "kiryu_c10_070_26"
+msgstr ""
+
+msgctxt "26886"
+msgid "majima_c10_070_10b"
+msgstr ""
+
+msgctxt "26905"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "26914"
+msgid "kondo_c10_070_20"
+msgstr ""
+
+msgctxt "26931"
+msgid "kondo_c10_070_20b"
+msgstr ""
+
+msgctxt "26949"
+msgid "kondo_c10_070_21"
+msgstr ""
+
+msgctxt "26966"
+msgid "kondo_c10_070_21b"
+msgstr ""
+
+msgctxt "26984"
+msgid "kiryu_c10_070_28"
+msgstr ""
+
+msgctxt "27001"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "27023"
+msgid "P_KRU_TLK_agura_to_stand"
+msgstr ""
+
+msgctxt "27048"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "27070"
+msgid "M_BUS_TLK_agura_to_stand"
+msgstr ""
+
+msgctxt "27095"
+msgid "kiryu_c10_070_29"
+msgstr ""
+
+msgctxt "27112"
+msgid "kondo_c10_070_22"
+msgstr ""
+
+msgctxt "27129"
+msgid "kiryu_c10_070_30"
+msgstr ""
+
+msgctxt "27146"
+msgid "kondo_c10_070_23"
+msgstr ""
+
+msgctxt "27163"
+msgid "kiryu_c10_070_31"
+msgstr ""
+
+msgctxt "27180"
+msgid "ADV_P_KRU_STAND"
+msgstr ""
+
+msgctxt "27196"
+msgid "kondo_c10_065_01"
+msgstr ""
+
+msgctxt "27213"
+msgid "kondo_c10_065_01b"
+msgstr ""
+
+msgctxt "27231"
+msgid "kiryu_c10_065_01"
+msgstr ""
+
+msgctxt "27248"
+msgid "kaiwabgm_rishinryu"
+msgstr ""
+
+msgctxt "27267"
+msgid "kondo_c10_065_02"
+msgstr ""
+
+msgctxt "27284"
+msgid "kondo_c10_065_02b"
+msgstr ""
+
+msgctxt "27302"
+msgid "kiryu_c10_065_02"
+msgstr ""
+
+msgctxt "27319"
+msgid "kondo_c10_065_03"
+msgstr ""
+
+msgctxt "27336"
+msgid "kiryu_c10_065_03"
+msgstr ""
+
+msgctxt "27353"
+msgid "kondo_c10_065_04"
+msgstr ""
+
+msgctxt "27370"
+msgid "kondo_c10_065_04b"
+msgstr ""
+
+msgctxt "27388"
+msgid "kondo_c10_065_04c"
+msgstr ""
+
+msgctxt "27406"
+msgid "kiryu_c10_065_04"
+msgstr ""
+
+msgctxt "27423"
+msgid "kondo_c10_065_05"
+msgstr ""
+
+msgctxt "27440"
+msgid "kondo_c10_065_05b"
+msgstr ""
+
+msgctxt "27458"
+msgid "kiryu_c10_065_05"
+msgstr ""
+
+msgctxt "27475"
+msgid "kondo_c10_065_06"
+msgstr ""
+
+msgctxt "27492"
+msgid "kiryu_c10_065_06"
+msgstr ""
+
+msgctxt "27509"
+msgid "kondo_c10_065_07"
+msgstr ""

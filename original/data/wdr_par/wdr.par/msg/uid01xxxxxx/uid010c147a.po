@@ -1,0 +1,507 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "11880"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11881"
+msgid "（ふぅ……　どうにか逃げ切れたな……）"
+msgstr ""
+
+msgctxt "11920"
+msgid ""
+"あ、あの！\n"
+"どうでした？　香水、買えましたか？"
+msgstr ""
+
+msgctxt "11967"
+msgid "あぁ……　ちゃんと手に入れてきた。"
+msgstr ""
+
+msgctxt "12002"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12003"
+msgid "おつかいの品、香水を渡した。"
+msgstr ""
+
+msgctxt "12032"
+msgid ""
+"あ、ありがとうございました！\n"
+"これで、私でも男にもてもてになれますかね。\n"
+"うふふふ……"
+msgstr ""
+
+msgctxt "12119"
+msgid ""
+"そ、そうだな。効果は保証する。\n"
+"だが、それは大変危険なものだ……\n"
+"きちんと使うんだぞ？"
+msgstr ""
+
+msgctxt "12206"
+msgid "え？　え、えぇ……"
+msgstr ""
+
+msgctxt "12225"
+msgid ""
+"（こんな危険な水が将来、日本に出回ったら、\n"
+"　人生を滅茶苦茶にされる男達も増えるかもな。\n"
+"　香水……　恐ろしいものだ）"
+msgstr ""
+
+msgctxt "12344"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12345"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12346"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12347"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12348"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12349"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12350"
+msgid ""
+"くそっ、俺としたことが……\n"
+"こんなところで捕まっちまうとは……"
+msgstr ""
+
+msgctxt "12413"
+msgid ""
+"俺のことを奉行所の者か何かだと\n"
+"勘違いしているみたいだが……　俺は客だ。"
+msgstr ""
+
+msgctxt "12486"
+msgid ""
+"へ？　ほ、本当か……？\n"
+"本当にただの客なのか？"
+msgstr ""
+
+msgctxt "12533"
+msgid "あぁ、買い物がしたいだけだ。"
+msgstr ""
+
+msgctxt "12562"
+msgid ""
+"そ、そいつはすまねえことをしたな。\n"
+"あんた、鬼みたいに恐ろしい顔してるから……\n"
+"てっきり俺を捕まえにきた者だとばかり……"
+msgstr ""
+
+msgctxt "12683"
+msgid "…………"
+msgstr ""
+
+msgctxt "12692"
+msgid ""
+"誤解とは言え、いきなり喧嘩ふっかけて悪かった。\n"
+"本当は紹介がない奴との取引はしねぇ主義なんだが、\n"
+"お詫びに、あんたとは取引させてもらうぜ。"
+msgstr ""
+
+msgctxt "12831"
+msgid "そうか。助かる。"
+msgstr ""
+
+msgctxt "12848"
+msgid "で、旦那。何が欲しいんだ？"
+msgstr ""
+
+msgctxt "12875"
+msgid ""
+"男にもてもてになる香水が欲しいんだが……\n"
+"あるか？"
+msgstr ""
+
+msgctxt "12926"
+msgid ""
+"あ、あぁ。あるにはあるが……\n"
+"……旦那も結構、好き者だな。"
+msgstr ""
+
+msgctxt "12985"
+msgid ""
+"……俺が使うんじゃない。\n"
+"知り合いからの頼まれごとだ。"
+msgstr ""
+
+msgctxt "13040"
+msgid "はいはい、そういうことにしておいてやるよ。"
+msgstr ""
+
+msgctxt "13083"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13084"
+msgid "…………"
+msgstr ""
+
+msgctxt "13093"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13094"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13095"
+msgid ""
+"ほら。これが香水だ。\n"
+"これをかければ、男にもてもてになれる……\n"
+"はずだぜ。"
+msgstr ""
+
+msgctxt "13170"
+msgid ""
+"そうか。ではこれをいただく。\n"
+"いくらだ？"
+msgstr ""
+
+msgctxt "13211"
+msgid ""
+"旦那には迷惑かけたし、無料でいいよ。\n"
+"……実際、俺もそいつに効果があるのか、\n"
+"よく分かってねぇしな。"
+msgstr ""
+
+msgctxt "13312"
+msgid ""
+"そうなのか？　……たしかにこんな水で\n"
+"男にもてもてになるっていうのも\n"
+"にわかに信じがたいからな。"
+msgstr ""
+
+msgctxt "13409"
+msgid ""
+"なんなら試してみるか？\n"
+"……それ。"
+msgstr ""
+
+msgctxt "13444"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13445"
+msgid ""
+"ほう……　なんだか妖艶で芳しい香りがするな。\n"
+"確かに、刺激的なものだな。\n"
+"ただ、惚れるかどうかは分からんがな……"
+msgstr ""
+
+msgctxt "13558"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13559"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13560"
+msgid "……とは言え、ありがたく受け取っておく。"
+msgstr ""
+
+msgctxt "13601"
+msgid "…………"
+msgstr ""
+
+msgctxt "13610"
+msgid "ん？　どうした？"
+msgstr ""
+
+msgctxt "13627"
+msgid "…………"
+msgstr ""
+
+msgctxt "13636"
+msgid "お、おい……？"
+msgstr ""
+
+msgctxt "13651"
+msgid "……き。"
+msgstr ""
+
+msgctxt "13660"
+msgid "ん？　なんだって？"
+msgstr ""
+
+msgctxt "13679"
+msgid "……好きだ。"
+msgstr ""
+
+msgctxt "13692"
+msgid "…………えっ？"
+msgstr ""
+
+msgctxt "13707"
+msgid "旦那のことが……　好きだ!!"
+msgstr ""
+
+msgctxt "13734"
+msgid "な、何だと……！"
+msgstr ""
+
+msgctxt "13751"
+msgid ""
+"好きだ好きだ好きだ好きだ好きだー!!\n"
+"大好きだー!!!!　旦那っ！"
+msgstr ""
+
+msgctxt "13812"
+msgid ""
+"（これはまさか香水のせいなのか……？\n"
+"　こ、効果は本物だ……）"
+msgstr ""
+
+msgctxt "13875"
+msgid "なぁ……　旦那……"
+msgstr ""
+
+msgctxt "13894"
+msgid "（きょ、距離が近い……）"
+msgstr ""
+
+msgctxt "13919"
+msgid ""
+"頼む、旦那……　俺の気持ち……\n"
+"受け止めてくれよ!!!!"
+msgstr ""
+
+msgctxt "13972"
+msgid ""
+"（こ、このままではやられる……\n"
+"　しかしさっきも打ちのめしてしまったからな……\n"
+"　ここはひとまず逃げるとしよう）"
+msgstr ""
+
+msgctxt "14085"
+msgid "じゃ、じゃあな……！"
+msgstr ""
+
+msgctxt "14106"
+msgid ""
+"あ、旦那！　待ってくれ！\n"
+"好きなんだよおぉぉぉー!!"
+msgstr ""
+
+msgctxt "14157"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14158"
+msgid "おい。"
+msgstr ""
+
+msgctxt "14165"
+msgid "お前に少し話があるんだが……"
+msgstr ""
+
+msgctxt "14194"
+msgid ""
+"……!!　ついに足がついちまったか！\n"
+"こんなところで捕まってたまるか！"
+msgstr ""
+
+msgctxt "14263"
+msgid ""
+"……何か勘違いしてるようだが、俺は客だ。\n"
+"ただ買い物がしたいだけなんだが。"
+msgstr ""
+
+msgctxt "14338"
+msgid ""
+"しらばっくれんじゃねえ！\n"
+"俺をしょっぴこうったって、そうはいかねぇぞ。\n"
+"……悪いがちっと痛い目見てもらうぜ！"
+msgstr ""
+
+msgctxt "14447"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14448"
+msgid "む……？"
+msgstr ""
+
+msgctxt "14457"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14458"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14459"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14460"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14461"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14462"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14463"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14464"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14465"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14466"
+msgid "（あの男が噂の、危険な品を扱う商人だろうか……）"
+msgstr ""
+
+msgctxt "14515"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16660"
+msgid "Player"
+msgstr ""
+
+msgctxt "16667"
+msgid "焦がれる女"
+msgstr ""
+
+msgctxt "16678"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "16688"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "16699"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "16708"
+msgid "dummy"
+msgstr ""
+
+msgctxt "16714"
+msgid "怪しい商人"
+msgstr ""
+
+msgctxt "16725"
+msgid "kaiwabgm_sub_comical"
+msgstr ""
+
+msgctxt "16746"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "16759"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "16767"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "16777"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "16788"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "16799"
+msgid "P_KRU_TLK_stand_item_get_lp"
+msgstr ""
+
+msgctxt "16827"
+msgid "P_KRU_TLK_stand_item_get_st"
+msgstr ""
+
+msgctxt "16855"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "16877"
+msgid "P_KRU_TLK_stand_item_get_en"
+msgstr ""
+
+msgctxt "16905"
+msgid "ACDEV7090"
+msgstr ""
+
+msgctxt "16915"
+msgid "M_CHO_SS_stand_kousui_lp"
+msgstr ""
+
+msgctxt "16940"
+msgid "M_CHO_SS_stand_kousui_st"
+msgstr ""
+
+msgctxt "16965"
+msgid "M_CHO_SS_stand_kousui_smell"
+msgstr ""
+
+msgctxt "16993"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "17005"
+msgid "M_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "17027"
+msgid "M_CHO_SS_stand_kousui_en"
+msgstr ""
+
+msgctxt "17052"
+msgid "M_SHP_SS_stand_koshi_lp"
+msgstr ""
+
+msgctxt "17076"
+msgid "ADV_M_CHO_STAND"
+msgstr ""
+
+msgctxt "17092"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "17103"
+msgid "Talk_Request"
+msgstr ""

@@ -1,0 +1,1092 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "27928"
+msgid ""
+"なんでちくわなんだよ……\n"
+"チクショウ……　ガクッ。"
+msgstr ""
+
+msgctxt "27979"
+msgid "お父ちゃん！"
+msgstr ""
+
+msgctxt "27992"
+msgid "お雪！　お雪ぃー！"
+msgstr ""
+
+msgctxt "28011"
+msgid "…………"
+msgstr ""
+
+msgctxt "28020"
+msgid ""
+"ありがとうございます。\n"
+"兄さんのおかげで助かりましたが……\n"
+"どうしてこんなところに？"
+msgstr ""
+
+msgctxt "28105"
+msgid ""
+"俺達がぶつかった時\n"
+"お前ともうひとりの男の荷物が入れ替わっていてな。\n"
+"そいつを取り替えに来たんだ。"
+msgstr ""
+
+msgctxt "28204"
+msgid ""
+"あ、あぁ、あの時！\n"
+"なるほど、それで……　銃が、ちくわに。"
+msgstr ""
+
+msgctxt "28263"
+msgid "……ワイは貿易商をやってる、斉木といいます。"
+msgstr ""
+
+msgctxt "28308"
+msgid "貿易商……"
+msgstr ""
+
+msgctxt "28319"
+msgid ""
+"はい。あの男たちに脅されて、武器の密輸の協力を\n"
+"させられそうになっとったんですが……"
+msgstr ""
+
+msgctxt "28404"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28405"
+msgid ""
+"悪事に手を染める一歩手前で、\n"
+"あんたが取引をぶちこわしてくれた……\n"
+"ほんまにありがとうございます！"
+msgstr ""
+
+msgctxt "28504"
+msgid ""
+"ひとまずあんたが持っていた荷物は返しておく。\n"
+"あるべき場所に返しておくんだな。"
+msgstr ""
+
+msgctxt "28583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28584"
+msgid "入れ替わった手荷物を返した。"
+msgstr ""
+
+msgctxt "28613"
+msgid "はい、必ず……"
+msgstr ""
+
+msgctxt "28628"
+msgid ""
+"これ、ワイが持ってきてしもうた手荷物です。\n"
+"ご本人に返してあげてください。"
+msgstr ""
+
+msgctxt "28703"
+msgid "入れ替わった手荷物を取り戻した。"
+msgstr ""
+
+msgctxt "28736"
+msgid ""
+"ほんまにありがとうございます。\n"
+"ほら、お雪もお礼、言ぃ。"
+msgstr ""
+
+msgctxt "28793"
+msgid "おじちゃん、ありがと。"
+msgstr ""
+
+msgctxt "28816"
+msgid "あぁ、よかったな。"
+msgstr ""
+
+msgctxt "28835"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28836"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28837"
+msgid ""
+"（さて、あとは入れ替わった手荷物を\n"
+"　持ち帰るだけだな……）"
+msgstr ""
+
+msgctxt "28898"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28899"
+msgid ""
+"（まさか大事な荷物の中身とやらが\n"
+"　ちくわだったとはな……　人騒がせなやつだ）"
+msgstr ""
+
+msgctxt "28978"
+msgid "…………"
+msgstr ""
+
+msgctxt "28987"
+msgid ""
+"（それにしてもうまそうなちくわだ。\n"
+"　包みの中にはちくわが５本もあるな。\n"
+"　……どうする？）"
+msgstr ""
+
+msgctxt "29080"
+msgid ""
+"（あいつにとっては大事なちくわだ。\n"
+"　ちゃんと返してやらないとな）"
+msgstr ""
+
+msgctxt "29147"
+msgid "（１本くらいなら食べても問題ないだろう）"
+msgstr ""
+
+msgctxt "29188"
+msgid ""
+"（む……　このちくわ、なかなかうまいな。\n"
+"　正直なめてた）"
+msgstr ""
+
+msgctxt "29247"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29248"
+msgid "経験値　２００　を手に入れた。"
+msgstr ""
+
+msgctxt "29279"
+msgid "（さて、ちくわはまだ４本あるな……　どうする？）"
+msgstr ""
+
+msgctxt "29328"
+msgid "（もう１本くらいなら食べても問題ないだろう）"
+msgstr ""
+
+msgctxt "29373"
+msgid ""
+"（……食べるごとに旨味が増していく。\n"
+"　なるほど、命の次にちくわが大事だという\n"
+"　あの男の言葉も、少しわかる気がするな）"
+msgstr ""
+
+msgctxt "29494"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29495"
+msgid "経験値　２００　を手に入れた。"
+msgstr ""
+
+msgctxt "29526"
+msgid "（ちくわは３本ある……　どうする？）"
+msgstr ""
+
+msgctxt "29563"
+msgid "（あと１本くらいなら食べても問題ないだろう）"
+msgstr ""
+
+msgctxt "29608"
+msgid ""
+"（こいつは癖になる味だな\n"
+"　手が止まらないぞ……）"
+msgstr ""
+
+msgctxt "29659"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29660"
+msgid "経験値　２００　を手に入れた。"
+msgstr ""
+
+msgctxt "29691"
+msgid "（ちくわはもう２本しかないが……　どうする？）"
+msgstr ""
+
+msgctxt "29738"
+msgid "（……１本くらい残しておけば大丈夫なはずだ）"
+msgstr ""
+
+msgctxt "29783"
+msgid "（……うむ！）"
+msgstr ""
+
+msgctxt "29798"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29799"
+msgid "経験値　２００　を手に入れた。"
+msgstr ""
+
+msgctxt "29830"
+msgid "（ちくわはあと１本しかないな……　どうする？）"
+msgstr ""
+
+msgctxt "29877"
+msgid "（……こうなったらもう全部食べてしまおう）"
+msgstr ""
+
+msgctxt "29920"
+msgid "（……うますぎる!!）"
+msgstr ""
+
+msgctxt "29941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29942"
+msgid "経験値　２００　を手に入れた。"
+msgstr ""
+
+msgctxt "29973"
+msgid ""
+"（調子に乗って全部食べてしまった……\n"
+"　ひとまず持ち主の元へ戻ろう）"
+msgstr ""
+
+msgctxt "30042"
+msgid ""
+"（数は減ってしまったが、\n"
+"　……ひとまずちくわを返しに戻ろう）"
+msgstr ""
+
+msgctxt "30105"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "30106"
+msgid "（ん？　あそこにいるのは……）"
+msgstr ""
+
+msgctxt "30137"
+msgid "遅いぞ。……ちゃんとブツは持ってきただろうな？"
+msgstr ""
+
+msgctxt "30184"
+msgid "は、はい……　ちゃんと持ってきました。"
+msgstr ""
+
+msgctxt "30223"
+msgid ""
+"（やはりそうだ、あいつは\n"
+"　入れ替わった手荷物を持って行った男！）"
+msgstr ""
+
+msgctxt "30290"
+msgid ""
+"ククク、この包みに最新式の銃が入ってるんだな？\n"
+"さぞや高く売れるんだろうなぁ……"
+msgstr ""
+
+msgctxt "30371"
+msgid ""
+"念のため訊くが、\n"
+"お前、これ傷つけてねぇだろうなぁ？"
+msgstr ""
+
+msgctxt "30424"
+msgid "そ、そんなことあるわけ……　あっ。"
+msgstr ""
+
+msgctxt "30459"
+msgid ""
+"お、おいおい……　ふざけるなよ!?\n"
+"“あっ”てなんだ。“あっ”て！"
+msgstr ""
+
+msgctxt "30524"
+msgid ""
+"あの……　と、途中、ほんのちょっとだけやけど\n"
+"微々たる衝撃が加わったかもしれません……"
+msgstr ""
+
+msgctxt "30611"
+msgid ""
+"な、何ぃ！\n"
+"あれだけ扱いには気をつけろって言っただろうが!?\n"
+"くそ、とりあえず中身を確認させてもらうぞ。"
+msgstr ""
+
+msgctxt "30714"
+msgid "す、すいやせん……"
+msgstr ""
+
+msgctxt "30733"
+msgid "おぉ……　どうやら大丈夫そうだな。"
+msgstr ""
+
+msgctxt "30768"
+msgid "ほっ……　よかったぁ。"
+msgstr ""
+
+msgctxt "30791"
+msgid "さすが最新式の銃だ……　傷ひとつついてねぇ。"
+msgstr ""
+
+msgctxt "30836"
+msgid ""
+"それよりもこの銃、なんて革新的な形なんだ？\n"
+"柔軟な触り心地、すっと手になじむ握り心地……！"
+msgstr ""
+
+msgctxt "30927"
+msgid ""
+"もし仕事中に小腹が空いたときも安心。\n"
+"その場で胃袋を満たすことまで可能だとは……！"
+msgstr ""
+
+msgctxt "31010"
+msgid ""
+"ククク……!!　この銃さえあれば、\n"
+"どんな奴が敵でも負ける気がしない……"
+msgstr ""
+
+msgctxt "31081"
+msgid ""
+"……ってバカ！\n"
+"これ、ちくわじゃねーか!!"
+msgstr ""
+
+msgctxt "31122"
+msgid ""
+"えぇ!?　ちくわ!?\n"
+"そ、そんなはずは……　ちくわや！"
+msgstr ""
+
+msgctxt "31173"
+msgid "ふざけやがって……　本物の銃はどうした!?"
+msgstr ""
+
+msgctxt "31214"
+msgid "えぇ!?　ワイにも何が何やらさっぱり……"
+msgstr ""
+
+msgctxt "31253"
+msgid ""
+"まさかお前……　俺達をはめたんじゃねえだろうな!?\n"
+"人質の娘がどうなってもいいのか!?"
+msgstr ""
+
+msgctxt "31336"
+msgid "お父ちゃん！"
+msgstr ""
+
+msgctxt "31349"
+msgid "お雪！"
+msgstr ""
+
+msgctxt "31356"
+msgid ""
+"この野郎、最初から裏切るつもりだったんだな!?\n"
+"もういい！　親子そろってあの世行きだ！"
+msgstr ""
+
+msgctxt "31441"
+msgid ""
+"そ、そんなことありませんよ！\n"
+"お雪だけは！　お雪の命だけは助けてください……！"
+msgstr ""
+
+msgctxt "31520"
+msgid "その取り引き、ちょっと待った！"
+msgstr ""
+
+msgctxt "31551"
+msgid "だ、誰だ、お前は！"
+msgstr ""
+
+msgctxt "31570"
+msgid ""
+"さきほどの荷物をこちらに渡してもらおう。\n"
+"その包みにはとても大事なものが入っているんだ。"
+msgstr ""
+
+msgctxt "31659"
+msgid ""
+"はぁ？　いきなり何言ってやがる!?\n"
+"渡すわけねぇだろ！　……入ってたのちくわだけど。"
+msgstr ""
+
+msgctxt "31742"
+msgid "な、何……　ちくわ？"
+msgstr ""
+
+msgctxt "31763"
+msgid "ほら。"
+msgstr ""
+
+msgctxt "31770"
+msgid "（本当だ、ちくわだ……）"
+msgstr ""
+
+msgctxt "31795"
+msgid ""
+"ん？　あんたそういえば、\n"
+"ぶつかった時の……"
+msgstr ""
+
+msgctxt "31840"
+msgid "あ、お前らもしかしてグルか!?"
+msgstr ""
+
+msgctxt "31869"
+msgid ""
+"クソッ、どうりで変なことばかり起こりやがる！\n"
+"まさかお前が裏切っていたとはな！"
+msgstr ""
+
+msgctxt "31948"
+msgid "え、えぇ！　ワイはそんなこと……"
+msgstr ""
+
+msgctxt "31981"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31982"
+msgid ""
+"おいガキ、邪魔だからあっち行ってろ！\n"
+"こうなりゃどうとでもなりやがれ！\n"
+"まずはお前をぶちのめしてやる！"
+msgstr ""
+
+msgctxt "32085"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32086"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32087"
+msgid "（む……　草履の鼻緒が切れかかっているな）"
+msgstr ""
+
+msgctxt "32130"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32131"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32132"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32133"
+msgid "急がんと……！"
+msgstr ""
+
+msgctxt "32148"
+msgid "ふんふふん……"
+msgstr ""
+
+msgctxt "32163"
+msgid ""
+"（ちょうど代わりの鼻緒を持っている。\n"
+"　ここで結びなおしてしまおう）"
+msgstr ""
+
+msgctxt "32232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32233"
+msgid "急げ急げ……"
+msgstr ""
+
+msgctxt "32246"
+msgid "ふんふんふん……"
+msgstr ""
+
+msgctxt "32263"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32264"
+msgid "うわぁ！"
+msgstr ""
+
+msgctxt "32273"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32274"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32275"
+msgid "ん？"
+msgstr ""
+
+msgctxt "32280"
+msgid "ふぎゅぅぅ……"
+msgstr ""
+
+msgctxt "32295"
+msgid "いてて……"
+msgstr ""
+
+msgctxt "32306"
+msgid ""
+"なぁ兄さん！\n"
+"道の真ん中で急に屈んだら危ないでっしゃろ！"
+msgstr ""
+
+msgctxt "32363"
+msgid ""
+"す、すまなかった、急に草履が……\n"
+"いやそれより、怪我はないか？"
+msgstr ""
+
+msgctxt "32426"
+msgid ""
+"ちょっと……　いや、\n"
+"ごっっっつ痛かったけど大丈夫です。"
+msgstr ""
+
+msgctxt "32483"
+msgid ""
+"もう、ほんま次から気をつけてくださいよ！\n"
+"……って、こんなことしとる場合やない！\n"
+"荷物……　ワイの荷物はどこや!?"
+msgstr ""
+
+msgctxt "32596"
+msgid "荷物とは、これのことか？"
+msgstr ""
+
+msgctxt "32621"
+msgid ""
+"あぁ、これこれ！\n"
+"この包みですわ！"
+msgstr ""
+
+msgctxt "32656"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32657"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32658"
+msgid "すまなかったな。"
+msgstr ""
+
+msgctxt "32675"
+msgid ""
+"包みに傷はあらへんから……\n"
+"おそらく中身も大丈夫そうやな。"
+msgstr ""
+
+msgctxt "32734"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32735"
+msgid ""
+"すんまへん。ワイ、骸街まで急いでた途中なんです。\n"
+"そっちの気ぃ失っとる彼にも\n"
+"よろしゅう伝えとってください。ほな！"
+msgstr ""
+
+msgctxt "32850"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32851"
+msgid ""
+"（ずいぶん急いでいたようだな、\n"
+"　悪いことをした……）"
+msgstr ""
+
+msgctxt "32906"
+msgid "あいてて……　てて……"
+msgstr ""
+
+msgctxt "32929"
+msgid "（意識が戻ったようだな）"
+msgstr ""
+
+msgctxt "32954"
+msgid ""
+"大丈夫か？\n"
+"さっきは悪かったな……"
+msgstr ""
+
+msgctxt "32989"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32990"
+msgid ""
+"も、もう、本当ですよ。\n"
+"急に目の前で屈んでるんだもの。\n"
+"あんなの避けらんないですよ……"
+msgstr ""
+
+msgctxt "33077"
+msgid "……ってあれ？　僕の荷物はどこだろ？"
+msgstr ""
+
+msgctxt "33114"
+msgid "荷物……？"
+msgstr ""
+
+msgctxt "33125"
+msgid "ひょっとしてこれか？"
+msgstr ""
+
+msgctxt "33146"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33147"
+msgid ""
+"そうそう、それそれ。\n"
+"間違いなくその包みは僕の荷物ですね。"
+msgstr ""
+
+msgctxt "33206"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33207"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33208"
+msgid "すまなかったな。"
+msgstr ""
+
+msgctxt "33225"
+msgid ""
+"思いっきり落としちゃったよ～。\n"
+"中身は無事かなぁ……"
+msgstr ""
+
+msgctxt "33278"
+msgid ""
+"……ってあれ？\n"
+"な、何だこれ！　これ、僕の荷物じゃないぞ！"
+msgstr ""
+
+msgctxt "33337"
+msgid "何……!?"
+msgstr ""
+
+msgctxt "33346"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33347"
+msgid ""
+"ほ、ほら、この荷物！\n"
+"じゅ、銃が入っている……　なんでこんなものが？"
+msgstr ""
+
+msgctxt "33416"
+msgid "最初から銃が入っていたんじゃないのか？"
+msgstr ""
+
+msgctxt "33455"
+msgid ""
+"そ、そんなもの入ってるわけないでしょう！\n"
+"僕の荷物の中には\n"
+"僕のとっても大事なものが入ってるはずなんですよ！"
+msgstr ""
+
+msgctxt "33564"
+msgid ""
+"いったいなんで僕の荷物が……\n"
+"銃になっちゃったんだ？"
+msgstr ""
+
+msgctxt "33617"
+msgid ""
+"（そういえばこいつの荷物の包み……\n"
+"　さっきも同じようなものを見た気がするな……）"
+msgstr ""
+
+msgctxt "33700"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33701"
+msgid ""
+"……！　そうか……\n"
+"本当のお前の荷物がどこにあるか、見当がついたぞ。"
+msgstr ""
+
+msgctxt "33770"
+msgid "え、本当の!?　ど、どういうことですか!?"
+msgstr ""
+
+msgctxt "33809"
+msgid ""
+"おそらく俺が取り違えて\n"
+"さっき走って行った男に渡してしまったようだ……"
+msgstr ""
+
+msgctxt "33880"
+msgid ""
+"え、え～！　ってことはつまり……\n"
+"荷物が入れ替わっちゃったってことですか～!?"
+msgstr ""
+
+msgctxt "33957"
+msgid "そういうことになるな。"
+msgstr ""
+
+msgctxt "33980"
+msgid ""
+"何冷静に言ってるんですか～！\n"
+"僕の荷物どうしてくれるんですか～！"
+msgstr ""
+
+msgctxt "34045"
+msgid ""
+"追いかけようにも、\n"
+"銃持ってた人なんて関わりあいたくないし……"
+msgstr ""
+
+msgctxt "34108"
+msgid ""
+"でも僕の大事なものが入ってる荷物だし……\n"
+"ううう……　いったいどうすれば～……"
+msgstr ""
+
+msgctxt "34187"
+msgid ""
+"（あの男、たしか骸街へ行くと言っていたな。\n"
+"　この銃の持ち主ということも気になる……）"
+msgstr ""
+
+msgctxt "34274"
+msgid ""
+"さっきの男は骸街にいるはずだ。\n"
+"行って取り戻すしかないな。"
+msgstr ""
+
+msgctxt "34333"
+msgid ""
+"ええ!?　でも、骸街なんておっかないところ、\n"
+"行きたくないですよ……"
+msgstr ""
+
+msgctxt "34400"
+msgid ""
+"……仕方ない。こうなった原因は俺だ。\n"
+"俺が責任をもって、お前の荷物を取り返してくる。"
+msgstr ""
+
+msgctxt "34485"
+msgid ""
+"え、本当ですか！　やったー！\n"
+"渡りに船とはこのことですよー！"
+msgstr ""
+
+msgctxt "34546"
+msgid "……ひとまずその銃が入った荷物を渡してくれ。"
+msgstr ""
+
+msgctxt "34591"
+msgid "あ、そうですよね。"
+msgstr ""
+
+msgctxt "34610"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34611"
+msgid "入れ替わった手荷物を預かった。"
+msgstr ""
+
+msgctxt "34642"
+msgid ""
+"あの荷物の中には、\n"
+"僕の命の次に大事なものが入ってるんです……\n"
+"頑張って、取り戻してきてください！"
+msgstr ""
+
+msgctxt "34741"
+msgid "……わかった。"
+msgstr ""
+
+msgctxt "34756"
+msgid ""
+"（あの男、銃をもって急いでいたということは……\n"
+"　誰かと取引をするつもりだったのか？）"
+msgstr ""
+
+msgctxt "34843"
+msgid "（骸街で取引ができそうな場所、か……）"
+msgstr ""
+
+msgctxt "34882"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38860"
+msgid "やくざ者らしき男"
+msgstr ""
+
+msgctxt "38877"
+msgid "お雪"
+msgstr ""
+
+msgctxt "38882"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "38893"
+msgid "急いでいた男"
+msgstr ""
+
+msgctxt "38906"
+msgid "Talk_Sad"
+msgstr ""
+
+msgctxt "38915"
+msgid "Player"
+msgstr ""
+
+msgctxt "38922"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "38931"
+msgid "斉木"
+msgstr ""
+
+msgctxt "38936"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "38947"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "38957"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "38967"
+msgid "ACDEV7030"
+msgstr ""
+
+msgctxt "38977"
+msgid "P_KRU_SS_stand_look_TKW_lp"
+msgstr ""
+
+msgctxt "39004"
+msgid "P_KRU_SS_stand_look_TKW_st"
+msgstr ""
+
+msgctxt "39031"
+msgid "kaiwabgm_sub_apathy_03"
+msgstr ""
+
+msgctxt "39054"
+msgid "持ち主に返す"
+msgstr ""
+
+msgctxt "39067"
+msgid "１本だけ食べる"
+msgstr ""
+
+msgctxt "39082"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "39104"
+msgid "P_KRU_SS_stand_look_TKW_en"
+msgstr ""
+
+msgctxt "39131"
+msgid "P_KRU_SS_stand_look_TKW_eat"
+msgstr ""
+
+msgctxt "39159"
+msgid "もう１本食べる"
+msgstr ""
+
+msgctxt "39174"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "39186"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "39197"
+msgid "kaiwabgm_sub_fuon_04"
+msgstr ""
+
+msgctxt "39218"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "39229"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "39237"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "39248"
+msgid "ACDEV7040"
+msgstr ""
+
+msgctxt "39258"
+msgid "kaiwabgm_sub_comical"
+msgstr ""
+
+msgctxt "39279"
+msgid "M_BUS_SS_stand_aim_TKW_lp"
+msgstr ""
+
+msgctxt "39305"
+msgid "M_BUS_SS_stand_aim_TKW_st"
+msgstr ""
+
+msgctxt "39331"
+msgid "M_BUS_SS_stand_look_TKW_lp"
+msgstr ""
+
+msgctxt "39358"
+msgid "M_BUS_SS_stand_look_TKW_st"
+msgstr ""
+
+msgctxt "39385"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "39395"
+msgid "M_BUS_SS_stand_look_TKW_kamae"
+msgstr ""
+
+msgctxt "39425"
+msgid "M_BUS_SS_stand_look_TKW_en"
+msgstr ""
+
+msgctxt "39452"
+msgid "娘"
+msgstr ""
+
+msgctxt "39455"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "39466"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "39488"
+msgid "M_BUS_TLK_stand_angry"
+msgstr ""
+
+msgctxt "39510"
+msgid "P_KRU_SS_shagami_check_lp"
+msgstr ""
+
+msgctxt "39536"
+msgid "P_KRU_SS_shagami_check_st"
+msgstr ""
+
+msgctxt "39562"
+msgid "急いでいる男"
+msgstr ""
+
+msgctxt "39575"
+msgid "のんびりした男"
+msgstr ""
+
+msgctxt "39590"
+msgid "0"
+msgstr ""
+
+msgctxt "39592"
+msgid "全員"
+msgstr ""
+
+msgctxt "39597"
+msgid "P_KRU_SS_shagami_check_en"
+msgstr ""
+
+msgctxt "39623"
+msgid "M_BUS_TLK_btl_aft_nw_01_en"
+msgstr ""
+
+msgctxt "39650"
+msgid "P_KRU_SS_stand_pet_esa_lp"
+msgstr ""
+
+msgctxt "39676"
+msgid "P_KRU_SS_stand_pet_esa_st"
+msgstr ""
+
+msgctxt "39702"
+msgid "P_KRU_SS_stand_pet_esa_en"
+msgstr ""
+
+msgctxt "39728"
+msgid "M_BUS_TLK_btl_aft_nw_05_lp"
+msgstr ""
+
+msgctxt "39755"
+msgid "M_BUS_TLK_btl_aft_nw_05_en"
+msgstr ""
+
+msgctxt "39782"
+msgid "WEPCT1500"
+msgstr ""
+
+msgctxt "39792"
+msgid "M_BUS_TLK_stand_quest"
+msgstr ""
+
+msgctxt "39814"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "39827"
+msgid "dummy"
+msgstr ""

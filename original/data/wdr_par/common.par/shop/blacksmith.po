@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "14112"
+msgid "生成"
+msgstr ""
+
+msgctxt "14117"
+msgid "強化"
+msgstr ""
+
+msgctxt "14122"
+msgid "弾丸作成"
+msgstr ""
+
+msgctxt "14131"
+msgid "寄贈"
+msgstr ""
+
+msgctxt "14136"
+msgid "新しい武具を作成できるぞ。"
+msgstr ""
+
+msgctxt "14163"
+msgid "手持ちの武具を強化できるぞ。"
+msgstr ""
+
+msgctxt "14192"
+msgid "特殊な弾丸を作成できるぞ。"
+msgstr ""
+
+msgctxt "14219"
+msgid "寄贈説明"
+msgstr ""
+
+msgctxt "14228"
+msgid "該当無し"
+msgstr ""
+
+msgctxt "14237"
+msgid "該当無し"
+msgstr ""
+
+msgctxt "14246"
+msgid "該当無し"
+msgstr ""
+
+msgctxt "14255"
+msgid "該当無し"
+msgstr ""
+
+msgctxt "14264"
+msgid "作成費用は%sだ。いいか？"
+msgstr ""
+
+msgctxt "14289"
+msgid "作成費用は%sだ。枠が足りない分の印は消えるからな。"
+msgstr ""
+
+msgctxt "14340"
+msgid "鍛錬費用は%sだ。いいか？"
+msgstr ""
+
+msgctxt "14365"
+msgid "合成費用は%sだ。重複した印はいい色の方だけ残すぞ。"
+msgstr ""
+
+msgctxt "14416"
+msgid "作成費用は%sだ。いいか？"
+msgstr ""
+
+msgctxt "14441"
+msgid "本当に大丈夫か？"
+msgstr ""
+
+msgctxt "14458"
+msgid "金が足りねぇようだな。"
+msgstr ""
+
+msgctxt "14481"
+msgid "素材が足りねぇようだな。"
+msgstr ""
+
+msgctxt "14506"
+msgid "合成に使えるものがねぇな。"
+msgstr ""
+
+msgctxt "14533"
+msgid "これを作るには刀匠の腕がたりねぇな……"
+msgstr ""
+
+msgctxt "14572"
+msgid "これ以上は鍛えられねぇようだな。"
+msgstr ""
+
+msgctxt "14605"
+msgid ""
+"これにはまだ能力を付与できねぇな。\n"
+"良業物まで格上げすれば印の合成枠が増えるぞ。"
+msgstr ""
+
+msgctxt "14685"
+msgid "これ以上は能力を付与できねぁな。"
+msgstr ""
+
+msgctxt "14718"
+msgid "それ以上は持てねぇようだな。"
+msgstr ""
+
+msgctxt "14747"
+msgid "鍛錬"
+msgstr ""
+
+msgctxt "14752"
+msgid "格上げ"
+msgstr ""
+
+msgctxt "14759"
+msgid "合成"
+msgstr ""
+
+msgctxt "14764"
+msgid ""
+"「鍛錬」を行い、武具の攻撃力を上昇させるぞ。\n"
+"<Color:255,255,150,255><Sign:45>で強化内容を変更。<Color:Default>"
+msgstr ""
+
+msgctxt "14875"
+msgid ""
+"「格上げ」を行い、武具の格を１つ上昇させるぞ。\n"
+"<Color:255,255,150,255><Sign:45>で強化内容を変更。<Color:Default>"
+msgstr ""
+
+msgctxt "14988"
+msgid ""
+"「合成」を行い、武具に新しい能力を付与するぞ。\n"
+"<Color:255,255,150,255><Sign:45>で強化内容を変更。<Color:Default>"
+msgstr ""
+
+msgctxt "15101"
+msgid ""
+"「鍛錬」を行い、武具の防御力を上昇させるぞ。\n"
+"<Color:255,255,150,255><Sign:45>で強化内容を変更。<Color:Default>"
+msgstr ""
+
+msgctxt "15212"
+msgid ""
+"「格上げ」を行い、武具の格を１つ上昇させるぞ。\n"
+"<Color:255,255,150,255><Sign:45>で強化内容を変更。<Color:Default>"
+msgstr ""
+
+msgctxt "15325"
+msgid ""
+"「合成」を行い、武具に新しい能力を付与するぞ。\n"
+"<Color:255,255,150,255><Sign:45>で強化内容を変更。<Color:Default>"
+msgstr ""
+
+msgctxt "15438"
+msgid ""
+"基本素材にする武具を選択してくれ。\n"
+"武具作成後、素材にした武具はなくなるぞ。"
+msgstr ""
+
+msgctxt "15514"
+msgid "新たに作りたい武具を選択してくれ。"
+msgstr ""
+
+msgctxt "15549"
+msgid "強化したい武具を選択してくれ。"
+msgstr ""
+
+msgctxt "15580"
+msgid "素材に使うものを選択してくれ。"
+msgstr ""
+
+msgctxt "15611"
+msgid "活かす能力を選択してくれ。"
+msgstr ""
+
+msgctxt "15638"
+msgid "作成する弾丸を選択してくれ。"
+msgstr ""
+
+msgctxt "15667"
+msgid "寄贈するものを選択してくれ。"
+msgstr ""
+
+msgctxt "15696"
+msgid "これ以上の強化はできねぇな。"
+msgstr ""
+
+msgctxt "15725"
+msgid "更なる強化には格上げが必要だな。"
+msgstr ""
+
+msgctxt "15758"
+msgid "素材不要"
+msgstr ""
+
+msgctxt "15767"
+msgid "新しく生成できるものが増えました"
+msgstr ""
+
+msgctxt "15800"
+msgid "－"
+msgstr ""
+
+msgctxt "15803"
+msgid "注"
+msgstr ""
+
+msgctxt "15806"
+msgid "－"
+msgstr ""
+
+msgctxt "15809"
+msgid "贈"
+msgstr ""
+
+msgctxt "15812"
+msgid "%sを入手した。"
+msgstr ""
+
+msgctxt "15827"
+msgid "%sを倉庫に送った。"
+msgstr ""
+
+msgctxt "15846"
+msgid "%sの攻撃力が%d上がった。"
+msgstr ""
+
+msgctxt "15871"
+msgid "%sの攻撃力が%d上がった。"
+msgstr ""
+
+msgctxt "15896"
+msgid "%sの防御力が%d上がった。"
+msgstr ""
+
+msgctxt "15921"
+msgid "%sの防御力が%d上がった。"
+msgstr ""
+
+msgctxt "15946"
+msgid "%sの格上げに成功した。"
+msgstr ""
+
+msgctxt "15969"
+msgid "%sの格上げに失敗した。"
+msgstr ""
+
+msgctxt "15992"
+msgid "%sの印が変化した。"
+msgstr ""
+
+msgctxt "16011"
+msgid "%sの印は変化しなかった。"
+msgstr ""
+
+msgctxt "16036"
+msgid "%d発"
+msgstr ""
+
+msgctxt "16041"
+msgid ""
+"能力の数が枠を超えています\n"
+"残す能力を選んでください"
+msgstr ""
+
+msgctxt "16093"
+msgid "今の格での最大攻撃力"
+msgstr ""
+
+msgctxt "16114"
+msgid "次の格での最大攻撃力"
+msgstr ""
+
+msgctxt "16135"
+msgid "今の格での最大防御力"
+msgstr ""
+
+msgctxt "16156"
+msgid "次の格での最大防御力"
+msgstr ""
+
+msgctxt "16177"
+msgid "魂の一打で<Sign:52><Sign:53><Sign:54>のいずれかに確定"
+msgstr ""
+
+msgctxt "16231"
+msgid "魂の一打で<Sign:52><Sign:53>のいずれかに確定"
+msgstr ""
+
+msgctxt "16276"
+msgid "<Sign:52>確定のため魂の一打なし"
+msgstr ""
+
+msgctxt "16308"
+msgid "格上げ費用は%sだ。いいか？"
+msgstr ""
+
+msgctxt "16335"
+msgid "<Sign:%d>の印が付与された。"
+msgstr ""
+
+msgctxt "16363"
+msgid "この武具では効果を発揮しません"
+msgstr ""
+
+msgctxt "16394"
+msgid "<Color:255,255,150,255>瞬<Color:255,255,255,255>と<Color:255,255,150,255>速<Color:255,255,255,255>がある場合、<Color:255,255,150,255>瞬<Color:255,255,255,255>のみ有効"
+msgstr ""
+
+msgctxt "16561"
+msgid "dummy"
+msgstr ""
+
+msgctxt "16567"
+msgid "dummy"
+msgstr ""
+
+msgctxt "16573"
+msgid "dummy"
+msgstr ""
+
+msgctxt "16579"
+msgid "dummy"
+msgstr ""
+
+msgctxt "16585"
+msgid "dummy"
+msgstr ""

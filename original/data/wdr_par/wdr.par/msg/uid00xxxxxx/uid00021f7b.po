@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2716"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2717"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2718"
+msgid ""
+"土佐へ行くにも、まだ時間があるな。\n"
+"斎藤、俺が稽古つけてやろうか？"
+msgstr ""
+
+msgctxt "2785"
+msgid ""
+"なんや、斎藤。\n"
+"もう一度、俺と勝負したいんか？"
+msgstr ""
+
+msgctxt "2832"
+msgid "いや、遠慮しておこう……"
+msgstr ""
+
+msgctxt "2857"
+msgid "そうか……　ならええわ……"
+msgstr ""
+
+msgctxt "2884"
+msgid ""
+"稽古したかったらいつでも俺に言ったらええ。\n"
+"相手するで。"
+msgstr ""
+
+msgctxt "2941"
+msgid "いいだろう……"
+msgstr ""
+
+msgctxt "2956"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2957"
+msgid ""
+"そういや、入隊試験以来やな……\n"
+"お前と剣を交えるのも。"
+msgstr ""
+
+msgctxt "3012"
+msgid ""
+"今回は本気でやらせてもらうで。\n"
+"お前が本物の剣士かどうか見極めたる。"
+msgstr ""
+
+msgctxt "3081"
+msgid "俺も本気で行くぞ。"
+msgstr ""
+
+msgctxt "3100"
+msgid ""
+"俺をがっかりさせんなや。\n"
+"勝負や！　斎藤ぉぉぉ!!!!"
+msgstr ""
+
+msgctxt "3151"
+msgid ""
+"今回も本気でやらせてもらうで。\n"
+"手抜いたら、大怪我するで。"
+msgstr ""
+
+msgctxt "3210"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3211"
+msgid ""
+"さすがや……\n"
+"ますます強うなっとる……"
+msgstr ""
+
+msgctxt "3250"
+msgid ""
+"稽古したかったらいつでも俺に言ったらええ。\n"
+"相手するで。"
+msgstr ""
+
+msgctxt "3307"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3308"
+msgid ""
+"おい、斎藤。\n"
+"お前、腕が鈍ったんちゃうか？"
+msgstr ""
+
+msgctxt "3351"
+msgid ""
+"日々の稽古を忘れたらアカン。\n"
+"精進が足りんで。"
+msgstr ""
+
+msgctxt "3398"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3399"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3400"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3484"
+msgid "永倉"
+msgstr ""
+
+msgctxt "3489"
+msgid "saejima_adv_c14_020_001"
+msgstr ""
+
+msgctxt "3513"
+msgid "いいだろう"
+msgstr ""
+
+msgctxt "3524"
+msgid "遠慮しておこう"
+msgstr ""
+
+msgctxt "3539"
+msgid "saejima_adv_c14_020_010"
+msgstr ""
+
+msgctxt "3563"
+msgid "勝負する"
+msgstr ""
+
+msgctxt "3572"
+msgid "遠慮する"
+msgstr ""
+
+msgctxt "3581"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "3586"
+msgid "kiryu_adv_c14_020_005"
+msgstr ""
+
+msgctxt "3608"
+msgid "saejima_adv_c14_020_005"
+msgstr ""
+
+msgctxt "3632"
+msgid "saejima_adv_c14_020_006"
+msgstr ""
+
+msgctxt "3656"
+msgid "kiryu_adv_c14_020_004"
+msgstr ""
+
+msgctxt "3678"
+msgid "saejima_adv_c14_020_002"
+msgstr ""
+
+msgctxt "3702"
+msgid "saejima_adv_c14_020_003"
+msgstr ""
+
+msgctxt "3726"
+msgid "kiryu_adv_c14_020_009"
+msgstr ""
+
+msgctxt "3748"
+msgid "saejima_adv_c14_020_004"
+msgstr ""
+
+msgctxt "3772"
+msgid "saejima_adv_c14_020_011"
+msgstr ""
+
+msgctxt "3796"
+msgid "saejima_adv_c14_020_007"
+msgstr ""
+
+msgctxt "3820"
+msgid "saejima_adv_c14_020_008"
+msgstr ""
+
+msgctxt "3844"
+msgid "saejima_adv_c14_020_009"
+msgstr ""

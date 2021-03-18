@@ -1,0 +1,652 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "14052"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14053"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14054"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14055"
+msgid "……いつもこんな調子や。"
+msgstr ""
+
+msgctxt "14080"
+msgid "局長の近藤がいないのも、いつもどおりか？"
+msgstr ""
+
+msgctxt "14121"
+msgid "ああ。"
+msgstr ""
+
+msgctxt "14128"
+msgid ""
+"伊東も言っとったが、とっくに死んどるんやないか\n"
+"なんて噂が立つのも、まぁ無理ないわ。"
+msgstr ""
+
+msgctxt "14213"
+msgid "そうか……"
+msgstr ""
+
+msgctxt "14224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14225"
+msgid ""
+"（親っさんを殺した“覆面の男”は天念理心流の\n"
+"　使い手であるはず。山南敬助もその１人\n"
+"　だったが、俺と戦い、土方に殺された……）"
+msgstr ""
+
+msgctxt "14354"
+msgid ""
+"（……山南が“覆面の男”だったとは考えにくい。\n"
+"　腕は立ったが、“覆面の男”の\n"
+"　比ではなかった……）"
+msgstr ""
+
+msgctxt "14457"
+msgid ""
+"（沖田のように手を抜けるような状況でも\n"
+"　なかったはずだ）"
+msgstr ""
+
+msgctxt "14516"
+msgid ""
+"（山南を除けば、天念理心流の使い手は、\n"
+"　新選組には残り６人）"
+msgstr ""
+
+msgctxt "14579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14580"
+msgid "（八番隊隊長の、藤堂平助……）"
+msgstr ""
+
+msgctxt "14611"
+msgid "（六番隊隊長の、井上源三郎……）"
+msgstr ""
+
+msgctxt "14644"
+msgid "（二番隊隊長の、永倉新八……）"
+msgstr ""
+
+msgctxt "14675"
+msgid "（一番隊隊長の、沖田総司……）"
+msgstr ""
+
+msgctxt "14706"
+msgid "（新選組副長の、土方歳三。そして……）"
+msgstr ""
+
+msgctxt "14745"
+msgid ""
+"（新選組局長にして、天念理心流の宗家……\n"
+"　もっとも“覆面の男”に近いはずの男、\n"
+"　近藤勇……）"
+msgstr ""
+
+msgctxt "14842"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14843"
+msgid "……長い道のりになりそうだ。"
+msgstr ""
+
+msgctxt "14872"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14873"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14874"
+msgid "……副長。局長は？"
+msgstr ""
+
+msgctxt "14893"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14894"
+msgid "近藤局長は所用につき欠席です。"
+msgstr ""
+
+msgctxt "14925"
+msgid "また、ですか。"
+msgstr ""
+
+msgctxt "14940"
+msgid "今じゃ新選組も隊士１０００人を抱える大組織……"
+msgstr ""
+
+msgctxt "14987"
+msgid ""
+"その頭が幹部会にロクに顔を出さないってのは\n"
+"いささか問題ですなぁ。"
+msgstr ""
+
+msgctxt "15054"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15055"
+msgid "幹部会を通じて局長からの指示は私が伝えています。"
+msgstr ""
+
+msgctxt "15104"
+msgid ""
+"組の運営も極めて順調に進んでいる。\n"
+"それでも何か問題が？　伊東さん。"
+msgstr ""
+
+msgctxt "15173"
+msgid "今はそれでいいですがねぇ土方さん。"
+msgstr ""
+
+msgctxt "15208"
+msgid ""
+"これからもっと組は巨大になるでしょうし、\n"
+"派手な戦も起こるでしょう。"
+msgstr ""
+
+msgctxt "15277"
+msgid ""
+"そんな時に頭が目の前にいないというのは、\n"
+"参謀の私としては見逃がせない\n"
+"事態なんですがねえ。"
+msgstr ""
+
+msgctxt "15370"
+msgid ""
+"いっそのこと、新しい局長を決めるっちゅうのは\n"
+"どうです？"
+msgstr ""
+
+msgctxt "15427"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15428"
+msgid "……"
+msgstr ""
+
+msgctxt "15433"
+msgid "どういう意味かな？　鈴木君。"
+msgstr ""
+
+msgctxt "15462"
+msgid ""
+"いくら事が順調に進んでる言うても、\n"
+"一軍の将っちゅうのは兵に、なにより敵に\n"
+"姿をさらし続けてこそ……"
+msgstr ""
+
+msgctxt "15563"
+msgid ""
+"部下もオノレの命を張る気になるっちゅうもん\n"
+"やないですか？"
+msgstr ""
+
+msgctxt "15622"
+msgid "強さこそが新選組の正義なんでしょ？"
+msgstr ""
+
+msgctxt "15657"
+msgid ""
+"……なら、隠れてコソコソやっとる人間より、\n"
+"局長にふさわしい人物がおるやろって思いますがね。"
+msgstr ""
+
+msgctxt "15750"
+msgid ""
+"……君のいう“ふさわしい人物”というのは、\n"
+"伊東さんのことを指しているのかね？"
+msgstr ""
+
+msgctxt "15829"
+msgid "いやぁ、そんなことは別に。"
+msgstr ""
+
+msgctxt "15856"
+msgid "そうか？　私にはそう聞こえたが。"
+msgstr ""
+
+msgctxt "15889"
+msgid ""
+"……伊東さんのつてで\n"
+"隊長まで上り詰めた君のことだ。"
+msgstr ""
+
+msgctxt "15942"
+msgid ""
+"伊東さんに恩義を感じるのは当然だが、\n"
+"発言には気をつけたほうがいい。"
+msgstr ""
+
+msgctxt "16011"
+msgid "……お気遣い、どうも。"
+msgstr ""
+
+msgctxt "16034"
+msgid ""
+"新選組は近藤局長を中心に動きます。\n"
+"これまでも、そしてこれからもね。"
+msgstr ""
+
+msgctxt "16103"
+msgid "参謀の伊東さんは、どうぞ心配なく。"
+msgstr ""
+
+msgctxt "16138"
+msgid ""
+"分かりました。\n"
+"ま、局長には伊東が心配してましたと\n"
+"お伝えくださいよ……"
+msgstr ""
+
+msgctxt "16211"
+msgid "伝えられるならの話ですが、ね。"
+msgstr ""
+
+msgctxt "16242"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16243"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16244"
+msgid "……どういう意味ですか？"
+msgstr ""
+
+msgctxt "16269"
+msgid ""
+"ああ。いや、これはあくまで噂ですがね。\n"
+"実は局長はとっくに死んでるんじゃねえかって……\n"
+"そんな話があるんですよ。"
+msgstr ""
+
+msgctxt "16382"
+msgid "根も葉もない噂だ。"
+msgstr ""
+
+msgctxt "16401"
+msgid ""
+"そうでしょうなあ。\n"
+"私もそう思います。"
+msgstr ""
+
+msgctxt "16440"
+msgid "でもこんな噂が立つのも無理はないでしょう。"
+msgstr ""
+
+msgctxt "16483"
+msgid ""
+"ここしばらくの間で、近藤局長に会ったことのある\n"
+"人間がどれだけいますかね？"
+msgstr ""
+
+msgctxt "16558"
+msgid ""
+"何せ参謀の私ですら、入隊時に一度\n"
+"お会いしたきりですからねえ。"
+msgstr ""
+
+msgctxt "16621"
+msgid ""
+"局長の不在をいいことに、土方さんら元試衛館の\n"
+"方々が新選組を私物化しようとしている……"
+msgstr ""
+
+msgctxt "16708"
+msgid ""
+"……なんて、実にけしからんことを言う奴も\n"
+"出てくる始末で。\n"
+"いやはや、実にけしからんですなぁ。"
+msgstr ""
+
+msgctxt "16803"
+msgid ""
+"そんな状況なわけです。\n"
+"よろしく頼みますよ……？　副長さん。"
+msgstr ""
+
+msgctxt "16864"
+msgid "……もちろん。"
+msgstr ""
+
+msgctxt "16879"
+msgid "いつまで小難しい話してんねん！"
+msgstr ""
+
+msgctxt "16910"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16911"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16912"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16913"
+msgid "……また遅刻か。総司。"
+msgstr ""
+
+msgctxt "16936"
+msgid ""
+"お前らのつまらん話聞くくらいなら\n"
+"寝とったほうがよっぽどマシや。"
+msgstr ""
+
+msgctxt "17001"
+msgid ""
+"それより、新隊長サマはまだ来てへんのかいな？\n"
+"遅刻とはけしからんのう！"
+msgstr ""
+
+msgctxt "17072"
+msgid "……もうすぐ来るはずだ。"
+msgstr ""
+
+msgctxt "17097"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17098"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20200"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "20222"
+msgid "M_BUS_TLK_seiza_to_stand"
+msgstr ""
+
+msgctxt "20247"
+msgid "M_BUS_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "20269"
+msgid "M_BUS_TLK_agura_to_stand"
+msgstr ""
+
+msgctxt "20294"
+msgid "永倉"
+msgstr ""
+
+msgctxt "20299"
+msgid "saejima_c04_010_01"
+msgstr ""
+
+msgctxt "20318"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "20323"
+msgid "kiryu_c04_010_01"
+msgstr ""
+
+msgctxt "20340"
+msgid "saejima_c04_010_02"
+msgstr ""
+
+msgctxt "20359"
+msgid "M_BUS_TLK_stand_yes"
+msgstr ""
+
+msgctxt "20379"
+msgid "saejima_c04_010_02b"
+msgstr ""
+
+msgctxt "20399"
+msgid "kiryu_c04_010_02"
+msgstr ""
+
+msgctxt "20416"
+msgid "dummy"
+msgstr ""
+
+msgctxt "20422"
+msgid "kaiwabgm_fuon_06"
+msgstr ""
+
+msgctxt "20439"
+msgid "0"
+msgstr ""
+
+msgctxt "20441"
+msgid "kiryu_c04_010_12"
+msgstr ""
+
+msgctxt "20458"
+msgid "saejima_c04_005_01"
+msgstr ""
+
+msgctxt "20477"
+msgid "土方"
+msgstr ""
+
+msgctxt "20482"
+msgid "hijikata_c04_005_01"
+msgstr ""
+
+msgctxt "20502"
+msgid "伊東"
+msgstr ""
+
+msgctxt "20507"
+msgid "ito_c04_005_01"
+msgstr ""
+
+msgctxt "20522"
+msgid "ito_c04_005_02"
+msgstr ""
+
+msgctxt "20537"
+msgid "ito_c04_005_02b"
+msgstr ""
+
+msgctxt "20553"
+msgid "ifc_jimaku_ito"
+msgstr ""
+
+msgctxt "20568"
+msgid "hijikata_c04_005_03"
+msgstr ""
+
+msgctxt "20588"
+msgid "hijikata_c04_005_03b"
+msgstr ""
+
+msgctxt "20609"
+msgid "ito_c04_005_03"
+msgstr ""
+
+msgctxt "20624"
+msgid "ito_c04_005_03b"
+msgstr ""
+
+msgctxt "20640"
+msgid "ito_c04_005_03c"
+msgstr ""
+
+msgctxt "20656"
+msgid "鈴木"
+msgstr ""
+
+msgctxt "20661"
+msgid "suzuki_c04_005_01"
+msgstr ""
+
+msgctxt "20679"
+msgid "ifc_jimaku_suzuki"
+msgstr ""
+
+msgctxt "20697"
+msgid "ito_c04_005_04"
+msgstr ""
+
+msgctxt "20712"
+msgid "hijikata_c04_005_04"
+msgstr ""
+
+msgctxt "20732"
+msgid "suzuki_c04_005_02"
+msgstr ""
+
+msgctxt "20750"
+msgid "suzuki_c04_005_02b"
+msgstr ""
+
+msgctxt "20769"
+msgid "suzuki_c04_005_02c"
+msgstr ""
+
+msgctxt "20788"
+msgid "suzuki_c04_005_02d"
+msgstr ""
+
+msgctxt "20807"
+msgid "hijikata_c04_005_05"
+msgstr ""
+
+msgctxt "20827"
+msgid "suzuki_c04_005_03"
+msgstr ""
+
+msgctxt "20845"
+msgid "hijikata_c04_005_06"
+msgstr ""
+
+msgctxt "20865"
+msgid "hijikata_c04_005_06b"
+msgstr ""
+
+msgctxt "20886"
+msgid "hijikata_c04_005_06c"
+msgstr ""
+
+msgctxt "20907"
+msgid "suzuki_c04_005_04"
+msgstr ""
+
+msgctxt "20925"
+msgid "hijikata_c04_005_07"
+msgstr ""
+
+msgctxt "20945"
+msgid "hijikata_c04_005_07b"
+msgstr ""
+
+msgctxt "20966"
+msgid "ito_c04_005_05"
+msgstr ""
+
+msgctxt "20981"
+msgid "ito_c04_005_05b"
+msgstr ""
+
+msgctxt "20997"
+msgid "hijikata_c04_005_08"
+msgstr ""
+
+msgctxt "21017"
+msgid "ito_c04_005_06"
+msgstr ""
+
+msgctxt "21032"
+msgid "hijikata_c04_005_09"
+msgstr ""
+
+msgctxt "21052"
+msgid "ito_c04_005_07"
+msgstr ""
+
+msgctxt "21067"
+msgid "ito_c04_005_07b"
+msgstr ""
+
+msgctxt "21083"
+msgid "ito_c04_005_07c"
+msgstr ""
+
+msgctxt "21099"
+msgid "ito_c04_005_08"
+msgstr ""
+
+msgctxt "21114"
+msgid "ito_c04_005_08b"
+msgstr ""
+
+msgctxt "21130"
+msgid "ito_c04_005_09"
+msgstr ""
+
+msgctxt "21145"
+msgid "ito_c04_005_09b"
+msgstr ""
+
+msgctxt "21161"
+msgid "hijikata_c04_005_12"
+msgstr ""
+
+msgctxt "21181"
+msgid "沖田"
+msgstr ""
+
+msgctxt "21186"
+msgid "majima_c04_005_01"
+msgstr ""
+
+msgctxt "21204"
+msgid "C04005_OKI_take_seat_lp"
+msgstr ""
+
+msgctxt "21228"
+msgid "C04005_OKI_take_seat_st"
+msgstr ""
+
+msgctxt "21252"
+msgid "saejima_c04_005_03"
+msgstr ""
+
+msgctxt "21271"
+msgid "majima_c04_005_02"
+msgstr ""
+
+msgctxt "21289"
+msgid "majima_c04_005_03"
+msgstr ""
+
+msgctxt "21307"
+msgid "hijikata_c04_005_13"
+msgstr ""

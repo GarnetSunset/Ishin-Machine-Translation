@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "13028"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13029"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13030"
+msgid ""
+"よう、斎藤さん。\n"
+"今回の返済分、２０両は用意できたかい？"
+msgstr ""
+
+msgctxt "13087"
+msgid "すまんが、まだ用意できていない。"
+msgstr ""
+
+msgctxt "13120"
+msgid ""
+"ええっ!?\n"
+"頼むよ。こっちも生活がかかってるんだから……"
+msgstr ""
+
+msgctxt "13175"
+msgid "すまない。すぐに用意してくる。"
+msgstr ""
+
+msgctxt "13206"
+msgid "頼んだよ？"
+msgstr ""
+
+msgctxt "13217"
+msgid ""
+"よう、斎藤さん。\n"
+"今回の返済分、２０両は用意できたかい？"
+msgstr ""
+
+msgctxt "13274"
+msgid "ああ。確かめてくれ。"
+msgstr ""
+
+msgctxt "13295"
+msgid "「<Color:8>２０両<Color:Default>」を地主に渡した"
+msgstr ""
+
+msgctxt "13344"
+msgid ""
+"ふむ……　確かに、２０両ちょうどだな。\n"
+"これで残りの返済額は、８０両だ。"
+msgstr ""
+
+msgctxt "13417"
+msgid ""
+"また返済期日が来たら連絡するから、\n"
+"よろしく頼むよ。"
+msgstr ""
+
+msgctxt "13470"
+msgid "ああ、分かった。"
+msgstr ""
+
+msgctxt "13487"
+msgid "それと……　これを、あの娘さんに。"
+msgstr ""
+
+msgctxt "13522"
+msgid "「<Color:8>着物　元黄娘<Color:Default>」を手に入れた。"
+msgstr ""
+
+msgctxt "13577"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13578"
+msgid "これは……？"
+msgstr ""
+
+msgctxt "13591"
+msgid "あの遥とかいう子にあげてくれ。"
+msgstr ""
+
+msgctxt "13622"
+msgid ""
+"……年頃の子が借金を抱えて、\n"
+"お洒落ひとつできないってのもかわいそうだしな。\n"
+"まぁ、俺からのほんの気持ちだ。"
+msgstr ""
+
+msgctxt "13731"
+msgid ""
+"……そうか。助かる。\n"
+"あんた、意外と優しいんだな。"
+msgstr ""
+
+msgctxt "13782"
+msgid ""
+"へっ、よせやい。\n"
+"ただし、ちゃーんと金は返してもらうからな？\n"
+"……じゃあ、また連絡する。"
+msgstr ""
+
+msgctxt "13871"
+msgid "ああ。"
+msgstr ""
+
+msgctxt "13878"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13879"
+msgid "（着物、か。さっそく遥に渡そう）"
+msgstr ""
+
+msgctxt "13912"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13913"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13914"
+msgid ""
+"よう、斎藤さん。\n"
+"今回の返済分、２０両は用意できたかい？"
+msgstr ""
+
+msgctxt "13971"
+msgid "すまんが、まだ用意できていない。"
+msgstr ""
+
+msgctxt "14004"
+msgid ""
+"ええっ!?\n"
+"頼むよ。こっちも生活がかかってるんだから……"
+msgstr ""
+
+msgctxt "14059"
+msgid "すまない。すぐに用意してくる。"
+msgstr ""
+
+msgctxt "14090"
+msgid "頼んだよ？"
+msgstr ""
+
+msgctxt "14101"
+msgid ""
+"よう、斎藤さん。\n"
+"今回の返済分、２０両は用意できたかい？"
+msgstr ""
+
+msgctxt "14158"
+msgid "ああ。確かめてくれ。"
+msgstr ""
+
+msgctxt "14179"
+msgid "「<Color:8>２０両<Color:Default>」を地主に渡した。"
+msgstr ""
+
+msgctxt "14230"
+msgid ""
+"ふむ……　確かに、２０両ちょうどだな。\n"
+"これで残りの返済額は、６０両だ。"
+msgstr ""
+
+msgctxt "14303"
+msgid ""
+"また返済期日が来たら連絡するから、\n"
+"よろしく頼むよ。じゃあ。"
+msgstr ""
+
+msgctxt "14364"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14365"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14366"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14367"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14368"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14369"
+msgid ""
+"よう、斎藤さん。\n"
+"今回の返済分、２０両は用意できたかい？"
+msgstr ""
+
+msgctxt "14426"
+msgid "すまんが、まだ用意できていない。"
+msgstr ""
+
+msgctxt "14459"
+msgid ""
+"ええっ!?\n"
+"頼むよ。こっちも生活がかかってるんだから……"
+msgstr ""
+
+msgctxt "14514"
+msgid "すまない。すぐに用意してくる。"
+msgstr ""
+
+msgctxt "14545"
+msgid "頼んだよ？"
+msgstr ""
+
+msgctxt "14556"
+msgid ""
+"よう、斎藤さん。\n"
+"今回の返済分、２０両は用意できたかい？"
+msgstr ""
+
+msgctxt "14613"
+msgid "ああ。確かめてくれ。"
+msgstr ""
+
+msgctxt "14634"
+msgid "「<Color:8>２０両<Color:Default>」を地主に渡した。"
+msgstr ""
+
+msgctxt "14685"
+msgid ""
+"ふむ……　確かに、２０両ちょうどだな。\n"
+"これで残りの返済額は、４０両だ。"
+msgstr ""
+
+msgctxt "14758"
+msgid ""
+"また返済期日が来たら連絡するから、\n"
+"よろしく頼むよ。じゃあ。"
+msgstr ""
+
+msgctxt "14819"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14820"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14821"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14822"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14823"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14824"
+msgid ""
+"よう、斎藤さん。\n"
+"今回の返済分、２０両は用意できたかい？"
+msgstr ""
+
+msgctxt "14881"
+msgid "すまんが、まだ用意できていない。"
+msgstr ""
+
+msgctxt "14914"
+msgid ""
+"ええっ!?\n"
+"頼むよ。こっちも生活がかかってるんだから……"
+msgstr ""
+
+msgctxt "14969"
+msgid "すまない。すぐに用意してくる。"
+msgstr ""
+
+msgctxt "15000"
+msgid "頼んだよ？"
+msgstr ""
+
+msgctxt "15011"
+msgid ""
+"よう、斎藤さん。\n"
+"今回の返済分、２０両は用意できたかい？"
+msgstr ""
+
+msgctxt "15068"
+msgid "ああ。確かめてくれ。"
+msgstr ""
+
+msgctxt "15089"
+msgid "「<Color:8>２０両<Color:Default>」を地主に渡した。"
+msgstr ""
+
+msgctxt "15140"
+msgid ""
+"ふむ……　確かに、２０両ちょうどだな。\n"
+"これで残りの返済額は、２０両だ。"
+msgstr ""
+
+msgctxt "15213"
+msgid ""
+"また返済期日が来たら連絡するから、\n"
+"よろしく頼むよ。じゃあ。"
+msgstr ""
+
+msgctxt "15274"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15275"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15276"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15277"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15278"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15279"
+msgid ""
+"よう、斎藤さん。\n"
+"今回の返済分、２０両は用意できたかい？"
+msgstr ""
+
+msgctxt "15336"
+msgid "すまんが、まだ用意できていない。"
+msgstr ""
+
+msgctxt "15369"
+msgid ""
+"ええっ!?\n"
+"頼むよ。こっちも生活がかかってるんだから……"
+msgstr ""
+
+msgctxt "15424"
+msgid "すまない。すぐに用意してくる。"
+msgstr ""
+
+msgctxt "15455"
+msgid "頼んだよ？"
+msgstr ""
+
+msgctxt "15466"
+msgid ""
+"よう、斎藤さん。\n"
+"今回の返済分、２０両は用意できたかい？"
+msgstr ""
+
+msgctxt "15523"
+msgid "ああ。確かめてくれ。"
+msgstr ""
+
+msgctxt "15544"
+msgid "「<Color:8>２０両<Color:Default>」を地主に渡した。"
+msgstr ""
+
+msgctxt "15595"
+msgid ""
+"これにて全額、\n"
+"１００両を返済してもらえたことになる。"
+msgstr ""
+
+msgctxt "15650"
+msgid ""
+"これで完全に、あの家はあんたのものだ。\n"
+"返済ご苦労様。ありがとうな。"
+msgstr ""
+
+msgctxt "15719"
+msgid ""
+"いや、こちらも礼を言わせてもらう。\n"
+"あの家……\n"
+"本来なら１００両以上の価値があっただろう？"
+msgstr ""
+
+msgctxt "15810"
+msgid "それに、借金の利息もとらずにいてくれた。"
+msgstr ""
+
+msgctxt "15851"
+msgid "ああ。……ははは。"
+msgstr ""
+
+msgctxt "15870"
+msgid ""
+"まぁ、俺も人の子ってことよ。\n"
+"遥ちゃんとやらに……\n"
+"よろしくな。幸せに暮らせよ！"
+msgstr ""
+
+msgctxt "15951"
+msgid "ああ。"
+msgstr ""
+
+msgctxt "15958"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15959"
+msgid ""
+"（さっそく、\n"
+"　遥と神主に、完済したことを伝えよう）"
+msgstr ""
+
+msgctxt "16012"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16740"
+msgid "地主"
+msgstr ""
+
+msgctxt "16745"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "16755"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "16760"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "16768"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "16781"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "16790"
+msgid "２０両を渡す"
+msgstr ""
+
+msgctxt "16803"
+msgid "用意できていない"
+msgstr ""
+
+msgctxt "16820"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "16830"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "16841"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "16852"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "16864"
+msgid "Talk_Smile"
+msgstr ""

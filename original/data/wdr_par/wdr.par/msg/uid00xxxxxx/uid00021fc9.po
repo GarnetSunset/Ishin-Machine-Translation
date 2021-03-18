@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "11156"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11157"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11158"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11159"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11160"
+msgid ""
+"一（はじめ）さん……\n"
+"あんな、今日は女将さんが一日暇をくれるって。"
+msgstr ""
+
+msgctxt "11227"
+msgid ""
+"せやから、あの……\n"
+"うちとおるのイヤやなかったら、一緒に\n"
+"散歩でもいかへん？"
+msgstr ""
+
+msgctxt "11304"
+msgid ""
+"だってうち、一（はじめ）さんには京にも\n"
+"ええ思い出作ってってほしい……"
+msgstr ""
+
+msgctxt "11375"
+msgid ""
+"うちと一（はじめ）さんがおった京を、\n"
+"嫌いにならんでほしいから。"
+msgstr ""
+
+msgctxt "11440"
+msgid "ああ……　わかった。"
+msgstr ""
+
+msgctxt "11461"
+msgid "ほんま？　ほな、うち、すぐに支度してきます。"
+msgstr ""
+
+msgctxt "11506"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11507"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11508"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11509"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11510"
+msgid ""
+"一（はじめ）さん、聞いたで。\n"
+"あんたら、これから土佐に行かはるんやろ？"
+msgstr ""
+
+msgctxt "11581"
+msgid "例の、もう一人の坂本龍馬と会いに。"
+msgstr ""
+
+msgctxt "11616"
+msgid "……さっき中岡はんから聞いたんや。"
+msgstr ""
+
+msgctxt "11651"
+msgid ""
+"せやけど、あんたらが土佐行ったら\n"
+"何が待ち構えているかわからへんって……"
+msgstr ""
+
+msgctxt "11724"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11725"
+msgid "そしたら一（はじめ）さん。"
+msgstr ""
+
+msgctxt "11752"
+msgid ""
+"あんた、京を発つ前におりょうちゃんに\n"
+"声かけたげな。"
+msgstr ""
+
+msgctxt "11805"
+msgid ""
+"余計なお世話かもしれん。\n"
+"せやけど、おりょうちゃんに会うてあげて。"
+msgstr ""
+
+msgctxt "11872"
+msgid ""
+"あの子、気丈にしてるけど、ほんまは\n"
+"一（はじめ）さんのこと心配でいてもたっても\n"
+"おられへんはずや。"
+msgstr ""
+
+msgctxt "11971"
+msgid "おりょうちゃんにはうちから暇出しといたさかい。"
+msgstr ""
+
+msgctxt "12018"
+msgid ""
+"せめて今日一日、あの子と一緒に\n"
+"居（お）ってあげて。　な？"
+msgstr ""
+
+msgctxt "12077"
+msgid "もう京を発つ支度はできとるんやろ？"
+msgstr ""
+
+msgctxt "12112"
+msgid "そしたら今からあの子呼んでくるけどええ？"
+msgstr ""
+
+msgctxt "12153"
+msgid "いや、ちょっと待ってくれ。"
+msgstr ""
+
+msgctxt "12180"
+msgid ""
+"京でやり残したこと、無いようにな。\n"
+"支度出来たら、声かけてや。"
+msgstr ""
+
+msgctxt "12243"
+msgid "そしたらすぐおりょうちゃん、呼んでくるさかい。"
+msgstr ""
+
+msgctxt "12290"
+msgid "一（はじめ）さん、支度は出来た？"
+msgstr ""
+
+msgctxt "12323"
+msgid "おりょうちゃん、呼んでくるで？"
+msgstr ""
+
+msgctxt "12354"
+msgid "ああ。大丈夫だ。"
+msgstr ""
+
+msgctxt "12371"
+msgid ""
+"わかったわ。\n"
+"じゃあ、おりょうちゃん呼んでくる。"
+msgstr ""
+
+msgctxt "12420"
+msgid "ちょっと待っとって。"
+msgstr ""
+
+msgctxt "12441"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12442"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12443"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12444"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12445"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12446"
+msgid ""
+"一（はじめ）さん、聞いたで。\n"
+"あんたら、これから土佐に行かはるんやろ？"
+msgstr ""
+
+msgctxt "12517"
+msgid "例の、もう一人の坂本龍馬と会いに。"
+msgstr ""
+
+msgctxt "12552"
+msgid "……さっき中岡はんから聞いたんや。"
+msgstr ""
+
+msgctxt "12587"
+msgid ""
+"せやけど、あんたらが土佐行ったら\n"
+"何が待ち構えているかわからへんって……"
+msgstr ""
+
+msgctxt "12660"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12661"
+msgid "そしたら一（はじめ）さん。"
+msgstr ""
+
+msgctxt "12688"
+msgid ""
+"あんた、京を発つ前におりょうちゃんに\n"
+"声かけたげな。"
+msgstr ""
+
+msgctxt "12741"
+msgid ""
+"余計なお世話かもしれん。\n"
+"せやけど、おりょうちゃんに会うてあげて。"
+msgstr ""
+
+msgctxt "12808"
+msgid ""
+"あの子、気丈にしてるけど、ほんまは\n"
+"一（はじめ）さんのこと心配でいてもたっても\n"
+"おられへんはずや。"
+msgstr ""
+
+msgctxt "12907"
+msgid "おりょうちゃんにはうちから暇出しといたさかい。"
+msgstr ""
+
+msgctxt "12954"
+msgid ""
+"せめて今日一日、あの子と一緒に\n"
+"居（お）ってあげて。　な？"
+msgstr ""
+
+msgctxt "13013"
+msgid "もう京を発つ支度はできとるんやろ？"
+msgstr ""
+
+msgctxt "13048"
+msgid "そしたら今からあの子呼んでくるけどええ？"
+msgstr ""
+
+msgctxt "13089"
+msgid "いや、ちょっと待ってくれ。"
+msgstr ""
+
+msgctxt "13116"
+msgid ""
+"京でやり残したこと、無いようにな。\n"
+"支度出来たら、声かけてや。"
+msgstr ""
+
+msgctxt "13179"
+msgid "そしたらすぐおりょうちゃん、呼んでくるさかい。"
+msgstr ""
+
+msgctxt "13226"
+msgid "一（はじめ）さん、支度は出来た？"
+msgstr ""
+
+msgctxt "13259"
+msgid "おりょうちゃん、呼んでくるで？"
+msgstr ""
+
+msgctxt "13290"
+msgid "ああ。大丈夫だ。"
+msgstr ""
+
+msgctxt "13307"
+msgid ""
+"わかったわ。\n"
+"じゃあ、おりょうちゃん呼んでくる。"
+msgstr ""
+
+msgctxt "13356"
+msgid "ちょっと待っとって。"
+msgstr ""
+
+msgctxt "13377"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13378"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13379"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13380"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14388"
+msgid "おりょう"
+msgstr ""
+
+msgctxt "14397"
+msgid "oryo_adv_c14_020_001"
+msgstr ""
+
+msgctxt "14418"
+msgid "oryo_adv_c14_020_002"
+msgstr ""
+
+msgctxt "14439"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14448"
+msgid "oryo_adv_c14_020_003"
+msgstr ""
+
+msgctxt "14469"
+msgid "oryo_adv_c14_020_003b"
+msgstr ""
+
+msgctxt "14491"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "14496"
+msgid "kiryu_adv_c14_020_010"
+msgstr ""
+
+msgctxt "14518"
+msgid "oryo_adv_c14_020_004"
+msgstr ""
+
+msgctxt "14539"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "14550"
+msgid "お登勢"
+msgstr ""
+
+msgctxt "14557"
+msgid "otose_adv_c14_020_001"
+msgstr ""
+
+msgctxt "14579"
+msgid "otose_adv_c14_020_002"
+msgstr ""
+
+msgctxt "14601"
+msgid "otose_adv_c14_020_003"
+msgstr ""
+
+msgctxt "14623"
+msgid "otose_adv_c14_020_004"
+msgstr ""
+
+msgctxt "14645"
+msgid "otose_adv_c14_020_005"
+msgstr ""
+
+msgctxt "14667"
+msgid "otose_adv_c14_020_006"
+msgstr ""
+
+msgctxt "14689"
+msgid "otose_adv_c14_020_007"
+msgstr ""
+
+msgctxt "14711"
+msgid "otose_adv_c14_020_008"
+msgstr ""
+
+msgctxt "14733"
+msgid "otose_adv_c14_020_009"
+msgstr ""
+
+msgctxt "14755"
+msgid "otose_adv_c14_020_010"
+msgstr ""
+
+msgctxt "14777"
+msgid "otose_adv_c14_020_011"
+msgstr ""
+
+msgctxt "14799"
+msgid "otose_adv_c14_020_012"
+msgstr ""
+
+msgctxt "14821"
+msgid "大丈夫だ"
+msgstr ""
+
+msgctxt "14830"
+msgid "ちょっと待ってくれ"
+msgstr ""
+
+msgctxt "14849"
+msgid "kiryu_adv_c02_150_002"
+msgstr ""
+
+msgctxt "14871"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14879"
+msgid "otose_adv_c14_020_013"
+msgstr ""
+
+msgctxt "14901"
+msgid "otose_adv_c14_020_014"
+msgstr ""
+
+msgctxt "14923"
+msgid "otose_adv_c14_020_015"
+msgstr ""
+
+msgctxt "14945"
+msgid "otose_adv_c14_020_016"
+msgstr ""
+
+msgctxt "14967"
+msgid "kiryu_adv_c02_150_001"
+msgstr ""
+
+msgctxt "14989"
+msgid "otose_adv_c14_020_017"
+msgstr ""
+
+msgctxt "15011"
+msgid "otose_adv_c14_020_018"
+msgstr ""
+
+msgctxt "15033"
+msgid "0"
+msgstr ""

@@ -1,0 +1,691 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "18356"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18357"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18358"
+msgid "ニャア……！"
+msgstr ""
+
+msgctxt "18371"
+msgid ""
+"（俺のせいでこの猫の舌がずいぶん肥えてしまった。\n"
+"　もうマグロくらいの魚でないと満足しないだろう）"
+msgstr ""
+
+msgctxt "18470"
+msgid "ぐぅぅ……"
+msgstr ""
+
+msgctxt "18481"
+msgid "はぁ……　またお前は空腹で倒れているのか……"
+msgstr ""
+
+msgctxt "18526"
+msgid "ニャア……"
+msgstr ""
+
+msgctxt "18537"
+msgid ""
+"……しかたない。\n"
+"また魚屋でマダイでも買ってきてやろう。"
+msgstr ""
+
+msgctxt "18594"
+msgid "フニャ！　フニャア！"
+msgstr ""
+
+msgctxt "18615"
+msgid "……何？　もしかして、マダイでは不服なのか？"
+msgstr ""
+
+msgctxt "18660"
+msgid "ニャア！"
+msgstr ""
+
+msgctxt "18669"
+msgid ""
+"（なんということだ。どうやら俺のせいで\n"
+"　また舌が肥えてしまったらしい……）"
+msgstr ""
+
+msgctxt "18746"
+msgid ""
+"（おそらくこの猫は、マグロくらいの魚でないと\n"
+"　もう満足しないだろう……）"
+msgstr ""
+
+msgctxt "18821"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18822"
+msgid ""
+"まったく、お前ほど贅沢な猫はいないぞ……\n"
+"しかたない。マグロを持って来ればいいんだな？"
+msgstr ""
+
+msgctxt "18909"
+msgid "ニャア！"
+msgstr ""
+
+msgctxt "18918"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18919"
+msgid ""
+"（ちょうど手持ちのマグロがあるが……\n"
+"　どうする？）"
+msgstr ""
+
+msgctxt "18972"
+msgid ""
+"このマグロをやるわけにはいかないんだ……\n"
+"わかってくれ。"
+msgstr ""
+
+msgctxt "19029"
+msgid "ニャア……"
+msgstr ""
+
+msgctxt "19040"
+msgid "…………"
+msgstr ""
+
+msgctxt "19049"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19050"
+msgid "……ほら、マグロだ。食え。"
+msgstr ""
+
+msgctxt "19077"
+msgid "「<Color:8>マグロ<Color:Default>」をやった"
+msgstr ""
+
+msgctxt "19120"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19121"
+msgid "……ニャ!?"
+msgstr ""
+
+msgctxt "19132"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19133"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19134"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19135"
+msgid "ニャア！"
+msgstr ""
+
+msgctxt "19144"
+msgid ""
+"フッ、ずいぶんうまそうに食っていたな。\n"
+"マグロだから当たり前だが。"
+msgstr ""
+
+msgctxt "19211"
+msgid "ニャアニャア！"
+msgstr ""
+
+msgctxt "19226"
+msgid ""
+"ご馳走様と言っているのか？\n"
+"フッ、ゲンキンな奴だ。"
+msgstr ""
+
+msgctxt "19277"
+msgid "……ゴロゴロゴロ。"
+msgstr ""
+
+msgctxt "19296"
+msgid "フッ、いい気なもんだ。"
+msgstr ""
+
+msgctxt "19319"
+msgid "……ニャアン。"
+msgstr ""
+
+msgctxt "19334"
+msgid "ん？　なんだ？"
+msgstr ""
+
+msgctxt "19349"
+msgid "ニャアニャア！"
+msgstr ""
+
+msgctxt "19364"
+msgid ""
+"もしかしてお前……\n"
+"俺の家の猫になりたいのか？"
+msgstr ""
+
+msgctxt "19411"
+msgid "……ニャア！"
+msgstr ""
+
+msgctxt "19424"
+msgid ""
+"フッ、俺と一緒にいるからといって、\n"
+"毎日マグロが食えるわけじゃないんだがな。\n"
+"……それでもいいのか？"
+msgstr ""
+
+msgctxt "19525"
+msgid "ゴロゴロゴロ……"
+msgstr ""
+
+msgctxt "19542"
+msgid ""
+"フッ、まったく……　ひとの話を聞かないやつだ。\n"
+"……しかたない。\n"
+"今日からお前は俺の家の一員だ。いいな？"
+msgstr ""
+
+msgctxt "19647"
+msgid "ニャア！"
+msgstr ""
+
+msgctxt "19656"
+msgid "はらぺこな猫に名前をつけてください。"
+msgstr ""
+
+msgctxt "19693"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19694"
+msgid "%sがペットになりました。"
+msgstr ""
+
+msgctxt "19719"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19720"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19721"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19722"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19723"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19724"
+msgid "ニャア……！"
+msgstr ""
+
+msgctxt "19737"
+msgid ""
+"（腹を空かせた猫がいるが……\n"
+"　どうやらこの猫、舌が肥えてしまったらしい。\n"
+"　もうマダイくらいの魚でないと満足しないだろう）"
+msgstr ""
+
+msgctxt "19862"
+msgid "ぐぅぅ……"
+msgstr ""
+
+msgctxt "19873"
+msgid "お前、また腹を鳴らしているのか。"
+msgstr ""
+
+msgctxt "19906"
+msgid "ニャア……"
+msgstr ""
+
+msgctxt "19917"
+msgid ""
+"まったく、お前という奴は。\n"
+"……魚屋でアジでも買ってきてやるか。"
+msgstr ""
+
+msgctxt "19982"
+msgid "フニャ！　フニャア！"
+msgstr ""
+
+msgctxt "20003"
+msgid "……何？　もしかして、アジでは不服なのか？"
+msgstr ""
+
+msgctxt "20046"
+msgid "ニャア！"
+msgstr ""
+
+msgctxt "20055"
+msgid ""
+"（なんということだ。どうやら俺のせいで\n"
+"　舌が肥えてしまったらしい……）"
+msgstr ""
+
+msgctxt "20128"
+msgid ""
+"（おそらくこの猫は、マダイくらいの魚でないと\n"
+"　もう満足しないだろう……）"
+msgstr ""
+
+msgctxt "20203"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20204"
+msgid ""
+"まったく、贅沢な猫になったもんだ……\n"
+"しかたない。マダイを持って来ればいいんだろう？"
+msgstr ""
+
+msgctxt "20289"
+msgid "ニャア！"
+msgstr ""
+
+msgctxt "20298"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20299"
+msgid ""
+"（ちょうど手持ちのマダイがあるが……\n"
+"　どうする？）"
+msgstr ""
+
+msgctxt "20352"
+msgid ""
+"今、マダイをやるわけにはいかないんだ……\n"
+"わかってくれ。"
+msgstr ""
+
+msgctxt "20409"
+msgid "ニャア……"
+msgstr ""
+
+msgctxt "20420"
+msgid "…………"
+msgstr ""
+
+msgctxt "20429"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20430"
+msgid "……ほら、マダイだ。食え。"
+msgstr ""
+
+msgctxt "20457"
+msgid "「<Color:8>マダイ<Color:Default>」をやった"
+msgstr ""
+
+msgctxt "20500"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20501"
+msgid "……ニャ!?"
+msgstr ""
+
+msgctxt "20512"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20513"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20514"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20515"
+msgid "ニャア！"
+msgstr ""
+
+msgctxt "20524"
+msgid ""
+"（フッ、うまそうに食ってる姿を見ていると\n"
+"　マダイを持ってきた甲斐があったというものだな）"
+msgstr ""
+
+msgctxt "20615"
+msgid ""
+"……しかし、いつでも\n"
+"マダイ級の魚をもらえると思ったら大間違いだぞ。\n"
+"いい加減自分の食う物くらい自分でなんとかしろ。"
+msgstr ""
+
+msgctxt "20732"
+msgid "……ゴロゴロゴロ。"
+msgstr ""
+
+msgctxt "20751"
+msgid "おい、かわいさでごまかそうとしてもだめだぞ。"
+msgstr ""
+
+msgctxt "20796"
+msgid "……ゴロゴロゴロ。"
+msgstr ""
+
+msgctxt "20815"
+msgid "フフッ。こら、だめだって。"
+msgstr ""
+
+msgctxt "20842"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20843"
+msgid "ぐぅぅ……"
+msgstr ""
+
+msgctxt "20854"
+msgid "お前、また腹が減っているのか？"
+msgstr ""
+
+msgctxt "20885"
+msgid "ニャア……"
+msgstr ""
+
+msgctxt "20896"
+msgid ""
+"（フッ、まったく、しかたのない奴だ……\n"
+"　また魚でもやろうか？）"
+msgstr ""
+
+msgctxt "20961"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20962"
+msgid ""
+"（……と、思ったが、\n"
+"　魚を持っていなかったな）"
+msgstr ""
+
+msgctxt "21011"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21012"
+msgid "（……今は猫よりもやるべきことがあるな）"
+msgstr ""
+
+msgctxt "21053"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21054"
+msgid "おい、これでも食え。"
+msgstr ""
+
+msgctxt "21075"
+msgid "……ニャ!?"
+msgstr ""
+
+msgctxt "21086"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21087"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21088"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21089"
+msgid "ニャア！"
+msgstr ""
+
+msgctxt "21098"
+msgid "フッ、元気になったようだな。"
+msgstr ""
+
+msgctxt "21127"
+msgid ""
+"……いつでも俺が飯をやれるわけじゃない。\n"
+"いい加減、自分の食うものくらい、\n"
+"自分でなんとかしろ。"
+msgstr ""
+
+msgctxt "21224"
+msgid "……ゴロゴロゴロ。"
+msgstr ""
+
+msgctxt "21243"
+msgid ""
+"こら、甘えた声をだすんじゃない。\n"
+"そんなことをしても、もう甘やかさないからな。"
+msgstr ""
+
+msgctxt "21322"
+msgid "……ゴロニャン。"
+msgstr ""
+
+msgctxt "21339"
+msgid "フッ。おい、聞いているのか。"
+msgstr ""
+
+msgctxt "21368"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21369"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21370"
+msgid ""
+"（この猫、腹が減って倒れているようだな。\n"
+"　魚でもやってみようか？）"
+msgstr ""
+
+msgctxt "21439"
+msgid "ニャア……"
+msgstr ""
+
+msgctxt "21450"
+msgid ""
+"……おい。\n"
+"お前、どうしたんだ？　大丈夫か？"
+msgstr ""
+
+msgctxt "21495"
+msgid "ぐぅぅ……"
+msgstr ""
+
+msgctxt "21506"
+msgid ""
+"（どうやら腹が減って倒れているようだな。\n"
+"　魚でもやってみようか？）"
+msgstr ""
+
+msgctxt "21575"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21576"
+msgid ""
+"（……と、思ったが、\n"
+"　魚を持っていなかったな）"
+msgstr ""
+
+msgctxt "21625"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21626"
+msgid "（……今は猫よりもやるべきことがあるな）"
+msgstr ""
+
+msgctxt "21667"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21668"
+msgid "おい、これでも食え。"
+msgstr ""
+
+msgctxt "21689"
+msgid "……ニャ!?"
+msgstr ""
+
+msgctxt "21700"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21701"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21702"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21703"
+msgid "ニャア！"
+msgstr ""
+
+msgctxt "21712"
+msgid "フッ、元気になったようだな。"
+msgstr ""
+
+msgctxt "21741"
+msgid ""
+"しかし、今度からは自分の力で\n"
+"食う物を手に入れるんだぞ。"
+msgstr ""
+
+msgctxt "21798"
+msgid "……ゴロゴロゴロ。"
+msgstr ""
+
+msgctxt "21817"
+msgid "フッ。おい、聞いているのか。"
+msgstr ""
+
+msgctxt "21846"
+msgid ""
+"「はらぺこな猫」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「はらぺこな猫」と交流してみましょう。"
+msgstr ""
+
+msgctxt "22067"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22068"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23076"
+msgid "kaiwabgm_sub_apathy_01"
+msgstr ""
+
+msgctxt "23099"
+msgid "はらぺこな猫"
+msgstr ""
+
+msgctxt "23112"
+msgid "Player"
+msgstr ""
+
+msgctxt "23119"
+msgid "猫の腹の音"
+msgstr ""
+
+msgctxt "23130"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "23138"
+msgid "マグロをやる"
+msgstr ""
+
+msgctxt "23151"
+msgid "立ち去る"
+msgstr ""
+
+msgctxt "23160"
+msgid "P_KRU_SS_stand_pet_esa_lp"
+msgstr ""
+
+msgctxt "23186"
+msgid "P_KRU_SS_stand_pet_esa_st"
+msgstr ""
+
+msgctxt "23212"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "23234"
+msgid "P_KRU_SS_stand_pet_esa_en"
+msgstr ""
+
+msgctxt "23260"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "23271"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "23280"
+msgid "dummy"
+msgstr ""
+
+msgctxt "23286"
+msgid "マダイをやる"
+msgstr ""
+
+msgctxt "23299"
+msgid "魚をやる"
+msgstr ""
+
+msgctxt "23308"
+msgid "魚"
+msgstr ""
+
+msgctxt "23311"
+msgid "元気のない猫"
+msgstr ""
+
+msgctxt "23324"
+msgid "はらぺこな猫との絆"
+msgstr ""

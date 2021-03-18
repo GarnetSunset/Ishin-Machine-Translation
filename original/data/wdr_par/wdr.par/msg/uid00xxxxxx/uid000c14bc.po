@@ -1,0 +1,1558 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "41564"
+msgid ""
+"いらっしゃいませお客様。\n"
+"ご注文はお決まりですか？"
+msgstr ""
+
+msgctxt "41615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41616"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "41655"
+msgid ""
+"いつもありがとうございます。\n"
+"またお越しください。"
+msgstr ""
+
+msgctxt "41706"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41707"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "41758"
+msgid ""
+"かしこまりました。\n"
+"またお越しくださいませ。"
+msgstr ""
+
+msgctxt "41803"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41804"
+msgid ""
+"お客様、ようこそいらっしゃいました。\n"
+"本日はいかがなさいますか？"
+msgstr ""
+
+msgctxt "41869"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "41870"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "41909"
+msgid ""
+"いつもありがとうございます。\n"
+"またお越しください。"
+msgstr ""
+
+msgctxt "41960"
+msgid "またの来店を求む。"
+msgstr ""
+
+msgctxt "41979"
+msgid ""
+"絶対また来てくださいよ！\n"
+"お客さん！"
+msgstr ""
+
+msgctxt "42016"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42017"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "42068"
+msgid ""
+"かしこまりました。\n"
+"またお越しくださいませ。"
+msgstr ""
+
+msgctxt "42113"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42114"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42115"
+msgid ""
+"お客様……　お待ちしておりました。\n"
+"料理勝負の準備はよろしいですか？"
+msgstr ""
+
+msgctxt "42184"
+msgid "お客様……　お待ちしておりました。"
+msgstr ""
+
+msgctxt "42219"
+msgid "……勝負の準備ができたんだな。"
+msgstr ""
+
+msgctxt "42250"
+msgid ""
+"……えぇ。これよりこの店の未来を賭けた\n"
+"料理勝負を行いたいと思います。"
+msgstr ""
+
+msgctxt "42321"
+msgid ""
+"……三人のうち、誰が勝とうが、\n"
+"この卓袱料理屋はなくなってしまうのか？"
+msgstr ""
+
+msgctxt "42392"
+msgid ""
+"はい、この店は勝負に勝った者の店に\n"
+"生まれ変わります。……まぁ私が勝つので\n"
+"和食のお店になることは明らかですが。"
+msgstr ""
+
+msgctxt "42505"
+msgid ""
+"フン、兄者よ。\n"
+"寝言は寝て言うがよい。"
+msgstr ""
+
+msgctxt "42544"
+msgid "まったくだね。"
+msgstr ""
+
+msgctxt "42559"
+msgid "…………"
+msgstr ""
+
+msgctxt "42568"
+msgid ""
+"……お客様には、今から\n"
+"和食、中華、洋食の順に召し上がっていただき、\n"
+"どれが一番おいしかったかを判定してもらいます。"
+msgstr ""
+
+msgctxt "42685"
+msgid "……準備はよろしいですか？"
+msgstr ""
+
+msgctxt "42712"
+msgid ""
+"いや、今は都合が悪い。\n"
+"またの機会にしてくれ。"
+msgstr ""
+
+msgctxt "42759"
+msgid ""
+"かしこまりました……\n"
+"いつでもお越しくださいませ。"
+msgstr ""
+
+msgctxt "42810"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42811"
+msgid "……あぁ。いつでもいいぜ。"
+msgstr ""
+
+msgctxt "42838"
+msgid "それではさっそく勝負に移らせていただきます。"
+msgstr ""
+
+msgctxt "42883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42886"
+msgid ""
+"まずはわたくしが作りました、和食。\n"
+"こちらからお召し上がりください。"
+msgstr ""
+
+msgctxt "42955"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "42966"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42967"
+msgid "（……う、うまい！）"
+msgstr ""
+
+msgctxt "42988"
+msgid ""
+"（いや、うまいの一言だけでは片づけられない。\n"
+"　どこか幼少時代を彷彿とさせる懐かしさ……\n"
+"　日本人の血に訴えかける優しさがつまっている！）"
+msgstr ""
+
+msgctxt "43127"
+msgid ""
+"（目を閉じれば、瞼の裏に浮かぶ故郷の風景。\n"
+"　食材と味の完璧なまでの調和が、和の心の大事さを\n"
+"　思い出させてくれる、素晴らしい作品だ……！）"
+msgstr ""
+
+msgctxt "43268"
+msgid "……ごちそうさん。"
+msgstr ""
+
+msgctxt "43287"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43288"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43289"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43290"
+msgid ""
+"続いて、我が作った中華……\n"
+"ぜひ、食していただきたい……"
+msgstr ""
+
+msgctxt "43347"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "43358"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43359"
+msgid "（……う、うまい！）"
+msgstr ""
+
+msgctxt "43380"
+msgid ""
+"（さすが食の歴史が深い国の料理だ。\n"
+"　ピリッと主張する辛みが、舌に絡みついてくる！\n"
+"　この魅惑の刺激には、誰も抗えないであろう……）"
+msgstr ""
+
+msgctxt "43513"
+msgid ""
+"（そしてただ辛いだけではない……\n"
+"　食材のプリプリシャキシャキした歯ごたえはまるで\n"
+"　火縄銃のように俺の心臓を撃ちぬいてくる……！）"
+msgstr ""
+
+msgctxt "43646"
+msgid "……ごちそうさん。"
+msgstr ""
+
+msgctxt "43665"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43666"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43667"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43668"
+msgid ""
+"最後は、ボクの作った洋食です。\n"
+"おいしく食べてくださいね。"
+msgstr ""
+
+msgctxt "43727"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "43738"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43739"
+msgid "（……う、うまい！）"
+msgstr ""
+
+msgctxt "43760"
+msgid ""
+"（和食、中華とはまた方向性の違う、うまさ！\n"
+"　特筆すべきは、ふんわり柔らかな食感……　いや、\n"
+"　噛まずとも飲み込んでしまいそうな滑らかさか！）"
+msgstr ""
+
+msgctxt "43903"
+msgid ""
+"（大胆な味付けかと思いきや時折見せる繊細さは、\n"
+"　さながら、とびきり上玉の遊女のようだ……！\n"
+"　やはり西洋は偉大だ。学ぶべきものが多くあるな）"
+msgstr ""
+
+msgctxt "44046"
+msgid "……ごちそうさん。"
+msgstr ""
+
+msgctxt "44065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44066"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44067"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44068"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44069"
+msgid ""
+"さて、お客様にはわたくし達三人の料理を、\n"
+"全て召し上がっていただきました……"
+msgstr ""
+
+msgctxt "44146"
+msgid "…………"
+msgstr ""
+
+msgctxt "44155"
+msgid ""
+"それではお尋ねします。三つの料理の中で、\n"
+"一番おいしかったのは……"
+msgstr ""
+
+msgctxt "44222"
+msgid "我の中華に決まっている。"
+msgstr ""
+
+msgctxt "44247"
+msgid "いやいや、ボクの洋食ですよね。"
+msgstr ""
+
+msgctxt "44278"
+msgid ""
+"静かにしなさい。まだ質問の途中です。\n"
+"……もちろん勝つのは、わたくしの和食ですが。"
+msgstr ""
+
+msgctxt "44361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44362"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44363"
+msgid ""
+"それでは気を取り直して……　三つの料理の中で、\n"
+"一番おいしかった料理はどれですか？"
+msgstr ""
+
+msgctxt "44446"
+msgid "一番うまかったのは……　長男の和食だ。"
+msgstr ""
+
+msgctxt "44485"
+msgid ""
+"ふふ……　やはりお客様は味のわかるお方だ。\n"
+"審査員をお願いしてよかったですよ。"
+msgstr ""
+
+msgctxt "44564"
+msgid ""
+"明日からこの店は、和食料理屋になりますので、\n"
+"二人とも、そのつもりでいてください。"
+msgstr ""
+
+msgctxt "44647"
+msgid "…………"
+msgstr ""
+
+msgctxt "44656"
+msgid ""
+"しばし待たれよ！\n"
+"客人よ、本当に和食が一番美味であったのか？"
+msgstr ""
+
+msgctxt "44717"
+msgid "えっ。"
+msgstr ""
+
+msgctxt "44724"
+msgid ""
+"思い出すのだ。ピリッと辛い魅惑の刺激を！\n"
+"中華の魅力を……　中華の、魂を！"
+msgstr ""
+
+msgctxt "44799"
+msgid ""
+"こ、こら。お客様がお困りでしょうが。\n"
+"勝負はもうついたのです。静かにしなさい。"
+msgstr ""
+
+msgctxt "44878"
+msgid "……そう言われると、自信がなくなってきたな。"
+msgstr ""
+
+msgctxt "44923"
+msgid "なんですって！"
+msgstr ""
+
+msgctxt "44938"
+msgid ""
+"す、すまないが、\n"
+"もう一回選ばせてくれ……！"
+msgstr ""
+
+msgctxt "44983"
+msgid "……わ、わかりました。"
+msgstr ""
+
+msgctxt "45006"
+msgid "一番うまかったのは……　次男の中華だ。"
+msgstr ""
+
+msgctxt "45045"
+msgid ""
+"ふ。我の勝利だ……\n"
+"中華こそ、一番崇高な料理である……"
+msgstr ""
+
+msgctxt "45100"
+msgid ""
+"約束通り、明日からこの店は中華料理屋だ。\n"
+"異論はなかろう。"
+msgstr ""
+
+msgctxt "45159"
+msgid "……くっ。"
+msgstr ""
+
+msgctxt "45170"
+msgid ""
+"待ってくださいよ！\n"
+"お客さん！　本当に、本当にそれでいいんですか!?\n"
+"絶対、絶対に中華が一番おいしかったんですか!?"
+msgstr ""
+
+msgctxt "45283"
+msgid "えっ。"
+msgstr ""
+
+msgctxt "45290"
+msgid ""
+"思い出してください。洋食のふんわりした食感を！\n"
+"大胆かつ繊細な、あの女性のような柔らかさを！"
+msgstr ""
+
+msgctxt "45383"
+msgid ""
+"貴様、客人が困っているであろう。\n"
+"勝敗はもう決した。幕を引くがよい。"
+msgstr ""
+
+msgctxt "45452"
+msgid "……そう言われると、自信がなくなってきたな。"
+msgstr ""
+
+msgctxt "45497"
+msgid "しょ……　笑止！"
+msgstr ""
+
+msgctxt "45514"
+msgid ""
+"す、すまないが、\n"
+"もう一回選ばせてくれ……！"
+msgstr ""
+
+msgctxt "45559"
+msgid "……い、致し方ない。"
+msgstr ""
+
+msgctxt "45580"
+msgid "一番うまかったのは……　三男の洋食だ。"
+msgstr ""
+
+msgctxt "45619"
+msgid ""
+"ありがとうございます。\n"
+"さすがお客さん。わかってますねー。"
+msgstr ""
+
+msgctxt "45678"
+msgid ""
+"さて、明日からこの店は洋食料理屋です。\n"
+"兄さん達には僕の下で働いてもらいますよ～。"
+msgstr ""
+
+msgctxt "45761"
+msgid "……ぐぬ。"
+msgstr ""
+
+msgctxt "45772"
+msgid ""
+"お待ちください！\n"
+"お客様！　本当にその決断、後悔いたしませんか？"
+msgstr ""
+
+msgctxt "45837"
+msgid "えっ。"
+msgstr ""
+
+msgctxt "45844"
+msgid ""
+"わたくしにはわかります。日本人であるお客様が、\n"
+"和食以外を選ぶはずがないと。思い出してください。\n"
+"あなたの体が、血が、本当に求めているものを……"
+msgstr ""
+
+msgctxt "45989"
+msgid ""
+"そ、そういうのやめてよ、兄さん！\n"
+"もうボクの勝ちが決まったんだからひっこんでて！"
+msgstr ""
+
+msgctxt "46070"
+msgid "……そう言われると、自信がなくなってきたな。"
+msgstr ""
+
+msgctxt "46115"
+msgid "え、えぇー！"
+msgstr ""
+
+msgctxt "46128"
+msgid ""
+"す、すまないが、\n"
+"もう一回選ばせてくれ……！"
+msgstr ""
+
+msgctxt "46173"
+msgid "……もう！　わかりましたよー。"
+msgstr ""
+
+msgctxt "46204"
+msgid "……わからん。"
+msgstr ""
+
+msgctxt "46219"
+msgid "…………へ？"
+msgstr ""
+
+msgctxt "46232"
+msgid ""
+"わからんと言ったんだ、わからんと！\n"
+"一番を選べと言われてもわからん!!"
+msgstr ""
+
+msgctxt "46301"
+msgid ""
+"わ、わからんって……　お客様、\n"
+"散々焦らしたあげく、それはさすがに……"
+msgstr ""
+
+msgctxt "46372"
+msgid ""
+"これは真剣勝負……\n"
+"そんな答えでは我々、納得できぬ……"
+msgstr ""
+
+msgctxt "46427"
+msgid ""
+"そうですよー！\n"
+"ちゃんと一番を決めてほしいんですけどー！"
+msgstr ""
+
+msgctxt "46484"
+msgid ""
+"そんなこと言われても、わからんもんはわからん。\n"
+"……むしろ何故、一番を決めないといけないんだ？"
+msgstr ""
+
+msgctxt "46579"
+msgid "何故と言われてもあの……"
+msgstr ""
+
+msgctxt "46604"
+msgid ""
+"三人の料理が三つともうまいんだ。\n"
+"どれが一番かなんて“わからん”でいいじゃないか。"
+msgstr ""
+
+msgctxt "46687"
+msgid "わからんでいいってそんな……　あっ！"
+msgstr ""
+
+msgctxt "46724"
+msgid "……兄者？"
+msgstr ""
+
+msgctxt "46735"
+msgid ""
+"……ふふふ、たしかにわたくし達の料理は\n"
+"わからん、でいいかもしれませんね……"
+msgstr ""
+
+msgctxt "46812"
+msgid ""
+"いや、だめでしょう！\n"
+"兄さんは何言ってるの？"
+msgstr ""
+
+msgctxt "46857"
+msgid ""
+"……わからん、か。\n"
+"なるほど、そういうことか。"
+msgstr ""
+
+msgctxt "46904"
+msgid ""
+"和食の和……\n"
+"中華の華……\n"
+"洋食は、出島の阿蘭陀（オランダ）の蘭……"
+msgstr ""
+
+msgctxt "46973"
+msgid ""
+"三つを合わせると、\n"
+"和華蘭（わからん）料理となります。\n"
+"……これは、卓袱料理の別名ですね。"
+msgstr ""
+
+msgctxt "47064"
+msgid "……あ、そういえば！"
+msgstr ""
+
+msgctxt "47085"
+msgid ""
+"ふふ、わたくし達は兄弟で争ってきました。\n"
+"……誰の料理が一番なのか決めるために。"
+msgstr ""
+
+msgctxt "47166"
+msgid ""
+"でも、このお客様は一番おいしい料理について、\n"
+"“わからんでいいじゃないか”\n"
+"そう、答えてくださいました……"
+msgstr ""
+
+msgctxt "47273"
+msgid ""
+"和華蘭（わからん）でいい……　つまり、\n"
+"三人の料理が一緒であることが美味であると……？"
+msgstr ""
+
+msgctxt "47360"
+msgid ""
+"い、いや……\n"
+"そういうつもりで言ったのでは……"
+msgstr ""
+
+msgctxt "47407"
+msgid ""
+"そっか。ボクらが喧嘩せず、三人力を合わせれば、\n"
+"もっとおいしい料理が作れるはず……\n"
+"そういうことが、言いたかったんですね！"
+msgstr ""
+
+msgctxt "47530"
+msgid "あ……　あぁ。"
+msgstr ""
+
+msgctxt "47545"
+msgid ""
+"……そういえばわたくし達、料理人を目指した当初、\n"
+"今ほどいがみあっていませんでしたね。"
+msgstr ""
+
+msgctxt "47632"
+msgid ""
+"……いかにも。互いによき好敵手として認め合い、\n"
+"切磋琢磨しておったわ。"
+msgstr ""
+
+msgctxt "47703"
+msgid ""
+"……忘れてた。三人一緒に夢を叶えるために、\n"
+"卓袱料理屋を開こうとしたんだっけ。"
+msgstr ""
+
+msgctxt "47782"
+msgid ""
+"あの頃は毎日……　来る日も、来る日も\n"
+"料理漬けの日々でしたが、楽しかったですね……"
+msgstr ""
+
+msgctxt "47865"
+msgid "……あぁ。そうだな。"
+msgstr ""
+
+msgctxt "47886"
+msgid "…………"
+msgstr ""
+
+msgctxt "47895"
+msgid ""
+"……あ、あのさ。\n"
+"勝負の行方はどうしようか。"
+msgstr ""
+
+msgctxt "47940"
+msgid ""
+"……審査員であるお客様が、\n"
+"“わからんでいい”とおっしゃったんですよ。"
+msgstr ""
+
+msgctxt "48011"
+msgid ""
+"これからも三人一緒に、\n"
+"和華蘭（わからん）料理屋を続けていきませんか？"
+msgstr ""
+
+msgctxt "48082"
+msgid ""
+"……しかたないなぁ。\n"
+"長男命令だもんね、従ってあげるよ。"
+msgstr ""
+
+msgctxt "48139"
+msgid "我も異論はない。"
+msgstr ""
+
+msgctxt "48156"
+msgid "……二人とも。"
+msgstr ""
+
+msgctxt "48171"
+msgid ""
+"お客様、この度はいろいろご迷惑をおかけして\n"
+"申し訳ありませんでした。\n"
+"……そして、ありがとうございます。"
+msgstr ""
+
+msgctxt "48276"
+msgid "……えっ？"
+msgstr ""
+
+msgctxt "48287"
+msgid ""
+"お客様のおかげで、わたくし達、\n"
+"料理人になろうと三人で誓い合った最初の気持ち……\n"
+"思い出すことができました。"
+msgstr ""
+
+msgctxt "48396"
+msgid "そ、そうか……"
+msgstr ""
+
+msgctxt "48411"
+msgid ""
+"こちら、つまらないものですが、\n"
+"わたくし達、三兄弟のお礼の気持ちです。"
+msgstr ""
+
+msgctxt "48482"
+msgid "「<Color:8>壊れた羅針盤<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "48533"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48534"
+msgid ""
+"時間はかかるかもしれませんが、\n"
+"また三人仲良く料理ができる……\n"
+"そんなお店にしたいと思っています。"
+msgstr ""
+
+msgctxt "48633"
+msgid "兄者……"
+msgstr ""
+
+msgctxt "48642"
+msgid "兄さん……"
+msgstr ""
+
+msgctxt "48653"
+msgid ""
+"これからもわたくし達三人の卓袱料理屋、\n"
+"百川をぜひ、ご贔屓にお願いいたします。"
+msgstr ""
+
+msgctxt "48732"
+msgid "……またの来店を求む。"
+msgstr ""
+
+msgctxt "48755"
+msgid "お客さんならいつでも大歓迎ですからねー。"
+msgstr ""
+
+msgctxt "48796"
+msgid ""
+"あ、あぁ……　料理も、兄弟も、\n"
+"互いに寄り添うことを忘れないようにな。"
+msgstr ""
+
+msgctxt "48867"
+msgid ""
+"……はい！\n"
+"ありがとうございました！"
+msgstr ""
+
+msgctxt "48904"
+msgid ""
+"（うーむ。何か勘違いをされたようだが、\n"
+"　そのおかげでうまく兄弟仲をとりもつことが\n"
+"　できたようだな……）"
+msgstr ""
+
+msgctxt "49011"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49012"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49013"
+msgid ""
+"おや、お客様。料理勝負の準備が整い次第、\n"
+"ご協力をお願いしますね。\n"
+"本日はいかがなさいますか？"
+msgstr ""
+
+msgctxt "49108"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49109"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "49148"
+msgid "ありがとうございます……"
+msgstr ""
+
+msgctxt "49173"
+msgid "…………"
+msgstr ""
+
+msgctxt "49182"
+msgid "…………"
+msgstr ""
+
+msgctxt "49191"
+msgid "（料理勝負を前に三人とも殺気立ってるな……）"
+msgstr ""
+
+msgctxt "49236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49237"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "49288"
+msgid ""
+"かしこまりました。\n"
+"またお越しください……"
+msgstr ""
+
+msgctxt "49331"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49332"
+msgid ""
+"いらっしゃいませお客様。\n"
+"ご注文はお決まりですか？"
+msgstr ""
+
+msgctxt "49383"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49384"
+msgid "福引き券%d枚をお渡しいたします。"
+msgstr ""
+
+msgctxt "49417"
+msgid "お客様、いつもありがとうございま……"
+msgstr ""
+
+msgctxt "49454"
+msgid "もう我慢ならぬ！"
+msgstr ""
+
+msgctxt "49471"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49472"
+msgid "もう一度言ってみろ……！"
+msgstr ""
+
+msgctxt "49497"
+msgid ""
+"はいはい、何度でも言ってあげるけど、\n"
+"中華が洋食よりも勝ってるなんて、ありえないよ！"
+msgstr ""
+
+msgctxt "49582"
+msgid "貴様！　火の扱いも満足にできないくせに何を言う！"
+msgstr ""
+
+msgctxt "49631"
+msgid "あれは、ああいった肉の焼き方なんだってば！"
+msgstr ""
+
+msgctxt "49674"
+msgid "……また喧嘩か？"
+msgstr ""
+
+msgctxt "49691"
+msgid ""
+"あなた達、お得意様の前で失礼ですよ！\n"
+"幼稚な喧嘩はおやめなさい！"
+msgstr ""
+
+msgctxt "49756"
+msgid "しかし、こやつめが……"
+msgstr ""
+
+msgctxt "49779"
+msgid ""
+"喧嘩ふっかけてきたのはそっちでしょ！\n"
+"洋食のこと馬鹿にするんだから！\n"
+"中華なんて、洋食の足元にも及ばないくせに！"
+msgstr ""
+
+msgctxt "49892"
+msgid ""
+"貴様はまた世迷いごとを！\n"
+"中華こそ至高の料理だと何度言えばわかるのだ！"
+msgstr ""
+
+msgctxt "49963"
+msgid ""
+"まったく、本当に下らないことで言い争って。\n"
+"あなた達はそれでも料理人ですか？"
+msgstr ""
+
+msgctxt "50040"
+msgid "……一番おいしい料理は和食に決まっています。"
+msgstr ""
+
+msgctxt "50085"
+msgid ""
+"（相変わらずこの三兄弟、\n"
+"　仲が悪いみたいだな……）"
+msgstr ""
+
+msgctxt "50138"
+msgid ""
+"もう終わりだよ……　卓袱料理屋なんて！\n"
+"明日からこの店は、洋食屋さんにするからね……！"
+msgstr ""
+
+msgctxt "50225"
+msgid ""
+"あぁ、途中までは賛成する。\n"
+"この店は中華料理屋になる運命だがな。"
+msgstr ""
+
+msgctxt "50290"
+msgid ""
+"ちょ、ちょっと待ちなさい！\n"
+"あなた達本気で言っているんですか？"
+msgstr ""
+
+msgctxt "50353"
+msgid ""
+"この店を作るとき、\n"
+"一番多くお金を出したのはわたくしです。\n"
+"和食料理屋になる以外、選択肢はありません。"
+msgstr ""
+
+msgctxt "50456"
+msgid "（……どうやら店の存続の危機のようだな）"
+msgstr ""
+
+msgctxt "50497"
+msgid ""
+"……それじゃあ、どの料理が一番か、\n"
+"このお客さんに決めてもらおうよ！"
+msgstr ""
+
+msgctxt "50566"
+msgid "えっ？"
+msgstr ""
+
+msgctxt "50573"
+msgid "たしかに。第三者の意見ならば納得がいく。"
+msgstr ""
+
+msgctxt "50614"
+msgid ""
+"……そうですね。\n"
+"このまま話し合ってても、埒が明きませんし。"
+msgstr ""
+
+msgctxt "50675"
+msgid ""
+"な、なんだ……\n"
+"どういう話の流れだ？"
+msgstr ""
+
+msgctxt "50712"
+msgid ""
+"わたくし達、\n"
+"今度料理勝負を行うことにしました。"
+msgstr ""
+
+msgctxt "50761"
+msgid "料理勝負……？"
+msgstr ""
+
+msgctxt "50776"
+msgid ""
+"えぇ、そこであなた様には、\n"
+"わたくし達三兄弟の作る料理の中で……\n"
+"どれが一番おいしいか判定していただきたいのです。"
+msgstr ""
+
+msgctxt "50891"
+msgid "お、俺が……？"
+msgstr ""
+
+msgctxt "50906"
+msgid ""
+"はい。そしてこの店は今後、\n"
+"その勝負であなた様に選ばれた料理を、\n"
+"提供する店になる……　そう決まりました。"
+msgstr ""
+
+msgctxt "51013"
+msgid "そんな重大なことを勝手に決めるんじゃない……"
+msgstr ""
+
+msgctxt "51058"
+msgid ""
+"申し訳ありません。\n"
+"しかし、お客様なら安心して判定を任せられます。\n"
+"どうか……　どうか、お願い致します。"
+msgstr ""
+
+msgctxt "51163"
+msgid "お願いする……！"
+msgstr ""
+
+msgctxt "51180"
+msgid "お願いしますよー。"
+msgstr ""
+
+msgctxt "51199"
+msgid ""
+"（正直勘弁してほしい話だが……\n"
+"　ひょっとすると、俺が判定することによって\n"
+"　何か現状を変えられるかもしれんな……）"
+msgstr ""
+
+msgctxt "51316"
+msgid "……わかった。引き受けよう。"
+msgstr ""
+
+msgctxt "51345"
+msgid "おぉ！　ありがとうございます。"
+msgstr ""
+
+msgctxt "51376"
+msgid ""
+"では勝負の準備ができ次第、ご協力をお願いします。\n"
+"それまでしばらくは卓袱料理屋で営業しますので、\n"
+"お店の方もよろしくお願いしますね。"
+msgstr ""
+
+msgctxt "51509"
+msgid "…………"
+msgstr ""
+
+msgctxt "51518"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51519"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "51570"
+msgid ""
+"かしこまりました。\n"
+"またのご来店をお待ちしております。"
+msgstr ""
+
+msgctxt "51625"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51626"
+msgid ""
+"いらっしゃいませ。\n"
+"お客様、本日はいかがなさいますか？"
+msgstr ""
+
+msgctxt "51681"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51682"
+msgid ""
+"お客様、福引き券%d枚\n"
+"お渡しいたします。"
+msgstr ""
+
+msgctxt "51723"
+msgid "いつもありがとうございます。"
+msgstr ""
+
+msgctxt "51752"
+msgid "感謝する……"
+msgstr ""
+
+msgctxt "51765"
+msgid "またお越しくださいねー。"
+msgstr ""
+
+msgctxt "51790"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51791"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "51842"
+msgid ""
+"かしこまりました。\n"
+"またお越しくださいませ。"
+msgstr ""
+
+msgctxt "51887"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51888"
+msgid ""
+"いらっしゃいませお客様。\n"
+"ご注文はお決まりですか？"
+msgstr ""
+
+msgctxt "51939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51940"
+msgid ""
+"お客様、福引き券%d枚\n"
+"お渡しいたします。"
+msgstr ""
+
+msgctxt "51981"
+msgid "ありがとうございました。"
+msgstr ""
+
+msgctxt "52006"
+msgid "ありがとうございました。"
+msgstr ""
+
+msgctxt "52031"
+msgid "……な、何だ!?"
+msgstr ""
+
+msgctxt "52046"
+msgid "……実はわたくし達、三つ子なんです。"
+msgstr ""
+
+msgctxt "52083"
+msgid ""
+"なるほど、三つ子か……\n"
+"突然同じ顔が増えたから、驚いたぜ。"
+msgstr ""
+
+msgctxt "52142"
+msgid ""
+"驚かせてしまって申し訳ありません。\n"
+"料理長全員でご挨拶をしたいと思ったのですが……"
+msgstr ""
+
+msgctxt "52225"
+msgid "料理長全員？　三人共が料理長なのか？"
+msgstr ""
+
+msgctxt "52262"
+msgid "はい、その通りでございます。"
+msgstr ""
+
+msgctxt "52291"
+msgid ""
+"卓袱料理とは、\n"
+"和食、中華、洋食の三つが組み合わさったもの……\n"
+"各料理に長がいるのです。"
+msgstr ""
+
+msgctxt "52380"
+msgid ""
+"ちなみにわたくしが、三兄弟の長男で\n"
+"和食を担当しております。"
+msgstr ""
+
+msgctxt "52441"
+msgid ""
+"我が次男。\n"
+"中華担当だ……"
+msgstr ""
+
+msgctxt "52468"
+msgid ""
+"そして最後、ボクが三男で洋食担当です。\n"
+"店の経営も三人でやってるんですよ。"
+msgstr ""
+
+msgctxt "52543"
+msgid "ほう、三兄弟で店を……　仲がいいんだな。"
+msgstr ""
+
+msgctxt "52584"
+msgid ""
+"……いえいえ、そんなことありません。\n"
+"いつも言い争ってばかりですよ。ふふふ。"
+msgstr ""
+
+msgctxt "52661"
+msgid "……まぁ、喧嘩するほど仲がいいと言うしな。"
+msgstr ""
+
+msgctxt "52704"
+msgid ""
+"ははは、本当そんなんじゃないですって。\n"
+"所詮、兄さん達は、洋食が料理の頂点だと認めない、\n"
+"わからず屋ですからね。"
+msgstr ""
+
+msgctxt "52817"
+msgid ""
+"……戯言はよせ。\n"
+"いい加減、中華こそ至高の料理だと気付くがよい。"
+msgstr ""
+
+msgctxt "52882"
+msgid ""
+"はいはい。すごいですね～。\n"
+"ウン千年の歴史様は。"
+msgstr ""
+
+msgctxt "52931"
+msgid "貴様ッ！"
+msgstr ""
+
+msgctxt "52940"
+msgid ""
+"こら、二人ともおやめなさい！　お客様の前ですよ！\n"
+"一番おいしい料理である和食への嫉妬ですか！"
+msgstr ""
+
+msgctxt "53033"
+msgid "兄者……　血迷ったか。"
+msgstr ""
+
+msgctxt "53056"
+msgid "（……どうやら本当に仲がよくないみたいだな）"
+msgstr ""
+
+msgctxt "53101"
+msgid ""
+"……ハッ！　お客様、\n"
+"お見苦しいところをお見せして申し訳ありません。"
+msgstr ""
+
+msgctxt "53170"
+msgid "あ、いや……"
+msgstr ""
+
+msgctxt "53183"
+msgid ""
+"大変失礼いたしました……　こんな店ですが、\n"
+"よろしければまた足をお運びくださいませ……"
+msgstr ""
+
+msgctxt "53270"
+msgid ""
+"あぁ、そうだな……\n"
+"料理は、うまかったからな……"
+msgstr ""
+
+msgctxt "53319"
+msgid "ありがとうございます……"
+msgstr ""
+
+msgctxt "53344"
+msgid "……またの来店を。"
+msgstr ""
+
+msgctxt "53363"
+msgid "お客さん、絶対また来てくださいね～。"
+msgstr ""
+
+msgctxt "53400"
+msgid ""
+"「百川の三兄弟」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「百川の三兄弟」と交流してみましょう。"
+msgstr ""
+
+msgctxt "53621"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53622"
+msgid ""
+"申し訳ないが、急用ができた……\n"
+"失礼させてもらう。"
+msgstr ""
+
+msgctxt "53673"
+msgid ""
+"かしこまりました。\n"
+"またのご来店をお待ちしております。"
+msgstr ""
+
+msgctxt "53728"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57244"
+msgid "卓袱料理屋"
+msgstr ""
+
+msgctxt "57255"
+msgid "dummy"
+msgstr ""
+
+msgctxt "57261"
+msgid "卓袱料理屋　長男"
+msgstr ""
+
+msgctxt "57278"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "57289"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "57294"
+msgid "卓袱料理屋　次男"
+msgstr ""
+
+msgctxt "57311"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "57322"
+msgid "卓袱料理屋　三男"
+msgstr ""
+
+msgctxt "57339"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "57350"
+msgid "よろしい"
+msgstr ""
+
+msgctxt "57359"
+msgid "よろしくない"
+msgstr ""
+
+msgctxt "57372"
+msgid "Player"
+msgstr ""
+
+msgctxt "57379"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "57388"
+msgid "次男"
+msgstr ""
+
+msgctxt "57393"
+msgid "三男"
+msgstr ""
+
+msgctxt "57398"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "57406"
+msgid "2d_yk_sh-12_wa"
+msgstr ""
+
+msgctxt "57421"
+msgid "kaiwabgm_sub_apathy_03"
+msgstr ""
+
+msgctxt "57444"
+msgid "P_KRU_TLK_agura_eat_washoku"
+msgstr ""
+
+msgctxt "57472"
+msgid "P_KRU_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "57494"
+msgid "P_KRU_TLK_agura_yes"
+msgstr ""
+
+msgctxt "57514"
+msgid "2d_yk_sh-12_chu"
+msgstr ""
+
+msgctxt "57530"
+msgid "2d_yk_sh-12_yo"
+msgstr ""
+
+msgctxt "57545"
+msgid "長男の和食"
+msgstr ""
+
+msgctxt "57556"
+msgid "次男の中華"
+msgstr ""
+
+msgctxt "57567"
+msgid "三男の洋食"
+msgstr ""
+
+msgctxt "57578"
+msgid "わからん"
+msgstr ""
+
+msgctxt "57587"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "57598"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "57609"
+msgid "卓袱三兄弟"
+msgstr ""
+
+msgctxt "57620"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "57631"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "57641"
+msgid "kaiwabgm_sub_hartwarm_02"
+msgstr ""
+
+msgctxt "57666"
+msgid "怒鳴り声"
+msgstr ""
+
+msgctxt "57675"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "57687"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "57699"
+msgid "ADV_M_CHO_STAND"
+msgstr ""
+
+msgctxt "57715"
+msgid "M_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "57737"
+msgid "M_CHO_TLK_seiza_to_stand"
+msgstr ""
+
+msgctxt "57762"
+msgid "ADV_P_KRU_AGURA"
+msgstr ""
+
+msgctxt "57778"
+msgid "卓袱料理屋達"
+msgstr ""
+
+msgctxt "57791"
+msgid "百川の三兄弟との絆"
+msgstr ""

@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7352"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7353"
+msgid "ぷはぁ!!"
+msgstr ""
+
+msgctxt "7362"
+msgid "たいした羽振りだな、あんた。"
+msgstr ""
+
+msgctxt "7391"
+msgid ""
+"フン、せやけど……\n"
+"男にはめったにおごらんで。"
+msgstr ""
+
+msgctxt "7438"
+msgid ""
+"せやからわしは、あんたを\n"
+"気に入ったっちゅうことや！"
+msgstr ""
+
+msgctxt "7491"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7492"
+msgid "…………"
+msgstr ""
+
+msgctxt "7501"
+msgid "あんた、故郷はどこや？"
+msgstr ""
+
+msgctxt "7524"
+msgid "身の上話をするにゃまだ酔いが足りねえ。"
+msgstr ""
+
+msgctxt "7563"
+msgid "アホか。わしより飲んどるやないか。"
+msgstr ""
+
+msgctxt "7598"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7599"
+msgid "フゥ……"
+msgstr ""
+
+msgctxt "7608"
+msgid ""
+"あんた……\n"
+"サイの風呂屋に会うとったが、\n"
+"何の情報買うたんや？"
+msgstr ""
+
+msgctxt "7671"
+msgid "そこまで話す義理はねえ。"
+msgstr ""
+
+msgctxt "7696"
+msgid ""
+"それより、あんたこそ情報屋に\n"
+"仕事頼みたかったんじゃねえのか？"
+msgstr ""
+
+msgctxt "7759"
+msgid ""
+"ああ……\n"
+"あんたと殴り合うたおかげで頼み損ねてもうた。"
+msgstr ""
+
+msgctxt "7814"
+msgid ""
+"そや！　わしが買いたかった情報が\n"
+"何やったか話したら、あんたも話すか？"
+msgstr ""
+
+msgctxt "7885"
+msgid "いや、そいつは御免だな。"
+msgstr ""
+
+msgctxt "7910"
+msgid ""
+"ケッ！\n"
+"ま、ええわ！\n"
+"別にわしのほうは隠す必要もあらへん。"
+msgstr ""
+
+msgctxt "7969"
+msgid ""
+"わしの欲しかった情報は……\n"
+"新選組局長、近藤勇についてのすべてや。"
+msgstr ""
+
+msgctxt "8036"
+msgid "なに……？"
+msgstr ""
+
+msgctxt "8047"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8048"
+msgid ""
+"あいつはホンマムカつく男やで。\n"
+"……あのなんもかんも見透かしたような目ぇ。"
+msgstr ""
+
+msgctxt "8123"
+msgid ""
+"あんたが風呂屋で言うた、\n"
+"わしのイラつきの原因があいつやったんや。"
+msgstr ""
+
+msgctxt "8190"
+msgid "会ったのか？　近藤勇に。"
+msgstr ""
+
+msgctxt "8215"
+msgid ""
+"おう、会うたで。\n"
+"あんたと風呂屋で会うたほんの少し前や。"
+msgstr ""
+
+msgctxt "8272"
+msgid ""
+"あんた知っとるか？\n"
+"近藤は百姓あがりのにわか侍や。"
+msgstr ""
+
+msgctxt "8323"
+msgid ""
+"それが剣を取った途端、\n"
+"なんたらいう流派を継いだっちゅう……"
+msgstr ""
+
+msgctxt "8384"
+msgid "天念理心流だ。"
+msgstr ""
+
+msgctxt "8399"
+msgid ""
+"おう、それや！\n"
+"そのにわか侍が目ぇ合わせただけで、\n"
+"このわしに汗かかせよった……"
+msgstr ""
+
+msgctxt "8480"
+msgid ""
+"フッ、今日はおかしな日ぃや。\n"
+"近藤といい、あんたといい、\n"
+"強い男にやたらと会う……"
+msgstr ""
+
+msgctxt "8563"
+msgid "あんた……　どこで近藤勇に会ったんだ？"
+msgstr ""
+
+msgctxt "8602"
+msgid "なんや？　あんた近藤に会いたいんか？"
+msgstr ""
+
+msgctxt "8639"
+msgid "…………"
+msgstr ""
+
+msgctxt "8648"
+msgid ""
+"相手は幕府お抱えの人斬り集団や。\n"
+"その局長ともなれば、簡単に会うことはできん。"
+msgstr ""
+
+msgctxt "8727"
+msgid "せやけど、手が無いこともないな。"
+msgstr ""
+
+msgctxt "8760"
+msgid "なんだ？"
+msgstr ""
+
+msgctxt "8769"
+msgid ""
+"無理やり新選組の屯所に押し込むか……\n"
+"それとも……"
+msgstr ""
+
+msgctxt "8820"
+msgid "新選組に、入るか……？"
+msgstr ""
+
+msgctxt "8843"
+msgid "せや。"
+msgstr ""
+
+msgctxt "8850"
+msgid "なら、あんたはどうやって会いに行った？"
+msgstr ""
+
+msgctxt "8889"
+msgid "フッ、わしは近藤に会いに行ったんとちゃう。"
+msgstr ""
+
+msgctxt "8932"
+msgid "……向こうから会いに来たんや。"
+msgstr ""
+
+msgctxt "8963"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10664"
+msgid "巨漢の男"
+msgstr ""
+
+msgctxt "10673"
+msgid "TALK_sake_drink2"
+msgstr ""
+
+msgctxt "10690"
+msgid "ryuji_c02_110_01"
+msgstr ""
+
+msgctxt "10707"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "10712"
+msgid "kiryu_c02_110_01"
+msgstr ""
+
+msgctxt "10729"
+msgid "ryuji_c02_110_02"
+msgstr ""
+
+msgctxt "10746"
+msgid "ryuji_c02_110_02b"
+msgstr ""
+
+msgctxt "10764"
+msgid "TALK_sake_drink1"
+msgstr ""
+
+msgctxt "10781"
+msgid "kiryu_c02_110_02"
+msgstr ""
+
+msgctxt "10798"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10807"
+msgid "ryuji_c02_110_03"
+msgstr ""
+
+msgctxt "10824"
+msgid "kiryu_c02_110_03"
+msgstr ""
+
+msgctxt "10841"
+msgid "ryuji_c02_110_04"
+msgstr ""
+
+msgctxt "10858"
+msgid "kiryu_c02_110_04"
+msgstr ""
+
+msgctxt "10875"
+msgid "ryuji_c02_110_05"
+msgstr ""
+
+msgctxt "10892"
+msgid "kiryu_c02_110_05"
+msgstr ""
+
+msgctxt "10909"
+msgid "kiryu_c02_110_05b"
+msgstr ""
+
+msgctxt "10927"
+msgid "ryuji_c02_110_06"
+msgstr ""
+
+msgctxt "10944"
+msgid "ryuji_c02_110_06b"
+msgstr ""
+
+msgctxt "10962"
+msgid "kiryu_c02_110_06"
+msgstr ""
+
+msgctxt "10979"
+msgid "ryuji_c02_110_07"
+msgstr ""
+
+msgctxt "10996"
+msgid "ryuji_c02_110_07b"
+msgstr ""
+
+msgctxt "11014"
+msgid "kaiwabgm_fuon_09"
+msgstr ""
+
+msgctxt "11031"
+msgid "kiryu_c02_110_07"
+msgstr ""
+
+msgctxt "11048"
+msgid "ryuji_c02_110_08"
+msgstr ""
+
+msgctxt "11065"
+msgid "ryuji_c02_110_08b"
+msgstr ""
+
+msgctxt "11083"
+msgid "kiryu_c02_110_08"
+msgstr ""
+
+msgctxt "11100"
+msgid "ryuji_c02_110_09"
+msgstr ""
+
+msgctxt "11117"
+msgid "ryuji_c02_110_09b"
+msgstr ""
+
+msgctxt "11135"
+msgid "ryuji_c02_110_09c"
+msgstr ""
+
+msgctxt "11153"
+msgid "kiryu_c02_110_09"
+msgstr ""
+
+msgctxt "11170"
+msgid "ryuji_c02_110_10"
+msgstr ""
+
+msgctxt "11187"
+msgid "ryuji_c02_110_10b"
+msgstr ""
+
+msgctxt "11205"
+msgid "kiryu_c02_110_10"
+msgstr ""
+
+msgctxt "11222"
+msgid "ryuji_c02_110_11"
+msgstr ""
+
+msgctxt "11239"
+msgid "ryuji_c02_110_12"
+msgstr ""
+
+msgctxt "11256"
+msgid "ryuji_c02_110_12b"
+msgstr ""
+
+msgctxt "11274"
+msgid "kiryu_c02_110_12"
+msgstr ""
+
+msgctxt "11291"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "11302"
+msgid "ryuji_c02_110_13"
+msgstr ""
+
+msgctxt "11319"
+msgid "kiryu_c02_110_13"
+msgstr ""
+
+msgctxt "11336"
+msgid "ryuji_c02_110_14"
+msgstr ""
+
+msgctxt "11353"
+msgid "kiryu_c02_110_14"
+msgstr ""
+
+msgctxt "11370"
+msgid "ryuji_c02_110_15"
+msgstr ""
+
+msgctxt "11387"
+msgid "ryuji_c02_110_15b"
+msgstr ""

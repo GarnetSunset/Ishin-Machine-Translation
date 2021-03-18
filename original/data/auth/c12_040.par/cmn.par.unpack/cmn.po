@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "231804"
+msgid "近藤！"
+msgstr ""
+
+msgctxt "231948"
+msgid "斎藤か……"
+msgstr ""
+
+msgctxt "232092"
+msgid "大丈夫か？　何があったんだ"
+msgstr ""
+
+msgctxt "232236"
+msgid ""
+"俺としたことが\n"
+"斬られちまったよ"
+msgstr ""
+
+msgctxt "232380"
+msgid "よぉ　お前こう思ってたんじゃねえのか"
+msgstr ""
+
+msgctxt "232524"
+msgid "俺が　京に火をつけたってよ"
+msgstr ""
+
+msgctxt "232668"
+msgid "あんたが新選組に命じたんじゃねえんだな？"
+msgstr ""
+
+msgctxt "232812"
+msgid "当たり前だ"
+msgstr ""
+
+msgctxt "232956"
+msgid "近藤"
+msgstr ""
+
+msgctxt "233100"
+msgid "あんた誰にやられた？"
+msgstr ""
+
+msgctxt "233244"
+msgid ""
+"分からねぇ\n"
+"だがその男に……"
+msgstr ""
+
+msgctxt "233388"
+msgid "お前に伝えろと言われた"
+msgstr ""
+
+msgctxt "233532"
+msgid "「御所で待つ」と"
+msgstr ""
+
+msgctxt "233676"
+msgid "御所だと？"
+msgstr ""
+
+msgctxt "233820"
+msgid "奴の狙いは……"
+msgstr ""
+
+msgctxt "233964"
+msgid "帝だ"
+msgstr ""
+
+msgctxt "234108"
+msgid "京の街を　新選組の手で焼かせて"
+msgstr ""
+
+msgctxt "234252"
+msgid "その隙を狙って帝の命を奪う肚だ"
+msgstr ""
+
+msgctxt "234396"
+msgid "帝の命を……！"
+msgstr ""
+
+msgctxt "234540"
+msgid ""
+"もしかしたらあの男が\n"
+"“もう一人の坂本龍馬”なのかもしれねえ"
+msgstr ""
+
+msgctxt "234684"
+msgid ""
+"大政奉還が成った今\n"
+"連中は焦ってるはずだ"
+msgstr ""
+
+msgctxt "234828"
+msgid ""
+"幕府側の俺を\n"
+"帝暗殺の犯人に見せかけて……"
+msgstr ""
+
+msgctxt "234972"
+msgid "幕府と朝廷の戦争を仕掛けるのが目的だろう"
+msgstr ""
+
+msgctxt "235116"
+msgid "じゃあ新選組は"
+msgstr ""
+
+msgctxt "235260"
+msgid "利用されたというわけか"
+msgstr ""
+
+msgctxt "235404"
+msgid "皮肉な話だな"
+msgstr ""
+
+msgctxt "235548"
+msgid "京の街を焼こうとして京に上った俺が"
+msgstr ""
+
+msgctxt "235692"
+msgid "坂本龍馬という男に出会ったことで……"
+msgstr ""
+
+msgctxt "235836"
+msgid "京の街を守る道を選んだっていうのによ"
+msgstr ""
+
+msgctxt "235980"
+msgid "結局最後は"
+msgstr ""
+
+msgctxt "236124"
+msgid ""
+"京を焼いた男として\n"
+"歴史に名を刻んじまうんだからな……！"
+msgstr ""
+
+msgctxt "236268"
+msgid "おい　しっかりしろ！"
+msgstr ""
+
+msgctxt "236412"
+msgid ""
+"これまで頼みごとばかりで\n"
+"アンタにゃ何ひとつしてやれなかった"
+msgstr ""
+
+msgctxt "236556"
+msgid "だが……"
+msgstr ""
+
+msgctxt "236700"
+msgid ""
+"最期にもうひとつ\n"
+"俺の頼みを聞いてくれ"
+msgstr ""
+
+msgctxt "236844"
+msgid "何だ？"
+msgstr ""
+
+msgctxt "236988"
+msgid "この手紙を……"
+msgstr ""
+
+msgctxt "237132"
+msgid "歳に渡してやってくれ"
+msgstr ""
+
+msgctxt "237276"
+msgid "近藤勇"
+msgstr ""
+
+msgctxt "237420"
+msgid "最期の“策”だ"
+msgstr ""
+
+msgctxt "237564"
+msgid "最期の　策……"
+msgstr ""
+
+msgctxt "237708"
+msgid "俺ぁよ　龍馬さん"
+msgstr ""
+
+msgctxt "237852"
+msgid "あんたに会えて……"
+msgstr ""
+
+msgctxt "237996"
+msgid "よかったと思ってる"
+msgstr ""
+
+msgctxt "238140"
+msgid "あんたに会って初めて"
+msgstr ""
+
+msgctxt "238284"
+msgid ""
+"本当に\n"
+"この国を変えられるんじゃねえかと……"
+msgstr ""
+
+msgctxt "238428"
+msgid "そう思うことができたぜ"
+msgstr ""
+
+msgctxt "238572"
+msgid "近藤さん……"
+msgstr ""
+
+msgctxt "238716"
+msgid "俺のことはもういい"
+msgstr ""
+
+msgctxt "238860"
+msgid "それより御所へ"
+msgstr ""
+
+msgctxt "239004"
+msgid "偽の坂本龍馬を　止めてくれ！"
+msgstr ""
+
+msgctxt "239148"
+msgid "日本を……"
+msgstr ""
+
+msgctxt "239292"
+msgid "頼んだぜ"
+msgstr ""
+
+msgctxt "239436"
+msgid "坂本龍馬……！"
+msgstr ""
+
+msgctxt "239580"
+msgid "俺も……"
+msgstr ""
+
+msgctxt "239724"
+msgid ""
+"近藤勇という男に出会って\n"
+"変わっちまった"
+msgstr ""
+
+msgctxt "239868"
+msgid "東洋の親っさん　それに"
+msgstr ""
+
+msgctxt "240012"
+msgid "あんたから託されたことを"
+msgstr ""
+
+msgctxt "240156"
+msgid "誇りに思う"
+msgstr ""
+
+msgctxt "240300"
+msgid ""
+"俺は必ず　俺のやり方で\n"
+"あんた達の意志を継ぐ"
+msgstr ""
+
+msgctxt "240444"
+msgid "坂本龍馬としてな"
+msgstr ""
+
+msgctxt "240588"
+msgid "ああ"
+msgstr ""
+
+msgctxt "240732"
+msgid "新八……"
+msgstr ""
+
+msgctxt "240876"
+msgid "総司……"
+msgstr ""
+
+msgctxt "241020"
+msgid "源さん……"
+msgstr ""
+
+msgctxt "241164"
+msgid "歳……"
+msgstr ""
+
+msgctxt "241308"
+msgid "……すまねぇな"
+msgstr ""

@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2583"
+msgid ""
+"あ！　そこのお侍さん！\n"
+"ちょっとお時間よろしいですか？"
+msgstr ""
+
+msgctxt "2638"
+msgid "……何だ。"
+msgstr ""
+
+msgctxt "2649"
+msgid ""
+"失礼ながらお持ちの刀……\n"
+"随分と手入れされてないようですが。"
+msgstr ""
+
+msgctxt "2710"
+msgid "……"
+msgstr ""
+
+msgctxt "2715"
+msgid ""
+"日々の手入れを怠ると、どんな名刀でも\n"
+"ナマクラになってしまいます。"
+msgstr ""
+
+msgctxt "2782"
+msgid ""
+"ナマクラを腰にぶら下げてどうにかなるほど\n"
+"新選組は甘くございませんよ……？"
+msgstr ""
+
+msgctxt "2857"
+msgid "！　なぜそれを……"
+msgstr ""
+
+msgctxt "2876"
+msgid ""
+"ハハハ。このご時世、洛内を歩かれる\n"
+"お侍の行き先は大抵二つに一つ。"
+msgstr ""
+
+msgctxt "2943"
+msgid ""
+"東の祗園か、西の新選組……\n"
+"失礼ながら、\n"
+"あなたは祗園という柄ではなさそうでしたので。"
+msgstr ""
+
+msgctxt "3030"
+msgid "フッ。なるほどな。"
+msgstr ""
+
+msgctxt "3049"
+msgid ""
+"私共にお任せいただければ、\n"
+"お持ちの刀の真の力を引き出して見せましょう。"
+msgstr ""
+
+msgctxt "3122"
+msgid "分かった。話くらいは聞いていくとするか。"
+msgstr ""
+
+msgctxt "3163"
+msgid "それはそれは！　ではどうぞこちらへ……"
+msgstr ""
+
+msgctxt "3202"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3584"
+msgid "鍛冶屋"
+msgstr ""
+
+msgctxt "3591"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "3596"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "3605"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3614"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3624"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3635"
+msgid "Talk_Info_L"
+msgstr ""

@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "302536"
+msgid "ここは……"
+msgstr ""
+
+msgctxt "302680"
+msgid "おりょう"
+msgstr ""
+
+msgctxt "302824"
+msgid "やっと起きた"
+msgstr ""
+
+msgctxt "302968"
+msgid "いつの間に寝て……"
+msgstr ""
+
+msgctxt "303112"
+msgid "いや　どうやってここに？"
+msgstr ""
+
+msgctxt "303256"
+msgid "だから言うたやないの　飲みすぎやって"
+msgstr ""
+
+msgctxt "303400"
+msgid "すまん"
+msgstr ""
+
+msgctxt "303544"
+msgid "武市さんのこと　聞いてええ？"
+msgstr ""
+
+msgctxt "303688"
+msgid "ごめん　嫌やったら……"
+msgstr ""
+
+msgctxt "303832"
+msgid "兄弟みたいなもんだった"
+msgstr ""
+
+msgctxt "303976"
+msgid "ガキの頃から"
+msgstr ""
+
+msgctxt "304120"
+msgid "ずっと一緒に育って　バカやって……"
+msgstr ""
+
+msgctxt "304264"
+msgid "半平太には何やっても敵わなかった"
+msgstr ""
+
+msgctxt "304408"
+msgid ""
+"いつまでたっても\n"
+"俺は兄貴と呼んでついて回ってた"
+msgstr ""
+
+msgctxt "304552"
+msgid "俺の憧れだったんだ　あいつは"
+msgstr ""
+
+msgctxt "304696"
+msgid "なのに……"
+msgstr ""
+
+msgctxt "304840"
+msgid ""
+"最後の最後で\n"
+"喧嘩別れしちまった"
+msgstr ""
+
+msgctxt "304984"
+msgid "あれが最期になるなんて……"
+msgstr ""
+
+msgctxt "305128"
+msgid "思ってもみなかった"
+msgstr ""
+
+msgctxt "305272"
+msgid "畜生……！"
+msgstr ""
+
+msgctxt "305416"
+msgid "何で俺はあの時　兄弟を……！！"
+msgstr ""
+
+msgctxt "305560"
+msgid "一（はじめ）さん"
+msgstr ""
+
+msgctxt "305704"
+msgid "一（はじめ）さん！？"
+msgstr ""
+
+msgctxt "305848"
+msgid "悪い……"
+msgstr ""
+
+msgctxt "305992"
+msgid "少し　このままでいさせてくれ"
+msgstr ""
+
+msgctxt "306136"
+msgid "辛いときには　人に話した方がええよ"
+msgstr ""
+
+msgctxt "306280"
+msgid "独りで抱え込むよりは　楽になるやろ？"
+msgstr ""
+
+msgctxt "306424"
+msgid "そうらしいな"
+msgstr ""
+
+msgctxt "306568"
+msgid "うん"
+msgstr ""
+
+msgctxt "306712"
+msgid "一（はじめ）さん　お酒臭いよ？"
+msgstr ""
+
+msgctxt "306856"
+msgid "今日は　意識が飛ぶまで飲んじまった"
+msgstr ""
+
+msgctxt "307000"
+msgid "そういえば……"
+msgstr ""
+
+msgctxt "307144"
+msgid "俺は　どうやってここに？"
+msgstr ""
+
+msgctxt "307288"
+msgid "店で飲んだところまでしか覚えてねえ"
+msgstr ""
+
+msgctxt "307432"
+msgid ""
+"飲み友達のお２人さんが\n"
+"ここまで担いで来てくれたんえ"
+msgstr ""
+
+msgctxt "307576"
+msgid "飲み友達？"
+msgstr ""
+
+msgctxt "307720"
+msgid "桂と西郷が？"
+msgstr ""
+
+msgctxt "307864"
+msgid "散々愚痴ってたで？"
+msgstr ""
+
+msgctxt "308008"
+msgid "「もうコイツに酒飲ますな」って言われてもうた"
+msgstr ""
+
+msgctxt "308152"
+msgid "でもな　その後こうも言うてた"
+msgstr ""
+
+msgctxt "308296"
+msgid "ん？"
+msgstr ""
+
+msgctxt "308440"
+msgid "「細かいことは……"
+msgstr ""
+
+msgctxt "308584"
+msgid "全部水に流してやる」って"
+msgstr ""
+
+msgctxt "308728"
+msgid "２人ともスッキリした顔してたえ"
+msgstr ""
+
+msgctxt "308872"
+msgid "酔った勢いで何かええ話でもしたん？"
+msgstr ""
+
+msgctxt "309016"
+msgid "いや……"
+msgstr ""
+
+msgctxt "309160"
+msgid "覚えてねえ"
+msgstr ""

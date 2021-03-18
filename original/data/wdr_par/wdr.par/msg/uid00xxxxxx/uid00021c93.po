@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2340"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2341"
+msgid ""
+"じゃ、準備ができたら\n"
+"チャチャッと片付けちゃってください。"
+msgstr ""
+
+msgctxt "2400"
+msgid "俺も早く帰りたいんで。"
+msgstr ""
+
+msgctxt "2423"
+msgid ""
+"あ、斎藤さん。\n"
+"チャチャッと秋元を捕らえてきましょう。\n"
+"準備はいいですか？"
+msgstr ""
+
+msgctxt "2498"
+msgid "いや、ちょっと待ってくれ。"
+msgstr ""
+
+msgctxt "2525"
+msgid ""
+"ええ？　そうなんですか。\n"
+"じゃあ、準備が出来たら声をかけてください。"
+msgstr ""
+
+msgctxt "2594"
+msgid "準備は出来てる。見張りは頼んだぞ。"
+msgstr ""
+
+msgctxt "2629"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2630"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2631"
+msgid ""
+"じゃ、準備ができたら\n"
+"チャチャッと片付けちゃってください。"
+msgstr ""
+
+msgctxt "2690"
+msgid "俺も早く帰りたいんで。"
+msgstr ""
+
+msgctxt "2713"
+msgid ""
+"あ、斎藤さん。\n"
+"チャチャッと秋元を捕らえてきましょう。\n"
+"準備はいいですか？"
+msgstr ""
+
+msgctxt "2788"
+msgid "いや、ちょっと待ってくれ。"
+msgstr ""
+
+msgctxt "2815"
+msgid ""
+"ええ？　そうなんですか。\n"
+"じゃあ、準備が出来たら声をかけてください。"
+msgstr ""
+
+msgctxt "2884"
+msgid "準備は出来てる。見張りは頼んだぞ。"
+msgstr ""
+
+msgctxt "2919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3012"
+msgid "藤堂"
+msgstr ""
+
+msgctxt "3017"
+msgid "todo_c05_070_05"
+msgstr ""
+
+msgctxt "3033"
+msgid "todo_c05_070_05b"
+msgstr ""
+
+msgctxt "3050"
+msgid "ああ　大丈夫だ"
+msgstr ""
+
+msgctxt "3065"
+msgid "いや　ちょっと待ってくれ"
+msgstr ""
+
+msgctxt "3090"
+msgid "todo_adv_c05_070_002"
+msgstr ""
+
+msgctxt "3111"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "3116"
+msgid "kiryu_adv_c05_070_001"
+msgstr ""
+
+msgctxt "3138"
+msgid "todo_adv_c05_070_001"
+msgstr ""
+
+msgctxt "3159"
+msgid "kiryu_c05_070_05"
+msgstr ""

@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "？？？　天狗面の男"
+msgstr ""
+
+msgctxt "NAME_1"
+msgid "浄僧天狗　浄僧"
+msgstr ""
+
+msgctxt "NAME_2"
+msgid "？？？　謎の忍者"
+msgstr ""
+
+msgctxt "NAME_3"
+msgid "？？？　辻斬り侍"
+msgstr ""
+
+msgctxt "NAME_4"
+msgid "護衛ノ依頼"
+msgstr ""
+
+msgctxt "NAME_5"
+msgid "刀剣一家　行光"
+msgstr ""
+
+msgctxt "NAME_6"
+msgid "義賊忍盗　謎の忍者"
+msgstr ""
+
+msgctxt "NAME_7"
+msgid "浄僧天狗の一味"
+msgstr ""
+
+msgctxt "NAME_8"
+msgid "義賊忍盗　藤次郎"
+msgstr ""
+
+msgctxt "NAME_9"
+msgid "浄僧天狗　天狗面の男"
+msgstr ""
+
+msgctxt "NAME_10"
+msgid "刀剣一家　残党"
+msgstr ""
+
+msgctxt "NAME_11"
+msgid "謎の男"
+msgstr ""
+
+msgctxt "EXPLANATION_0"
+msgid ""
+"天狗面をかぶった男たちが\n"
+"梅小路町の飲食店で\n"
+"暴れている。"
+msgstr ""
+
+msgctxt "EXPLANATION_1"
+msgid ""
+"天狗面をかぶった男たちが\n"
+"骸街周辺で、\n"
+"ある男を探し回っているらしい。"
+msgstr ""
+
+msgctxt "EXPLANATION_2"
+msgid ""
+"白い忍者が伏見一番街南周辺で\n"
+"盗みを働いているらしい。"
+msgstr ""
+
+msgctxt "EXPLANATION_3"
+msgid ""
+"蔵町付近で辻斬りが発生。\n"
+"至急、調査されたし。"
+msgstr ""
+
+msgctxt "EXPLANATION_4"
+msgid ""
+"青い忍者が伏見一番街周辺で\n"
+"集団で盗みを働いているらしい。"
+msgstr ""
+
+msgctxt "EXPLANATION_5"
+msgid ""
+"梅小路町付近で辻斬りが発生。\n"
+"至急、調査されたし。"
+msgstr ""
+
+msgctxt "EXPLANATION_6"
+msgid ""
+"稲原阿久水を四国屋周辺まで\n"
+"無事に届けてほしい。"
+msgstr ""
+
+msgctxt "EXPLANATION_7"
+msgid "至急、刀剣一家を制圧されたし。"
+msgstr ""
+
+msgctxt "EXPLANATION_8"
+msgid ""
+"緑の忍者が寺町周辺で\n"
+"盗みを働いているらしい。"
+msgstr ""
+
+msgctxt "EXPLANATION_9"
+msgid ""
+"天狗面の男が肩を落として\n"
+"酒を飲んでいる。"
+msgstr ""
+
+msgctxt "EXPLANATION_10"
+msgid ""
+"義賊忍盗の隠れ家にて、\n"
+"頭領とその妹を確保せよ。"
+msgstr ""
+
+msgctxt "EXPLANATION_11"
+msgid ""
+"骸街周辺で天狗面の男たちが\n"
+"町人に無差別に\n"
+"襲いかかっている。"
+msgstr ""
+
+msgctxt "EXPLANATION_12"
+msgid ""
+"赤い忍者が伏見一番街周辺で\n"
+"盗みを働いているらしい。"
+msgstr ""
+
+msgctxt "EXPLANATION_13"
+msgid ""
+"刀剣一家の残党が洛内で、\n"
+"無差別に人を襲っているらしい。"
+msgstr ""
+
+msgctxt "EXPLANATION_14"
+msgid ""
+"洛内の神社前で浄僧天狗頭領が\n"
+"斎藤を待っているらしい。"
+msgstr ""
+
+msgctxt "EXPLANATION_15"
+msgid ""
+"斎藤宛に洛外の川辺に\n"
+"一人で来いと橘組に\n"
+"伝言が有り。"
+msgstr ""
+
+msgctxt "REWARD_0"
+msgid "一両"
+msgstr ""
+
+msgctxt "REWARD_1"
+msgid "三両"
+msgstr ""
+
+msgctxt "REWARD_2"
+msgid "五両"
+msgstr ""
+
+msgctxt "REWARD_3"
+msgid "二両"
+msgstr ""
+
+msgctxt "REWARD_4"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "REWARD_5"
+msgid "十五両"
+msgstr ""
+
+msgctxt "CONDITION1_0"
+msgid "場所：梅小路町の飲食店"
+msgstr ""
+
+msgctxt "CONDITION1_1"
+msgid "場所：骸街周辺"
+msgstr ""
+
+msgctxt "CONDITION1_2"
+msgid "場所：伏見一番街"
+msgstr ""
+
+msgctxt "CONDITION1_3"
+msgid "場所：蔵町"
+msgstr ""
+
+msgctxt "CONDITION1_4"
+msgid "場所：梅小路町"
+msgstr ""
+
+msgctxt "CONDITION1_5"
+msgid "場所：四国屋周辺"
+msgstr ""
+
+msgctxt "CONDITION1_6"
+msgid "場所：刀剣一家 隠れ家"
+msgstr ""
+
+msgctxt "CONDITION1_7"
+msgid "場所：洛内の寺町付近"
+msgstr ""
+
+msgctxt "CONDITION1_8"
+msgid "場所：屋敷町北で緑忍と合流"
+msgstr ""
+
+msgctxt "CONDITION1_9"
+msgid "場所：洛外入り口"
+msgstr ""
+
+msgctxt "CONDITION1_10"
+msgid "場所：洛内"
+msgstr ""
+
+msgctxt "CONDITION1_11"
+msgid "場所：洛内神社"
+msgstr ""
+
+msgctxt "CONDITION1_12"
+msgid "場所：洛外川辺"
+msgstr ""
+
+msgctxt "CONDITION2_0"
+msgid "目標：天狗面の男たち八人"
+msgstr ""
+
+msgctxt "CONDITION2_1"
+msgid "目標：白い忍者一人"
+msgstr ""
+
+msgctxt "CONDITION2_2"
+msgid "目標：辻斬りの男一人"
+msgstr ""
+
+msgctxt "CONDITION2_3"
+msgid "目標：青い忍者十人"
+msgstr ""
+
+msgctxt "CONDITION2_4"
+msgid "目標：辻斬りの男二人"
+msgstr ""
+
+msgctxt "CONDITION2_5"
+msgid "目標：目的地までの護衛"
+msgstr ""
+
+msgctxt "CONDITION2_6"
+msgid "目標：刀剣一家　五名"
+msgstr ""
+
+msgctxt "CONDITION2_7"
+msgid "目標：緑の忍者三人"
+msgstr ""
+
+msgctxt "CONDITION2_8"
+msgid "目標：天狗面の男八人"
+msgstr ""
+
+msgctxt "CONDITION2_9"
+msgid "目標：義賊忍盗　頭領"
+msgstr ""
+
+msgctxt "CONDITION2_10"
+msgid "目標：天狗面の男たち"
+msgstr ""
+
+msgctxt "CONDITION2_11"
+msgid "目標：赤い忍者の確保"
+msgstr ""
+
+msgctxt "CONDITION2_12"
+msgid "目標：浪人数名"
+msgstr ""
+
+msgctxt "CONDITION2_13"
+msgid "目標：浄僧天狗"
+msgstr ""
+
+msgctxt "CONDITION2_14"
+msgid "目標：謎の男"
+msgstr ""
+
+msgctxt "PICTURE_0"
+msgid "2d_yk_nigaoe_tengu01.dds"
+msgstr ""
+
+msgctxt "PICTURE_1"
+msgid "2d_yk_nigaoe_boss_kurama.dds"
+msgstr ""
+
+msgctxt "PICTURE_2"
+msgid "2d_yk_nigaoe_ninjya_w.dds"
+msgstr ""
+
+msgctxt "PICTURE_3"
+msgid "2d_yk_nigaoe_samurai02.dds"
+msgstr ""
+
+msgctxt "PICTURE_4"
+msgid "2d_yk_nigaoe_ninjya_b.dds"
+msgstr ""
+
+msgctxt "PICTURE_5"
+msgid "2d_yk_nigaoe_samurai01.dds"
+msgstr ""
+
+msgctxt "PICTURE_6"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "PICTURE_7"
+msgid "2d_yk_nigaoe_boss_yukimitsu.dds"
+msgstr ""
+
+msgctxt "PICTURE_8"
+msgid "2d_yk_nigaoe_ninjya_g.dds"
+msgstr ""
+
+msgctxt "PICTURE_9"
+msgid "2d_yk_nigaoe_tengu02.dds"
+msgstr ""
+
+msgctxt "PICTURE_10"
+msgid "2d_yk_nigaoe_boss_tojiro.dds"
+msgstr ""
+
+msgctxt "PICTURE_11"
+msgid "2d_yk_nigaoe_ninjya_r.dds"
+msgstr ""
+
+msgctxt "PICTURE_12"
+msgid "2d_yk_nigaoe_suitoku.dds"
+msgstr ""
+
+msgctxt "NAME_2_0"
+msgid "浄僧天狗　太郎坊"
+msgstr ""
+
+msgctxt "NAME_2_1"
+msgid "浄僧天狗　浄僧"
+msgstr ""
+
+msgctxt "NAME_2_2"
+msgid "義賊忍盗　白忍"
+msgstr ""
+
+msgctxt "NAME_2_3"
+msgid "刀剣一家　一文字"
+msgstr ""
+
+msgctxt "NAME_2_4"
+msgid "義賊忍盗　青忍"
+msgstr ""
+
+msgctxt "NAME_2_5"
+msgid "刀剣一家　荒正"
+msgstr ""
+
+msgctxt "NAME_2_6"
+msgid "護衛ノ依頼"
+msgstr ""
+
+msgctxt "NAME_2_7"
+msgid "刀剣一家　行光"
+msgstr ""
+
+msgctxt "NAME_2_8"
+msgid "義賊忍盗　緑忍"
+msgstr ""
+
+msgctxt "NAME_2_9"
+msgid "浄僧天狗の一味"
+msgstr ""
+
+msgctxt "NAME_2_10"
+msgid "義賊忍盗　藤次郎"
+msgstr ""
+
+msgctxt "NAME_2_11"
+msgid "義賊忍盗　赤忍"
+msgstr ""
+
+msgctxt "NAME_2_12"
+msgid "刀剣一家　残党"
+msgstr ""
+
+msgctxt "NAME_2_13"
+msgid "稲原阿久水"
+msgstr ""

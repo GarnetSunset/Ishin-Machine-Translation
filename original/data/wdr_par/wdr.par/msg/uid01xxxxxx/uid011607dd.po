@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3692"
+msgid ""
+"邪魔するぞ。\n"
+"藤次郎というのはお前だな？"
+msgstr ""
+
+msgctxt "3733"
+msgid "うぅ……"
+msgstr ""
+
+msgctxt "3742"
+msgid "なんだお前は？"
+msgstr ""
+
+msgctxt "3757"
+msgid ""
+"もうこれ以上、忍盗に盗みをさせるんじゃない。\n"
+"その香は危険だ。\n"
+"いいから外に出ろ。"
+msgstr ""
+
+msgctxt "3840"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3841"
+msgid "……うぅ。"
+msgstr ""
+
+msgctxt "3852"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3853"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3854"
+msgid ""
+"これがなければお春はすぐに死んでしまう。\n"
+"お前は俺たちからお春を奪いに来たのか！\n"
+"きっとそうに違いない！　ああああ！"
+msgstr ""
+
+msgctxt "3971"
+msgid "チッ、やはり話は通じないか……"
+msgstr ""
+
+msgctxt "4002"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4003"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4004"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4005"
+msgid ""
+"緑忍、お春を探せ！\n"
+"連れ出して外の空気を吸わすんだ。"
+msgstr ""
+
+msgctxt "4058"
+msgid ""
+"わかりました！\n"
+"きっと離れの方に居るはずです！\n"
+"行ってきます。"
+msgstr ""
+
+msgctxt "4121"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4122"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4123"
+msgid "……！"
+msgstr ""
+
+msgctxt "4130"
+msgid "お前らの相手は俺だ。"
+msgstr ""
+
+msgctxt "4151"
+msgid "うあぁぁぁ！"
+msgstr ""
+
+msgctxt "4164"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4165"
+msgid "お兄ちゃん！"
+msgstr ""
+
+msgctxt "4178"
+msgid ""
+"お春！　お前……\n"
+"動けるのか？"
+msgstr ""
+
+msgctxt "4209"
+msgid ""
+"うん……\n"
+"だからもうやめて！"
+msgstr ""
+
+msgctxt "4238"
+msgid ""
+"藤次郎様、目を覚ましてください。\n"
+"きっとあの医者からもらった香が悪いのです！"
+msgstr ""
+
+msgctxt "4315"
+msgid ""
+"うぅ……\n"
+"頭が痛い……"
+msgstr ""
+
+msgctxt "4338"
+msgid "お兄ちゃん！"
+msgstr ""
+
+msgctxt "4351"
+msgid "藤次郎様！"
+msgstr ""
+
+msgctxt "4362"
+msgid ""
+"こいつら全員、橘組まで運ぶぞ。\n"
+"このままにはしておけない。"
+msgstr ""
+
+msgctxt "4421"
+msgid "わかりました！"
+msgstr ""
+
+msgctxt "4436"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4936"
+msgid "Player"
+msgstr ""
+
+msgctxt "4943"
+msgid "藤次郎"
+msgstr ""
+
+msgctxt "4950"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4959"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4968"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "4990"
+msgid "M_BUS_TLK_agura_to_stand"
+msgstr ""
+
+msgctxt "5015"
+msgid "ADV_M_BUS_STAND"
+msgstr ""
+
+msgctxt "5031"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5042"
+msgid "緑忍"
+msgstr ""
+
+msgctxt "5047"
+msgid "お春"
+msgstr ""
+
+msgctxt "5052"
+msgid "F_OLD_SS_shagami_cry_lp"
+msgstr ""
+
+msgctxt "5076"
+msgid "F_OLD_SS_shagami_cry_st"
+msgstr ""

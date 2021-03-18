@@ -1,0 +1,1968 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "ACTIVITY_ENUM_0"
+msgid "TALK_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_1"
+msgid "TALK_300"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_2"
+msgid "TALK_1000"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_3"
+msgid "EATIN_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_4"
+msgid "EATIN_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_5"
+msgid "EATIN_250"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_6"
+msgid "EATIN_500"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_7"
+msgid "TREASURE_GET_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_8"
+msgid "TREASURE_GET_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_9"
+msgid "TREASURE_GET_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_10"
+msgid "PRAY_JIZO_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_11"
+msgid "PRAY_JIZO_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_12"
+msgid "PRAY_JIZO_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_13"
+msgid "PLAYSPOT_PLAY_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_14"
+msgid "PLAYSPOT_PLAY_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_15"
+msgid "PLAYSPOT_PLAY_500"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_16"
+msgid "EATITEM_USE_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_17"
+msgid "EATITEM_USE_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_18"
+msgid "EATITEM_USE_200"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_19"
+msgid "EATITEM_USE_300"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_20"
+msgid "DRUGITEM_USE_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_21"
+msgid "DRUGITEM_USE_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_22"
+msgid "DRUGITEM_USE_200"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_23"
+msgid "DRUGITEM_USE_300"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_24"
+msgid "USE_KAGO_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_25"
+msgid "USE_KAGO_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_26"
+msgid "USE_KAGO_200"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_27"
+msgid "RAKUNAI_ESTIMATION_4"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_28"
+msgid "RAKUNAI_ESTIMATION_8"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_29"
+msgid "RAKUNAI_ESTIMATION_MAX"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_30"
+msgid "RAKUGAI_ESTIMATION_4"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_31"
+msgid "RAKUGAI_ESTIMATION_8"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_32"
+msgid "RAKUGAI_ESTIMATION_MAX"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_33"
+msgid "MUKUROGAI_ESTIMATION_4"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_34"
+msgid "MUKUROGAI_ESTIMATION_8"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_35"
+msgid "MUKUROGAI_ESTIMATION_MAX"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_36"
+msgid "FUSHIMI_ESTIMATION_4"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_37"
+msgid "FUSHIMI_ESTIMATION_8"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_38"
+msgid "FUSHIMI_ESTIMATION_MAX"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_39"
+msgid "GION_ESTIMATION_4"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_40"
+msgid "GION_ESTIMATION_8"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_41"
+msgid "GION_ESTIMATION_MAX"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_42"
+msgid "USE_MONEY_100RYOU"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_43"
+msgid "USE_MONEY_500RYOU"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_44"
+msgid "USE_MONEY_1000RYOU"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_45"
+msgid "USE_MONEY_5000RYOU"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_46"
+msgid "MOVE_100KM"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_47"
+msgid "MOVE_300KM"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_48"
+msgid "MOVE_1000KM"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_49"
+msgid "DASH_3KM"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_50"
+msgid "DASH_10KM"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_51"
+msgid "DASH_30KM"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_52"
+msgid "IDO_MIZUKUMI_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_53"
+msgid "IDO_MIZUKUMI_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_54"
+msgid "IDO_MIZUKUMI_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_55"
+msgid "NIMOTSU_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_56"
+msgid "NIMOTSU_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_57"
+msgid "NIMOTSU_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_58"
+msgid "MAKIWARI_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_59"
+msgid "MAKIWARI_300"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_60"
+msgid "MAKIWARI_1000"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_61"
+msgid "FARM_VEGETABLE_SUM_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_62"
+msgid "FARM_VEGETABLE_SUM_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_63"
+msgid "FARM_VEGETABLE_SUM_300"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_64"
+msgid "FARM_VEGETABLE_SUM_1000"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_65"
+msgid "FARM_VEGETABLE_SUM_5000"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_66"
+msgid "FARM_VEGETABLE_CHOSEN_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_67"
+msgid "FARM_VEGETABLE_KYABETU_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_68"
+msgid "FARM_VEGETABLE_SATOIMO_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_69"
+msgid "FARM_VEGETABLE_TOMATO_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_70"
+msgid "FARM_VEGETABLE_ICHIGO_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_71"
+msgid "COOK_PLAY_SUM_3"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_72"
+msgid "COOK_PLAY_SUM_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_73"
+msgid "COOK_PLAY_SUM_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_74"
+msgid "COOK_PLAY_SUM_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_75"
+msgid "COOK_PLAY_SUM_300"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_76"
+msgid "PET_DOG_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_77"
+msgid "PET_DOG_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_78"
+msgid "PET_DOG_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_79"
+msgid "PET_CAT_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_80"
+msgid "PET_CAT_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_81"
+msgid "PET_CAT_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_82"
+msgid "PET_EGG_GET_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_83"
+msgid "PET_EGG_GET_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_84"
+msgid "PET_EGG_GET_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_85"
+msgid "COMMERCE_SUCCESS_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_86"
+msgid "COMMERCE_SUCCESS_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_87"
+msgid "COMMERCE_SUCCESS_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_88"
+msgid "FISHING_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_89"
+msgid "FISHING_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_90"
+msgid "FISHING_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_91"
+msgid "FISHING_TSUNA_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_92"
+msgid "FISHING_TSUNA_MAX_SIZE"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_93"
+msgid "HARUKA_SOINE"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_94"
+msgid "HARUKA_SENAKANAGASHI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_95"
+msgid "HARUKA_MIMISOUJI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_96"
+msgid "HARUKA_BENTOU"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_97"
+msgid "NAJIMI_SHOP_UTAGOESAKABA"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_98"
+msgid "NAJIMI_SHOP_UDON"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_99"
+msgid "NAJIMI_SHOP_NICHIBU"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_100"
+msgid "NAJIMI_SHOP_KANNUSHI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_101"
+msgid "NAJIMI_SHOP_MIKO"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_102"
+msgid "NAJIMI_SHOP_HANAMARU"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_103"
+msgid "NAJIMI_SHOP_YUKAKU"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_104"
+msgid "NAJIMI_SHOP_JYANSO"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_105"
+msgid "NAJIMI_SHOP_SHOGI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_106"
+msgid "NAJIMI_SHOP_TOBA"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_107"
+msgid "NAJIMI_SHOP_KYOUKEI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_108"
+msgid "NAJIMI_SHOP_YOROZUYA"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_109"
+msgid "NAJIMI_SHOP_SUSHIYA"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_110"
+msgid "NAJIMI_SHOP_IZAKAYA"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_111"
+msgid "NAJIMI_SHOP_KUSURIYA"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_112"
+msgid "NAJIMI_SHOP_CHAYA"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_113"
+msgid "NAJIMI_SHOP_DONKI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_114"
+msgid "NAJIMI_SHOP_SHICHIYA"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_115"
+msgid "NAJIMI_SHOP_RYOUTEI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_116"
+msgid "NAJIMI_SHOP_KORYOURI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_117"
+msgid "NAJIMI_SHOP_YAOYA"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_118"
+msgid "NAJIMI_SHOP_BUKIYA"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_119"
+msgid "NAJIMI_SHOP_KAGO"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_120"
+msgid "NAJIMI_SHOP_TAKUJYOURYOURI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_121"
+msgid "NAJIMI_HUMAN_KOJIKI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_122"
+msgid "NAJIMI_HUMAN_RIKISHI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_123"
+msgid "NAJIMI_HUMAN_RYOURININ"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_124"
+msgid "NAJIMI_HUMAN_OTTO"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_125"
+msgid "NAJIMI_HUMAN_OTAKU"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_126"
+msgid "NAJIMI_HUMAN_KIZU_OTOKO"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_127"
+msgid "NAJIMI_HUMAN_SHIPPAI_OTOKO"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_128"
+msgid "NAJIMI_HUMAN_OKUSAN"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_129"
+msgid "NAJIMI_HUMAN_YASAI_BOY"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_130"
+msgid "NAJIMI_HUMAN_FISH_MAN"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_131"
+msgid "NAJIMI_HUMAN_OBAACHAN"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_132"
+msgid "NAJIMI_HUMAN_SYOUNIN"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_133"
+msgid "NAJIMI_HUMAN_OKUSAMA"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_134"
+msgid "NAJIMI_HUMAN_SYOUNEN"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_135"
+msgid "NAJIMI_HUMAN_GOMI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_136"
+msgid "NAJIMI_HUMAN_MAKIWARI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_137"
+msgid "NAJIMI_HUMAN_HIKYAKU"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_138"
+msgid "NAJIMI_DOG_TYUKEN"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_139"
+msgid "NAJIMI_DOG_KEGA"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_140"
+msgid "NAJIMI_DOG_HOERU"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_141"
+msgid "NAJIMI_CAT_HARAPEKO"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_142"
+msgid "NAJIMI_CAT_YOGORE"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_143"
+msgid "NAJIMI_CAT_MANEKI"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_144"
+msgid "ENCOUNT_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_145"
+msgid "ENCOUNT_300"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_146"
+msgid "ENCOUNT_1000"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_147"
+msgid "ENCOUNT_2000"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_148"
+msgid "KARIBA_SUCCESS_10"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_149"
+msgid "KARIBA_SUCCESS_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_150"
+msgid "KARIBA_SUCCESS_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_151"
+msgid "OUGONSYU_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_152"
+msgid "OUGONSYU_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_153"
+msgid "OUGONSYU_200"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_154"
+msgid "HEAT_FINISH_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_155"
+msgid "HEAT_FINISH_200"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_156"
+msgid "HEAT_FINISH_500"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_157"
+msgid "BROKEN_REACTOR_30"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_158"
+msgid "BROKEN_REACTOR_100"
+msgstr ""
+
+msgctxt "ACTIVITY_ENUM_159"
+msgid "BROKEN_REACTOR_300"
+msgstr ""
+
+msgctxt "CATEGORY_0"
+msgid "アドベンチャー"
+msgstr ""
+
+msgctxt "CATEGORY_1"
+msgid "アナザーライフ"
+msgstr ""
+
+msgctxt "CATEGORY_2"
+msgid "交流（店舗）"
+msgstr ""
+
+msgctxt "CATEGORY_3"
+msgid "交流（人物）"
+msgstr ""
+
+msgctxt "CATEGORY_4"
+msgid "バトル"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_0"
+msgid "人に100回話しかける"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_1"
+msgid "人に300回話しかける"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_2"
+msgid "人に500回話しかける"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_3"
+msgid "飲食店で20回食事をする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_4"
+msgid "飲食店で50回食事をする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_5"
+msgid "飲食店で100回食事をする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_6"
+msgid "飲食店で200回食事をする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_7"
+msgid "壺からアイテムを20個入手する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_8"
+msgid "壺からアイテムを50個入手する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_9"
+msgid "壺からアイテムを100個入手する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_10"
+msgid "神社や地蔵を20回拝む"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_11"
+msgid "神社や地蔵を50回拝む"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_12"
+msgid "神社や地蔵を100回拝む"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_13"
+msgid "プレイスポットで30回遊ぶ"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_14"
+msgid "プレイスポットで100回遊ぶ"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_15"
+msgid "プレイスポットで200回遊ぶ"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_16"
+msgid "食事アイテムを30個食べる"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_17"
+msgid "食事アイテムを100個食べる"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_18"
+msgid "食事アイテムを200個食べる"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_19"
+msgid "食事アイテムを400個食べる"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_20"
+msgid "薬アイテムを20回使用する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_21"
+msgid "薬アイテムを50回使用する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_22"
+msgid "薬アイテムを100回使用する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_23"
+msgid "薬アイテムを200回使用する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_24"
+msgid "駕籠を使って20回移動する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_25"
+msgid "駕籠を使って50回移動する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_26"
+msgid "駕籠を使って100回移動する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_27"
+msgid "洛内での評判レベルを3にする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_28"
+msgid "洛内での評判レベルを7にする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_29"
+msgid "洛内での評判レベルをMAXにする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_30"
+msgid "洛外での評判レベルを3にする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_31"
+msgid "洛外での評判レベルを7にする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_32"
+msgid "洛外での評判レベルをMAXにする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_33"
+msgid "骸街での評判レベルを3にする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_34"
+msgid "骸街での評判レベルを7にする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_35"
+msgid "骸街での評判レベルをMAXにする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_36"
+msgid "伏見での評判レベルを3にする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_37"
+msgid "伏見での評判レベルを7にする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_38"
+msgid "伏見での評判レベルをMAXにする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_39"
+msgid "祗園での評判レベルを3にする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_40"
+msgid "祗園での評判レベルを7にする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_41"
+msgid "祗園での評判レベルをMAXにする"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_42"
+msgid "お金を30両使う"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_43"
+msgid "お金を100両使う"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_44"
+msgid "お金を300両使う"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_45"
+msgid "お金を500両使う"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_46"
+msgid "自分の足で30km移動する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_47"
+msgid "自分の足で100km移動する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_48"
+msgid "自分の足で200km移動する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_49"
+msgid "ダッシュで5km移動する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_50"
+msgid "ダッシュで20km移動する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_51"
+msgid "ダッシュで50km移動する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_52"
+msgid "井戸で20回水を汲む"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_53"
+msgid "井戸で50回水を汲む"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_54"
+msgid "井戸で100回水を汲む"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_55"
+msgid "請け負った荷物を10回届ける"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_56"
+msgid "請け負った荷物を30回届ける"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_57"
+msgid "請け負った荷物を50回届ける"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_58"
+msgid "薪を100回割る"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_59"
+msgid "薪を300回割る"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_60"
+msgid "薪を1000回割る"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_61"
+msgid "農作物を50個収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_62"
+msgid "農作物を200個収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_63"
+msgid "農作物を500個収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_64"
+msgid "農作物を1000個収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_65"
+msgid "農作物を1500個収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_66"
+msgid "朝鮮人参を50本収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_67"
+msgid "きゃべつを100個収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_68"
+msgid "里芋を100個収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_69"
+msgid "とまとを100個収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_70"
+msgid "いちごを100個収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_71"
+msgid "料理を10回行う"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_72"
+msgid "料理を30回行う"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_73"
+msgid "料理を50回行う"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_74"
+msgid "料理を100回行う"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_75"
+msgid "料理を200回行う"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_76"
+msgid "飼い犬と10回交流する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_77"
+msgid "飼い犬と30回交流する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_78"
+msgid "飼い犬と100回交流する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_79"
+msgid "飼い猫と10回交流する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_80"
+msgid "飼い猫と30回交流する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_81"
+msgid "飼い猫と100回交流する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_82"
+msgid "卵を10個収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_83"
+msgid "卵を30個収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_84"
+msgid "卵を100個収穫する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_85"
+msgid "行商で取引を30件成立させる"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_86"
+msgid "行商で取引を100件成立させる"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_87"
+msgid "行商で取引を200件成立させる"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_88"
+msgid "魚を30匹釣る"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_89"
+msgid "魚を100匹釣る"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_90"
+msgid "魚を200匹釣る"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_91"
+msgid "マグロを10匹釣る"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_92"
+msgid "大物のマグロを釣る"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_93"
+msgid "布団での和みイベントを見る"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_94"
+msgid "お風呂での和みイベントを見る"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_95"
+msgid "居間での和みイベントを見る"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_96"
+msgid "庭での和みイベントを見る"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_97"
+msgid "歌まる屋の主人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_98"
+msgid "うまい屋うどんの主人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_99"
+msgid "にちぶ座の舞城先生との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_100"
+msgid "神主との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_101"
+msgid "あかりとの絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_102"
+msgid "はなまるうどんの店員との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_103"
+msgid "遊女・杏南との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_104"
+msgid "雀荘の住人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_105"
+msgid "将棋屋の主人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_106"
+msgid "賭場の壺振りとの絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_107"
+msgid "競鶏場の受付との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_108"
+msgid "万　一蔵屋の主人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_109"
+msgid "すしざんまいの主人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_110"
+msgid "居酒屋・福々屋の主人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_111"
+msgid "薬屋・越中堂の主人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_112"
+msgid "宇治茶屋の女の子との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_113"
+msgid "どん・きほーての店員との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_114"
+msgid "洛内　ゑびすやの主人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_115"
+msgid "料亭・春日の女将との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_116"
+msgid "小料理屋・青葉の大将との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_117"
+msgid "八百屋の主人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_118"
+msgid "洛外の武器屋の主人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_119"
+msgid "駕籠屋との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_120"
+msgid "百川の三兄弟との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_121"
+msgid "卑屈な物乞いとの絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_122"
+msgid "はらぺこ力士との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_123"
+msgid "革命料理人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_124"
+msgid "愛に飢えた男との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_125"
+msgid "刀に魅せられた男との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_126"
+msgid "正義感ある怪我人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_127"
+msgid "思い出せない男との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_128"
+msgid "そそっかしい奥さんとの絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_129"
+msgid "野菜大好き少年との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_130"
+msgid "崖っぷち釣り人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_131"
+msgid "怪我したおばあちゃんとの絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_132"
+msgid "謎の商人との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_133"
+msgid "妖艶な奥様との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_134"
+msgid "がらくた少年との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_135"
+msgid "ごみを集める男との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_136"
+msgid "薪割り爺さんとの絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_137"
+msgid "方向音痴の飛脚との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_138"
+msgid "待ち続ける犬との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_139"
+msgid "傷ついた犬との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_140"
+msgid "吠え続ける犬との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_141"
+msgid "はらぺこな猫との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_142"
+msgid "汚れた猫との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_143"
+msgid "招き猫との絆"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_144"
+msgid "町で絡んでくる敵を100人撃破する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_145"
+msgid "町で絡んでくる敵を200人撃破する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_146"
+msgid "町で絡んでくる敵を300人撃破する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_147"
+msgid "町で絡んでくる敵を500人撃破する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_148"
+msgid "ダンジョンを10回制圧する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_149"
+msgid "ダンジョンを30回制圧する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_150"
+msgid "ダンジョンを100回制圧する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_151"
+msgid "黄金衆を10人撃破する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_152"
+msgid "黄金衆を30人撃破する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_153"
+msgid "黄金衆を50人撃破する"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_154"
+msgid "トドメの一発を20回決める"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_155"
+msgid "トドメの一発を50回決める"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_156"
+msgid "トドメの一発を100回決める"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_157"
+msgid "バトル中に物を20個壊す"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_158"
+msgid "バトル中に物を50個壊す"
+msgstr ""
+
+msgctxt "ACTIVITY_NAME_159"
+msgid "バトル中に物を100個壊す"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_0"
+msgid "町の人々や動物に100回話しかけよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_1"
+msgid "町の人々や動物に300回話しかけよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_2"
+msgid "町の人々や動物に500回話しかけよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_3"
+msgid "飲食店で20回食事しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_4"
+msgid "飲食店で50回食事しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_5"
+msgid "飲食店で100回食事しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_6"
+msgid "飲食店で200回食事しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_7"
+msgid "壺からアイテムを20個入手しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_8"
+msgid "壺からアイテムを50個入手しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_9"
+msgid "壺からアイテムを100個入手しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_10"
+msgid "神社や地蔵を20回拝もう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_11"
+msgid "神社や地蔵を50回拝もう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_12"
+msgid "神社や地蔵を100回拝もう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_13"
+msgid "プレイスポットで30回遊ぼう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_14"
+msgid "プレイスポットで100回遊ぼう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_15"
+msgid "プレイスポットで200回遊ぼう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_16"
+msgid "食事系アイテムを30個食べよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_17"
+msgid "食事系アイテムを100個食べよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_18"
+msgid "食事系アイテムを200個食べよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_19"
+msgid "食事系アイテムを400個食べよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_20"
+msgid "薬系アイテムを20回使用しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_21"
+msgid "薬系アイテムを50回使用しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_22"
+msgid "薬系アイテムを100回使用しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_23"
+msgid "薬系アイテムを200回使用しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_24"
+msgid "駕籠を使って20回移動しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_25"
+msgid "駕籠を使って50回移動しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_26"
+msgid "駕籠を使って100回移動しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_27"
+msgid "洛内での評判レベルを3にしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_28"
+msgid "洛内での評判レベルを7にしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_29"
+msgid "洛内での評判レベルをMAXにしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_30"
+msgid "洛外での評判レベルを3にしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_31"
+msgid "洛外での評判レベルを7にしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_32"
+msgid "洛外での評判レベルをMAXにしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_33"
+msgid "骸街での評判レベルを3にしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_34"
+msgid "骸街での評判レベルを7にしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_35"
+msgid "骸街での評判レベルをMAXにしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_36"
+msgid "伏見での評判レベルを3にしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_37"
+msgid "伏見での評判レベルを7にしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_38"
+msgid "伏見での評判レベルをMAXにしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_39"
+msgid "祗園での評判レベルを3にしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_40"
+msgid "祗園での評判レベルを7にしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_41"
+msgid "祗園での評判レベルをMAXにしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_42"
+msgid "お金を30両使おう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_43"
+msgid "お金を100両使おう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_44"
+msgid "お金を300両使おう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_45"
+msgid "お金を500両使おう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_46"
+msgid "自分の足で30km移動しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_47"
+msgid "自分の足で100km移動しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_48"
+msgid "自分の足で200km移動しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_49"
+msgid "ダッシュで5km移動しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_50"
+msgid "ダッシュで20km移動しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_51"
+msgid "ダッシュで50km移動しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_52"
+msgid "井戸で20回水汲みをしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_53"
+msgid "井戸で50回水汲みをしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_54"
+msgid "井戸で100回水汲みをしよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_55"
+msgid "方向音痴の飛脚から請け負った荷物を10回届けよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_56"
+msgid "方向音痴の飛脚から請け負った荷物を30回届けよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_57"
+msgid "方向音痴の飛脚から請け負った荷物を50回届けよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_58"
+msgid "薪割りで薪を100本割ろう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_59"
+msgid "薪割りで薪を300本割ろう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_60"
+msgid "薪割りで薪を1000本割ろう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_61"
+msgid "別宅で農作物を50個収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_62"
+msgid "別宅で農作物を200個収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_63"
+msgid "別宅で農作物を500個収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_64"
+msgid "別宅で農作物を1000個収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_65"
+msgid "別宅で農作物を1500個収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_66"
+msgid "朝鮮人参を50本収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_67"
+msgid "きゃべつを100個収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_68"
+msgid "里芋を100個収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_69"
+msgid "とまとを100個収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_70"
+msgid "いちごを100個収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_71"
+msgid "料理を累計10回行おう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_72"
+msgid "料理を累計30回行おう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_73"
+msgid "料理を累計50回行おう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_74"
+msgid "料理を累計100回行おう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_75"
+msgid "料理を累計200回行おう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_76"
+msgid "飼い犬と10回交流しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_77"
+msgid "飼い犬と30回交流しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_78"
+msgid "飼い犬と100回交流しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_79"
+msgid "飼い猫と10回交流しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_80"
+msgid "飼い猫と30回交流しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_81"
+msgid "飼い猫と100回交流しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_82"
+msgid "卵を10個収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_83"
+msgid "卵を30個収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_84"
+msgid "卵を100個収穫しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_85"
+msgid "行商で注文取引を30回成立させよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_86"
+msgid "行商で注文取引を100回成立させよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_87"
+msgid "行商で注文取引を200回成立させよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_88"
+msgid "魚を30匹釣ろう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_89"
+msgid "魚を100匹釣ろう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_90"
+msgid "魚を200匹釣ろう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_91"
+msgid "マグロを10匹釣ろう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_92"
+msgid "大物のマグロを釣ろう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_93"
+msgid "遥との関係を深め、布団での和みイベントを見よう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_94"
+msgid "遥との関係を深め、お風呂での和みイベントを見よう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_95"
+msgid "遥との関係を深め、居間での和みイベントを見よう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_96"
+msgid "遥と知り合い、庭での和みイベントを見よう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_97"
+msgid "歌まる屋の主人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_98"
+msgid "うまい屋うどんの主人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_99"
+msgid "にちぶ座の舞城先生と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_100"
+msgid "神社の神主と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_101"
+msgid "神社の巫女・あかりと交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_102"
+msgid "はなまるうどんの店員と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_103"
+msgid "遊女・杏南と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_104"
+msgid "雀荘の住人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_105"
+msgid "将棋屋の主人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_106"
+msgid "賭場の壺振りと交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_107"
+msgid "競鶏場の受付と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_108"
+msgid "万　一蔵屋の主人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_109"
+msgid "すしざんまいの主人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_110"
+msgid "居酒屋・福々屋の主人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_111"
+msgid "薬屋・越中堂の主人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_112"
+msgid "宇治茶屋の女の子と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_113"
+msgid "どん・きほーての店員と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_114"
+msgid "洛内　ゑびすやの主人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_115"
+msgid "料亭・春日の女将と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_116"
+msgid "小料理屋・青葉の大将と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_117"
+msgid "八百屋の主人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_118"
+msgid "洛外の武器屋の主人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_119"
+msgid "駕籠屋と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_120"
+msgid "百川の三兄弟と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_121"
+msgid "骸街で出会った、卑屈な物乞いと交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_122"
+msgid "洛内の寺町通南で出会った、はらぺこ力士と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_123"
+msgid "祗園で出会った、革命料理人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_124"
+msgid "洛内の寺町で出会った、愛に飢えた男と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_125"
+msgid "洛外の山王町で出会った、刀に魅せられた男と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_126"
+msgid "洛外の梅小路町南で出会った、正義感ある怪我人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_127"
+msgid "清水寺に繋がる林道で出会った、思い出せない男と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_128"
+msgid "洛内の烏丸通で出会った、そそっかしい奥さんと交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_129"
+msgid "屯所付近で出会った、野菜大好き少年と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_130"
+msgid "伏見の新町で出会った、崖っぷち釣り人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_131"
+msgid "洛内の神明町にいる、怪我したおばあちゃんと交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_132"
+msgid "洛外の梅小路町西で出会った、謎の商人と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_133"
+msgid "祗園で出会った、妖艶な奥様と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_134"
+msgid "伏見の蔵町で出会った、がらくた少年と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_135"
+msgid "骸街で出会った、ごみを集める男と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_136"
+msgid "伏見の屋敷町南で出会った、薪割り爺さんと交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_137"
+msgid "伏見の新町で出会った、方向音痴の飛脚と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_138"
+msgid "伏見の屋敷町で出会った、待ち続ける犬と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_139"
+msgid "骸街で出会った、傷ついた犬と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_140"
+msgid "洛内の寺町で出会った、吠え続ける犬と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_141"
+msgid "洛外の梅小路町東で出会った、はらぺこな猫と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_142"
+msgid "伏見の屋敷町南で出会った、汚れた猫と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_143"
+msgid "洛内の烏丸通で出会った、招き猫と交流して絆を深めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_144"
+msgid "町を歩いていると絡んでくる敵（エンカウント）を100人撃破しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_145"
+msgid "町を歩いていると絡んでくる敵（エンカウント）を200人撃破しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_146"
+msgid "町を歩いていると絡んでくる敵（エンカウント）を300人撃破しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_147"
+msgid "町を歩いていると絡んでくる敵（エンカウント）を500人撃破しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_148"
+msgid "バトルダンジョンを10回制圧しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_149"
+msgid "バトルダンジョンを30回制圧しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_150"
+msgid "バトルダンジョンを100回制圧しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_151"
+msgid "黄金衆を10人撃破しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_152"
+msgid "黄金衆を30人撃破しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_153"
+msgid "黄金衆を50人撃破しよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_154"
+msgid "トドメの一発（ヒートアクション・絶技で最後の敵を倒す）を20回決めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_155"
+msgid "トドメの一発（ヒートアクション・絶技で最後の敵を倒す）を50回決めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_156"
+msgid "トドメの一発（ヒートアクション・絶技で最後の敵を倒す）を100回決めよう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_157"
+msgid "バトル中に拾って武器としても使える物を20個壊そう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_158"
+msgid "バトル中に拾って武器としても使える物を50個壊そう"
+msgstr ""
+
+msgctxt "ACTIVITY_DETAIL_159"
+msgid "バトル中に拾って武器としても使える物を100個壊そう"
+msgstr ""
+
+msgctxt "ENABLE_PS3_0"
+msgid "○"
+msgstr ""
+
+msgctxt "ENABLE_VITA_0"
+msgid "○"
+msgstr ""
+
+msgctxt "NAJIMI_TROPHY_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAJIMI_TROPHY_1"
+msgid "○"
+msgstr ""

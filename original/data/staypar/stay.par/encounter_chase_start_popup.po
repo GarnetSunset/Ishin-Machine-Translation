@@ -1,0 +1,652 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "YATOU_POPUP_0"
+msgid "追えっ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_1"
+msgid "追うぞ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_2"
+msgid "追いかけろ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_3"
+msgid "待てっ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_4"
+msgid "待てや！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_5"
+msgid "待ちやがれ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_6"
+msgid "待てコラ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_7"
+msgid "止まれ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_8"
+msgid "止まれや！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_9"
+msgid "この野郎！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_10"
+msgid "あの野郎！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_11"
+msgid "ぶっ殺せ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_12"
+msgid "ぶっ殺すぞ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_13"
+msgid "捕まえろ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_14"
+msgid "捕えろ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_15"
+msgid "あいつだ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_16"
+msgid "逃がすな！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_17"
+msgid "逃がすかよ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_18"
+msgid "貴様っ！"
+msgstr ""
+
+msgctxt "YATOU_POPUP_19"
+msgid "ヒャッハー！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_0"
+msgid "追えっ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_1"
+msgid "追うぞ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_2"
+msgid "追いかけろ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_3"
+msgid "待てっ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_4"
+msgid "待てや！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_5"
+msgid "待ちやがれ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_6"
+msgid "待てコラ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_7"
+msgid "止まれ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_8"
+msgid "止まれや！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_9"
+msgid "この野郎！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_10"
+msgid "あの野郎！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_11"
+msgid "ぶっ殺せ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_12"
+msgid "ぶっ殺すぞ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_13"
+msgid "捕まえろ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_14"
+msgid "捕えろ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_15"
+msgid "あいつだ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_16"
+msgid "逃がすな！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_17"
+msgid "逃がすかよ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_18"
+msgid "貴様っ！"
+msgstr ""
+
+msgctxt "MUHOUMONO_POPUP_19"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_0"
+msgid "追えっ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_1"
+msgid "追うぞ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_2"
+msgid "追いかけろ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_3"
+msgid "待てっ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_4"
+msgid "待てや！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_5"
+msgid "待ちやがれ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_6"
+msgid "待てコラ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_7"
+msgid "止まれ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_8"
+msgid "止まれや！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_9"
+msgid "この野郎！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_10"
+msgid "あの野郎！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_11"
+msgid "ぶっ殺せ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_12"
+msgid "ぶっ殺すぞ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_13"
+msgid "捕まえろ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_14"
+msgid "捕えろ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_15"
+msgid "あいつだ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_16"
+msgid "逃がすな！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_17"
+msgid "逃がすかよ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_18"
+msgid "貴様っ！"
+msgstr ""
+
+msgctxt "NARAZUMONO_POPUP_19"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_0"
+msgid "追えっ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_1"
+msgid "追うぞ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_2"
+msgid "追いかけろ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_3"
+msgid "待てっ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_4"
+msgid "待てや！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_5"
+msgid "待ちやがれ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_6"
+msgid "待てコラ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_7"
+msgid "止まれ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_8"
+msgid "止まれや！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_9"
+msgid "この野郎！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_10"
+msgid "あの野郎！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_11"
+msgid "ぶっ殺せ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_12"
+msgid "ぶっ殺すぞ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_13"
+msgid "捕まえろ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_14"
+msgid "捕えろ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_15"
+msgid "あいつだ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_16"
+msgid "逃がすな！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_17"
+msgid "逃がすかよ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_18"
+msgid "貴様っ！"
+msgstr ""
+
+msgctxt "OUGONSYU_POPUP_19"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_0"
+msgid "見つけたぞ！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_1"
+msgid "捕まえろ！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_2"
+msgid "捕えろ！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_3"
+msgid "貴様っ！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_4"
+msgid "待てっ！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_5"
+msgid "待てや！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_6"
+msgid "待ちやがれ！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_7"
+msgid "止まれ！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_8"
+msgid "止まれや！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_9"
+msgid "斎藤！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_10"
+msgid "斎藤だ！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_11"
+msgid "斎藤だぞ！"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_12"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_13"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_14"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_15"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_16"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_17"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_18"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_19"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_0"
+msgid "見つけたぞ！"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_1"
+msgid "捕まえろ！"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_2"
+msgid "捕えろ！"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_3"
+msgid "貴様っ！"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_4"
+msgid "待てっ！"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_5"
+msgid "待てや！"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_6"
+msgid "待ちやがれ！"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_7"
+msgid "止まれ！"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_8"
+msgid "止まれや！"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_9"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_10"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_11"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_12"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_13"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_14"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_15"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_16"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_17"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_18"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_19"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_0"
+msgid "見つけたぞ！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_1"
+msgid "捕まえろ！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_2"
+msgid "捕えろ！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_3"
+msgid "貴様っ！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_4"
+msgid "待てっ！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_5"
+msgid "待てや！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_6"
+msgid "待ちやがれ！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_7"
+msgid "止まれ！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_8"
+msgid "止まれや！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_9"
+msgid "斎藤！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_10"
+msgid "斎藤だ！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_11"
+msgid "斎藤だぞ！"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_12"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_13"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_14"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_15"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_16"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_17"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_18"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_19"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_0"
+msgid "追えっ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_1"
+msgid "追うぞ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_2"
+msgid "追いかけろ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_3"
+msgid "待てっ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_4"
+msgid "待てや！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_5"
+msgid "待ちやがれ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_6"
+msgid "待てコラ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_7"
+msgid "止まれ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_8"
+msgid "止まれや！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_9"
+msgid "この野郎！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_10"
+msgid "あの野郎！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_11"
+msgid "ぶっ殺せ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_12"
+msgid "ぶっ殺すぞ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_13"
+msgid "捕まえろ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_14"
+msgid "捕えろ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_15"
+msgid "あいつだ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_16"
+msgid "逃がすな！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_17"
+msgid "逃がすかよ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_18"
+msgid "貴様っ！"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_19"
+msgid "<!empty>"
+msgstr ""

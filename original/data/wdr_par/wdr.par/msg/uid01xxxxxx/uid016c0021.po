@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2096"
+msgid "お前知らないのか!?"
+msgstr ""
+
+msgctxt "2115"
+msgid "ここ、亡霊武者がでるって噂の通りだぞ!?"
+msgstr ""
+
+msgctxt "2154"
+msgid "（ん……？）"
+msgstr ""
+
+msgctxt "2167"
+msgid "亡霊武者？　なんじゃそりゃ？"
+msgstr ""
+
+msgctxt "2196"
+msgid ""
+"昔、卑怯な手を使って殺された武者の亡霊だってさ。\n"
+"その恨みを晴らすために、夜になったら現れて、\n"
+"腕の立ちそうな奴に勝負を挑んでくるらしいんだ。"
+msgstr ""
+
+msgctxt "2339"
+msgid ""
+"ものすごく強くて、そいつとの勝負に負けた人は\n"
+"全員、冥府に連れていかれるって噂だぜ。"
+msgstr ""
+
+msgctxt "2424"
+msgid "ふん。嘘くさいな。"
+msgstr ""
+
+msgctxt "2443"
+msgid ""
+"嘘じゃねぇって！\n"
+"実際に、最近この辺りで行方不明になっている\n"
+"武士が、何人もいるんだぜ？"
+msgstr ""
+
+msgctxt "2532"
+msgid ""
+"仮に本当だとしても……\n"
+"俺たちは武士じゃねぇし、標的にはならねぇだろ。"
+msgstr ""
+
+msgctxt "2603"
+msgid ""
+"（腕の立つ連中を狙う、亡霊武者か……\n"
+"　夜に現れるらしいが、本当だろうか？）"
+msgstr ""
+
+msgctxt "2680"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2681"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2682"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2683"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3112"
+msgid "怖がりな男"
+msgstr ""
+
+msgctxt "3123"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "3134"
+msgid "kaiwabgm_sub_fuon_04"
+msgstr ""
+
+msgctxt "3155"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "3167"
+msgid "Player"
+msgstr ""
+
+msgctxt "3174"
+msgid "動じない男性"
+msgstr ""
+
+msgctxt "3187"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "3198"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3207"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3218"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3226"
+msgid "dummy"
+msgstr ""

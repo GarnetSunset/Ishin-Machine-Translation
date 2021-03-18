@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "9288"
+msgid ""
+"いいかげん吐いたらどうなんだよ？\n"
+"……あの斎藤とかいう男は、どこにいる？"
+msgstr ""
+
+msgctxt "9361"
+msgid ""
+"そ、そんなの知らないっすよ～！\n"
+"勘弁してくださいっす！"
+msgstr ""
+
+msgctxt "9416"
+msgid ""
+"あれだけ親しそうにしていて、\n"
+"知らないわけがないだろ？"
+msgstr ""
+
+msgctxt "9471"
+msgid ""
+"じ、実際そこまで親しくないんすよ～！\n"
+"人間関係なんて、大体そんなもんでしょう？"
+msgstr ""
+
+msgctxt "9550"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9551"
+msgid "……何を騒いでいるんだ？"
+msgstr ""
+
+msgctxt "9576"
+msgid "あ！　斎藤さん！　本当にちょうどいいところに!!"
+msgstr ""
+
+msgctxt "9623"
+msgid "……ようやくお出ましか。"
+msgstr ""
+
+msgctxt "9648"
+msgid "お前は、黒豹飛脚団の……"
+msgstr ""
+
+msgctxt "9673"
+msgid ""
+"「黒豹の千両役者」こと、槙野だ。\n"
+"……今回は、俺の相手になってもらおう。"
+msgstr ""
+
+msgctxt "9746"
+msgid ""
+"……いい加減にしてくれないか。\n"
+"こっちは京最速だの何だのには興味がないんだ。\n"
+"勝手にやってくれ。"
+msgstr ""
+
+msgctxt "9843"
+msgid ""
+"そうはいかない。少なくともあんたは、\n"
+"油断していたとはいえ、うちの星に勝っているんだ。\n"
+"このまま勝ち逃げなんて許されるわけねぇだろ。"
+msgstr ""
+
+msgctxt "9976"
+msgid "まったく、面倒な連中だ……"
+msgstr ""
+
+msgctxt "10003"
+msgid ""
+"……「黒豹の千両役者」槙野。\n"
+"配達時に演舞をしたりと、派手な行動をすることで\n"
+"有名な飛脚です。"
+msgstr ""
+
+msgctxt "10098"
+msgid ""
+"ただ、実力のほうは折り紙つき……\n"
+"いざ勝負になると、その圧倒的な体力の高さを武器に\n"
+"際限なく配り続けるとか……"
+msgstr ""
+
+msgctxt "10209"
+msgid "へへへ……　お褒めいただいてうれしいね。"
+msgstr ""
+
+msgctxt "10250"
+msgid "……ほう。"
+msgstr ""
+
+msgctxt "10261"
+msgid ""
+"勝負の条件は……\n"
+"どちらが先に１２人の客に手紙を渡せるか、\n"
+"でどうだ？　単純でわかりやすいだろ？"
+msgstr ""
+
+msgctxt "10358"
+msgid "ああ。それでかまわん。"
+msgstr ""
+
+msgctxt "10381"
+msgid "さぁ……　いくぜぇ、お侍飛脚さんよぉ！"
+msgstr ""
+
+msgctxt "10420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10421"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10423"
+msgid ""
+"はぁ……　はぁ……\n"
+"俺の勝ちだな……"
+msgstr ""
+
+msgctxt "10460"
+msgid ""
+"す……　すげえええ！\n"
+"黒豹飛脚団に２連勝するなんて！\n"
+"し、信じられない……"
+msgstr ""
+
+msgctxt "10535"
+msgid ""
+"くそ……　途中で失敗を犯しちまった……\n"
+"それさえ無ければ、俺の勝ちだったのに……"
+msgstr ""
+
+msgctxt "10616"
+msgid "もう１回だ……！　もう１回、勝負を！"
+msgstr ""
+
+msgctxt "10653"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10654"
+msgid "……見苦しいぞ。槙野。"
+msgstr ""
+
+msgctxt "10677"
+msgid ""
+"失敗も運も、実力のうちだ。\n"
+"素直に負けを認めるんだな。\n"
+"これ以上、黒豹飛脚団の名に泥を塗らないように……"
+msgstr ""
+
+msgctxt "10782"
+msgid "く……　くそっ……"
+msgstr ""
+
+msgctxt "10801"
+msgid "斎藤……　と言ったか？"
+msgstr ""
+
+msgctxt "10824"
+msgid "ああ。そうだが。"
+msgstr ""
+
+msgctxt "10841"
+msgid ""
+"次は、俺が相手させていただく。\n"
+"運が重なって、槙野にも勝ったようだが……\n"
+"俺との戦いは、そうはいかないぜ。"
+msgstr ""
+
+msgctxt "10948"
+msgid ""
+"圧倒的な戦略技術と頭を使った効率的配達で\n"
+"「黒豹の司令塔」と呼ばれている、この俺に\n"
+"失敗も失策もありえない。"
+msgstr ""
+
+msgctxt "11057"
+msgid "あんたの運も、これまでだな……"
+msgstr ""
+
+msgctxt "11088"
+msgid "…………"
+msgstr ""
+
+msgctxt "11097"
+msgid ""
+"さっき走ったばかりで疲れているだろうから、\n"
+"また日を改めて戦おう。\n"
+"それまで、せいぜい首を洗って待っているんだな。"
+msgstr ""
+
+msgctxt "11212"
+msgid "じゃあな……　ふっふっふ……"
+msgstr ""
+
+msgctxt "11241"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11242"
+msgid ""
+"（次の相手は稲本、か……\n"
+"　一筋縄ではいかなそうな相手だな……）"
+msgstr ""
+
+msgctxt "11307"
+msgid ""
+"あ、あの……\n"
+"斎藤……　さん……"
+msgstr ""
+
+msgctxt "11340"
+msgid "？　なんだ、清川？"
+msgstr ""
+
+msgctxt "11359"
+msgid ""
+"あの……　その……\n"
+"俺たちの関係って、どうなんでしょう？"
+msgstr ""
+
+msgctxt "11416"
+msgid ""
+"と、友達……　ですよね？\n"
+"お、俺は友達だと思ってるんですけど……\n"
+"あ！　押し付けがましいですかね……　あのその……"
+msgstr ""
+
+msgctxt "11531"
+msgid "…………"
+msgstr ""
+
+msgctxt "11540"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11541"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11542"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11543"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11544"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11545"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11546"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11547"
+msgid "はぁ……　はぁ……"
+msgstr ""
+
+msgctxt "11566"
+msgid ""
+"なんだ!?　その程度かよ！\n"
+"つまんねぇなぁ……"
+msgstr ""
+
+msgctxt "11611"
+msgid ""
+"あんたとなら、もっと熱い戦いができると\n"
+"思ってたのによ。\n"
+"……消化不良もいいとこだぜ。"
+msgstr ""
+
+msgctxt "11698"
+msgid ""
+"これじゃ俺の気がおさまらねぇ。\n"
+"もう一度勝負しろ。一遍、出直してこい！"
+msgstr ""
+
+msgctxt "11769"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11770"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13308"
+msgid "槙野"
+msgstr ""
+
+msgctxt "13313"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "13324"
+msgid "清川"
+msgstr ""
+
+msgctxt "13329"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "13339"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "13350"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "13359"
+msgid "Player"
+msgstr ""
+
+msgctxt "13366"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "13377"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13386"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13394"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13407"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13418"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "13430"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13436"
+msgid "男の声"
+msgstr ""
+
+msgctxt "13443"
+msgid "kaiwabgm_sub_fuon_04"
+msgstr ""
+
+msgctxt "13464"
+msgid "稲本"
+msgstr ""
+
+msgctxt "13469"
+msgid "0"
+msgstr ""
+
+msgctxt "13471"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "13482"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""

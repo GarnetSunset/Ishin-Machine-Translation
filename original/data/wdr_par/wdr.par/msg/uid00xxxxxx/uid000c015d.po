@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6608"
+msgid ""
+"いらっしゃいませ。\n"
+"ご注文、お決まりでしょうか？\n"
+"ドリンクは何になさいますか？"
+msgstr ""
+
+msgctxt "6687"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6688"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6689"
+msgid "フードメニューはこちらです。"
+msgstr ""
+
+msgctxt "6718"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6719"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6720"
+msgid ""
+"ありがとうございます。\n"
+"お会計%sになります。"
+msgstr ""
+
+msgctxt "6765"
+msgid "ありがとうございました。"
+msgstr ""
+
+msgctxt "6790"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6791"
+msgid ""
+"ありがとうございます。\n"
+"お会計%sになります。"
+msgstr ""
+
+msgctxt "6836"
+msgid "ありがとうございました。"
+msgstr ""
+
+msgctxt "6861"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6862"
+msgid "（今は食う必要が無い……）"
+msgstr ""
+
+msgctxt "6889"
+msgid "（今は食う必要が無い……）"
+msgstr ""
+
+msgctxt "6916"
+msgid "（今は食う必要が無い……）"
+msgstr ""
+
+msgctxt "6943"
+msgid "（今は食う必要が無い……）"
+msgstr ""
+
+msgctxt "6970"
+msgid "（おなかいっぱいだった……）"
+msgstr ""
+
+msgctxt "6999"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7000"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "7029"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "7058"
+msgid "すまん、ちょっと急用や……"
+msgstr ""
+
+msgctxt "7085"
+msgid "ごめん、急用思い出した……"
+msgstr ""
+
+msgctxt "7112"
+msgid "ごめんなさい、ちょっと急用で……"
+msgstr ""
+
+msgctxt "7145"
+msgid ""
+"かしこまりました。\n"
+"またのご来店をお待ちしています。"
+msgstr ""
+
+msgctxt "7198"
+msgid "フードメニューはこちらです。"
+msgstr ""
+
+msgctxt "7227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7229"
+msgid ""
+"ありがとうございます。\n"
+"お会計%sになります。"
+msgstr ""
+
+msgctxt "7274"
+msgid "ありがとうございました。"
+msgstr ""
+
+msgctxt "7299"
+msgid ""
+"いらっしゃいませ。\n"
+"ご注文、お決まりでしょうか？\n"
+"ドリンクは何になさいますか？"
+msgstr ""
+
+msgctxt "7378"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7379"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7380"
+msgid "（ちょっと飲み過ぎている……）"
+msgstr ""
+
+msgctxt "7411"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7412"
+msgid "（腹も減ってはいない……）"
+msgstr ""
+
+msgctxt "7439"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7440"
+msgid "フードメニューを見せてくれ。"
+msgstr ""
+
+msgctxt "7469"
+msgid "フードメニューを見せてくれ。"
+msgstr ""
+
+msgctxt "7498"
+msgid "フードメニューを見せてくれや。"
+msgstr ""
+
+msgctxt "7529"
+msgid "フードメニューを見せて。"
+msgstr ""
+
+msgctxt "7554"
+msgid "フードメニューを見せてください。"
+msgstr ""
+
+msgctxt "7587"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7589"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7590"
+msgid "フードメニューはこちらです。"
+msgstr ""
+
+msgctxt "7619"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7620"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7621"
+msgid ""
+"ありがとうございます。\n"
+"お会計%sになります。"
+msgstr ""
+
+msgctxt "7666"
+msgid "ありがとうございました。"
+msgstr ""
+
+msgctxt "7691"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7692"
+msgid ""
+"ありがとうございます。\n"
+"お会計%sになります。"
+msgstr ""
+
+msgctxt "7737"
+msgid "ありがとうございました。"
+msgstr ""
+
+msgctxt "7762"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7763"
+msgid "（今は食う必要が無い……）"
+msgstr ""
+
+msgctxt "7790"
+msgid "（今は食う必要が無い……）"
+msgstr ""
+
+msgctxt "7817"
+msgid "（今は食う必要が無い……）"
+msgstr ""
+
+msgctxt "7844"
+msgid "（今は食う必要が無い……）"
+msgstr ""
+
+msgctxt "7871"
+msgid "（おなかいっぱいだった……）"
+msgstr ""
+
+msgctxt "7900"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7901"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "7930"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "7959"
+msgid "すまん、ちょっと急用や……"
+msgstr ""
+
+msgctxt "7986"
+msgid "ごめん、急用思い出した……"
+msgstr ""
+
+msgctxt "8013"
+msgid "ごめんなさい、ちょっと急用で……"
+msgstr ""
+
+msgctxt "8046"
+msgid ""
+"かしこまりました。\n"
+"またのご来店をお待ちしています。"
+msgstr ""
+
+msgctxt "8099"
+msgid "フードメニューはこちらです。"
+msgstr ""
+
+msgctxt "8128"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8129"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8130"
+msgid ""
+"ありがとうございます。\n"
+"お会計%sになります。"
+msgstr ""
+
+msgctxt "8175"
+msgid "ありがとうございました。"
+msgstr ""
+
+msgctxt "8224"
+msgid "店員"
+msgstr ""
+
+msgctxt "8229"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8240"
+msgid "dummy"
+msgstr ""
+
+msgctxt "8246"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8255"
+msgid "Player"
+msgstr ""
+
+msgctxt "8262"
+msgid "Talk_No"
+msgstr ""

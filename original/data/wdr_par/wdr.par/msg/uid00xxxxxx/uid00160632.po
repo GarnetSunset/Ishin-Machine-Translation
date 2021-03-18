@@ -1,0 +1,934 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "21668"
+msgid ""
+"あ痛たたた……\n"
+"これはまずい……　まずいぞ……"
+msgstr ""
+
+msgctxt "21715"
+msgid ""
+"おい、どうした？\n"
+"大丈夫か？"
+msgstr ""
+
+msgctxt "21744"
+msgid ""
+"……薪を割っていたら\n"
+"腰をやってしまったようじゃ。\n"
+"いたたたた……"
+msgstr ""
+
+msgctxt "21811"
+msgid ""
+"……その齢で、薪割りなんかしていたら、\n"
+"そりゃあ腰も痛くなるだろう。"
+msgstr ""
+
+msgctxt "21880"
+msgid ""
+"何を言っておる。ワシは薪を割って\n"
+"かれこれ５０年の、生粋の薪割り職人じゃぞ。\n"
+"腰が痛くなったことなど、今まで一度もなかった。"
+msgstr ""
+
+msgctxt "22005"
+msgid ""
+"だが、実際に今、痛めてしまったんだろう？\n"
+"もう潮時かもしれないぞ。誰かに替わりに\n"
+"やってもらったらどうだ？"
+msgstr ""
+
+msgctxt "22112"
+msgid ""
+"ワシのような偏屈な老人の手助けを\n"
+"してくれるような奴は、どうせおらんよ……"
+msgstr ""
+
+msgctxt "22187"
+msgid ""
+"……そんな風に決めつけるな。\n"
+"人ってのは、思った以上に助けてくれるもんだぞ。"
+msgstr ""
+
+msgctxt "22264"
+msgid ""
+"なら……\n"
+"あんたが手伝ってくれないかのう？"
+msgstr ""
+
+msgctxt "22307"
+msgid "…………俺が？"
+msgstr ""
+
+msgctxt "22322"
+msgid ""
+"うむ。見たところ、お主は恵まれた体格をしておる。\n"
+"薪割りとしての素質を、ビンビン感じるんじゃ。\n"
+"手伝ってもらうには、もってこいじゃ。"
+msgstr ""
+
+msgctxt "22455"
+msgid "し、しかし……"
+msgstr ""
+
+msgctxt "22470"
+msgid ""
+"……断るのかい？\n"
+"……人ってのは、思った以上に助けてくれるものだ、\n"
+"とか言ってたのは、誰じゃったかのう……？"
+msgstr ""
+
+msgctxt "22579"
+msgid "むむむ……"
+msgstr ""
+
+msgctxt "22590"
+msgid ""
+"な？　……頼む。\n"
+"薪を割らないと、ワシは生活していけないんじゃ。"
+msgstr ""
+
+msgctxt "22655"
+msgid "……仕方ない。協力しよう。"
+msgstr ""
+
+msgctxt "22682"
+msgid ""
+"ふぉっふぉっふぉ！\n"
+"助かるぞい！　ありがとう！　大した若者じゃ！"
+msgstr ""
+
+msgctxt "22747"
+msgid ""
+"う！　あいたたた……\n"
+"興奮しすぎて、また腰が……"
+msgstr ""
+
+msgctxt "22796"
+msgid "おいおい。平気か？"
+msgstr ""
+
+msgctxt "22815"
+msgid ""
+"へへへ。人にやさしくしてもらえたのは\n"
+"久しぶりじゃから、嬉しくてな。\n"
+"それじゃ、早速お願いしようかのう！"
+msgstr ""
+
+msgctxt "22920"
+msgid ""
+"割ってほしい薪の本数は……　２０本ってとこじゃな。\n"
+"無理強いはせんが、できれば２０本頼む！\n"
+"よろしく頼むぞ、若者よ！"
+msgstr ""
+
+msgctxt "23037"
+msgid ""
+"タイミング良く<Sign:0>ボタンを押して薪を割りましょう。\n"
+"\n"
+"斧を振り上げ、力が入る瞬間に斧が光ります。\n"
+"光った瞬間にタイミングよく<Sign:0>ボタンを押すと薪を割ることができます。"
+msgstr ""
+
+msgctxt "23212"
+msgid ""
+"連続して割って行くとスピードが上がっていくので、\n"
+"失敗せずに素早く割りましょう。\n"
+"\n"
+"割ることができるのは一回につき１００本までとなります。\n"
+"\n"
+"今回、お爺さんが必要としている薪の数は２０本です。\n"
+"出来る限りの協力をしてあげましょう！"
+msgstr ""
+
+msgctxt "23443"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23444"
+msgid ""
+"礼を言うぞい。これは今回のお礼じゃ。\n"
+"１本につき、１００文やろう。\n"
+"なかなか割りの良い仕事じゃろ？"
+msgstr ""
+
+msgctxt "23543"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23544"
+msgid "割った本数分の報酬を貰った。"
+msgstr ""
+
+msgctxt "23573"
+msgid "本当に助かった。ありがとうな。"
+msgstr ""
+
+msgctxt "23604"
+msgid ""
+"気にするな。\n"
+"だが、これからどうするんだ？\n"
+"腰が痛くて、薪は当分割れないんだろう？"
+msgstr ""
+
+msgctxt "23687"
+msgid ""
+"う、うむ……　そうなんじゃ。\n"
+"困ったのぅ。薪を割らないと、ワシは生活できんし、\n"
+"この腰では、割れる薪にも限界がある。"
+msgstr ""
+
+msgctxt "23804"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23805"
+msgid "誰か……"
+msgstr ""
+
+msgctxt "23814"
+msgid "これからも手助けしてくれる奴が……"
+msgstr ""
+
+msgctxt "23849"
+msgid "いればのぅ……"
+msgstr ""
+
+msgctxt "23864"
+msgid "…………"
+msgstr ""
+
+msgctxt "23873"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23874"
+msgid "誰か……"
+msgstr ""
+
+msgctxt "23883"
+msgid "いればのぅ……"
+msgstr ""
+
+msgctxt "23898"
+msgid "…………"
+msgstr ""
+
+msgctxt "23907"
+msgid "助けて、ほしいのう……"
+msgstr ""
+
+msgctxt "23930"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23931"
+msgid ""
+"……分かった。\n"
+"手の空いているときで良ければ、手伝おう。"
+msgstr ""
+
+msgctxt "23988"
+msgid ""
+"ひゃっほーう！　ありがとう！\n"
+"助かるぞい！"
+msgstr ""
+
+msgctxt "24031"
+msgid ""
+"ワシはいつもここにおる。\n"
+"もし手が空いていたら、いつでも力を貸しておくれ。"
+msgstr ""
+
+msgctxt "24106"
+msgid ""
+"ワシの腰が治るまで……\n"
+"すまないが、薪割りの協力、頼んだぞい！"
+msgstr ""
+
+msgctxt "24169"
+msgid ""
+"「薪割り爺さん」との絆が芽生えました。\n"
+"一定数の薪を割ってあげることで、絆ゲージがたまり、\n"
+"「絆」を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「薪割り爺さん」に薪を割ってあげましょう。"
+msgstr ""
+
+msgctxt "24410"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24411"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24412"
+msgid ""
+"お侍さん、来てくれたんじゃな。\n"
+"すまんが、薪を割って行ってくれるかの？"
+msgstr ""
+
+msgctxt "24483"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24484"
+msgid ""
+"今までにお侍さんに割ってもらった分と合わせて、\n"
+"全部で１００本くらい、割った薪が必要なんじゃ。"
+msgstr ""
+
+msgctxt "24579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24580"
+msgid ""
+"今までにお侍さんに割ってもらった分と合わせて、\n"
+"全部で３００本くらい、割った薪が必要なんじゃ。"
+msgstr ""
+
+msgctxt "24675"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24676"
+msgid "（どうするか……）"
+msgstr ""
+
+msgctxt "24695"
+msgid "すまない、また来る。"
+msgstr ""
+
+msgctxt "24716"
+msgid "そうか、待っておるぞい。"
+msgstr ""
+
+msgctxt "24741"
+msgid "ああ、割って行こう。"
+msgstr ""
+
+msgctxt "24762"
+msgid ""
+"ありがとう。\n"
+"じゃあ早速、薪割り台の前に立っとくれ。"
+msgstr ""
+
+msgctxt "24815"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24816"
+msgid ""
+"タイミング良く<Sign:0>ボタンを押して薪を割りましょう。\n"
+"\n"
+"斧を振り上げ、力が入る瞬間に斧が光ります。\n"
+"光った瞬間にタイミングよく<Sign:0>ボタンを押すと薪を割ることができます。\n"
+"\n"
+"連続して割って行くとスピードが上がっていくので、\n"
+"失敗せずに素早く割りましょう。\n"
+"\n"
+"割ることができるのは一回につき、最大１００本までです。"
+msgstr ""
+
+msgctxt "25133"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25134"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25135"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25136"
+msgid "また、待っとるぞい。"
+msgstr ""
+
+msgctxt "25157"
+msgid ""
+"礼を言うぞい。これは今回のお礼じゃ。\n"
+"１本につき、１００文やろう。\n"
+"なかなか割りの良い仕事じゃろ？"
+msgstr ""
+
+msgctxt "25256"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25257"
+msgid "割った本数分の報酬を貰った"
+msgstr ""
+
+msgctxt "25284"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25285"
+msgid ""
+"それから今必要な薪は、\n"
+"今までの分と合わせて１００本くらいじゃ。"
+msgstr ""
+
+msgctxt "25350"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25351"
+msgid ""
+"それから今必要な薪は、\n"
+"今までの分と合わせて３００本くらいじゃ。"
+msgstr ""
+
+msgctxt "25416"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25417"
+msgid "すまんが残りの分を、またよろしく頼むぞい。"
+msgstr ""
+
+msgctxt "25460"
+msgid "おおおおおおっ！　ついに!!"
+msgstr ""
+
+msgctxt "25487"
+msgid "ん？　……どうしたんだ？"
+msgstr ""
+
+msgctxt "25512"
+msgid ""
+"お主に割ってもらった薪の数が……\n"
+"１００本を超えたぞ！　これで目標到達じゃ！"
+msgstr ""
+
+msgctxt "25589"
+msgid "先に今回割ってもらった分のお礼じゃ。"
+msgstr ""
+
+msgctxt "25626"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25627"
+msgid "割った本数分の報酬を貰った。"
+msgstr ""
+
+msgctxt "25656"
+msgid "ほう。もうそんなに割ったのか。"
+msgstr ""
+
+msgctxt "25687"
+msgid ""
+"うむ。お主が手伝ってくれているおかげで、\n"
+"必要な分を確保することができた。\n"
+"改めて、ありがとうな。"
+msgstr ""
+
+msgctxt "25786"
+msgid ""
+"……ただ、まだ薪の依頼が結構来そうなんじゃ。\n"
+"腰もまだ痛むし……\n"
+"すまんが、これからも手伝ってくれるかのう？"
+msgstr ""
+
+msgctxt "25895"
+msgid ""
+"まぁ、こっちも良い運動になったしな。\n"
+"気にするな。"
+msgstr ""
+
+msgctxt "25946"
+msgid ""
+"そう言ってもらえると、助かるぞい。\n"
+"そうじゃ、せっかくの記念じゃからな。\n"
+"粗品贈呈じゃ。受け取ってくれ。"
+msgstr ""
+
+msgctxt "26051"
+msgid "「<Color:8>太古の御守り<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "26102"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26103"
+msgid "いいのか？"
+msgstr ""
+
+msgctxt "26114"
+msgid ""
+"いいんじゃ、役立ててくれ。\n"
+"ワシが持っていても何の役にもたたんからの。\n"
+"これからも、よろしく頼んだぞい。"
+msgstr ""
+
+msgctxt "26219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26220"
+msgid "おおおおおおっ！　ついに!!"
+msgstr ""
+
+msgctxt "26247"
+msgid "ん？　……どうしたんだ？"
+msgstr ""
+
+msgctxt "26272"
+msgid ""
+"お主に割ってもらった薪の数が……\n"
+"３００本を超えたぞ！　これで目標到達じゃ！"
+msgstr ""
+
+msgctxt "26349"
+msgid "先に今回割ってもらった分のお礼じゃ。"
+msgstr ""
+
+msgctxt "26386"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26387"
+msgid "割った本数分の報酬を貰った"
+msgstr ""
+
+msgctxt "26414"
+msgid ""
+"さ、３００本？\n"
+"いつの間にそんなに……"
+msgstr ""
+
+msgctxt "26453"
+msgid ""
+"それだけ集中して割っておるということじゃろう。\n"
+"おかげさまで必要な分を確保できた。\n"
+"本当にありがとう。"
+msgstr ""
+
+msgctxt "26556"
+msgid ""
+"……ワシの腰もかなり良くなってきた気がするぞい！\n"
+"これもお主のおかげじゃよ。\n"
+"本当に、感謝しておる。"
+msgstr ""
+
+msgctxt "26657"
+msgid ""
+"これは、３００本記念の粗品じゃ。\n"
+"受け取ってくれ。"
+msgstr ""
+
+msgctxt "26708"
+msgid "「<Color:8>壊れた羅針盤<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "26759"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26760"
+msgid "ああ、ありがたく受け取っておく。"
+msgstr ""
+
+msgctxt "26793"
+msgid "これからもよろしく頼むぞい。"
+msgstr ""
+
+msgctxt "26822"
+msgid ""
+"あ……　そうじゃった。\n"
+"ワシ、今日は薪を売りに行く日じゃった。"
+msgstr ""
+
+msgctxt "26885"
+msgid "お侍さん、じゃあ、またの。"
+msgstr ""
+
+msgctxt "26912"
+msgid "ああ。"
+msgstr ""
+
+msgctxt "26919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26921"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26922"
+msgid ""
+"おお、お侍さん！\n"
+"また来てくださったか！"
+msgstr ""
+
+msgctxt "26963"
+msgid ""
+"ああ、元気そうだな。\n"
+"腰はもういいのか？"
+msgstr ""
+
+msgctxt "27004"
+msgid ""
+"もう完璧じゃ！\n"
+"これでバンバン薪が割れるわい！"
+msgstr ""
+
+msgctxt "27051"
+msgid ""
+"……と、\n"
+"なるはずじゃったんじゃが……"
+msgstr ""
+
+msgctxt "27090"
+msgid "ん？　……どうしたんだ？"
+msgstr ""
+
+msgctxt "27115"
+msgid ""
+"実はな、医者から仕事は適度にしておきなさいと\n"
+"釘をさされてしまったんじゃ。"
+msgstr ""
+
+msgctxt "27190"
+msgid ""
+"以前のように朝から晩まで薪割りをするような\n"
+"生活は、無理かもしれんのう……"
+msgstr ""
+
+msgctxt "27265"
+msgid ""
+"まぁ、爺さんも齢だしな。\n"
+"少しは働くのを抑えた方がいい。"
+msgstr ""
+
+msgctxt "27322"
+msgid ""
+"……じゃが、そうすると\n"
+"割れる薪の数が減ってしまう。"
+msgstr ""
+
+msgctxt "27375"
+msgid ""
+"そうなると、薪の納品を待っている連中が、\n"
+"困ることになるかもしれん。"
+msgstr ""
+
+msgctxt "27444"
+msgid ""
+"うーん、誰か薪を割れる屈強な男が、\n"
+"少しだけでも手伝ってくれると助かるんじゃが……"
+msgstr ""
+
+msgctxt "27527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27528"
+msgid "…………"
+msgstr ""
+
+msgctxt "27537"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27538"
+msgid "誰か……"
+msgstr ""
+
+msgctxt "27547"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27548"
+msgid "いればのぅ……"
+msgstr ""
+
+msgctxt "27563"
+msgid "…………"
+msgstr ""
+
+msgctxt "27572"
+msgid "助けて、ほしいのう……"
+msgstr ""
+
+msgctxt "27595"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27596"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27597"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27598"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27599"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27600"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27602"
+msgid "…………"
+msgstr ""
+
+msgctxt "27611"
+msgid ""
+"……仕方ない。\n"
+"これからも暇があったら、少し手伝ってやるよ。\n"
+"まぁ、こっちも良い運動になるしな。"
+msgstr ""
+
+msgctxt "27708"
+msgid ""
+"ひゃっほーう！　ありがとう！\n"
+"助かるぞい！"
+msgstr ""
+
+msgctxt "27751"
+msgid ""
+"これからは、ワシもほどほどに働くからのぅ。\n"
+"次からは薪割りの報酬もはずんでやるわい。\n"
+"じゃから……　これからもよろしくな。"
+msgstr ""
+
+msgctxt "27874"
+msgid ""
+"ああ、また来る。\n"
+"腰に気をつけて、元気にしていろよ。爺さん。"
+msgstr ""
+
+msgctxt "27935"
+msgid ""
+"フフッ、お主もな。\n"
+"くたばるんじゃないぞい！"
+msgstr ""
+
+msgctxt "27980"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27981"
+msgid ""
+"（いい鍛錬にもなるし、\n"
+"　気が向いたらまた、薪を割りに来よう）"
+msgstr ""
+
+msgctxt "28044"
+msgid ""
+"おお、来てくれたんじゃな。\n"
+"今日も薪を割って行ってくれるかの？"
+msgstr ""
+
+msgctxt "28107"
+msgid "そうだな……"
+msgstr ""
+
+msgctxt "28120"
+msgid "すまない、また来る。"
+msgstr ""
+
+msgctxt "28141"
+msgid "そうか、待っておるぞい。"
+msgstr ""
+
+msgctxt "28166"
+msgid "ああ、割って行こう。"
+msgstr ""
+
+msgctxt "28187"
+msgid ""
+"ありがとう。\n"
+"じゃあ早速、薪割り台の前に立っとくれ。"
+msgstr ""
+
+msgctxt "28240"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28241"
+msgid ""
+"タイミング良く<Sign:0>ボタンを押して薪を割りましょう。\n"
+"\n"
+"斧を振り上げ、力が入る瞬間に斧が光ります。\n"
+"光った瞬間にタイミングよく<Sign:0>ボタンを押すと薪を割ることができます。\n"
+"\n"
+"連続して割って行くとスピードが上がっていくので、\n"
+"失敗せずに素早く割りましょう。\n"
+"\n"
+"割ることができるのは一回につき、最大１００本までです。"
+msgstr ""
+
+msgctxt "28558"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28559"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28560"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28561"
+msgid "また、待っとるぞい。"
+msgstr ""
+
+msgctxt "28582"
+msgid ""
+"礼を言うぞい。これは今回のお礼じゃ。\n"
+"１本につき、１５０文の大盤振る舞いじゃ！"
+msgstr ""
+
+msgctxt "28661"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28662"
+msgid "割った本数分の報酬を貰った"
+msgstr ""
+
+msgctxt "28689"
+msgid ""
+"助かったわい。\n"
+"また、よろしく頼むぞい。"
+msgstr ""
+
+msgctxt "28730"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "30640"
+msgid "薪割り爺さん"
+msgstr ""
+
+msgctxt "30653"
+msgid "dummy"
+msgstr ""
+
+msgctxt "30659"
+msgid "Player"
+msgstr ""
+
+msgctxt "30666"
+msgid "M_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "30688"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "30699"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "30707"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "30720"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "30731"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "30740"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "30751"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "30764"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "30775"
+msgid "M_BUS_TLK_btl_aft_03_lp"
+msgstr ""
+
+msgctxt "30799"
+msgid "薪割りについて"
+msgstr ""
+
+msgctxt "30814"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "30824"
+msgid "kaiwabgm_apathy_01"
+msgstr ""
+
+msgctxt "30843"
+msgid "薪割り爺さんとの絆"
+msgstr ""
+
+msgctxt "30862"
+msgid "薪を割る"
+msgstr ""
+
+msgctxt "30871"
+msgid "薪割りについて聞く"
+msgstr ""
+
+msgctxt "30890"
+msgid "今日はちょっと忙しい"
+msgstr ""
+
+msgctxt "30911"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "30922"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "30932"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "30942"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "30953"
+msgid "Talk_Call"
+msgstr ""

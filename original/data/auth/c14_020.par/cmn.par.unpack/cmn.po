@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "85976"
+msgid "そろそろ　土佐やな"
+msgstr ""
+
+msgctxt "86120"
+msgid "ああ"
+msgstr ""
+
+msgctxt "86264"
+msgid "土佐いうても広いで"
+msgstr ""
+
+msgctxt "86408"
+msgid "武市はどこにおるんや"
+msgstr ""
+
+msgctxt "86552"
+msgid "一（はじめ）ちゃん　アテはあるんか？"
+msgstr ""
+
+msgctxt "86696"
+msgid "きっとあいつは"
+msgstr ""
+
+msgctxt "86840"
+msgid "あの場所で待っている"
+msgstr ""
+
+msgctxt "86984"
+msgid "俺たちの運命の歯車が狂った"
+msgstr ""
+
+msgctxt "87128"
+msgid "あの場所で"
+msgstr ""
+
+msgctxt "87272"
+msgid "見えてきたな"
+msgstr ""
+
+msgctxt "87416"
+msgid "あれが土佐か"
+msgstr ""
+
+msgctxt "87560"
+msgid "何だあれは……"
+msgstr ""
+
+msgctxt "87704"
+msgid "何やあれは"
+msgstr ""
+
+msgctxt "87848"
+msgid "あれが土佐なんか！？"
+msgstr ""
+
+msgctxt "87992"
+msgid "要塞のような街やな"
+msgstr ""
+
+msgctxt "88136"
+msgid "違う"
+msgstr ""
+
+msgctxt "88280"
+msgid "あれは俺が知っている土佐じゃない"
+msgstr ""
+
+msgctxt "88424"
+msgid "土佐に……"
+msgstr ""
+
+msgctxt "88568"
+msgid "一体何があったんだ……"
+msgstr ""

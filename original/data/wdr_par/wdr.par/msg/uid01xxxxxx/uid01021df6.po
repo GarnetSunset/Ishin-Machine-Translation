@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5976"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5977"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5978"
+msgid ""
+"しかし見廻組に邪魔されるとは思うてもなかったな。\n"
+"一（はじめ）ちゃん。"
+msgstr ""
+
+msgctxt "6049"
+msgid "……"
+msgstr ""
+
+msgctxt "6054"
+msgid ""
+"どないしたんや？　さっきから様子が変やけど。\n"
+"なんかあったんか？"
+msgstr ""
+
+msgctxt "6119"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6120"
+msgid "いや……　なんでもない。ちょっとな……"
+msgstr ""
+
+msgctxt "6159"
+msgid "？"
+msgstr ""
+
+msgctxt "6162"
+msgid "やってくれたな。お前ら。"
+msgstr ""
+
+msgctxt "6187"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6188"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6189"
+msgid ""
+"お、伊東はんやないか。\n"
+"それに武田に、平助まで。どないしたんや。"
+msgstr ""
+
+msgctxt "6254"
+msgid ""
+"とぼけんな。近藤局長の引退の相談って、\n"
+"ありゃとんだホラじゃねえか。"
+msgstr ""
+
+msgctxt "6323"
+msgid "ん？　なんやそれ。よう覚えてへんなあ。"
+msgstr ""
+
+msgctxt "6362"
+msgid ""
+"馬鹿にしとんのかワレ！　お前のウソのせいで、\n"
+"坂本龍馬取り逃してしもたやないか！"
+msgstr ""
+
+msgctxt "6443"
+msgid ""
+"そない言うんやったら、五番隊も残ってれば\n"
+"よかったやないか。"
+msgstr ""
+
+msgctxt "6504"
+msgid ""
+"伊東はんに尻尾振ってついてったくせして、\n"
+"よう言うわ。"
+msgstr ""
+
+msgctxt "6559"
+msgid "なんやと？　ワレ、舐めとんのか!!"
+msgstr ""
+
+msgctxt "6592"
+msgid ""
+"まぁまぁ、落ち着いて武田さん。\n"
+"沖田さんもそんなに煽らないで下さいよ。"
+msgstr ""
+
+msgctxt "6663"
+msgid "なんや平助……　お前、どっちの味方や。"
+msgstr ""
+
+msgctxt "6702"
+msgid ""
+"別に俺はどっちの味方でもないですよ。\n"
+"ただ、最近の近藤さんは何を考えているか分からない。"
+msgstr ""
+
+msgctxt "6791"
+msgid ""
+"なら伊東さんが局長になった方が、やりやすいとは\n"
+"思ってますけど。"
+msgstr ""
+
+msgctxt "6856"
+msgid "平助……!?　お前……"
+msgstr ""
+
+msgctxt "6877"
+msgid ""
+"もういい平助。\n"
+"こんなバカ相手にしててもラチがあかねぇ。"
+msgstr ""
+
+msgctxt "6934"
+msgid ""
+"いいか沖田。これだけは覚えておけ。\n"
+"……俺が新選組局長になった暁には、古参だろうが\n"
+"剣の腕が立とうが容赦しねぇ。"
+msgstr ""
+
+msgctxt "7047"
+msgid ""
+"俺の方針に従わねぇヤツは全員……　粛清する。\n"
+"いいな？"
+msgstr ""
+
+msgctxt "7102"
+msgid "……"
+msgstr ""
+
+msgctxt "7107"
+msgid ""
+"アンタもただの狂犬で終わりたくなかったら、\n"
+"平助のように身の振り方考えるんだな？"
+msgstr ""
+
+msgctxt "7188"
+msgid "……行くぞ。"
+msgstr ""
+
+msgctxt "7201"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7202"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7203"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7204"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7205"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7206"
+msgid ""
+"（一旦、寺田屋に戻ろう。\n"
+"　……おりょうに聞きたいこともあるしな）"
+msgstr ""
+
+msgctxt "7273"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8532"
+msgid "沖田"
+msgstr ""
+
+msgctxt "8537"
+msgid "majima_c10_120_01"
+msgstr ""
+
+msgctxt "8555"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "8560"
+msgid "majima_c10_120_02"
+msgstr ""
+
+msgctxt "8578"
+msgid "kiryu_c10_120_02"
+msgstr ""
+
+msgctxt "8595"
+msgid "majima_c10_120_03"
+msgstr ""
+
+msgctxt "8613"
+msgid "伊東"
+msgstr ""
+
+msgctxt "8618"
+msgid "kaiwabgm_fuon_05"
+msgstr ""
+
+msgctxt "8635"
+msgid "ito_c10_120_01"
+msgstr ""
+
+msgctxt "8650"
+msgid "C10120_KRU_B"
+msgstr ""
+
+msgctxt "8663"
+msgid "C10120_KRU_A_to_B"
+msgstr ""
+
+msgctxt "8681"
+msgid "C10120_OKI_B"
+msgstr ""
+
+msgctxt "8694"
+msgid "C10120_OKI_A_to_B"
+msgstr ""
+
+msgctxt "8712"
+msgid "majima_c10_120_04"
+msgstr ""
+
+msgctxt "8730"
+msgid "0"
+msgstr ""
+
+msgctxt "8732"
+msgid "ito_c10_120_02"
+msgstr ""
+
+msgctxt "8747"
+msgid "majima_c10_120_05"
+msgstr ""
+
+msgctxt "8765"
+msgid "C10120_OKI_B_tlk"
+msgstr ""
+
+msgctxt "8782"
+msgid "武田"
+msgstr ""
+
+msgctxt "8787"
+msgid "takeda_c10_120_01"
+msgstr ""
+
+msgctxt "8805"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "8816"
+msgid "majima_c10_120_06"
+msgstr ""
+
+msgctxt "8834"
+msgid "majima_c10_120_06b"
+msgstr ""
+
+msgctxt "8853"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "8863"
+msgid "takeda_c10_120_02"
+msgstr ""
+
+msgctxt "8881"
+msgid "藤堂"
+msgstr ""
+
+msgctxt "8886"
+msgid "todo_c10_120_01"
+msgstr ""
+
+msgctxt "8902"
+msgid "majima_c10_120_07"
+msgstr ""
+
+msgctxt "8920"
+msgid "todo_c10_120_02"
+msgstr ""
+
+msgctxt "8936"
+msgid "todo_c10_120_02b"
+msgstr ""
+
+msgctxt "8953"
+msgid "majima_c10_120_08"
+msgstr ""
+
+msgctxt "8971"
+msgid "ito_c10_120_03"
+msgstr ""
+
+msgctxt "8986"
+msgid "ito_c10_120_03b"
+msgstr ""
+
+msgctxt "9002"
+msgid "ito_c10_120_03c"
+msgstr ""
+
+msgctxt "9018"
+msgid "ito_c10_120_04"
+msgstr ""
+
+msgctxt "9033"
+msgid "ito_c10_120_04b"
+msgstr ""
+
+msgctxt "9049"
+msgid "dummy"
+msgstr ""
+
+msgctxt "9055"
+msgid "C10120_OKI_A"
+msgstr ""

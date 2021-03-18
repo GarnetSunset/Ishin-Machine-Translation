@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "476"
+msgid "－"
+msgstr ""
+
+msgctxt "479"
+msgid "所持数"
+msgstr ""
+
+msgctxt "486"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "511"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "544"
+msgid "ありがとうございます。%sになります。"
+msgstr ""
+
+msgctxt "581"
+msgid "（これ以上食べられないな……）"
+msgstr ""
+
+msgctxt "612"
+msgid "（これ以上飲めないな……）"
+msgstr ""
+
+msgctxt "639"
+msgid "御品書"
+msgstr ""
+
+msgctxt "646"
+msgid "－"
+msgstr ""
+
+msgctxt "649"
+msgid "注"
+msgstr ""
+
+msgctxt "652"
+msgid "（うむ、うまいな）"
+msgstr ""
+
+msgctxt "671"
+msgid "（いけるな）"
+msgstr ""
+
+msgctxt "684"
+msgid "（なかなかのものだな）"
+msgstr ""
+
+msgctxt "707"
+msgid "（うむ、なかなかだな）"
+msgstr ""
+
+msgctxt "730"
+msgid "（これは、いいな）"
+msgstr ""
+
+msgctxt "749"
+msgid "（うまいものだな）"
+msgstr ""
+
+msgctxt "768"
+msgid "（なかなか、いけるな）"
+msgstr ""
+
+msgctxt "791"
+msgid "（これは、なかなか……）"
+msgstr ""
+
+msgctxt "816"
+msgid "（こいつは、うまいぞ）"
+msgstr ""
+
+msgctxt "839"
+msgid "（ふむ、いけるな）"
+msgstr ""
+
+msgctxt "858"
+msgid "（う～ん……　イマイチだな……）"
+msgstr ""
+
+msgctxt "891"
+msgid "chair"
+msgstr ""
+
+msgctxt "897"
+msgid ""
+"お酒にすり下ろした山芋を入れたものです。\n"
+"滋養にいいとされ、病に効くといいます。"
+msgstr ""
+
+msgctxt "977"
+msgid ""
+"酒を造る時に出る酒粕から作られた飲み物です。\n"
+"優しい甘さがあって、栄養も豊富です。"
+msgstr ""
+
+msgctxt "1059"
+msgid ""
+"炊いた米を発酵させて作られた濁り酒です。\n"
+"悪酔いに気をつけて下さい。"
+msgstr ""
+
+msgctxt "1127"
+msgid ""
+"甘く煮た小豆に、餅を入れたものです。\n"
+"寒い時には腹の底から暖まりますよ。"
+msgstr ""
+
+msgctxt "1199"
+msgid ""
+"３種類の味が楽しめるお団子です。\n"
+"お米から作られるので腹持ちもいいですよ。"
+msgstr ""
+
+msgctxt "1273"
+msgid ""
+"飯に茶を注いだ、お手軽な食事です。\n"
+"時間が無い方に好評です。"
+msgstr ""
+
+msgctxt "1333"
+msgid ""
+"炊いた餅米を、あんこで包んだものです。\n"
+"１つでもかなり満腹感がありますよ。"
+msgstr ""
+
+msgctxt "1407"
+msgid ""
+"海草からとれる寒天を、細く麺状に切ったものです。\n"
+"醤油や酢で味付けしてあります。\n"
+"独特の食感が楽しめますよ。"
+msgstr ""
+
+msgctxt "1514"
+msgid ""
+"葛の根の粉を水で溶いて加熱したものです。\n"
+"麺の様に切って蜜を掛けてあります。\n"
+"つるつるした食感と薬効で重宝されています。"
+msgstr ""

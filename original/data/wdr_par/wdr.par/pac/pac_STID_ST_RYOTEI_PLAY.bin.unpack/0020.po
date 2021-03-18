@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3222"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3548"
+msgid "yujyo_yukaku_s_01_029"
+msgstr ""
+
+msgctxt "3570"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3576"
+msgid "yujyo_game_yukaku_shooting_yujyo_60"
+msgstr ""
+
+msgctxt "3612"
+msgid "F_ANA_TLK_sit_lp"
+msgstr ""
+
+msgctxt "3629"
+msgid "kaiwabgm_sub_happy_01"
+msgstr ""
+
+msgctxt "3651"
+msgid "kiryu_yukaku_s_01_023"
+msgstr ""
+
+msgctxt "3673"
+msgid "kiryu_yukaku_s_01_022"
+msgstr ""
+
+msgctxt "3695"
+msgid "yujyo_yukaku_s_01_003"
+msgstr ""
+
+msgctxt "3717"
+msgid "yujyo_yukaku_s_01_001"
+msgstr ""
+
+msgctxt "3739"
+msgid "F_ANA_SAK_seiza_B_lp"
+msgstr ""

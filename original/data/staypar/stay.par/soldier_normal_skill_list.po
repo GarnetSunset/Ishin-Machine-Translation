@@ -1,0 +1,1776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "SKILL_ENUM_0"
+msgid "N_DORYOKU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_1"
+msgid "N_YUKI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_2"
+msgid "N_MUBOU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_3"
+msgid "N_FUNTOU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_4"
+msgid "N_TOKKOU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_5"
+msgid "N_KYOUSYU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_6"
+msgid "N_MASURAO"
+msgstr ""
+
+msgctxt "SKILL_ENUM_7"
+msgid "N_KYOUSENSHI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_8"
+msgid "N_ASYURA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_9"
+msgid "N_SHIPPU_JINRAI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_10"
+msgid "N_IKKITOUSEN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_11"
+msgid "N_SHISHIFUNJIN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_12"
+msgid "N_SENSHINNOKAGO"
+msgstr ""
+
+msgctxt "SKILL_ENUM_13"
+msgid "N_BUTOU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_14"
+msgid "N_RANBU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_15"
+msgid "N_DAIRANBU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_16"
+msgid "N_ZANGEKI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_17"
+msgid "N_ZANTETSU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_18"
+msgid "N_AKUSOKUZAN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_19"
+msgid "N_SYAGEKI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_20"
+msgid "N_RENSYA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_21"
+msgid "N_SANRENSYA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_22"
+msgid "N_KOTE"
+msgstr ""
+
+msgctxt "SKILL_ENUM_23"
+msgid "N_KENKA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_24"
+msgid "N_KAKUTOUJYUTU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_25"
+msgid "N_KAENSHIN1"
+msgstr ""
+
+msgctxt "SKILL_ENUM_26"
+msgid "N_KAENSHIN2"
+msgstr ""
+
+msgctxt "SKILL_ENUM_27"
+msgid "N_KAENSHIN3"
+msgstr ""
+
+msgctxt "SKILL_ENUM_28"
+msgid "N_RAIDENSHIN1"
+msgstr ""
+
+msgctxt "SKILL_ENUM_29"
+msgid "N_RAIDENSHIN2"
+msgstr ""
+
+msgctxt "SKILL_ENUM_30"
+msgid "N_RAIDENSHIN3"
+msgstr ""
+
+msgctxt "SKILL_ENUM_31"
+msgid "N_SENKOUSHIN1"
+msgstr ""
+
+msgctxt "SKILL_ENUM_32"
+msgid "N_SENKOUSHIN2"
+msgstr ""
+
+msgctxt "SKILL_ENUM_33"
+msgid "N_SENKOUSHIN3"
+msgstr ""
+
+msgctxt "SKILL_ENUM_34"
+msgid "N_DOKUSEISHIN1"
+msgstr ""
+
+msgctxt "SKILL_ENUM_35"
+msgid "N_DOKUSEISHIN2"
+msgstr ""
+
+msgctxt "SKILL_ENUM_36"
+msgid "N_DOKUSEISHIN3"
+msgstr ""
+
+msgctxt "SKILL_ENUM_37"
+msgid "N_EIYUUGOUKETSU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_38"
+msgid "N_TENKAMUSOU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_39"
+msgid "N_BAKUENDAMA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_40"
+msgid "N_KIWAMI_BAKUENDAMA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_41"
+msgid "N_KAENDAMA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_42"
+msgid "N_KIWAMI_KAENDAMA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_43"
+msgid "N_DENGEKIDAMA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_44"
+msgid "N_KIWAMI_DENGEKIDAMA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_45"
+msgid "N_SENKOUDAMA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_46"
+msgid "N_KIWAMI_SENKOUDAMA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_47"
+msgid "N_DOKUGIRIDAMA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_48"
+msgid "N_KIWAMI_DOKUGIRIDAMA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_49"
+msgid "N_ISSEISYAGEKI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_50"
+msgid "N_KIWAMI_ISSEISYAGEKI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_51"
+msgid "N_DAITENTOU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_52"
+msgid "N_DAIKYOUFU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_53"
+msgid "N_HAISUINOJIN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_54"
+msgid "N_GAMAN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_55"
+msgid "N_KONJYOU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_56"
+msgid "N_NINTAI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_57"
+msgid "N_BOUGYO"
+msgstr ""
+
+msgctxt "SKILL_ENUM_58"
+msgid "N_BOUEI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_59"
+msgid "N_TEPPEKI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_60"
+msgid "N_IJYOUBU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_61"
+msgid "N_FUTAITEN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_62"
+msgid "N_NAMUZOU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_63"
+msgid "N_IFUDODO"
+msgstr ""
+
+msgctxt "SKILL_ENUM_64"
+msgid "N_NANKOFURAKU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_65"
+msgid "N_KINJYOUTEPPEKI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_66"
+msgid "N_BUSHINNOSYUGO"
+msgstr ""
+
+msgctxt "SKILL_ENUM_67"
+msgid "N_FUKUTSUNOTOUKON"
+msgstr ""
+
+msgctxt "SKILL_ENUM_68"
+msgid "N_KIZUGUSURI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_69"
+msgid "N_KUSURIBAKO"
+msgstr ""
+
+msgctxt "SKILL_ENUM_70"
+msgid "N_IYAKUSYA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_71"
+msgid "N_BUSHINNOJIHI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_72"
+msgid "N_TEATE"
+msgstr ""
+
+msgctxt "SKILL_ENUM_73"
+msgid "N_EISEIHEI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_74"
+msgid "N_YASENBYOUIN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_75"
+msgid "N_ISHINNOIBUKI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_76"
+msgid "N_SEIEN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_77"
+msgid "N_OUEN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_78"
+msgid "N_OUENKA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_79"
+msgid "N_GEKIREI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_80"
+msgid "N_KOBU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_81"
+msgid "N_KOUENTAI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_82"
+msgid "N_TETSUDAI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_83"
+msgid "N_HOJYO"
+msgstr ""
+
+msgctxt "SKILL_ENUM_84"
+msgid "N_HOJYOSYA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_85"
+msgid "N_SUKEDACHI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_86"
+msgid "N_ENGOSYAGEKI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_87"
+msgid "N_TOUSHINNOSIKI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_88"
+msgid "N_ENJYO"
+msgstr ""
+
+msgctxt "SKILL_ENUM_89"
+msgid "N_HOYOKU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_90"
+msgid "N_HOUSYOUKIN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_91"
+msgid "N_SYOUSHINNOONCHO"
+msgstr ""
+
+msgctxt "SKILL_ENUM_92"
+msgid "N_SHIEN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_93"
+msgid "N_DAISHIEN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_94"
+msgid "N_NETSURETSUSHIEN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_95"
+msgid "N_DAIGEKIDO"
+msgstr ""
+
+msgctxt "SKILL_ENUM_96"
+msgid "N_FUNDO"
+msgstr ""
+
+msgctxt "SKILL_ENUM_97"
+msgid "N_DOHATSUTEN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_98"
+msgid "N_DOHATSUSYOUTEN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_99"
+msgid "N_KISHINNOHOUKOU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_100"
+msgid "N_KAMIGAMINOSAITEN"
+msgstr ""
+
+msgctxt "SKILL_ENUM_101"
+msgid "N_UTSUSEMINOTOKEI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_102"
+msgid "N_KISEKI_NO_AIBU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_103"
+msgid "N_SHIKOU_NO_SHIATSU"
+msgstr ""
+
+msgctxt "SKILL_ENUM_104"
+msgid "N_KOTSUI_NO_KII"
+msgstr ""
+
+msgctxt "SKILL_ENUM_105"
+msgid "N_OTOKOGI_NO_SHINZUI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_106"
+msgid "N_SHIKISYA_NO_KOTODAMA"
+msgstr ""
+
+msgctxt "SKILL_ENUM_107"
+msgid "N_KITA_NO_DAIGOUREI"
+msgstr ""
+
+msgctxt "SKILL_ENUM_108"
+msgid "N_SHIHAN_SKILL"
+msgstr ""
+
+msgctxt "SKILL_NAME_0"
+msgid "努力"
+msgstr ""
+
+msgctxt "SKILL_NAME_1"
+msgid "勇気"
+msgstr ""
+
+msgctxt "SKILL_NAME_2"
+msgid "無謀"
+msgstr ""
+
+msgctxt "SKILL_NAME_3"
+msgid "奮闘"
+msgstr ""
+
+msgctxt "SKILL_NAME_4"
+msgid "特攻"
+msgstr ""
+
+msgctxt "SKILL_NAME_5"
+msgid "強襲"
+msgstr ""
+
+msgctxt "SKILL_NAME_6"
+msgid "益荒男"
+msgstr ""
+
+msgctxt "SKILL_NAME_7"
+msgid "狂戦士"
+msgstr ""
+
+msgctxt "SKILL_NAME_8"
+msgid "阿修羅"
+msgstr ""
+
+msgctxt "SKILL_NAME_9"
+msgid "疾風迅雷"
+msgstr ""
+
+msgctxt "SKILL_NAME_10"
+msgid "一騎当千"
+msgstr ""
+
+msgctxt "SKILL_NAME_11"
+msgid "獅子奮迅"
+msgstr ""
+
+msgctxt "SKILL_NAME_12"
+msgid "戦神ノ加護"
+msgstr ""
+
+msgctxt "SKILL_NAME_13"
+msgid "舞踏"
+msgstr ""
+
+msgctxt "SKILL_NAME_14"
+msgid "乱舞"
+msgstr ""
+
+msgctxt "SKILL_NAME_15"
+msgid "大乱舞"
+msgstr ""
+
+msgctxt "SKILL_NAME_16"
+msgid "斬撃"
+msgstr ""
+
+msgctxt "SKILL_NAME_17"
+msgid "斬鉄"
+msgstr ""
+
+msgctxt "SKILL_NAME_18"
+msgid "悪即斬"
+msgstr ""
+
+msgctxt "SKILL_NAME_19"
+msgid "射撃"
+msgstr ""
+
+msgctxt "SKILL_NAME_20"
+msgid "連射"
+msgstr ""
+
+msgctxt "SKILL_NAME_21"
+msgid "三連射"
+msgstr ""
+
+msgctxt "SKILL_NAME_22"
+msgid "篭手"
+msgstr ""
+
+msgctxt "SKILL_NAME_23"
+msgid "喧嘩"
+msgstr ""
+
+msgctxt "SKILL_NAME_24"
+msgid "格闘術"
+msgstr ""
+
+msgctxt "SKILL_NAME_25"
+msgid "炎師"
+msgstr ""
+
+msgctxt "SKILL_NAME_26"
+msgid "火炎師"
+msgstr ""
+
+msgctxt "SKILL_NAME_27"
+msgid "火炎大神"
+msgstr ""
+
+msgctxt "SKILL_NAME_28"
+msgid "雷師"
+msgstr ""
+
+msgctxt "SKILL_NAME_29"
+msgid "雷電師"
+msgstr ""
+
+msgctxt "SKILL_NAME_30"
+msgid "雷電大神"
+msgstr ""
+
+msgctxt "SKILL_NAME_31"
+msgid "光師"
+msgstr ""
+
+msgctxt "SKILL_NAME_32"
+msgid "閃光師"
+msgstr ""
+
+msgctxt "SKILL_NAME_33"
+msgid "閃光大神"
+msgstr ""
+
+msgctxt "SKILL_NAME_34"
+msgid "毒師"
+msgstr ""
+
+msgctxt "SKILL_NAME_35"
+msgid "毒性師"
+msgstr ""
+
+msgctxt "SKILL_NAME_36"
+msgid "毒性大神"
+msgstr ""
+
+msgctxt "SKILL_NAME_37"
+msgid "英雄豪傑"
+msgstr ""
+
+msgctxt "SKILL_NAME_38"
+msgid "天下無双"
+msgstr ""
+
+msgctxt "SKILL_NAME_39"
+msgid "爆炎玉"
+msgstr ""
+
+msgctxt "SKILL_NAME_40"
+msgid "極・爆炎玉"
+msgstr ""
+
+msgctxt "SKILL_NAME_41"
+msgid "火炎玉"
+msgstr ""
+
+msgctxt "SKILL_NAME_42"
+msgid "極・火炎玉"
+msgstr ""
+
+msgctxt "SKILL_NAME_43"
+msgid "電撃玉"
+msgstr ""
+
+msgctxt "SKILL_NAME_44"
+msgid "極・雷撃玉"
+msgstr ""
+
+msgctxt "SKILL_NAME_45"
+msgid "閃光玉"
+msgstr ""
+
+msgctxt "SKILL_NAME_46"
+msgid "極・閃光玉"
+msgstr ""
+
+msgctxt "SKILL_NAME_47"
+msgid "毒霧玉"
+msgstr ""
+
+msgctxt "SKILL_NAME_48"
+msgid "極・毒霧玉"
+msgstr ""
+
+msgctxt "SKILL_NAME_49"
+msgid "一斉射撃"
+msgstr ""
+
+msgctxt "SKILL_NAME_50"
+msgid "極・大射撃"
+msgstr ""
+
+msgctxt "SKILL_NAME_51"
+msgid "大転倒"
+msgstr ""
+
+msgctxt "SKILL_NAME_52"
+msgid "恐怖戦慄"
+msgstr ""
+
+msgctxt "SKILL_NAME_53"
+msgid "背水ノ陣"
+msgstr ""
+
+msgctxt "SKILL_NAME_54"
+msgid "我慢"
+msgstr ""
+
+msgctxt "SKILL_NAME_55"
+msgid "根性"
+msgstr ""
+
+msgctxt "SKILL_NAME_56"
+msgid "忍耐"
+msgstr ""
+
+msgctxt "SKILL_NAME_57"
+msgid "防御"
+msgstr ""
+
+msgctxt "SKILL_NAME_58"
+msgid "防衛"
+msgstr ""
+
+msgctxt "SKILL_NAME_59"
+msgid "鉄壁"
+msgstr ""
+
+msgctxt "SKILL_NAME_60"
+msgid "偉丈夫"
+msgstr ""
+
+msgctxt "SKILL_NAME_61"
+msgid "不退転"
+msgstr ""
+
+msgctxt "SKILL_NAME_62"
+msgid "南無三"
+msgstr ""
+
+msgctxt "SKILL_NAME_63"
+msgid "威風堂々"
+msgstr ""
+
+msgctxt "SKILL_NAME_64"
+msgid "難攻不落"
+msgstr ""
+
+msgctxt "SKILL_NAME_65"
+msgid "金城鉄壁"
+msgstr ""
+
+msgctxt "SKILL_NAME_66"
+msgid "武神ノ守護"
+msgstr ""
+
+msgctxt "SKILL_NAME_67"
+msgid "不屈ノ闘魂"
+msgstr ""
+
+msgctxt "SKILL_NAME_68"
+msgid "傷薬"
+msgstr ""
+
+msgctxt "SKILL_NAME_69"
+msgid "薬箱"
+msgstr ""
+
+msgctxt "SKILL_NAME_70"
+msgid "医薬者"
+msgstr ""
+
+msgctxt "SKILL_NAME_71"
+msgid "武神ノ慈悲"
+msgstr ""
+
+msgctxt "SKILL_NAME_72"
+msgid "手当"
+msgstr ""
+
+msgctxt "SKILL_NAME_73"
+msgid "衛生兵"
+msgstr ""
+
+msgctxt "SKILL_NAME_74"
+msgid "野戦病院"
+msgstr ""
+
+msgctxt "SKILL_NAME_75"
+msgid "医神ノ息吹"
+msgstr ""
+
+msgctxt "SKILL_NAME_76"
+msgid "声援"
+msgstr ""
+
+msgctxt "SKILL_NAME_77"
+msgid "応援"
+msgstr ""
+
+msgctxt "SKILL_NAME_78"
+msgid "応援歌"
+msgstr ""
+
+msgctxt "SKILL_NAME_79"
+msgid "激励"
+msgstr ""
+
+msgctxt "SKILL_NAME_80"
+msgid "鼓舞"
+msgstr ""
+
+msgctxt "SKILL_NAME_81"
+msgid "後援隊"
+msgstr ""
+
+msgctxt "SKILL_NAME_82"
+msgid "手伝"
+msgstr ""
+
+msgctxt "SKILL_NAME_83"
+msgid "補助"
+msgstr ""
+
+msgctxt "SKILL_NAME_84"
+msgid "補助者"
+msgstr ""
+
+msgctxt "SKILL_NAME_85"
+msgid "助太刀"
+msgstr ""
+
+msgctxt "SKILL_NAME_86"
+msgid "応援部隊"
+msgstr ""
+
+msgctxt "SKILL_NAME_87"
+msgid "闘神ノ士気"
+msgstr ""
+
+msgctxt "SKILL_NAME_88"
+msgid "援助"
+msgstr ""
+
+msgctxt "SKILL_NAME_89"
+msgid "補翼"
+msgstr ""
+
+msgctxt "SKILL_NAME_90"
+msgid "報奨金"
+msgstr ""
+
+msgctxt "SKILL_NAME_91"
+msgid "商神の恩寵"
+msgstr ""
+
+msgctxt "SKILL_NAME_92"
+msgid "支援"
+msgstr ""
+
+msgctxt "SKILL_NAME_93"
+msgid "大支援"
+msgstr ""
+
+msgctxt "SKILL_NAME_94"
+msgid "熱烈支援"
+msgstr ""
+
+msgctxt "SKILL_NAME_95"
+msgid "超絶激怒"
+msgstr ""
+
+msgctxt "SKILL_NAME_96"
+msgid "憤怒"
+msgstr ""
+
+msgctxt "SKILL_NAME_97"
+msgid "怒髪天"
+msgstr ""
+
+msgctxt "SKILL_NAME_98"
+msgid "怒髪衝天"
+msgstr ""
+
+msgctxt "SKILL_NAME_99"
+msgid "鬼神ノ咆哮"
+msgstr ""
+
+msgctxt "SKILL_NAME_100"
+msgid "神々ノ祭典"
+msgstr ""
+
+msgctxt "SKILL_NAME_101"
+msgid "空蝉ノ時計"
+msgstr ""
+
+msgctxt "SKILL_NAME_102"
+msgid "奇跡ノ愛撫"
+msgstr ""
+
+msgctxt "SKILL_NAME_103"
+msgid "至高ノ指圧"
+msgstr ""
+
+msgctxt "SKILL_NAME_104"
+msgid "虎墜ノ気位"
+msgstr ""
+
+msgctxt "SKILL_NAME_105"
+msgid "漢気ノ真髄"
+msgstr ""
+
+msgctxt "SKILL_NAME_106"
+msgid "識者ノ言霊"
+msgstr ""
+
+msgctxt "SKILL_NAME_107"
+msgid "北ノ大号令"
+msgstr ""
+
+msgctxt "SKILL_NAME_108"
+msgid "-"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_0"
+msgid ""
+"一定時間プレイヤーの\n"
+"攻撃力が上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_1"
+msgid ""
+"一定時間プレイヤーの\n"
+"攻撃力が上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_2"
+msgid ""
+"一定時間プレイヤーの\n"
+"攻撃力が上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_3"
+msgid ""
+"一定時間プレイヤーの\n"
+"攻撃力が上昇（特大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_4"
+msgid ""
+"一定時間プレイヤーの\n"
+"攻撃力が上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_5"
+msgid ""
+"一定時間プレイヤーの\n"
+"乱舞の型攻撃力が上昇\n"
+"（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_6"
+msgid ""
+"一定時間プレイヤーの\n"
+"乱舞の型攻撃力が上昇\n"
+"（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_7"
+msgid ""
+"一定時間プレイヤーの\n"
+"乱舞の型攻撃力が上昇\n"
+"（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_8"
+msgid ""
+"一定時間プレイヤーの\n"
+"一刀の型攻撃力が上昇\n"
+"（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_9"
+msgid ""
+"一定時間プレイヤーの\n"
+"一刀の型攻撃力が上昇\n"
+"（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_10"
+msgid ""
+"一定時間プレイヤーの\n"
+"一刀の型攻撃力が上昇\n"
+"（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_11"
+msgid ""
+"一定時間プレイヤーの\n"
+"短銃の型攻撃力が上昇\n"
+"（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_12"
+msgid ""
+"一定時間プレイヤーの\n"
+"短銃の型攻撃力が上昇\n"
+"（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_13"
+msgid ""
+"一定時間プレイヤーの\n"
+"短銃の型攻撃力が上昇\n"
+"（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_14"
+msgid ""
+"一定時間プレイヤーの\n"
+"格闘攻撃力上昇\n"
+"（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_15"
+msgid ""
+"一定時間プレイヤーの\n"
+"格闘攻撃力上昇\n"
+"（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_16"
+msgid ""
+"一定時間プレイヤーの\n"
+"格闘攻撃力上昇\n"
+"（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_17"
+msgid ""
+"一定時間炎属性の\n"
+"攻撃力上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_18"
+msgid ""
+"一定時間炎属性の\n"
+"攻撃力上昇（特大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_19"
+msgid ""
+"一定時間炎属性の\n"
+"攻撃力上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_20"
+msgid ""
+"一定時間雷属性の\n"
+"攻撃力上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_21"
+msgid ""
+"一定時間雷属性の\n"
+"攻撃力上昇（特大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_22"
+msgid ""
+"一定時間雷属性の\n"
+"攻撃力上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_23"
+msgid ""
+"一定時間閃属性の\n"
+"攻撃力上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_24"
+msgid ""
+"一定時間閃属性の\n"
+"攻撃力上昇（特大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_25"
+msgid ""
+"一定時間閃属性の\n"
+"攻撃力上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_26"
+msgid ""
+"一定時間毒属性の\n"
+"攻撃力上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_27"
+msgid ""
+"一定時間毒属性の\n"
+"攻撃力上昇（特大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_28"
+msgid ""
+"一定時間毒属性の\n"
+"攻撃力上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_29"
+msgid ""
+"一定時間プレイヤーは\n"
+"ガードブレイクを得る"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_30"
+msgid ""
+"短時間プレイヤーの\n"
+"攻撃力が飛躍的に上昇"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_31"
+msgid ""
+"爆発による\n"
+"範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_32"
+msgid ""
+"爆発による\n"
+"広範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_33"
+msgid ""
+"炎による\n"
+"範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_34"
+msgid ""
+"炎による\n"
+"広範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_35"
+msgid ""
+"電撃による\n"
+"範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_36"
+msgid ""
+"電撃による\n"
+"広範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_37"
+msgid ""
+"閃光による\n"
+"範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_38"
+msgid ""
+"閃光による\n"
+"広範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_39"
+msgid ""
+"毒霧による\n"
+"範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_40"
+msgid ""
+"毒霧による\n"
+"広範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_41"
+msgid ""
+"射撃による\n"
+"範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_42"
+msgid ""
+"射撃による\n"
+"広範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_43"
+msgid ""
+"あたり一面に\n"
+"ヌルヌルが広がる"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_44"
+msgid "敵が一斉に怯える"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_45"
+msgid ""
+"プレイヤーの体力を\n"
+"１に減少させて長時間\n"
+"攻撃力上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_46"
+msgid ""
+"一定時間プレイヤーの\n"
+"防御力が上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_47"
+msgid ""
+"一定時間プレイヤーの\n"
+"防御力が上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_48"
+msgid ""
+"一定時間プレイヤーの\n"
+"防御力が上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_49"
+msgid ""
+"一定時間プレイヤーの\n"
+"防御力が上昇（特大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_50"
+msgid ""
+"一定時間プレイヤーの\n"
+"防御力が上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_51"
+msgid ""
+"一定時間プレイヤーは\n"
+"怯まない"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_52"
+msgid ""
+"プレイヤーの\n"
+"体力を小回復"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_53"
+msgid ""
+"プレイヤーの\n"
+"体力を中回復"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_54"
+msgid ""
+"プレイヤーの\n"
+"体力を大回復"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_55"
+msgid ""
+"プレイヤーの\n"
+"体力を極大回復"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_56"
+msgid ""
+"一定時間プレイヤーの\n"
+"体力を自動回復（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_57"
+msgid ""
+"一定時間プレイヤーの\n"
+"体力を自動回復（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_58"
+msgid ""
+"一定時間プレイヤーの\n"
+"体力を自動回復（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_59"
+msgid ""
+"一定時間プレイヤーの\n"
+"体力を自動回復\n"
+"（極大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_60"
+msgid ""
+"長時間攻撃隊士の\n"
+"能力効果が上昇\n"
+"（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_61"
+msgid ""
+"長時間攻撃隊士の\n"
+"能力効果が上昇\n"
+"（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_62"
+msgid ""
+"長時間攻撃隊士の\n"
+"能力効果が上昇\n"
+"（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_63"
+msgid ""
+"長時間守備隊士の\n"
+"能力効果が上昇\n"
+"（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_64"
+msgid ""
+"長時間守備隊士の\n"
+"能力効果が上昇\n"
+"（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_65"
+msgid ""
+"長時間守備隊士の\n"
+"能力効果が上昇\n"
+"（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_66"
+msgid ""
+"長時間衛生隊士の\n"
+"能力効果が上昇\n"
+"（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_67"
+msgid ""
+"長時間衛生隊士の\n"
+"能力効果が上昇\n"
+"（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_68"
+msgid ""
+"長時間衛生隊士の\n"
+"能力効果が上昇\n"
+"（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_69"
+msgid ""
+"長時間全ての\n"
+"能力効果が上昇\n"
+"（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_70"
+msgid ""
+"長時間全ての\n"
+"能力効果が上昇\n"
+"（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_71"
+msgid ""
+"長時間全ての\n"
+"能力効果が上昇\n"
+"（極大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_72"
+msgid ""
+"全隊士の能力を\n"
+"小充填"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_73"
+msgid ""
+"全隊士の能力を\n"
+"中充填"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_74"
+msgid ""
+"全隊士の能力を\n"
+"大充填"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_75"
+msgid ""
+"全隊士の能力を\n"
+"極大充填"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_76"
+msgid ""
+"一定時間全隊士の\n"
+"充填速度上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_77"
+msgid ""
+"一定時間全隊士の\n"
+"充填速度上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_78"
+msgid ""
+"一定時間全隊士の\n"
+"充填速度上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_79"
+msgid ""
+"プレイヤーの闘気を\n"
+"極大充填"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_80"
+msgid ""
+"長時間プレイヤーの\n"
+"闘気を充填（小）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_81"
+msgid ""
+"長時間プレイヤーの\n"
+"闘気を充填（中）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_82"
+msgid ""
+"長時間プレイヤーの\n"
+"闘気を充填（大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_83"
+msgid ""
+"長時間プレイヤーの\n"
+"闘気を充填（極大）"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_84"
+msgid ""
+"全ての敵が凶暴化\n"
+"または死亡する"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_85"
+msgid ""
+"短時間すべての敵の\n"
+"動きが止まる"
+msgstr ""
+
+msgctxt "SKILL_DETAIL_86"
+msgid "-"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_0"
+msgid "攻撃力が上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_1"
+msgid "攻撃力が上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_2"
+msgid "攻撃力が上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_3"
+msgid "攻撃力が上昇（特大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_4"
+msgid "攻撃力が上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_5"
+msgid "乱舞の型攻撃力が上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_6"
+msgid "乱舞の型攻撃力が上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_7"
+msgid "乱舞の型攻撃力が上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_8"
+msgid "一刀の型攻撃力が上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_9"
+msgid "一刀の型攻撃力が上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_10"
+msgid "一刀の型攻撃力が上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_11"
+msgid "短銃の型攻撃力が上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_12"
+msgid "短銃の型攻撃力が上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_13"
+msgid "短銃の型攻撃力が上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_14"
+msgid "格闘攻撃力上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_15"
+msgid "格闘攻撃力上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_16"
+msgid "格闘攻撃力上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_17"
+msgid "炎属性の攻撃力上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_18"
+msgid "炎属性の攻撃力上昇（特大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_19"
+msgid "炎属性の攻撃力上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_20"
+msgid "雷属性の攻撃力上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_21"
+msgid "雷属性の攻撃力上昇（特大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_22"
+msgid "雷属性の攻撃力上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_23"
+msgid "閃属性の攻撃力上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_24"
+msgid "閃属性の攻撃力上昇（特大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_25"
+msgid "閃属性の攻撃力上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_26"
+msgid "毒属性の攻撃力上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_27"
+msgid "毒属性の攻撃力上昇（特大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_28"
+msgid "毒属性の攻撃力上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_29"
+msgid "ガードブレイクを得る"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_30"
+msgid "短時間、攻撃力が飛躍的に上昇"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_31"
+msgid "爆発による範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_32"
+msgid "爆発による広範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_33"
+msgid "炎による範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_34"
+msgid "炎による広範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_35"
+msgid "電撃による範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_36"
+msgid "電撃による広範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_37"
+msgid "閃光による範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_38"
+msgid "閃光による広範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_39"
+msgid "毒霧による範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_40"
+msgid "毒霧による広範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_41"
+msgid "射撃による範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_42"
+msgid "射撃による広範囲攻撃"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_43"
+msgid "禁断の能力"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_44"
+msgid "敵が一斉に怯える"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_45"
+msgid "体力が１になり攻撃力上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_46"
+msgid "防御力が上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_47"
+msgid "防御力が上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_48"
+msgid "防御力が上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_49"
+msgid "防御力が上昇（特大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_50"
+msgid "防御力が上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_51"
+msgid "プレイヤーは怯まない"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_52"
+msgid "体力を小回復"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_53"
+msgid "体力を中回復"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_54"
+msgid "体力を大回復"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_55"
+msgid "体力を極大回復"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_56"
+msgid "体力を自動回復（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_57"
+msgid "体力を自動回復（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_58"
+msgid "体力を自動回復（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_59"
+msgid "体力を自動回復（極大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_60"
+msgid "攻撃隊士の能力効果が上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_61"
+msgid "攻撃隊士の能力効果が上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_62"
+msgid "攻撃隊士の能力効果が上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_63"
+msgid "守備隊士の能力効果が上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_64"
+msgid "守備隊士の能力効果が上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_65"
+msgid "守備隊士の能力効果が上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_66"
+msgid "衛生隊士の能力効果が上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_67"
+msgid "衛生隊士の能力効果が上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_68"
+msgid "衛生隊士の能力効果が上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_69"
+msgid "全ての能力効果が上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_70"
+msgid "全ての能力効果が上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_71"
+msgid "全ての能力効果が上昇（極大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_72"
+msgid "全隊士の能力を小充填"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_73"
+msgid "全隊士の能力を中充填"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_74"
+msgid "全隊士の能力を大充填"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_75"
+msgid "全隊士の能力を極大充填"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_76"
+msgid "全隊士の充填速度上昇（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_77"
+msgid "全隊士の充填速度上昇（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_78"
+msgid "全隊士の充填速度上昇（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_79"
+msgid "闘気を極大充填"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_80"
+msgid "闘気を充填（小）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_81"
+msgid "闘気を充填（中）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_82"
+msgid "闘気を充填（大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_83"
+msgid "闘気を充填（極大）"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_84"
+msgid "敵が凶暴化または死亡する"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_85"
+msgid "すべての敵の動きが止まる"
+msgstr ""
+
+msgctxt "SKILL_USE_MESSAGE_86"
+msgid "-"
+msgstr ""

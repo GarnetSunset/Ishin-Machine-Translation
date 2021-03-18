@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "882144"
+msgid "永倉さんと渡り合ってやがる"
+msgstr ""
+
+msgctxt "882288"
+msgid "何モンだあいつぁ？"
+msgstr ""
+
+msgctxt "882432"
+msgid ""
+"俺の天念理心流の攻撃を受けても\n"
+"死なん奴がおるとはな"
+msgstr ""
+
+msgctxt "882576"
+msgid ""
+"お前なら\n"
+"ここでも生き抜くかも知れへん"
+msgstr ""
+
+msgctxt "882720"
+msgid "何を言ってる"
+msgstr ""
+
+msgctxt "882864"
+msgid "合格や"
+msgstr ""
+
+msgctxt "883008"
+msgid "まだ一本取ってないが？"
+msgstr ""
+
+msgctxt "883152"
+msgid ""
+"金や権力に釣られただけの\n"
+"半端な腕やったら無駄に死ぬだけや"
+msgstr ""
+
+msgctxt "883296"
+msgid "せやけどお前はちゃう"
+msgstr ""
+
+msgctxt "883440"
+msgid "新選組におっても　生き残るだけの力がある"
+msgstr ""
+
+msgctxt "883584"
+msgid ""
+"それを見極めるために\n"
+"こんな荒っぽい入隊試験をしてるってわけか"
+msgstr ""
+
+msgctxt "883728"
+msgid ""
+"新選組は強ないとアカンねや\n"
+"強う無い奴は遅かれ早かれ殺される"
+msgstr ""
+
+msgctxt "883872"
+msgid ""
+"強い奴だけが生き残れる場所\n"
+"そういうとこなんや"
+msgstr ""
+
+msgctxt "884016"
+msgid "で　俺の天念理心流はどうやったんや"
+msgstr ""
+
+msgctxt "884160"
+msgid "期待に応えることはできたんかい"
+msgstr ""
+
+msgctxt "884304"
+msgid "相当な腕前だな"
+msgstr ""
+
+msgctxt "884448"
+msgid ""
+"だが\n"
+"アンタの剣筋には殺意が無い"
+msgstr ""
+
+msgctxt "884592"
+msgid "俺が探していたもんじゃない"
+msgstr ""
+
+msgctxt "884736"
+msgid "ん？"
+msgstr ""
+
+msgctxt "884880"
+msgid "いや気にしないでくれ　独り言だ"
+msgstr ""
+
+msgctxt "885024"
+msgid "新選組に入ったからには……"
+msgstr ""
+
+msgctxt "885168"
+msgid ""
+"もっといろんな古参幹部連中に\n"
+"剣の稽古をつけてもらわないとな"
+msgstr ""
+
+msgctxt "885312"
+msgid "名前は？"
+msgstr ""
+
+msgctxt "885456"
+msgid "斎藤一だ"
+msgstr ""
+
+msgctxt "885600"
+msgid "斎藤か"
+msgstr ""
+
+msgctxt "885744"
+msgid "取って付けたような名前やな"
+msgstr ""
+
+msgctxt "885888"
+msgid "歓迎するで"
+msgstr ""
+
+msgctxt "886032"
+msgid "新選組はいつから青春活劇の舞台になったんや？"
+msgstr ""
+
+msgctxt "886176"
+msgid ""
+"甘いなぁ～　新八っちゃん\n"
+"アマアマや！"
+msgstr ""
+
+msgctxt "886320"
+msgid "総司！"
+msgstr ""
+
+msgctxt "886464"
+msgid "総司って　あの？"
+msgstr ""
+
+msgctxt "886608"
+msgid "せや　ワシが“あの”……"
+msgstr ""
+
+msgctxt "886752"
+msgid "一番隊隊長　沖田総司や"
+msgstr ""
+
+msgctxt "886896"
+msgid "聞いてた噂とずいぶん違うんだな"
+msgstr ""
+
+msgctxt "887040"
+msgid "あ？"
+msgstr ""
+
+msgctxt "887184"
+msgid "そのツラのどこが美少年だ"
+msgstr ""
+
+msgctxt "887328"
+msgid "ほう　今度の新入りは目ぇが悪いのぉ"
+msgstr ""
+
+msgctxt "887472"
+msgid "試験はもっと厳しくせなぁあかんでぇ？"
+msgstr ""
+
+msgctxt "887616"
+msgid "そないなことしてたら全員死んでしまうやろ"
+msgstr ""
+
+msgctxt "887760"
+msgid ""
+"これは入隊試験なんや\n"
+"実力が分かればそれでええ"
+msgstr ""
+
+msgctxt "887904"
+msgid "そうかいなぁ　ホンマの実力ってのは……"
+msgstr ""
+
+msgctxt "888048"
+msgid "もっと追い込んでから分かるもんちゃうか？"
+msgstr ""
+
+msgctxt "888192"
+msgid "それをやった結果が　その血の羽織やろ"
+msgstr ""
+
+msgctxt "888336"
+msgid "俺には人を斬る趣味はない"
+msgstr ""
+
+msgctxt "888480"
+msgid "何をアホなことを抜かしとんのや"
+msgstr ""
+
+msgctxt "888624"
+msgid "刀は人を斬るためにあるもんや"
+msgstr ""
+
+msgctxt "888768"
+msgid "人が斬りとうて斬りとうてしゃぁない……"
+msgstr ""
+
+msgctxt "888912"
+msgid "それが剣士の本音なんちゃうか？"
+msgstr ""
+
+msgctxt "889056"
+msgid "俺は近藤局長の理想を実現したいだけや"
+msgstr ""
+
+msgctxt "889200"
+msgid "そうか"
+msgstr ""
+
+msgctxt "889344"
+msgid "せやけど　こないな上物……"
+msgstr ""
+
+msgctxt "889488"
+msgid "ワシやったら絶対……"
+msgstr ""
+
+msgctxt "889632"
+msgid "もっと追いつめるんやけどなぁ！！"
+msgstr ""
+
+msgctxt "889776"
+msgid "ほぅ　やるやないか"
+msgstr ""
+
+msgctxt "889920"
+msgid "何をやっとるんや！　もう試験は終わったんやぞ！"
+msgstr ""
+
+msgctxt "890064"
+msgid ""
+"ええやないか\n"
+"ちょっとや　ちょっと"
+msgstr ""
+
+msgctxt "890208"
+msgid "兄ちゃん……"
+msgstr ""
+
+msgctxt "890352"
+msgid "ワシの理心流は　一味ちゃうで"
+msgstr ""
+
+msgctxt "890496"
+msgid "そうか"
+msgstr ""
+
+msgctxt "890640"
+msgid "是非味わってみたいもんだな"
+msgstr ""
+
+msgctxt "890784"
+msgid "アカン！　やめろ総司！！"
+msgstr ""
+
+msgctxt "890928"
+msgid "ワシの勝ちやな"
+msgstr ""
+
+msgctxt "891072"
+msgid "引き分けや"
+msgstr ""
+
+msgctxt "891216"
+msgid "あぁ？"
+msgstr ""
+
+msgctxt "891360"
+msgid "お前……"
+msgstr ""
+
+msgctxt "891504"
+msgid "どうや　納得いったか総司"
+msgstr ""
+
+msgctxt "891648"
+msgid "何モンや　こいつ"
+msgstr ""
+
+msgctxt "891792"
+msgid "そこまでだ"
+msgstr ""
+
+msgctxt "891936"
+msgid "副長"
+msgstr ""
+
+msgctxt "892080"
+msgid "新選組副長の土方歳三と申します"
+msgstr ""
+
+msgctxt "892224"
+msgid "斎藤一さんですね"
+msgstr ""
+
+msgctxt "892368"
+msgid "ああ"
+msgstr ""
+
+msgctxt "892512"
+msgid ""
+"永倉との試験試合\n"
+"そしてこの狂犬とのやりとり……"
+msgstr ""
+
+msgctxt "892656"
+msgid "一部始終拝見させていただきました"
+msgstr ""
+
+msgctxt "892800"
+msgid ""
+"そこであなたに\n"
+"折り入ってお話ししたいことがある"
+msgstr ""
+
+msgctxt "892944"
+msgid "何だ"
+msgstr ""
+
+msgctxt "893088"
+msgid "このような場所ではなんです"
+msgstr ""
+
+msgctxt "893232"
+msgid ""
+"今晩　祗園の椿楼（つばきろう）という料亭で\n"
+"お会いしませんか？　２人きりで"
+msgstr ""
+
+msgctxt "893376"
+msgid "分かった"
+msgstr ""
+
+msgctxt "893520"
+msgid "それでは後ほど"
+msgstr ""

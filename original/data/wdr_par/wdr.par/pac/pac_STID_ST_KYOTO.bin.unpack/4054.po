@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "692"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "693"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "694"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "695"
+msgid "よし、手紙を配った。"
+msgstr ""
+
+msgctxt "716"
+msgid "この人には配達済だったな……"
+msgstr ""
+
+msgctxt "756"
+msgid "配達先"
+msgstr ""
+
+msgctxt "763"
+msgid "Player"
+msgstr ""

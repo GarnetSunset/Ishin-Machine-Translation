@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "668"
+msgid "－"
+msgstr ""
+
+msgctxt "671"
+msgid "所持数"
+msgstr ""
+
+msgctxt "678"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "703"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "736"
+msgid "おおきに。%sになります。"
+msgstr ""
+
+msgctxt "761"
+msgid "（持ち物が一杯だな……）"
+msgstr ""
+
+msgctxt "786"
+msgid "（売り切れのようだ……）"
+msgstr ""
+
+msgctxt "811"
+msgid "（これは既に持っているな……）"
+msgstr ""
+
+msgctxt "842"
+msgid "所持品"
+msgstr ""
+
+msgctxt "849"
+msgid "詳細"
+msgstr ""
+
+msgctxt "854"
+msgid "商品"
+msgstr ""
+
+msgctxt "859"
+msgid "<Sign:1>前へ"
+msgstr ""
+
+msgctxt "872"
+msgid "<Sign:1>次へ %d/%d"
+msgstr ""
+
+msgctxt "891"
+msgid "－"
+msgstr ""
+
+msgctxt "894"
+msgid "注"
+msgstr ""
+
+msgctxt "897"
+msgid "アユやな。塩焼きで食うとうまいで。"
+msgstr ""
+
+msgctxt "932"
+msgid ""
+"イカやね。\n"
+"焼いて良し、煮て良し、刺身でも良しや。"
+msgstr ""
+
+msgctxt "982"
+msgid ""
+"ウナギや。川魚やけど脂が多くて、\n"
+"蒲焼きで食うとうまいで。"
+msgstr ""
+
+msgctxt "1040"
+msgid ""
+"エレキナマズやで。川や沼とか、汚れた水場でも\n"
+"生息できる魚やね。興奮するとエレキを放つで。"
+msgstr ""
+
+msgctxt "1130"
+msgid ""
+"カワハギや。簡単に皮がはがせる魚やね。\n"
+"肝や身はうまくて、色々な料理の素材になるで。"
+msgstr ""
+
+msgctxt "1214"
+msgid ""
+"クルマエビや。湾の底に生息する大型のエビで、\n"
+"高級食材として取り扱われとるで。"
+msgstr ""
+
+msgctxt "1292"
+msgid "タコや。さっと茹でて、ぶつ切りで食うてみ。"
+msgstr ""
+
+msgctxt "1335"
+msgid ""
+"アナゴやで。夜に活動する細長い魚や。\n"
+"海底の穴に生息するのが、その名の由来らしいな。"
+msgstr ""
+
+msgctxt "1419"
+msgid ""
+"捨てる所が無いほど食用に向く魚や。\n"
+"トゲには毒があるので要注意やで。"
+msgstr ""
+
+msgctxt "1487"
+msgid ""
+"ヒラメとは逆に、右に目が寄ってるんや。\n"
+"白身魚で煮物にするとうまいで。"
+msgstr ""
+
+msgctxt "1557"
+msgid ""
+"亀の一種やな。一度食らいつくと、雷が鳴るまで\n"
+"離さないといわれる、凶暴なやつや。"
+msgstr ""
+
+msgctxt "1637"
+msgid ""
+"ニジマスや。サケの仲間やね。\n"
+"日本ではあまり見かけない、外国から来た魚や。"
+msgstr ""
+
+msgctxt "1711"
+msgid "サケや。煮付けでも、汁にしてもうまいで。"
+msgstr ""
+
+msgctxt "1752"
+msgid ""
+"マダイや。\n"
+"尾頭付きやから、祝い事にも使えるで。"
+msgstr ""
+
+msgctxt "1800"
+msgid ""
+"なかなか見る事が出来ない珍しい魚やで。\n"
+"かなり大型のものもいるらしいな。"
+msgstr ""

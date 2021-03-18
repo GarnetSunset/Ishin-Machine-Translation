@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "377768"
+msgid "くそっ！！"
+msgstr ""
+
+msgctxt "377912"
+msgid ""
+"あ？\n"
+"おぉ　もう１匹来たか"
+msgstr ""
+
+msgctxt "378056"
+msgid "今日は大漁だな　こりゃ後で掃除が大変だ"
+msgstr ""
+
+msgctxt "378200"
+msgid ""
+"終わりや\n"
+"早よ医者にかかった方がええ"
+msgstr ""
+
+msgctxt "378344"
+msgid "命は助かるやろ"
+msgstr ""
+
+msgctxt "378488"
+msgid "次は誰や"
+msgstr ""
+
+msgctxt "378632"
+msgid ""
+"野良犬とはよく言ったもんだな\n"
+"心配になってきたぜ"
+msgstr ""
+
+msgctxt "378776"
+msgid "半端な腕やから切り落としたまでや"
+msgstr ""
+
+msgctxt "378920"
+msgid "あんたも心配なんやったら　帰った方がええ"
+msgstr ""
+
+msgctxt "379064"
+msgid "俺が心配してるのは"
+msgstr ""
+
+msgctxt "379208"
+msgid "あんたを斬っちまうと不合格なのかってことだ"
+msgstr ""
+
+msgctxt "379352"
+msgid "心配すな　そん時は文句なしで合格や"
+msgstr ""
+
+msgctxt "379496"
+msgid "ついでに　二番隊隊長の席も譲ったる"
+msgstr ""
+
+msgctxt "379640"
+msgid "二番隊隊長？"
+msgstr ""
+
+msgctxt "379784"
+msgid "俺の席や"
+msgstr ""
+
+msgctxt "379928"
+msgid "新選組二番隊隊長　永倉新八"
+msgstr ""
+
+msgctxt "380072"
+msgid "二番隊隊長の永倉……"
+msgstr ""
+
+msgctxt "380216"
+msgid ""
+"俺から一本取れば合格や\n"
+"武器は何使うても構わん"
+msgstr ""
+
+msgctxt "380360"
+msgid ""
+"とにかく相手に勝てばええ\n"
+"流派も武器も関係なし"
+msgstr ""
+
+msgctxt "380504"
+msgid "それが新選組っちゅうところや"
+msgstr ""
+
+msgctxt "380648"
+msgid "さあ　いつでもええ"
+msgstr ""
+
+msgctxt "380792"
+msgid "かかってこい"
+msgstr ""
+
+msgctxt "380936"
+msgid "その前にひとつ確認しておきたい"
+msgstr ""
+
+msgctxt "381080"
+msgid "何や"
+msgstr ""
+
+msgctxt "381224"
+msgid "あんた　新選組にはもう長いのか？"
+msgstr ""
+
+msgctxt "381368"
+msgid "ああ　結成前からの付き合いや"
+msgstr ""
+
+msgctxt "381512"
+msgid "それがどないした"
+msgstr ""
+
+msgctxt "381656"
+msgid "つまりアンタは新選組の古参幹部……"
+msgstr ""
+
+msgctxt "381800"
+msgid "「天念理心流」の使い手ってわけだな"
+msgstr ""
+
+msgctxt "381944"
+msgid ""
+"なんや　目的は新選組やのうて\n"
+"道場破りっちゅうことか"
+msgstr ""
+
+msgctxt "382088"
+msgid ""
+"そんなことはない\n"
+"ただ確認したかっただけだ"
+msgstr ""
+
+msgctxt "382232"
+msgid "そうか"
+msgstr ""
+
+msgctxt "382376"
+msgid "試験なんぞで出す気はなかったが……"
+msgstr ""
+
+msgctxt "382520"
+msgid "あんたには“こっち”の構えで相手したるわ"
+msgstr ""
+
+msgctxt "382664"
+msgid "これが　天念理心流……"
+msgstr ""
+
+msgctxt "382808"
+msgid "覚悟はええな？"
+msgstr ""
+
+msgctxt "382952"
+msgid "ああ"
+msgstr ""

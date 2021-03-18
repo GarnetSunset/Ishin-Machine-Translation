@@ -1,0 +1,640 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "10912"
+msgid ""
+"１年前に吉田東洋暗殺の濡れ衣を着せられて脱藩……\n"
+"その後天念理心流の使い手を追って京に潜伏。"
+msgstr ""
+
+msgctxt "11005"
+msgid "その坂本龍馬って男が今のあんただ。"
+msgstr ""
+
+msgctxt "11040"
+msgid ""
+"だとすりゃ長崎で英国の武器商人と取引している\n"
+"坂本龍馬は「ニセモノ」ってことになる。\n"
+"だよな？"
+msgstr ""
+
+msgctxt "11135"
+msgid "お話の意味がわかりかねます。"
+msgstr ""
+
+msgctxt "11164"
+msgid ""
+"そうかい……\n"
+"ま、こっちから先に腹割ってやらねえと\n"
+"あんたも話しづれえやな。"
+msgstr ""
+
+msgctxt "11241"
+msgid ""
+"まずは安心してくれていい。\n"
+"あんたの正体は俺の胸にしまっておく。"
+msgstr ""
+
+msgctxt "11306"
+msgid ""
+"新選組としてあんたを粛清しようって話じゃねえ。\n"
+"それだけは分かってくれ。"
+msgstr ""
+
+msgctxt "11379"
+msgid "…………"
+msgstr ""
+
+msgctxt "11388"
+msgid ""
+"単刀直入に言やあよ……\n"
+"俺はあんたの腕を高く買っててね。"
+msgstr ""
+
+msgctxt "11445"
+msgid ""
+"別にあんたが坂本龍馬でも斎藤一でもかまわねんだ。\n"
+"ただ、俺のある計画に乗ってもらいてえとは\n"
+"思ってる。"
+msgstr ""
+
+msgctxt "11548"
+msgid "ある計画？"
+msgstr ""
+
+msgctxt "11559"
+msgid ""
+"ああ……\n"
+"日本の都を、京から江戸へ遷す。"
+msgstr ""
+
+msgctxt "11600"
+msgid "江戸遷都計画だ。"
+msgstr ""
+
+msgctxt "11617"
+msgid "江戸遷都計画だと？"
+msgstr ""
+
+msgctxt "11636"
+msgid ""
+"フッ、夢みてぇな話だろ!?\n"
+"だがこりゃ至って真面目な計画だ。"
+msgstr ""
+
+msgctxt "11695"
+msgid ""
+"俺はよぅ、これが最終的にこの日本を救う\n"
+"“唯一の道”だと信じている。"
+msgstr ""
+
+msgctxt "11764"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11765"
+msgid ""
+"この国を救うために肝心なのはな……\n"
+"勤王志士が目指す大規模な倒幕戦争を\n"
+"起こさせねぇことだ。"
+msgstr ""
+
+msgctxt "11858"
+msgid ""
+"このまま放っておきゃいずれ\n"
+"日本中を巻き込んだ倒幕戦争が起きる。"
+msgstr ""
+
+msgctxt "11923"
+msgid ""
+"だが連中が幕府を倒せたとして、\n"
+"そのとき内戦で疲弊しきった日本人に\n"
+"アメリカやイギリスと戦う力はもう残らねえ。"
+msgstr ""
+
+msgctxt "12034"
+msgid ""
+"するとどうなる？\n"
+"異国の白人連中は１発の銃も撃たずに\n"
+"日本を手に入れられるかもな。"
+msgstr ""
+
+msgctxt "12117"
+msgid "江戸に遷都すればそうはならねえのか？"
+msgstr ""
+
+msgctxt "12154"
+msgid ""
+"ああ。ただしその前に……\n"
+"京を焼き、御所に刺客を放って朝廷を滅ぼす。"
+msgstr ""
+
+msgctxt "12223"
+msgid ""
+"なんだと……!?\n"
+"じゃああんたは池田屋事件の時の連中と\n"
+"同じことをしようとしてるのか。"
+msgstr ""
+
+msgctxt "12308"
+msgid "へへ。アレと一緒にされたら困るね。"
+msgstr ""
+
+msgctxt "12343"
+msgid "俺は、帝をさらうようなマネはしねぇ。"
+msgstr ""
+
+msgctxt "12380"
+msgid ""
+"要は、帝が朝廷にも幕府にも属さない……\n"
+"政治とは別の存在にならなきゃならねぇ\n"
+"ってコトだ。"
+msgstr ""
+
+msgctxt "12471"
+msgid "別の存在？"
+msgstr ""
+
+msgctxt "12482"
+msgid ""
+"そもそもこの国が勤王と幕府でぶつかってんのも、\n"
+"すべてはどっちが偉いのか分かりにくいって話さ。"
+msgstr ""
+
+msgctxt "12577"
+msgid ""
+"だから俺は\n"
+"その概念ごとぶっ潰してやろうとおもってんのよ。"
+msgstr ""
+
+msgctxt "12636"
+msgid "それが京の街を焼き払うことなのか。"
+msgstr ""
+
+msgctxt "12671"
+msgid ""
+"そうよ。京の街は朝廷という権力の象徴だ。\n"
+"だがこの国を仕切ってるのは江戸の幕府だ。\n"
+"これがややこしい。"
+msgstr ""
+
+msgctxt "12774"
+msgid "ならいっそ、どっちかを無くしゃスッキリする。"
+msgstr ""
+
+msgctxt "12819"
+msgid ""
+"あんた、自分がなにを言ってるのか\n"
+"わかっているのか？"
+msgstr ""
+
+msgctxt "12872"
+msgid ""
+"もちろんだ。だが朝廷がなくなり、京が焼ければ、\n"
+"帝も致し方なく江戸へ遷られる。"
+msgstr ""
+
+msgctxt "12951"
+msgid ""
+"そのとき帝が住む江戸、それを仕切る幕府に\n"
+"勤王志士どもが入り込む余地はねえ。"
+msgstr ""
+
+msgctxt "13028"
+msgid "……"
+msgstr ""
+
+msgctxt "13033"
+msgid ""
+"早い話、日本って国の中枢をひとところに\n"
+"集めるんだよ。それが一番分かりやすい。"
+msgstr ""
+
+msgctxt "13112"
+msgid ""
+"だが朝廷を滅ぼせば……\n"
+"それこそ幕府は日本中の武士に報復される。"
+msgstr ""
+
+msgctxt "13177"
+msgid ""
+"だからそうならねえように、\n"
+"誰が京の街を焼き払ったのか分からねぇようにする\n"
+"必要があるのさ。"
+msgstr ""
+
+msgctxt "13270"
+msgid ""
+"そして、それが出来るのは\n"
+"「選ばれし」能力をもった男たちのみだ……"
+msgstr ""
+
+msgctxt "13337"
+msgid "それは、まさか……"
+msgstr ""
+
+msgctxt "13356"
+msgid ""
+"そうよ。\n"
+"俺はその計画のために「新選組」を作ったんだよ。"
+msgstr ""
+
+msgctxt "13413"
+msgid ""
+"京を滅ぼすのに必要な精鋭を集め、\n"
+"選別するためにな。"
+msgstr ""
+
+msgctxt "13466"
+msgid ""
+"もっとも……\n"
+"まだこの計画を知ってるのは\n"
+"ほんの一握りの幹部だけだ。"
+msgstr ""
+
+msgctxt "13535"
+msgid "だったら、なぜ俺に計画のことを話した……？"
+msgstr ""
+
+msgctxt "13578"
+msgid ""
+"俺ぁアンタの腕を買ってるって言ったろ。\n"
+"それにお前さんとならよ、取引できると思ってな。"
+msgstr ""
+
+msgctxt "13665"
+msgid ""
+"俺との取引？\n"
+"……何のことだ？"
+msgstr ""
+
+msgctxt "13696"
+msgid ""
+"吉田東洋を暗殺した覆面の男のことだ……\n"
+"俺はそいつをお前さんに渡してやれる。"
+msgstr ""
+
+msgctxt "13773"
+msgid "！"
+msgstr ""
+
+msgctxt "13776"
+msgid ""
+"土佐を脱藩してまで追ってるんだろ？\n"
+"悪い話じゃねえはずだ。"
+msgstr ""
+
+msgctxt "13835"
+msgid ""
+"あんたは……\n"
+"やはりあの覆面の正体を知っているのか……"
+msgstr ""
+
+msgctxt "13890"
+msgid ""
+"そりゃぁまあな……\n"
+"これでも新選組の局長やってるんでね。"
+msgstr ""
+
+msgctxt "13947"
+msgid "新選組のことで俺の知らねえことはねえ……"
+msgstr ""
+
+msgctxt "13988"
+msgid "……"
+msgstr ""
+
+msgctxt "13993"
+msgid ""
+"どうだい？\n"
+"覆面の男を渡してほしけりゃ、\n"
+"まず俺の言うことを聞くってのは。"
+msgstr ""
+
+msgctxt "14068"
+msgid "さっきの馬鹿げた計画に乗れってのか？"
+msgstr ""
+
+msgctxt "14105"
+msgid "馬鹿げた計画？"
+msgstr ""
+
+msgctxt "14120"
+msgid ""
+"あんたの言ってることは理に適ってる。\n"
+"だがな……　京の街の人間はどうなる？"
+msgstr ""
+
+msgctxt "14195"
+msgid ""
+"目的のためだったら、\n"
+"多少の犠牲は構わないってことか。"
+msgstr ""
+
+msgctxt "14250"
+msgid ""
+"倒幕戦争が起こりゃ多少の犠牲じゃ済まなくなる。\n"
+"……生きるとは一事が万事、犠牲を伴うものだ。"
+msgstr ""
+
+msgctxt "14343"
+msgid ""
+"お前だって多くの犠牲の上で\n"
+"生きてるってことを忘れるな。"
+msgstr ""
+
+msgctxt "14400"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14401"
+msgid "……あぁおい？　逃げ出すのかい。"
+msgstr ""
+
+msgctxt "14434"
+msgid ""
+"俺はどんな理由であれ、女子供を巻き込むような\n"
+"真似はしない。"
+msgstr ""
+
+msgctxt "14495"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17132"
+msgid "近藤"
+msgstr ""
+
+msgctxt "17137"
+msgid "kondo_c07_110_01"
+msgstr ""
+
+msgctxt "17154"
+msgid "kondo_c07_110_01b"
+msgstr ""
+
+msgctxt "17172"
+msgid "C07110_KON_A_kamae"
+msgstr ""
+
+msgctxt "17191"
+msgid "kondo_c07_110_01c"
+msgstr ""
+
+msgctxt "17209"
+msgid "C07110_KON_A_talk"
+msgstr ""
+
+msgctxt "17227"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "17232"
+msgid "kiryu_c07_110_01"
+msgstr ""
+
+msgctxt "17249"
+msgid "kondo_c07_110_02"
+msgstr ""
+
+msgctxt "17266"
+msgid "kondo_c07_110_02b"
+msgstr ""
+
+msgctxt "17284"
+msgid "kondo_c07_110_02c"
+msgstr ""
+
+msgctxt "17302"
+msgid "kondo_c07_110_03"
+msgstr ""
+
+msgctxt "17319"
+msgid "kondo_c07_110_03b"
+msgstr ""
+
+msgctxt "17337"
+msgid "kiryu_c07_110_03"
+msgstr ""
+
+msgctxt "17354"
+msgid "kondo_c07_110_04"
+msgstr ""
+
+msgctxt "17371"
+msgid "kondo_c07_110_04b"
+msgstr ""
+
+msgctxt "17389"
+msgid "kiryu_c07_110_04"
+msgstr ""
+
+msgctxt "17406"
+msgid "kondo_c07_110_05"
+msgstr ""
+
+msgctxt "17423"
+msgid "kondo_c07_110_05b"
+msgstr ""
+
+msgctxt "17441"
+msgid "kondo_c07_110_06"
+msgstr ""
+
+msgctxt "17458"
+msgid "kondo_c07_110_06b"
+msgstr ""
+
+msgctxt "17476"
+msgid "kondo_c07_110_06c"
+msgstr ""
+
+msgctxt "17494"
+msgid "kondo_c07_110_06d"
+msgstr ""
+
+msgctxt "17512"
+msgid "kiryu_c07_110_06"
+msgstr ""
+
+msgctxt "17529"
+msgid "kondo_c07_110_07"
+msgstr ""
+
+msgctxt "17546"
+msgid "kiryu_c07_110_07"
+msgstr ""
+
+msgctxt "17563"
+msgid "kondo_c07_110_08"
+msgstr ""
+
+msgctxt "17580"
+msgid "kondo_c07_110_08b"
+msgstr ""
+
+msgctxt "17598"
+msgid "kondo_c07_110_08c"
+msgstr ""
+
+msgctxt "17616"
+msgid "kiryu_c07_110_08"
+msgstr ""
+
+msgctxt "17633"
+msgid "kondo_c07_110_09"
+msgstr ""
+
+msgctxt "17650"
+msgid "kondo_c07_110_09b"
+msgstr ""
+
+msgctxt "17668"
+msgid "kiryu_c07_110_09"
+msgstr ""
+
+msgctxt "17685"
+msgid "kondo_c07_110_10"
+msgstr ""
+
+msgctxt "17702"
+msgid "kondo_c07_110_10b"
+msgstr ""
+
+msgctxt "17720"
+msgid "kiryu_c07_110_10"
+msgstr ""
+
+msgctxt "17737"
+msgid "kondo_c07_110_11"
+msgstr ""
+
+msgctxt "17754"
+msgid "kondo_c07_110_11b"
+msgstr ""
+
+msgctxt "17772"
+msgid "kondo_c07_110_12"
+msgstr ""
+
+msgctxt "17789"
+msgid "kiryu_c07_110_12"
+msgstr ""
+
+msgctxt "17806"
+msgid "kondo_c07_110_13"
+msgstr ""
+
+msgctxt "17823"
+msgid "kondo_c07_110_13b"
+msgstr ""
+
+msgctxt "17841"
+msgid "kiryu_c07_110_13"
+msgstr ""
+
+msgctxt "17858"
+msgid "kondo_c07_110_14"
+msgstr ""
+
+msgctxt "17875"
+msgid "kondo_c07_110_14b"
+msgstr ""
+
+msgctxt "17893"
+msgid "kondo_c07_110_14c"
+msgstr ""
+
+msgctxt "17911"
+msgid "kiryu_c07_110_14"
+msgstr ""
+
+msgctxt "17928"
+msgid "kondo_c07_110_15"
+msgstr ""
+
+msgctxt "17945"
+msgid "kiryu_07_050_01"
+msgstr ""
+
+msgctxt "17961"
+msgid "kondo_07_050_01"
+msgstr ""
+
+msgctxt "17977"
+msgid "kondo_07_050_01b"
+msgstr ""
+
+msgctxt "17994"
+msgid "kiryu_07_050_02"
+msgstr ""
+
+msgctxt "18010"
+msgid "kondo_07_050_02"
+msgstr ""
+
+msgctxt "18026"
+msgid "kondo_07_050_02b"
+msgstr ""
+
+msgctxt "18043"
+msgid "kondo_07_050_03"
+msgstr ""
+
+msgctxt "18059"
+msgid "kiryu_07_050_04"
+msgstr ""
+
+msgctxt "18075"
+msgid "kondo_07_050_04"
+msgstr ""
+
+msgctxt "18091"
+msgid "kiryu_07_050_05"
+msgstr ""
+
+msgctxt "18107"
+msgid "kiryu_07_050_05b"
+msgstr ""
+
+msgctxt "18124"
+msgid "kondo_07_050_05"
+msgstr ""
+
+msgctxt "18140"
+msgid "kondo_07_050_05b"
+msgstr ""
+
+msgctxt "18157"
+msgid "C07110_KRU_A_kamae"
+msgstr ""
+
+msgctxt "18176"
+msgid "C07110_KRU_A"
+msgstr ""
+
+msgctxt "18189"
+msgid "C07110_KON_B_kamae"
+msgstr ""
+
+msgctxt "18208"
+msgid "C07110_KON_B"
+msgstr ""
+
+msgctxt "18221"
+msgid "kondo_07_050_06"
+msgstr ""
+
+msgctxt "18237"
+msgid "kiryu_07_050_06b"
+msgstr ""

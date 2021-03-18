@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "歌声酒場"
+msgstr ""
+
+msgctxt "NAME_1"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_2"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_3"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_4"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_5"
+msgid "日本舞踊"
+msgstr ""
+
+msgctxt "NAME_6"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_7"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_8"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_9"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_10"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_11"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_12"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_13"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_14"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_15"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_16"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_17"
+msgid "うどん屋手伝い"
+msgstr ""
+
+msgctxt "NAME_18"
+msgid "揚屋～お座敷遊び～"
+msgstr ""
+
+msgctxt "NAME_19"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_20"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_21"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_22"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_23"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_24"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_25"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_26"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "NAME_27"
+msgid "競鶏"
+msgstr ""
+
+msgctxt "NAME_28"
+msgid "チンチロリン"
+msgstr ""
+
+msgctxt "NAME_29"
+msgid "丁半博打"
+msgstr ""
+
+msgctxt "NAME_30"
+msgid "おいちょかぶ"
+msgstr ""
+
+msgctxt "NAME_31"
+msgid "こいこい"
+msgstr ""
+
+msgctxt "NAME_32"
+msgid "ポーカー"
+msgstr ""
+
+msgctxt "NAME_33"
+msgid "麻雀"
+msgstr ""
+
+msgctxt "NAME_34"
+msgid "将棋"
+msgstr ""
+
+msgctxt "EXP_0"
+msgid "全曲で「当店の看板男」以上の評価獲得で達成です。"
+msgstr ""
+
+msgctxt "EXP_1"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "EXP_2"
+msgid "全ての楽曲＆難易度で「一流」以上の評価獲得で達成です。"
+msgstr ""
+
+msgctxt "EXP_3"
+msgid "総評で「神」ランク取得で達成です。"
+msgstr ""
+
+msgctxt "EXP_4"
+msgid "各お座敷遊びの全ての難易度で勝利すると達成です。"
+msgstr ""
+
+msgctxt "EXP_5"
+msgid "累計獲得点数が１００００点以上で達成です。"
+msgstr ""
+
+msgctxt "EXP_6"
+msgid "累計獲得点数が１５０００点以上で達成です。"
+msgstr ""
+
+msgctxt "EXP_7"
+msgid "累計獲得点数が７５００点以上で達成です。"
+msgstr ""
+
+msgctxt "EXP_8"
+msgid "１試合で４００００点獲得すると達成です。"
+msgstr ""
+
+msgctxt "EXP_9"
+msgid "累計の勝利回数が３回以上で達成です。"
+msgstr ""
+
+msgctxt "STRING_0"
+msgid "意地桜"
+msgstr ""
+
+msgctxt "STRING_1"
+msgid "はらぺこ日和"
+msgstr ""
+
+msgctxt "STRING_2"
+msgid "阿修羅小町"
+msgstr ""
+
+msgctxt "STRING_3"
+msgid "さむらい音頭"
+msgstr ""
+
+msgctxt "STRING_4"
+msgid "故郷に錦を飾るべし"
+msgstr ""
+
+msgctxt "STRING_5"
+msgid "吹雪小唄　初心者級"
+msgstr ""
+
+msgctxt "STRING_6"
+msgid "吹雪小唄　一般級"
+msgstr ""
+
+msgctxt "STRING_7"
+msgid "吹雪小唄　上級者級"
+msgstr ""
+
+msgctxt "STRING_8"
+msgid "吹雪小唄　芸者級"
+msgstr ""
+
+msgctxt "STRING_9"
+msgid "さむらい演舞　初心者級"
+msgstr ""
+
+msgctxt "STRING_10"
+msgid "さむらい演舞　一般級"
+msgstr ""
+
+msgctxt "STRING_11"
+msgid "さむらい演舞　上級者級"
+msgstr ""
+
+msgctxt "STRING_12"
+msgid "さむらい演舞　芸者級"
+msgstr ""
+
+msgctxt "STRING_13"
+msgid "鼓動　初心者級"
+msgstr ""
+
+msgctxt "STRING_14"
+msgid "鼓動　一般級"
+msgstr ""
+
+msgctxt "STRING_15"
+msgid "鼓動　上級者級"
+msgstr ""
+
+msgctxt "STRING_16"
+msgid "鼓動　芸者級"
+msgstr ""
+
+msgctxt "STRING_17"
+msgid "総評"
+msgstr ""
+
+msgctxt "STRING_18"
+msgid "飲み比べ　一般級"
+msgstr ""
+
+msgctxt "STRING_19"
+msgid "飲み比べ　常連級"
+msgstr ""
+
+msgctxt "STRING_20"
+msgid "飲み比べ　阿修羅級"
+msgstr ""
+
+msgctxt "STRING_21"
+msgid "じゃんけん勝負　一般級"
+msgstr ""
+
+msgctxt "STRING_22"
+msgid "じゃんけん勝負　常連級"
+msgstr ""
+
+msgctxt "STRING_23"
+msgid "じゃんけん勝負　阿修羅級"
+msgstr ""
+
+msgctxt "STRING_24"
+msgid "介抱　一般級"
+msgstr ""
+
+msgctxt "STRING_25"
+msgid "介抱　常連級"
+msgstr ""
+
+msgctxt "STRING_26"
+msgid "介抱　阿修羅級"
+msgstr ""
+
+msgctxt "STRING_27"
+msgid "累計獲得点数"
+msgstr ""
+
+msgctxt "STRING_28"
+msgid "最高獲得点数"
+msgstr ""
+
+msgctxt "STRING_29"
+msgid "累計勝利回数"
+msgstr ""

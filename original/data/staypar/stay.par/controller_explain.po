@@ -1,0 +1,494 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "MINIGAME_NAME_0"
+msgid "MAHJONG"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_1"
+msgid "POKER"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_2"
+msgid "HANAFUDA"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_3"
+msgid "OICHOKABU"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_4"
+msgid "SHOGI"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_5"
+msgid "KARAOKE"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_6"
+msgid "CHINCHIRORIN"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_7"
+msgid "CHOHAN"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_8"
+msgid "BLACKJACK"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_9"
+msgid "FISHING"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_10"
+msgid "RIVER_FINHING"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_11"
+msgid "KYOUKEI"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_12"
+msgid "UDON"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_13"
+msgid "MAKIWARI"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_14"
+msgid "DRINKING"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_15"
+msgid "JANGKENG"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_16"
+msgid "SEXYPHASE"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_17"
+msgid "CHASE"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_18"
+msgid "NICHIBU"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_19"
+msgid "TAIHO"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_20"
+msgid "BABAMEKURI"
+msgstr ""
+
+msgctxt "MINIGAME_NAME_21"
+msgid "COOKING"
+msgstr ""
+
+msgctxt "BUTTON_MARU_0"
+msgid "決定"
+msgstr ""
+
+msgctxt "BUTTON_MARU_1"
+msgid "鼓"
+msgstr ""
+
+msgctxt "BUTTON_MARU_2"
+msgid ""
+"賭け点決定\n"
+"サイコロを投げる"
+msgstr ""
+
+msgctxt "BUTTON_MARU_3"
+msgid "投入/竿を上げる/決定"
+msgstr ""
+
+msgctxt "BUTTON_MARU_4"
+msgid "きつね"
+msgstr ""
+
+msgctxt "BUTTON_MARU_5"
+msgid "割る"
+msgstr ""
+
+msgctxt "BUTTON_MARU_6"
+msgid "盃を持ち上げる"
+msgstr ""
+
+msgctxt "BUTTON_MARU_7"
+msgid "パー"
+msgstr ""
+
+msgctxt "BUTTON_MARU_8"
+msgid "介抱ショット"
+msgstr ""
+
+msgctxt "BUTTON_MARU_9"
+msgid "隠れる/捕える/話す"
+msgstr ""
+
+msgctxt "BUTTON_MARU_10"
+msgid "舞う（入力）"
+msgstr ""
+
+msgctxt "BUTTON_MARU_11"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BUTTON_MARU_12"
+msgid "切る/注ぐ/返す/吹く"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_0"
+msgid "キャンセル"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_1"
+msgid "手拍子"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_2"
+msgid ""
+"キャンセル\n"
+"画面表示を閉じる"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_3"
+msgid "終了/戻る"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_4"
+msgid "月見"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_5"
+msgid "やめる"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_6"
+msgid "盃を下げる"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_7"
+msgid "チョキ"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_8"
+msgid "介抱ボム"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_9"
+msgid "ダッシュ"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_10"
+msgid "舞う（入力）"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_11"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BUTTON_BATSU_12"
+msgid "切る"
+msgstr ""
+
+msgctxt "BUTTON_SANKAKU_0"
+msgid "遊び方説明"
+msgstr ""
+
+msgctxt "BUTTON_SANKAKU_1"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BUTTON_SANKAKU_2"
+msgid "駒説明"
+msgstr ""
+
+msgctxt "BUTTON_SANKAKU_3"
+msgid "合いの手"
+msgstr ""
+
+msgctxt "BUTTON_SANKAKU_4"
+msgid "アイテム使用画面表示"
+msgstr ""
+
+msgctxt "BUTTON_SANKAKU_5"
+msgid "撒き餌"
+msgstr ""
+
+msgctxt "BUTTON_SANKAKU_6"
+msgid "天ぷら"
+msgstr ""
+
+msgctxt "BUTTON_SANKAKU_7"
+msgid "心眼"
+msgstr ""
+
+msgctxt "BUTTON_SANKAKU_8"
+msgid "介抱ボム"
+msgstr ""
+
+msgctxt "BUTTON_SANKAKU_9"
+msgid "舞う（入力）"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_0"
+msgid ""
+"アクションコマンドの\n"
+"表示・非表示"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_1"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_2"
+msgid "役一覧表示"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_3"
+msgid "待った"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_4"
+msgid "鈴"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_5"
+msgid "一振り三倍投げ"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_6"
+msgid "出目履歴画面表示"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_7"
+msgid "ヘルプ"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_8"
+msgid "釣具選択"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_9"
+msgid "たぬき"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_10"
+msgid "グー"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_11"
+msgid "介抱ショット"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_12"
+msgid "舞う（入力）"
+msgstr ""
+
+msgctxt "BUTTON_SHIKAKU_13"
+msgid "弾を斬る・撃つ"
+msgstr ""
+
+msgctxt "DEGITAL_KEY_0"
+msgid "牌の選択／項目の変更"
+msgstr ""
+
+msgctxt "DEGITAL_KEY_1"
+msgid "アクション選択"
+msgstr ""
+
+msgctxt "DEGITAL_KEY_2"
+msgid "カーソルの移動"
+msgstr ""
+
+msgctxt "DEGITAL_KEY_3"
+msgid "将棋を指す手の移動"
+msgstr ""
+
+msgctxt "DEGITAL_KEY_4"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "DEGITAL_KEY_5"
+msgid "ＢＥＴ額変更"
+msgstr ""
+
+msgctxt "DEGITAL_KEY_6"
+msgid "龍馬移動"
+msgstr ""
+
+msgctxt "DEGITAL_KEY_7"
+msgid "舞う（入力）"
+msgstr ""
+
+msgctxt "DEGITAL_KEY_8"
+msgid "札の選択"
+msgstr ""
+
+msgctxt "BUTTON_L1_0"
+msgid "捨て牌確認"
+msgstr ""
+
+msgctxt "BUTTON_L1_1"
+msgid "捨て牌確認"
+msgstr ""
+
+msgctxt "BUTTON_L1_2"
+msgid "超待った"
+msgstr ""
+
+msgctxt "BUTTON_L1_3"
+msgid "カメラの移動"
+msgstr ""
+
+msgctxt "BUTTON_L1_4"
+msgid "おすすめ"
+msgstr ""
+
+msgctxt "BUTTON_R1_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BUTTON_R1_1"
+msgid "つぶやき"
+msgstr ""
+
+msgctxt "BUTTON_R1_2"
+msgid "カメラの移動"
+msgstr ""
+
+msgctxt "BUTTON_R1_3"
+msgid "クライマックス演舞"
+msgstr ""
+
+msgctxt "BUTTON_R2_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BUTTON_R2_1"
+msgid ""
+"名前／オンラインID\n"
+"表示切り替え"
+msgstr ""
+
+msgctxt "STICK_L_0"
+msgid "牌の選択／項目の変更"
+msgstr ""
+
+msgctxt "STICK_L_1"
+msgid "アクション選択"
+msgstr ""
+
+msgctxt "STICK_L_2"
+msgid "カーソルの移動"
+msgstr ""
+
+msgctxt "STICK_L_3"
+msgid "将棋を指す手の移動"
+msgstr ""
+
+msgctxt "STICK_L_4"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "STICK_L_5"
+msgid "ＢＥＴ額変更"
+msgstr ""
+
+msgctxt "STICK_L_6"
+msgid "龍馬移動"
+msgstr ""
+
+msgctxt "STICK_L_7"
+msgid "移動"
+msgstr ""
+
+msgctxt "STICK_L_8"
+msgid "舞う（入力）"
+msgstr ""
+
+msgctxt "STICK_L_9"
+msgid "札の選択"
+msgstr ""
+
+msgctxt "STICK_R_0"
+msgid "カメラ移動"
+msgstr ""
+
+msgctxt "STICK_R_1"
+msgid "舞う（入力）"
+msgstr ""
+
+msgctxt "SELECT_0"
+msgid "中断選択"
+msgstr ""
+
+msgctxt "SELECT_1"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SELECT_2"
+msgid "中断選択＝投了"
+msgstr ""
+
+msgctxt "SELECT_3"
+msgid ""
+"中断選択\n"
+"（勝負中使用禁止）"
+msgstr ""
+
+msgctxt "SELECT_4"
+msgid "マップ表示"
+msgstr ""
+
+msgctxt "START_0"
+msgid "操作説明"
+msgstr ""
+
+msgctxt "START_1"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "TOUCH_0"
+msgid ""
+"牌や選択項目を\n"
+"タッチして選択決定"
+msgstr ""
+
+msgctxt "TOUCH_1"
+msgid ""
+"名前／オンラインID\n"
+"タッチで表示切り替え"
+msgstr ""
+
+msgctxt "TOUCH_2"
+msgid ""
+"札や選択項目を\n"
+"タッチして選択決定"
+msgstr ""
+
+msgctxt "TOUCH_3"
+msgid ""
+"駒の移動／選択項目を\n"
+"タッチして選択決定"
+msgstr ""
+
+msgctxt "TOUCH_4"
+msgid "<!empty>"
+msgstr ""

@@ -1,0 +1,788 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "20080"
+msgid "キャー！　キャー！　武田さーん！"
+msgstr ""
+
+msgctxt "20113"
+msgid ""
+"今日も素敵な配達っぷりでした♪\n"
+"もう、最高ですっ！"
+msgstr ""
+
+msgctxt "20164"
+msgid ""
+"そうかいそうかい。どーもどーも。\n"
+"うーん、君たち可愛いねぇ？\n"
+"どう？　この後、どこか静かなところにでも……"
+msgstr ""
+
+msgctxt "20271"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20272"
+msgid "（あれが、黒豹飛脚団最後の一人、武田か……）"
+msgstr ""
+
+msgctxt "20317"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20318"
+msgid "あんたが、黒豹飛脚団の武田か……？"
+msgstr ""
+
+msgctxt "20353"
+msgid ""
+"ん？　そうだけど……\n"
+"なんなのあんた？"
+msgstr ""
+
+msgctxt "20392"
+msgid "そうよ！　なんなのよあんた！"
+msgstr ""
+
+msgctxt "20421"
+msgid "なんなのよっ！"
+msgstr ""
+
+msgctxt "20436"
+msgid "…………"
+msgstr ""
+
+msgctxt "20445"
+msgid ""
+"うん……？\n"
+"よくよく見てみれば、あんたは確か……"
+msgstr ""
+
+msgctxt "20494"
+msgid ""
+"そうだ！　思い出した！\n"
+"……賭場の主人だ！　そうだろ？"
+msgstr ""
+
+msgctxt "20549"
+msgid "……全然違うぞ。"
+msgstr ""
+
+msgctxt "20566"
+msgid ""
+"へへへ。冗談だよ。……斎藤さん、だろ？\n"
+"俺達黒豹飛脚団を、潰そうとしてるっていう……\n"
+"まさか、あんたの方から来てもらえるとはね。"
+msgstr ""
+
+msgctxt "20695"
+msgid ""
+"……色々と事情があってな。あんたと戦って、\n"
+"決着をつけなければならなくなった。"
+msgstr ""
+
+msgctxt "20774"
+msgid ""
+"ほう。そうかそうか。\n"
+"いいですよ、やりましょう！"
+msgstr ""
+
+msgctxt "20823"
+msgid ""
+"この子達の前で、かっこいいところを\n"
+"見せられるしね。"
+msgstr ""
+
+msgctxt "20876"
+msgid ""
+"キャー！　武田さん、勝負するんですか？\n"
+"素敵！　頑張ってー！"
+msgstr ""
+
+msgctxt "20937"
+msgid "頑張ってー！"
+msgstr ""
+
+msgctxt "20950"
+msgid ""
+"なんなんだ、こいつらは……\n"
+"集中力が鈍るな……"
+msgstr ""
+
+msgctxt "20997"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20998"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20999"
+msgid "そう？　俺は観客多い方が、逆に燃えるけどなぁ……"
+msgstr ""
+
+msgctxt "21048"
+msgid ""
+"あ、そうそう！\n"
+"この子達以外にも、もう一人観客がいるよ。\n"
+"ほら……　見てみろよ。"
+msgstr ""
+
+msgctxt "21129"
+msgid "ん……？"
+msgstr ""
+
+msgctxt "21138"
+msgid "斎藤さん！　俺、来たっす！"
+msgstr ""
+
+msgctxt "21165"
+msgid "……こいつのことか？"
+msgstr ""
+
+msgctxt "21186"
+msgid "ち、違うって！"
+msgstr ""
+
+msgctxt "21201"
+msgid "おいこらお前、ちょっとそこどけ！"
+msgstr ""
+
+msgctxt "21234"
+msgid "え？"
+msgstr ""
+
+msgctxt "21239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21240"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21241"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21242"
+msgid "あ、はいはい。"
+msgstr ""
+
+msgctxt "21257"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21258"
+msgid "平川……"
+msgstr ""
+
+msgctxt "21267"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21268"
+msgid ""
+"あなたが負ける姿を、見にきましたよ。\n"
+"ふふふふ……　哀れな人……"
+msgstr ""
+
+msgctxt "21333"
+msgid ""
+"……俺が勝ったら、黒豹飛脚団は「京最速」を\n"
+"誇れなくなる。そうだな？"
+msgstr ""
+
+msgctxt "21402"
+msgid ""
+"ええ。あなたが勝てたらの話だけどね。\n"
+"まぁ、あなたが武田くんに勝つことはないと\n"
+"思うけど。"
+msgstr ""
+
+msgctxt "21493"
+msgid "武田くんは、私の旦那と同じくらい速いんだもの……"
+msgstr ""
+
+msgctxt "21542"
+msgid "…………"
+msgstr ""
+
+msgctxt "21551"
+msgid ""
+"さぁ、武田くん！\n"
+"さっさとこの若造を、捻りつぶして！\n"
+"「京最速」は我々だと、証明するのよ!!"
+msgstr ""
+
+msgctxt "21642"
+msgid ""
+"はいはい。分かったよ、平川ちゃん。\n"
+"勝ったらちゃんと後でご褒美、ちょうだいよね？\n"
+"……酒屋のツケ、払わないといけないからさ。"
+msgstr ""
+
+msgctxt "21767"
+msgid ""
+"さぁて……\n"
+"勝負といこうか、斎藤さん。\n"
+"僕に喧嘩売ったらどうなるか、教えてあげるよ。"
+msgstr ""
+
+msgctxt "21852"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21853"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21854"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21855"
+msgid "はぁ……　はぁ……"
+msgstr ""
+
+msgctxt "21874"
+msgid "はぁ……　はぁ……"
+msgstr ""
+
+msgctxt "21893"
+msgid "か、勝った……"
+msgstr ""
+
+msgctxt "21908"
+msgid ""
+"勝ったあああああ！\n"
+"斎藤さんが、黒豹飛脚団を全員倒したぞおおおっ！"
+msgstr ""
+
+msgctxt "21975"
+msgid "そんな……　ばかな……"
+msgstr ""
+
+msgctxt "21998"
+msgid ""
+"主人が死んでから……\n"
+"ずっと……　ずっと「京最速」を守ってきたのに……\n"
+"こんなことって……"
+msgstr ""
+
+msgctxt "22089"
+msgid ""
+"ごめんなさい……　ごめんなさい……\n"
+"あなた……\n"
+"あなたの黒豹飛脚団を、私は守れませんでした……"
+msgstr ""
+
+msgctxt "22184"
+msgid "…………"
+msgstr ""
+
+msgctxt "22193"
+msgid "平川ちゃん……"
+msgstr ""
+
+msgctxt "22208"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22209"
+msgid ""
+"平川ちゃん……\n"
+"解散しよう。黒豹飛脚団。"
+msgstr ""
+
+msgctxt "22250"
+msgid "……え？"
+msgstr ""
+
+msgctxt "22259"
+msgid ""
+"……もうこれ以上、平川ちゃんが悲しむ顔、\n"
+"見たくないんだ。"
+msgstr ""
+
+msgctxt "22318"
+msgid ""
+"この飛脚団がある限り、平川ちゃんはずっと、\n"
+"「京最速」の呪縛から逃れることができない。"
+msgstr ""
+
+msgctxt "22405"
+msgid ""
+"だから……　解散したほうがいいんだよ。\n"
+"この飛脚団は……"
+msgstr ""
+
+msgctxt "22462"
+msgid ""
+"で、でも……　解散して、どうするのよ？\n"
+"旦那も失って、この飛脚団も失ったら……\n"
+"私は、何もなくなってしまうわ……"
+msgstr ""
+
+msgctxt "22575"
+msgid ""
+"……俺たちがいるだろ？\n"
+"なぁ、みんな？"
+msgstr ""
+
+msgctxt "22614"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22617"
+msgid "えっ？"
+msgstr ""
+
+msgctxt "22624"
+msgid "俺達は、姉さんについていきますよ。"
+msgstr ""
+
+msgctxt "22659"
+msgid ""
+"俺達は、黒豹飛脚団だからここにいたわけでも、\n"
+"京最速だから、ここにいたわけでもない。\n"
+"姉さんがいたから、ここにいたんです。"
+msgstr ""
+
+msgctxt "22782"
+msgid "あなた達……"
+msgstr ""
+
+msgctxt "22795"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22796"
+msgid ""
+"速さなんてさ、もうどうでもいいじゃんよ？\n"
+"黒豹飛脚団なんてやめよう。平川ちゃんが苦しんで\n"
+"続けるのなんて、旦那もきっと望んでないよ。"
+msgstr ""
+
+msgctxt "22929"
+msgid ""
+"もっと、客のことを一番に考えるような……\n"
+"優しい飛脚団を一から作ろうぜ？"
+msgstr ""
+
+msgctxt "23002"
+msgid "平川飛脚団……　なんてどうだい？"
+msgstr ""
+
+msgctxt "23035"
+msgid "武田くん……　みんな……"
+msgstr ""
+
+msgctxt "23060"
+msgid ""
+"……ありがとう。\n"
+"うううっ……"
+msgstr ""
+
+msgctxt "23091"
+msgid ""
+"おおっ！　姉さんが泣いてるのなんて、\n"
+"久しぶりに見たぜ！　鬼の目にも涙、ってやつだな！"
+msgstr ""
+
+msgctxt "23178"
+msgid "あははははっ！"
+msgstr ""
+
+msgctxt "23193"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23194"
+msgid "……よかったですね、斎藤さん。"
+msgstr ""
+
+msgctxt "23225"
+msgid ""
+"ああ。……きっと天国の平川の旦那さんも、\n"
+"喜んでいるはずさ。"
+msgstr ""
+
+msgctxt "23286"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23287"
+msgid ""
+"斎藤さん、色々とごめんね。\n"
+"そして……　ありがとう。"
+msgstr ""
+
+msgctxt "23340"
+msgid ""
+"これ、迷惑かけたお詫びとお礼。\n"
+"とっといてちょうだいよ。"
+msgstr ""
+
+msgctxt "23397"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23398"
+msgid "「<Color:8>大蛇の抜殻<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "23447"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23448"
+msgid ""
+"なぁ……　あんた達、\n"
+"俺にわざと負けてたんじゃないのか？"
+msgstr ""
+
+msgctxt "23505"
+msgid "え……？"
+msgstr ""
+
+msgctxt "23514"
+msgid ""
+"やはり、いくら何でも、素人の俺に\n"
+"あんた達がこうも簡単に負けるとは思えない。\n"
+"もしかして、最初から……"
+msgstr ""
+
+msgctxt "23617"
+msgid ""
+"さあて。何のことやら。\n"
+"まぁ、過ぎたことはもう、いいじゃないの！\n"
+"終わりよければ、全てよし！"
+msgstr ""
+
+msgctxt "23710"
+msgid "ふっ……"
+msgstr ""
+
+msgctxt "23719"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23720"
+msgid "……俺、平川ちゃんのあんな笑顔、久々に見たよ。"
+msgstr ""
+
+msgctxt "23767"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23768"
+msgid "どうだい？　笑うと、結構可愛いだろう？"
+msgstr ""
+
+msgctxt "23807"
+msgid "ああ。……そうだな。"
+msgstr ""
+
+msgctxt "23828"
+msgid ""
+"……本当にありがとう。斎藤さん。\n"
+"じゃあ、いつかまた、どこかで。"
+msgstr ""
+
+msgctxt "23893"
+msgid ""
+"ああ。……良い飛脚団にしろよ？\n"
+"平川飛脚団を。"
+msgstr ""
+
+msgctxt "23940"
+msgid "おうよ……！"
+msgstr ""
+
+msgctxt "23953"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23955"
+msgid ""
+"……さぁ！　じゃあ、斎藤さんが\n"
+"京最速になった記念に、パーッと飲みにいきますか！\n"
+"斎藤さんのおごりで！"
+msgstr ""
+
+msgctxt "24058"
+msgid "……断る。"
+msgstr ""
+
+msgctxt "24069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24070"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24071"
+msgid "じょ、冗談ですよぉ！　僕がおごります！"
+msgstr ""
+
+msgctxt "24110"
+msgid ""
+"そのかわり、今度また配達を\n"
+"手伝ってほしいんですが……"
+msgstr ""
+
+msgctxt "24165"
+msgid "……断る。"
+msgstr ""
+
+msgctxt "24176"
+msgid "えええ～！　そ、そんな～！"
+msgstr ""
+
+msgctxt "24203"
+msgid ""
+"あれ、斎藤さん？　飲みにいくなら、\n"
+"私も連れてってよ。"
+msgstr ""
+
+msgctxt "24258"
+msgid "だ、誰すか、あんた……？"
+msgstr ""
+
+msgctxt "24283"
+msgid ""
+"まぁまぁ。細かいことは気にしない。\n"
+"飲もう飲もう！　はっはっはっは……!!"
+msgstr ""
+
+msgctxt "24356"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24357"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24358"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24359"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24360"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24362"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24363"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24364"
+msgid "はぁ……　はぁ……"
+msgstr ""
+
+msgctxt "24383"
+msgid ""
+"あれあれ？　どうしたの？\n"
+"もしかして、調子悪いのかい……？\n"
+"無理しちゃダメでしょ。"
+msgstr ""
+
+msgctxt "24466"
+msgid ""
+"こっちも本気で戦いたいからねぇ。\n"
+"ちゃんと準備してから来てくれる？　頼むよ？"
+msgstr ""
+
+msgctxt "24543"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24544"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24545"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28040"
+msgid "取り巻きの女"
+msgstr ""
+
+msgctxt "28053"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "28064"
+msgid "惚れている女"
+msgstr ""
+
+msgctxt "28077"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "28088"
+msgid "武田"
+msgstr ""
+
+msgctxt "28093"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "28105"
+msgid "Player"
+msgstr ""
+
+msgctxt "28112"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "28123"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "28135"
+msgid "kaiwabgm_sub_apathy_03"
+msgstr ""
+
+msgctxt "28158"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "28166"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "28175"
+msgid "F_CHO_SS_takeda_fun_A"
+msgstr ""
+
+msgctxt "28197"
+msgid "F_CHO_SS_takeda_fun_B"
+msgstr ""
+
+msgctxt "28219"
+msgid "F_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "28241"
+msgid "清川"
+msgstr ""
+
+msgctxt "28246"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "28256"
+msgid "kaiwabgm_sub_fuon_04"
+msgstr ""
+
+msgctxt "28277"
+msgid "0"
+msgstr ""
+
+msgctxt "28279"
+msgid "平川"
+msgstr ""
+
+msgctxt "28284"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "28295"
+msgid "dummy"
+msgstr ""
+
+msgctxt "28301"
+msgid "kaiwabgm_sub_sad_01"
+msgstr ""
+
+msgctxt "28321"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "28331"
+msgid "F_CHO_TLK_stand_sad"
+msgstr ""
+
+msgctxt "28351"
+msgid "槙野"
+msgstr ""
+
+msgctxt "28356"
+msgid "稲本"
+msgstr ""
+
+msgctxt "28361"
+msgid "星"
+msgstr ""
+
+msgctxt "28364"
+msgid "F_CHO_TLK_stand_smile"
+msgstr ""
+
+msgctxt "28386"
+msgid "M_CHO_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "28409"
+msgid "M_CHO_TLK_stand_happy"
+msgstr ""
+
+msgctxt "28431"
+msgid "M_CHO_TLK_stand_smile"
+msgstr ""
+
+msgctxt "28453"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "28463"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "28474"
+msgid "kaiwabgm_sub_hartwarm_01"
+msgstr ""
+
+msgctxt "28499"
+msgid "神主"
+msgstr ""
+
+msgctxt "28504"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""

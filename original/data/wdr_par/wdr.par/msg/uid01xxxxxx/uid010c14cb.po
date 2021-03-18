@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5540"
+msgid "なんでも、川に落ちたらしいぜ……"
+msgstr ""
+
+msgctxt "5573"
+msgid ""
+"よく生きてたわねぇ。\n"
+"でもずいぶん汚れてるわ……"
+msgstr ""
+
+msgctxt "5622"
+msgid "通してくれ、こいつは俺の猫なんだ。"
+msgstr ""
+
+msgctxt "5657"
+msgid "ミャア。"
+msgstr ""
+
+msgctxt "5666"
+msgid ""
+"まったく……\n"
+"何度も気をつけろと言ってただろう？"
+msgstr ""
+
+msgctxt "5715"
+msgid "ミャア……"
+msgstr ""
+
+msgctxt "5726"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5727"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5728"
+msgid "（ん……？　いつものドジな猫がいないな）"
+msgstr ""
+
+msgctxt "5769"
+msgid "ざわざわざわ……"
+msgstr ""
+
+msgctxt "5786"
+msgid "……ん？"
+msgstr ""
+
+msgctxt "5795"
+msgid "なんだ、あの人だかりは……？"
+msgstr ""
+
+msgctxt "5824"
+msgid ""
+"……そこがよっぽどお気に入りの場所のようだな。\n"
+"まぁいい、もうドジを踏むんじゃないぞ。"
+msgstr ""
+
+msgctxt "5911"
+msgid "ミャア！"
+msgstr ""
+
+msgctxt "5920"
+msgid ""
+"「汚れた猫」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「汚れた猫」と交流してみましょう。"
+msgstr ""
+
+msgctxt "6133"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6134"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6135"
+msgid "ん？"
+msgstr ""
+
+msgctxt "6140"
+msgid "ミャアミャア～。"
+msgstr ""
+
+msgctxt "6157"
+msgid ""
+"（あの猫……　なんだか危なっかしいな。\n"
+"　あんなところにいて、大丈夫なのか？）"
+msgstr ""
+
+msgctxt "6236"
+msgid "（まぁ、俺には関係ないが……）"
+msgstr ""
+
+msgctxt "6267"
+msgid "ミャー！"
+msgstr ""
+
+msgctxt "6276"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6277"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6278"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6279"
+msgid "（……落ちた!!）"
+msgstr ""
+
+msgctxt "6296"
+msgid ""
+"待ってろ！\n"
+"今、助けてやるぞ！"
+msgstr ""
+
+msgctxt "6327"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6328"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6329"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6330"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6331"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6332"
+msgid "ミャア……"
+msgstr ""
+
+msgctxt "6343"
+msgid "なんておっちょこちょいな猫なんだお前は……"
+msgstr ""
+
+msgctxt "6386"
+msgid "プルプル……"
+msgstr ""
+
+msgctxt "6399"
+msgid "（汚れた上にずぶ濡れでつらそうだな……）"
+msgstr ""
+
+msgctxt "6440"
+msgid ""
+"（近くに風呂屋がある……\n"
+"　俺も濡れてしまったし、ついでに洗ってやろうか）"
+msgstr ""
+
+msgctxt "6515"
+msgid "よし……　お前、ちょっと来い。"
+msgstr ""
+
+msgctxt "6546"
+msgid "ミャア？"
+msgstr ""
+
+msgctxt "6555"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6556"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7424"
+msgid "野次馬の男"
+msgstr ""
+
+msgctxt "7435"
+msgid "野次馬の女"
+msgstr ""
+
+msgctxt "7446"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7454"
+msgid "Player"
+msgstr ""
+
+msgctxt "7461"
+msgid "汚れた猫"
+msgstr ""
+
+msgctxt "7470"
+msgid "野次馬の声"
+msgstr ""
+
+msgctxt "7481"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "7494"
+msgid "綺麗になった猫"
+msgstr ""
+
+msgctxt "7509"
+msgid "汚れた猫との絆"
+msgstr ""
+
+msgctxt "7524"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7530"
+msgid "危なげな猫"
+msgstr ""
+
+msgctxt "7541"
+msgid "猫の声"
+msgstr ""

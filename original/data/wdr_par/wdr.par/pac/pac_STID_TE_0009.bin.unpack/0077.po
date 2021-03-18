@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2756"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2757"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2758"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2759"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2760"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2761"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2762"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2763"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2764"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2765"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2766"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2767"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2768"
+msgid "ちょっと寄らせて"
+msgstr ""
+
+msgctxt "2785"
+msgid "ちょっと見たい！"
+msgstr ""
+
+msgctxt "2802"
+msgid "お寿司食べたい♪"
+msgstr ""
+
+msgctxt "2819"
+msgid "焼き肉食べたい♪"
+msgstr ""
+
+msgctxt "2836"
+msgid "ちょっと飲みたいかも♪"
+msgstr ""
+
+msgctxt "2859"
+msgid "お腹空いた……"
+msgstr ""
+
+msgctxt "2874"
+msgid ""
+"つまんな～い\n"
+"なにかしようよ"
+msgstr ""
+
+msgctxt "2903"
+msgid "疲れちゃった……"
+msgstr ""
+
+msgctxt "3228"
+msgid "Idle"
+msgstr ""

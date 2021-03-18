@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "380"
+msgid "－"
+msgstr ""
+
+msgctxt "383"
+msgid "所持数"
+msgstr ""
+
+msgctxt "390"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "415"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "448"
+msgid "ありがとうございます。%sです。"
+msgstr ""
+
+msgctxt "479"
+msgid "（持ち物が一杯だな……）"
+msgstr ""
+
+msgctxt "504"
+msgid "（売り切れのようだ……）"
+msgstr ""
+
+msgctxt "529"
+msgid "（これは既に持っているな……）"
+msgstr ""
+
+msgctxt "560"
+msgid "所持品"
+msgstr ""
+
+msgctxt "567"
+msgid "詳細"
+msgstr ""
+
+msgctxt "572"
+msgid "商品"
+msgstr ""
+
+msgctxt "577"
+msgid "<Sign:1>前へ"
+msgstr ""
+
+msgctxt "590"
+msgid "<Sign:1>次へ %d/%d"
+msgstr ""
+
+msgctxt "609"
+msgid "－"
+msgstr ""
+
+msgctxt "612"
+msgid "注"
+msgstr ""
+
+msgctxt "615"
+msgid ""
+"海と大地の恵みを堪能する釜飯の王様です。\n"
+"エビ・鶏・ホタテ・山菜など１３種類もの具材が\n"
+"絶妙に調和する豪華な釜飯です。"
+msgstr ""
+
+msgctxt "732"
+msgid ""
+"柔らかく旨味たっぷりの鶏肉はご飯の友。\n"
+"照り焼き風に味付けした鶏肉をどか～んとのせました。\n"
+"鶏の旨味が口の中に広がります。"
+msgstr ""
+
+msgctxt "853"
+msgid ""
+"贅沢な旨味いっぱいの海の幸が見事に共演。\n"
+"お口いっぱいに広がる海の香りと豊潤な味わいを\n"
+"心ゆくまでご堪能ください。"
+msgstr ""
+
+msgctxt "966"
+msgid ""
+"『釜寅』を代表する絶品釜飯です。\n"
+"驚くほど柔らかい、あつあつのうなぎの旨さに絶句！\n"
+"絶妙の蒸し加減でうなぎを柔らかく仕上げました。"
+msgstr ""
+
+msgctxt "1095"
+msgid ""
+"ふんわりと柔らかく仕上げた\n"
+"あさりの美味しさが格別の釜飯です。"
+msgstr ""
+
+msgctxt "1157"
+msgid ""
+"まさに一流料亭の味です。\n"
+"鯛の香りと味を生かし、上品に仕上げました。\n"
+"お茶漬けも絶品です。"
+msgstr ""

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "436"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "437"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "438"
+msgid ""
+"へっへっへ、おこしやす。\n"
+"何か食べて行きなはれ……"
+msgstr ""
+
+msgctxt "489"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "490"
+msgid "どうもおおきに……"
+msgstr ""
+
+msgctxt "516"
+msgid "怪しい男"
+msgstr ""

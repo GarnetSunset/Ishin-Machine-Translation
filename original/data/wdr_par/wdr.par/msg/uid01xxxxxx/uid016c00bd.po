@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1916"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1917"
+msgid ""
+"布団を調べると、寝ることができます。\n"
+"土佐からの出来事や、\n"
+"遥との出会い（アナザーライフのあらすじ）、\n"
+"極秘任務引き受け（バトルダンジョンのあらすじ）\n"
+"のことを思い出せます。"
+msgstr ""
+
+msgctxt "2092"
+msgid "（少し休むとするか……）"
+msgstr ""
+
+msgctxt "2117"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2118"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2119"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2120"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2121"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2122"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2123"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2124"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2125"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2126"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2127"
+msgid "（さて、一眠りするかな……）"
+msgstr ""
+
+msgctxt "2156"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2157"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2158"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2159"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2160"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2192"
+msgid "布団"
+msgstr ""
+
+msgctxt "2197"
+msgid "Player"
+msgstr ""
+
+msgctxt "2204"
+msgid "土佐からの出来事を思い出す"
+msgstr ""
+
+msgctxt "2231"
+msgid "遥との出会いを思い出す"
+msgstr ""
+
+msgctxt "2254"
+msgid "極秘任務引き受けまでを思い出す"
+msgstr ""
+
+msgctxt "2285"
+msgid "やめる"
+msgstr ""
+
+msgctxt "2292"
+msgid "寝る"
+msgstr ""

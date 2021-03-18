@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "283572"
+msgid ""
+"江戸から土佐に戻って早々\n"
+"何であんなマネをした　あ？"
+msgstr ""
+
+msgctxt "283716"
+msgid "どうして下級武士の分際で"
+msgstr ""
+
+msgctxt "283860"
+msgid ""
+"上士にたてつくような真似をしたのかって\n"
+"聞いてんだ　あ？"
+msgstr ""
+
+msgctxt "284004"
+msgid ""
+"いいか？\n"
+"江戸帰りで忘れちまってるなら思い出せ"
+msgstr ""
+
+msgctxt "284148"
+msgid "ここ土佐で“身分”は　命より重い"
+msgstr ""
+
+msgctxt "284292"
+msgid ""
+"理由がなんであろうが　相手が女子供だろうが\n"
+"上士に逆らえば罪になる"
+msgstr ""
+
+msgctxt "284436"
+msgid "江戸じゃ剣を修行したそうだが　それも水の泡だ"
+msgstr ""
+
+msgctxt "284580"
+msgid ""
+"上士に手を上げれば全て終わり\n"
+"お前に待っているのは……"
+msgstr ""
+
+msgctxt "284724"
+msgid "死罪だ"
+msgstr ""
+
+msgctxt "284868"
+msgid "恨むなら　土佐を恨むんだな"
+msgstr ""
+
+msgctxt "285012"
+msgid "あんたは……"
+msgstr ""
+
+msgctxt "285156"
+msgid "悔しくないのか"
+msgstr ""
+
+msgctxt "285300"
+msgid "何と言った"
+msgstr ""
+
+msgctxt "285444"
+msgid "あんたも俺と同じ郷士だろ"
+msgstr ""
+
+msgctxt "285588"
+msgid "郷士ってだけで　バカな上士にも頭下げなきゃならない……"
+msgstr ""
+
+msgctxt "285732"
+msgid "あんたは悔しいとは思わないのか……！？"
+msgstr ""
+
+msgctxt "285876"
+msgid "一緒にするな"
+msgstr ""
+
+msgctxt "286020"
+msgid "……俺は“白札郷士”だ"
+msgstr ""
+
+msgctxt "286164"
+msgid "郷士如きと同列に語るんじゃない"
+msgstr ""
+
+msgctxt "286308"
+msgid "お前ら郷士は道端の石と同じだ"
+msgstr ""
+
+msgctxt "286452"
+msgid "蹴られても捨てられても文句は言えない"
+msgstr ""
+
+msgctxt "286596"
+msgid "そこまでだ"
+msgstr ""
+
+msgctxt "286740"
+msgid "誰だ？"
+msgstr ""
+
+msgctxt "286884"
+msgid ""
+"お前が言うところの\n"
+"石を蹴れる側の人間だ"
+msgstr ""
+
+msgctxt "287028"
+msgid "何？"
+msgstr ""
+
+msgctxt "287172"
+msgid "まさか……"
+msgstr ""
+
+msgctxt "287316"
+msgid "江戸におわす大殿　山内容堂の懐刀……"
+msgstr ""
+
+msgctxt "287460"
+msgid "とでも言えば分かるか？"
+msgstr ""
+
+msgctxt "287604"
+msgid "さ　参政……　吉田東洋様！？"
+msgstr ""
+
+msgctxt "287748"
+msgid ""
+"悪いがこの石ころ\n"
+"ワシの方で引き取らせてもらう"
+msgstr ""
+
+msgctxt "287892"
+msgid "で　ですが　しかし"
+msgstr ""
+
+msgctxt "288036"
+msgid ""
+"ワシがこの土佐で最も“規律”に厳しい男だということを\n"
+"知らぬわけではあるまいな？"
+msgstr ""
+
+msgctxt "288180"
+msgid "そ　それは　もちろん"
+msgstr ""
+
+msgctxt "288324"
+msgid "裁きとなる前に　この手で殺したいのじゃ"
+msgstr ""
+
+msgctxt "288468"
+msgid "……この無礼な石ころをな"
+msgstr ""
+
+msgctxt "288612"
+msgid "承知仕りました"
+msgstr ""
+
+msgctxt "288756"
+msgid ""
+"……と　いうことだ\n"
+"覚悟せい"
+msgstr ""
+
+msgctxt "288900"
+msgid "坂本龍馬"
+msgstr ""
+
+msgctxt "289044"
+msgid "いや……"
+msgstr ""
+
+msgctxt "289188"
+msgid "我が息子よ"
+msgstr ""

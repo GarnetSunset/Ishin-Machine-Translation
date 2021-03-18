@@ -1,0 +1,1377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "31236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31239"
+msgid ""
+"あら、いらっしゃいませ。\n"
+"京の街の方は、えらい騒ぎになっておますな。\n"
+"祗園はいつもどおり、営業させてもらってます。"
+msgstr ""
+
+msgctxt "31354"
+msgid "あら、いらっしゃいませ。"
+msgstr ""
+
+msgctxt "31379"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31380"
+msgid "（手持ちがない……）"
+msgstr ""
+
+msgctxt "31401"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "31430"
+msgid ""
+"そうですか。\n"
+"またお越し下さいね。"
+msgstr ""
+
+msgctxt "31465"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31466"
+msgid ""
+"ご注文は何にいたしましょう。\n"
+"お飲み物から伺います。"
+msgstr ""
+
+msgctxt "31519"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31520"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "31545"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31546"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31547"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "31572"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31573"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31574"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31575"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31576"
+msgid "お代はこちらになります。"
+msgstr ""
+
+msgctxt "31601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31602"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "31641"
+msgid ""
+"おおきに。\n"
+"またおこしくださいね。"
+msgstr ""
+
+msgctxt "31676"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31677"
+msgid "すまない、急用ができた……"
+msgstr ""
+
+msgctxt "31704"
+msgid ""
+"そうどすか、わかりました。\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "31753"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31754"
+msgid "あら、斎藤様。来てくれておおきに。"
+msgstr ""
+
+msgctxt "31789"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31790"
+msgid "（手持ちがない……）"
+msgstr ""
+
+msgctxt "31811"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "31840"
+msgid ""
+"そうですか。\n"
+"またお越し下さいね。"
+msgstr ""
+
+msgctxt "31875"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31876"
+msgid ""
+"ご注文は何にいたしましょう。\n"
+"お飲み物から伺います。"
+msgstr ""
+
+msgctxt "31929"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31930"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "31955"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31956"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31957"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "31982"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31983"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31984"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31985"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31986"
+msgid "お代はこちらになります。"
+msgstr ""
+
+msgctxt "32011"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32012"
+msgid ""
+"福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "32041"
+msgid ""
+"おおきに。\n"
+"斎藤様、またおこしくださいね。"
+msgstr ""
+
+msgctxt "32084"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32085"
+msgid "すまない、急用ができた……"
+msgstr ""
+
+msgctxt "32112"
+msgid ""
+"そうどすか、わかりました。\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "32161"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32162"
+msgid ""
+"ご迷惑をおかけして、ほんまに……\n"
+"ほんまに申し訳ありません……"
+msgstr ""
+
+msgctxt "32225"
+msgid "いや、勝手に手を出したのは俺だ。気にするな。"
+msgstr ""
+
+msgctxt "32270"
+msgid ""
+"私としたことが、店の子に手をだされて\n"
+"つい頭に血がのぼってしまいまして……\n"
+"女将失格ですわ……"
+msgstr ""
+
+msgctxt "32365"
+msgid ""
+"そんなことはない。\n"
+"……従業員を守るのも、大切な女将の仕事だ。\n"
+"武士に向かっていくあんたは、立派だったぜ。"
+msgstr ""
+
+msgctxt "32472"
+msgid ""
+"斎藤様……\n"
+"色々と、ほんまにありがとうございました。\n"
+"これ、ご迷惑をおかけしたお詫びです。"
+msgstr ""
+
+msgctxt "32563"
+msgid "「<Color:8>綺麗な絹織物<Color:Default>」を手に入れた"
+msgstr ""
+
+msgctxt "32616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32617"
+msgid ""
+"斎藤様、今回のことに懲りず、\n"
+"またうちの店にいらしてくださいますか？"
+msgstr ""
+
+msgctxt "32686"
+msgid "あぁ、もちろんだ。"
+msgstr ""
+
+msgctxt "32705"
+msgid "よかった……　お待ちしておりますえ。"
+msgstr ""
+
+msgctxt "32742"
+msgid "また、おこしやす。"
+msgstr ""
+
+msgctxt "32761"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32762"
+msgid "斎藤様、おこしやす。"
+msgstr ""
+
+msgctxt "32783"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32784"
+msgid "（手持ちがない……）"
+msgstr ""
+
+msgctxt "32805"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "32834"
+msgid ""
+"そうですか。\n"
+"またお越し下さいね。"
+msgstr ""
+
+msgctxt "32869"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32870"
+msgid ""
+"ご注文は何にいたしましょう。\n"
+"お飲み物から伺います。"
+msgstr ""
+
+msgctxt "32923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32924"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "32949"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32950"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32951"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "32976"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32977"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32978"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32979"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32980"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32981"
+msgid "お代はこちらになります。"
+msgstr ""
+
+msgctxt "33006"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33007"
+msgid ""
+"斎藤様、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "33044"
+msgid "今日もうまかった。"
+msgstr ""
+
+msgctxt "33063"
+msgid "いつもご贔屓にしてくださって、おおきに。"
+msgstr ""
+
+msgctxt "33104"
+msgid "うるせぇ!!　いいから言う通りにしろや！　あぁ!?"
+msgstr ""
+
+msgctxt "33151"
+msgid ""
+"お、お客様、他のお客様のご迷惑になります。\n"
+"なにとぞお静かに……"
+msgstr ""
+
+msgctxt "33216"
+msgid ""
+"知ったこっちゃねえんだよ！\n"
+"俺だって客だ！　この店は客を選ぶっていうのかぁ!?"
+msgstr ""
+
+msgctxt "33293"
+msgid "そ、そういうわけでは……"
+msgstr ""
+
+msgctxt "33318"
+msgid ""
+"斎藤様、申し訳ありません。\n"
+"私、少しばかりあちらのお客様とお話を……"
+msgstr ""
+
+msgctxt "33387"
+msgid ""
+"あぁ、わかったわかった。お前の言うとおり\n"
+"他のお客様に、もっとご迷惑かけてきてやるよ。"
+msgstr ""
+
+msgctxt "33474"
+msgid ""
+"そ、そんなこと……\n"
+"お、お客様！　お待ちくださ……"
+msgstr ""
+
+msgctxt "33525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33530"
+msgid ""
+"お。お前、この店の責任者か？\n"
+"この店の教育はどうなってんだぁ？　あぁ？"
+msgstr ""
+
+msgctxt "33601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33602"
+msgid ""
+"……お客様、私どもの接客がお気に障ったのなら\n"
+"お詫び申し上げます。いったいどうなされましたか？"
+msgstr ""
+
+msgctxt "33697"
+msgid ""
+"どうもこうもねぇよ！　この女店員！\n"
+"ちょっと乳をまさぐっただけで文句を言いやがる！"
+msgstr ""
+
+msgctxt "33780"
+msgid "それでも接客業かってんだよ!?　なぁ!?"
+msgstr ""
+
+msgctxt "33817"
+msgid "なるほど、そのようなことがあったんどすか……"
+msgstr ""
+
+msgctxt "33862"
+msgid ""
+"お詫びと言ってはなんですがお料理を一品、\n"
+"無料でご提供させていただきますさかい。"
+msgstr ""
+
+msgctxt "33943"
+msgid ""
+"けっ、そうそう、\n"
+"最初からそういう態度で接してくれねぇとな。"
+msgstr ""
+
+msgctxt "34004"
+msgid ""
+"ぶぶ漬け。\n"
+"……お客様のお口に合えばええんどすが。"
+msgstr ""
+
+msgctxt "34055"
+msgid ""
+"ぶぶ漬けってぇと、お茶漬けのことか？\n"
+"俺はもっと食べ応えのあるもんがいいんだけどよ……"
+msgstr ""
+
+msgctxt "34142"
+msgid ""
+"おい、お前。\n"
+"京の店でぶぶ漬けを勧められる意味、知らねえのか？"
+msgstr ""
+
+msgctxt "34205"
+msgid "あぁ？　どういうことだ？　意味だとぉ？"
+msgstr ""
+
+msgctxt "34244"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34245"
+msgid "“とっとと帰れ”、そう言われてんだよ。"
+msgstr ""
+
+msgctxt "34284"
+msgid ""
+"なんだとぉ……？\n"
+"ば、ばかにしやがって!!　俺は客だぞ！"
+msgstr ""
+
+msgctxt "34339"
+msgid ""
+"他のお客様にご迷惑をおかけする……\n"
+"うちの店の娘にちょっかいをだす……"
+msgstr ""
+
+msgctxt "34410"
+msgid "……そんな方は、お客様ではございません。"
+msgstr ""
+
+msgctxt "34451"
+msgid "申し訳ありませんが、お帰りくださいますか？"
+msgstr ""
+
+msgctxt "34494"
+msgid "く、クソババァっ……！"
+msgstr ""
+
+msgctxt "34517"
+msgid ""
+"上等だ……　俺が礼儀ってもんを教えてやる！\n"
+"ちぃとばかり……　痛い目見るけどな……！"
+msgstr ""
+
+msgctxt "34602"
+msgid ""
+"フッ、お前ごときに教えられる礼儀なんざ、\n"
+"何の役にも立たないだろうな。"
+msgstr ""
+
+msgctxt "34673"
+msgid ""
+"あ？　なんだテメェ？\n"
+"お前にも礼儀ってもんを教えてやろうか？　あぁ？"
+msgstr ""
+
+msgctxt "34742"
+msgid ""
+"よろしく頼む。\n"
+"ここでは店の迷惑になる……　表にでな。"
+msgstr ""
+
+msgctxt "34797"
+msgid "上等だ……！"
+msgstr ""
+
+msgctxt "34810"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34811"
+msgid "すまない、急用ができた……"
+msgstr ""
+
+msgctxt "34838"
+msgid ""
+"そうどすか、わかりました。\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "34887"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34888"
+msgid "斎藤様、おこしやす。"
+msgstr ""
+
+msgctxt "34909"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34910"
+msgid "（手持ちがない……）"
+msgstr ""
+
+msgctxt "34931"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "34960"
+msgid ""
+"そうですか。\n"
+"またお越し下さいね。"
+msgstr ""
+
+msgctxt "34995"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34996"
+msgid ""
+"ご注文は何にいたしましょう。\n"
+"お飲み物から伺います。"
+msgstr ""
+
+msgctxt "35049"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35050"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "35075"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35076"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35077"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "35102"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35103"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35104"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35105"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35106"
+msgid "お代はこちらになります。"
+msgstr ""
+
+msgctxt "35131"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35132"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "35171"
+msgid ""
+"おおきに。\n"
+"またおこしくださいね。"
+msgstr ""
+
+msgctxt "35206"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35207"
+msgid "すまない、急用ができた……"
+msgstr ""
+
+msgctxt "35234"
+msgid ""
+"そうどすか、わかりました。\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "35283"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35284"
+msgid ""
+"斎藤様、おこしやす。\n"
+"こちらへどうぞ。"
+msgstr ""
+
+msgctxt "35323"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35324"
+msgid "（手持ちがない……）"
+msgstr ""
+
+msgctxt "35345"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "35374"
+msgid ""
+"そうですか。\n"
+"またお越し下さいね。"
+msgstr ""
+
+msgctxt "35409"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35410"
+msgid ""
+"ご注文は何にいたしましょう。\n"
+"お飲み物から伺います。"
+msgstr ""
+
+msgctxt "35463"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35464"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "35489"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35490"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35491"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "35516"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35517"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35518"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35519"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35520"
+msgid "お代はこちらになります。"
+msgstr ""
+
+msgctxt "35545"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35546"
+msgid ""
+"斎藤様、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "35583"
+msgid "うまかった。"
+msgstr ""
+
+msgctxt "35596"
+msgid "ふふ、いつもご贔屓にしてくださって、おおきに。"
+msgstr ""
+
+msgctxt "35643"
+msgid ""
+"……はぁ、お客様がみんな\n"
+"斎藤様のような方ばかりやったらええのになぁ。"
+msgstr ""
+
+msgctxt "35714"
+msgid "……どうかしたのか？"
+msgstr ""
+
+msgctxt "35735"
+msgid "あ、私としたことがつい口が……"
+msgstr ""
+
+msgctxt "35766"
+msgid ""
+"申し訳ありません。\n"
+"今のは聞かなかったことにしていただけますか？"
+msgstr ""
+
+msgctxt "35831"
+msgid "……あ、あぁ。わかった。"
+msgstr ""
+
+msgctxt "35856"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35857"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35858"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35859"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35860"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35861"
+msgid ""
+"女将さん！　どうしましょう！\n"
+"お客様同士が酔っ払って殴り合いを……！"
+msgstr ""
+
+msgctxt "35930"
+msgid ""
+"おみつさん。……お客様の前でしょ？\n"
+"私達まで騒がしうしたら、どないなります？"
+msgstr ""
+
+msgctxt "36007"
+msgid "あっ……"
+msgstr ""
+
+msgctxt "36016"
+msgid "も、申し訳ありません……"
+msgstr ""
+
+msgctxt "36041"
+msgid "どちらのお客様？"
+msgstr ""
+
+msgctxt "36058"
+msgid "竹の間です。"
+msgstr ""
+
+msgctxt "36071"
+msgid ""
+"……おそらくはまたお侍様同士の喧嘩です。\n"
+"ふふ、元気がよすぎて困ってしまいますわ。"
+msgstr ""
+
+msgctxt "36154"
+msgid ""
+"斎藤様、申し訳ありません。\n"
+"お見送りできそうにありませんが、またおこしやす。"
+msgstr ""
+
+msgctxt "36231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36232"
+msgid "おみつさん、行きますよ。"
+msgstr ""
+
+msgctxt "36257"
+msgid "は、はい！"
+msgstr ""
+
+msgctxt "36268"
+msgid "（……料亭というのも、大変な仕事だな）"
+msgstr ""
+
+msgctxt "36307"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36308"
+msgid "すまない、急用ができた……"
+msgstr ""
+
+msgctxt "36335"
+msgid ""
+"そうどすか、わかりました。\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "36384"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36385"
+msgid "斎藤様、おこしやす。"
+msgstr ""
+
+msgctxt "36406"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36407"
+msgid "（手持ちがない……）"
+msgstr ""
+
+msgctxt "36428"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "36457"
+msgid ""
+"そうですか。\n"
+"またお越し下さいね。"
+msgstr ""
+
+msgctxt "36492"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36493"
+msgid ""
+"ご注文は何にいたしましょう。\n"
+"お飲み物から伺います。"
+msgstr ""
+
+msgctxt "36546"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36547"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "36572"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36573"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36574"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "36599"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36600"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36602"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36603"
+msgid "お代はこちらになります。"
+msgstr ""
+
+msgctxt "36628"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36629"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "36668"
+msgid ""
+"おおきに。\n"
+"またおこしくださいね。"
+msgstr ""
+
+msgctxt "36703"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36704"
+msgid "すまない、急用ができた……"
+msgstr ""
+
+msgctxt "36731"
+msgid ""
+"そうどすか、わかりました。\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "36780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36781"
+msgid "ようこそ、おいでやす。"
+msgstr ""
+
+msgctxt "36804"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36805"
+msgid "（手持ちがない……）"
+msgstr ""
+
+msgctxt "36826"
+msgid "すまない、ちょっと急用が……"
+msgstr ""
+
+msgctxt "36855"
+msgid ""
+"そうですか。\n"
+"またお越し下さいね。"
+msgstr ""
+
+msgctxt "36890"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36891"
+msgid ""
+"ご注文は何にいたしましょう。\n"
+"お飲み物から伺います。"
+msgstr ""
+
+msgctxt "36944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36945"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "36970"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36971"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36972"
+msgid "食べ物はいかがされます？"
+msgstr ""
+
+msgctxt "36997"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36998"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36999"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37000"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37001"
+msgid "お代はこちらになります。"
+msgstr ""
+
+msgctxt "37026"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37027"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡しします。"
+msgstr ""
+
+msgctxt "37066"
+msgid "（とても上品な味だったな……）"
+msgstr ""
+
+msgctxt "37097"
+msgid ""
+"……お客様、このようなお店には\n"
+"よくいらっしゃるんどすか？"
+msgstr ""
+
+msgctxt "37156"
+msgid "ん？　いや、めったに来ないが……　どうしてだ？"
+msgstr ""
+
+msgctxt "37203"
+msgid ""
+"いいえ、お客様がずいぶんと\n"
+"物静かで落ち着いた方でいらっしゃいますから。\n"
+"こういった場に、慣れていらっしゃるのかと。"
+msgstr ""
+
+msgctxt "37320"
+msgid ""
+"それほどでもないが……\n"
+"料亭では静かに料理を食べるものだろう？\n"
+"郷に入れば、郷に従うさ。"
+msgstr ""
+
+msgctxt "37409"
+msgid "お心遣い、おおきに。"
+msgstr ""
+
+msgctxt "37430"
+msgid ""
+"……実は、うちのお店、\n"
+"最近まで一見さんお断りやったんです。"
+msgstr ""
+
+msgctxt "37491"
+msgid ""
+"一見さんお断り……\n"
+"誰かの紹介やツテがないと入れないってやつか。"
+msgstr ""
+
+msgctxt "37556"
+msgid ""
+"えぇ……　でもそういうしきたりはもう、\n"
+"ええんやないかなって思いまして。"
+msgstr ""
+
+msgctxt "37629"
+msgid ""
+"これからの料亭は、敷居だけ高くてもあかん。\n"
+"もっと多くのお客様に幅広く楽しんで\n"
+"もらえるようにせな、と。"
+msgstr ""
+
+msgctxt "37734"
+msgid ""
+"なるほどな。\n"
+"その結果、どうだ？　客は増えたのか？"
+msgstr ""
+
+msgctxt "37785"
+msgid ""
+"ええ。おかげさまで。\n"
+"毎日いろんな方がぎょーさん\n"
+"きてくれはります。"
+msgstr ""
+
+msgctxt "37854"
+msgid ""
+"お侍様もよういらっしゃるんですが……\n"
+"あの方達は元気がよすぎて色々と\n"
+"大変なんどすが……　まぁ、嬉しい悲鳴どすなぁ。"
+msgstr ""
+
+msgctxt "37971"
+msgid ""
+"フッ、それで侍なのに静かに飯を食う俺が\n"
+"意外だったというわけか。"
+msgstr ""
+
+msgctxt "38036"
+msgid "えぇ。そういうことです。"
+msgstr ""
+
+msgctxt "38061"
+msgid ""
+"……また私どもの店をご利用なさってくださいね。\n"
+"お客様のような方でしたらいつでも大歓迎ですので。"
+msgstr ""
+
+msgctxt "38158"
+msgid "あぁ、そうしよう。料理もうまかったしな。"
+msgstr ""
+
+msgctxt "38199"
+msgid "お客様、お名前をお伺いしてもよろしいどすか？"
+msgstr ""
+
+msgctxt "38244"
+msgid "あぁ、斎藤だ。"
+msgstr ""
+
+msgctxt "38259"
+msgid ""
+"では、斎藤様。\n"
+"おおきに、またのご来店、お待ちしておりますえ。"
+msgstr ""
+
+msgctxt "38322"
+msgid ""
+"「料亭・春日の女将」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「料亭・春日の女将」と交流してみましょう。"
+msgstr ""
+
+msgctxt "38551"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38552"
+msgid "すまない、急用ができた……"
+msgstr ""
+
+msgctxt "38579"
+msgid ""
+"そうどすか、わかりました。\n"
+"またおこしください。"
+msgstr ""
+
+msgctxt "38628"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "40592"
+msgid "女将"
+msgstr ""
+
+msgctxt "40597"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "40608"
+msgid "Player"
+msgstr ""
+
+msgctxt "40615"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "40624"
+msgid "dummy"
+msgstr ""
+
+msgctxt "40630"
+msgid "P_KRU_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "40652"
+msgid "F_CHO_TLK_seiza_ojigi"
+msgstr ""
+
+msgctxt "40674"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "40682"
+msgid "F_CHO_TLK_seiza_happy"
+msgstr ""
+
+msgctxt "40704"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "40715"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "40727"
+msgid "男の怒鳴り声"
+msgstr ""
+
+msgctxt "40740"
+msgid "店員らしき声"
+msgstr ""
+
+msgctxt "40753"
+msgid "酔っぱらった侍"
+msgstr ""
+
+msgctxt "40768"
+msgid "ADV_F_CHO_STAND"
+msgstr ""
+
+msgctxt "40784"
+msgid "F_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "40806"
+msgid "F_CHO_TLK_seiza_to_stand"
+msgstr ""
+
+msgctxt "40831"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "40842"
+msgid "F_CHO_TLK_stand_yes"
+msgstr ""
+
+msgctxt "40862"
+msgid "F_CHO_TLK_stand_ojigi"
+msgstr ""
+
+msgctxt "40884"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "40895"
+msgid "ADV_P_KRU_STAND"
+msgstr ""
+
+msgctxt "40911"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "40933"
+msgid "P_KRU_TLK_agura_to_stand"
+msgstr ""
+
+msgctxt "40958"
+msgid "F_CHO_TLK_stand_info_l"
+msgstr ""
+
+msgctxt "40981"
+msgid "P_KRU_TLK_stand_smile"
+msgstr ""
+
+msgctxt "41003"
+msgid "P_KRU_TLK_stand_yes"
+msgstr ""
+
+msgctxt "41023"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "41036"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "41047"
+msgid "店員"
+msgstr ""
+
+msgctxt "41052"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "41061"
+msgid "おみつ"
+msgstr ""
+
+msgctxt "41068"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "41079"
+msgid "料亭・春日の女将との絆"
+msgstr ""

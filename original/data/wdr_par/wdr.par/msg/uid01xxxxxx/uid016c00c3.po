@@ -1,0 +1,930 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "19316"
+msgid "（さて、一眠りするかな……）"
+msgstr ""
+
+msgctxt "19345"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19346"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19347"
+msgid "ふぁぁぁ……"
+msgstr ""
+
+msgctxt "19360"
+msgid ""
+"（遥も眠そうだな。\n"
+"　一緒に寝ないか、誘ってみるか……？）"
+msgstr ""
+
+msgctxt "19419"
+msgid "（いや、やめておくか。寝よう……）"
+msgstr ""
+
+msgctxt "19454"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19455"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19456"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19457"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19458"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19459"
+msgid ""
+"遥、眠いのか？\n"
+"なら、お前も一緒に寝るか？"
+msgstr ""
+
+msgctxt "19502"
+msgid "え？　いいの？"
+msgstr ""
+
+msgctxt "19517"
+msgid ""
+"ああ。\n"
+"眠いときは、寝ればいいさ。\n"
+"さぁ、寝るぞ。"
+msgstr ""
+
+msgctxt "19568"
+msgid "う、うん！"
+msgstr ""
+
+msgctxt "19579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19584"
+msgid "おじさん、起きてる？"
+msgstr ""
+
+msgctxt "19605"
+msgid "ああ。どうした？"
+msgstr ""
+
+msgctxt "19622"
+msgid ""
+"ううん、別に。\n"
+"なんか、こうしてると、今わたし、\n"
+"すごく幸せだなーって改めて思えてくるんだ。"
+msgstr ""
+
+msgctxt "19715"
+msgid "そうか。それはよかったな。"
+msgstr ""
+
+msgctxt "19742"
+msgid "うん。……おじさんのおかげだよ。"
+msgstr ""
+
+msgctxt "19775"
+msgid "俺の？"
+msgstr ""
+
+msgctxt "19782"
+msgid ""
+"うん。\n"
+"普段は恥ずかしいからあんまり言わないけど……\n"
+"ありがとね、おじさん。"
+msgstr ""
+
+msgctxt "19859"
+msgid ""
+"遥……\n"
+"ふっ、こちらこそ、ありがとうな。\n"
+"……さぁ、もう寝るんだ。"
+msgstr ""
+
+msgctxt "19926"
+msgid "うん。おやすみなさい、おじさん。"
+msgstr ""
+
+msgctxt "19959"
+msgid "おやすみ、遥……"
+msgstr ""
+
+msgctxt "19976"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19977"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19978"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19979"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19980"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19981"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19982"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19983"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19984"
+msgid "（さて、一眠りするかな……）"
+msgstr ""
+
+msgctxt "20013"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20014"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20015"
+msgid "ふぁぁぁ……"
+msgstr ""
+
+msgctxt "20028"
+msgid ""
+"（遥も眠そうだな。\n"
+"　一緒に寝ないか、誘ってみるか……？）"
+msgstr ""
+
+msgctxt "20087"
+msgid "（いや、やめておくか。寝よう……）"
+msgstr ""
+
+msgctxt "20122"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20123"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20124"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20125"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20126"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20127"
+msgid ""
+"遥、眠いのか？\n"
+"なら、お前も一緒に寝るか？"
+msgstr ""
+
+msgctxt "20170"
+msgid "え？　いいの？"
+msgstr ""
+
+msgctxt "20185"
+msgid ""
+"ああ。\n"
+"眠いときは、寝ればいいさ。\n"
+"さぁ、寝るぞ。"
+msgstr ""
+
+msgctxt "20236"
+msgid "う、うん！"
+msgstr ""
+
+msgctxt "20247"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20248"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20249"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20250"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20251"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20252"
+msgid "おじさん、起きてる？"
+msgstr ""
+
+msgctxt "20273"
+msgid "ああ。どうした？"
+msgstr ""
+
+msgctxt "20290"
+msgid ""
+"ううん、別に。\n"
+"なんか、こうしてると、今わたし、\n"
+"すごく幸せだなーって改めて思えてくるんだ。"
+msgstr ""
+
+msgctxt "20383"
+msgid "そうか。それはよかったな。"
+msgstr ""
+
+msgctxt "20410"
+msgid "うん。……おじさんのおかげだよ。"
+msgstr ""
+
+msgctxt "20443"
+msgid "俺の？"
+msgstr ""
+
+msgctxt "20450"
+msgid ""
+"うん。\n"
+"普段は恥ずかしいからあんまり言わないけど……\n"
+"ありがとね、おじさん。"
+msgstr ""
+
+msgctxt "20527"
+msgid ""
+"遥……\n"
+"ふっ、こちらこそ、ありがとうな。\n"
+"……さぁ、もう寝るんだ。"
+msgstr ""
+
+msgctxt "20594"
+msgid "うん。おやすみなさい、おじさん。"
+msgstr ""
+
+msgctxt "20627"
+msgid "おやすみ、遥……"
+msgstr ""
+
+msgctxt "20644"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20645"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20646"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20647"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20648"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20649"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20650"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20651"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20652"
+msgid "（さて、一眠りするかな……）"
+msgstr ""
+
+msgctxt "20681"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20682"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20683"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20684"
+msgid "ふあぁ……"
+msgstr ""
+
+msgctxt "20695"
+msgid ""
+"ん？　どうした？\n"
+"遥も眠いのか？"
+msgstr ""
+
+msgctxt "20728"
+msgid ""
+"え？　う、うん……\n"
+"昨日遅くまでお掃除してたから、ちょっと……"
+msgstr ""
+
+msgctxt "20791"
+msgid "そうか。なら、お前も一緒に寝るか？"
+msgstr ""
+
+msgctxt "20826"
+msgid "で、でも……"
+msgstr ""
+
+msgctxt "20839"
+msgid ""
+"家事や掃除をすることも大事だが、\n"
+"そこまで根をつめる必要はない。\n"
+"眠いときは、寝ればいいさ。"
+msgstr ""
+
+msgctxt "20932"
+msgid "ほら。寝るぞ。"
+msgstr ""
+
+msgctxt "20947"
+msgid "う、うん。"
+msgstr ""
+
+msgctxt "20958"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20959"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20960"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20961"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20962"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20963"
+msgid ""
+"おじさん……\n"
+"もう、寝ちゃった？"
+msgstr ""
+
+msgctxt "20996"
+msgid "……いや。起きてる。どうかしたのか？"
+msgstr ""
+
+msgctxt "21033"
+msgid ""
+"ううん、ちょっと寝付けなかっただけ。\n"
+"あんなに眠かったのに、急に目がさえちゃった。"
+msgstr ""
+
+msgctxt "21116"
+msgid ""
+"……ねぇおじさん。\n"
+"おじさんは、寂しくなることってある？"
+msgstr ""
+
+msgctxt "21173"
+msgid ""
+"もちろんあるさ。\n"
+"家に帰ったときに、遥がいない時とかな。\n"
+"結構寂しく感じるもんだぞ。"
+msgstr ""
+
+msgctxt "21258"
+msgid ""
+"そ、そっか……\n"
+"えへへへへ……"
+msgstr ""
+
+msgctxt "21289"
+msgid ""
+"だが、そう感じるようになったのも最近のことだ。\n"
+"以前は、寂しいということがどういうことかも、\n"
+"よく分かっていなかった。"
+msgstr ""
+
+msgctxt "21408"
+msgid "え？　どういうこと？"
+msgstr ""
+
+msgctxt "21429"
+msgid "いや、ないな。"
+msgstr ""
+
+msgctxt "21444"
+msgid ""
+"そっか……\n"
+"どうして、おじさんは寂しくないの？"
+msgstr ""
+
+msgctxt "21491"
+msgid ""
+"遥がいるからな。\n"
+"別に寂しくない。"
+msgstr ""
+
+msgctxt "21526"
+msgid ""
+"そ、そっか……\n"
+"えへへへへ……"
+msgstr ""
+
+msgctxt "21557"
+msgid ""
+"……だが、遥と暮らす以前も、寂しいとは\n"
+"あまり感じていなかったんだ。"
+msgstr ""
+
+msgctxt "21626"
+msgid "え？　どういうこと？"
+msgstr ""
+
+msgctxt "21647"
+msgid "慣れたから、かな。"
+msgstr ""
+
+msgctxt "21666"
+msgid "え？　どういうこと？"
+msgstr ""
+
+msgctxt "21687"
+msgid ""
+"早いうちに両親を亡くして、俺にとって\n"
+"孤独は当たり前のものになっていたからな。\n"
+"それを寂しいと感じることはなかった。"
+msgstr ""
+
+msgctxt "21804"
+msgid "いわば、孤独に慣れていたんだな、俺は。"
+msgstr ""
+
+msgctxt "21843"
+msgid "孤独に、慣れる……"
+msgstr ""
+
+msgctxt "21862"
+msgid ""
+"ああ。今考えると、孤独で寂しい日々だったのかも\n"
+"しれない。だが、自分が孤独だということに\n"
+"あの頃の俺は気づくこともできなかった。"
+msgstr ""
+
+msgctxt "21991"
+msgid ""
+"そっか……\n"
+"寂しいことも、当たり前になると、\n"
+"自分が寂しいんだってことにも気付かなくなる。"
+msgstr ""
+
+msgctxt "22082"
+msgid ""
+"おじさんと出会わなかったら……\n"
+"私もそうなっていたのかもしれないね。"
+msgstr ""
+
+msgctxt "22151"
+msgid ""
+"……さあ、どうだろうな。\n"
+"だが、お前と暮らしていく中で、俺はそんな\n"
+"自分を変えることができた気がする。"
+msgstr ""
+
+msgctxt "22254"
+msgid ""
+"……誰かが家にいる、\n"
+"待ってくれてる人がいるってのは、いいもんだな。\n"
+"これが、家族の温かみ、というやつか。"
+msgstr ""
+
+msgctxt "22361"
+msgid "か、家族……　私が？"
+msgstr ""
+
+msgctxt "22382"
+msgid ""
+"ああ。少し変わった関係かもしれないが、\n"
+"俺にとって、お前は大事な家族だ。"
+msgstr ""
+
+msgctxt "22455"
+msgid ""
+"だからもしお前が寂しい時や、\n"
+"つらい時は、遠慮なく言ってくれ。"
+msgstr ""
+
+msgctxt "22518"
+msgid ""
+"俺に出来ることなら、いつでも力になってやる。\n"
+"……まぁ何が出来るのかは、正直よくわからんがな。"
+msgstr ""
+
+msgctxt "22613"
+msgid ""
+"おじさん……\n"
+"ふふっ、ありがとう。"
+msgstr ""
+
+msgctxt "22648"
+msgid ""
+"さぁ、そろそろ寝るか。\n"
+"どうだ？　寝れそうか？"
+msgstr ""
+
+msgctxt "22695"
+msgid ""
+"うん。\n"
+"……おやすみ、おじさん。"
+msgstr ""
+
+msgctxt "22728"
+msgid "おやすみ、遥。"
+msgstr ""
+
+msgctxt "22743"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22744"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22745"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22746"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22747"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22748"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22749"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22750"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22751"
+msgid "（さて、一眠りするかな……）"
+msgstr ""
+
+msgctxt "22780"
+msgid "（……いや、やめておくか）"
+msgstr ""
+
+msgctxt "22807"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22808"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22809"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22810"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22811"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22812"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23688"
+msgid "Player"
+msgstr ""
+
+msgctxt "23695"
+msgid "dummy"
+msgstr ""
+
+msgctxt "23701"
+msgid "haruka_soine1_n"
+msgstr ""
+
+msgctxt "23717"
+msgid "遥"
+msgstr ""
+
+msgctxt "23720"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "23733"
+msgid "誘う"
+msgstr ""
+
+msgctxt "23738"
+msgid "誘わない"
+msgstr ""
+
+msgctxt "23747"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "23756"
+msgid "m41003_al_soine"
+msgstr ""
+
+msgctxt "23772"
+msgid "haruka_soine2_n"
+msgstr ""
+
+msgctxt "23788"
+msgid "haruka_bed_s02_005"
+msgstr ""
+
+msgctxt "23807"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "23812"
+msgid "kiryu_bed_s02_004"
+msgstr ""
+
+msgctxt "23830"
+msgid "haruka_bed_s02_006"
+msgstr ""
+
+msgctxt "23849"
+msgid "F_HAL_AL_soine_no"
+msgstr ""
+
+msgctxt "23867"
+msgid "kiryu_bed_s02_005"
+msgstr ""
+
+msgctxt "23885"
+msgid "haruka_bed_s02_007"
+msgstr ""
+
+msgctxt "23904"
+msgid "F_HAL_AL_soine_yes"
+msgstr ""
+
+msgctxt "23923"
+msgid "kiryu_bed_s02_006"
+msgstr ""
+
+msgctxt "23941"
+msgid "haruka_bed_s02_008"
+msgstr ""
+
+msgctxt "23960"
+msgid "F_HAL_AL_soine_kansin"
+msgstr ""
+
+msgctxt "23982"
+msgid "kiryu_bed_s02_007"
+msgstr ""
+
+msgctxt "24000"
+msgid "haruka_bed_s02_009"
+msgstr ""
+
+msgctxt "24019"
+msgid "kiryu_bed_s02_008"
+msgstr ""
+
+msgctxt "24037"
+msgid "寝る"
+msgstr ""
+
+msgctxt "24042"
+msgid "やめる"
+msgstr ""
+
+msgctxt "24049"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "24057"
+msgid "haruka_bed_s01_008"
+msgstr ""
+
+msgctxt "24076"
+msgid "kiryu_bed_s01_007"
+msgstr ""
+
+msgctxt "24094"
+msgid "haruka_bed_s01_009"
+msgstr ""
+
+msgctxt "24113"
+msgid "haruka_bed_s01_012"
+msgstr ""
+
+msgctxt "24132"
+msgid "もちろんある"
+msgstr ""
+
+msgctxt "24145"
+msgid "ないな"
+msgstr ""
+
+msgctxt "24152"
+msgid "kiryu_bed_s01_027"
+msgstr ""
+
+msgctxt "24170"
+msgid "haruka_bed_s01_025"
+msgstr ""
+
+msgctxt "24189"
+msgid "F_HAL_AL_soine_smile"
+msgstr ""
+
+msgctxt "24210"
+msgid "kiryu_bed_s01_028"
+msgstr ""
+
+msgctxt "24228"
+msgid "haruka_bed_s01_026"
+msgstr ""
+
+msgctxt "24247"
+msgid "F_HAL_AL_soine_surp"
+msgstr ""
+
+msgctxt "24267"
+msgid "kiryu_bed_s01_010"
+msgstr ""
+
+msgctxt "24285"
+msgid "haruka_bed_s01_013"
+msgstr ""
+
+msgctxt "24304"
+msgid "遥がいるから"
+msgstr ""
+
+msgctxt "24317"
+msgid "慣れたから"
+msgstr ""
+
+msgctxt "24328"
+msgid "kiryu_bed_s01_011"
+msgstr ""
+
+msgctxt "24346"
+msgid "haruka_bed_s01_014"
+msgstr ""
+
+msgctxt "24365"
+msgid "kiryu_bed_s01_012"
+msgstr ""
+
+msgctxt "24383"
+msgid "haruka_bed_s01_015"
+msgstr ""
+
+msgctxt "24402"
+msgid "kiryu_bed_s01_029"
+msgstr ""
+
+msgctxt "24420"
+msgid "haruka_bed_s01_027"
+msgstr ""
+
+msgctxt "24439"
+msgid "kaiwabgm_hartwarm_05"
+msgstr ""
+
+msgctxt "24460"
+msgid "kiryu_bed_s01_013"
+msgstr ""
+
+msgctxt "24478"
+msgid "kiryu_bed_s01_014"
+msgstr ""
+
+msgctxt "24496"
+msgid "haruka_bed_s01_016"
+msgstr ""
+
+msgctxt "24515"
+msgid "kiryu_bed_s01_015"
+msgstr ""
+
+msgctxt "24533"
+msgid "haruka_bed_s01_017"
+msgstr ""
+
+msgctxt "24552"
+msgid "haruka_bed_s01_018"
+msgstr ""
+
+msgctxt "24571"
+msgid "kiryu_bed_s01_016"
+msgstr ""
+
+msgctxt "24589"
+msgid "kiryu_bed_s01_017"
+msgstr ""
+
+msgctxt "24607"
+msgid "haruka_bed_s01_019"
+msgstr ""
+
+msgctxt "24626"
+msgid "kiryu_bed_s01_018"
+msgstr ""
+
+msgctxt "24644"
+msgid "kiryu_bed_s01_023"
+msgstr ""
+
+msgctxt "24662"
+msgid "kiryu_bed_s01_024"
+msgstr ""
+
+msgctxt "24680"
+msgid "haruka_bed_s01_023"
+msgstr ""
+
+msgctxt "24699"
+msgid "kiryu_bed_s01_025"
+msgstr ""
+
+msgctxt "24717"
+msgid "haruka_bed_s01_024"
+msgstr ""
+
+msgctxt "24736"
+msgid "kiryu_bed_s01_026"
+msgstr ""

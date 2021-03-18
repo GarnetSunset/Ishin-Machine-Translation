@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1328"
+msgid ""
+"なにやら、四国屋のほうが騒がしい様子……\n"
+"しばらくは様子を見た方がよいみたいですね。"
+msgstr ""
+
+msgctxt "1413"
+msgid ""
+"ヒヒ、またしばらくしたら来てくださいよ。\n"
+"巻き込まれるのは御免ですからね。"
+msgstr ""
+
+msgctxt "1488"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1489"
+msgid ""
+"お待ちしてました。\n"
+"すぐ行けますか？"
+msgstr ""
+
+msgctxt "1526"
+msgid "（どうするか……）"
+msgstr ""
+
+msgctxt "1545"
+msgid "すまない、もう少し待っててくれ。"
+msgstr ""
+
+msgctxt "1578"
+msgid ""
+"分かりました。\n"
+"でも、なるべく急いでくださいね。"
+msgstr ""
+
+msgctxt "1627"
+msgid "四国屋の近くの屋敷前だったな。"
+msgstr ""
+
+msgctxt "1658"
+msgid ""
+"はい、あちらの通りから四国屋に向かってください。\n"
+"四国屋を通り過ぎて、洛内の大通りが\n"
+"見えたあたりにありますので。"
+msgstr ""
+
+msgctxt "1773"
+msgid "ああ、わかった。"
+msgstr ""
+
+msgctxt "1912"
+msgid "阿久水"
+msgstr ""
+
+msgctxt "1919"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "1931"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1942"
+msgid "Player"
+msgstr ""
+
+msgctxt "1949"
+msgid "ああ、すぐに行こう"
+msgstr ""
+
+msgctxt "1968"
+msgid "少し待っててくれ"
+msgstr ""

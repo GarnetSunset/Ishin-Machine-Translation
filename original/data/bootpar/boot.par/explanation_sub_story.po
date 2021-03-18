@@ -1,0 +1,3031 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "TITLE_0"
+msgid "蝶のように舞う男"
+msgstr ""
+
+msgctxt "TITLE_1"
+msgid "神様　仏様　恵比寿様"
+msgstr ""
+
+msgctxt "TITLE_2"
+msgid "芸術的な接待"
+msgstr ""
+
+msgctxt "TITLE_3"
+msgid "引っ越すあの娘"
+msgstr ""
+
+msgctxt "TITLE_4"
+msgid "土佐弁講座"
+msgstr ""
+
+msgctxt "TITLE_5"
+msgid "五の中の二の嘘"
+msgstr ""
+
+msgctxt "TITLE_6"
+msgid "苦しみを踊りにのせて"
+msgstr ""
+
+msgctxt "TITLE_7"
+msgid "飛脚代理"
+msgstr ""
+
+msgctxt "TITLE_8"
+msgid "黒豹飛脚団、登場！"
+msgstr ""
+
+msgctxt "TITLE_9"
+msgid "黒豹の千両役者"
+msgstr ""
+
+msgctxt "TITLE_10"
+msgid "世界を知る男"
+msgstr ""
+
+msgctxt "TITLE_11"
+msgid "はらぺこ力士"
+msgstr ""
+
+msgctxt "TITLE_12"
+msgid "愛に飢えた男"
+msgstr ""
+
+msgctxt "TITLE_13"
+msgid "そそっかしい奥さん"
+msgstr ""
+
+msgctxt "TITLE_14"
+msgid "怪我したおばあちゃん"
+msgstr ""
+
+msgctxt "TITLE_15"
+msgid "吠え続ける犬"
+msgstr ""
+
+msgctxt "TITLE_16"
+msgid "招き猫"
+msgstr ""
+
+msgctxt "TITLE_17"
+msgid "引きこもり"
+msgstr ""
+
+msgctxt "TITLE_18"
+msgid "恐怖のカマ使い"
+msgstr ""
+
+msgctxt "TITLE_19"
+msgid "籠の中の乙女"
+msgstr ""
+
+msgctxt "TITLE_20"
+msgid "武士いんたびゅう"
+msgstr ""
+
+msgctxt "TITLE_21"
+msgid "尊王攘夷"
+msgstr ""
+
+msgctxt "TITLE_22"
+msgid "よくないじゃないか"
+msgstr ""
+
+msgctxt "TITLE_23"
+msgid "命知らずの恩返し"
+msgstr ""
+
+msgctxt "TITLE_24"
+msgid "黒豹の司令塔"
+msgstr ""
+
+msgctxt "TITLE_25"
+msgid "刀に魅せられた男"
+msgstr ""
+
+msgctxt "TITLE_26"
+msgid "正義感ある怪我人"
+msgstr ""
+
+msgctxt "TITLE_27"
+msgid "謎の商人"
+msgstr ""
+
+msgctxt "TITLE_28"
+msgid "はらぺこな猫"
+msgstr ""
+
+msgctxt "TITLE_29"
+msgid "物騒な街で"
+msgstr ""
+
+msgctxt "TITLE_30"
+msgid "喧嘩屋・墨坊主"
+msgstr ""
+
+msgctxt "TITLE_31"
+msgid "増えた入れ墨"
+msgstr ""
+
+msgctxt "TITLE_32"
+msgid "悟りを開いた男"
+msgstr ""
+
+msgctxt "TITLE_33"
+msgid "亡霊武者"
+msgstr ""
+
+msgctxt "TITLE_34"
+msgid "卑屈な物乞い"
+msgstr ""
+
+msgctxt "TITLE_35"
+msgid "ごみを集める男"
+msgstr ""
+
+msgctxt "TITLE_36"
+msgid "傷ついた犬"
+msgstr ""
+
+msgctxt "TITLE_37"
+msgid "文豪の葛藤"
+msgstr ""
+
+msgctxt "TITLE_38"
+msgid "入れ替わった手荷物"
+msgstr ""
+
+msgctxt "TITLE_39"
+msgid "良い汗をかく男"
+msgstr ""
+
+msgctxt "TITLE_40"
+msgid "おいなりさん"
+msgstr ""
+
+msgctxt "TITLE_41"
+msgid "大事なのはやっぱりコシ"
+msgstr ""
+
+msgctxt "TITLE_42"
+msgid "黒船？　襲来"
+msgstr ""
+
+msgctxt "TITLE_43"
+msgid "長々とした話"
+msgstr ""
+
+msgctxt "TITLE_44"
+msgid "長々とした話、おかわり"
+msgstr ""
+
+msgctxt "TITLE_45"
+msgid "これが最後の長話"
+msgstr ""
+
+msgctxt "TITLE_46"
+msgid "香水"
+msgstr ""
+
+msgctxt "TITLE_47"
+msgid "ええじゃないか"
+msgstr ""
+
+msgctxt "TITLE_48"
+msgid "サムライの定義"
+msgstr ""
+
+msgctxt "TITLE_49"
+msgid "決着！　黒豹飛脚団"
+msgstr ""
+
+msgctxt "TITLE_50"
+msgid "崖っぷち釣り人"
+msgstr ""
+
+msgctxt "TITLE_51"
+msgid "がらくた少年"
+msgstr ""
+
+msgctxt "TITLE_52"
+msgid "薪割り爺さん"
+msgstr ""
+
+msgctxt "TITLE_53"
+msgid "方向音痴の飛脚"
+msgstr ""
+
+msgctxt "TITLE_54"
+msgid "待ち続ける犬"
+msgstr ""
+
+msgctxt "TITLE_55"
+msgid "汚れた猫"
+msgstr ""
+
+msgctxt "TITLE_56"
+msgid "まだ見ぬ君へ"
+msgstr ""
+
+msgctxt "TITLE_57"
+msgid "吸い付きそうな肌の持ち主"
+msgstr ""
+
+msgctxt "TITLE_58"
+msgid "革命料理人"
+msgstr ""
+
+msgctxt "TITLE_59"
+msgid "妖艶な奥様"
+msgstr ""
+
+msgctxt "TITLE_60"
+msgid "醜いもの、美しいもの"
+msgstr ""
+
+msgctxt "TITLE_61"
+msgid "花は枯れて また咲く"
+msgstr ""
+
+msgctxt "TITLE_62"
+msgid "大御所の料理人"
+msgstr ""
+
+msgctxt "TITLE_63"
+msgid "くまがでた！"
+msgstr ""
+
+msgctxt "TITLE_64"
+msgid "龍馬はお母さん"
+msgstr ""
+
+msgctxt "TITLE_65"
+msgid "思い出せない男"
+msgstr ""
+
+msgctxt "TITLE_66"
+msgid "野菜好き少年"
+msgstr ""
+
+msgctxt "PLACE_0"
+msgid "洛内"
+msgstr ""
+
+msgctxt "PLACE_1"
+msgid "洛外"
+msgstr ""
+
+msgctxt "PLACE_2"
+msgid "骸街"
+msgstr ""
+
+msgctxt "PLACE_3"
+msgid "伏見"
+msgstr ""
+
+msgctxt "PLACE_4"
+msgid "祗園"
+msgstr ""
+
+msgctxt "PLACE_5"
+msgid "その他"
+msgstr ""
+
+msgctxt "EXPLANATION_0"
+msgid "？？？？？"
+msgstr ""
+
+msgctxt "EXPLANATION_1"
+msgid ""
+"身なりの良い女性が絡まれている……\n"
+"放ってはおけんな。"
+msgstr ""
+
+msgctxt "EXPLANATION_2"
+msgid ""
+"舞踊か……\n"
+"なかなか奥の深い世界だ。\n"
+"また今度にちぶ座に寄ってみるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_3"
+msgid ""
+"恵比寿様の格好で年寄りから金を奪い取る詐欺師か……\n"
+"許せんな。人通りの多い四条通りあたりなら\n"
+"犯人の目撃情報があるかもしれないな。"
+msgstr ""
+
+msgctxt "EXPLANATION_4"
+msgid ""
+"ばあさんの話によれば詐欺師、黒恵比寿は\n"
+"寺町にいたらしい。今から急いで追えば\n"
+"捕まえることができるかもしれないな。"
+msgstr ""
+
+msgctxt "EXPLANATION_5"
+msgid ""
+"この男が老人相手に詐欺を働いている黒恵比寿か。\n"
+"テメェの悪事を棚に上げて「神罰を思い知れ」とは。\n"
+"少々痛い目にあってもらわないとな。"
+msgstr ""
+
+msgctxt "EXPLANATION_6"
+msgid ""
+"無事に詐欺師、黒恵比寿を捕まえることができた。\n"
+"しかしばあさんの会ったのは黒恵比寿ではないらしい……\n"
+"もしかして本物の恵比寿様が……　いや、まさかな。"
+msgstr ""
+
+msgctxt "EXPLANATION_7"
+msgid ""
+"四国屋の女将、困っていたな……\n"
+"しかし、芸術家の接待なんて俺には荷が重すぎる。\n"
+"力になってやりたいのはやまやまだが……"
+msgstr ""
+
+msgctxt "EXPLANATION_8"
+msgid ""
+"俺が接待する相手、芸術家の神田は和民にいるそうだ。\n"
+"しょうがない。四国屋の女将の顔をたててやるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_9"
+msgid ""
+"神田の爺さん……　何か様子がおかしかったな。\n"
+"いや、こいつらのせいでせっかくの接待が台無しだ。\n"
+"俺流の接待で手厚く歓迎してやろう。"
+msgstr ""
+
+msgctxt "EXPLANATION_10"
+msgid ""
+"どっちが接待されてたかわからねぇが、\n"
+"とにかく無事に接待を終えられたようだな。\n"
+"神田の爺さん、また一緒に酒でも飲もうぜ。"
+msgstr ""
+
+msgctxt "EXPLANATION_11"
+msgid ""
+"河原町で俺にぶつかってきた子供……\n"
+"女の子に会うために急いでいたようだが、\n"
+"何やら様子がおかしかったな。"
+msgstr ""
+
+msgctxt "EXPLANATION_12"
+msgid ""
+"あの子供たち、引っ越しが原因で離ればなれに\n"
+"なってしまうようだな……\n"
+"河原町に女の子の泣き声が響いている。"
+msgstr ""
+
+msgctxt "EXPLANATION_13"
+msgid ""
+"みほに、しん太への伝言を頼まれた。あんな泣き顔で\n"
+"言われたら引き受けないわけにはいかないだろう。\n"
+"しん太は神社の方に走っていったようだが……"
+msgstr ""
+
+msgctxt "EXPLANATION_14"
+msgid ""
+"しん太という少年、\n"
+"やはり神社に来ていたようだな。\n"
+"みほからの伝言を伝えてやろう。"
+msgstr ""
+
+msgctxt "EXPLANATION_15"
+msgid ""
+"みほは河原町から江戸まで引っ越すんだったな。\n"
+"しん太がちゃんとみほとお別れできるかどうか気になるな。\n"
+"少し様子を見に行ってみるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_16"
+msgid ""
+"みほとしん太、最後に仲直りできて本当によかった。\n"
+"例え離ればなれになったとしても、\n"
+"お互いを思い合う気持ちを忘れずにな。"
+msgstr ""
+
+msgctxt "EXPLANATION_17"
+msgid ""
+"土佐弁の手紙が読めずに困っている、か。\n"
+"俺だったら力になれそうだ。時間のあるときにでも\n"
+"池田屋近くにいる藤江のもとへ顔をだしてみるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_18"
+msgid ""
+"まさか土佐弁の翻訳を手伝うことになるとはな……\n"
+"しかし、これも何かの縁だ。\n"
+"しばらくは藤江の助けになってやるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_19"
+msgid ""
+"藤江と土佐の女の文通はまだ続くようだな。\n"
+"もうしばらくは、俺が土佐弁指導をしてやらないとな。"
+msgstr ""
+
+msgctxt "EXPLANATION_20"
+msgid ""
+"藤江は土佐まで文通相手に会いにいったようだな。\n"
+"求婚してくるらしいが……　成功するといいな。"
+msgstr ""
+
+msgctxt "EXPLANATION_21"
+msgid ""
+"俺がもう少し上手く土佐弁を教えてやることができれば、\n"
+"藤江の求婚の結果もかわっていたのだろうか……"
+msgstr ""
+
+msgctxt "EXPLANATION_22"
+msgid ""
+"藤江の求婚が成功してよかった。\n"
+"俺の土佐弁の知識も少しは役に立ったようだな。"
+msgstr ""
+
+msgctxt "EXPLANATION_23"
+msgid ""
+"五人組の中から嘘をついている２人を見つけろ、だと？\n"
+"できることなら力になってやりたいところだが……\n"
+"まだあいつら、神明町にいるのだろうか？"
+msgstr ""
+
+msgctxt "EXPLANATION_24"
+msgid ""
+"五人全員の証言を聞いて、\n"
+"嘘をついている２人を見つけだそう。"
+msgstr ""
+
+msgctxt "EXPLANATION_25"
+msgid ""
+"大福を食った犯人、\n"
+"本当にあの２人だったのだろうか……"
+msgstr ""
+
+msgctxt "EXPLANATION_26"
+msgid ""
+"すこぶる頭を使う出来事だったな……\n"
+"しかしそのおかげで大福を食った犯人を\n"
+"言い当てることができたようだ。"
+msgstr ""
+
+msgctxt "EXPLANATION_27"
+msgid ""
+"また、ええじゃないかで騒いでいる奴らがいたな……\n"
+"おそらく便乗して暴れ回っているのだろう。\n"
+"何とかしなくてはいかんな……"
+msgstr ""
+
+msgctxt "EXPLANATION_28"
+msgid ""
+"ええじゃないかは、みんな遊び半分と思っていたが、\n"
+"純粋に運動している奴らもいたようだ。\n"
+"世の中が良くなるようにという願いが届くといいな。"
+msgstr ""
+
+msgctxt "EXPLANATION_29"
+msgid ""
+"四条大橋で足に怪我をした飛脚に仕事を頼まれた。\n"
+"あまりに情けない態度だったから断ってしまったが、\n"
+"まだ誰かの助けを待っているのだろうか？"
+msgstr ""
+
+msgctxt "EXPLANATION_30"
+msgid ""
+"お調子者の飛脚・清川の仕事を手伝った。\n"
+"俺に飛脚の素質があると言うが、仕事を押し付けて\n"
+"ただ仕事をさぼりたいだけなんじゃないのか？"
+msgstr ""
+
+msgctxt "EXPLANATION_31"
+msgid "黒豹飛脚団、登場！（開始）"
+msgstr ""
+
+msgctxt "EXPLANATION_32"
+msgid ""
+"黒豹飛脚団の切り込み隊長、星に敗れてしまった……\n"
+"しかし、奴はもう１度、俺と勝負したいらしい。\n"
+"……星は確か四条大橋にいるんだったな。"
+msgstr ""
+
+msgctxt "EXPLANATION_33"
+msgid ""
+"黒豹飛脚団の星との勝負に勝った。\n"
+"だが、どうやら飛脚団との勝負は終わりではないらしい。\n"
+"面倒なことに巻き込まれてしまったな……"
+msgstr ""
+
+msgctxt "EXPLANATION_34"
+msgid "黒豹の千両役者（開始）"
+msgstr ""
+
+msgctxt "EXPLANATION_35"
+msgid ""
+"黒豹飛脚団の切り込み隊長、槙野に敗れてしまった……\n"
+"だが、もう１度俺と勝負しないと気が済まないらしい。\n"
+"……槙野は確か薩摩藩邸近くにいるんだったな。"
+msgstr ""
+
+msgctxt "EXPLANATION_36"
+msgid ""
+"黒豹飛脚団の槙野との勝負に勝った。\n"
+"しかしその場に現れた稲本から勝負を挑まれてしまった。\n"
+"冷静沈着な相手だ、一筋縄ではいかんだろうな。"
+msgstr ""
+
+msgctxt "EXPLANATION_37"
+msgid "世界を知る男（開始）"
+msgstr ""
+
+msgctxt "EXPLANATION_38"
+msgid ""
+"地球儀の解説に困っている寺子屋の先生がいたが……\n"
+"無事子供たちに指南できたのだろうか……"
+msgstr ""
+
+msgctxt "EXPLANATION_39"
+msgid ""
+"ものを教えるというのもなかなか難しいものだな……\n"
+"だが、あの先生にとって本当に大事だったのは、\n"
+"知識よりも子供たちからの信頼だったようだな。"
+msgstr ""
+
+msgctxt "EXPLANATION_40"
+msgid ""
+"でかい男が倒れていてる。このままでは通行できない……\n"
+"何かを求めているようだから、何か渡してみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_41"
+msgid ""
+"倒れていた男は腹をすかせた力士だった。\n"
+"通行できるようになったが、\n"
+"余った食べ物をやるはめになってしまった……"
+msgstr ""
+
+msgctxt "EXPLANATION_42"
+msgid ""
+"見知らぬ男に話しかけられた。\n"
+"確かに、ここで飯を食ったらうまそうだ。\n"
+"今度手料理を持っていくか……"
+msgstr ""
+
+msgctxt "EXPLANATION_43"
+msgid ""
+"見知らぬ男に俺が作った料理を渡した。\n"
+"この男は愛妻弁当と勘違いしたようだ……"
+msgstr ""
+
+msgctxt "EXPLANATION_44"
+msgid "財布を落とした女に野菜を渡す約束をした。"
+msgstr ""
+
+msgctxt "EXPLANATION_45"
+msgid ""
+"財布を落とした女がいたな……\n"
+"野菜が欲しいということだが、\n"
+"困っているようだし、今度持っていくか。"
+msgstr ""
+
+msgctxt "EXPLANATION_46"
+msgid ""
+"ばあさんが怪我をしたようだ……\n"
+"一人で帰れるだろうか？"
+msgstr ""
+
+msgctxt "EXPLANATION_47"
+msgid ""
+"怪我したばあさんを家まで送った。\n"
+"出された茶、うまかったな……"
+msgstr ""
+
+msgctxt "EXPLANATION_48"
+msgid ""
+"やたらほえ続ける犬がいる。\n"
+"物理的に口をふさぐしかないか……\n"
+"骨でもくわえさせるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_49"
+msgid ""
+"やたらほえ続ける犬がいたが、\n"
+"骨をやっただけでああまで静かになるとはな。\n"
+"あとはあいつが駆除されないことを祈るばかりだ。"
+msgstr ""
+
+msgctxt "EXPLANATION_50"
+msgid ""
+"福を招く招き猫だと？　そんな馬鹿な話あるわけない。\n"
+"たしかにいつも神社の近くにいて、\n"
+"ご利益がありそうな猫ではあるが……　"
+msgstr ""
+
+msgctxt "EXPLANATION_51"
+msgid ""
+"福を招く招き猫か……\n"
+"信じる者は救われるとは言うが、\n"
+"あの猫はなかなか食わせ物だな。　"
+msgstr ""
+
+msgctxt "EXPLANATION_52"
+msgid ""
+"梅小路町東でなにやらもめている親子がいたな……\n"
+"親を泣かせるなんてひどい息子だが、\n"
+"何か事情があるのだろうか……"
+msgstr ""
+
+msgctxt "EXPLANATION_53"
+msgid ""
+"部屋住みで引きこもりの息子のための協力を\n"
+"母親から頼まれてしまった。たしか梅小路町東だったか。\n"
+"時間がある時に顔をだしてみるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_54"
+msgid ""
+"危険な賭けだったが、母親を守るため\n"
+"内太郎が家からでてきてくれたな。\n"
+"あとはこいつらを一掃するだけだ。"
+msgstr ""
+
+msgctxt "EXPLANATION_55"
+msgid ""
+"内太郎を引きこもりから脱させたのは俺なんかではなく\n"
+"親を思う子の心、\n"
+"そして子を思う親の心だったのかもしれないな。"
+msgstr ""
+
+msgctxt "EXPLANATION_56"
+msgid ""
+"目をつけられたら最後、どんな強い男でも\n"
+"戻ってこないと噂の鎌使いが骸街にいるらしい。\n"
+"そんな危険そうな男が本当にいるのだろうか。"
+msgstr ""
+
+msgctxt "EXPLANATION_57"
+msgid ""
+"洛内で出会った子供から、鎌使いを倒しに向かったまま\n"
+"戻ってこない父親を助けてほしいと頼まれた。\n"
+"子供との約束を守るため、骸街の奥に向かうとしよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_58"
+msgid ""
+"鎌使いの正体は、カマ使いの鎌本だった。\n"
+"子供の父親は無事取り戻せたが、あいつが今後\n"
+"男らしく生きていけるかはわからんな……"
+msgstr ""
+
+msgctxt "EXPLANATION_59"
+msgid ""
+"倉光家の使用人に駕籠の護衛を頼まれた。\n"
+"なんでも倉光家のお嬢さんが、\n"
+"早風という男に追われてるらしい……"
+msgstr ""
+
+msgctxt "EXPLANATION_60"
+msgid ""
+"結局美女の顔は見れず仕舞いだったが、\n"
+"無事助けることができてよかったな。"
+msgstr ""
+
+msgctxt "EXPLANATION_61"
+msgid ""
+"そそっかしい瓦版売りに、助けを求められてしまった。\n"
+"厄介なことにならなければ良いんだがな。"
+msgstr ""
+
+msgctxt "EXPLANATION_62"
+msgid ""
+"いんたびゅう……？\n"
+"良くわからないが、そそっかしい奴を\n"
+"屯所前でウロつかせるわけにはいかないな。"
+msgstr ""
+
+msgctxt "EXPLANATION_63"
+msgid ""
+"いんたびゅうか……\n"
+"確かに面白い試みではあった。\n"
+"瓦版も時代と共に変わっていくのだな。"
+msgstr ""
+
+msgctxt "EXPLANATION_64"
+msgid ""
+"あの外国人……\n"
+"物騒なところに行って危険な目にあわなければいいが。"
+msgstr ""
+
+msgctxt "EXPLANATION_65"
+msgid ""
+"やはり絡まれてしまったか……\n"
+"しかし、外国人だからというだけで、\n"
+"襲われるとはな……"
+msgstr ""
+
+msgctxt "EXPLANATION_66"
+msgid ""
+"外国人のクリークか……\n"
+"志は買うが、また物騒な場所に行って\n"
+"危険な目に合わなければ良いが。"
+msgstr ""
+
+msgctxt "EXPLANATION_67"
+msgid ""
+"日本人もそろそろ外国について、\n"
+"学ばなければならないときが\n"
+"近づいているのかもな……"
+msgstr ""
+
+msgctxt "EXPLANATION_68"
+msgid ""
+"ええじゃないか集団が暴れていたな……\n"
+"何か被害があったらまずい。行ってみるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_69"
+msgid ""
+"騒いでいたのは、ただ流行りを追っている奴らだった。\n"
+"困ったものだが、動乱で民衆が不安を抱える世の中……\n"
+"一概に否定しているだけではいかんな。"
+msgstr ""
+
+msgctxt "EXPLANATION_70"
+msgid ""
+"賭場荒らしの連中に\n"
+"絡まれている男がいたな……\n"
+"まだ絡まれているのだろうか？"
+msgstr ""
+
+msgctxt "EXPLANATION_71"
+msgid ""
+"沖田の登場で、賭場荒らしたちは去っていった。\n"
+"ひとまずは一件落着、というところか。"
+msgstr ""
+
+msgctxt "EXPLANATION_72"
+msgid ""
+"そういえば以前賭場で、助けた男は\n"
+"うまくやってるだろうか？\n"
+"また賭場荒らしに狙われていなければいいが……"
+msgstr ""
+
+msgctxt "EXPLANATION_73"
+msgid ""
+"あの賭場荒らしが、骸街に現れたらしい。\n"
+"情報をくれた博徒が骸街で待っているんだったな。"
+msgstr ""
+
+msgctxt "EXPLANATION_74"
+msgid ""
+"沖田がやってきて、賭場荒らしたちは逃げ出したが、\n"
+"沖田は身に覚えがないらしい。\n"
+"あれは沖田ではなかった……？　そんなわけないか。"
+msgstr ""
+
+msgctxt "EXPLANATION_75"
+msgid ""
+"黒豹飛脚団の団長・平川から受け取った手紙には、\n"
+"稲本との勝負の場所が記されていた。\n"
+"奴は、賭場近くの橋で待っているらしい……"
+msgstr ""
+
+msgctxt "EXPLANATION_76"
+msgid ""
+"黒豹飛脚団の司令塔、稲本に敗れてしまった……\n"
+"だが、負けたままではいられない。\n"
+"……稲本は確か賭場近くの橋にいるんだったな。"
+msgstr ""
+
+msgctxt "EXPLANATION_77"
+msgid ""
+"稲本の敗北を見た平川は、飛脚団の連中をクビにした。\n"
+"「京最速」の呪縛に囚われている平川を解放するには、\n"
+"残る１人、武田との勝負に勝たなければならない。"
+msgstr ""
+
+msgctxt "EXPLANATION_78"
+msgid "刀に魅せられた男（開始）"
+msgstr ""
+
+msgctxt "EXPLANATION_79"
+msgid ""
+"刀を収集している男に、刀を褒められた。\n"
+"定期的に刀を見せて欲しいらしいが……"
+msgstr ""
+
+msgctxt "EXPLANATION_80"
+msgid ""
+"この男のおかげで騒ぎが収まったのも事実だ……\n"
+"傷を癒すものを持っていくか。"
+msgstr ""
+
+msgctxt "EXPLANATION_81"
+msgid ""
+"傷ついた男を治療した。なんでも、\n"
+"個人的に困っている人を助けているらしい。\n"
+"なかなかいい心がけじゃないか。"
+msgstr ""
+
+msgctxt "EXPLANATION_82"
+msgid ""
+"謎の外国人に\n"
+"とまと１０個持ってくるように言われた。\n"
+"ずいぶん怪しいが、金払いはいいみたいだな……"
+msgstr ""
+
+msgctxt "EXPLANATION_83"
+msgid ""
+"謎の外国人と謎の取り引きをした。\n"
+"そしてこの取り引きはまだ続くらしい。\n"
+"あの男、いったい何者なんだ……"
+msgstr ""
+
+msgctxt "EXPLANATION_84"
+msgid ""
+"梅小路町東に腹を空かせている猫がいたな。\n"
+"余っている魚でもあればやってみようか？"
+msgstr ""
+
+msgctxt "EXPLANATION_85"
+msgid ""
+"あの猫、魚をあげたらすぐ懐いたな。\n"
+"今後も余っている魚があればやってみるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_86"
+msgid ""
+"ここが骸街か……\n"
+"いつ来ても物騒な街だ。"
+msgstr ""
+
+msgctxt "EXPLANATION_87"
+msgid ""
+"いきなり襲われるとはな……\n"
+"気を抜かない方が良さそうだ。"
+msgstr ""
+
+msgctxt "EXPLANATION_88"
+msgid ""
+"骸街の喧嘩屋……\n"
+"一体どんな生業なんだ？"
+msgstr ""
+
+msgctxt "EXPLANATION_89"
+msgid ""
+"物騒な奴だったが、なかなか筋は良かったな。\n"
+"次に会ったら厄介な相手になっていそうだ……"
+msgstr ""
+
+msgctxt "EXPLANATION_90"
+msgid ""
+"骸街の喧嘩屋か……\n"
+"以前よりも入れ墨が増えているようだが……？"
+msgstr ""
+
+msgctxt "EXPLANATION_91"
+msgid ""
+"なかなか手強い相手だった。\n"
+"だが、喧嘩屋なんて物騒な仕事は、\n"
+"次も勝って足を洗わせないとな……"
+msgstr ""
+
+msgctxt "EXPLANATION_92"
+msgid ""
+"あれは骸街の喧嘩屋か……？\n"
+"悟りを開いたようだが、\n"
+"勝って喧嘩屋から足を洗わせてやろう。"
+msgstr ""
+
+msgctxt "EXPLANATION_93"
+msgid ""
+"人間ってのは変われるものだな……\n"
+"喧嘩屋が僧になるとはな。"
+msgstr ""
+
+msgctxt "EXPLANATION_94"
+msgid ""
+"骸街の東にある通りで、腕の立つ剣士を狙う\n"
+"亡霊武者の噂話を聞いた。\n"
+"夜になると現れるらしいが、本当だろうか。"
+msgstr ""
+
+msgctxt "EXPLANATION_95"
+msgid ""
+"お騒がせの亡霊武者は噂通りの強さだった。\n"
+"目を離した隙に姿を消してしまったが、\n"
+"あいつは一体何者だったのだろうか……"
+msgstr ""
+
+msgctxt "EXPLANATION_96"
+msgid ""
+"ここにいる物乞いは、１週間何も食べてないらしい。\n"
+"さすがに飢え死にしてしまうかもしれんな……"
+msgstr ""
+
+msgctxt "EXPLANATION_97"
+msgid ""
+"物乞いに食べ物を恵んでしまった。\n"
+"これからどうなることやら……"
+msgstr ""
+
+msgctxt "EXPLANATION_98"
+msgid ""
+"ここの男に何か不用品をくれと言われた。\n"
+"なんでもそれを再利用するらしい。\n"
+"なにかいらない物があったら持っていくか。"
+msgstr ""
+
+msgctxt "EXPLANATION_99"
+msgid ""
+"ここの男に不用品を渡した。\n"
+"あんなもので喜ぶとは……\n"
+"また処分したいものがあったら持っていくか。"
+msgstr ""
+
+msgctxt "EXPLANATION_100"
+msgid ""
+"怪我をしている野良犬がいたな……\n"
+"放っておくとまずそうだ……\n"
+"手当てするものを持っていくか。"
+msgstr ""
+
+msgctxt "EXPLANATION_101"
+msgid ""
+"怪我した犬に手当てはしたが、\n"
+"まだ完治はしていない。\n"
+"定期的に手当てが必要そうだ……"
+msgstr ""
+
+msgctxt "EXPLANATION_102"
+msgid ""
+"俺の部屋のとなりから叫び声がしたようだが……\n"
+"いったい中で何が起きているんだ？"
+msgstr ""
+
+msgctxt "EXPLANATION_103"
+msgid ""
+"まさか隣の部屋に物書きが泊まっていたとはな。\n"
+"邪魔をしては悪い。\n"
+"しばらく部屋に近づくのはやめておこう。"
+msgstr ""
+
+msgctxt "EXPLANATION_104"
+msgid ""
+"そういえば隣の部屋に泊まっている物書き……\n"
+"夏見と言ったか。\n"
+"この前の話はうまくいったのだろうか……？"
+msgstr ""
+
+msgctxt "EXPLANATION_105"
+msgid ""
+"夏見の仕事の邪魔をしては悪い。\n"
+"しばらく部屋に近づくのはやめておこう。"
+msgstr ""
+
+msgctxt "EXPLANATION_106"
+msgid ""
+"隣の部屋に泊まっている物書き、夏見。\n"
+"あの男、この前の話はうまくいったのだろうか……？"
+msgstr ""
+
+msgctxt "EXPLANATION_107"
+msgid ""
+"まさか寺田屋から文豪が誕生するとはな。\n"
+"俺の助言も役に立ったらしい。\n"
+"少し鼻が高いな。"
+msgstr ""
+
+msgctxt "EXPLANATION_108"
+msgid ""
+"まさか寺田屋から淫猥文豪が誕生するとは……\n"
+"このことをお登勢に知られたら、\n"
+"何を言われるかわかったもんじゃないな……"
+msgstr ""
+
+msgctxt "EXPLANATION_109"
+msgid ""
+"俺の不注意のせいでふたりの男の手荷物が\n"
+"入れ替わってしまった。間違った手荷物を\n"
+"持って行った男、骸街に向かうと言っていたが……"
+msgstr ""
+
+msgctxt "EXPLANATION_110"
+msgid ""
+"うーむ、状況がよくわからないが、\n"
+"この男、手荷物の中身がちくわだったことに対して\n"
+"すごく取り乱しているようだ……"
+msgstr ""
+
+msgctxt "EXPLANATION_111"
+msgid ""
+"まさか手荷物の中身がちくわだったとはな……\n"
+"な、なんにせよ、持ち主の元へ包みを返しに行こう。"
+msgstr ""
+
+msgctxt "EXPLANATION_112"
+msgid ""
+"俺の不注意から始まった事故とはいえ、\n"
+"結果的にひとつの家族を救えたようだ。\n"
+"……よかった。"
+msgstr ""
+
+msgctxt "EXPLANATION_113"
+msgid ""
+"たまには銭湯でゆっくりするのもいいかもな。\n"
+"時間があるときに、寄ってみようか。"
+msgstr ""
+
+msgctxt "EXPLANATION_114"
+msgid ""
+"まさか京の町を褌一丁で走り回ることになるとは……\n"
+"知り合いに見られたら大変なところだったな。"
+msgstr ""
+
+msgctxt "EXPLANATION_115"
+msgid ""
+"伏見一番街にいつの間にか\n"
+"いなり寿司屋ができていたとはな。\n"
+"すごく繁盛しているようだし……　並んでみようか。"
+msgstr ""
+
+msgctxt "EXPLANATION_116"
+msgid ""
+"もう少しのところでいなり寿司が売り切れてしまった。\n"
+"また並ぶのは面倒だが仕方ない。\n"
+"またの機会に並ぶとしよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_117"
+msgid ""
+"まさか俺の目の前でいなり寿司が売り切れるとは。\n"
+"さぞかしうまいいなり寿司なんだろう。\n"
+"ここまで来ると意地でも食ってみたくなるな"
+msgstr ""
+
+msgctxt "EXPLANATION_118"
+msgid ""
+"俺のおいなりさん……　結局食えずじまいだとは。\n"
+"まぁいい、病気の子供のためなら仕方ないな。"
+msgstr ""
+
+msgctxt "EXPLANATION_119"
+msgid "大事なのはやっぱりコシ（開始）"
+msgstr ""
+
+msgctxt "EXPLANATION_120"
+msgid ""
+"色々と腰は大事にしないといけないな。\n"
+"手の空いている時があれば、\n"
+"うどん屋を手伝いに行ってみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_121"
+msgid ""
+"黒船か……　もしこの船着き場に来航でもしたら\n"
+"大騒ぎになるだろうな……"
+msgstr ""
+
+msgctxt "EXPLANATION_122"
+msgid ""
+"黒船に乗ってきた男は船酔いで倒れてしまったが、\n"
+"どんな外敵かわからん。事情を聴くために\n"
+"酔い覚ましの方法を周りの野次馬にでも聞いてみるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_123"
+msgid ""
+"どうやら酔い覚ましには梅干しが良いらしい。\n"
+"梅干しを手に入れたら与えてみるとするか。"
+msgstr ""
+
+msgctxt "EXPLANATION_124"
+msgid ""
+"黒船の男ポニーは、梅干しを手に帰っていった。\n"
+"外国人を嫌う連中が多いこの国の開国はまだ先のようだ。\n"
+"外国人と気兼ねなく交流できる日が来るといいが……"
+msgstr ""
+
+msgctxt "EXPLANATION_125"
+msgid ""
+"京の町中の人にあきれられるほどの長話……\n"
+"いったいどれだけのものなんだ……\n"
+"あの女、まだ屋敷町南にいるのだろうか。"
+msgstr ""
+
+msgctxt "EXPLANATION_126"
+msgid "……とても長い話だった。"
+msgstr ""
+
+msgctxt "EXPLANATION_127"
+msgid ""
+"咲子の長話に付き合う勇気がでたら\n"
+"また屋敷町南まで行ってみよう……"
+msgstr ""
+
+msgctxt "EXPLANATION_128"
+msgid "……またもや長い話だった。"
+msgstr ""
+
+msgctxt "EXPLANATION_129"
+msgid ""
+"咲子の最後の長話に付き合う勇気がでたら\n"
+"また屋敷町南まで行ってみよう……"
+msgstr ""
+
+msgctxt "EXPLANATION_130"
+msgid ""
+"……最後まで長い話だった。\n"
+"しかしこれで話を聞く機会がなくなったかと思えば……\n"
+"少し寂しく感じ……　はしないな。"
+msgstr ""
+
+msgctxt "EXPLANATION_131"
+msgid ""
+"寺田屋東の船着き場から\n"
+"骸街に香水を買いに行こうとしている女がいたな……\n"
+"とても危険に思えるが……　手伝ってやろうか？"
+msgstr ""
+
+msgctxt "EXPLANATION_132"
+msgid ""
+"骸街のどこかに香水を売っている商人がいるらしい。\n"
+"香水代も多めにもらってしまったし、\n"
+"早めにおつかいをしてやるとするか。"
+msgstr ""
+
+msgctxt "EXPLANATION_133"
+msgid ""
+"何やら怪しげなやりとりをしている男がいるな……\n"
+"もしやあいつが噂の商人か？\n"
+"香水をとりあつかってるか、話を聞いてみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_134"
+msgid ""
+"この商人、何か勘違いしているようだな……\n"
+"俺はただ香水を買いたいだけだ……\n"
+"軽くいなして話を聞いてもらおう。"
+msgstr ""
+
+msgctxt "EXPLANATION_135"
+msgid ""
+"香水……　なんて恐ろしい水だったんだ。\n"
+"あんな危険な水が将来、日本に出回ったら、\n"
+"人生を滅茶苦茶にされる男達も増えるかもな。"
+msgstr ""
+
+msgctxt "EXPLANATION_136"
+msgid ""
+"俺としたことがついええじゃないかしてしまった。\n"
+"なんて恐ろしい踊りだ……\n"
+"とりあえずこの場を治めなければ。"
+msgstr ""
+
+msgctxt "EXPLANATION_137"
+msgid ""
+"ええじゃないか踊りには不思議な力があるな。\n"
+"いつ被害が出るか分からん。見つけたら、なんとか\n"
+"鎮めるようにしなければ……"
+msgstr ""
+
+msgctxt "EXPLANATION_138"
+msgid ""
+"侍に憧れる外国人、トムか。\n"
+"時間のあるときにでも\n"
+"千石邸前まで稽古をつけに行ってやるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_139"
+msgid ""
+"トム、実力を見せてみろ。\n"
+"お手並み拝見させてもらうぞ。"
+msgstr ""
+
+msgctxt "EXPLANATION_140"
+msgid ""
+"フッ、トムという男\n"
+"なかなか気概のある男じゃないか。\n"
+"迷いがふっきれたらもっと強くなれそうだ。"
+msgstr ""
+
+msgctxt "EXPLANATION_141"
+msgid ""
+"そろそろ道場にトムの稽古をつけにいってみるか。\n"
+"たしか道場は昼しか開いてなかったな……"
+msgstr ""
+
+msgctxt "EXPLANATION_142"
+msgid ""
+"トム、迷いが吹っ切れたかどうか試させてもらうぞ。\n"
+"シュギョーの成果をみせてみろ。"
+msgstr ""
+
+msgctxt "EXPLANATION_143"
+msgid ""
+"トムのやつ、どんどん腕をあげてくるな……\n"
+"しかし、色々と無理をしなければいいが。"
+msgstr ""
+
+msgctxt "EXPLANATION_144"
+msgid ""
+"トム、子供たちに色々言われていたようだが、\n"
+"大丈夫だろうか。声をかけてやろう。"
+msgstr ""
+
+msgctxt "EXPLANATION_145"
+msgid ""
+"トム、侍になりたいというお前の意地、\n"
+"俺に全部見せてみろ！"
+msgstr ""
+
+msgctxt "EXPLANATION_146"
+msgid ""
+"しばらくトムが道場に来ることはなさそうだ。\n"
+"少し、寂しくなるな……"
+msgstr ""
+
+msgctxt "EXPLANATION_147"
+msgid ""
+"武士の風上にもおけねぇ奴らだ。\n"
+"おい、トム。本物の侍ってやつを見せてやれ!!"
+msgstr ""
+
+msgctxt "EXPLANATION_148"
+msgid ""
+"侍にとって一番大切なもの……\n"
+"外国人であるあいつが一番知っていたようだな。\n"
+"俺も見習わなければな。"
+msgstr ""
+
+msgctxt "EXPLANATION_149"
+msgid "決着！　黒豹飛脚団（開始）"
+msgstr ""
+
+msgctxt "EXPLANATION_150"
+msgid ""
+"武田との勝負に敗れてしまった。\n"
+"しかし、このままでは終われない。\n"
+"寺田屋近くにいる奴と決着をつけなければ……"
+msgstr ""
+
+msgctxt "EXPLANATION_151"
+msgid ""
+"勝負を見届けた平川は、過去の呪縛から解放された。\n"
+"平川に信頼を寄せる武田たちがいれば、\n"
+"きっと新たな「京最速」の飛脚団が生まれることだろう。"
+msgstr ""
+
+msgctxt "EXPLANATION_152"
+msgid ""
+"魚を１匹も釣ったことが無い釣り人と出会った。\n"
+"今回釣れないと今後釣りができくなるらしい。\n"
+"魚を渡す約束をしたので、今度持っていくか……"
+msgstr ""
+
+msgctxt "EXPLANATION_153"
+msgid ""
+"魚を１匹も釣ったことが無い釣り人に、\n"
+"魚を渡した。\n"
+"その後、釣ることができたのだろうか？"
+msgstr ""
+
+msgctxt "EXPLANATION_154"
+msgid ""
+"少年に何かあげる約束をした。\n"
+"子供の趣味はわからんが、\n"
+"いらないものでもあげるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_155"
+msgid ""
+"少年にいらないものをあげたら、\n"
+"気に入ってもらえたようだ。\n"
+"子供の趣味はわからんな……"
+msgstr ""
+
+msgctxt "EXPLANATION_156"
+msgid ""
+"薪割り爺さんが腰をやってしまったらしい。\n"
+"困っているようだし、手伝ってやろう。"
+msgstr ""
+
+msgctxt "EXPLANATION_157"
+msgid ""
+"薪割り爺さんを手伝ってやった。\n"
+"困っているようだし、今後も手伝ってやるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_158"
+msgid ""
+"飛脚に伏見一番街までの道を教えた。\n"
+"無事に辿り着けただろうか。"
+msgstr ""
+
+msgctxt "EXPLANATION_159"
+msgid ""
+"配達が終わらず、飛脚が困っているようだ。\n"
+"町を歩くことは多いし、ついでに手伝ってやるとするか。"
+msgstr ""
+
+msgctxt "EXPLANATION_160"
+msgid ""
+"元気が無い犬がいたな……\n"
+"腹が減っているのか？\n"
+"何か食い物でも持っていくか。"
+msgstr ""
+
+msgctxt "EXPLANATION_161"
+msgid ""
+"とりあえず、元気が無い犬に食い物をやった。\n"
+"誰かの飼い犬だとは思うが……\n"
+"なぜここに留まっているのだろうか？"
+msgstr ""
+
+msgctxt "EXPLANATION_162"
+msgid "汚れている猫（開始）"
+msgstr ""
+
+msgctxt "EXPLANATION_163"
+msgid ""
+"まさか川に落ちるような\n"
+"おっちょこちょいな猫がいるとはな……\n"
+"心配だからちょくちょく様子を見に行ってみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_164"
+msgid ""
+"ん？　八坂神社の鳥居の下に何か落ちているな？\n"
+"手帳のようだが……"
+msgstr ""
+
+msgctxt "EXPLANATION_165"
+msgid ""
+"叶わぬ恋に苦しんでいる日記の主に\n"
+"俺が書いた返事が届けばいいな……\n"
+"またしばらくしたら八坂神社に行ってみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_166"
+msgid ""
+"日記の主を怒らせてしまった……\n"
+"だが俺はどう思うか尋ねられたから\n"
+"素直な気持ちを書いただけだ。放っておこう。"
+msgstr ""
+
+msgctxt "EXPLANATION_167"
+msgid ""
+"恋愛に前向きになった日記の主に\n"
+"返事を書いてみたが……\n"
+"またしばらくしたら八坂神社に行ってみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_168"
+msgid ""
+"恋に苦しんでいた日記の主もいよいよ告白か。\n"
+"うまくいくといいな。\n"
+"八坂神社で思いを告げるらしいが……"
+msgstr ""
+
+msgctxt "EXPLANATION_169"
+msgid ""
+"まさか日記の主が神主だったとは……\n"
+"告白は失敗したが、あかりには最初から脈が\n"
+"なさそうだったな……　元気を出してくれ、神主。"
+msgstr ""
+
+msgctxt "EXPLANATION_170"
+msgid ""
+"プリプリでムチムチか……\n"
+"たまには祗園遊びも悪くないかもしれないな。"
+msgstr ""
+
+msgctxt "EXPLANATION_171"
+msgid ""
+"なにがプリプリでムチムチだ！\n"
+"力士じゃないか！　こんな悪徳商売、\n"
+"のさばらせておくわけにはいかないな。"
+msgstr ""
+
+msgctxt "EXPLANATION_172"
+msgid ""
+"まさか力士好きの人向けの揚屋があるとは……\n"
+"世の中は広いな……"
+msgstr ""
+
+msgctxt "EXPLANATION_173"
+msgid ""
+"何がプリプリでムチムチだ！　力士じゃないか！\n"
+"金と時間を無駄にしてしまった……\n"
+"あんな店、もう二度と行かんぞ！"
+msgstr ""
+
+msgctxt "EXPLANATION_174"
+msgid ""
+"日本を変えようとしている料理人がいる。\n"
+"この男に手料理を渡す約束をした。"
+msgstr ""
+
+msgctxt "EXPLANATION_175"
+msgid ""
+"料理人に手料理を渡したが、\n"
+"もう少しで何かを掴めるそうだ……"
+msgstr ""
+
+msgctxt "EXPLANATION_176"
+msgid ""
+"この女と話していると、\n"
+"不思議と胡瓜を渡してみたい気持ちになるな……\n"
+"何の事情だが知らんが、胡瓜１本持っていくか。"
+msgstr ""
+
+msgctxt "EXPLANATION_177"
+msgid ""
+"この女はなぜ胡瓜が欲しかったのだろうか？\n"
+"渡した直後去ってしまったが……"
+msgstr ""
+
+msgctxt "EXPLANATION_178"
+msgid ""
+"賊に襲われる茶屋をひとりで守ってしまった……\n"
+"あの男、只者ではないな。\n"
+"しかし、なんというか、かわいそうだったな……"
+msgstr ""
+
+msgctxt "EXPLANATION_179"
+msgid ""
+"すずと池杉の待ち合わせ場所は鴨川沿いだったな。\n"
+"阿栗もそこに向かっただろうし、\n"
+"少し様子を見に行ってみるか。"
+msgstr ""
+
+msgctxt "EXPLANATION_180"
+msgid ""
+"すずにフられて池杉はかなり気が立っていたようだ。\n"
+"嫌な予感がするな。屯所の近くにある社に行ってみよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_181"
+msgid ""
+"阿栗とすず、うまくいってよかったな。\n"
+"格好良さってのは見た目だけで決まるもんじゃない。\n"
+"……そう痛感したぜ。"
+msgstr ""
+
+msgctxt "EXPLANATION_182"
+msgid ""
+"ん？　屯所前の民家が騒がしいな。\n"
+"未だに犬の鳴き声が響いているが……\n"
+"何かあったのだろうか。"
+msgstr ""
+
+msgctxt "EXPLANATION_183"
+msgid ""
+"権力を振りかざし弱いものを叩く……\n"
+"武士の風上にも置けねぇ犬以下な野郎だ。\n"
+"じいさん達を守るために少し痛い目を見てもらおう。"
+msgstr ""
+
+msgctxt "EXPLANATION_184"
+msgid ""
+"犬のかずきちの骨を埋めるための桜の木か……\n"
+"どこかで身近なところでそれらしい木を見たような\n"
+"気がするんだが……　いったいどこだったか。"
+msgstr ""
+
+msgctxt "EXPLANATION_185"
+msgid "む？　俺の家の庭にあるあの木はまさか……"
+msgstr ""
+
+msgctxt "EXPLANATION_186"
+msgid ""
+"まさか俺の家の庭に桜の木があるとはな。\n"
+"遥の許可もとったし、屯所の近くに住んでいる\n"
+"じいさん達に教えてやろう。"
+msgstr ""
+
+msgctxt "EXPLANATION_187"
+msgid ""
+"結局桜の木を教えるのをためらってしまった……\n"
+"じいさん達には幸せな人生を送ってくれることを\n"
+"祈るしかない……　すまない。"
+msgstr ""
+
+msgctxt "EXPLANATION_188"
+msgid ""
+"かずきちはじいさん達のことが大好きだったんだな。\n"
+"そんな気持ちが枯れたはずの桜を再び咲かせ、\n"
+"ばあさんに言葉を返してくれた。……まさに奇跡だ。"
+msgstr ""
+
+msgctxt "EXPLANATION_189"
+msgid ""
+"猿吉という男に料理を作ってくれと頼まれた。\n"
+"伏見にある居酒屋「はなこ」で待っているらしい。\n"
+"その気になったら行ってみるか……"
+msgstr ""
+
+msgctxt "EXPLANATION_190"
+msgid ""
+"桶狭間将軍とやらに俺の料理を出した。\n"
+"まずい料理を出したら殺されると聞いたが、\n"
+"嘘だったのか……"
+msgstr ""
+
+msgctxt "EXPLANATION_191"
+msgid ""
+"屯所の近くで熊がいただと……？\n"
+"にわかには信じられないが、本当ならば危険だな。\n"
+"あの子供に話を聞く必要がありそうだ。"
+msgstr ""
+
+msgctxt "EXPLANATION_192"
+msgid "く……　熊がでた!!"
+msgstr ""
+
+msgctxt "EXPLANATION_193"
+msgid ""
+"熊と戦うなんて初めての経験だったな。\n"
+"……物騒な世の中になったもんだぜ。"
+msgstr ""
+
+msgctxt "EXPLANATION_194"
+msgid ""
+"俺がおままごとだと……？\n"
+"そんなこと子供の頃から一度もやったことないな。"
+msgstr ""
+
+msgctxt "EXPLANATION_195"
+msgid ""
+"屯所の前で子供とままごとなんて、\n"
+"新選組の連中に見られでもしたら……\n"
+"子供の頼みとはいえ、出来ないな。"
+msgstr ""
+
+msgctxt "EXPLANATION_196"
+msgid ""
+"おままごととはいえ、母役を務めた以上は、\n"
+"この武士を倒して家内安全を守るとしよう。"
+msgstr ""
+
+msgctxt "EXPLANATION_197"
+msgid ""
+"おままごとか……フッ、\n"
+"こんな歳になって初めて体験できるとはな。"
+msgstr ""
+
+msgctxt "EXPLANATION_198"
+msgid ""
+"頭をひどく打って倒れている男がいる。\n"
+"手当てしなければ……"
+msgstr ""
+
+msgctxt "EXPLANATION_199"
+msgid ""
+"とりあえず、手当てはした。\n"
+"しかし、\n"
+"なんでこの男は倒れていたのだろうか……"
+msgstr ""
+
+msgctxt "EXPLANATION_200"
+msgid ""
+"子供なのに野菜が好きという、\n"
+"珍しい少年に出会った……"
+msgstr ""
+
+msgctxt "EXPLANATION_201"
+msgid ""
+"野菜の少年に野菜をあげる約束をした。\n"
+"家の余った野菜でもあげるか……"
+msgstr ""
+
+msgctxt "FINISH_FLAG_0"
+msgid "隠"
+msgstr ""
+
+msgctxt "FINISH_FLAG_1"
+msgid "未"
+msgstr ""
+
+msgctxt "FINISH_FLAG_2"
+msgid "完"
+msgstr ""
+
+msgctxt "FINISH_FLAG_3"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "STAGE_ID_0"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_1"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_2"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_3"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_4"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_5"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_6"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_7"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_8"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_9"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_10"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_11"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_12"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_13"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_14"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_15"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_16"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_17"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_18"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_19"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_20"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_21"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_22"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_23"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_24"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_25"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_26"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_27"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_28"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_29"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_30"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_31"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_32"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_33"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_34"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_35"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_36"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_37"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_38"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_39"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_40"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_41"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_42"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_43"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_44"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_45"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_46"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_47"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_48"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_49"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_50"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_51"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_52"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_53"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_54"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_55"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_56"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_57"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_58"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_59"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_60"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_61"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_62"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_63"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_64"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_65"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_66"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_67"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_68"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_69"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_70"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_71"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_72"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_73"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_74"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_75"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_76"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_77"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_78"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_79"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_80"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_81"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_82"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_83"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_84"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_85"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_86"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_87"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_88"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_89"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_90"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_91"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_92"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_93"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_94"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_95"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_96"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_97"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_98"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_99"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_100"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_101"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_102"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_103"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_104"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_105"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_106"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_107"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_108"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_109"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_110"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_111"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_112"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_113"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_114"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_115"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_116"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_117"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_118"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_119"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_120"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_121"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_122"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_123"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_124"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_125"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_126"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_127"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_128"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_129"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_130"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_131"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_132"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_133"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_134"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_135"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_136"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_137"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_138"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_139"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_140"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_141"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_142"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_143"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_144"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_145"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_146"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_147"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_148"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_149"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_150"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_151"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_152"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_153"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_154"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_155"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_156"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_157"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_158"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_159"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_160"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_161"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_162"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_163"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_164"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_165"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_166"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_167"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_168"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_169"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_170"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_171"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_172"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_173"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_174"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_175"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_176"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_177"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_178"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_179"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_180"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_181"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_182"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_183"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_184"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_185"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_186"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_187"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_188"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_189"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_190"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_191"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_192"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_193"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_194"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_195"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_196"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_197"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_198"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_199"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_200"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_201"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_202"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_203"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_204"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_205"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_206"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_207"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_208"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_209"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_210"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_211"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_212"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_213"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_214"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_215"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_216"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_217"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_218"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_219"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_220"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_221"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_222"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_223"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_224"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_225"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_226"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_227"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_228"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_229"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_230"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_231"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_232"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_233"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_234"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_235"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_236"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_237"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_238"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_239"
+msgid "STID_ST_GION"
+msgstr ""
+
+msgctxt "STAGE_ID_240"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_241"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_242"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_243"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_244"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_245"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_246"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_247"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_248"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_249"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_250"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_251"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_252"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_253"
+msgid "STID_ST_RYOMA_IE"
+msgstr ""
+
+msgctxt "STAGE_ID_254"
+msgid "STID_ST_KYOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_255"
+msgid "STID_ST_RYOMA_IE"
+msgstr ""
+
+msgctxt "STAGE_ID_256"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_257"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_258"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_259"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_260"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_261"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_262"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_263"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_264"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_265"
+msgid "STID_ST_RINDOU"
+msgstr ""
+
+msgctxt "STAGE_ID_266"
+msgid "STID_ST_RINDOU"
+msgstr ""
+
+msgctxt "STAGE_ID_267"
+msgid "STID_ST_RINDOU"
+msgstr ""
+
+msgctxt "STAGE_ID_268"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_269"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "STAGE_ID_270"
+msgid "STID_ST_MIBUDERA_SOTO"
+msgstr ""
+
+msgctxt "START_POINTS_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "START_POINTS_1"
+msgid "0x044400d7"
+msgstr ""
+
+msgctxt "START_POINTS_2"
+msgid "0x040c1644"
+msgstr ""
+
+msgctxt "START_POINTS_3"
+msgid "0x040c1619"
+msgstr ""
+
+msgctxt "START_POINTS_4"
+msgid "0x040c161e"
+msgstr ""
+
+msgctxt "START_POINTS_5"
+msgid "0x040c161f"
+msgstr ""
+
+msgctxt "START_POINTS_6"
+msgid "0x040c1620"
+msgstr ""
+
+msgctxt "START_POINTS_7"
+msgid "0x040c1621"
+msgstr ""
+
+msgctxt "START_POINTS_8"
+msgid "0x040c1632"
+msgstr ""
+
+msgctxt "START_POINTS_9"
+msgid "0x040c1637"
+msgstr ""
+
+msgctxt "START_POINTS_10"
+msgid "0x046c0169"
+msgstr ""
+
+msgctxt "START_POINTS_11"
+msgid "0x046c019c"
+msgstr ""
+
+msgctxt "START_POINTS_12"
+msgid "0x046c016a"
+msgstr ""
+
+msgctxt "START_POINTS_13"
+msgid "0x046c016b"
+msgstr ""
+
+msgctxt "START_POINTS_14"
+msgid "0x046c0167"
+msgstr ""
+
+msgctxt "START_POINTS_15"
+msgid "0x046e0225"
+msgstr ""
+
+msgctxt "START_POINTS_16"
+msgid "0x046e022f"
+msgstr ""
+
+msgctxt "START_POINTS_17"
+msgid "0x046e0237"
+msgstr ""
+
+msgctxt "START_POINTS_18"
+msgid "0x046e0230"
+msgstr ""
+
+msgctxt "START_POINTS_19"
+msgid "0x046e0247"
+msgstr ""
+
+msgctxt "START_POINTS_20"
+msgid "0x040c1643"
+msgstr ""
+
+msgctxt "START_POINTS_21"
+msgid "0x040c1615"
+msgstr ""
+
+msgctxt "START_POINTS_22"
+msgid "0x046c0162"
+msgstr ""
+
+msgctxt "START_POINTS_23"
+msgid "0x046c0163"
+msgstr ""
+
+msgctxt "START_POINTS_24"
+msgid "0x046e024b"
+msgstr ""
+
+msgctxt "START_POINTS_25"
+msgid "0x044400db"
+msgstr ""
+
+msgctxt "START_POINTS_26"
+msgid "0x044400dc"
+msgstr ""
+
+msgctxt "START_POINTS_27"
+msgid "0x044400de"
+msgstr ""
+
+msgctxt "START_POINTS_28"
+msgid "0x046c0168"
+msgstr ""
+
+msgctxt "START_POINTS_29"
+msgid "0x046e024d"
+msgstr ""
+
+msgctxt "START_POINTS_30"
+msgid "0x046e02f4"
+msgstr ""
+
+msgctxt "START_POINTS_31"
+msgid "0x046e02f5"
+msgstr ""
+
+msgctxt "START_POINTS_32"
+msgid "0x046c016c"
+msgstr ""
+
+msgctxt "START_POINTS_33"
+msgid "0x046c016d"
+msgstr ""
+
+msgctxt "START_POINTS_34"
+msgid "0x046e022d"
+msgstr ""
+
+msgctxt "START_POINTS_35"
+msgid "0x046e0233"
+msgstr ""
+
+msgctxt "START_POINTS_36"
+msgid "0x046e0235"
+msgstr ""
+
+msgctxt "START_POINTS_37"
+msgid "0x040c163f"
+msgstr ""
+
+msgctxt "START_POINTS_38"
+msgid "0x044400d9"
+msgstr ""
+
+msgctxt "START_POINTS_39"
+msgid "0x044400d1"
+msgstr ""
+
+msgctxt "START_POINTS_40"
+msgid "0x044400d2"
+msgstr ""
+
+msgctxt "START_POINTS_41"
+msgid "0x044400d5"
+msgstr ""
+
+msgctxt "START_POINTS_42"
+msgid "0x046c0164"
+msgstr ""
+
+msgctxt "START_POINTS_43"
+msgid "0x046e0223"
+msgstr ""
+
+msgctxt "START_POINTS_44"
+msgid "0x046e023d"
+msgstr ""
+
+msgctxt "START_POINTS_45"
+msgid "0x046e0245"
+msgstr ""
+
+msgctxt "START_POINTS_46"
+msgid "0x040c1592"
+msgstr ""
+
+msgctxt "START_POINTS_47"
+msgid "0x040c161c"
+msgstr ""
+
+msgctxt "START_POINTS_48"
+msgid "0x040c1623"
+msgstr ""
+
+msgctxt "START_POINTS_49"
+msgid "0x040c1627"
+msgstr ""
+
+msgctxt "START_POINTS_50"
+msgid "0x046c0165"
+msgstr ""
+
+msgctxt "START_POINTS_51"
+msgid "0x046c0166"
+msgstr ""
+
+msgctxt "START_POINTS_52"
+msgid "0x040c162c"
+msgstr ""
+
+msgctxt "START_POINTS_53"
+msgid "0x040c162e"
+msgstr ""
+
+msgctxt "START_POINTS_54"
+msgid "0x040c1630"
+msgstr ""
+
+msgctxt "START_POINTS_55"
+msgid "0x040c1634"
+msgstr ""
+
+msgctxt "START_POINTS_56"
+msgid "0x040c1635"
+msgstr ""
+
+msgctxt "START_POINTS_57"
+msgid "0x040c163b"
+msgstr ""
+
+msgctxt "START_POINTS_58"
+msgid "0x040c163c"
+msgstr ""
+
+msgctxt "START_POINTS_59"
+msgid "0x040c163d"
+msgstr ""
+
+msgctxt "START_POINTS_60"
+msgid "0x046c016e"
+msgstr ""
+
+msgctxt "START_POINTS_61"
+msgid "0x046e023b"
+msgstr ""
+
+msgctxt "START_POINTS_62"
+msgid "0x046e0239"
+msgstr ""
+
+msgctxt "START_POINTS_63"
+msgid "0x041610d2"
+msgstr ""
+
+msgctxt "START_POINTS_64"
+msgid "0x041610c6"
+msgstr ""
+
+msgctxt "START_POINTS_65"
+msgid "0x046e0243"
+msgstr ""
+
+msgctxt "START_POINTS_66"
+msgid "0x040c160c"
+msgstr ""
+
+msgctxt "START_POINTS_67"
+msgid "0x040c1625"
+msgstr ""
+
+msgctxt "START_POINTS_68"
+msgid "0x046e0229"
+msgstr ""
+
+msgctxt "START_POINTS_69"
+msgid "0x046e022b"
+msgstr ""
+
+msgctxt "START_POINTS_70"
+msgid "0x040c160e"
+msgstr ""
+
+msgctxt "START_POINTS_71"
+msgid "0x040c160f"
+msgstr ""
+
+msgctxt "START_POINTS_72"
+msgid "0x040c1610"
+msgstr ""
+
+msgctxt "START_POINTS_73"
+msgid "0x040c1612"
+msgstr ""
+
+msgctxt "START_POINTS_74"
+msgid "0x040c1613"
+msgstr ""
+
+msgctxt "START_POINTS_75"
+msgid "0x046e0249"
+msgstr ""
+
+msgctxt "START_POINTS_76"
+msgid "0x040c1629"
+msgstr ""
+
+msgctxt "START_POINTS_77"
+msgid "0x044400cf"
+msgstr ""
+
+msgctxt "START_POINTS_78"
+msgid "0x046e023f"
+msgstr ""
+
+msgctxt "START_POINTS_79"
+msgid "0x046e0241"
+msgstr ""

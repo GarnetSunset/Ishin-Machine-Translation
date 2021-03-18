@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "416"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "552"
+msgid "oryo_c03_005_01"
+msgstr ""
+
+msgctxt "568"
+msgid "C03005_KRU_A"
+msgstr ""
+
+msgctxt "581"
+msgid "C03005_ORY_A"
+msgstr ""
+
+msgctxt "594"
+msgid "C03005_OTO_A"
+msgstr ""
+
+msgctxt "607"
+msgid "Idle"
+msgstr ""

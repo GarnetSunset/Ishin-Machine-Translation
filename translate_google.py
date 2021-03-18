@@ -14,6 +14,7 @@ from google.oauth2 import service_account
 import html
 from os import path as realPath
 
+newlineAuto = 39
 key_path = "keys.json"
 
 credentials = service_account.Credentials.from_service_account_file(
@@ -28,11 +29,6 @@ for root, dirs, files in os.walk("original"):
         if file.endswith(".po"):
              poList.append(os.path.join(root, file))
              Path(root.replace("original\\", "translated\\")).mkdir(parents=True, exist_ok=True)
-
-try:
-    os.mkdir('translated')    
-except:
-    pass
 
 matches = ["TAG_", "DETAIL_EXPLAIN", "KIND_", "SHOP_ID", "UNIT_", "CATEGORY_" , "FINISH_FLAG", "PLAYER_", "TYPE_"]
 regex = u'[\u3000-\u303f\u3040-\u309f\u30a0-\u30ff\uff00-\uff9f\u4e00-\u9faf\u3400-\u4dbf]'
@@ -81,6 +77,7 @@ for fileName in poList:
     'Content-Transfer-Encoding': '8bit',
     }
     for entry in input_file:
+        iwenthere = False
         if re.search(regex, str(entry.msgid)):
             if realPath.isfile(fileName.replace("original\\", "translated\\")) == False:
                 if any(x in str(entry.msgid) for x in matches):
@@ -96,7 +93,7 @@ for fileName in poList:
                     try:
                         while counter < len(str(msgstr)):
                             if len(str(msgstr)) > counter:
-                                counter+=39
+                                counter+=newlineAuto
                                 mathTime = str(msgstr)[counter:]
                                 soylent = mathTime.index(" ")
                                 msgstr = msgstr[:counter+soylent] + "\n" + msgstr[counter+soylent+1:]
@@ -124,8 +121,33 @@ for fileName in poList:
             elif realPath.isfile(fileName.replace("original\\", "translated\\")) == True:
                 input_file_2 = polib.pofile(fileName.replace("original\\", "translated\\")
                 for entries in input_file_2:
-                    if str(entries.
-                
+                    if str(entries.msgctxt) == str(entry.msgctxt):
+                        iwenthere = True
+                if iwenthere == False and not any(x in str(entry.msgid) for x in matches):
+                    msgstr = translate_text("en", str(entry.msgid))
+                    msgstr = html.unescape(msgstr)
+                    counter = 0
+                    try:
+                        while counter < len(str(msgstr)):
+                            if len(str(msgstr)) > counter:
+                                counter+=newlineAuto
+                                mathTime = str(msgstr)[counter:]
+                                soylent = mathTime.index(" ")
+                                msgstr = msgstr[:counter+soylent] + "\n" + msgstr[counter+soylent+1:]
+                    except:
+                        pass
+                    if str(msgstr) or re.search("^\s*$", (msgstr)):
+                        translated_entry = polib.POEntry(
+                            msgctxt=entry.msgctxt,
+                            msgid=entry.msgid,
+                            msgstr=msgstr
+                            )
+                    else:
+                        translated_entry = polib.POEntry(
+                            msgctxt=entry.msgctxt,
+                            msgid=entry.msgid,
+                            msgstr=entry.msgid
+                            )
             else:    
                 translated_entry = polib.POEntry(
                     msgctxt=entry.msgctxt,

@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "4476"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4477"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4478"
+msgid "フハハハハ！"
+msgstr ""
+
+msgctxt "4491"
+msgid "おい、これはお前らがやったのか？"
+msgstr ""
+
+msgctxt "4524"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4525"
+msgid ""
+"そうだ……\n"
+"フフ、俺たちは力を手に入れたのさ。"
+msgstr ""
+
+msgctxt "4572"
+msgid ""
+"お前を倒すためにな。\n"
+"俺たちはお前を倒せばいい。"
+msgstr ""
+
+msgctxt "4621"
+msgid "そう、お前を倒せばいい……"
+msgstr ""
+
+msgctxt "4648"
+msgid "チッ、こいつらも様子が変だな。"
+msgstr ""
+
+msgctxt "4679"
+msgid "行くぞぉ！"
+msgstr ""
+
+msgctxt "4690"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4691"
+msgid "うぅ……"
+msgstr ""
+
+msgctxt "4700"
+msgid "気持ちわるい……"
+msgstr ""
+
+msgctxt "4717"
+msgid "おい、大丈夫か？"
+msgstr ""
+
+msgctxt "4734"
+msgid "すまねぇ……"
+msgstr ""
+
+msgctxt "4747"
+msgid "御頭が……"
+msgstr ""
+
+msgctxt "4758"
+msgid "御頭がおかしくなっちまったんだ。"
+msgstr ""
+
+msgctxt "4791"
+msgid "浄僧のことか？"
+msgstr ""
+
+msgctxt "4806"
+msgid ""
+"ああ。\n"
+"お前にやられた後、俺たちはどうやって\n"
+"お前に仕返しするかを考えていた。"
+msgstr ""
+
+msgctxt "4885"
+msgid ""
+"その時あいつは現れたんだ。\n"
+"香を持った卑屈そうな男だった。\n"
+"そいつは協力すれば力を与えると言ったんだ。"
+msgstr ""
+
+msgctxt "4988"
+msgid ""
+"もちろん俺たちはやめた方がいいと……\n"
+"見るからに怪しかったからな。"
+msgstr ""
+
+msgctxt "5055"
+msgid ""
+"しかし、荒ぶった御頭は手段を選ばねぇと\n"
+"言ってそいつの話に乗ってしまった。"
+msgstr ""
+
+msgctxt "5130"
+msgid "そんなことが……"
+msgstr ""
+
+msgctxt "5147"
+msgid ""
+"御頭はその男から香を受け取ると\n"
+"俺たちにその力を試し始めた。"
+msgstr ""
+
+msgctxt "5208"
+msgid ""
+"たまに無茶するんだ、御頭は……\n"
+"頼む、御頭はきっとアンタにしか止められねぇ。"
+msgstr ""
+
+msgctxt "5285"
+msgid "お前ら、そんなことされてもまだ……"
+msgstr ""
+
+msgctxt "5320"
+msgid ""
+"最初はあの強さに憧れて\n"
+"ついて行っただけだったが……\n"
+"まぁ、付き合いも長いんでな。"
+msgstr ""
+
+msgctxt "5403"
+msgid ""
+"ハハッ、そうだな。\n"
+"あんなんでも俺らの御頭さ。"
+msgstr ""
+
+msgctxt "5450"
+msgid ""
+"アンタに頼まなきゃならねぇのは不甲斐ないが\n"
+"なんとか御頭を止めてくれ……\n"
+"力を手に入れて舞い上がっちまってるだけなんだ。"
+msgstr ""
+
+msgctxt "5571"
+msgid ""
+"フッ、ここまで子分に慕われているなんてな。\n"
+"まぁ、標的は俺だろうからな。　探してみよう。"
+msgstr ""
+
+msgctxt "5660"
+msgid ""
+"お前らは橘組で\n"
+"事情を話して治療してもらえ。"
+msgstr ""
+
+msgctxt "5705"
+msgid ""
+"ありがとう。\n"
+"頼んだ。"
+msgstr ""
+
+msgctxt "5728"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5729"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5730"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6436"
+msgid "kaiwabgm_fuon_04"
+msgstr ""
+
+msgctxt "6453"
+msgid "太郎坊"
+msgstr ""
+
+msgctxt "6460"
+msgid "Player"
+msgstr ""
+
+msgctxt "6467"
+msgid "いかつい天狗面の男"
+msgstr ""
+
+msgctxt "6486"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6495"
+msgid "天狗面の浪人"
+msgstr ""
+
+msgctxt "6508"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "6520"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6531"
+msgid "kaiwabgm_fuon_01"
+msgstr ""
+
+msgctxt "6548"
+msgid "M_BUS_TLK_btl_aft_02_kamae"
+msgstr ""
+
+msgctxt "6575"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6586"
+msgid "Talk_Smile"
+msgstr ""

@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1380"
+msgid ""
+"さて……　そろそろ白状してもらおうか。\n"
+"なぜ障子に穴なんか開けたんだ？"
+msgstr ""
+
+msgctxt "1451"
+msgid ""
+"へ、へぇ……\n"
+"実は女の行水が見える噂を聞きまして……\n"
+"すんまへんでした。"
+msgstr ""
+
+msgctxt "1524"
+msgid ""
+"女？　ウチの女って……\n"
+"おーい！　お鶴や～。"
+msgstr ""
+
+msgctxt "1569"
+msgid "あ～い、なんじゃぁ～。"
+msgstr ""
+
+msgctxt "1592"
+msgid "ウチには女はこれしかおらんぞ？"
+msgstr ""
+
+msgctxt "1623"
+msgid "うへえぇぇ……！"
+msgstr ""
+
+msgctxt "1640"
+msgid "この男が、お前さんの行水を覗こうとしたんじゃ。"
+msgstr ""
+
+msgctxt "1687"
+msgid ""
+"へぇ、そうですかい。\n"
+"わたすの裸なら、いくらでも見せますけん……"
+msgstr ""
+
+msgctxt "1752"
+msgid "うへえぇぇ……　け、結構です……"
+msgstr ""
+
+msgctxt "1785"
+msgid "誰がその噂を流したんだ？"
+msgstr ""
+
+msgctxt "1810"
+msgid ""
+"へ、へぇ……\n"
+"大門の前にいた、卯吉という男でぇ……"
+msgstr ""
+
+msgctxt "1861"
+msgid "大門の前だな。"
+msgstr ""
+
+msgctxt "1876"
+msgid "そいつのしっぽを捕まえてくだせぇ……"
+msgstr ""
+
+msgctxt "1964"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "1969"
+msgid "のぞき魔"
+msgstr ""
+
+msgctxt "1978"
+msgid "老人"
+msgstr ""
+
+msgctxt "1983"
+msgid "老女"
+msgstr ""

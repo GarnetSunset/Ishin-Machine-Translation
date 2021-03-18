@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "鮒"
+msgstr ""
+
+msgctxt "NAME_1"
+msgid "鯉"
+msgstr ""
+
+msgctxt "NAME_2"
+msgid "錦鯉"
+msgstr ""
+
+msgctxt "NAME_3"
+msgid "人面魚"
+msgstr ""
+
+msgctxt "NAME_4"
+msgid "エレキ鯰"
+msgstr ""
+
+msgctxt "NAME_5"
+msgid "鮭"
+msgstr ""
+
+msgctxt "NAME_6"
+msgid "イトウ"
+msgstr ""
+
+msgctxt "NAME_7"
+msgid "虹鱒"
+msgstr ""
+
+msgctxt "NAME_8"
+msgid "すっぽん"
+msgstr ""
+
+msgctxt "NAME_9"
+msgid "鰻"
+msgstr ""
+
+msgctxt "NAME_10"
+msgid "鮎"
+msgstr ""
+
+msgctxt "NAME_11"
+msgid "ザリガニ"
+msgstr ""
+
+msgctxt "NAME_12"
+msgid "カジキ"
+msgstr ""
+
+msgctxt "NAME_13"
+msgid "鮪"
+msgstr ""
+
+msgctxt "NAME_14"
+msgid "烏賊"
+msgstr ""
+
+msgctxt "NAME_15"
+msgid "鰈"
+msgstr ""
+
+msgctxt "NAME_16"
+msgid "真鯛"
+msgstr ""
+
+msgctxt "NAME_17"
+msgid "鬼笠子"
+msgstr ""
+
+msgctxt "NAME_18"
+msgid "カワハギ"
+msgstr ""
+
+msgctxt "NAME_19"
+msgid "車海老"
+msgstr ""
+
+msgctxt "NAME_20"
+msgid "穴子"
+msgstr ""
+
+msgctxt "NAME_21"
+msgid "ハゼ"
+msgstr ""
+
+msgctxt "NAME_22"
+msgid "頬白鮫"
+msgstr ""
+
+msgctxt "NAME_23"
+msgid "竜宮の使い"
+msgstr ""
+
+msgctxt "NAME_24"
+msgid "高足蟹"
+msgstr ""
+
+msgctxt "NAME_25"
+msgid "真蛸"
+msgstr ""
+
+msgctxt "NAME_26"
+msgid "針千本"
+msgstr ""
+
+msgctxt "NAME_27"
+msgid "虎河豚"
+msgstr ""
+
+msgctxt "NAME_28"
+msgid "しらす"
+msgstr ""
+
+msgctxt "WATER_0"
+msgid "川"
+msgstr ""
+
+msgctxt "WATER_1"
+msgid "海"
+msgstr ""
+
+msgctxt "SHAPE_0"
+msgid "菱"
+msgstr ""
+
+msgctxt "SHAPE_1"
+msgid "紡錘"
+msgstr ""
+
+msgctxt "SHAPE_2"
+msgid "丸"
+msgstr ""
+
+msgctxt "SHAPE_3"
+msgid "細長"
+msgstr ""
+
+msgctxt "PATTERN_0"
+msgid "開発実験パターン"
+msgstr ""
+
+msgctxt "PATTERN_1"
+msgid "テスト2"
+msgstr ""
+
+msgctxt "PATTERN_2"
+msgid "テスト3"
+msgstr ""

@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "TITLE_0"
+msgid "熱血丹"
+msgstr ""
+
+msgctxt "TITLE_1"
+msgid "ちり紙"
+msgstr ""
+
+msgctxt "TITLE_2"
+msgid "鉄の皿"
+msgstr ""
+
+msgctxt "TITLE_3"
+msgid "だんごむし"
+msgstr ""
+
+msgctxt "TITLE_4"
+msgid "みみず"
+msgstr ""
+
+msgctxt "TITLE_5"
+msgid "活力丹"
+msgstr ""
+
+msgctxt "TITLE_6"
+msgid "熱血丹　高級"
+msgstr ""
+
+msgctxt "TITLE_7"
+msgid "銅の皿"
+msgstr ""
+
+msgctxt "TITLE_8"
+msgid "活力丹　高級"
+msgstr ""
+
+msgctxt "TITLE_9"
+msgid "銀の皿"
+msgstr ""
+
+msgctxt "TITLE_10"
+msgid "熱血丹　特選"
+msgstr ""
+
+msgctxt "TITLE_11"
+msgid "かかしの根付"
+msgstr ""
+
+msgctxt "TITLE_12"
+msgid "活力丹　特選"
+msgstr ""
+
+msgctxt "TITLE_13"
+msgid "弾丸５品"
+msgstr ""
+
+msgctxt "TITLE_14"
+msgid "回復薬５品"
+msgstr ""
+
+msgctxt "TITLE_15"
+msgid "金の皿"
+msgstr ""
+
+msgctxt "TITLE_16"
+msgid "回復薬５種注文"
+msgstr ""
+
+msgctxt "TITLE_17"
+msgid "弾丸５種注文"
+msgstr ""
+
+msgctxt "TITLE_18"
+msgid "白金の皿"
+msgstr ""
+
+msgctxt "SPONSOR_0"
+msgid "火消しの小太郎"
+msgstr ""
+
+msgctxt "SPONSOR_1"
+msgid "赤鼻の岡っ引き"
+msgstr ""
+
+msgctxt "SPONSOR_2"
+msgid "英国商人エルス"
+msgstr ""
+
+msgctxt "SPONSOR_3"
+msgid "生物学者ケント"
+msgstr ""
+
+msgctxt "SPONSOR_4"
+msgid "米国商人サム"
+msgstr ""
+
+msgctxt "SPONSOR_5"
+msgid "根付仙人"
+msgstr ""
+
+msgctxt "SPONSOR_6"
+msgid "猟師の平八郎"
+msgstr ""
+
+msgctxt "TRIGGER_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "TRIGGER_1"
+msgid "L1_2"
+msgstr ""
+
+msgctxt "TRIGGER_2"
+msgid "L2_2"
+msgstr ""
+
+msgctxt "TRIGGER_3"
+msgid "L3_2"
+msgstr ""
+
+msgctxt "TRIGGER_4"
+msgid "L4_2"
+msgstr ""
+
+msgctxt "TRIGGER_5"
+msgid "L5_2"
+msgstr ""
+
+msgctxt "TRIGGER_6"
+msgid "L6_1"
+msgstr ""
+
+msgctxt "TRIGGER_7"
+msgid "L7_5"
+msgstr ""
+
+msgctxt "TRIGGER_8"
+msgid "L8_5"
+msgstr ""

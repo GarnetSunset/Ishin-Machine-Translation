@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "122292"
+msgid "一（はじめ）さん？"
+msgstr ""
+
+msgctxt "122436"
+msgid "……入るえ"
+msgstr ""
+
+msgctxt "122580"
+msgid "ちょっと　飲みすぎちゃう？"
+msgstr ""
+
+msgctxt "122724"
+msgid ""
+"大事な人やったんやね\n"
+"その　武市さんって人"
+msgstr ""
+
+msgctxt "122868"
+msgid "せやけど……"
+msgstr ""
+
+msgctxt "123012"
+msgid "なあ　いくらなんでも飲みすぎやって"
+msgstr ""
+
+msgctxt "123156"
+msgid "俺に構うな！"
+msgstr ""
+
+msgctxt "123300"
+msgid "あんまり　無理せんといて"
+msgstr ""
+
+msgctxt "123444"
+msgid "くそ！"
+msgstr ""

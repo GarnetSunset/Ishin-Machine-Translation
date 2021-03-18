@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1532"
+msgid "あの、新選組の斎藤さんですよね？"
+msgstr ""
+
+msgctxt "1565"
+msgid "ああ、この前の博徒か。どうした？"
+msgstr ""
+
+msgctxt "1598"
+msgid ""
+"以前沖田さんと追い払ってもらった\n"
+"賭場荒らしがまた現れたんです。"
+msgstr ""
+
+msgctxt "1663"
+msgid "どうやら今度は骸街でうろついてるらしいんですが……"
+msgstr ""
+
+msgctxt "1714"
+msgid "また、新選組さんのお力で何とかなりませんかね？"
+msgstr ""
+
+msgctxt "1761"
+msgid "またか……　ちっ、しょうがねえな……"
+msgstr ""
+
+msgctxt "1798"
+msgid ""
+"ありがとうございます！\n"
+"私は先に行っていますので……\n"
+"骸街で落ち合いましょう。"
+msgstr ""
+
+msgctxt "1877"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1878"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1879"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1880"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2220"
+msgid "博徒"
+msgstr ""
+
+msgctxt "2225"
+msgid "bakuto_adv_sub_000_007"
+msgstr ""
+
+msgctxt "2248"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "2253"
+msgid "kiryu_adv_sub_000_011"
+msgstr ""
+
+msgctxt "2275"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2283"
+msgid "bakuto_adv_sub_000_008"
+msgstr ""
+
+msgctxt "2306"
+msgid "bakuto_adv_sub_000_009"
+msgstr ""
+
+msgctxt "2329"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "2342"
+msgid "bakuto_adv_sub_000_010"
+msgstr ""
+
+msgctxt "2365"
+msgid "kiryu_adv_sub_000_012"
+msgstr ""
+
+msgctxt "2387"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2398"
+msgid "bakuto_adv_sub_000_011"
+msgstr ""

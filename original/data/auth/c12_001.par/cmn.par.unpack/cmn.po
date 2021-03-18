@@ -1,0 +1,740 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "564"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "708"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "852"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "996"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "1140"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "1284"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」"
+msgstr ""
+
+msgctxt "1428"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "1572"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "1716"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "1860"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "2004"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "2436"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "2580"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "2724"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "2868"
+msgid ""
+"日本を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "3012"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "3156"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "3300"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "3444"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "3588"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "3732"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "3876"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "4308"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "4452"
+msgid ""
+"幕府倒幕へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "4596"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "4740"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "4884"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "5028"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "5172"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "5316"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "5460"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "5604"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "5748"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "6180"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "6324"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "6468"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "6612"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "6756"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "6900"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "7044"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "7188"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "7332"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "7476"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "7620"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "8052"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "8196"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "8340"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "8484"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "8628"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "8772"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "8916"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "9060"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "9204"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "9348"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "9492"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "9924"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "10068"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "10212"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "10356"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "10500"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "10644"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "10788"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "10932"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "11076"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "11220"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "11364"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "11796"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "11940"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "12084"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "12228"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "12372"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "12516"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "12660"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "12804"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "12948"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "13092"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "13236"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "13668"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "13812"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "13956"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "14100"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "14244"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "14388"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "14532"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "14676"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "14820"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "14964"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "15108"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "15540"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "15684"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "15828"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "15972"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "16116"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "16260"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "16404"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "16548"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "16692"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "16836"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "16980"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "17412"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "17556"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "17700"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "17844"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "17988"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "18132"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "18276"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "18420"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "18564"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "18708"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "18852"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "19284"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "19428"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "19572"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "19716"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "19860"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "20004"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "20148"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "20292"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "20436"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "20580"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "20724"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "21156"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "21300"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "21444"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "21588"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "21732"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "21876"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "22020"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "22164"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "22308"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "22452"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "22596"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "23028"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "23172"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "23316"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "23460"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "23604"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "23748"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "23892"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "24036"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "24180"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "24324"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "24468"
+msgid "龍馬はまだ知らない"
+msgstr ""
+
+msgctxt "24900"
+msgid "桂小五郎と西郷吉之助による「薩長同盟」は"
+msgstr ""
+
+msgctxt "25044"
+msgid ""
+"幕府打倒へと\r\n"
+"大きく歴史を動かそうとしていた"
+msgstr ""
+
+msgctxt "25188"
+msgid "その裏には“もう一人の坂本龍馬”が暗躍し"
+msgstr ""
+
+msgctxt "25332"
+msgid ""
+"日本中を戦火に包む\r\n"
+"倒幕戦争の引き金に指をかける"
+msgstr ""
+
+msgctxt "25476"
+msgid "近藤勇はいう"
+msgstr ""
+
+msgctxt "25620"
+msgid ""
+"「今　日本人同士で血を流せば\r\n"
+"この国を異国の侵略から守る者もいなくなる」と"
+msgstr ""
+
+msgctxt "25764"
+msgid "龍馬は　沖田総司とともに江戸城を襲撃し"
+msgstr ""
+
+msgctxt "25908"
+msgid "大政奉還を進めることで倒幕戦争を阻止"
+msgstr ""
+
+msgctxt "26052"
+msgid ""
+"同時にそれは\r\n"
+"“もう一人の坂本龍馬”への宣戦布告でもあった"
+msgstr ""
+
+msgctxt "26196"
+msgid "その報復がどのような事態を引き起こすのか"
+msgstr ""
+
+msgctxt "26340"
+msgid "龍馬はまだ知らない"
+msgstr ""

@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3864"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3866"
+msgid "中岡だ。……入るぞ。"
+msgstr ""
+
+msgctxt "3887"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3888"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3889"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3890"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3891"
+msgid "……"
+msgstr ""
+
+msgctxt "3896"
+msgid "岡田以蔵、お前が捕まえたってな。"
+msgstr ""
+
+msgctxt "3929"
+msgid "……"
+msgstr ""
+
+msgctxt "3934"
+msgid ""
+"皮肉なもんだ。\n"
+"かつての仲間をその手で捕まえて、\n"
+"それが武市の危機にも繋がっちまうとはな。"
+msgstr ""
+
+msgctxt "4025"
+msgid "……"
+msgstr ""
+
+msgctxt "4030"
+msgid ""
+"そう落ち込むな。\n"
+"あの武市はそう簡単に終わる男じゃねえ。"
+msgstr ""
+
+msgctxt "4087"
+msgid ""
+"あいつなら容堂公に呼び戻された理由も\n"
+"わかっているはずだ。\n"
+"きっとあいつなりに手を打ってある。"
+msgstr ""
+
+msgctxt "4182"
+msgid "だといいがな。"
+msgstr ""
+
+msgctxt "4197"
+msgid "心配か？　武市のこと。"
+msgstr ""
+
+msgctxt "4220"
+msgid "……いや。"
+msgstr ""
+
+msgctxt "4231"
+msgid ""
+"ならいい。\n"
+"あいつのことはあいつに任せておけ。"
+msgstr ""
+
+msgctxt "4278"
+msgid ""
+"今は東洋様の死の裏を探ることだ。\n"
+"それができる人間は俺たち以外にいない。"
+msgstr ""
+
+msgctxt "4351"
+msgid "吉田東洋を親とする俺たちだけなんだ。"
+msgstr ""
+
+msgctxt "4388"
+msgid ""
+"ああ、そうだな、俺にはやるべきことがある……\n"
+"だから俺は武市半平太とは違う道を選んだ。"
+msgstr ""
+
+msgctxt "4475"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4476"
+msgid "……死ぬなよ、兄弟。"
+msgstr ""
+
+msgctxt "4497"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4498"
+msgid "（今日はもう休むか……）"
+msgstr ""
+
+msgctxt "4523"
+msgid "（もう少し、街でもぶらつくか……）"
+msgstr ""
+
+msgctxt "4558"
+msgid "（そろそろ寝るとしよう……）"
+msgstr ""
+
+msgctxt "4587"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5360"
+msgid "中岡"
+msgstr ""
+
+msgctxt "5365"
+msgid "date_c05_140_01"
+msgstr ""
+
+msgctxt "5381"
+msgid "0"
+msgstr ""
+
+msgctxt "5383"
+msgid "C5140_KRU_A"
+msgstr ""
+
+msgctxt "5395"
+msgid "C5140_KRU_A_drink"
+msgstr ""
+
+msgctxt "5413"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "5418"
+msgid "date_c05_140_02"
+msgstr ""
+
+msgctxt "5434"
+msgid "M_BUS_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "5456"
+msgid "M_BUS_TLK_stand_to_agura"
+msgstr ""
+
+msgctxt "5481"
+msgid "date_c05_140_03"
+msgstr ""
+
+msgctxt "5497"
+msgid "date_c05_140_04"
+msgstr ""
+
+msgctxt "5513"
+msgid "date_c05_140_04b"
+msgstr ""
+
+msgctxt "5530"
+msgid "kiryu_c05_140_04"
+msgstr ""
+
+msgctxt "5547"
+msgid "date_c05_140_05"
+msgstr ""
+
+msgctxt "5563"
+msgid "kiryu_c05_140_05"
+msgstr ""
+
+msgctxt "5580"
+msgid "date_c05_140_06"
+msgstr ""
+
+msgctxt "5596"
+msgid "M_BUS_TLK_agura_yes"
+msgstr ""
+
+msgctxt "5616"
+msgid "date_c05_140_06b"
+msgstr ""
+
+msgctxt "5633"
+msgid "date_c05_140_06c"
+msgstr ""
+
+msgctxt "5650"
+msgid "kiryu_c05_140_06"
+msgstr ""
+
+msgctxt "5667"
+msgid "C5140_KRU_B"
+msgstr ""
+
+msgctxt "5679"
+msgid "C5140_KRU_A_to_B"
+msgstr ""
+
+msgctxt "5696"
+msgid "kiryu_c05_140_07"
+msgstr ""
+
+msgctxt "5713"
+msgid "休む"
+msgstr ""
+
+msgctxt "5718"
+msgid "まだ休まない"
+msgstr ""

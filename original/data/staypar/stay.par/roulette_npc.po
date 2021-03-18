@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "ID_0"
+msgid "kiryu"
+msgstr ""
+
+msgctxt "ID_1"
+msgid "akiyama"
+msgstr ""
+
+msgctxt "ID_2"
+msgid "saejima"
+msgstr ""
+
+msgctxt "ID_3"
+msgid "shinada"
+msgstr ""
+
+msgctxt "ID_4"
+msgid "haruka"
+msgstr ""
+
+msgctxt "ID_5"
+msgid "dealer"
+msgstr ""
+
+msgctxt "ID_6"
+msgid "tsubo"
+msgstr ""
+
+msgctxt "ID_7"
+msgid "rival0"
+msgstr ""
+
+msgctxt "ID_8"
+msgid "rival1"
+msgstr ""
+
+msgctxt "ID_9"
+msgid "rival2"
+msgstr ""
+
+msgctxt "ID_10"
+msgid "rival3"
+msgstr ""
+
+msgctxt "TYPE_0"
+msgid "player"
+msgstr ""
+
+msgctxt "TYPE_1"
+msgid "dealer"
+msgstr ""
+
+msgctxt "TYPE_2"
+msgid "rival"
+msgstr ""
+
+msgctxt "SPEAK_ID_0"
+msgid "player"
+msgstr ""
+
+msgctxt "SPEAK_ID_1"
+msgid "dealer"
+msgstr ""
+
+msgctxt "SPEAK_ID_2"
+msgid "rival"
+msgstr ""
+
+msgctxt "LAST_NAME_0"
+msgid "桐生"
+msgstr ""
+
+msgctxt "LAST_NAME_1"
+msgid "秋山"
+msgstr ""
+
+msgctxt "LAST_NAME_2"
+msgid "冴島"
+msgstr ""
+
+msgctxt "LAST_NAME_3"
+msgid "品田"
+msgstr ""
+
+msgctxt "LAST_NAME_4"
+msgid "澤村"
+msgstr ""
+
+msgctxt "LAST_NAME_5"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "LAST_NAME_6"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "LAST_NAME_7"
+msgid "青春"
+msgstr ""
+
+msgctxt "LAST_NAME_8"
+msgid "亀田"
+msgstr ""
+
+msgctxt "LAST_NAME_9"
+msgid "三下"
+msgstr ""
+
+msgctxt "LAST_NAME_10"
+msgid "半田"
+msgstr ""
+
+msgctxt "FIRST_NAME_0"
+msgid "一馬"
+msgstr ""
+
+msgctxt "FIRST_NAME_1"
+msgid "駿"
+msgstr ""
+
+msgctxt "FIRST_NAME_2"
+msgid "大河"
+msgstr ""
+
+msgctxt "FIRST_NAME_3"
+msgid "辰雄"
+msgstr ""
+
+msgctxt "FIRST_NAME_4"
+msgid "遥"
+msgstr ""
+
+msgctxt "FIRST_NAME_5"
+msgid "ディーラー"
+msgstr ""
+
+msgctxt "FIRST_NAME_6"
+msgid "壺振り師"
+msgstr ""
+
+msgctxt "FIRST_NAME_7"
+msgid "球太"
+msgstr ""
+
+msgctxt "FIRST_NAME_8"
+msgid "鶴次"
+msgstr ""
+
+msgctxt "FIRST_NAME_9"
+msgid "凡郎"
+msgstr ""
+
+msgctxt "FIRST_NAME_10"
+msgid "キャ美"
+msgstr ""
+
+msgctxt "INIT_TENSION_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "INIT_TENSION_1"
+msgid "4"
+msgstr ""
+
+msgctxt "INIT_TENSION_2"
+msgid "[1-3]"
+msgstr ""
+
+msgctxt "INIT_CHIP_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "INIT_CHIP_1"
+msgid "60000"
+msgstr ""
+
+msgctxt "INIT_CHIP_2"
+msgid "30000"
+msgstr ""
+
+msgctxt "INIT_CHIP_3"
+msgid "[3000-5000]"
+msgstr ""
+
+msgctxt "INIT_CHIP_4"
+msgid "[5000-6000]"
+msgstr ""
+
+msgctxt "INIT_CHIP_5"
+msgid "[1000-1220]"
+msgstr ""
+
+msgctxt "DO_NOTHING_PERCENT_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "DO_NOTHING_PERCENT_1"
+msgid "0"
+msgstr ""
+
+msgctxt "TOTAL_BET_PER_TURN0_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "TOTAL_BET_PER_TURN0_1"
+msgid "[1-2]"
+msgstr ""
+
+msgctxt "TOTAL_BET_PER_TURN1_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "TOTAL_BET_PER_TURN1_1"
+msgid "[3-5]"
+msgstr ""
+
+msgctxt "TOTAL_BET_PER_TURN2_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "TOTAL_BET_PER_TURN2_1"
+msgid "[6-9]"
+msgstr ""
+
+msgctxt "TOTAL_BET_PER_TURN3_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "TOTAL_BET_PER_TURN3_1"
+msgid "[10-15]"
+msgstr ""
+
+msgctxt "TOTAL_BET_PER_TURN4_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "TOTAL_BET_PER_TURN4_1"
+msgid "[30-50]"
+msgstr ""
+
+msgctxt "BET_TO_NUMBER_NUM_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BET_TO_NUMBER_NUM_1"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BET_TO_NUMBER_NUM_2"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BET_TO_NUMBER_NUM_3"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BET_TO_NUMBER_NUM_4"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BET_TO_NUMBER_NUM_5"
+msgid "3"
+msgstr ""
+
+msgctxt "BET_TO_NUMBER_NUM_6"
+msgid "1"
+msgstr ""
+
+msgctxt "BET_TO_NUMBER_NUM_7"
+msgid "[4-5]"
+msgstr ""
+
+msgctxt "BET_TO_NUMBER_NUM_8"
+msgid "0"
+msgstr ""
+
+msgctxt "BET_TO_NUMBER_NUM_9"
+msgid "[1-3]"
+msgstr ""
+
+msgctxt "BET_TO_NUMBER_NUM_10"
+msgid "[1-3]"
+msgstr ""
+
+msgctxt "BET_TO_NOT_NUMBER_NUM_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BET_TO_NOT_NUMBER_NUM_1"
+msgid "0"
+msgstr ""
+
+msgctxt "BET_TO_NOT_NUMBER_NUM_2"
+msgid "1"
+msgstr ""
+
+msgctxt "BET_TO_NOT_NUMBER_NUM_3"
+msgid "[3-4]"
+msgstr ""
+
+msgctxt "BET_TO_NOT_NUMBER_NUM_4"
+msgid "[1-2]"
+msgstr ""
+
+msgctxt "BET_WAIT_FRAME_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BET_WAIT_FRAME_1"
+msgid "[15-60]"
+msgstr ""
+
+msgctxt "BET_WAIT_FRAME_2"
+msgid "60"
+msgstr ""
+
+msgctxt "BET_WAIT_FRAME_3"
+msgid "[30-90]"
+msgstr ""
+
+msgctxt "BET_WAIT_FRAME_4"
+msgid "[120-180]"
+msgstr ""
+
+msgctxt "CURSOR_WAIT_FRAME_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "CURSOR_WAIT_FRAME_1"
+msgid "3"
+msgstr ""
+
+msgctxt "CURSOR_WAIT_FRAME_2"
+msgid "5"
+msgstr ""
+
+msgctxt "CURSOR_WAIT_FRAME_3"
+msgid "[4-6]"
+msgstr ""
+
+msgctxt "CURSOR_WAIT_FRAME_4"
+msgid "[14-16]"
+msgstr ""
+
+msgctxt "CURSOR_WAIT_FRAME_5"
+msgid "30"
+msgstr ""
+
+msgctxt "VOICE_KIND_0"
+msgid "voice_kind::eID_kiryu"
+msgstr ""
+
+msgctxt "VOICE_KIND_1"
+msgid "voice_kind::eID_akiyama"
+msgstr ""
+
+msgctxt "VOICE_KIND_2"
+msgid "voice_kind::eID_saejima"
+msgstr ""
+
+msgctxt "VOICE_KIND_3"
+msgid "voice_kind::eID_shinada"
+msgstr ""
+
+msgctxt "VOICE_KIND_4"
+msgid "voice_kind::eID_haruka"
+msgstr ""
+
+msgctxt "VOICE_KIND_5"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "VOICE_KIND_6"
+msgid "voice_kind::eID_tsubo"
+msgstr ""
+
+msgctxt "VOICE_KIND_7"
+msgid "voice_kind::eID_other16"
+msgstr ""
+
+msgctxt "VOICE_KIND_8"
+msgid "voice_kind::eID_other17"
+msgstr ""
+
+msgctxt "VOICE_KIND_9"
+msgid "voice_kind::eID_other18"
+msgstr ""
+
+msgctxt "VOICE_KIND_10"
+msgid "voice_kind::eID_other19"
+msgstr ""

@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "190380"
+msgid "構え！"
+msgstr ""
+
+msgctxt "190524"
+msgid "撃て！！"
+msgstr ""
+
+msgctxt "190668"
+msgid ""
+"やっと戻ってきやがった\n"
+"……龍馬"
+msgstr ""
+
+msgctxt "190812"
+msgid "あの……　武市先生　もしかしてこん人が……？"
+msgstr ""
+
+msgctxt "190956"
+msgid ""
+"ああ……　以前からお前らにはよく話して聞かせている\n"
+"俺の唯一無二の兄弟分であり"
+msgstr ""
+
+msgctxt "191100"
+msgid "土佐最強の剣士……"
+msgstr ""
+
+msgctxt "191244"
+msgid "坂本龍馬だ"
+msgstr ""
+
+msgctxt "191388"
+msgid "これが　土佐勤王党か……"
+msgstr ""
+
+msgctxt "191532"
+msgid ""
+"ん？　お前何やらかしてきたんだ？\n"
+"傷だらけじゃねえか"
+msgstr ""
+
+msgctxt "191676"
+msgid "つまらねえ話だ　それより兄弟"
+msgstr ""
+
+msgctxt "191820"
+msgid "東洋の親っさんと牽牛子塾で話してきた"
+msgstr ""
+
+msgctxt "191964"
+msgid ""
+"……そうか\n"
+"なら　話は早えな"
+msgstr ""
+
+msgctxt "192108"
+msgid "みんな聞いてくれ"
+msgstr ""
+
+msgctxt "192252"
+msgid "龍馬はこの一年　江戸へ剣術修行に行っていた"
+msgstr ""
+
+msgctxt "192396"
+msgid "今日からこの坂本龍馬を……"
+msgstr ""
+
+msgctxt "192540"
+msgid "土佐勤王党の“筆頭”としたいと思う"
+msgstr ""
+
+msgctxt "192684"
+msgid "どうだ！"
+msgstr ""
+
+msgctxt "192828"
+msgid "筆頭！？"
+msgstr ""
+
+msgctxt "192972"
+msgid ""
+"ほいたら　いきなり第二席……\n"
+"幹部の更に上じゃちゅうことですか！"
+msgstr ""

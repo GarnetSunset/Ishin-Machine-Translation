@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "335688"
+msgid "何者か！　ご藩名とお名前を申されよ！"
+msgstr ""
+
+msgctxt "335832"
+msgid "ご藩名とお名前を申されよ！"
+msgstr ""
+
+msgctxt "335976"
+msgid "ここをどこと心得る！？"
+msgstr ""
+
+msgctxt "336120"
+msgid ""
+"１５代将軍\n"
+"徳川慶喜公に会いに来た"
+msgstr ""
+
+msgctxt "336264"
+msgid "開門願いたい"
+msgstr ""
+
+msgctxt "336408"
+msgid ""
+"止まらんか！\n"
+"それ以上近寄れば賊とみなす！！"
+msgstr ""
+
+msgctxt "336552"
+msgid ""
+"将軍に伝えたいことがある\n"
+"お目通り許されたい"
+msgstr ""
+
+msgctxt "336696"
+msgid "イカれてんのか　こいつ？"
+msgstr ""
+
+msgctxt "336840"
+msgid "構わん　ひったてい！！"
+msgstr ""
+
+msgctxt "336984"
+msgid "この国の存亡に関わることだ"
+msgstr ""
+
+msgctxt "337128"
+msgid "そっちがその気なら"
+msgstr ""
+
+msgctxt "337272"
+msgid "力ずくでも取り継いでもらう"
+msgstr ""
+
+msgctxt "337416"
+msgid "無駄や無駄や"
+msgstr ""
+
+msgctxt "337560"
+msgid "せやから言うたやないか一（はじめ）ちゃん！"
+msgstr ""
+
+msgctxt "337704"
+msgid "沖田　待て！"
+msgstr ""
+
+msgctxt "337848"
+msgid "ハナっから問答無用やったんや！！"
+msgstr ""
+
+msgctxt "337992"
+msgid "ば　馬鹿な！！"
+msgstr ""
+
+msgctxt "338136"
+msgid "ドカンと行くでえ！！"
+msgstr ""
+
+msgctxt "338280"
+msgid "な　何てことを……"
+msgstr ""
+
+msgctxt "338424"
+msgid "チンタラすんなや　一（はじめ）ちゃん！"
+msgstr ""
+
+msgctxt "338568"
+msgid "さっさと将軍様をたたき起こすんや！！"
+msgstr ""
+
+msgctxt "338712"
+msgid "あんたは張り切り過ぎだ"
+msgstr ""
+
+msgctxt "338856"
+msgid "さすがに徳川将軍のお膝元だ"
+msgstr ""
+
+msgctxt "339000"
+msgid "歯ごたえがありそうだぜ"
+msgstr ""
+
+msgctxt "339144"
+msgid "それでこそ江戸まで来た甲斐があるってもんや！"
+msgstr ""
+
+msgctxt "339288"
+msgid "行くぞ　沖田！"
+msgstr ""
+
+msgctxt "339432"
+msgid "わあっとるわい！"
+msgstr ""

@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7652"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7653"
+msgid "別宅が使用できるようになりました。"
+msgstr ""
+
+msgctxt "7688"
+msgid ""
+"別宅への移動は、伏見の屋敷町南にいる船頭に\n"
+"話しかける事により、いつでも可能です。"
+msgstr ""
+
+msgctxt "7771"
+msgid ""
+"別宅の敷地内では、作物栽培や養鶏、\n"
+"屋内では、料理や、注文取引などができます。"
+msgstr ""
+
+msgctxt "7850"
+msgid ""
+"そうだ。斎藤さん。\n"
+"借金の返済の仕方なんだけど……"
+msgstr ""
+
+msgctxt "7901"
+msgid "ああ。どうすればいいんだ？"
+msgstr ""
+
+msgctxt "7928"
+msgid ""
+"返すのは２０両ずつ。計５回の合計１００両だね。\n"
+"毎回、返済請求は地主から手紙でくることになるから、\n"
+"手紙が来たら、地主に返しに行ってね。"
+msgstr ""
+
+msgctxt "8065"
+msgid "地主のいる場所は、来る手紙に書いてあると思うよ。"
+msgstr ""
+
+msgctxt "8114"
+msgid "分かった。"
+msgstr ""
+
+msgctxt "8125"
+msgid ""
+"あと……　これ。\n"
+"私からの、ささやかなお礼。"
+msgstr ""
+
+msgctxt "8170"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8171"
+msgid "「<Color:8>白鉢巻<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "8216"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8217"
+msgid "「<Color:8>革製胸当て<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "8266"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8267"
+msgid "「<Color:8>革籠手<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "8312"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8313"
+msgid "これは……？"
+msgstr ""
+
+msgctxt "8326"
+msgid ""
+"防具だよ。強い武士は武器だけじゃなく、\n"
+"防具にも気を使わないといけないからね。\n"
+"あまり上等な代物じゃないけど、使って！"
+msgstr ""
+
+msgctxt "8445"
+msgid ""
+"別宅では、遥と共にのんびりとした田舎生活を満喫する\n"
+"「アナザーライフ」を楽しむことができます。\n"
+"「アナザーライフ」をやり込むことで、\n"
+"徳やお金はもちろん、<Color:255,200,200,255>防具素材<Color:Default>も多く手に入れることができます。\n"
+"これらを有効に使えば、\n"
+"龍馬を一回りも二回りも強くすることができるでしょう。\n"
+"「アナザーライフ」で徳やお金を稼ぎ、防具を鍛えて、\n"
+"次なる戦いに備えましょう！"
+msgstr ""
+
+msgctxt "8836"
+msgid ""
+"なるほど、防具か……\n"
+"確かに、武器に比べるとあまり意識していなかった\n"
+"かもしれないな。有難く受け取っておく。"
+msgstr ""
+
+msgctxt "8945"
+msgid ""
+"どういたしまして。\n"
+"それじゃあ、今回は本当にありがとう。\n"
+"遥ちゃんのこと……　よろしくね。"
+msgstr ""
+
+msgctxt "9036"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9037"
+msgid ""
+"さてと……\n"
+"軽く、この家の設備でも確認してみるかな。"
+msgstr ""
+
+msgctxt "9090"
+msgid "は、はい。どうぞごゆっくり。"
+msgstr ""
+
+msgctxt "9119"
+msgid ""
+"（室内は後回しにするか。\n"
+"　まずは、庭から確認してみよう）"
+msgstr ""
+
+msgctxt "9178"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9179"
+msgid ""
+"借金完済……\n"
+"おめでとーう！"
+msgstr ""
+
+msgctxt "9208"
+msgid "ふっ。大げさだな。"
+msgstr ""
+
+msgctxt "9227"
+msgid ""
+"おじさん……　本当にありがとう。\n"
+"おじさんがいなかったら、私も、この家も、\n"
+"今頃どうなっていたか……"
+msgstr ""
+
+msgctxt "9328"
+msgid ""
+"いや。俺も１００両でこんなに良い家を\n"
+"手に入れられたんだ。\n"
+"それに、遥もとてもよく働いてくれている。"
+msgstr ""
+
+msgctxt "9429"
+msgid "礼を言いたいのは、こちらのほうだ。"
+msgstr ""
+
+msgctxt "9464"
+msgid "おじさん……　えへへへ……"
+msgstr ""
+
+msgctxt "9491"
+msgid "で……　これから２人はどうするんだい？"
+msgstr ""
+
+msgctxt "9530"
+msgid ""
+"何も変わらないさ。……今迄通り、\n"
+"遥と平和に暮らしていければと思っている。\n"
+"遥がそれでよければ、だが……"
+msgstr ""
+
+msgctxt "9635"
+msgid "うん。"
+msgstr ""
+
+msgctxt "9642"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9643"
+msgid ""
+"……これからも、よろしくお願いします。\n"
+"おじさん。"
+msgstr ""
+
+msgctxt "9694"
+msgid "ああ。……よろしくな、遥。"
+msgstr ""
+
+msgctxt "9721"
+msgid ""
+"うふふふ。めでたしめでたし、と言ったところだね。\n"
+"さぁ、今日はお祝いだ！\n"
+"ぱーっと酒でも飲んで、盛り上がろうよ！　ね？"
+msgstr ""
+
+msgctxt "9840"
+msgid "ふふ。そうですね。"
+msgstr ""
+
+msgctxt "9859"
+msgid ""
+"じゃあ私、ごちそうの準備をしないと。\n"
+"……おじさんも、手伝ってね？"
+msgstr ""
+
+msgctxt "9926"
+msgid "ああ。……確か、この前採った野菜があっただろう。"
+msgstr ""
+
+msgctxt "9975"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9976"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9977"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9978"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9979"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9980"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11100"
+msgid "別宅について"
+msgstr ""
+
+msgctxt "11113"
+msgid "神主"
+msgstr ""
+
+msgctxt "11118"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11127"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "11132"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "11143"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "11153"
+msgid "Player"
+msgstr ""
+
+msgctxt "11160"
+msgid "アナザーライフについて"
+msgstr ""
+
+msgctxt "11183"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11194"
+msgid "遥"
+msgstr ""
+
+msgctxt "11197"
+msgid "0"
+msgstr ""
+
+msgctxt "11199"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11207"
+msgid "kaiwabgm_hartwarm_01"
+msgstr ""
+
+msgctxt "11228"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "11239"
+msgid "F_HAL_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "11261"
+msgid "F_HAL_TLK_chair_to_stand"
+msgstr ""
+
+msgctxt "11286"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "11308"
+msgid "P_KRU_TLK_chair_to_stand"
+msgstr ""
+
+msgctxt "11333"
+msgid "dummy"
+msgstr ""

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "404"
+msgid "おいでやす"
+msgstr ""
+
+msgctxt "548"
+msgid "ごゆっくり……"
+msgstr ""
+
+msgctxt "692"
+msgid "新堀松輔だ"
+msgstr ""
+
+msgctxt "836"
+msgid "話は聞いてるよ"
+msgstr ""
+
+msgctxt "980"
+msgid "この風呂は……　貸切ってわけか？"
+msgstr ""
+
+msgctxt "1124"
+msgid ""
+"ああ　他には誰も入って来ねえ\n"
+"安心だろ？"
+msgstr ""
+
+msgctxt "1268"
+msgid "あんたがサイの風呂屋？"
+msgstr ""
+
+msgctxt "1412"
+msgid "そうだ"
+msgstr ""
+
+msgctxt "1556"
+msgid "あんたは……　斎藤一"
+msgstr ""
+
+msgctxt "1700"
+msgid "自己紹介はいらねえってわけか"
+msgstr ""
+
+msgctxt "1844"
+msgid "まぁ　お互い知りすぎるのはやめにしとこうや"
+msgstr ""
+
+msgctxt "1988"
+msgid "なかなかいい湯だな"
+msgstr ""
+
+msgctxt "2132"
+msgid "ハハハ"
+msgstr ""

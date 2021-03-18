@@ -1,0 +1,1892 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "46908"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "46909"
+msgid ""
+"お侍どん！　ごっつぁんです！\n"
+"おら、なんだか小腹が空いちまっただよ！"
+msgstr ""
+
+msgctxt "46978"
+msgid "はぁ……"
+msgstr ""
+
+msgctxt "46987"
+msgid "おい、ため息なんてついてどうした？"
+msgstr ""
+
+msgctxt "47022"
+msgid "あ、お侍どん……　ごっつぁんです……"
+msgstr ""
+
+msgctxt "47059"
+msgid "……横綱への昇級がかかった試合、どうだったんだ？"
+msgstr ""
+
+msgctxt "47108"
+msgid "…………"
+msgstr ""
+
+msgctxt "47117"
+msgid "……そうか。"
+msgstr ""
+
+msgctxt "47130"
+msgid "いや、そんなに落ち込むことはないだろう。"
+msgstr ""
+
+msgctxt "47171"
+msgid ""
+"こんな短期間で序の口から大関にまでなれたんだぞ。\n"
+"誰にでもできることじゃない……　立派なことだ。"
+msgstr ""
+
+msgctxt "47268"
+msgid ""
+"今回は残念だったが……\n"
+"諦めなければいつか、いつかきっと横綱になれるさ。"
+msgstr ""
+
+msgctxt "47341"
+msgid "ん……？　あ、あぁ、横綱にはなっただよ。"
+msgstr ""
+
+msgctxt "47382"
+msgid "えっ。"
+msgstr ""
+
+msgctxt "47389"
+msgid "横綱だ。"
+msgstr ""
+
+msgctxt "47398"
+msgid "……いや、今お前、横綱なのか？"
+msgstr ""
+
+msgctxt "47429"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47430"
+msgid "んだ。"
+msgstr ""
+
+msgctxt "47437"
+msgid ""
+"あんたからもらった食べ物がうまかったおかげで、\n"
+"いつも以上の力がだせてなぁ、楽勝で勝っただよ。"
+msgstr ""
+
+msgctxt "47532"
+msgid ""
+"そ、そうか……　それはよかったが、\n"
+"じゃあなぜ今落ち込んでいたんだ？"
+msgstr ""
+
+msgctxt "47601"
+msgid "え？　おら、落ち込んでなんかないべさ！"
+msgstr ""
+
+msgctxt "47640"
+msgid "おらぁただなぁ、腹が減ってただけだぁ！"
+msgstr ""
+
+msgctxt "47679"
+msgid "…………"
+msgstr ""
+
+msgctxt "47688"
+msgid ""
+"……フッ、お前らしいな。\n"
+"昇級祝いだ。飯でも食いにいくか。"
+msgstr ""
+
+msgctxt "47747"
+msgid ""
+"おぉ、そりゃあええ！\n"
+"おらうまいもんがたらふく食いたいっぺよぉ！"
+msgstr ""
+
+msgctxt "47812"
+msgid ""
+"今日ばかりは、\n"
+"おらがお侍どんにご馳走したいだよぉ！"
+msgstr ""
+
+msgctxt "47865"
+msgid "昇級祝いなのに、いいのか？"
+msgstr ""
+
+msgctxt "47892"
+msgid ""
+"細かいこと気にしたらだめだべ！\n"
+"大好きなお侍どんのために、せめてもの恩返しだぁ！"
+msgstr ""
+
+msgctxt "47973"
+msgid "フッ……　よく言うぜ。"
+msgstr ""
+
+msgctxt "47996"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47997"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47998"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47999"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48000"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48001"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48002"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48003"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48004"
+msgid "おんや、お侍どんでねぇか！　ごっつぁんです！"
+msgstr ""
+
+msgctxt "48049"
+msgid "その様子だと……　前の試合も勝ったみたいだな。"
+msgstr ""
+
+msgctxt "48096"
+msgid ""
+"あぁ、もちろん勝てたっぺよぉ！\n"
+"今はおら……　なんと大関にまでなっちまっただ。"
+msgstr ""
+
+msgctxt "48175"
+msgid ""
+"最初に会ったときと比べたら、大躍進だな。\n"
+"お前……　本当に強かったんだな。"
+msgstr ""
+
+msgctxt "48250"
+msgid "えー！　今まで信じてくれてなかっただかぁ!?"
+msgstr ""
+
+msgctxt "48293"
+msgid "フッ、冗談だ。今までよくがんばったな。"
+msgstr ""
+
+msgctxt "48332"
+msgid ""
+"……ありがとうなぁ。お侍どんがいなかったら、\n"
+"おら、多分とっくの昔に田舎に帰っちまってるだよ。"
+msgstr ""
+
+msgctxt "48427"
+msgid ""
+"しかし、お前ももう大関か……\n"
+"ん？　ということはつまり……"
+msgstr ""
+
+msgctxt "48486"
+msgid ""
+"……んだ。おら、もう少しで、\n"
+"相撲界の頂点「横綱」に手が届くんだ。"
+msgstr ""
+
+msgctxt "48553"
+msgid "横綱、か……"
+msgstr ""
+
+msgctxt "48566"
+msgid ""
+"おらが横綱になれるかどうか、\n"
+"……次の試合で全てが決まるんだ。"
+msgstr ""
+
+msgctxt "48629"
+msgid ""
+"……今回ばかりは、おらが本来の力を出せても、\n"
+"勝てるかどうかわからねぇ。"
+msgstr ""
+
+msgctxt "48702"
+msgid ""
+"お侍どん、おら、怖くなってきちまっただ。\n"
+"おら、どうすればいいかなぁ？"
+msgstr ""
+
+msgctxt "48773"
+msgid "……腹いっぱい、食えばいい。"
+msgstr ""
+
+msgctxt "48802"
+msgid "へっ？"
+msgstr ""
+
+msgctxt "48809"
+msgid ""
+"お前がそんな風に弱気になってる時は\n"
+"おおかた腹でも減ってるんだろう？"
+msgstr ""
+
+msgctxt "48878"
+msgid "そ、そんなこと……！"
+msgstr ""
+
+msgctxt "48899"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48900"
+msgid "ぐぅぅぅ……"
+msgstr ""
+
+msgctxt "48913"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48914"
+msgid "あっ……！"
+msgstr ""
+
+msgctxt "48925"
+msgid ""
+"こいつでも食って、元気をだせ。\n"
+"そして……"
+msgstr ""
+
+msgctxt "48968"
+msgid "横綱になってこい！"
+msgstr ""
+
+msgctxt "48987"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48988"
+msgid "こ……　これは!!"
+msgstr ""
+
+msgctxt "49005"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49006"
+msgid ""
+"いや、これは、いくら食い意地がはってるおらでも、\n"
+"さすがに食えないだよ……"
+msgstr ""
+
+msgctxt "49081"
+msgid "（……さすがに無理か）"
+msgstr ""
+
+msgctxt "49104"
+msgid "こ……　これは!!"
+msgstr ""
+
+msgctxt "49121"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49122"
+msgid ""
+"いや、いくらなんでも\n"
+"形のないものは、おら食えないだよ……"
+msgstr ""
+
+msgctxt "49181"
+msgid "（……渡せるものを持っていなかったな）"
+msgstr ""
+
+msgctxt "49220"
+msgid "こ……　これは!!"
+msgstr ""
+
+msgctxt "49237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49238"
+msgid ""
+"こんなうまそうなもの、ありがとうなぁ。\n"
+"あんただと思って大切に食うだよ……"
+msgstr ""
+
+msgctxt "49313"
+msgid "……あ、あぁ。"
+msgstr ""
+
+msgctxt "49328"
+msgid "……お前ならできる。そう、信じてるぜ。"
+msgstr ""
+
+msgctxt "49367"
+msgid "お侍どん……　おらがんばるだよ！"
+msgstr ""
+
+msgctxt "49400"
+msgid ""
+"またこの場所で、結果報告すっからよぉ！\n"
+"楽しみにしててくれよぉ！"
+msgstr ""
+
+msgctxt "49465"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49466"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49467"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49468"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49469"
+msgid "おんや、お侍どんでねぇか！"
+msgstr ""
+
+msgctxt "49496"
+msgid "前の試合はどうだったんだ？"
+msgstr ""
+
+msgctxt "49523"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49524"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "49530"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は序二段なんだぁ。"
+msgstr ""
+
+msgctxt "49587"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は三段目なんだぁ。"
+msgstr ""
+
+msgctxt "49644"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は幕下なんだぁ。"
+msgstr ""
+
+msgctxt "49699"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は十両なんだぁ。"
+msgstr ""
+
+msgctxt "49754"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は前頭なんだぁ。"
+msgstr ""
+
+msgctxt "49809"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は小結なんだぁ。"
+msgstr ""
+
+msgctxt "49864"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は関脇なんだぁ。"
+msgstr ""
+
+msgctxt "49919"
+msgid "おぉ、すごいじゃないか。"
+msgstr ""
+
+msgctxt "49944"
+msgid ""
+"それもこれも全部、\n"
+"お侍どんが食べ物を恵んでくれたおかげでよぉ。\n"
+"そのおかげで、おら本来の力がだせたんだぁ。"
+msgstr ""
+
+msgctxt "50053"
+msgid "フッ、よかったな。"
+msgstr ""
+
+msgctxt "50072"
+msgid ""
+"……ほんでなぁ、\n"
+"またこれからすぐ大事な試合があるんだけどよぉ。\n"
+"今、おら腹が減って倒れそうなんだ。"
+msgstr ""
+
+msgctxt "50173"
+msgid ""
+"お侍どん……　今回も、おらが試合で勝つために、\n"
+"食べ物を恵んでくれねぇだろうか？"
+msgstr ""
+
+msgctxt "50254"
+msgid "あいにく、今お前に渡せる食べ物を持っていない。"
+msgstr ""
+
+msgctxt "50301"
+msgid ""
+"そ、そんなぁ……\n"
+"それじゃおら、どうすれば……"
+msgstr ""
+
+msgctxt "50348"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50349"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "50376"
+msgid ""
+"こ、これは、いくら食い意地がはってるおらでも、\n"
+"さすがに食えないだよ……"
+msgstr ""
+
+msgctxt "50449"
+msgid "（……さすがに無理だったか）"
+msgstr ""
+
+msgctxt "50478"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "50505"
+msgid ""
+"おぉ、こいつはうまそうだ！\n"
+"ほんではさっそくいただくとするべ！"
+msgstr ""
+
+msgctxt "50568"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50569"
+msgid "ムシャムシャゴクゴク……"
+msgstr ""
+
+msgctxt "50594"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50595"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50596"
+msgid "ふひぃー、生き返ったべ！"
+msgstr ""
+
+msgctxt "50621"
+msgid ""
+"相変わらず、すごい食いっぷりだな……\n"
+"どうだ？　今回も勝てそうか？"
+msgstr ""
+
+msgctxt "50688"
+msgid ""
+"あぁ、あんたのおかげで、今回の試合も\n"
+"本来の力をだしきれそうだべ！"
+msgstr ""
+
+msgctxt "50755"
+msgid ""
+"またこの場所で結果報告すっからよぉ！\n"
+"楽しみに待っててくれよぉ！"
+msgstr ""
+
+msgctxt "50820"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50821"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50822"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50823"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50824"
+msgid "おんや、お侍どんでねぇか！"
+msgstr ""
+
+msgctxt "50851"
+msgid "前の試合はどうだったんだ？"
+msgstr ""
+
+msgctxt "50878"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50879"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50880"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50881"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50882"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50885"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は序二段なんだぁ。"
+msgstr ""
+
+msgctxt "50942"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は三段目なんだぁ。"
+msgstr ""
+
+msgctxt "50999"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は幕下なんだぁ。"
+msgstr ""
+
+msgctxt "51054"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は十両なんだぁ。"
+msgstr ""
+
+msgctxt "51109"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は前頭なんだぁ。"
+msgstr ""
+
+msgctxt "51164"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は小結なんだぁ。"
+msgstr ""
+
+msgctxt "51219"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は関脇なんだぁ。"
+msgstr ""
+
+msgctxt "51274"
+msgid "おぉ、すごいじゃないか。"
+msgstr ""
+
+msgctxt "51299"
+msgid ""
+"それもこれも全部、\n"
+"お侍どんが食べ物を恵んでくれたおかげでよぉ。\n"
+"そのおかげで、おら本来の力がだせたんだぁ。"
+msgstr ""
+
+msgctxt "51408"
+msgid "フッ、よかったな。"
+msgstr ""
+
+msgctxt "51427"
+msgid ""
+"……ほんでなぁ、\n"
+"またこれからすぐ大事な試合があるんだけどよぉ。\n"
+"今、おら腹が減って倒れそうなんだ。"
+msgstr ""
+
+msgctxt "51528"
+msgid ""
+"お侍どん……　今回も、おらが試合で勝つために、\n"
+"食べ物を恵んでくれねぇだろうか？"
+msgstr ""
+
+msgctxt "51609"
+msgid "あいにく、今お前に渡せる食べ物を持っていない。"
+msgstr ""
+
+msgctxt "51656"
+msgid ""
+"そ、そんなぁ……\n"
+"それじゃおら、どうすれば……"
+msgstr ""
+
+msgctxt "51703"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51704"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "51731"
+msgid ""
+"こ、これは、いくら食い意地がはってるおらでも、\n"
+"さすがに食えないだよ……"
+msgstr ""
+
+msgctxt "51804"
+msgid "（……さすがに無理だったか）"
+msgstr ""
+
+msgctxt "51833"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "51860"
+msgid ""
+"おぉ、こいつはうまそうだ！\n"
+"ほんではさっそくいただくとするべ！"
+msgstr ""
+
+msgctxt "51923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51924"
+msgid "ムシャムシャゴクゴク……"
+msgstr ""
+
+msgctxt "51949"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51950"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51951"
+msgid "ふひぃー、生き返ったべ！"
+msgstr ""
+
+msgctxt "51976"
+msgid ""
+"相変わらず、すごい食いっぷりだな……\n"
+"どうだ？　今回も勝てそうか？"
+msgstr ""
+
+msgctxt "52043"
+msgid ""
+"あぁ、あんたのおかげで、今回の試合も\n"
+"本来の力をだしきれそうだべ！"
+msgstr ""
+
+msgctxt "52110"
+msgid ""
+"またこの場所で結果報告すっからよぉ！\n"
+"楽しみに待っててくれよぉ！"
+msgstr ""
+
+msgctxt "52175"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52176"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52177"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52178"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52179"
+msgid "おんや、お侍どんでねぇか！"
+msgstr ""
+
+msgctxt "52206"
+msgid "前の試合はどうだったんだ？"
+msgstr ""
+
+msgctxt "52233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52234"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52240"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は序二段なんだぁ。"
+msgstr ""
+
+msgctxt "52297"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は三段目なんだぁ。"
+msgstr ""
+
+msgctxt "52354"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は幕下なんだぁ。"
+msgstr ""
+
+msgctxt "52409"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は十両なんだぁ。"
+msgstr ""
+
+msgctxt "52464"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は前頭なんだぁ。"
+msgstr ""
+
+msgctxt "52519"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は小結なんだぁ。"
+msgstr ""
+
+msgctxt "52574"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は関脇なんだぁ。"
+msgstr ""
+
+msgctxt "52629"
+msgid "おぉ、すごいじゃないか。"
+msgstr ""
+
+msgctxt "52654"
+msgid ""
+"それもこれも全部、\n"
+"お侍どんが食べ物を恵んでくれたおかげでよぉ。\n"
+"そのおかげで、おら本来の力がだせたんだぁ。"
+msgstr ""
+
+msgctxt "52763"
+msgid "フッ、よかったな。"
+msgstr ""
+
+msgctxt "52782"
+msgid ""
+"……ほんでなぁ、\n"
+"またこれからすぐ大事な試合があるんだけどよぉ。\n"
+"今、おら腹が減って倒れそうなんだ。"
+msgstr ""
+
+msgctxt "52883"
+msgid ""
+"お侍どん……　今回も、おらが試合で勝つために、\n"
+"食べ物を恵んでくれねぇだろうか？"
+msgstr ""
+
+msgctxt "52964"
+msgid "あいにく、今お前に渡せる食べ物を持っていない。"
+msgstr ""
+
+msgctxt "53011"
+msgid ""
+"そ、そんなぁ……\n"
+"それじゃおら、どうすれば……"
+msgstr ""
+
+msgctxt "53058"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53059"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "53086"
+msgid ""
+"こ、これは、いくら食い意地がはってるおらでも、\n"
+"さすがに食えないだよ……"
+msgstr ""
+
+msgctxt "53159"
+msgid "（……さすがに無理だったか）"
+msgstr ""
+
+msgctxt "53188"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "53215"
+msgid ""
+"おぉ、こいつはうまそうだ！\n"
+"ほんではさっそくいただくとするべ！"
+msgstr ""
+
+msgctxt "53278"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53279"
+msgid "ムシャムシャゴクゴク……"
+msgstr ""
+
+msgctxt "53304"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53305"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53306"
+msgid "ふひぃー、生き返ったべ！"
+msgstr ""
+
+msgctxt "53331"
+msgid ""
+"相変わらず、すごい食いっぷりだな……\n"
+"どうだ？　今回も勝てそうか？"
+msgstr ""
+
+msgctxt "53398"
+msgid ""
+"あぁ、あんたのおかげで、今回の試合も\n"
+"本来の力をだしきれそうだべ！"
+msgstr ""
+
+msgctxt "53465"
+msgid ""
+"またこの場所で結果報告すっからよぉ！\n"
+"楽しみに待っててくれよぉ！"
+msgstr ""
+
+msgctxt "53530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53531"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53532"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53533"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53534"
+msgid "おんや、お侍どんでねぇか！"
+msgstr ""
+
+msgctxt "53561"
+msgid "前の試合はどうだったんだ？"
+msgstr ""
+
+msgctxt "53588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53589"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53590"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53591"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53593"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53594"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "53595"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は序二段なんだぁ。"
+msgstr ""
+
+msgctxt "53652"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は三段目なんだぁ。"
+msgstr ""
+
+msgctxt "53709"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は幕下なんだぁ。"
+msgstr ""
+
+msgctxt "53764"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は十両なんだぁ。"
+msgstr ""
+
+msgctxt "53819"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は前頭なんだぁ。"
+msgstr ""
+
+msgctxt "53874"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は小結なんだぁ。"
+msgstr ""
+
+msgctxt "53929"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は関脇なんだぁ。"
+msgstr ""
+
+msgctxt "53984"
+msgid "おぉ、すごいじゃないか。"
+msgstr ""
+
+msgctxt "54009"
+msgid ""
+"それもこれも全部、\n"
+"お侍どんが食べ物を恵んでくれたおかげでよぉ。\n"
+"そのおかげで、おら本来の力がだせたんだぁ。"
+msgstr ""
+
+msgctxt "54118"
+msgid "フッ、よかったな。"
+msgstr ""
+
+msgctxt "54137"
+msgid ""
+"……ほんでなぁ、\n"
+"またこれからすぐ大事な試合があるんだけどよぉ。\n"
+"今、おら腹が減って倒れそうなんだ。"
+msgstr ""
+
+msgctxt "54238"
+msgid ""
+"お侍どん……　今回も、おらが試合で勝つために、\n"
+"食べ物を恵んでくれねぇだろうか？"
+msgstr ""
+
+msgctxt "54319"
+msgid "あいにく、今お前に渡せる食べ物を持っていない。"
+msgstr ""
+
+msgctxt "54366"
+msgid ""
+"そ、そんなぁ……\n"
+"それじゃおら、どうすれば……"
+msgstr ""
+
+msgctxt "54413"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54414"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "54441"
+msgid ""
+"こ、これは、いくら食い意地がはってるおらでも、\n"
+"さすがに食えないだよ……"
+msgstr ""
+
+msgctxt "54514"
+msgid "（……さすがに無理だったか）"
+msgstr ""
+
+msgctxt "54543"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "54570"
+msgid ""
+"おぉ、こいつはうまそうだ！\n"
+"ほんではさっそくいただくとするべ！"
+msgstr ""
+
+msgctxt "54633"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54634"
+msgid "ムシャムシャゴクゴク……"
+msgstr ""
+
+msgctxt "54659"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54660"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54661"
+msgid "ふひぃー、生き返ったべ！"
+msgstr ""
+
+msgctxt "54686"
+msgid ""
+"相変わらず、すごい食いっぷりだな……\n"
+"どうだ？　今回も勝てそうか？"
+msgstr ""
+
+msgctxt "54753"
+msgid ""
+"あぁ、あんたのおかげで、今回の試合も\n"
+"本来の力をだしきれそうだべ！"
+msgstr ""
+
+msgctxt "54820"
+msgid ""
+"またこの場所で結果報告すっからよぉ！\n"
+"楽しみに待っててくれよぉ！"
+msgstr ""
+
+msgctxt "54885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54886"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54887"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54888"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54889"
+msgid "おんや、お侍どんでねぇか！"
+msgstr ""
+
+msgctxt "54916"
+msgid "前の試合はどうだったんだ？"
+msgstr ""
+
+msgctxt "54943"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54945"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54947"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54948"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54949"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54950"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は序二段なんだぁ。"
+msgstr ""
+
+msgctxt "55007"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は三段目なんだぁ。"
+msgstr ""
+
+msgctxt "55064"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は幕下なんだぁ。"
+msgstr ""
+
+msgctxt "55119"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は十両なんだぁ。"
+msgstr ""
+
+msgctxt "55174"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は前頭なんだぁ。"
+msgstr ""
+
+msgctxt "55229"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は小結なんだぁ。"
+msgstr ""
+
+msgctxt "55284"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は関脇なんだぁ。"
+msgstr ""
+
+msgctxt "55339"
+msgid "おぉ、すごいじゃないか。"
+msgstr ""
+
+msgctxt "55364"
+msgid ""
+"それもこれも全部、\n"
+"お侍どんが食べ物を恵んでくれたおかげでよぉ。\n"
+"そのおかげで、おら本来の力がだせたんだぁ。"
+msgstr ""
+
+msgctxt "55473"
+msgid "フッ、よかったな。"
+msgstr ""
+
+msgctxt "55492"
+msgid ""
+"……ほんでなぁ、\n"
+"またこれからすぐ大事な試合があるんだけどよぉ。\n"
+"今、おら腹が減って倒れそうなんだ。"
+msgstr ""
+
+msgctxt "55593"
+msgid ""
+"お侍どん……　今回も、おらが試合で勝つために、\n"
+"食べ物を恵んでくれねぇだろうか？"
+msgstr ""
+
+msgctxt "55674"
+msgid "あいにく、今お前に渡せる食べ物を持っていない。"
+msgstr ""
+
+msgctxt "55721"
+msgid ""
+"そ、そんなぁ……\n"
+"それじゃおら、どうすれば……"
+msgstr ""
+
+msgctxt "55768"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55769"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "55796"
+msgid ""
+"こ、これは、いくら食い意地がはってるおらでも、\n"
+"さすがに食えないだよ……"
+msgstr ""
+
+msgctxt "55869"
+msgid "（……さすがに無理だったか）"
+msgstr ""
+
+msgctxt "55898"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "55925"
+msgid ""
+"おぉ、こいつはうまそうだ！\n"
+"ほんではさっそくいただくとするべ！"
+msgstr ""
+
+msgctxt "55988"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55989"
+msgid "ムシャムシャゴクゴク……"
+msgstr ""
+
+msgctxt "56014"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56015"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56016"
+msgid "ふひぃー、生き返ったべ！"
+msgstr ""
+
+msgctxt "56041"
+msgid ""
+"相変わらず、すごい食いっぷりだな……\n"
+"どうだ？　今回も勝てそうか？"
+msgstr ""
+
+msgctxt "56108"
+msgid ""
+"あぁ、あんたのおかげで、今回の試合も\n"
+"本来の力をだしきれそうだべ！"
+msgstr ""
+
+msgctxt "56175"
+msgid ""
+"またこの場所で結果報告すっからよぉ！\n"
+"楽しみに待っててくれよぉ！"
+msgstr ""
+
+msgctxt "56240"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56241"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56242"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56243"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56244"
+msgid "おんや、お侍どんでねぇか！"
+msgstr ""
+
+msgctxt "56271"
+msgid "前の試合はどうだったんだ？"
+msgstr ""
+
+msgctxt "56298"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56299"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56300"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56301"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56302"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56303"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56304"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56305"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は序二段なんだぁ。"
+msgstr ""
+
+msgctxt "56362"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は三段目なんだぁ。"
+msgstr ""
+
+msgctxt "56419"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は幕下なんだぁ。"
+msgstr ""
+
+msgctxt "56474"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は十両なんだぁ。"
+msgstr ""
+
+msgctxt "56529"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は前頭なんだぁ。"
+msgstr ""
+
+msgctxt "56584"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は小結なんだぁ。"
+msgstr ""
+
+msgctxt "56639"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は関脇なんだぁ。"
+msgstr ""
+
+msgctxt "56694"
+msgid "おぉ、すごいじゃないか。"
+msgstr ""
+
+msgctxt "56719"
+msgid ""
+"それもこれも全部、\n"
+"お侍どんが食べ物を恵んでくれたおかげでよぉ。\n"
+"そのおかげで、おら本来の力がだせたんだぁ。"
+msgstr ""
+
+msgctxt "56828"
+msgid "フッ、よかったな。"
+msgstr ""
+
+msgctxt "56847"
+msgid ""
+"……ほんでなぁ、\n"
+"またこれからすぐ大事な試合があるんだけどよぉ。\n"
+"今、おら腹が減って倒れそうなんだ。"
+msgstr ""
+
+msgctxt "56948"
+msgid ""
+"お侍どん……　今回も、おらが試合で勝つために、\n"
+"食べ物を恵んでくれねぇだろうか？"
+msgstr ""
+
+msgctxt "57029"
+msgid "あいにく、今お前に渡せる食べ物を持っていない。"
+msgstr ""
+
+msgctxt "57076"
+msgid ""
+"そ、そんなぁ……\n"
+"それじゃおら、どうすれば……"
+msgstr ""
+
+msgctxt "57123"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57124"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "57151"
+msgid ""
+"こ、これは、いくら食い意地がはってるおらでも、\n"
+"さすがに食えないだよ……"
+msgstr ""
+
+msgctxt "57224"
+msgid "（……さすがに無理だったか）"
+msgstr ""
+
+msgctxt "57253"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "57280"
+msgid ""
+"おぉ、こいつはうまそうだ！\n"
+"ほんではさっそくいただくとするべ！"
+msgstr ""
+
+msgctxt "57343"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57344"
+msgid "ムシャムシャゴクゴク……"
+msgstr ""
+
+msgctxt "57369"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57370"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57371"
+msgid "ふひぃー、生き返ったべ！"
+msgstr ""
+
+msgctxt "57396"
+msgid ""
+"相変わらず、すごい食いっぷりだな……\n"
+"どうだ？　今回も勝てそうか？"
+msgstr ""
+
+msgctxt "57463"
+msgid ""
+"あぁ、あんたのおかげで、今回の試合も\n"
+"本来の力をだしきれそうだべ！"
+msgstr ""
+
+msgctxt "57530"
+msgid ""
+"またこの場所で結果報告すっからよぉ！\n"
+"楽しみに待っててくれよぉ！"
+msgstr ""
+
+msgctxt "57595"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57596"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57597"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57598"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57599"
+msgid "おんや、お侍どんでねぇか！"
+msgstr ""
+
+msgctxt "57626"
+msgid "前の試合はどうだったんだ？"
+msgstr ""
+
+msgctxt "57653"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57654"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57655"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57656"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57657"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57658"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57659"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57660"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は序二段なんだぁ。"
+msgstr ""
+
+msgctxt "57717"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は三段目なんだぁ。"
+msgstr ""
+
+msgctxt "57774"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は幕下なんだぁ。"
+msgstr ""
+
+msgctxt "57829"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は十両なんだぁ。"
+msgstr ""
+
+msgctxt "57884"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は前頭なんだぁ。"
+msgstr ""
+
+msgctxt "57939"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は小結なんだぁ。"
+msgstr ""
+
+msgctxt "57994"
+msgid ""
+"無事、勝てたっぺよぉ！\n"
+"今、おらの階級は関脇なんだぁ。"
+msgstr ""
+
+msgctxt "58049"
+msgid "おぉ、すごいじゃないか。"
+msgstr ""
+
+msgctxt "58074"
+msgid ""
+"それもこれも全部、\n"
+"お侍どんが食べ物を恵んでくれたおかげでよぉ。\n"
+"そのおかげで、おら本来の力がだせたんだぁ。"
+msgstr ""
+
+msgctxt "58183"
+msgid "フッ、よかったな。"
+msgstr ""
+
+msgctxt "58202"
+msgid ""
+"……ほんでなぁ、\n"
+"またこれからすぐ大事な試合があるんだけどよぉ。\n"
+"今、おら腹が減って倒れそうなんだ。"
+msgstr ""
+
+msgctxt "58303"
+msgid ""
+"お侍どん……　今回も、おらが試合で勝つために、\n"
+"食べ物を恵んでくれねぇだろうか？"
+msgstr ""
+
+msgctxt "58384"
+msgid "あいにく、今お前に渡せる食べ物を持っていない。"
+msgstr ""
+
+msgctxt "58431"
+msgid ""
+"そ、そんなぁ……\n"
+"それじゃおら、どうすれば……"
+msgstr ""
+
+msgctxt "58478"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58479"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "58506"
+msgid ""
+"こ、これは、いくら食い意地がはってるおらでも、\n"
+"さすがに食えないだよ……"
+msgstr ""
+
+msgctxt "58579"
+msgid "（……さすがに無理だったか）"
+msgstr ""
+
+msgctxt "58608"
+msgid "これでも食って元気をだせ。"
+msgstr ""
+
+msgctxt "58635"
+msgid ""
+"おぉ、こいつはうまそうだ！\n"
+"ほんではさっそくいただくとするべ！"
+msgstr ""
+
+msgctxt "58698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58699"
+msgid "ムシャムシャゴクゴク……"
+msgstr ""
+
+msgctxt "58724"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58725"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58726"
+msgid "ふひぃー、生き返ったべ！"
+msgstr ""
+
+msgctxt "58751"
+msgid ""
+"相変わらず、すごい食いっぷりだな……\n"
+"どうだ？　今回も勝てそうか？"
+msgstr ""
+
+msgctxt "58818"
+msgid ""
+"あぁ、あんたのおかげで、今回の試合も\n"
+"本来の力をだしきれそうだべ！"
+msgstr ""
+
+msgctxt "58885"
+msgid ""
+"またこの場所で結果報告すっからよぉ！\n"
+"楽しみに待っててくれよぉ！"
+msgstr ""
+
+msgctxt "58950"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58951"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58953"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "60636"
+msgid "はらぺこ力士"
+msgstr ""
+
+msgctxt "60649"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "60662"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "60667"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "60676"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "60688"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "60697"
+msgid "はらぺこ力士（横綱）"
+msgstr ""
+
+msgctxt "60718"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "60729"
+msgid "kaiwabgm_sub_comical"
+msgstr ""
+
+msgctxt "60750"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "60761"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "60772"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "60784"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "60792"
+msgid "dummy"
+msgstr ""
+
+msgctxt "60798"
+msgid "0"
+msgstr ""
+
+msgctxt "60800"
+msgid "はらぺこ力士（大関）"
+msgstr ""
+
+msgctxt "60821"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "60832"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "60842"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "60855"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "60866"
+msgid "D"
+msgstr ""
+
+msgctxt "60868"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "60878"
+msgid "はらぺこ力士（関脇）"
+msgstr ""
+
+msgctxt "60899"
+msgid "食べ物を恵んでやる"
+msgstr ""
+
+msgctxt "60918"
+msgid "無理だ"
+msgstr ""
+
+msgctxt "60925"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "60935"
+msgid "はらぺこ力士（小結）"
+msgstr ""
+
+msgctxt "60956"
+msgid "はらぺこ力士（前頭）"
+msgstr ""
+
+msgctxt "60977"
+msgid "はらぺこ力士（十両）"
+msgstr ""
+
+msgctxt "60998"
+msgid "はらぺこ力士（幕下）"
+msgstr ""
+
+msgctxt "61019"
+msgid "はらぺこ力士（三段目）"
+msgstr ""
+
+msgctxt "61042"
+msgid "はらぺこ力士（序二段）"
+msgstr ""

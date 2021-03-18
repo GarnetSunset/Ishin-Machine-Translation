@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2792"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2793"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2794"
+msgid "く……苦しい～……"
+msgstr ""
+
+msgctxt "2813"
+msgid "どうした？　大丈夫か？"
+msgstr ""
+
+msgctxt "2836"
+msgid ""
+"す……すんまへんけど、\n"
+"医者連れてきてくれへんか……？"
+msgstr ""
+
+msgctxt "2891"
+msgid "急に胸が苦しいなって……　う……　うううう……"
+msgstr ""
+
+msgctxt "2938"
+msgid ""
+"（この辺りに医者なんているのか……？\n"
+"　聞いてまわるしかなさそうだな……）"
+msgstr ""
+
+msgctxt "3013"
+msgid "いいから医者をはよ！"
+msgstr ""
+
+msgctxt "3034"
+msgid "う～ん……　う～ん……"
+msgstr ""
+
+msgctxt "3057"
+msgid ""
+"待たせたな。\n"
+"医者を連れてきたぞ。"
+msgstr ""
+
+msgctxt "3092"
+msgid "め、面目ない……"
+msgstr ""
+
+msgctxt "3109"
+msgid "どれどれ……見せてみろ。"
+msgstr ""
+
+msgctxt "3134"
+msgid ""
+"……ふむ。　なるほどな。\n"
+"症状は分かった。"
+msgstr ""
+
+msgctxt "3177"
+msgid "薬を作ってやるから待ってろ。"
+msgstr ""
+
+msgctxt "3206"
+msgid "ほら、グッと一気に飲め。"
+msgstr ""
+
+msgctxt "3231"
+msgid "ごく……ごく……"
+msgstr ""
+
+msgctxt "3248"
+msgid "……どうだ？"
+msgstr ""
+
+msgctxt "3261"
+msgid ""
+"ううっ……あ、あれ？\n"
+"……嘘みたいに痛ないわ!!"
+msgstr ""
+
+msgctxt "3308"
+msgid "ふふふ……"
+msgstr ""
+
+msgctxt "3319"
+msgid ""
+"す、凄い！　凄いわ、あんた！　感動した！\n"
+"助かったわ……！　ほんまおおきに!!"
+msgstr ""
+
+msgctxt "3396"
+msgid "これは治療費や。　取っといてや。"
+msgstr ""
+
+msgctxt "3429"
+msgid ""
+"あんたにも世話になったな。\n"
+"これは感謝の気持ちや。受け取っといてや。"
+msgstr ""
+
+msgctxt "3498"
+msgid "５０００文、受け取った。"
+msgstr ""
+
+msgctxt "3523"
+msgid ""
+"ほなな！　ほんまおおきに！\n"
+"ひゃっほーう！"
+msgstr ""
+
+msgctxt "3888"
+msgid "病気の男"
+msgstr ""
+
+msgctxt "3897"
+msgid "桐生"
+msgstr ""
+
+msgctxt "3902"
+msgid "医者"
+msgstr ""
+
+msgctxt "3907"
+msgid "F_CHO_ACT_stand_look_item_lp"
+msgstr ""
+
+msgctxt "3936"
+msgid "F_CHO_TLK_stand_send"
+msgstr ""
+
+msgctxt "3957"
+msgid "M_CHO_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "3980"
+msgid "M_CHO_TLK_stand_happy"
+msgstr ""
+
+msgctxt "4002"
+msgid "M_OLD_TLK_stand_send"
+msgstr ""

@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3240"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3241"
+msgid "お帰りやす。"
+msgstr ""
+
+msgctxt "3254"
+msgid "おりょうはもう戻ったか？"
+msgstr ""
+
+msgctxt "3279"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3280"
+msgid ""
+"ええ。\n"
+"……一（はじめ）さん、意外と女の扱いが\n"
+"うまいんどすなあ。"
+msgstr ""
+
+msgctxt "3347"
+msgid "ちょっと見直しました。"
+msgstr ""
+
+msgctxt "3370"
+msgid ""
+"ふっ。\n"
+"俺はアンタにうまく使われたみたいだけどな。"
+msgstr ""
+
+msgctxt "3421"
+msgid "フフ、さあどうやろ？"
+msgstr ""
+
+msgctxt "3442"
+msgid ""
+"あそうや、一（はじめ）さんが出かけてる間にねぇ、\n"
+"あんたに会いたいって人が来たんやったわ。"
+msgstr ""
+
+msgctxt "3533"
+msgid "俺に？　どんな奴だ？"
+msgstr ""
+
+msgctxt "3554"
+msgid ""
+"どんなっていわれても。\n"
+"……ただちょっと土佐なまりのあるお侍さん\n"
+"やったねえ。"
+msgstr ""
+
+msgctxt "3633"
+msgid "土佐の……？"
+msgstr ""
+
+msgctxt "3646"
+msgid "でな、その人、清水寺で待ってるって言うてはった。"
+msgstr ""
+
+msgctxt "3695"
+msgid "清水寺に？"
+msgstr ""
+
+msgctxt "3706"
+msgid ""
+"そう。そもそもいつ帰ってくるか分からへんって\n"
+"言うたんやけどね。"
+msgstr ""
+
+msgctxt "3771"
+msgid "構わへんからそう伝えてくれって。"
+msgstr ""
+
+msgctxt "3804"
+msgid ""
+"それにしても、アンタにお客さんなんて珍しいわあ。\n"
+"これも隊長効果やろか？"
+msgstr ""
+
+msgctxt "3877"
+msgid "さあな。分かった、ちょっと行ってくる。"
+msgstr ""
+
+msgctxt "3916"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3917"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4596"
+msgid "F_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "4618"
+msgid "F_CHO_TLK_seiza_to_stand"
+msgstr ""
+
+msgctxt "4643"
+msgid "お登勢"
+msgstr ""
+
+msgctxt "4650"
+msgid "otose_c04_080_01"
+msgstr ""
+
+msgctxt "4667"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "4672"
+msgid "kiryu_c04_080_01"
+msgstr ""
+
+msgctxt "4689"
+msgid "0"
+msgstr ""
+
+msgctxt "4691"
+msgid "otose_c04_080_02"
+msgstr ""
+
+msgctxt "4708"
+msgid "otose_c04_080_02b"
+msgstr ""
+
+msgctxt "4726"
+msgid "kiryu_c04_080_02"
+msgstr ""
+
+msgctxt "4743"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4754"
+msgid "otose_c04_080_03"
+msgstr ""
+
+msgctxt "4771"
+msgid "otose_c04_080_03b"
+msgstr ""
+
+msgctxt "4789"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4800"
+msgid "kiryu_c04_080_03"
+msgstr ""
+
+msgctxt "4817"
+msgid "otose_c04_080_04"
+msgstr ""
+
+msgctxt "4834"
+msgid "kiryu_c04_080_04"
+msgstr ""
+
+msgctxt "4851"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4860"
+msgid "otose_c04_080_05"
+msgstr ""
+
+msgctxt "4877"
+msgid "kiryu_c04_080_05"
+msgstr ""
+
+msgctxt "4894"
+msgid "otose_c04_080_06"
+msgstr ""
+
+msgctxt "4911"
+msgid "otose_c04_080_06b"
+msgstr ""
+
+msgctxt "4929"
+msgid "otose_c04_080_06c"
+msgstr ""
+
+msgctxt "4947"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4955"
+msgid "kiryu_c04_080_06"
+msgstr ""

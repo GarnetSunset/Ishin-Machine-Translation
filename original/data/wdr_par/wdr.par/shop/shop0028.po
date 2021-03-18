@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "320"
+msgid "－"
+msgstr ""
+
+msgctxt "323"
+msgid "所持数"
+msgstr ""
+
+msgctxt "330"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "355"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "388"
+msgid "ありがとうございます。%sでございます。"
+msgstr ""
+
+msgctxt "427"
+msgid "（持ち物が一杯だな……）"
+msgstr ""
+
+msgctxt "452"
+msgid "（売り切れのようだ……）"
+msgstr ""
+
+msgctxt "477"
+msgid "（これは既に持っているな……）"
+msgstr ""
+
+msgctxt "508"
+msgid "所持品"
+msgstr ""
+
+msgctxt "515"
+msgid "詳細"
+msgstr ""
+
+msgctxt "520"
+msgid "商品"
+msgstr ""
+
+msgctxt "525"
+msgid "<Sign:1>前へ"
+msgstr ""
+
+msgctxt "538"
+msgid "<Sign:1>次へ %d/%d"
+msgstr ""
+
+msgctxt "557"
+msgid "－"
+msgstr ""
+
+msgctxt "560"
+msgid "注"
+msgstr ""
+
+msgctxt "563"
+msgid ""
+"刀身は刃こぼれしてしまっていますが\n"
+"禍々しい雰囲気を感じる刀です。"
+msgstr ""
+
+msgctxt "629"
+msgid ""
+"銃身がすべて黄金で作られた高価な一品です。\n"
+"能力：得　敵が巾着袋を落しやすくなるそうです。"
+msgstr ""
+
+msgctxt "719"
+msgid ""
+"鮪などの大きな魚を捌くための包丁を\n"
+"刀としても使えるように打ち直した一振りです。"
+msgstr ""
+
+msgctxt "799"
+msgid ""
+"木でできた玩具のような見た目の銃です。\n"
+"実弾が使えるので威力は鉄製と同等です。"
+msgstr ""

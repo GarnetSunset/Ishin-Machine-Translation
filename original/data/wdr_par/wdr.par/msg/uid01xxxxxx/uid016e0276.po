@@ -1,0 +1,506 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "12476"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12477"
+msgid ""
+"（なんだこの男は？\n"
+"　こいつが邪魔で向こう側に行けないな……）"
+msgstr ""
+
+msgctxt "12540"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12541"
+msgid "おい、起きろ。邪魔だからどいてくれ。"
+msgstr ""
+
+msgctxt "12578"
+msgid "は……　へ……"
+msgstr ""
+
+msgctxt "12593"
+msgid "（何かぼそぼそ言っているな……）"
+msgstr ""
+
+msgctxt "12626"
+msgid "腹……　減……"
+msgstr ""
+
+msgctxt "12641"
+msgid ""
+"（……何かを求めているようだが、\n"
+"　何か渡せるものを持っていただろうか）"
+msgstr ""
+
+msgctxt "12714"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12715"
+msgid "……"
+msgstr ""
+
+msgctxt "12720"
+msgid "（……無反応だな）"
+msgstr ""
+
+msgctxt "12739"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12740"
+msgid "（やめておこう……）"
+msgstr ""
+
+msgctxt "12761"
+msgid "……"
+msgstr ""
+
+msgctxt "12766"
+msgid "（……仕方ない、回り道するか？）"
+msgstr ""
+
+msgctxt "12799"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12800"
+msgid "……"
+msgstr ""
+
+msgctxt "12805"
+msgid "（……仕方ない、回り道するか？）"
+msgstr ""
+
+msgctxt "12838"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12839"
+msgid ""
+"おい、もしかして腹が減っているのか？\n"
+"これ……　いるか？"
+msgstr ""
+
+msgctxt "12896"
+msgid "た……っ！"
+msgstr ""
+
+msgctxt "12907"
+msgid "……た？"
+msgstr ""
+
+msgctxt "12916"
+msgid "……た、食べ物のにおい!!"
+msgstr ""
+
+msgctxt "12941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12942"
+msgid "食べ物を奪われた。"
+msgstr ""
+
+msgctxt "12961"
+msgid "ムシャムシャゴクゴク……"
+msgstr ""
+
+msgctxt "12986"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12987"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12988"
+msgid "ふひぃー、生き返ったべ！"
+msgstr ""
+
+msgctxt "13013"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13014"
+msgid ""
+"すごい食いっぷりだな……\n"
+"腹が減っていて倒れていたのか？"
+msgstr ""
+
+msgctxt "13071"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13072"
+msgid ""
+"んだんだ。その通りだべ。腹が減って気ぃ失って、\n"
+"つい、三途の川の船頭さんと話しこんじまっただ。"
+msgstr ""
+
+msgctxt "13167"
+msgid "そ、そうか……　帰ってこれてよかったな。"
+msgstr ""
+
+msgctxt "13208"
+msgid ""
+"しかし、こんなところで倒れてたら通行の邪魔だ。\n"
+"倒れるならもっと、人通りの少ない場所にしろ。"
+msgstr ""
+
+msgctxt "13301"
+msgid ""
+"そ、そんなこと言われても……\n"
+"おらだって好きで倒れてたわけじゃねぇもんよ……"
+msgstr ""
+
+msgctxt "13378"
+msgid "あ、あぁ……　また腹が減ってクラクラしてきただ。"
+msgstr ""
+
+msgctxt "13427"
+msgid ""
+"……見たところ、力士のようだな。\n"
+"花形の職業じゃないか。飯には困らないだろう？"
+msgstr ""
+
+msgctxt "13506"
+msgid "そ、そんな甘い世界じゃねぇよぉ。"
+msgstr ""
+
+msgctxt "13539"
+msgid ""
+"上の階級の人ならいいもん食えるかもしれねぇけど、\n"
+"おらみたいな下の階級の力士は、\n"
+"今日食う飯にも困るくらいだよぉ。"
+msgstr ""
+
+msgctxt "13654"
+msgid ""
+"そういうものか……\n"
+"お前の階級はどれくらいなんだ？"
+msgstr ""
+
+msgctxt "13705"
+msgid "じょ、序の口だぁ……"
+msgstr ""
+
+msgctxt "13726"
+msgid "……一番下じゃないか。"
+msgstr ""
+
+msgctxt "13749"
+msgid ""
+"こんなはずじゃなかったんだよぉ……\n"
+"おら、田舎じゃ負けなしの相撲取りだったのに……"
+msgstr ""
+
+msgctxt "13832"
+msgid "ふむ……　井の中の蛙だったってことか。"
+msgstr ""
+
+msgctxt "13871"
+msgid ""
+"いんや、違うよぉ！　おら、本当は強いんだ……\n"
+"でも、こっちきて実力をだせなくなっちまっただ……"
+msgstr ""
+
+msgctxt "13966"
+msgid "……本当か？　なぜ？"
+msgstr ""
+
+msgctxt "13987"
+msgid "罠に、はめられたんだ……"
+msgstr ""
+
+msgctxt "14012"
+msgid "……罠だと？"
+msgstr ""
+
+msgctxt "14025"
+msgid ""
+"んだ。階級が下だからお給金が少ない……\n"
+"お給金が少ないから腹が減って試合で勝てない……\n"
+"試合で勝てないから階級が上がらない……"
+msgstr ""
+
+msgctxt "14152"
+msgid "この悪循環は……　罠としか言いようがないべ。"
+msgstr ""
+
+msgctxt "14197"
+msgid "……"
+msgstr ""
+
+msgctxt "14202"
+msgid ""
+"せっかく京都まででてきたのに、\n"
+"おら……　もう故郷の親に合わせる顔がねぇよぉ！"
+msgstr ""
+
+msgctxt "14281"
+msgid "うぉぉぉぉいぉいぉい！"
+msgstr ""
+
+msgctxt "14304"
+msgid ""
+"お、おい、静かにしろ。\n"
+"男が人前で泣くんじゃない。"
+msgstr ""
+
+msgctxt "14355"
+msgid "そ、そんなこと言われたってよぉぉぉ！"
+msgstr ""
+
+msgctxt "14392"
+msgid ""
+"せめて腹いっぱいで試合ができたらよぉぉいぉい！\n"
+"おら、本来の実力がだせるのによぉぉいぉいぉい！"
+msgstr ""
+
+msgctxt "14487"
+msgid ""
+"食事がとれれば、実力が出せるのか……\n"
+"金が無いなら、誰かに食わせてもらうしかないな。\n"
+"当てはないのか？"
+msgstr ""
+
+msgctxt "14590"
+msgid "当てはねぇよぉぉ！"
+msgstr ""
+
+msgctxt "14609"
+msgid "……ん？　いや、ある！"
+msgstr ""
+
+msgctxt "14632"
+msgid "ほう。誰だ？"
+msgstr ""
+
+msgctxt "14645"
+msgid "あんただぁ！"
+msgstr ""
+
+msgctxt "14658"
+msgid "……俺か？"
+msgstr ""
+
+msgctxt "14669"
+msgid ""
+"そうだともぉ！　さっきみたいな感じで、\n"
+"余った食べ物、おらにわけてくれねぇか？"
+msgstr ""
+
+msgctxt "14748"
+msgid ""
+"そんなことしても、俺に何も利益がないだろ。\n"
+"そこまでお人よしじゃないぞ、俺は。"
+msgstr ""
+
+msgctxt "14827"
+msgid ""
+"いやいやいや。ちゃーんとお礼はするってよぉ！\n"
+"出世払いになるけども。"
+msgstr ""
+
+msgctxt "14896"
+msgid ""
+"考えてみてくれよぉ。\n"
+"おら、腹いっぱいで試合に出れれば、きっと実力が\n"
+"出せて、試合に勝てて、階級も上がる。"
+msgstr ""
+
+msgctxt "15003"
+msgid ""
+"階級上がれば、給料も増える。\n"
+"そうすりゃ、自分で腹いっぱいにできるし、\n"
+"あんたにすげーお礼もできる。な？"
+msgstr ""
+
+msgctxt "15108"
+msgid "うむ……　まぁ、そうだな……"
+msgstr ""
+
+msgctxt "15137"
+msgid ""
+"（仕方ない、余った食べ物をやるくらいなら、\n"
+"　協力してやるか……）"
+msgstr ""
+
+msgctxt "15204"
+msgid ""
+"……分かった。余った食べ物があったら、\n"
+"分けてやる。"
+msgstr ""
+
+msgctxt "15257"
+msgid ""
+"本当だか!?　京都に来て、\n"
+"こんな優しくされたの初めてだべ！"
+msgstr ""
+
+msgctxt "15316"
+msgid ""
+"だが、出世した暁には、\n"
+"きちんとお礼はもらうからな。"
+msgstr ""
+
+msgctxt "15369"
+msgid "もちろん！　力士に二言はねぇだ！"
+msgstr ""
+
+msgctxt "15402"
+msgid ""
+"……あ、そうだ。\n"
+"今日はこれから大事な試合があるんだったよぉ！"
+msgstr ""
+
+msgctxt "15465"
+msgid "なに？　今から？"
+msgstr ""
+
+msgctxt "15482"
+msgid ""
+"うん。\n"
+"あんたからもらった食べ物、消化しちまわないうちに\n"
+"ちょっとがんばってくるべ！"
+msgstr ""
+
+msgctxt "15567"
+msgid ""
+"またこの場所で結果報告すっからよぉ！\n"
+"食べ物くれる約束、忘れないでほしいだよぉ！"
+msgstr ""
+
+msgctxt "15648"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15649"
+msgid ""
+"「はらぺこ力士」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「はらぺこ力士」と交流してみましょう。"
+msgstr ""
+
+msgctxt "15870"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15871"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15872"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17088"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "17093"
+msgid "dummy"
+msgstr ""
+
+msgctxt "17099"
+msgid "力士の男"
+msgstr ""
+
+msgctxt "17108"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "17119"
+msgid "D"
+msgstr ""
+
+msgctxt "17121"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "17129"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "17138"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "17148"
+msgid "M_BIG_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "17170"
+msgid "ADV_M_BIG_STAND"
+msgstr ""
+
+msgctxt "17186"
+msgid "kaiwabgm_sub_comical"
+msgstr ""
+
+msgctxt "17207"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "17219"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "17232"
+msgid "Talk_Sad"
+msgstr ""
+
+msgctxt "17241"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "17251"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "17262"
+msgid "力士の男（序の口）"
+msgstr ""
+
+msgctxt "17281"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "17290"
+msgid "M_CLD_SS_stand_cry_lp"
+msgstr ""
+
+msgctxt "17312"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "17325"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "17337"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "17348"
+msgid "はらぺこ力士との絆"
+msgstr ""

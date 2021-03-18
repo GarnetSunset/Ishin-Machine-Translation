@@ -1,0 +1,1119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "19976"
+msgid ""
+"ふう……\n"
+"さすがに新選組の隊長になるだけはあるな。\n"
+"大した腕だ。"
+msgstr ""
+
+msgctxt "20041"
+msgid "いや、あんたも案外やる。"
+msgstr ""
+
+msgctxt "20066"
+msgid ""
+"へっ。\n"
+"ま、今後ともよろしく頼むぜ。"
+msgstr ""
+
+msgctxt "20103"
+msgid ""
+"これからは、俺も寺田屋に拠点を移す。\n"
+"お互いの情報はそこで交換しよう。それでいいな？"
+msgstr ""
+
+msgctxt "20188"
+msgid ""
+"分かった。\n"
+"……アンタはまだ武市を追うのか？"
+msgstr ""
+
+msgctxt "20233"
+msgid "いや。武市のほうは一旦やめだ。"
+msgstr ""
+
+msgctxt "20264"
+msgid ""
+"それにあいつは、土佐に帰っちまったからな。\n"
+"俺も新選組を探ってみるさ。"
+msgstr ""
+
+msgctxt "20335"
+msgid ""
+"ちょっと待て。\n"
+"武市が土佐に帰っただと？"
+msgstr ""
+
+msgctxt "20376"
+msgid ""
+"知らなかったのか。\n"
+"最近江戸から土佐へ帰ってきた大殿の命令で\n"
+"呼び戻されたんだよ。"
+msgstr ""
+
+msgctxt "20459"
+msgid "それは……　どういうことだ？"
+msgstr ""
+
+msgctxt "20488"
+msgid ""
+"まず大殿の山内容堂公……\n"
+"このお方は先の「安政の大獄」で失脚して以来、\n"
+"ずっと江戸に隠居させられていた。"
+msgstr ""
+
+msgctxt "20593"
+msgid "幕府の権力争いに巻き込まれてな。"
+msgstr ""
+
+msgctxt "20626"
+msgid ""
+"だが先の藩主としていまだに土佐に\n"
+"強い影響力をもっている。"
+msgstr ""
+
+msgctxt "20685"
+msgid ""
+"殿様にしとくにゃもったいないほどのキレ者だ。\n"
+"……ここまではいいな？"
+msgstr ""
+
+msgctxt "20754"
+msgid "ああ……"
+msgstr ""
+
+msgctxt "20763"
+msgid ""
+"その容堂公が江戸にいる間、土佐を任されたのが\n"
+"吉田東洋様だった。"
+msgstr ""
+
+msgctxt "20828"
+msgid ""
+"だがその東洋様が暗殺された。\n"
+"で、容堂公はようやく幕府の許しを得てつい最近、\n"
+"土佐に復帰したんだ。"
+msgstr ""
+
+msgctxt "20927"
+msgid "その大殿がなぜ武市を土佐に呼び戻した？"
+msgstr ""
+
+msgctxt "20966"
+msgid ""
+"さあな。だが問題はそこだ。\n"
+"今の武市半平太は老人たちを手なずけて事実上、\n"
+"土佐を牛耳っている。"
+msgstr ""
+
+msgctxt "21061"
+msgid "容堂公から見て愉快じゃねえのは確かだろう。"
+msgstr ""
+
+msgctxt "21104"
+msgid ""
+"１年前、容堂公が土佐にいれば\n"
+"勤王党が力を持つことはなかったはずだ。"
+msgstr ""
+
+msgctxt "21173"
+msgid ""
+"それはつまり、武市や土佐勤王党にとっては\n"
+"マズイことになるってことか？"
+msgstr ""
+
+msgctxt "21244"
+msgid ""
+"そいつは容堂公の出方次第だな。\n"
+"今は様子を見るしかない。"
+msgstr ""
+
+msgctxt "21301"
+msgid ""
+"だが俺たちには目の前の仕事がある。\n"
+"“覆面の男”を捕まえるって仕事がな。"
+msgstr ""
+
+msgctxt "21374"
+msgid "…………"
+msgstr ""
+
+msgctxt "21383"
+msgid ""
+"武市は、新選組に潜入してるわけじゃねんだ。\n"
+"お前さんよりはよっぽど安全だよ。今のところはな。"
+msgstr ""
+
+msgctxt "21476"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21477"
+msgid "……ああ。"
+msgstr ""
+
+msgctxt "21488"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21489"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21490"
+msgid ""
+"……なるほど。だからあんたは新選組に入ったのか。\n"
+"覆面の男を追うために。"
+msgstr ""
+
+msgctxt "21563"
+msgid "ああ。"
+msgstr ""
+
+msgctxt "21570"
+msgid ""
+"そこまでヤバイ橋を渡ってんだ。\n"
+"手ごたえはあったのか？"
+msgstr ""
+
+msgctxt "21625"
+msgid "山南敬助と永倉新八は覆面の男とは思えない。"
+msgstr ""
+
+msgctxt "21668"
+msgid "新選組に入ってつかめたのはせいぜいその程度だ。"
+msgstr ""
+
+msgctxt "21715"
+msgid ""
+"いや、入隊してまだ何日もたってねえのに\n"
+"大したもんだ。"
+msgstr ""
+
+msgctxt "21770"
+msgid ""
+"だが、隊長なんて目立つ立場じゃこの先、\n"
+"動きづらい局面もある。"
+msgstr ""
+
+msgctxt "21833"
+msgid ""
+"だからよ……\n"
+"坂本さん、ここは俺と手を組むってのはどうだ？"
+msgstr ""
+
+msgctxt "21892"
+msgid "……"
+msgstr ""
+
+msgctxt "21897"
+msgid "俺も東洋様を殺した犯人を追ってきた。"
+msgstr ""
+
+msgctxt "21934"
+msgid "俺たちは会うべくしてここであったんだ。違うか？"
+msgstr ""
+
+msgctxt "21981"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21982"
+msgid "……ああ、アンタの言うとおりかもしれねえな。"
+msgstr ""
+
+msgctxt "22027"
+msgid "よし！　なら決まりだ。"
+msgstr ""
+
+msgctxt "22050"
+msgid "フッ……　ん？"
+msgstr ""
+
+msgctxt "22065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22066"
+msgid "あいつらは……？"
+msgstr ""
+
+msgctxt "22083"
+msgid ""
+"やべえな、土佐勤王党だ。\n"
+"俺が武市を嗅ぎまわってたのを勘付かれたか……"
+msgstr ""
+
+msgctxt "22154"
+msgid "中岡慎太郎やな……？"
+msgstr ""
+
+msgctxt "22175"
+msgid "……連中の目当ては俺だ。あんたは逃げろ。"
+msgstr ""
+
+msgctxt "22216"
+msgid "この状況で見逃してもらえるとも思えねえが。"
+msgstr ""
+
+msgctxt "22259"
+msgid "まあ……　たしかにな。"
+msgstr ""
+
+msgctxt "22282"
+msgid ""
+"勤王党の邪魔をする人間には消えてもらう。\n"
+"覚悟はできとるの？"
+msgstr ""
+
+msgctxt "22343"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22344"
+msgid ""
+"こっちの連れは関係ねんだ。\n"
+"帰してやってくれねえか？"
+msgstr ""
+
+msgctxt "22397"
+msgid "フッ、関係ないモンとこんな場所で会うがかえ!?"
+msgstr ""
+
+msgctxt "22442"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22443"
+msgid "！"
+msgstr ""
+
+msgctxt "22446"
+msgid ""
+"ったく……\n"
+"すまねえな。巻き込んじまった。"
+msgstr ""
+
+msgctxt "22489"
+msgid ""
+"気にするな。\n"
+"全く関係がないわけじゃない。"
+msgstr ""
+
+msgctxt "22532"
+msgid "……恩に着る。"
+msgstr ""
+
+msgctxt "22547"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22548"
+msgid "２人まとめて蜂の巣にしちゃれ!!"
+msgstr ""
+
+msgctxt "22579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22580"
+msgid ""
+"……中岡といったな。\n"
+"アンタ、何者だ。"
+msgstr ""
+
+msgctxt "22619"
+msgid ""
+"吉田東洋様の付き人だ。\n"
+"……正しくは“元”、だがな。"
+msgstr ""
+
+msgctxt "22672"
+msgid "東洋様には、返しきれねえご恩がある。"
+msgstr ""
+
+msgctxt "22709"
+msgid "親っさんの？"
+msgstr ""
+
+msgctxt "22722"
+msgid ""
+"“親っさん”か。……ふっ。\n"
+"あの時もお前、東洋様をそう呼んでたな。"
+msgstr ""
+
+msgctxt "22789"
+msgid "あの時、だと？"
+msgstr ""
+
+msgctxt "22804"
+msgid ""
+"東洋様が殺された時だよ。\n"
+"……あの時、俺もそこにいたんだ。"
+msgstr ""
+
+msgctxt "22863"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22864"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22866"
+msgid "アンタ、あの場にいたのか。"
+msgstr ""
+
+msgctxt "22893"
+msgid ""
+"物音に気づいて俺たちが駆けつけた時には、\n"
+"東洋様はすでに斬られていた。"
+msgstr ""
+
+msgctxt "22964"
+msgid "……そして、あそこにいたのがお前と武市半平太だ。"
+msgstr ""
+
+msgctxt "23013"
+msgid ""
+"何？\n"
+"アンタ、なぜ武市がいたことまで知ってるんだ。"
+msgstr ""
+
+msgctxt "23064"
+msgid ""
+"役人が駆けつけたとき、あそこにはもう\n"
+"俺しかいなかったはずだ。"
+msgstr ""
+
+msgctxt "23127"
+msgid ""
+"言っただろ。俺は東洋様の付き人だったからな。\n"
+"あの日お前らが２人来ることは内密に\n"
+"聞かされていた。"
+msgstr ""
+
+msgctxt "23226"
+msgid "そうだったのか……"
+msgstr ""
+
+msgctxt "23245"
+msgid ""
+"……あの後俺は東洋様を護れなかった責任で\n"
+"罷免された。"
+msgstr ""
+
+msgctxt "23300"
+msgid "お前らのせいで、人生が狂っちまったんだよ。"
+msgstr ""
+
+msgctxt "23343"
+msgid "……"
+msgstr ""
+
+msgctxt "23348"
+msgid ""
+"ま、俺のことはいいんだ。\n"
+"どっちにしろ、東洋様がいねえのに城勤めしても\n"
+"意味がねえ。"
+msgstr ""
+
+msgctxt "23433"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23434"
+msgid ""
+"だが、東洋様を殺した奴だけは許せねえ。\n"
+"……お前のことだよ、坂本龍馬。"
+msgstr ""
+
+msgctxt "23505"
+msgid ""
+"…………で、本人を目の前にして、\n"
+"アンタどうするつもりだ。ここで斬るか？"
+msgstr ""
+
+msgctxt "23578"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23579"
+msgid ""
+"…………ふっ。悪いな、今のは冗談だ。\n"
+"確かにあの事件、犯人はお前という事になっている。\n"
+"表向きはな。"
+msgstr ""
+
+msgctxt "23680"
+msgid "どういうことだ。"
+msgstr ""
+
+msgctxt "23697"
+msgid "俺は、真の犯人は別にいると睨んでるってことだ。"
+msgstr ""
+
+msgctxt "23744"
+msgid "！"
+msgstr ""
+
+msgctxt "23747"
+msgid ""
+"よく考えてもみろ。\n"
+"もしお前が東洋様を殺したとして、\n"
+"お前に一体何の得があった？"
+msgstr ""
+
+msgctxt "23828"
+msgid ""
+"脱藩浪人として故郷にも帰れず、\n"
+"京で名を隠して生きなきゃならねえ。"
+msgstr ""
+
+msgctxt "23895"
+msgid ""
+"そこまでしてなぜ東洋様を殺さなくちゃならない？\n"
+"お前が何を得た？"
+msgstr ""
+
+msgctxt "23960"
+msgid ""
+"……じゃあ、アンタはあの事件の真犯人を\n"
+"誰だと思ってるんだ。"
+msgstr ""
+
+msgctxt "24021"
+msgid ""
+"……武市半平太だ。\n"
+"俺はそう見てる。"
+msgstr ""
+
+msgctxt "24058"
+msgid "なんだと!?"
+msgstr ""
+
+msgctxt "24069"
+msgid "武市半平太、そして土佐勤王党の大躍進……"
+msgstr ""
+
+msgctxt "24110"
+msgid ""
+"藩の参政だった東洋様が生きていれば\n"
+"武市もここまで土佐を思い通りには\n"
+"できなかったはずだ。"
+msgstr ""
+
+msgctxt "24201"
+msgid ""
+"ましてや武市は上士にまで昇格している。\n"
+"これ以上に得をした奴が他にいるか？"
+msgstr ""
+
+msgctxt "24276"
+msgid "だが、まさか……"
+msgstr ""
+
+msgctxt "24293"
+msgid "絶対に違うと言い切れるのか？"
+msgstr ""
+
+msgctxt "24322"
+msgid "…………"
+msgstr ""
+
+msgctxt "24331"
+msgid "……それで、アンタは武市を追ってたってわけか。"
+msgstr ""
+
+msgctxt "24378"
+msgid ""
+"ああ。\n"
+"で、やつを嗅ぎまわっているうちに\n"
+"偶然あんたに出くわしたってわけだ。"
+msgstr ""
+
+msgctxt "24455"
+msgid ""
+"……なるほどな。\n"
+"確かにアンタの推理は筋が通ってる。\n"
+"だがな、アンタは大事なものを見落としてる。"
+msgstr ""
+
+msgctxt "24552"
+msgid "何だって？"
+msgstr ""
+
+msgctxt "24563"
+msgid ""
+"アンタ等が駆けつける前に、もう１人、\n"
+"あそこにいたんだ。"
+msgstr ""
+
+msgctxt "24620"
+msgid ""
+"……“覆面の男”がな。俺たちは見たんだ。\n"
+"そいつが親っさんを斬るのを。犯人は、そいつだ。"
+msgstr ""
+
+msgctxt "24709"
+msgid ""
+"……実はな、俺もあの事件の真相が知りたくて\n"
+"その男を追ってるんだ。"
+msgstr ""
+
+msgctxt "24776"
+msgid ""
+"……そうだったのか。\n"
+"どうやら、お前は俺の知らねえことを\n"
+"だいぶ掴んでるらしい。"
+msgstr ""
+
+msgctxt "24857"
+msgid "今度は、俺が話を聞く番だな。"
+msgstr ""
+
+msgctxt "24886"
+msgid ""
+"ふっ。\n"
+"俺のほうも長話になるぜ。"
+msgstr ""
+
+msgctxt "24919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29648"
+msgid "中岡"
+msgstr ""
+
+msgctxt "29653"
+msgid "date_c04_120_01"
+msgstr ""
+
+msgctxt "29669"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "29691"
+msgid "C02170_IZO_btlaft_noutou"
+msgstr ""
+
+msgctxt "29716"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "29721"
+msgid "kiryu_c04_120_01"
+msgstr ""
+
+msgctxt "29738"
+msgid "P_KRU_TLK_stand_noutou"
+msgstr ""
+
+msgctxt "29761"
+msgid "M_BUS_TLK_stand_smile"
+msgstr ""
+
+msgctxt "29783"
+msgid "date_c04_120_02"
+msgstr ""
+
+msgctxt "29799"
+msgid "date_c04_120_02b"
+msgstr ""
+
+msgctxt "29816"
+msgid "kiryu_c04_120_02"
+msgstr ""
+
+msgctxt "29833"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "29842"
+msgid "date_c04_120_03b"
+msgstr ""
+
+msgctxt "29859"
+msgid "date_c04_120_03bb"
+msgstr ""
+
+msgctxt "29877"
+msgid "kaiwabgm_apathy_08"
+msgstr ""
+
+msgctxt "29896"
+msgid "kiryu_c04_120_03"
+msgstr ""
+
+msgctxt "29913"
+msgid "M_BUS_TLK_stand_info_f"
+msgstr ""
+
+msgctxt "29936"
+msgid "date_c04_120_04"
+msgstr ""
+
+msgctxt "29952"
+msgid "kiryu_c04_120_04"
+msgstr ""
+
+msgctxt "29969"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "29980"
+msgid "date_c04_120_05"
+msgstr ""
+
+msgctxt "29996"
+msgid "M_BUS_TLK_stand_yes"
+msgstr ""
+
+msgctxt "30016"
+msgid "date_c04_120_05b"
+msgstr ""
+
+msgctxt "30033"
+msgid "date_c04_120_05c"
+msgstr ""
+
+msgctxt "30050"
+msgid "M_BUS_TLK_stand_think"
+msgstr ""
+
+msgctxt "30072"
+msgid "date_c04_120_05d"
+msgstr ""
+
+msgctxt "30089"
+msgid "kiryu_c04_120_05"
+msgstr ""
+
+msgctxt "30106"
+msgid "date_c04_120_06"
+msgstr ""
+
+msgctxt "30122"
+msgid "date_c04_120_06b"
+msgstr ""
+
+msgctxt "30139"
+msgid "kiryu_c04_120_06"
+msgstr ""
+
+msgctxt "30156"
+msgid "M_BUS_TLK_stand_no"
+msgstr ""
+
+msgctxt "30175"
+msgid "date_c04_120_07"
+msgstr ""
+
+msgctxt "30191"
+msgid "date_c04_120_07b"
+msgstr ""
+
+msgctxt "30208"
+msgid "date_c04_120_07c"
+msgstr ""
+
+msgctxt "30225"
+msgid "kiryu_c04_120_07"
+msgstr ""
+
+msgctxt "30242"
+msgid "date_c04_120_08"
+msgstr ""
+
+msgctxt "30258"
+msgid "date_c04_120_08b"
+msgstr ""
+
+msgctxt "30275"
+msgid "date_c04_120_10"
+msgstr ""
+
+msgctxt "30291"
+msgid "kiryu_c04_120_10"
+msgstr ""
+
+msgctxt "30308"
+msgid "date_c04_110_01b"
+msgstr ""
+
+msgctxt "30325"
+msgid "kiryu_c04_110_01"
+msgstr ""
+
+msgctxt "30342"
+msgid "date_c04_110_02b"
+msgstr ""
+
+msgctxt "30359"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "30370"
+msgid "kiryu_c04_110_02"
+msgstr ""
+
+msgctxt "30387"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "30398"
+msgid "kiryu_c04_110_02b"
+msgstr ""
+
+msgctxt "30416"
+msgid "date_c04_110_03b"
+msgstr ""
+
+msgctxt "30433"
+msgid "date_c04_110_03bb"
+msgstr ""
+
+msgctxt "30451"
+msgid "date_c04_110_03bc"
+msgstr ""
+
+msgctxt "30469"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "30480"
+msgid "date_c04_110_04b"
+msgstr ""
+
+msgctxt "30497"
+msgid "date_c04_110_04bb"
+msgstr ""
+
+msgctxt "30515"
+msgid "kiryu_c04_110_03"
+msgstr ""
+
+msgctxt "30532"
+msgid "date_c04_110_05b"
+msgstr ""
+
+msgctxt "30549"
+msgid "kaiwabgm_kinpaku_02"
+msgstr ""
+
+msgctxt "30569"
+msgid "kiryu_c04_110_03b"
+msgstr ""
+
+msgctxt "30587"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "30598"
+msgid "kiryu_c04_110_04"
+msgstr ""
+
+msgctxt "30615"
+msgid "date_c04_110_05c"
+msgstr ""
+
+msgctxt "30632"
+msgid "土佐勤王党員"
+msgstr ""
+
+msgctxt "30645"
+msgid "touin10_c04_110_01"
+msgstr ""
+
+msgctxt "30664"
+msgid "date_c04_110_06b"
+msgstr ""
+
+msgctxt "30681"
+msgid "TLK_SCN006"
+msgstr ""
+
+msgctxt "30692"
+msgid "kiryu_c04_110_05"
+msgstr ""
+
+msgctxt "30709"
+msgid "date_c04_110_07b"
+msgstr ""
+
+msgctxt "30726"
+msgid "touin10_c04_110_02"
+msgstr ""
+
+msgctxt "30745"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "30756"
+msgid "date_c04_110_08b"
+msgstr ""
+
+msgctxt "30773"
+msgid "touin10_c04_110_03"
+msgstr ""
+
+msgctxt "30792"
+msgid "TLK_SCN009"
+msgstr ""
+
+msgctxt "30803"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "30814"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "30821"
+msgid "kiryu_c04_110_06"
+msgstr ""
+
+msgctxt "30838"
+msgid "TLK_SCN010"
+msgstr ""
+
+msgctxt "30849"
+msgid "date_c04_110_09"
+msgstr ""
+
+msgctxt "30865"
+msgid "kiryu_c04_110_07"
+msgstr ""
+
+msgctxt "30882"
+msgid "date_c04_110_10"
+msgstr ""
+
+msgctxt "30898"
+msgid "TLK_SCN013"
+msgstr ""
+
+msgctxt "30909"
+msgid "touin10_c04_110_04"
+msgstr ""
+
+msgctxt "30928"
+msgid "TLK_SCN008"
+msgstr ""
+
+msgctxt "30939"
+msgid "kiryu_c04_100_01"
+msgstr ""
+
+msgctxt "30956"
+msgid "date_c04_100_01"
+msgstr ""
+
+msgctxt "30972"
+msgid "date_c04_100_01b"
+msgstr ""
+
+msgctxt "30989"
+msgid "kiryu_c04_100_02"
+msgstr ""
+
+msgctxt "31006"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "31017"
+msgid "date_c04_100_02"
+msgstr ""
+
+msgctxt "31033"
+msgid "kiryu_c04_100_03"
+msgstr ""
+
+msgctxt "31050"
+msgid "date_c04_100_03"
+msgstr ""
+
+msgctxt "31066"
+msgid "2d_yk_C4-100-01"
+msgstr ""
+
+msgctxt "31082"
+msgid "2d_yk_C4-100-02"
+msgstr ""
+
+msgctxt "31098"
+msgid "kiryu_c04_100_04"
+msgstr ""
+
+msgctxt "31115"
+msgid "date_c04_100_04"
+msgstr ""
+
+msgctxt "31131"
+msgid "date_c04_100_04b"
+msgstr ""
+
+msgctxt "31148"
+msgid "kiryu_c04_100_05"
+msgstr ""
+
+msgctxt "31165"
+msgid "kiryu_c04_100_05b"
+msgstr ""
+
+msgctxt "31183"
+msgid "date_c04_100_05"
+msgstr ""
+
+msgctxt "31199"
+msgid "kiryu_c04_100_06"
+msgstr ""
+
+msgctxt "31216"
+msgid "date_c04_100_06"
+msgstr ""
+
+msgctxt "31232"
+msgid "date_c04_100_06b"
+msgstr ""
+
+msgctxt "31249"
+msgid "date_c04_100_07"
+msgstr ""
+
+msgctxt "31265"
+msgid "date_c04_100_07b"
+msgstr ""
+
+msgctxt "31282"
+msgid "kiryu_c04_100_08"
+msgstr ""
+
+msgctxt "31299"
+msgid "date_c04_100_08"
+msgstr ""
+
+msgctxt "31315"
+msgid "kiryu_c04_100_09"
+msgstr ""
+
+msgctxt "31332"
+msgid "date_c04_100_09"
+msgstr ""
+
+msgctxt "31348"
+msgid "kiryu_c04_100_10"
+msgstr ""
+
+msgctxt "31365"
+msgid "date_c04_100_10"
+msgstr ""
+
+msgctxt "31381"
+msgid "date_c04_100_10b"
+msgstr ""
+
+msgctxt "31398"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "31410"
+msgid "date_c04_100_10c"
+msgstr ""
+
+msgctxt "31427"
+msgid "kiryu_c04_100_11"
+msgstr ""
+
+msgctxt "31444"
+msgid "date_c04_100_11"
+msgstr ""
+
+msgctxt "31460"
+msgid "kiryu_c04_100_12"
+msgstr ""
+
+msgctxt "31477"
+msgid "date_c04_100_12"
+msgstr ""
+
+msgctxt "31493"
+msgid "date_c04_100_12b"
+msgstr ""
+
+msgctxt "31510"
+msgid "date_c04_100_12c"
+msgstr ""
+
+msgctxt "31527"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "31535"
+msgid "kiryu_c04_100_13"
+msgstr ""
+
+msgctxt "31552"
+msgid "date_c04_100_13"
+msgstr ""
+
+msgctxt "31568"
+msgid "kiryu_c04_100_14"
+msgstr ""
+
+msgctxt "31585"
+msgid "kiryu_c04_100_14b"
+msgstr ""
+
+msgctxt "31603"
+msgid "date_c04_100_14"
+msgstr ""
+
+msgctxt "31619"
+msgid "kiryu_c04_100_15"
+msgstr ""
+
+msgctxt "31636"
+msgid "date_c04_100_15"
+msgstr ""
+
+msgctxt "31652"
+msgid "kiryu_c04_100_16"
+msgstr ""
+
+msgctxt "31669"
+msgid "kiryu_c04_100_16b"
+msgstr ""
+
+msgctxt "31687"
+msgid "kiryu_c04_100_16c"
+msgstr ""
+
+msgctxt "31705"
+msgid "date_c04_100_16"
+msgstr ""
+
+msgctxt "31721"
+msgid "date_c04_100_16b"
+msgstr ""
+
+msgctxt "31738"
+msgid "kiryu_c04_100_17"
+msgstr ""

@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "276336"
+msgid "兄弟！"
+msgstr ""
+
+msgctxt "276480"
+msgid "りょ　龍馬……"
+msgstr ""
+
+msgctxt "276624"
+msgid "悪いが　俺はここまでみたいだ……"
+msgstr ""
+
+msgctxt "276768"
+msgid ""
+"あと少し山を下れば阿波だ\n"
+"追手も藩の外までは追ってこない"
+msgstr ""
+
+msgctxt "276912"
+msgid "お前ひとりで行け"
+msgstr ""
+
+msgctxt "277056"
+msgid ""
+"俺はここに残って\n"
+"役人に事情を説明する"
+msgstr ""
+
+msgctxt "277200"
+msgid ""
+"親っさんを殺したのは\n"
+"俺たちじゃないとな"
+msgstr ""
+
+msgctxt "277344"
+msgid ""
+"無駄だ……！\n"
+"そんな話が通用する相手じゃねえだろ！"
+msgstr ""
+
+msgctxt "277488"
+msgid ""
+"そうだろうな……\n"
+"だが俺はお前が生き残れるならそれでいい"
+msgstr ""
+
+msgctxt "277632"
+msgid "兄弟……"
+msgstr ""
+
+msgctxt "277776"
+msgid ""
+"東洋の親っさんは死んだが\n"
+"勤王党は死んじゃいねぇ"
+msgstr ""
+
+msgctxt "277920"
+msgid ""
+"土佐を変えるには\n"
+"俺かお前……"
+msgstr ""
+
+msgctxt "278064"
+msgid ""
+"どちらかが生き残って\n"
+"勤王党を率いて行くしかねぇんだ"
+msgstr ""
+
+msgctxt "278208"
+msgid ""
+"だから龍馬\n"
+"お前は逃げのびて勤王党を……"
+msgstr ""
+
+msgctxt "278352"
+msgid "龍馬！？"
+msgstr ""
+
+msgctxt "278496"
+msgid "そういうことなら　答えはひとつだ"
+msgstr ""
+
+msgctxt "278640"
+msgid ""
+"あんたは土佐に必要だ\n"
+"こんなところで死んじゃならねぇ"
+msgstr ""
+
+msgctxt "278784"
+msgid "龍馬　お前……"
+msgstr ""
+
+msgctxt "278928"
+msgid "藩の連中は俺１人を追ってる"
+msgstr ""
+
+msgctxt "279072"
+msgid ""
+"あんたがあの場にいたことは\n"
+"誰にも知られていない"
+msgstr ""
+
+msgctxt "279216"
+msgid ""
+"兄弟も勤王党も\n"
+"親っさんの死とは無関係ってことだ"
+msgstr ""
+
+msgctxt "279360"
+msgid "何言ってるんだ？"
+msgstr ""
+
+msgctxt "279504"
+msgid "土佐を……　親っさんの遺志を……"
+msgstr ""
+
+msgctxt "279648"
+msgid "あんたに託した"
+msgstr ""
+
+msgctxt "279792"
+msgid "追手が来たようだな"
+msgstr ""
+
+msgctxt "279936"
+msgid ""
+"龍馬！　おい　龍馬！！\n"
+"お前どうする気だ　おい！！"
+msgstr ""
+
+msgctxt "280080"
+msgid "龍馬……"
+msgstr ""
+
+msgctxt "280224"
+msgid "おまんが　参政吉田東洋様を殺した男やな！？"
+msgstr ""
+
+msgctxt "280368"
+msgid "神妙にせぇ！！"
+msgstr ""
+
+msgctxt "280512"
+msgid "世の人は 我を何とも 言わば言え"
+msgstr ""
+
+msgctxt "280656"
+msgid "我がなす事は 我のみぞ知る"
+msgstr ""
+
+msgctxt "280800"
+msgid "天地神明に誓って言う"
+msgstr ""
+
+msgctxt "280944"
+msgid "俺は吉田東洋を殺していない"
+msgstr ""
+
+msgctxt "281088"
+msgid "この期に及んで　貴様……"
+msgstr ""
+
+msgctxt "281232"
+msgid ""
+"だがアンタらに\n"
+"それを信じてもらおうとも思わない"
+msgstr ""
+
+msgctxt "281376"
+msgid "だから……"
+msgstr ""
+
+msgctxt "281520"
+msgid "だから俺は……"
+msgstr ""
+
+msgctxt "281664"
+msgid "土佐を抜ける！"
+msgstr ""
+
+msgctxt "281808"
+msgid ""
+"どんな汚名を着ようと\n"
+"生きて絶対に犯人を突き止める！"
+msgstr ""
+
+msgctxt "281952"
+msgid "な　何を！？"
+msgstr ""
+
+msgctxt "282096"
+msgid "土佐ん兄弟たちよ……"
+msgstr ""
+
+msgctxt "282240"
+msgid "また明日じゃ！！"
+msgstr ""

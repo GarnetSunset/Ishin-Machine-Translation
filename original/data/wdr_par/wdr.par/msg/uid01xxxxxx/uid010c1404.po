@@ -1,0 +1,1109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "30516"
+msgid "くっ！　お、覚えてやがれ……！"
+msgstr ""
+
+msgctxt "30547"
+msgid ""
+"……さすがシショー！\n"
+"あれだけの大人数、私だけなら負けていました。"
+msgstr ""
+
+msgctxt "30614"
+msgid ""
+"……ハハハ！　やっぱりシショーにはかないまセン！\n"
+"私なんて全然、まだまだデスネ！"
+msgstr ""
+
+msgctxt "30695"
+msgid "そんなことはない……　見てみろ。"
+msgstr ""
+
+msgctxt "30728"
+msgid "……あ、アナタ達は！"
+msgstr ""
+
+msgctxt "30749"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "30750"
+msgid ""
+"外国人のおじさん。\n"
+"さっきは助けてくれてありがとう。"
+msgstr ""
+
+msgctxt "30803"
+msgid "おじさんが来てくれてなかったら俺達……"
+msgstr ""
+
+msgctxt "30842"
+msgid ""
+"いえいえ、私だけの力ではありまセーン。\n"
+"というよりシショーが来てくれなかったら\n"
+"私の身も危なかったデスネ！　ハハハ！"
+msgstr ""
+
+msgctxt "30959"
+msgid "…………"
+msgstr ""
+
+msgctxt "30968"
+msgid "おい、それだけじゃないやろ。"
+msgstr ""
+
+msgctxt "30997"
+msgid "はよ言いや。"
+msgstr ""
+
+msgctxt "31010"
+msgid "……んん？　ナンデスカ？"
+msgstr ""
+
+msgctxt "31035"
+msgid ""
+"外国人のおじさん……\n"
+"あの、えーと……"
+msgstr ""
+
+msgctxt "31074"
+msgid "……ごめんなさい！"
+msgstr ""
+
+msgctxt "31093"
+msgid "ごめんなさい!!"
+msgstr ""
+
+msgctxt "31108"
+msgid "……ふぁっ!?"
+msgstr ""
+
+msgctxt "31121"
+msgid ""
+"この前僕たち、外国人は侍になれないなんて、\n"
+"ひどいこと言っちゃった……"
+msgstr ""
+
+msgctxt "31192"
+msgid ""
+"なのに……\n"
+"おじさんは僕たちを守って戦ってくれて……\n"
+"それで、謝りたくて……　本当にごめんなさい！"
+msgstr ""
+
+msgctxt "31291"
+msgid ""
+"Ｏｈ……　そうだったんデスネ。\n"
+"たしかにあの時は私もちょっと傷つきました……"
+msgstr ""
+
+msgctxt "31368"
+msgid ""
+"でもアナタ達のおかげで、\n"
+"本当のサムライ、本当のブシドーというものが何か\n"
+"見つけ出すことができた気がしマス。"
+msgstr ""
+
+msgctxt "31477"
+msgid "おじさん……！"
+msgstr ""
+
+msgctxt "31492"
+msgid ""
+"おじさん、ほんま強いなぁ！\n"
+"えらい格好よかったで！"
+msgstr ""
+
+msgctxt "31543"
+msgid ""
+"うんうん！\n"
+"ほんまもんのお侍さんみたいやったわ。"
+msgstr ""
+
+msgctxt "31592"
+msgid "本当デースカ!?　アリガトウゴザマス！"
+msgstr ""
+
+msgctxt "31629"
+msgid "……侍に髪の色なんて関係ない。"
+msgstr ""
+
+msgctxt "31660"
+msgid ""
+"弱い者をたすけるため、\n"
+"強いものに立ち向かっていったお前の勇気……"
+msgstr ""
+
+msgctxt "31727"
+msgid ""
+"さっきのお前は、\n"
+"日本中にいるどんな侍より、侍らしかったぜ。"
+msgstr ""
+
+msgctxt "31788"
+msgid "シショー……！"
+msgstr ""
+
+msgctxt "31803"
+msgid "ソーデスネ！　サムライとは己の内側にあるもの……"
+msgstr ""
+
+msgctxt "31852"
+msgid ""
+"生まれがどこだろうが……\n"
+"どんな見た目であろうが……\n"
+"サムライには全く関係アリマセン！"
+msgstr ""
+
+msgctxt "31939"
+msgid "あぁ、その通りだ。"
+msgstr ""
+
+msgctxt "31958"
+msgid ""
+"シショー！\n"
+"私、国に帰らせてイタダキマス！"
+msgstr ""
+
+msgctxt "32001"
+msgid "何？　どうしてだ？"
+msgstr ""
+
+msgctxt "32020"
+msgid ""
+"国に帰って、サムライとは何か、\n"
+"もっと多くの人に知ってもらう活動をしたい！\n"
+"私、今そんな思いでいっぱいナンデス！"
+msgstr ""
+
+msgctxt "32133"
+msgid ""
+"あ、もちろん本当の意味でサムライになることを\n"
+"諦めたわけではアリマセンヨ。"
+msgstr ""
+
+msgctxt "32208"
+msgid ""
+"だってサムライを目指す道は\n"
+"世界中どこにいたって進むことができマスシネ。"
+msgstr ""
+
+msgctxt "32281"
+msgid ""
+"大事なものは全て……\n"
+"心の中にあるんデスカラ。"
+msgstr ""
+
+msgctxt "32328"
+msgid "……そうか、そうだな。"
+msgstr ""
+
+msgctxt "32351"
+msgid ""
+"ハイ……　名残惜しいデスガ、\n"
+"すぐにでも帰国の準備を始めることにシマス。"
+msgstr ""
+
+msgctxt "32424"
+msgid ""
+"シショー、今まで本当にお世話になりマシタ。\n"
+"……ソレデハ！"
+msgstr ""
+
+msgctxt "32483"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32484"
+msgid "（達者でな、トム……）"
+msgstr ""
+
+msgctxt "32507"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32508"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32509"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32510"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32511"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32512"
+msgid "このガキ！　痛ぇじゃねえか！"
+msgstr ""
+
+msgctxt "32541"
+msgid "（ん……　なんだ？）"
+msgstr ""
+
+msgctxt "32562"
+msgid ""
+"ガキが！　ひとの足を踏みやがって！\n"
+"だから俺は走りまわるガキが嫌いなんだよ！"
+msgstr ""
+
+msgctxt "32639"
+msgid "ご、ごめんなさい……"
+msgstr ""
+
+msgctxt "32660"
+msgid "へっ、いっちょまえに悪びれた声だしやがって。"
+msgstr ""
+
+msgctxt "32705"
+msgid ""
+"今は反省したふりをしてるが、心の中では\n"
+"「変なのに捕まった～」とか思ってんだろ？\n"
+"なぁ？　そうなんだろ？"
+msgstr ""
+
+msgctxt "32810"
+msgid ""
+"えっ、違うよ……！\n"
+"そんなこと思ってな……"
+msgstr ""
+
+msgctxt "32853"
+msgid "あーうるせぇうるせぇ！　もう喋んな。"
+msgstr ""
+
+msgctxt "32890"
+msgid ""
+"しかし、あー、どうにも腹の虫がおさまらねぇな……\n"
+"そうだ、１発殴らせろ。それでちゃらだ。"
+msgstr ""
+
+msgctxt "32979"
+msgid ""
+"そんな……！\n"
+"ご、ごめんなさい。許してください。"
+msgstr ""
+
+msgctxt "33028"
+msgid ""
+"ちっ、生意気なガキが！\n"
+"ピーピーわめきやがって！\n"
+"ちぃっと痛い目見せてやろうかぁ!?　あぁ!?"
+msgstr ""
+
+msgctxt "33119"
+msgid "ひ、ひぃ！"
+msgstr ""
+
+msgctxt "33130"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33131"
+msgid "ヤメナサイ!!"
+msgstr ""
+
+msgctxt "33144"
+msgid "あぁ？　なんだこの外国人は。"
+msgstr ""
+
+msgctxt "33173"
+msgid ""
+"子供相手にそんなムキになることないでしょう!?\n"
+"アナタいったい何なんデスカ！"
+msgstr ""
+
+msgctxt "33248"
+msgid ""
+"はぁ？　俺はただの善良な武士だぜ？\n"
+"ひねくれたガキにしつけをしてやってるだけだ。\n"
+"邪魔すんな。"
+msgstr ""
+
+msgctxt "33343"
+msgid ""
+"武士？　アナタがサムライ？\n"
+"チャンチャラおかしいデスネー！"
+msgstr ""
+
+msgctxt "33402"
+msgid "私が目指すサムライはアナタみたいなクズじゃない！"
+msgstr ""
+
+msgctxt "33451"
+msgid ""
+"……がははは！　お前が!?　侍ィ!?\n"
+"こいつぁ笑えるぜ！"
+msgstr ""
+
+msgctxt "33504"
+msgid "外国人ごときが……　日本の武士なめんじゃねぇぞ！"
+msgstr ""
+
+msgctxt "33553"
+msgid "サムライをなめてるのはアナタデス！"
+msgstr ""
+
+msgctxt "33588"
+msgid ""
+"テメェ……　もう後にはひけねぇぞ……\n"
+"おい、野郎共！"
+msgstr ""
+
+msgctxt "33641"
+msgid "……！"
+msgstr ""
+
+msgctxt "33648"
+msgid ""
+"へっ、びびったか？　泣いて謝るなら許してやるぞ。\n"
+"ほれ、土下座しろ土下座。"
+msgstr ""
+
+msgctxt "33723"
+msgid "が、外国人のおじちゃん……"
+msgstr ""
+
+msgctxt "33750"
+msgid ""
+"Ｏｈ、よく見ればアナタ達はあの時の……\n"
+"危ないから離れていてクダサイ。"
+msgstr ""
+
+msgctxt "33821"
+msgid "ご、ごめんなさい……！"
+msgstr ""
+
+msgctxt "33844"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "33845"
+msgid ""
+"私は逃げません。\n"
+"弱きを助け強きをくじくサムライになる……"
+msgstr ""
+
+msgctxt "33904"
+msgid "それが私の……　ブシドーです!!"
+msgstr ""
+
+msgctxt "33935"
+msgid ""
+"じわじわと、かわいがってやる……\n"
+"この国に来たことを後悔させてやるよ！"
+msgstr ""
+
+msgctxt "34006"
+msgid "おい、俺もまぜてくれねぇか？"
+msgstr ""
+
+msgctxt "34035"
+msgid "シ、シショー！"
+msgstr ""
+
+msgctxt "34050"
+msgid "トム、迷いは吹っ切れたみたいだな。"
+msgstr ""
+
+msgctxt "34085"
+msgid "はい……　オカゲサマで！"
+msgstr ""
+
+msgctxt "34110"
+msgid ""
+"俺もそこの武士の風上にもおけねぇ奴らに\n"
+"いらいらしてたところだ。手を貸してもいいか？"
+msgstr ""
+
+msgctxt "34195"
+msgid "モチロンデス！　シショー！"
+msgstr ""
+
+msgctxt "34222"
+msgid ""
+"クソッ、どいつもこいつもひとを馬鹿にしやがって！\n"
+"テメェラ！　ふたりまとめてやっちまえ！"
+msgstr ""
+
+msgctxt "34311"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34312"
+msgid "ん？　あれは……"
+msgstr ""
+
+msgctxt "34329"
+msgid "あはは、外国人が侍になれるわけないよ！"
+msgstr ""
+
+msgctxt "34368"
+msgid "そ、そんなことアリマセーン！"
+msgstr ""
+
+msgctxt "34397"
+msgid "アリマセーンやて！　あはは！"
+msgstr ""
+
+msgctxt "34426"
+msgid "だって普通、金髪の侍とかありえへんし！"
+msgstr ""
+
+msgctxt "34465"
+msgid ""
+"黒髪じゃなくても……\n"
+"日本人じゃなくたって、サムライになれマス……\n"
+"きっと……　きっと、いつか……"
+msgstr ""
+
+msgctxt "34564"
+msgid "…………"
+msgstr ""
+
+msgctxt "34573"
+msgid ""
+"……ちぇ。なんかつまんなくなっちゃったな。\n"
+"……行こうぜ。"
+msgstr ""
+
+msgctxt "34632"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34633"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34634"
+msgid "…………"
+msgstr ""
+
+msgctxt "34643"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34644"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34645"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34646"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34647"
+msgid "チョットスイマセーン！"
+msgstr ""
+
+msgctxt "34670"
+msgid "アナタ達に尋ねたいコト、アリマース！"
+msgstr ""
+
+msgctxt "34707"
+msgid "あ？　何だ……？　って外国人じゃねぇか。"
+msgstr ""
+
+msgctxt "34748"
+msgid ""
+"……おい、こいつ外国人のくせに\n"
+"武士の格好してやがるぜ。"
+msgstr ""
+
+msgctxt "34805"
+msgid ""
+"本当だ！　わはは、こいつぁおもしれぇ！\n"
+"馬子にも衣装ってかぁ？"
+msgstr ""
+
+msgctxt "34868"
+msgid ""
+"アナタ達、刀持ってマスネ……\n"
+"もしかして、サムライでーすか？"
+msgstr ""
+
+msgctxt "34929"
+msgid "あぁ。そうだぜ。それがどうした？"
+msgstr ""
+
+msgctxt "34962"
+msgid "わ、私を……"
+msgstr ""
+
+msgctxt "34975"
+msgid "弟子にシテクダサーイ！"
+msgstr ""
+
+msgctxt "34998"
+msgid "…………"
+msgstr ""
+
+msgctxt "35007"
+msgid "…………ぶっ！"
+msgstr ""
+
+msgctxt "35022"
+msgid "ぶわっはっはぁ！"
+msgstr ""
+
+msgctxt "35039"
+msgid "ぶふっ！　何言ってんだこいつ！"
+msgstr ""
+
+msgctxt "35070"
+msgid ""
+"お、おい！　ぶははっ！\n"
+"そんな笑ったら可哀想だろ？　……ぶくくっ！"
+msgstr ""
+
+msgctxt "35137"
+msgid "な、何がオカシーデスカ！"
+msgstr ""
+
+msgctxt "35162"
+msgid ""
+"あのなぁ、外国人なんぞが、\n"
+"侍になれるわけねーだろ！"
+msgstr ""
+
+msgctxt "35215"
+msgid "……！"
+msgstr ""
+
+msgctxt "35222"
+msgid ""
+"いやー笑った笑った。\n"
+"さ、行こうぜ。"
+msgstr ""
+
+msgctxt "35259"
+msgid "ま、待ってクダサイ！"
+msgstr ""
+
+msgctxt "35280"
+msgid ""
+"お願いシマス！　私、サムライになりたいんデース！\n"
+"弟子にしてクダサーイ！"
+msgstr ""
+
+msgctxt "35353"
+msgid ""
+"おい、しつけぇぞ……\n"
+"お前、日本の侍を馬鹿にしてんのか？"
+msgstr ""
+
+msgctxt "35410"
+msgid "ば、馬鹿にナンテ……"
+msgstr ""
+
+msgctxt "35431"
+msgid "金髪の侍なんておかしいに決まってんだろ！"
+msgstr ""
+
+msgctxt "35472"
+msgid "そうだそうだ、とっとと国へ帰んな！"
+msgstr ""
+
+msgctxt "35507"
+msgid ""
+"か、帰りまセン……\n"
+"お願いデース！　私を弟子に……"
+msgstr ""
+
+msgctxt "35558"
+msgid ""
+"くそ、うるせぇなぁ……　もう話しかけんな！\n"
+"それとも痛い目見るか？　あぁ!?"
+msgstr ""
+
+msgctxt "35633"
+msgid ""
+"おぉ、怖い怖い！　外国人の兄ちゃんよぉ。\n"
+"早く消えねぇと後悔することになるぜぇ？"
+msgstr ""
+
+msgctxt "35714"
+msgid "……い、いやデス！"
+msgstr ""
+
+msgctxt "35733"
+msgid ""
+"あ、あぁ？\n"
+"本当に血ぃ見ることになるぞ？"
+msgstr ""
+
+msgctxt "35774"
+msgid ""
+"サムライは逃げまセーン！\n"
+"逃げるなんて、武士の恥デース！"
+msgstr ""
+
+msgctxt "35831"
+msgid ""
+"へっ、どうせ口だけだろ。\n"
+"本当に逃げねぇか……　試してやるぜ！"
+msgstr ""
+
+msgctxt "35894"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35895"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35896"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35897"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35898"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "35899"
+msgid "な、何だテメェは!?"
+msgstr ""
+
+msgctxt "35918"
+msgid ""
+"……もう少しでお前は、\n"
+"無抵抗の男を斬り捨てるところだった。"
+msgstr ""
+
+msgctxt "35979"
+msgid ""
+"な……！　こ、こいつ……\n"
+"ほ、本当に避けなかったのか！"
+msgstr ""
+
+msgctxt "36034"
+msgid ""
+"お前も武士のはしくれなら、\n"
+"本気な奴と、そうじゃない奴の違いくらい\n"
+"判別できるようになるんだな。"
+msgstr ""
+
+msgctxt "36131"
+msgid ""
+"……へっ！　冗談が通じねえ奴らだ！\n"
+"こんなの付き合ってられるか！　……行こうぜ！"
+msgstr ""
+
+msgctxt "36212"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "36213"
+msgid "あ……　アリガトゴザマス……"
+msgstr ""
+
+msgctxt "36242"
+msgid ""
+"こんな無茶な真似は二度とするな。\n"
+"……じゃあな。"
+msgstr ""
+
+msgctxt "36291"
+msgid "ま、待ってクダサイ！"
+msgstr ""
+
+msgctxt "36312"
+msgid "ん？"
+msgstr ""
+
+msgctxt "36317"
+msgid ""
+"私、トムって言います！\n"
+"あなたのお名前を教えてクダサイ！"
+msgstr ""
+
+msgctxt "36374"
+msgid "……斎藤だ。"
+msgstr ""
+
+msgctxt "36387"
+msgid ""
+"弱きを助け強きをくじく……\n"
+"斎藤さん、あなたこそ真のサムライデース！"
+msgstr ""
+
+msgctxt "36456"
+msgid ""
+"お願いシマス！\n"
+"私を斎藤さんの弟子にしてクダサーイ！"
+msgstr ""
+
+msgctxt "36509"
+msgid "……断る。面倒は御免だ。"
+msgstr ""
+
+msgctxt "36534"
+msgid ""
+"お願いシマス！\n"
+"私、どうしてもサムライになりたいんデス！"
+msgstr ""
+
+msgctxt "36591"
+msgid ""
+"……さっきのような危ない目にあったのに、\n"
+"何故そこまで侍にこだわるんだ？"
+msgstr ""
+
+msgctxt "36664"
+msgid ""
+"私、この国に来た当初、\n"
+"強盗に襲われたことありマス……"
+msgstr ""
+
+msgctxt "36719"
+msgid ""
+"金目のモノ全部渡したのに、\n"
+"結局、刀で斬られそうになりマシタ。"
+msgstr ""
+
+msgctxt "36782"
+msgid ""
+"……その時デス。颯爽と現れて、\n"
+"私のこと助けてくれた人がイタノデス。"
+msgstr ""
+
+msgctxt "36851"
+msgid "……それが侍だった、と。"
+msgstr ""
+
+msgctxt "36876"
+msgid ""
+"ソーデス！　そのサムライは、\n"
+"悪い奴をまるで嵐のようにバッタバッタと倒して！\n"
+"……正義の味方そのものデシタ！"
+msgstr ""
+
+msgctxt "36985"
+msgid ""
+"それまで私、慣れない異国の地でトテモ不安デシタ。\n"
+"本当に日本に来てよかったのかとか、\n"
+"自分のアリカタとか、色々と悩んでマシタ……"
+msgstr ""
+
+msgctxt "37114"
+msgid ""
+"そんな私にとってその出来事は\n"
+"あまりにも衝撃的な出来事ダッタンデス！"
+msgstr ""
+
+msgctxt "37183"
+msgid ""
+"弱きを助け強きをくじく……　彼のような、\n"
+"格好いい、人に夢を与えられるような\n"
+"そんな……　サムライになりたいのデス！"
+msgstr ""
+
+msgctxt "37300"
+msgid ""
+"なるほど……　しかし侍は世襲制だからな……\n"
+"なるのは相当難しいぞ。"
+msgstr ""
+
+msgctxt "37367"
+msgid ""
+"それはワカッテマス……　だけど、\n"
+"私、サムライになるためなら、何でもシマース！"
+msgstr ""
+
+msgctxt "37446"
+msgid ""
+"剣の使い方も自己流ですが修行してきマーシタ！\n"
+"お願いデース！　私を弟子にしてクダサーイ！\n"
+"斎藤さん、お願いシマース！"
+msgstr ""
+
+msgctxt "37563"
+msgid ""
+"（すごい熱意だ、このトムという男、\n"
+"　簡単に諦めそうにないな……）"
+msgstr ""
+
+msgctxt "37630"
+msgid ""
+"またお前が別の武士に弟子入り志願して\n"
+"斬られでもしたらかなわんからな……"
+msgstr ""
+
+msgctxt "37703"
+msgid "弟子はとらねぇが、稽古くらいならつけてやる。"
+msgstr ""
+
+msgctxt "37748"
+msgid ""
+"さ……　斎藤さん、本当!?\n"
+"私、嬉しいヨー！　アリガトゴザマス！"
+msgstr ""
+
+msgctxt "37811"
+msgid ""
+"じゃ、じゃあシショー！\n"
+"さっそく今から稽古、オネガイしてもイーデスカ!?"
+msgstr ""
+
+msgctxt "37882"
+msgid ""
+"すまない。\n"
+"今は無理だ、また今度な。"
+msgstr ""
+
+msgctxt "37919"
+msgid ""
+"ワカリマーシタ！　私、ここで待ってマス。\n"
+"稽古つけてくれる時なったら、\n"
+"またイラシテクダサーイ！"
+msgstr ""
+
+msgctxt "38016"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38017"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38018"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38019"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38020"
+msgid ""
+"いいだろう。\n"
+"ついて来い、道場へ行くぞ。"
+msgstr ""
+
+msgctxt "38061"
+msgid "ハイ、ヨロシクオネガイシマス！"
+msgstr ""
+
+msgctxt "38092"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43444"
+msgid "子供嫌いな侍"
+msgstr ""
+
+msgctxt "43457"
+msgid "トム"
+msgstr ""
+
+msgctxt "43462"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "43471"
+msgid "Player"
+msgstr ""
+
+msgctxt "43478"
+msgid "腕白な子供"
+msgstr ""
+
+msgctxt "43489"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "43500"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "43508"
+msgid "悪戯好きな子供"
+msgstr ""
+
+msgctxt "43523"
+msgid "天真爛漫な子供"
+msgstr ""
+
+msgctxt "43538"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "43549"
+msgid "子供たち"
+msgstr ""
+
+msgctxt "43558"
+msgid "kaiwabgm_sub_hartwarm_01"
+msgstr ""
+
+msgctxt "43583"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "43595"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "43606"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "43617"
+msgid "dummy"
+msgstr ""
+
+msgctxt "43623"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "43634"
+msgid "kaiwabgm_sub_fuon_04"
+msgstr ""
+
+msgctxt "43655"
+msgid "Talk_Sad"
+msgstr ""
+
+msgctxt "43664"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "43675"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "43685"
+msgid "カタコトな男の声"
+msgstr ""
+
+msgctxt "43702"
+msgid "金髪の男"
+msgstr ""
+
+msgctxt "43711"
+msgid "粗暴な青年武士"
+msgstr ""
+
+msgctxt "43726"
+msgid "血気盛んな武士"
+msgstr ""
+
+msgctxt "43741"
+msgid "外国人の男"
+msgstr ""
+
+msgctxt "43752"
+msgid "武士達"
+msgstr ""
+
+msgctxt "43759"
+msgid "E_KNS_HS_stand"
+msgstr ""
+
+msgctxt "43774"
+msgid "E_ENC_KNS_HS_btlst_battou_C"
+msgstr ""
+
+msgctxt "43802"
+msgid "M_YKZ_SS_atk_lp"
+msgstr ""
+
+msgctxt "43818"
+msgid "M_YKZ_SS_atk_st"
+msgstr ""
+
+msgctxt "43834"
+msgid "M_YKZ_SS_tsubazeri_lp"
+msgstr ""
+
+msgctxt "43856"
+msgid "M_YKZ_SS_tsubazeri_st"
+msgstr ""
+
+msgctxt "43878"
+msgid "P_KRU_SS_tsubazeri_lp"
+msgstr ""
+
+msgctxt "43900"
+msgid "P_KRU_SS_tsubazeri_st"
+msgstr ""
+
+msgctxt "43922"
+msgid "M_BUS_TLK_btl_aft_nw_04_lp"
+msgstr ""
+
+msgctxt "43949"
+msgid "M_YKZ_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "43971"
+msgid "M_YKZ_SS_tsubazeri_en"
+msgstr ""
+
+msgctxt "43993"
+msgid "P_KRU_SS_tsubazeri_taiki_lp"
+msgstr ""
+
+msgctxt "44021"
+msgid "P_KRU_SS_tsubazeri_en"
+msgstr ""
+
+msgctxt "44043"
+msgid "ADV_P_KRU_STAND"
+msgstr ""
+
+msgctxt "44059"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "44081"
+msgid "P_KRU_TLK_stand_noutou"
+msgstr ""
+
+msgctxt "44104"
+msgid "ADV_M_BUS_STAND"
+msgstr ""
+
+msgctxt "44120"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "44142"
+msgid "M_BUS_TLK_btl_aft_nw_04_en"
+msgstr ""
+
+msgctxt "44169"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "44182"
+msgid "稽古をつける"
+msgstr ""
+
+msgctxt "44195"
+msgid "今は無理"
+msgstr ""

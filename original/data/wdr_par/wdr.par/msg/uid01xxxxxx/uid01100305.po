@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3996"
+msgid ""
+"ようこそ、お客人。\n"
+"どうぞお手柔らかに……"
+msgstr ""
+
+msgctxt "4039"
+msgid ""
+"また来たね。\n"
+"フッどうぞお手柔らかに……"
+msgstr ""
+
+msgctxt "4080"
+msgid ""
+"来たんだね。\n"
+"じゃあ始めようか……"
+msgstr ""
+
+msgctxt "4115"
+msgid ""
+"……ま、待ってたよ……\n"
+"じゃあ、始めようか。"
+msgstr ""
+
+msgctxt "4160"
+msgid ""
+"よろしゅうござんすね。\n"
+"入ります。"
+msgstr ""
+
+msgctxt "4195"
+msgid "さあ、張った張った！"
+msgstr ""
+
+msgctxt "4216"
+msgid "丁半コマそろいました。"
+msgstr ""
+
+msgctxt "4239"
+msgid "勝負！"
+msgstr ""
+
+msgctxt "4246"
+msgid "フン、やるじゃないか。"
+msgstr ""
+
+msgctxt "4269"
+msgid "やるじゃないか。"
+msgstr ""
+
+msgctxt "4286"
+msgid "さすがだね……！"
+msgstr ""
+
+msgctxt "4303"
+msgid "あんたなら、当てると思ったよ……！"
+msgstr ""
+
+msgctxt "4338"
+msgid "フン、残念だったね。"
+msgstr ""
+
+msgctxt "4359"
+msgid "残念だったね。"
+msgstr ""
+
+msgctxt "4374"
+msgid ""
+"どうしたんだい？\n"
+"あんたらしくないじゃないか……"
+msgstr ""
+
+msgctxt "4423"
+msgid "大丈夫。あんたなら、次で取り返せるさ……"
+msgstr ""
+
+msgctxt "4464"
+msgid "さあ、どうするんだい？"
+msgstr ""
+
+msgctxt "4487"
+msgid "さあ、どうするんだい？"
+msgstr ""
+
+msgctxt "4510"
+msgid "さあ、どうするんだい？"
+msgstr ""
+
+msgctxt "4533"
+msgid "さあ、どうするんだい？"
+msgstr ""
+
+msgctxt "4556"
+msgid "ふんっ、出直してきな。"
+msgstr ""
+
+msgctxt "4579"
+msgid "また来るんだね。"
+msgstr ""
+
+msgctxt "4596"
+msgid "あ、あんた……"
+msgstr ""
+
+msgctxt "4611"
+msgid "ま、また来ないと承知しないよ！"
+msgstr ""
+
+msgctxt "4642"
+msgid ""
+"フッ、また来なよ。\n"
+"いつでも待ってるからね。"
+msgstr ""
+
+msgctxt "4687"
+msgid "出直してきな！"
+msgstr ""
+
+msgctxt "4702"
+msgid ""
+"な、なに言ってるんだい!?\n"
+"言いがかりつけてないで\n"
+"さっさと張りな！"
+msgstr ""
+
+msgctxt "4769"
+msgid "フッ……　いいだろう。"
+msgstr ""
+
+msgctxt "4792"
+msgid ""
+"フン……\n"
+"何の根拠があって言ってるんだい？\n"
+"さっさと張りな！"
+msgstr ""
+
+msgctxt "4853"
+msgid "……"
+msgstr ""
+
+msgctxt "4858"
+msgid "（全く動じていない……　俺の勘違いか？）"
+msgstr ""
+
+msgctxt "4899"
+msgid "いまの勝ち分を賭けてサシ勝負してみないかい？"
+msgstr ""
+
+msgctxt "4944"
+msgid "いまの勝ち分を賭けてサシ勝負してみないかい？"
+msgstr ""
+
+msgctxt "4989"
+msgid "いまの勝ち分を賭けてサシ勝負してみないかい？"
+msgstr ""
+
+msgctxt "5034"
+msgid "いまの勝ち分を賭けてサシ勝負してみないかい？"
+msgstr ""
+
+msgctxt "5088"
+msgid "壺振り"
+msgstr ""
+
+msgctxt "5095"
+msgid "Player"
+msgstr ""

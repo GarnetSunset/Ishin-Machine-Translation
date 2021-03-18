@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7492"
+msgid ""
+"あ、あなたは！\n"
+"僕の手荷物、取り替えてきてくれたんですね！"
+msgstr ""
+
+msgctxt "7551"
+msgid "……あぁ。"
+msgstr ""
+
+msgctxt "7562"
+msgid "入れ替わった手荷物を返した。"
+msgstr ""
+
+msgctxt "7591"
+msgid ""
+"やったー！\n"
+"でも中身は無事かなぁ……"
+msgstr ""
+
+msgctxt "7628"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7629"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7630"
+msgid ""
+"ホッ、ちゃんと全部あった……\n"
+"ありがとうございますー！"
+msgstr ""
+
+msgctxt "7685"
+msgid ""
+"まさか大事な荷物の正体が\n"
+"ちくわだったとはな……"
+msgstr ""
+
+msgctxt "7734"
+msgid "僕にとっては大事な大事なちくわなんですよ！"
+msgstr ""
+
+msgctxt "7777"
+msgid ""
+"いやー、本当、ちくわがなくなった時は\n"
+"本当泣きそうになりましたよ！\n"
+"僕、ちくわ大好きなんですよ！"
+msgstr ""
+
+msgctxt "7874"
+msgid "そうか……"
+msgstr ""
+
+msgctxt "7885"
+msgid ""
+"これ、ちくわを取り戻してくれたお礼です。\n"
+"どうぞ。"
+msgstr ""
+
+msgctxt "7936"
+msgid "「<Color:8>大蛇の抜殻<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "7985"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7986"
+msgid "それでは！"
+msgstr ""
+
+msgctxt "7997"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7998"
+msgid ""
+"（ちょっとした不注意で\n"
+"　とんだ面倒事にまきこまれてしまったな……）"
+msgstr ""
+
+msgctxt "8067"
+msgid ""
+"あ、あれ！\n"
+"ちょっと減ってる……！"
+msgstr ""
+
+msgctxt "8102"
+msgid "す、すまない。それは……"
+msgstr ""
+
+msgctxt "8127"
+msgid ""
+"はぁ、きっとちくわを持って行っちゃった人が\n"
+"間違って食べちゃったんですかね……"
+msgstr ""
+
+msgctxt "8206"
+msgid ""
+"……これだけ戻って来ただけでも、\n"
+"幸運だったと思うことにします。"
+msgstr ""
+
+msgctxt "8271"
+msgid "…………"
+msgstr ""
+
+msgctxt "8280"
+msgid ""
+"それにしても、ちくわがなくなった時は\n"
+"本当泣きそうになりましたよ！\n"
+"僕、ちくわ大好きなんですよ！"
+msgstr ""
+
+msgctxt "8377"
+msgid "そ、そうか……"
+msgstr ""
+
+msgctxt "8392"
+msgid ""
+"これ、ちくわを取り戻してくれたお礼です。\n"
+"どうぞ。"
+msgstr ""
+
+msgctxt "8443"
+msgid "「<Color:8>千年樹の枝<Color:Default>」をもらった"
+msgstr ""
+
+msgctxt "8492"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8493"
+msgid "それでは！"
+msgstr ""
+
+msgctxt "8504"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8505"
+msgid ""
+"（ちょっとした不注意で\n"
+"　とんだ面倒事にまきこまれてしまったな……）"
+msgstr ""
+
+msgctxt "8574"
+msgid ""
+"あ、あれ！\n"
+"ちくわ、ほとんど残ってない……！"
+msgstr ""
+
+msgctxt "8619"
+msgid "す、すまない。それは……"
+msgstr ""
+
+msgctxt "8644"
+msgid ""
+"はぁ、きっとちくわを持って行っちゃった人が\n"
+"間違って食べちゃったんですよね……"
+msgstr ""
+
+msgctxt "8723"
+msgid ""
+"お兄さんからちくわの匂いが漂ってくるのも\n"
+"きっと気のせいですよね……"
+msgstr ""
+
+msgctxt "8792"
+msgid "…………"
+msgstr ""
+
+msgctxt "8801"
+msgid "はぁ、ありがとうございました……　それでは……"
+msgstr ""
+
+msgctxt "8848"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8849"
+msgid "（……悪いことをしてしまった）"
+msgstr ""
+
+msgctxt "8880"
+msgid ""
+"（しかしちょっとした不注意で\n"
+"　とんだ面倒事にまきこまれてしまったな……）"
+msgstr ""
+
+msgctxt "8955"
+msgid ""
+"あ、あれ！\n"
+"ちくわが……　ない！"
+msgstr ""
+
+msgctxt "8988"
+msgid "す、すまない。それは……"
+msgstr ""
+
+msgctxt "9013"
+msgid ""
+"はぁ、きっとちくわを持って行っちゃった人が\n"
+"全部食べちゃったんですよね……"
+msgstr ""
+
+msgctxt "9088"
+msgid ""
+"お兄さんからちくわの匂いが漂ってくるのも\n"
+"きっと気のせいなんですよね。"
+msgstr ""
+
+msgctxt "9159"
+msgid "…………"
+msgstr ""
+
+msgctxt "9168"
+msgid ""
+"包みだけでも戻ってきてよかったです。\n"
+"それでは……"
+msgstr ""
+
+msgctxt "9219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9220"
+msgid "（とても悪いことをしてしまった……）"
+msgstr ""
+
+msgctxt "9257"
+msgid ""
+"（しかしちょっとした不注意で\n"
+"　とんだ面倒事にまきこまれてしまったな……）"
+msgstr ""
+
+msgctxt "9332"
+msgid ""
+"（だが、そのおかげで\n"
+"　ひとつの家族を助けることができたと思えば……\n"
+"　よしとするか）"
+msgstr ""
+
+msgctxt "9419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9421"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9424"
+msgid ""
+"僕の荷物を持った人は骸街にいるんですよね!?\n"
+"……頑張って取り戻してきてくださいよ～！"
+msgstr ""
+
+msgctxt "9509"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9510"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9820"
+msgid "のんびりした男"
+msgstr ""
+
+msgctxt "9835"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "9845"
+msgid "Player"
+msgstr ""
+
+msgctxt "9852"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9861"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "9871"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "9882"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9890"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "9901"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "9911"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9922"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "9935"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "9947"
+msgid "dummy"
+msgstr ""

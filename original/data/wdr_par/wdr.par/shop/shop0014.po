@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "252"
+msgid "－"
+msgstr ""
+
+msgctxt "255"
+msgid "所持数"
+msgstr ""
+
+msgctxt "262"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "287"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "320"
+msgid "……%sや。"
+msgstr ""
+
+msgctxt "331"
+msgid "（持ち物が一杯だな……）"
+msgstr ""
+
+msgctxt "356"
+msgid "（売り切れのようだ……）"
+msgstr ""
+
+msgctxt "381"
+msgid "（これは既に持っているな……）"
+msgstr ""
+
+msgctxt "412"
+msgid "所持品"
+msgstr ""
+
+msgctxt "419"
+msgid "詳細"
+msgstr ""
+
+msgctxt "424"
+msgid "商品"
+msgstr ""
+
+msgctxt "429"
+msgid "<Sign:1>前へ"
+msgstr ""
+
+msgctxt "442"
+msgid "<Sign:1>次へ %d/%d"
+msgstr ""
+
+msgctxt "461"
+msgid "－"
+msgstr ""
+
+msgctxt "464"
+msgid "注"
+msgstr ""
+
+msgctxt "467"
+msgid ""
+"穫れたての蜜柑でっせ。\n"
+"まだ少し食べ時には早そうやな。"
+msgstr ""
+
+msgctxt "521"
+msgid ""
+"その昔、仰天斎という人が発明した丸薬ですわ。\n"
+"酔い覚ましにはもってこいって\n"
+"昔から評判ですわ。"
+msgstr ""

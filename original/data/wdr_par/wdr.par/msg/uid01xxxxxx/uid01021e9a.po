@@ -1,0 +1,429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6776"
+msgid "おい！　酒だ！"
+msgstr ""
+
+msgctxt "6791"
+msgid "まだ飲むんかい……"
+msgstr ""
+
+msgctxt "6810"
+msgid "あ～あ、何やってんだろ俺……"
+msgstr ""
+
+msgctxt "6839"
+msgid ""
+"お前ら、これだけ一緒に飲んで騒いでも\n"
+"まだ薩摩だ長州だのと言うつもりか。"
+msgstr ""
+
+msgctxt "6912"
+msgid ""
+"当たり前でしょ。\n"
+"斎藤さん、アンタ俺たち長州が薩摩に\n"
+"どんな目に遭わされたのか、分かってないでしょう？"
+msgstr ""
+
+msgctxt "7015"
+msgid ""
+"は、ケツの穴の小さいガキやで。\n"
+"こんなんが頭や言うんやから長州もタカが知れとるわ。"
+msgstr ""
+
+msgctxt "7098"
+msgid "なんだと……"
+msgstr ""
+
+msgctxt "7111"
+msgid "まだわからねえのか。"
+msgstr ""
+
+msgctxt "7132"
+msgid ""
+"そんな細けぇことにこだわって、\n"
+"いつまで殺し合うつもりだ。"
+msgstr ""
+
+msgctxt "7191"
+msgid "そこで流れた血が、どれだけ報われたっていうんだ？"
+msgstr ""
+
+msgctxt "7240"
+msgid "……"
+msgstr ""
+
+msgctxt "7245"
+msgid ""
+"細かいこと、か。\n"
+"それをいうなら、アンタだって結構細かいことに\n"
+"こだわってると思うけど？"
+msgstr ""
+
+msgctxt "7334"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7335"
+msgid ""
+"……アイツにも同じことを言われたよ。\n"
+"それよりも親っさんの遺志を継げってな……"
+msgstr ""
+
+msgctxt "7414"
+msgid "？"
+msgstr ""
+
+msgctxt "7417"
+msgid ""
+"アイツの言う通りだってことは、\n"
+"分かっちゃいたんだ。\n"
+"でも、俺は兄弟みたいにできちゃいねぇ。"
+msgstr ""
+
+msgctxt "7510"
+msgid "目の前の忘れりゃあいいことを忘れられなかった。"
+msgstr ""
+
+msgctxt "7557"
+msgid ""
+"……その挙句が、このザマだ。\n"
+"俺は、何よりも大切なものを護れなかった。"
+msgstr ""
+
+msgctxt "7628"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7629"
+msgid "兄弟？"
+msgstr ""
+
+msgctxt "7636"
+msgid ""
+"……土佐の武市半平太のことだ。\n"
+"兄弟分なんだよ、彼らは。"
+msgstr ""
+
+msgctxt "7693"
+msgid ""
+"武市半平太の兄弟分……？\n"
+"そしたら、まさか……"
+msgstr ""
+
+msgctxt "7740"
+msgid "言っちゃっていいのかな？"
+msgstr ""
+
+msgctxt "7765"
+msgid ""
+"……土佐勤王党の筆頭、坂本龍馬。\n"
+"それがこの人の本当の名前だ。"
+msgstr ""
+
+msgctxt "7828"
+msgid "坂本龍馬？　コイツが？"
+msgstr ""
+
+msgctxt "7851"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7852"
+msgid "この男が、坂本龍馬だ。"
+msgstr ""
+
+msgctxt "7875"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7876"
+msgid "……どういうこっちゃ。"
+msgstr ""
+
+msgctxt "7899"
+msgid "？"
+msgstr ""
+
+msgctxt "7902"
+msgid "なあ、アンタ……"
+msgstr ""
+
+msgctxt "7919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7920"
+msgid "人を勝手に連れまわして愚痴り倒したあげく……"
+msgstr ""
+
+msgctxt "7965"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7966"
+msgid "勝手に寝よった……"
+msgstr ""
+
+msgctxt "7985"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7986"
+msgid "坂本龍馬か……"
+msgstr ""
+
+msgctxt "8001"
+msgid "ほんと、勝手な人だね……"
+msgstr ""
+
+msgctxt "8026"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8027"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9668"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "9673"
+msgid "kiryu_c09_060_01"
+msgstr ""
+
+msgctxt "9690"
+msgid "西郷"
+msgstr ""
+
+msgctxt "9695"
+msgid "ryuji_c09_060_01"
+msgstr ""
+
+msgctxt "9712"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "9723"
+msgid "桂"
+msgstr ""
+
+msgctxt "9726"
+msgid "akiyama_c09_060_01"
+msgstr ""
+
+msgctxt "9745"
+msgid "kiryu_c09_060_02"
+msgstr ""
+
+msgctxt "9762"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "9773"
+msgid "akiyama_c09_060_02"
+msgstr ""
+
+msgctxt "9792"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "9803"
+msgid "ryuji_c09_060_02"
+msgstr ""
+
+msgctxt "9820"
+msgid "akiyama_c09_060_03"
+msgstr ""
+
+msgctxt "9839"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "9850"
+msgid "kiryu_c09_060_03"
+msgstr ""
+
+msgctxt "9867"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "9878"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "9889"
+msgid "kiryu_c09_060_03b"
+msgstr ""
+
+msgctxt "9907"
+msgid "TLK_SCN006"
+msgstr ""
+
+msgctxt "9918"
+msgid "kiryu_c09_060_03c"
+msgstr ""
+
+msgctxt "9936"
+msgid "TLK_SCN008"
+msgstr ""
+
+msgctxt "9947"
+msgid "akiyama_c09_060_04"
+msgstr ""
+
+msgctxt "9966"
+msgid "TLK_SCN009"
+msgstr ""
+
+msgctxt "9977"
+msgid "kaiwabgm_apathy_08"
+msgstr ""
+
+msgctxt "9996"
+msgid "kiryu_c09_060_04"
+msgstr ""
+
+msgctxt "10013"
+msgid "TLK_SCN010"
+msgstr ""
+
+msgctxt "10024"
+msgid "ryuji_c09_060_04"
+msgstr ""
+
+msgctxt "10041"
+msgid "kiryu_c09_060_05"
+msgstr ""
+
+msgctxt "10058"
+msgid "TLK_SCN012"
+msgstr ""
+
+msgctxt "10069"
+msgid "kiryu_c09_060_05b"
+msgstr ""
+
+msgctxt "10087"
+msgid "TLK_SCN014"
+msgstr ""
+
+msgctxt "10098"
+msgid "kiryu_c09_060_05c"
+msgstr ""
+
+msgctxt "10116"
+msgid "TLK_SCN016"
+msgstr ""
+
+msgctxt "10127"
+msgid "TLK_SCN011"
+msgstr ""
+
+msgctxt "10138"
+msgid "ryuji_c09_060_05"
+msgstr ""
+
+msgctxt "10155"
+msgid "akiyama_c09_060_05"
+msgstr ""
+
+msgctxt "10174"
+msgid "TLK_SCN013"
+msgstr ""
+
+msgctxt "10185"
+msgid "ryuji_c09_060_06"
+msgstr ""
+
+msgctxt "10202"
+msgid "akiyama_c09_060_06"
+msgstr ""
+
+msgctxt "10221"
+msgid "TLK_SCN015"
+msgstr ""
+
+msgctxt "10232"
+msgid "akiyama_c09_060_06b"
+msgstr ""
+
+msgctxt "10252"
+msgid "TLK_SCN017"
+msgstr ""
+
+msgctxt "10263"
+msgid "ryuji_c09_060_07"
+msgstr ""
+
+msgctxt "10280"
+msgid "2d_yk_C9-060"
+msgstr ""
+
+msgctxt "10293"
+msgid "勝"
+msgstr ""
+
+msgctxt "10296"
+msgid "katu_c09_060_01"
+msgstr ""
+
+msgctxt "10312"
+msgid "TLK_SCN018"
+msgstr ""
+
+msgctxt "10323"
+msgid "ryuji_c09_060_08"
+msgstr ""
+
+msgctxt "10340"
+msgid "akiyama_c09_060_07"
+msgstr ""
+
+msgctxt "10359"
+msgid "ryuji_c09_060_09"
+msgstr ""
+
+msgctxt "10376"
+msgid "TLK_SCN019"
+msgstr ""
+
+msgctxt "10387"
+msgid "akiyama_c09_060_08"
+msgstr ""
+
+msgctxt "10406"
+msgid "TLK_SCN021"
+msgstr ""
+
+msgctxt "10417"
+msgid "ryuji_c09_060_10"
+msgstr ""
+
+msgctxt "10434"
+msgid "TLK_SCN023"
+msgstr ""
+
+msgctxt "10445"
+msgid "ryuji_c09_060_11"
+msgstr ""
+
+msgctxt "10462"
+msgid "akiyama_c09_060_09"
+msgstr ""
+
+msgctxt "10481"
+msgid "TLK_SCN025"
+msgstr ""

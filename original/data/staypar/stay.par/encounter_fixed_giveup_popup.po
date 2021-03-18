@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0_0"
+msgid "さっさと帰んなっ"
+msgstr ""
+
+msgctxt "1_0"
+msgid "去れっ"
+msgstr ""
+
+msgctxt "2_0"
+msgid "用無き者は去れ"
+msgstr ""
+
+msgctxt "3_0"
+msgid "退くも勇気"
+msgstr ""
+
+msgctxt "4_0"
+msgid "恐れをなしたか"
+msgstr ""

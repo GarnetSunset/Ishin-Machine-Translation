@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5208"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5209"
+msgid ""
+"もうドジを踏むんじゃないぞ。\n"
+"絶対に川に落ちるなよ。"
+msgstr ""
+
+msgctxt "5262"
+msgid "ミャ、ミャア……"
+msgstr ""
+
+msgctxt "5279"
+msgid "（うーむ、またすぐに汚れてそうだな……）"
+msgstr ""
+
+msgctxt "5320"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5321"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5322"
+msgid "もうドジを踏むんじゃないぞ。"
+msgstr ""
+
+msgctxt "5351"
+msgid "ミャア。"
+msgstr ""
+
+msgctxt "5360"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5362"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5363"
+msgid "ミャア……"
+msgstr ""
+
+msgctxt "5374"
+msgid ""
+"（この猫、また川に落ちて汚れたようだな……\n"
+"　風呂屋で洗ってやろうか？）"
+msgstr ""
+
+msgctxt "5447"
+msgid "ミャア……"
+msgstr ""
+
+msgctxt "5458"
+msgid ""
+"はぁ、何回泥まみれになれば気が済むんだお前は。\n"
+"そんな危ないところでくつろぐのを\n"
+"やめないからだぞ。"
+msgstr ""
+
+msgctxt "5559"
+msgid "プルプル……"
+msgstr ""
+
+msgctxt "5572"
+msgid ""
+"（……とは言え、このまま放ってはおけないな、\n"
+"　風呂屋で洗ってやろうか？）"
+msgstr ""
+
+msgctxt "5647"
+msgid "（……今はそこまで面倒を見きれないな）"
+msgstr ""
+
+msgctxt "5686"
+msgid "ミャア……"
+msgstr ""
+
+msgctxt "5697"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5698"
+msgid "しかたない奴だ。……ちょっと来い。"
+msgstr ""
+
+msgctxt "5733"
+msgid "ミャア。"
+msgstr ""
+
+msgctxt "5742"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5743"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5744"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5745"
+msgid "ミャア……"
+msgstr ""
+
+msgctxt "5756"
+msgid ""
+"（この猫、また川に落ちて汚れたようだな……\n"
+"　風呂屋で洗ってやろうか？）"
+msgstr ""
+
+msgctxt "5829"
+msgid "ミャア……"
+msgstr ""
+
+msgctxt "5840"
+msgid ""
+"ん？　泥だらけじゃないか。\n"
+"お前、もしかしてまた川に落ちたのか？"
+msgstr ""
+
+msgctxt "5905"
+msgid "プルプル……"
+msgstr ""
+
+msgctxt "5918"
+msgid ""
+"（……どこまでおっちょこちょいな猫なんだ。\n"
+"　しかたない。風呂屋で洗ってやろうか？）"
+msgstr ""
+
+msgctxt "6003"
+msgid "（……今はそこまで面倒を見きれないな）"
+msgstr ""
+
+msgctxt "6042"
+msgid "ミャア……"
+msgstr ""
+
+msgctxt "6053"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6054"
+msgid "しかたない奴だ。……ちょっと来い。"
+msgstr ""
+
+msgctxt "6089"
+msgid "ミャア。"
+msgstr ""
+
+msgctxt "6098"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6099"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6100"
+msgid "もうこれ以上、ドジを踏むんじゃないぞ。"
+msgstr ""
+
+msgctxt "6139"
+msgid "ミャア！"
+msgstr ""
+
+msgctxt "6148"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6149"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6150"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6151"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6444"
+msgid "Player"
+msgstr ""
+
+msgctxt "6451"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6460"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6466"
+msgid "綺麗になった猫"
+msgstr ""
+
+msgctxt "6481"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6494"
+msgid "汚れた猫"
+msgstr ""
+
+msgctxt "6503"
+msgid "洗ってやる"
+msgstr ""
+
+msgctxt "6514"
+msgid "立ち去る"
+msgstr ""
+
+msgctxt "6523"
+msgid "Talk_No"
+msgstr ""

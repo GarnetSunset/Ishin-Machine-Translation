@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "764"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "765"
+msgid "この町のどこかに闘技場ってものがあるらしい。"
+msgstr ""
+
+msgctxt "810"
+msgid ""
+"そこに全国から、腕に自信のある剣士が\n"
+"集まって、日々、決闘している噂だ。"
+msgstr ""
+
+msgctxt "883"
+msgid "そこで勝てば、豪華な報酬が出るってよ。"
+msgstr ""
+
+msgctxt "922"
+msgid "どこにあるんだ？"
+msgstr ""
+
+msgctxt "939"
+msgid ""
+"俺もよく知らないが……\n"
+"<Color:7>骸街<Color:Default>で仕切ってる奴がいるって噂を聞いた。"
+msgstr ""
+
+msgctxt "1028"
+msgid "詳しく知りたければ、<Color:7>骸街<Color:Default>へ行くしかねえな。"
+msgstr ""
+
+msgctxt "1112"
+msgid "闘技場が気になる男"
+msgstr ""
+
+msgctxt "1131"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1140"
+msgid "闘技場が気になる男の仲間"
+msgstr ""
+
+msgctxt "1165"
+msgid "Talk_Quest"
+msgstr ""

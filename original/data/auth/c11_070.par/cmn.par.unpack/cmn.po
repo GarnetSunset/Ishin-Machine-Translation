@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "161740"
+msgid "大政　奉還？"
+msgstr ""
+
+msgctxt "161884"
+msgid ""
+"この俺に\n"
+"徳川３００年の幕を引けというのか？"
+msgstr ""
+
+msgctxt "162028"
+msgid "それを決めることができるのは"
+msgstr ""
+
+msgctxt "162172"
+msgid "あなただけです"
+msgstr ""
+
+msgctxt "162316"
+msgid "ここでの返事は御無用"
+msgstr ""
+
+msgctxt "162460"
+msgid ""
+"あなたがそれを読んだ時点で\n"
+"俺たちの用事はもう済みました"
+msgstr ""
+
+msgctxt "162604"
+msgid "「一　有在の公卿諸侯及び……」"
+msgstr ""
+
+msgctxt "162748"
+msgid ""
+"「天下の人材を顧問に備へ\n"
+"官爵を賜ひ……」"
+msgstr ""
+
+msgctxt "162892"
+msgid "「宜しく従来有名無実の官を除くべき事」"
+msgstr ""
+
+msgctxt "163036"
+msgid "この国の階級社会を潰せば"
+msgstr ""
+
+msgctxt "163180"
+msgid "どんな混乱が起きると思う？"
+msgstr ""
+
+msgctxt "163324"
+msgid "混乱するのは"
+msgstr ""
+
+msgctxt "163468"
+msgid ""
+"今まで階級社会にあぐらをかいてきた\n"
+"ほんの一握りの連中だけです"
+msgstr ""
+
+msgctxt "163612"
+msgid "なるほど"
+msgstr ""
+
+msgctxt "163756"
+msgid "確かにそうかもしれんな"
+msgstr ""
+
+msgctxt "163900"
+msgid "上様！？"
+msgstr ""
+
+msgctxt "164044"
+msgid "なりませんぞ　そんなことは！"
+msgstr ""
+
+msgctxt "164188"
+msgid "どうか冷静なご判断を！"
+msgstr ""
+
+msgctxt "164332"
+msgid "その方　名をなんと申す？"
+msgstr ""
+
+msgctxt "164476"
+msgid "土佐藩士"
+msgstr ""
+
+msgctxt "164620"
+msgid "坂本龍馬"
+msgstr ""
+
+msgctxt "164764"
+msgid "坂本龍馬……"
+msgstr ""
+
+msgctxt "164908"
+msgid "なあ一（はじめ）ちゃん"
+msgstr ""
+
+msgctxt "165052"
+msgid ""
+"ワシら　もしかして\n"
+"どえらいことやったんとちゃうか？"
+msgstr ""
+
+msgctxt "165196"
+msgid "さあな　ただ……"
+msgstr ""
+
+msgctxt "165340"
+msgid "これで例の「坂本龍馬」が動き出すはずだ"
+msgstr ""

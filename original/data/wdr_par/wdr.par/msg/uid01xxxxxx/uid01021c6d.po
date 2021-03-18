@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "8748"
+msgid "毎度、おおきに。"
+msgstr ""
+
+msgctxt "8765"
+msgid "あら、お帰りやす。三番隊隊長さん。"
+msgstr ""
+
+msgctxt "8800"
+msgid "意外とお早いお帰りどすな。"
+msgstr ""
+
+msgctxt "8827"
+msgid "ああ。今日は顔見せ程度だった。"
+msgstr ""
+
+msgctxt "8858"
+msgid ""
+"それにしても、ホンマに入隊してしまうなんてなぁ。\n"
+"それも隊長やなんて。"
+msgstr ""
+
+msgctxt "8929"
+msgid "ふっ。これで宿代は一安心だな。"
+msgstr ""
+
+msgctxt "8960"
+msgid ""
+"何言うてんの。\n"
+"給料もらう前に死んでまう人なんて\n"
+"いくらでもいてはるんやで？"
+msgstr ""
+
+msgctxt "9037"
+msgid "キッチリお代を頂くまでは、油断できまへん。"
+msgstr ""
+
+msgctxt "9080"
+msgid "ふっ。相変わらず金に細けえ女だ。"
+msgstr ""
+
+msgctxt "9113"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9114"
+msgid "それは？"
+msgstr ""
+
+msgctxt "9123"
+msgid "隊の羽織だ。明日から着ていく。"
+msgstr ""
+
+msgctxt "9154"
+msgid "ああ、浅葱色のアレやね。"
+msgstr ""
+
+msgctxt "9179"
+msgid "ほんなら丈直しといてあげるさかい、貸して。"
+msgstr ""
+
+msgctxt "9222"
+msgid "悪いな。"
+msgstr ""
+
+msgctxt "9231"
+msgid ""
+"気にせんといて。\n"
+"お代はちゃんと頂きますさかい。"
+msgstr ""
+
+msgctxt "9280"
+msgid "……"
+msgstr ""
+
+msgctxt "9285"
+msgid "おりょうちゃーん。"
+msgstr ""
+
+msgctxt "9304"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9305"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9306"
+msgid "はーい。"
+msgstr ""
+
+msgctxt "9315"
+msgid ""
+"なんですか？　女将さん。\n"
+"……"
+msgstr ""
+
+msgctxt "9346"
+msgid ""
+"この羽織、一（はじめ）さんが明日着てくから、\n"
+"裾直しといてあげて。"
+msgstr ""
+
+msgctxt "9413"
+msgid "……"
+msgstr ""
+
+msgctxt "9418"
+msgid "……おりょうちゃん？"
+msgstr ""
+
+msgctxt "9439"
+msgid "嫌どす。"
+msgstr ""
+
+msgctxt "9448"
+msgid "……"
+msgstr ""
+
+msgctxt "9453"
+msgid "嫌って、おりょうちゃん。"
+msgstr ""
+
+msgctxt "9478"
+msgid "何で私が人斬りの袖なんか直さなあかんの。"
+msgstr ""
+
+msgctxt "9519"
+msgid "人斬りって。一（はじめ）さんやないの。"
+msgstr ""
+
+msgctxt "9558"
+msgid "そんなん関係ない！"
+msgstr ""
+
+msgctxt "9577"
+msgid "一（はじめ）さんも結局ただの人斬りや！"
+msgstr ""
+
+msgctxt "9616"
+msgid "おりょう……？"
+msgstr ""
+
+msgctxt "9631"
+msgid "人斬りなんて……　大嫌いや!!"
+msgstr ""
+
+msgctxt "9660"
+msgid "ちょっとおりょうちゃん！"
+msgstr ""
+
+msgctxt "9685"
+msgid "……"
+msgstr ""
+
+msgctxt "9690"
+msgid "……アカンかったかあ。"
+msgstr ""
+
+msgctxt "9713"
+msgid "……あいつ、どうかしたのか？"
+msgstr ""
+
+msgctxt "9742"
+msgid ""
+"あの子なあ。\n"
+"父親が幕府の役人に斬られとるんよ。"
+msgstr ""
+
+msgctxt "9791"
+msgid "……そうなのか？"
+msgstr ""
+
+msgctxt "9808"
+msgid "親御さん、勤王派の活動家やったらしくてなあ。"
+msgstr ""
+
+msgctxt "9853"
+msgid ""
+"それで人斬りってものに\n"
+"敏感になってもうたみたい。"
+msgstr ""
+
+msgctxt "9904"
+msgid ""
+"まして、好きな人が人斬りになるのは\n"
+"耐えられんかったみたいやな。"
+msgstr ""
+
+msgctxt "9969"
+msgid "好き？　……おりょうが俺をか？"
+msgstr ""
+
+msgctxt "10000"
+msgid "イヤ、気づいてへんの？"
+msgstr ""
+
+msgctxt "10023"
+msgid ""
+"はぁ～、にっぶい男やねえ。\n"
+"おりょうちゃんも厄介なんに惚れてもうたわ。"
+msgstr ""
+
+msgctxt "10094"
+msgid "あの子の様子見たら分かるやろ？"
+msgstr ""
+
+msgctxt "10125"
+msgid "……いや、俺にはそうは思えないが。"
+msgstr ""
+
+msgctxt "10160"
+msgid "こりゃ、ホンマ難儀やなあ。"
+msgstr ""
+
+msgctxt "10187"
+msgid "さ、おりょうちゃんを捜してきておくれやす。"
+msgstr ""
+
+msgctxt "10230"
+msgid "泣かせた女を追いかけるんは男の役目どすえ。"
+msgstr ""
+
+msgctxt "10273"
+msgid "……そうは言っても、いったいどこに……"
+msgstr ""
+
+msgctxt "10312"
+msgid ""
+"鴨川とかちゃう？　独りになりたいときは、\n"
+"静かに川でも眺めたくなるもんやろ。"
+msgstr ""
+
+msgctxt "10389"
+msgid "鴨川か……　まぁ、行ってみる。"
+msgstr ""
+
+msgctxt "10420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12272"
+msgid "お登勢"
+msgstr ""
+
+msgctxt "12279"
+msgid "otose_c04_040_01"
+msgstr ""
+
+msgctxt "12296"
+msgid "otose_c04_040_02"
+msgstr ""
+
+msgctxt "12313"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "12324"
+msgid "otose_c04_040_02b"
+msgstr ""
+
+msgctxt "12342"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "12347"
+msgid "kiryu_c04_040_01"
+msgstr ""
+
+msgctxt "12364"
+msgid "otose_c04_040_03"
+msgstr ""
+
+msgctxt "12381"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "12392"
+msgid "kiryu_c04_040_02"
+msgstr ""
+
+msgctxt "12409"
+msgid "otose_c04_040_04"
+msgstr ""
+
+msgctxt "12426"
+msgid "otose_c04_040_04b"
+msgstr ""
+
+msgctxt "12444"
+msgid "kiryu_c04_040_03"
+msgstr ""
+
+msgctxt "12461"
+msgid "otose_c04_040_05"
+msgstr ""
+
+msgctxt "12478"
+msgid "kiryu_c04_040_04"
+msgstr ""
+
+msgctxt "12495"
+msgid "otose_c04_040_06"
+msgstr ""
+
+msgctxt "12512"
+msgid "otose_c04_040_06b"
+msgstr ""
+
+msgctxt "12530"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "12541"
+msgid "kiryu_c04_040_05"
+msgstr ""
+
+msgctxt "12558"
+msgid "ACSCE0410"
+msgstr ""
+
+msgctxt "12568"
+msgid "otose_c04_040_07"
+msgstr ""
+
+msgctxt "12585"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "12596"
+msgid "otose_c04_040_08"
+msgstr ""
+
+msgctxt "12613"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "12624"
+msgid "おりょう"
+msgstr ""
+
+msgctxt "12633"
+msgid "oryo_c04_040_01"
+msgstr ""
+
+msgctxt "12649"
+msgid "oryo_c04_040_02"
+msgstr ""
+
+msgctxt "12665"
+msgid "otose_c04_040_09"
+msgstr ""
+
+msgctxt "12682"
+msgid "TLK_SCN008"
+msgstr ""
+
+msgctxt "12693"
+msgid "TLK_SCN009"
+msgstr ""
+
+msgctxt "12704"
+msgid "otose_c04_040_10"
+msgstr ""
+
+msgctxt "12721"
+msgid "oryo_c04_040_04"
+msgstr ""
+
+msgctxt "12737"
+msgid "otose_c04_040_11"
+msgstr ""
+
+msgctxt "12754"
+msgid "oryo_c04_040_05"
+msgstr ""
+
+msgctxt "12770"
+msgid "otose_c04_040_12"
+msgstr ""
+
+msgctxt "12787"
+msgid "oryo_c04_040_06"
+msgstr ""
+
+msgctxt "12803"
+msgid "oryo_c04_040_07"
+msgstr ""
+
+msgctxt "12819"
+msgid "TLK_SCN011"
+msgstr ""
+
+msgctxt "12830"
+msgid "kiryu_c04_040_08"
+msgstr ""
+
+msgctxt "12847"
+msgid "oryo_c04_040_08"
+msgstr ""
+
+msgctxt "12863"
+msgid "TLK_SCN013"
+msgstr ""
+
+msgctxt "12874"
+msgid "otose_c04_040_13"
+msgstr ""
+
+msgctxt "12891"
+msgid "TLK_SCN014"
+msgstr ""
+
+msgctxt "12902"
+msgid "otose_c04_040_14"
+msgstr ""
+
+msgctxt "12919"
+msgid "kiryu_c04_040_10"
+msgstr ""
+
+msgctxt "12936"
+msgid "TLK_SCN015"
+msgstr ""
+
+msgctxt "12947"
+msgid "otose_c04_040_15"
+msgstr ""
+
+msgctxt "12964"
+msgid "kiryu_c04_040_11"
+msgstr ""
+
+msgctxt "12981"
+msgid "otose_c04_040_16"
+msgstr ""
+
+msgctxt "12998"
+msgid "otose_c04_040_16b"
+msgstr ""
+
+msgctxt "13016"
+msgid "otose_c04_040_16c"
+msgstr ""
+
+msgctxt "13034"
+msgid "kiryu_c04_040_12"
+msgstr ""
+
+msgctxt "13051"
+msgid "otose_c04_040_17"
+msgstr ""
+
+msgctxt "13068"
+msgid "otose_c04_040_17b"
+msgstr ""
+
+msgctxt "13086"
+msgid "otose_c04_040_17c"
+msgstr ""
+
+msgctxt "13104"
+msgid "kiryu_c04_040_13"
+msgstr ""
+
+msgctxt "13121"
+msgid "otose_c04_040_18"
+msgstr ""
+
+msgctxt "13138"
+msgid "otose_c04_040_18b"
+msgstr ""
+
+msgctxt "13156"
+msgid "otose_c04_040_18c"
+msgstr ""
+
+msgctxt "13174"
+msgid "kiryu_c04_040_14"
+msgstr ""
+
+msgctxt "13191"
+msgid "otose_c04_040_19"
+msgstr ""
+
+msgctxt "13208"
+msgid "kiryu_c04_040_15"
+msgstr ""

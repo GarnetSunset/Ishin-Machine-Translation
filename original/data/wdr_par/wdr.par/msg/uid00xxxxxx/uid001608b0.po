@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "4396"
+msgid "アンタが斎藤一か？"
+msgstr ""
+
+msgctxt "4415"
+msgid ""
+"ウィリアムに聞いてな。\n"
+"役立つ品を取り扱っているらしいな。"
+msgstr ""
+
+msgctxt "4474"
+msgid ""
+"ああ、お頭から話は聞いてる。\n"
+"俺たちの売り物の中から\n"
+"アンタに役立ちそうなものを見繕った。"
+msgstr ""
+
+msgctxt "4565"
+msgid ""
+"ただ、商売品の中から選んでいるからな。\n"
+"その代わりのブツを持って来て欲しいんだ。"
+msgstr ""
+
+msgctxt "4646"
+msgid ""
+"まぁ詳しいことは皆に聞いてみてくれ。\n"
+"みんな取り扱っているものが違うからな。"
+msgstr ""
+
+msgctxt "4723"
+msgid "俺が用意したのはこれだ。"
+msgstr ""
+
+msgctxt "4748"
+msgid "「<Color:8>天啓書　風<Color:Default>」"
+msgstr ""
+
+msgctxt "4787"
+msgid ""
+"「<Color:8>木彫りの熊<Color:Default>」５個と交換するよ。\n"
+"アンタには役立つと思うぜ。\n"
+"まっ、お頭ともどもよろしく頼むよ！"
+msgstr ""
+
+msgctxt "4908"
+msgid ""
+"「<Color:8>木彫りの熊<Color:Default>」５個と\n"
+"「<Color:8>天啓書　風<Color:Default>」を交換するか？"
+msgstr ""
+
+msgctxt "5007"
+msgid "（どうするか……）"
+msgstr ""
+
+msgctxt "5026"
+msgid "いや、今はやめておこう。"
+msgstr ""
+
+msgctxt "5051"
+msgid "そうか、また来てくれ。"
+msgstr ""
+
+msgctxt "5074"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5075"
+msgid ""
+"なんだ、持っていないじゃないか。\n"
+"「<Color:8>木彫りの熊<Color:Default>」を５個用意したらまた来てくれ。"
+msgstr ""
+
+msgctxt "5178"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5179"
+msgid "「<Color:8>木彫りの熊<Color:Default>」を渡した"
+msgstr ""
+
+msgctxt "5226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5227"
+msgid "「<Color:8>天啓書　風<Color:Default>」を貰った"
+msgstr ""
+
+msgctxt "5274"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5275"
+msgid ""
+"確かに貰ったぜ。\n"
+"ありがとな！"
+msgstr ""
+
+msgctxt "5306"
+msgid ""
+"次は「<Color:8>朽ちた拳銃<Color:Default>」を用意しておくよ。\n"
+"代わりに「<Color:8>藍玉<Color:Default>」を２０個持って来てくれ。"
+msgstr ""
+
+msgctxt "5433"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5434"
+msgid ""
+"よお、来てくれたんだな。\n"
+"俺が用意したのは「<Color:8>朽ちた拳銃<Color:Default>」だ。"
+msgstr ""
+
+msgctxt "5519"
+msgid ""
+"俺が欲しいのは「<Color:8>藍玉<Color:Default>」２０個だ。\n"
+"どうだ、朽ちた拳銃と交換するか？"
+msgstr ""
+
+msgctxt "5610"
+msgid "（どうするか……）"
+msgstr ""
+
+msgctxt "5629"
+msgid "いや、今はやめておこう。"
+msgstr ""
+
+msgctxt "5654"
+msgid "そうか、また来てくれ。"
+msgstr ""
+
+msgctxt "5677"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5678"
+msgid ""
+"なんだ、持っていないじゃないか。\n"
+"「<Color:8>藍玉<Color:Default>」２０個用意したらまた来てくれ。"
+msgstr ""
+
+msgctxt "5775"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5776"
+msgid "「<Color:8>藍玉<Color:Default>」を渡した"
+msgstr ""
+
+msgctxt "5817"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5818"
+msgid "「<Color:8>朽ちた拳銃<Color:Default>」を貰った"
+msgstr ""
+
+msgctxt "5865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5866"
+msgid ""
+"確かに貰ったぜ、ありがとな！\n"
+"また来てくれ。"
+msgstr ""
+
+msgctxt "6032"
+msgid "誠実そうな男"
+msgstr ""
+
+msgctxt "6045"
+msgid "Player"
+msgstr ""
+
+msgctxt "6052"
+msgid "木彫りの熊５個を渡す"
+msgstr ""
+
+msgctxt "6073"
+msgid "やめておく"
+msgstr ""
+
+msgctxt "6084"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "6094"
+msgid "藍玉を２０個渡す"
+msgstr ""

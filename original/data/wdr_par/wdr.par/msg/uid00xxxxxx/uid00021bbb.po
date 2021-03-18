@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1868"
+msgid "TURNHEAD。"
+msgstr ""
+
+msgctxt "1879"
+msgid "NONE。"
+msgstr ""
+
+msgctxt "1886"
+msgid "TURNHEAD（一瞬）。"
+msgstr ""
+
+msgctxt "1905"
+msgid "TURNBODY。"
+msgstr ""
+
+msgctxt "1916"
+msgid "元の配置へ戻す。"
+msgstr ""
+
+msgctxt "1933"
+msgid "TURNBODY（一瞬）。"
+msgstr ""
+
+msgctxt "1952"
+msgid "TURNHEAD,TOPLEFT。"
+msgstr ""
+
+msgctxt "1971"
+msgid "TURNHEAD,TOPCENTER。"
+msgstr ""
+
+msgctxt "1992"
+msgid "TURNHEAD,TOPRIGHT。"
+msgstr ""
+
+msgctxt "2012"
+msgid "TURNHEAD,MIDLEFT。"
+msgstr ""
+
+msgctxt "2031"
+msgid "TURNHEAD,UNLOCK。"
+msgstr ""
+
+msgctxt "2049"
+msgid "TURNHEAD,MIDRIGHT。"
+msgstr ""
+
+msgctxt "2069"
+msgid "TURNHEAD,BTMLEFT。"
+msgstr ""
+
+msgctxt "2088"
+msgid "TURNHEAD,BTMCENTER。"
+msgstr ""
+
+msgctxt "2109"
+msgid "TURNHEAD,BTMRIGHT。"
+msgstr ""
+
+msgctxt "2168"
+msgid "ターンテスト"
+msgstr ""

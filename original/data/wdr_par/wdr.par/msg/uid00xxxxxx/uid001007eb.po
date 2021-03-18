@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3104"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3105"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3106"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3107"
+msgid "こちらは闘技場の受付になります。"
+msgstr ""
+
+msgctxt "3140"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3141"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3142"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3143"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3144"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3145"
+msgid ""
+"武器を一つお選び下さい。\n"
+"今装備している武器や防具の効果は\n"
+"無効になりますのでご注意下さい。"
+msgstr ""
+
+msgctxt "3238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3240"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3241"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3242"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3243"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3244"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3245"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3246"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3247"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3248"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3249"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3250"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3251"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3252"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3253"
+msgid "またのお越しをお待ちしております。"
+msgstr ""
+
+msgctxt "3372"
+msgid "大会運営員"
+msgstr ""
+
+msgctxt "3383"
+msgid "出場登録を行う"
+msgstr ""
+
+msgctxt "3398"
+msgid "闘技場に関する説明"
+msgstr ""
+
+msgctxt "3417"
+msgid "選手情報を確認する"
+msgstr ""
+
+msgctxt "3436"
+msgid "戦績を確認する"
+msgstr ""
+
+msgctxt "3451"
+msgid "バトルランキングを見る"
+msgstr ""
+
+msgctxt "3474"
+msgid "ポイントを交換する"
+msgstr ""
+
+msgctxt "3493"
+msgid "やめる"
+msgstr ""
+
+msgctxt "3500"
+msgid "基本ルール説明"
+msgstr ""
+
+msgctxt "3515"
+msgid "タッグ説明"
+msgstr ""
+
+msgctxt "3526"
+msgid "バトルランキング説明"
+msgstr ""
+
+msgctxt "3547"
+msgid "メニューへ戻る"
+msgstr ""
+
+msgctxt "3562"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3568"
+msgid "業物のドス"
+msgstr ""
+
+msgctxt "3579"
+msgid "業物の刀"
+msgstr ""
+
+msgctxt "3588"
+msgid "業物の槍"
+msgstr ""
+
+msgctxt "3597"
+msgid "業物の鉄甲"
+msgstr ""
+
+msgctxt "3608"
+msgid "業物のハンマー"
+msgstr ""
+
+msgctxt "3623"
+msgid "業物のヌンチャク"
+msgstr ""
+
+msgctxt "3640"
+msgid "業物のトンファー"
+msgstr ""
+
+msgctxt "3657"
+msgid "業物のカリスティック"
+msgstr ""

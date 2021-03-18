@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "572"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "700"
+msgid "hijikata_c12_110_01"
+msgstr ""
+
+msgctxt "720"
+msgid "C12110_KRU_A"
+msgstr ""
+
+msgctxt "733"
+msgid "C12110_HIJ_A"
+msgstr ""
+
+msgctxt "746"
+msgid "C12110_NAG_A"
+msgstr ""
+
+msgctxt "759"
+msgid "C12110_OKI_A"
+msgstr ""
+
+msgctxt "772"
+msgid "Idle"
+msgstr ""
+
+msgctxt "777"
+msgid "Player"
+msgstr ""

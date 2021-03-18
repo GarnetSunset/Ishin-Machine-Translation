@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "222952"
+msgid "千石が　俺を誘き出した理由？"
+msgstr ""
+
+msgctxt "223096"
+msgid "それはこういうコトや"
+msgstr ""
+
+msgctxt "223240"
+msgid "何のまねだ"
+msgstr ""
+
+msgctxt "223384"
+msgid "お前のことは調べがついとるんや"
+msgstr ""
+
+msgctxt "223528"
+msgid "土佐勤王党筆頭"
+msgstr ""
+
+msgctxt "223672"
+msgid "坂本龍馬ちゃん"
+msgstr ""
+
+msgctxt "223816"
+msgid "いや"
+msgstr ""
+
+msgctxt "223960"
+msgid ""
+"調べも何も\n"
+"入隊試験で一目見たときから全部知っとった"
+msgstr ""
+
+msgctxt "224104"
+msgid "一（はじめ）ちゃんは"
+msgstr ""
+
+msgctxt "224248"
+msgid "“覆面の男”を追って京まで来たんやろ？"
+msgstr ""
+
+msgctxt "224392"
+msgid "何であんたがそれを……！？"
+msgstr ""
+
+msgctxt "224536"
+msgid "ワシがその"
+msgstr ""
+
+msgctxt "224680"
+msgid "“覆面の男”やからや"
+msgstr ""
+
+msgctxt "224824"
+msgid ""
+"どや？\n"
+"“あの日”のこと　思い出したかいな"
+msgstr ""
+
+msgctxt "224968"
+msgid "まさかお前が……"
+msgstr ""
+
+msgctxt "225112"
+msgid "吉田東洋"
+msgstr ""
+
+msgctxt "225256"
+msgid "アイツを斬った感触　今でも覚えとるで"
+msgstr ""
+
+msgctxt "225400"
+msgid "沖田……！！"
+msgstr ""
+
+msgctxt "225544"
+msgid "今度はもう邪魔は入らんで"
+msgstr ""
+
+msgctxt "225688"
+msgid ""
+"どっちかが死ぬまで\n"
+"存分にやれるっちゅうこっちゃ"
+msgstr ""
+
+msgctxt "225832"
+msgid ""
+"さぁ　１年前からどんくらい強うなったか\n"
+"見せてくれや　一（はじめ）ちゃん！"
+msgstr ""
+
+msgctxt "225976"
+msgid "いや　龍馬ちゃんよぉ！！"
+msgstr ""

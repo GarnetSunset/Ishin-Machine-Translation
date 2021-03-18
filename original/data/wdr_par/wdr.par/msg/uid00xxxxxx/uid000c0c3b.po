@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1512"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1513"
+msgid ""
+"こいこいやりたいんなら\n"
+"少なくとも２００点は必要だ。\n"
+"受付で点数買って来てくれ。"
+msgstr ""
+
+msgctxt "1594"
+msgid "兄さん！　こいこいやらないかい？"
+msgstr ""
+
+msgctxt "1627"
+msgid "よし！　それじゃ、こっちに来いよ！"
+msgstr ""
+
+msgctxt "1662"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1663"
+msgid "よし！　それじゃ、こっちに来いよ！"
+msgstr ""
+
+msgctxt "1698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1699"
+msgid "よし！　それじゃ、こっちに来いよ！"
+msgstr ""
+
+msgctxt "1734"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1735"
+msgid "よし！　それじゃ、こっちに来いよ！"
+msgstr ""
+
+msgctxt "1770"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1771"
+msgid ""
+"そうかい。\n"
+"また今度きてくれよ。"
+msgstr ""
+
+msgctxt "1828"
+msgid "博徒"
+msgstr ""
+
+msgctxt "1833"
+msgid "達人級で遊ぶ"
+msgstr ""
+
+msgctxt "1846"
+msgid "上級で遊ぶ"
+msgstr ""
+
+msgctxt "1857"
+msgid "中級で遊ぶ"
+msgstr ""
+
+msgctxt "1868"
+msgid "初級で遊ぶ"
+msgstr ""
+
+msgctxt "1879"
+msgid "やらない"
+msgstr ""

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1036"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1037"
+msgid "（何を注文するかな……）"
+msgstr ""
+
+msgctxt "1062"
+msgid "（何がいいかな……？）"
+msgstr ""
+
+msgctxt "1085"
+msgid "（何を注文しよか……？）"
+msgstr ""
+
+msgctxt "1110"
+msgid "（何頼もうかな？）"
+msgstr ""
+
+msgctxt "1129"
+msgid "（何にしようかな？）"
+msgstr ""
+
+msgctxt "1150"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1151"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1152"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1153"
+msgid ""
+"ありがとうございました。\n"
+"またのご利用をお待ちしています。"
+msgstr ""
+
+msgctxt "1212"
+msgid "またのご来店をおまちしています。"
+msgstr ""
+
+msgctxt "1292"
+msgid "桐生"
+msgstr ""
+
+msgctxt "1297"
+msgid "秋山"
+msgstr ""
+
+msgctxt "1302"
+msgid "冴島"
+msgstr ""
+
+msgctxt "1307"
+msgid "品田"
+msgstr ""
+
+msgctxt "1312"
+msgid "遥"
+msgstr ""
+
+msgctxt "1315"
+msgid "店員"
+msgstr ""
+
+msgctxt "1320"
+msgid "Talk_Ojigi"
+msgstr ""

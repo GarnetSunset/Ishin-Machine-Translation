@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "404"
+msgid "すんまへん　親分！"
+msgstr ""
+
+msgctxt "548"
+msgid "そいつがどうしても風呂に入れろいうて！"
+msgstr ""
+
+msgctxt "692"
+msgid "入口に貸切の札がかかっていたはずだが？"
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"そしたら　ワシが風呂屋に来る前に\n"
+"知らせに来とくんやったなぁ"
+msgstr ""
+
+msgctxt "980"
+msgid "わざわざ店まで来た客に帰れいうんか？"
+msgstr ""
+
+msgctxt "1124"
+msgid "チッ　入るんならさっさと入れ"
+msgstr ""
+
+msgctxt "1268"
+msgid "いつまでもそんなもん見せつけてんじゃねえ"
+msgstr ""
+
+msgctxt "1412"
+msgid "フン　サイの風呂屋いうんはお前か？"
+msgstr ""
+
+msgctxt "1556"
+msgid "とぼけても無駄やで"
+msgstr ""
+
+msgctxt "1700"
+msgid "ちいと調べてもらいたいことがあるんや"
+msgstr ""
+
+msgctxt "1844"
+msgid "ぅあっちゃあっ！！"
+msgstr ""
+
+msgctxt "1988"
+msgid ""
+"なんじゃこりゃあ！　このドアホ！\n"
+"はよ水で埋めんかい！！"
+msgstr ""
+
+msgctxt "2132"
+msgid "おい"
+msgstr ""
+
+msgctxt "2276"
+msgid "あ？"
+msgstr ""
+
+msgctxt "2420"
+msgid "どこの大将だか知らねえが……"
+msgstr ""
+
+msgctxt "2564"
+msgid "何をそんなにイラついてやがる"
+msgstr ""
+
+msgctxt "2708"
+msgid "なんやと？"
+msgstr ""
+
+msgctxt "2852"
+msgid "じゃあな"
+msgstr ""
+
+msgctxt "2996"
+msgid "ああ"
+msgstr ""
+
+msgctxt "3140"
+msgid ""
+"待てや　ワレ\n"
+"誰がイラついとるいうた？"
+msgstr ""
+
+msgctxt "3284"
+msgid "もういっぺん言うてみい"
+msgstr ""
+
+msgctxt "3428"
+msgid "誰がイラついとるって？"
+msgstr ""
+
+msgctxt "3572"
+msgid "手を離せ"
+msgstr ""
+
+msgctxt "3716"
+msgid "遊びじゃ済まなくなる"
+msgstr ""
+
+msgctxt "3860"
+msgid "望むところや"
+msgstr ""
+
+msgctxt "4004"
+msgid "おい"
+msgstr ""
+
+msgctxt "4148"
+msgid "少し騒がすぜ"
+msgstr ""
+
+msgctxt "4292"
+msgid "ったく　まいったなこりゃ"
+msgstr ""

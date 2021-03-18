@@ -1,0 +1,482 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "11832"
+msgid "……満足したか？"
+msgstr ""
+
+msgctxt "11849"
+msgid "斎藤よ……"
+msgstr ""
+
+msgctxt "11860"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11861"
+msgid ""
+"……感動じゃ！　斎藤！\n"
+"お前は舞踊の天才じゃあー！"
+msgstr ""
+
+msgctxt "11912"
+msgid "そ、そうか……？"
+msgstr ""
+
+msgctxt "11929"
+msgid ""
+"あぁ、わしより上手いんじゃないか!?\n"
+"すごいのう！　お前、踊りで食っていけるぞ！"
+msgstr ""
+
+msgctxt "12008"
+msgid ""
+"（うーむ、やはりどっちが接待されてるか\n"
+"　わからなくなってくるな……）"
+msgstr ""
+
+msgctxt "12079"
+msgid ""
+"さぁ、次の踊りじゃ！\n"
+"斎藤よ、もっと踊ってくれ！"
+msgstr ""
+
+msgctxt "12128"
+msgid "何？　まだ踊るのか？"
+msgstr ""
+
+msgctxt "12149"
+msgid "当然じゃ。わし、もっと斎藤の踊り見たい！"
+msgstr ""
+
+msgctxt "12190"
+msgid "うーん、しかたないな……"
+msgstr ""
+
+msgctxt "12215"
+msgid ""
+"……お前、踊るの下手じゃのう！\n"
+"がっはっは！"
+msgstr ""
+
+msgctxt "12260"
+msgid "……すまん。"
+msgstr ""
+
+msgctxt "12273"
+msgid ""
+"そう落ち込むな。見たところ、\n"
+"体を動かすこと自体は得意なようじゃからな。\n"
+"練習すればすぐ上手くなるぞ！"
+msgstr ""
+
+msgctxt "12376"
+msgid ""
+"（うーむ、やはりどっちが接待されてるか\n"
+"　わからなくなってくるな……）"
+msgstr ""
+
+msgctxt "12447"
+msgid ""
+"さぁ、次の踊りじゃ！\n"
+"斎藤よ、もっと踊ってくれ！"
+msgstr ""
+
+msgctxt "12496"
+msgid "何？　まだ踊るのか？"
+msgstr ""
+
+msgctxt "12517"
+msgid ""
+"当然じゃ。練習すれば上手くなると言っただろう！\n"
+"上手くなるまで踊りの稽古じゃ！"
+msgstr ""
+
+msgctxt "12596"
+msgid "むう……"
+msgstr ""
+
+msgctxt "12605"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12606"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12607"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12608"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12609"
+msgid ""
+"はぁ……　はぁ……\n"
+"踊り疲れた……"
+msgstr ""
+
+msgctxt "12644"
+msgid ""
+"なんじゃ斎藤！　もうへばったのか！\n"
+"だらしないのう！　がっはっは！"
+msgstr ""
+
+msgctxt "12711"
+msgid "さすがにもう踊れんぞ……"
+msgstr ""
+
+msgctxt "12736"
+msgid "そうか、結構結構……"
+msgstr ""
+
+msgctxt "12757"
+msgid "む……　むむぅぅぅーっ!?"
+msgstr ""
+
+msgctxt "12782"
+msgid "じ、爺さん!?　もしかしてまた……"
+msgstr ""
+
+msgctxt "12815"
+msgid ""
+"うむ！　斎藤の踊りを見ておったら、\n"
+"突然、創作意欲がとめどなくあふれ出てきたわい！"
+msgstr ""
+
+msgctxt "12898"
+msgid "俺の踊りで創作意欲が……"
+msgstr ""
+
+msgctxt "12923"
+msgid ""
+"ふぬぉぉぉ……　これはまた手に神が宿る兆し！\n"
+"すぐに紙と筆を用意せい！　今すぐじゃ！"
+msgstr ""
+
+msgctxt "13008"
+msgid "また神が!?　わ、わかった。"
+msgstr ""
+
+msgctxt "13035"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13036"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13037"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13038"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13039"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13040"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13041"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13042"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13043"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13044"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13045"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13046"
+msgid "ふぅ……　完成じゃ。"
+msgstr ""
+
+msgctxt "13067"
+msgid ""
+"（またもや一気に描き上げてしまった。\n"
+"　さすが芸術家の先生だな）"
+msgstr ""
+
+msgctxt "13132"
+msgid ""
+"斎藤よ、見よ！　このわしの作品を！\n"
+"お前の踊りを表現してみたぞ！"
+msgstr ""
+
+msgctxt "13197"
+msgid "（こ、これは……）"
+msgstr ""
+
+msgctxt "13216"
+msgid "（またもや、よくわからん……！）"
+msgstr ""
+
+msgctxt "13249"
+msgid ""
+"どうじゃ？　斎藤。\n"
+"立て続けにすごい作品ができてしまったぞ。"
+msgstr ""
+
+msgctxt "13310"
+msgid ""
+"すごい……\n"
+"たしかにすごいんだろうが……"
+msgstr ""
+
+msgctxt "13351"
+msgid ""
+"ほう、わかってくれるか。\n"
+"……して、どこがすごいと思った？"
+msgstr ""
+
+msgctxt "13410"
+msgid ""
+"大胆な中に見え隠れする優雅さだ。\n"
+"俺はそこが一番すごいと思ったな。"
+msgstr ""
+
+msgctxt "13477"
+msgid "優雅さ……？"
+msgstr ""
+
+msgctxt "13490"
+msgid ""
+"そうなんじゃ！　わしはこの絵から一番\n"
+"優雅さを感じ取ってもらいたかったんじゃよ！"
+msgstr ""
+
+msgctxt "13571"
+msgid "（よし、満足いく答えだったらしいな）"
+msgstr ""
+
+msgctxt "13608"
+msgid ""
+"斎藤よ、お前、\n"
+"ちぃと頑張れば芸術家目指せるんじゃないか？"
+msgstr ""
+
+msgctxt "13667"
+msgid "フッ、買いかぶりすぎだ。"
+msgstr ""
+
+msgctxt "13692"
+msgid ""
+"荒々しく表現された強さ……\n"
+"俺はそこが一番すごいと思ったな。"
+msgstr ""
+
+msgctxt "13753"
+msgid "荒々しい強さ……？"
+msgstr ""
+
+msgctxt "13772"
+msgid ""
+"はて、わしはこの絵で\n"
+"そんなもんを表現した覚えはないんじゃが……"
+msgstr ""
+
+msgctxt "13837"
+msgid ""
+"（どうやら的外れなことを\n"
+"　言ってしまったようだな……）"
+msgstr ""
+
+msgctxt "13894"
+msgid ""
+"はぁ……　斎藤。やっぱりお前は、\n"
+"芸術を見る目を鍛えなおしたほうがいいようじゃな。"
+msgstr ""
+
+msgctxt "13977"
+msgid "……すまん。"
+msgstr ""
+
+msgctxt "13990"
+msgid "……とにかくすごいな。"
+msgstr ""
+
+msgctxt "14013"
+msgid "…………"
+msgstr ""
+
+msgctxt "14022"
+msgid ""
+"がっはっは！　とにかくすごい、か！\n"
+"芸術なんて、そんなもんでいいのかもしれんのう！"
+msgstr ""
+
+msgctxt "14105"
+msgid "（何故かはわからないが、喜んでいるな……）"
+msgstr ""
+
+msgctxt "14148"
+msgid ""
+"さすが斎藤じゃ。結構結構。\n"
+"うん、褒めてくれてありがとうな。"
+msgstr ""
+
+msgctxt "14209"
+msgid "……あぁ。"
+msgstr ""
+
+msgctxt "14220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14222"
+msgid "よっ、斎藤！　待ってました！"
+msgstr ""
+
+msgctxt "14251"
+msgid "……だから茶化すんじゃない。"
+msgstr ""
+
+msgctxt "14280"
+msgid ""
+"（うーむ、結局舞踊を\n"
+"　踊るハメになってしまった。\n"
+"　仕方ない、１曲踊るか……）"
+msgstr ""
+
+msgctxt "14361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15896"
+msgid "Player"
+msgstr ""
+
+msgctxt "15903"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "15916"
+msgid "神田"
+msgstr ""
+
+msgctxt "15921"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "15930"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15938"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "15948"
+msgid "M_BUS_TLK_btl_aft_01_lp"
+msgstr ""
+
+msgctxt "15972"
+msgid "ADV_M_BUS_STAND"
+msgstr ""
+
+msgctxt "15988"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "16010"
+msgid "M_BUS_TLK_seiza_to_stand"
+msgstr ""
+
+msgctxt "16035"
+msgid "ADV_P_KRU_STAND"
+msgstr ""
+
+msgctxt "16051"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "16073"
+msgid "P_KRU_SS_stand_pet_esa_en"
+msgstr ""
+
+msgctxt "16099"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "16110"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "16122"
+msgid "ADV_P_KRU_AGURA"
+msgstr ""
+
+msgctxt "16138"
+msgid "P_KRU_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "16160"
+msgid "ACDEV7020"
+msgstr ""
+
+msgctxt "16170"
+msgid "M_OLD_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "16192"
+msgid "M_OLD_SS_hirameki_pic"
+msgstr ""
+
+msgctxt "16214"
+msgid "2d_yk_ss-09_01"
+msgstr ""
+
+msgctxt "16229"
+msgid "ADV_M_CHO_STAND"
+msgstr ""
+
+msgctxt "16245"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "16256"
+msgid "大胆な中に見え隠れする優雅さ"
+msgstr ""
+
+msgctxt "16285"
+msgid "荒々しく表現された強さ"
+msgstr ""
+
+msgctxt "16308"
+msgid "とにかくすごい"
+msgstr ""
+
+msgctxt "16323"
+msgid "Talk_Smile"
+msgstr ""

@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "177612"
+msgid "一（はじめ）さん？"
+msgstr ""
+
+msgctxt "177756"
+msgid "一（はじめ）さん！！"
+msgstr ""
+
+msgctxt "177900"
+msgid "一（はじめ）さん！！"
+msgstr ""
+
+msgctxt "178044"
+msgid "おりょう？"
+msgstr ""
+
+msgctxt "178188"
+msgid "何だ？　朝から騒々しい奴だな"
+msgstr ""
+
+msgctxt "178332"
+msgid "その格好……"
+msgstr ""
+
+msgctxt "178476"
+msgid "立ち止まるのはもうやめだ"
+msgstr ""
+
+msgctxt "178620"
+msgid "俺には"
+msgstr ""
+
+msgctxt "178764"
+msgid "まだやるべきことがある"
+msgstr ""
+
+msgctxt "178908"
+msgid "そうか"
+msgstr ""
+
+msgctxt "179052"
+msgid "足　寒いだろ"
+msgstr ""
+
+msgctxt "179196"
+msgid ""
+"風邪引くなよ\n"
+"晩飯と風呂　頼んだぜ"
+msgstr ""
+
+msgctxt "179340"
+msgid "うん"
+msgstr ""
+
+msgctxt "179484"
+msgid "いってらっしゃい"
+msgstr ""

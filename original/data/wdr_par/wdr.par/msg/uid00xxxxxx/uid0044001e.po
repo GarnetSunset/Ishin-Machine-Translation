@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5468"
+msgid "すまんが、卵を１つ分けてもらえないか？"
+msgstr ""
+
+msgctxt "5507"
+msgid "なんやいきなり？"
+msgstr ""
+
+msgctxt "5524"
+msgid "どうすんねん。　食べるんか？"
+msgstr ""
+
+msgctxt "5553"
+msgid ""
+"あぁ、ばあさんが死ぬ前に一度食べたいと\n"
+"言うんで食わせてやりたいんだ。"
+msgstr ""
+
+msgctxt "5624"
+msgid ""
+"へぇ。　まぁそないにしょっちゅう\n"
+"食べれるもんとちゃうからな。"
+msgstr ""
+
+msgctxt "5687"
+msgid ""
+"そういう事なら、これ、持っていき。\n"
+"生みたてをゆで卵にしたやつや。　ウマイで～！"
+msgstr ""
+
+msgctxt "5768"
+msgid "冥土の土産には申し分ないやろ～！"
+msgstr ""
+
+msgctxt "5801"
+msgid "「ゆで卵」を１つ手に入れた。"
+msgstr ""
+
+msgctxt "5830"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5831"
+msgid "すまないな。"
+msgstr ""
+
+msgctxt "5844"
+msgid "はよ、そのばあさんに持ってってやり。"
+msgstr ""
+
+msgctxt "5881"
+msgid ""
+"すまんが、\n"
+"また卵を１つ分けてもらえないか？"
+msgstr ""
+
+msgctxt "5926"
+msgid "なんや？　今度は危篤のじいさんか？"
+msgstr ""
+
+msgctxt "5961"
+msgid "いや、そうじゃないんだが……"
+msgstr ""
+
+msgctxt "5990"
+msgid ""
+"かまわへんけど、そう何個も何個も\n"
+"タダでやるわけにはいかんで～。"
+msgstr ""
+
+msgctxt "6055"
+msgid ""
+"卵は一応、高級品やさかいになぁ。\n"
+"１個５０００文でどうや？"
+msgstr ""
+
+msgctxt "6114"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6115"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "6126"
+msgid "じゃぁ、５０００文で！"
+msgstr ""
+
+msgctxt "6149"
+msgid "「５０００文」支払った"
+msgstr ""
+
+msgctxt "6172"
+msgid "ほんなら、これ、約束の「ゆで卵」な。"
+msgstr ""
+
+msgctxt "6209"
+msgid "「ゆで卵」を１つ手に入れた"
+msgstr ""
+
+msgctxt "6236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6237"
+msgid ""
+"……って、お金持ってないやないか！\n"
+"ちゃんと持ってきてや～。"
+msgstr ""
+
+msgctxt "6298"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6299"
+msgid ""
+"少し高いな……\n"
+"１個４０００文でどうだ？"
+msgstr ""
+
+msgctxt "6340"
+msgid ""
+"うーん、しゃーない！\n"
+"じゃぁ４５００文でどうやっ！"
+msgstr ""
+
+msgctxt "6391"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6392"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "6403"
+msgid "じゃぁ、４５００文で！"
+msgstr ""
+
+msgctxt "6426"
+msgid "「４５００文」支払った"
+msgstr ""
+
+msgctxt "6449"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6450"
+msgid ""
+"少し高いな……\n"
+"１個２５００文でどうだ？"
+msgstr ""
+
+msgctxt "6491"
+msgid "じゃぁ、２５００文で！"
+msgstr ""
+
+msgctxt "6514"
+msgid "「２５００文」支払った"
+msgstr ""
+
+msgctxt "6537"
+msgid ""
+"少し高いな……\n"
+"１個３０００文でどうだ？"
+msgstr ""
+
+msgctxt "6578"
+msgid ""
+"うーん、しゃーない！\n"
+"じゃぁ３５００文でどうやっ！"
+msgstr ""
+
+msgctxt "6629"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6630"
+msgid "わかった。"
+msgstr ""
+
+msgctxt "6641"
+msgid "じゃぁ、３５００文で！"
+msgstr ""
+
+msgctxt "6664"
+msgid "「３５００文」支払った"
+msgstr ""
+
+msgctxt "6687"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6688"
+msgid ""
+"少し高いな……\n"
+"１個２０００文でどうだ？"
+msgstr ""
+
+msgctxt "6729"
+msgid "じゃぁ、２０００文で！"
+msgstr ""
+
+msgctxt "6752"
+msgid "「２０００文」支払った"
+msgstr ""
+
+msgctxt "6775"
+msgid ""
+"少し高いな……\n"
+"１個１０００文でどうだ？"
+msgstr ""
+
+msgctxt "6816"
+msgid "じゃぁ、１０００文で！"
+msgstr ""
+
+msgctxt "6839"
+msgid "「１０００文」支払った"
+msgstr ""
+
+msgctxt "6862"
+msgid ""
+"少し高いな……\n"
+"１個５００文でどうだ？"
+msgstr ""
+
+msgctxt "6901"
+msgid ""
+"５００文やて!?　あんた卵をなんやと思てんねん!?\n"
+"ふざけんのもええ加減にせぇや!!"
+msgstr ""
+
+msgctxt "6980"
+msgid ""
+"５０００文や！\n"
+"５０００文でしか売られへん。"
+msgstr ""
+
+msgctxt "7080"
+msgid "桐生"
+msgstr ""
+
+msgctxt "7085"
+msgid "飼い主"
+msgstr ""
+
+msgctxt "7092"
+msgid "値切る"
+msgstr ""
+
+msgctxt "7099"
+msgid "５０００文で購入"
+msgstr ""
+
+msgctxt "7116"
+msgid "４０００文！"
+msgstr ""
+
+msgctxt "7129"
+msgid "３０００文！"
+msgstr ""
+
+msgctxt "7142"
+msgid "２０００文！"
+msgstr ""
+
+msgctxt "7155"
+msgid "もっと値切る"
+msgstr ""
+
+msgctxt "7168"
+msgid "４５００文で購入"
+msgstr ""
+
+msgctxt "7185"
+msgid "２５００文！"
+msgstr ""
+
+msgctxt "7198"
+msgid "３５００文で購入"
+msgstr ""
+
+msgctxt "7215"
+msgid "１０００文！"
+msgstr ""
+
+msgctxt "7228"
+msgid "５００文！"
+msgstr ""

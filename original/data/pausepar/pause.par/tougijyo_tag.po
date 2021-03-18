@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "チーム・ザ・ドラゴン"
+msgstr ""
+
+msgctxt "NAME_1"
+msgid "チーム・ザ・ハヤブサ"
+msgstr ""
+
+msgctxt "NAME_2"
+msgid "チーム・ザ・タイガー"
+msgstr ""
+
+msgctxt "NAME_3"
+msgid "チーム・ザ・クラッシャー"
+msgstr ""
+
+msgctxt "NAME_4"
+msgid "ザ・サンクチュアリ"
+msgstr ""
+
+msgctxt "NAME_5"
+msgid "エリート連合"
+msgstr ""
+
+msgctxt "NAME_6"
+msgid "反逆力士会"
+msgstr ""
+
+msgctxt "NAME_7"
+msgid "ヘル・インパルス"
+msgstr ""
+
+msgctxt "NAME_8"
+msgid "クールマッドキラーズ"
+msgstr ""
+
+msgctxt "NAME_9"
+msgid "ブラック・ヒーローズ"
+msgstr ""
+
+msgctxt "NAME_10"
+msgid "真・双空拳"
+msgstr ""
+
+msgctxt "NAME_11"
+msgid "暴走超特急コンビ"
+msgstr ""
+
+msgctxt "NAME_12"
+msgid "神室愚連隊"
+msgstr ""
+
+msgctxt "NAME_13"
+msgid "イーサン＆アーサン"
+msgstr ""
+
+msgctxt "NAME_14"
+msgid "殺戮魚雷ブラザーズ"
+msgstr ""
+
+msgctxt "NAME_15"
+msgid "マッハパンチャーズ"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_0"
+msgid "桐生一馬プレゼンツ"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_1"
+msgid "秋山駿プレゼンツ"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_2"
+msgid "冴島大河プレゼンツ"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_3"
+msgid "品田辰雄プレゼンツ"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_4"
+msgid "舞い戻った闘技場の殿堂"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_5"
+msgid "選ばれし天才達"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_6"
+msgid "驚愕の張り手地獄"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_7"
+msgid "天地を揺るがす二人の悪魔"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_8"
+msgid "泣く子も黙る名門チーム"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_9"
+msgid "黒く染まった英雄"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_10"
+msgid "神の手刀と悪魔の蹴り"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_11"
+msgid "冥界への直通列車"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_12"
+msgid "手を組んだアイス&ファイヤー"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_13"
+msgid "二倍で中国八千年"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_14"
+msgid "着弾率200%%"
+msgstr ""
+
+msgctxt "ANOTHER_NAME_15"
+msgid "結ばれた二つの拳"
+msgstr ""

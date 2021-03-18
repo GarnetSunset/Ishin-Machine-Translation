@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6216"
+msgid "（……今はただ、酒が飲みたい……）"
+msgstr ""
+
+msgctxt "6251"
+msgid ""
+"（福々屋にでも行くか……\n"
+"　伏見一番街だったな）"
+msgstr ""
+
+msgctxt "6300"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6301"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6302"
+msgid "じゃあ、武市は……"
+msgstr ""
+
+msgctxt "6321"
+msgid ""
+"ああ……\n"
+"土佐の大殿、山内容堂公の裁きで\n"
+"切腹に処されたらしい。"
+msgstr ""
+
+msgctxt "6386"
+msgid ""
+"岡田以蔵を使った京での幕府要人達の暗殺……\n"
+"その首謀者としてだ。"
+msgstr ""
+
+msgctxt "6451"
+msgid "……"
+msgstr ""
+
+msgctxt "6456"
+msgid ""
+"……あの以蔵が土佐に連行された後、\n"
+"洗いざらい吐いちまったらしい。"
+msgstr ""
+
+msgctxt "6523"
+msgid ""
+"自分が京で起こした暗殺は全て、\n"
+"武市半平太の指示によるものだとな。"
+msgstr ""
+
+msgctxt "6590"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6591"
+msgid "おい、どこ行く気だ。"
+msgstr ""
+
+msgctxt "6612"
+msgid "……"
+msgstr ""
+
+msgctxt "6617"
+msgid ""
+"土佐に帰る\n"
+"なんて言うつもりじゃねぇだろうな。"
+msgstr ""
+
+msgctxt "6664"
+msgid "……"
+msgstr ""
+
+msgctxt "6669"
+msgid ""
+"お前は脱藩の身だ。\n"
+"今土佐にいった所で、武市と同じように\n"
+"処刑されるだけだ。"
+msgstr ""
+
+msgctxt "6746"
+msgid "そんなことは分かっている、だが……！"
+msgstr ""
+
+msgctxt "6783"
+msgid ""
+"とにかく落ち着くんだ。武市のこの一件、\n"
+"……俺は、１年前東洋様の暗殺を仕組んだ黒幕が\n"
+"また動き出したんじゃねえかと思っている。"
+msgstr ""
+
+msgctxt "6910"
+msgid "え……？"
+msgstr ""
+
+msgctxt "6919"
+msgid "長いこと江戸にいたわりに容堂公の動きが早すぎる。"
+msgstr ""
+
+msgctxt "6968"
+msgid ""
+"以蔵の逮捕から拷問まで武市を狙い撃ちだ。\n"
+"どうやら容堂公のそばにそれをそそのかしている\n"
+"人間がいると見える。"
+msgstr ""
+
+msgctxt "7077"
+msgid "それが……　親っさんを殺した黒幕だと？"
+msgstr ""
+
+msgctxt "7116"
+msgid ""
+"吉田東洋の一派を排除しようとする勢力なのは\n"
+"間違いねえだろうな。"
+msgstr ""
+
+msgctxt "7181"
+msgid ""
+"そして、その読みが当たってるとしたら……\n"
+"次の標的はお前だ。"
+msgstr ""
+
+msgctxt "7242"
+msgid ""
+"案外、そいつはお前が土佐に戻ってくるのを\n"
+"待ち構えているかもしれねえな。"
+msgstr ""
+
+msgctxt "7315"
+msgid "…………"
+msgstr ""
+
+msgctxt "7324"
+msgid ""
+"逆に言うと、その黒幕にとって一番厄介なことは……\n"
+"お前がこのまま京で覆面の男を\n"
+"探り当てることなんじゃねえか？"
+msgstr ""
+
+msgctxt "7435"
+msgid ""
+"あんたが言いたいのはそういうことか。\n"
+"結局、今俺ができることは、京にしかないと……？"
+msgstr ""
+
+msgctxt "7520"
+msgid "その前にまず頭を冷やすことだがな。"
+msgstr ""
+
+msgctxt "7555"
+msgid "……くそ！"
+msgstr ""
+
+msgctxt "7566"
+msgid ""
+"坂本……　土佐には俺が行く。\n"
+"代わりに俺が武市の死の裏に何があったのか、\n"
+"調べてくる。"
+msgstr ""
+
+msgctxt "7653"
+msgid "あんたが？"
+msgstr ""
+
+msgctxt "7664"
+msgid ""
+"俺だってな、こんなとこで引いてられねぇんだよ……\n"
+"東洋様の死、武市の死、その裏に何があるのか……"
+msgstr ""
+
+msgctxt "7761"
+msgid ""
+"それを突き止めないことには、\n"
+"俺の人生も止まったままだ。"
+msgstr ""
+
+msgctxt "7818"
+msgid "このままじゃ先に進めねぇんだよ……"
+msgstr ""
+
+msgctxt "7853"
+msgid ""
+"あんたも俺も、土佐に生まれ、土佐に裏切られ、\n"
+"翻弄された男ってわけか……"
+msgstr ""
+
+msgctxt "7926"
+msgid ""
+"ああ……　とにかくお前は京にいろ。\n"
+"武市が死んだばかりでいきりたつのはわかる。"
+msgstr ""
+
+msgctxt "8005"
+msgid ""
+"だが今は動くときじゃない。\n"
+"今日は新選組にも顔を出さずにおとなしくしてろ。"
+msgstr ""
+
+msgctxt "8080"
+msgid ""
+"わかった……\n"
+"土佐でなにかをつかめたら、すぐに知らせてくれ。"
+msgstr ""
+
+msgctxt "8141"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9384"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "9389"
+msgid "kiryu_c09_015_01"
+msgstr ""
+
+msgctxt "9406"
+msgid "中岡"
+msgstr ""
+
+msgctxt "9411"
+msgid "kaiwabgm_fuon_07"
+msgstr ""
+
+msgctxt "9428"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9437"
+msgid "date_c09_015_01b"
+msgstr ""
+
+msgctxt "9454"
+msgid "date_c09_015_01bb"
+msgstr ""
+
+msgctxt "9472"
+msgid "kiryu_c09_015_02"
+msgstr ""
+
+msgctxt "9489"
+msgid "date_c09_015_02"
+msgstr ""
+
+msgctxt "9505"
+msgid "date_c09_015_02b"
+msgstr ""
+
+msgctxt "9522"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "9544"
+msgid "P_KRU_TLK_agura_to_stand"
+msgstr ""
+
+msgctxt "9569"
+msgid "date_c09_015_03"
+msgstr ""
+
+msgctxt "9585"
+msgid "kiryu_c09_015_03"
+msgstr ""
+
+msgctxt "9602"
+msgid "date_c09_015_04"
+msgstr ""
+
+msgctxt "9618"
+msgid "kiryu_c09_015_04"
+msgstr ""
+
+msgctxt "9635"
+msgid "date_c09_015_05"
+msgstr ""
+
+msgctxt "9651"
+msgid "kiryu_c09_015_05"
+msgstr ""
+
+msgctxt "9668"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9676"
+msgid "date_c09_015_06b"
+msgstr ""
+
+msgctxt "9693"
+msgid "kiryu_c09_015_06"
+msgstr ""
+
+msgctxt "9710"
+msgid "kaiwabgm_fuon_09"
+msgstr ""
+
+msgctxt "9727"
+msgid "date_c09_015_07"
+msgstr ""
+
+msgctxt "9743"
+msgid "date_c09_015_07b"
+msgstr ""
+
+msgctxt "9760"
+msgid "kiryu_c09_015_07"
+msgstr ""
+
+msgctxt "9777"
+msgid "date_c09_015_08"
+msgstr ""
+
+msgctxt "9793"
+msgid "date_c09_015_08b"
+msgstr ""
+
+msgctxt "9810"
+msgid "date_c09_015_08c"
+msgstr ""
+
+msgctxt "9827"
+msgid "date_c09_015_09"
+msgstr ""
+
+msgctxt "9843"
+msgid "kiryu_c09_015_09"
+msgstr ""
+
+msgctxt "9860"
+msgid "date_c09_015_10"
+msgstr ""
+
+msgctxt "9876"
+msgid "P_KRU_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "9898"
+msgid "P_KRU_TLK_stand_to_agura"
+msgstr ""
+
+msgctxt "9923"
+msgid "kiryu_c09_015_10"
+msgstr ""
+
+msgctxt "9940"
+msgid "date_c09_015_11"
+msgstr ""
+
+msgctxt "9956"
+msgid "kiryu_c09_015_11"
+msgstr ""
+
+msgctxt "9973"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "9995"
+msgid "M_BUS_TLK_agura_to_stand"
+msgstr ""
+
+msgctxt "10020"
+msgid "date_c09_015_12"
+msgstr ""
+
+msgctxt "10036"
+msgid "date_c09_015_12b"
+msgstr ""
+
+msgctxt "10053"
+msgid "date_c09_015_12c"
+msgstr ""
+
+msgctxt "10070"
+msgid "ADV_M_BUS_STAND"
+msgstr ""
+
+msgctxt "10086"
+msgid "kiryu_c09_015_12"
+msgstr ""
+
+msgctxt "10103"
+msgid "date_c09_015_13"
+msgstr ""
+
+msgctxt "10119"
+msgid "date_c09_015_13b"
+msgstr ""
+
+msgctxt "10136"
+msgid "kiryu_c09_015_13"
+msgstr ""

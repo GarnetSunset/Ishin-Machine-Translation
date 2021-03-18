@@ -1,0 +1,938 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "23040"
+msgid ""
+"釣りってやっぱり難しいですね……\n"
+"今日も釣れてなくて、このままじゃ嫁に怒られる……\n"
+"あの、もしよければ、一匹譲ってもらえません？"
+msgstr ""
+
+msgctxt "23169"
+msgid ""
+"困ったなぁ……\n"
+"嫁に殺されかねないよ……　どうしよう……"
+msgstr ""
+
+msgctxt "23226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23228"
+msgid ""
+"こんな良い魚を……　ありがとうございます！\n"
+"次回こそ、自分で巨大マグロを\n"
+"釣り上げてみせますよ……！"
+msgstr ""
+
+msgctxt "23329"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23330"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23331"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23332"
+msgid "集中……　集中……"
+msgstr ""
+
+msgctxt "23351"
+msgid "どうだ？　釣れそうか？"
+msgstr ""
+
+msgctxt "23374"
+msgid ""
+"いやー、はは……\n"
+"全く手ごたえがありません……"
+msgstr ""
+
+msgctxt "23421"
+msgid ""
+"あ、そうだ。おかげさまで妻が、\n"
+"私が釣りを続けること、許してくれました。"
+msgstr ""
+
+msgctxt "23494"
+msgid "それはよかったな。"
+msgstr ""
+
+msgctxt "23513"
+msgid "えぇ、ありがとうございます。"
+msgstr ""
+
+msgctxt "23542"
+msgid ""
+"妻のためにも、自分の力で\n"
+"魚を釣って帰ってやりたいと思うんですが、\n"
+"いやはや、なかなか難しいですね……"
+msgstr ""
+
+msgctxt "23645"
+msgid "……あんた、釣りを始めてどれくらいになるんだ？"
+msgstr ""
+
+msgctxt "23692"
+msgid "はは……　かれこれ５年くらいですかね。"
+msgstr ""
+
+msgctxt "23731"
+msgid ""
+"ご、５年？\n"
+"５年もやって、１匹も魚を釣ったことがないのか？"
+msgstr ""
+
+msgctxt "23790"
+msgid "お恥ずかしい限りです……"
+msgstr ""
+
+msgctxt "23815"
+msgid ""
+"そこまでやって釣れないなんて、おかしくないか？\n"
+"……何か問題があるんじゃないか？"
+msgstr ""
+
+msgctxt "23896"
+msgid ""
+"うぐっ……　ははは……\n"
+"やっぱり私には才能がないんですかね……"
+msgstr ""
+
+msgctxt "23959"
+msgid ""
+"才能とかそういう段階ではないと思うが……\n"
+"ところで、餌は何を使ってるんだ？"
+msgstr ""
+
+msgctxt "24034"
+msgid "へ？　餌？"
+msgstr ""
+
+msgctxt "24045"
+msgid "ああ。餌。"
+msgstr ""
+
+msgctxt "24056"
+msgid "ネギですけど。"
+msgstr ""
+
+msgctxt "24071"
+msgid "釣れるわけがないだろう。"
+msgstr ""
+
+msgctxt "24096"
+msgid ""
+"えええ!?　昔、知り合いの爺さんが、\n"
+"「ネギは体にええんやで」って言ってたので\n"
+"餌にしていたのですが……"
+msgstr ""
+
+msgctxt "24199"
+msgid ""
+"くそ……！\n"
+"騙しやがったな！　あのジジイ！"
+msgstr ""
+
+msgctxt "24242"
+msgid ""
+"いや。その爺さんが\n"
+"間違っていたわけではないと思うが……\n"
+"しかたない、俺が釣りの基礎から教えてやる。"
+msgstr ""
+
+msgctxt "24343"
+msgid "は、はい……"
+msgstr ""
+
+msgctxt "24356"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24357"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24358"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24359"
+msgid ""
+"な、なるほど。小さなエビやイカ……\n"
+"魚が普段食べてそうなものを\n"
+"餌にしないといけなかったんですね……"
+msgstr ""
+
+msgctxt "24460"
+msgid ""
+"……むしろ５年もやってて、\n"
+"なぜそこに気付かなかったんだ？"
+msgstr ""
+
+msgctxt "24519"
+msgid ""
+"爺さんを信じ切っていたもので……\n"
+"くそっ！　騙しやがったな、あのジジイ!!\n"
+"俺の５年間を返せ!!"
+msgstr ""
+
+msgctxt "24612"
+msgid "…………"
+msgstr ""
+
+msgctxt "24621"
+msgid "お、さっそく魚がかかったみたいだぞ。"
+msgstr ""
+
+msgctxt "24658"
+msgid ""
+"へっ？　あ、本当だ！　竿がピクンピクンしてます！\n"
+"い、いったい私はどうすれば!?"
+msgstr ""
+
+msgctxt "24737"
+msgid "合わせるんだ！"
+msgstr ""
+
+msgctxt "24752"
+msgid "え、何……？　あ、あわせ……？"
+msgstr ""
+
+msgctxt "24783"
+msgid ""
+"あ、あんたそれでも釣り人か！\n"
+"まず竿を上にだな……"
+msgstr ""
+
+msgctxt "24834"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24835"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24836"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24837"
+msgid ""
+"つ……　釣れた！　私にもやっと魚が釣れましたよ！\n"
+"こんなの初めてです！　驚きですよ！"
+msgstr ""
+
+msgctxt "24922"
+msgid ""
+"俺は５年間もネギを餌にしていた\n"
+"あんたに驚いたが……"
+msgstr ""
+
+msgctxt "24975"
+msgid ""
+"……あなたのおかげで、釣りを続けることも、\n"
+"自分の力で魚を釣ることもできるようになりました。"
+msgstr ""
+
+msgctxt "25068"
+msgid ""
+"これからは自分で釣った魚を、\n"
+"妻に食べさせてあげることができる。\n"
+"そう思うと……　楽しみで仕方ありません。"
+msgstr ""
+
+msgctxt "25175"
+msgid ""
+"それはよかったな。\n"
+"まぁ……　これからは釣りについて\n"
+"ちゃんと勉強したほうがいいな。"
+msgstr ""
+
+msgctxt "25260"
+msgid ""
+"はい……　ごもっともです。\n"
+"もう爺さんからの偽情報には騙されません！\n"
+"あのジジイめ……！"
+msgstr ""
+
+msgctxt "25349"
+msgid ""
+"いや、ジジイが間違っているわけでは\n"
+"ないんだがな……"
+msgstr ""
+
+msgctxt "25402"
+msgid ""
+"それにしても、魚を釣り上げる瞬間って\n"
+"すごく気持ちいいですね！"
+msgstr ""
+
+msgctxt "25465"
+msgid ""
+"私、釣りのこと、\n"
+"より一層、好きになってしまいましたよ！\n"
+"あの……　本当にありがとうございました!!"
+msgstr ""
+
+msgctxt "25564"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25565"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25566"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25567"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25568"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25569"
+msgid "ようし……"
+msgstr ""
+
+msgctxt "25580"
+msgid ""
+"どうだ？　そろそろ奥さん、\n"
+"あんたが釣りを続けること、許してくれそうか？"
+msgstr ""
+
+msgctxt "25653"
+msgid "えぇ！　おかげさまで！"
+msgstr ""
+
+msgctxt "25676"
+msgid "ほう。"
+msgstr ""
+
+msgctxt "25683"
+msgid ""
+"今回、魚を釣って帰ることができたら、\n"
+"あなたの腕が多少は本物であることを認めて、\n"
+"今後釣りを続けてもいい、と言ってくれました。"
+msgstr ""
+
+msgctxt "25810"
+msgid ""
+"いつまでたっても\n"
+"完全に認めてはくれなさそうだな……"
+msgstr ""
+
+msgctxt "25863"
+msgid ""
+"はい……\n"
+"でも、きっとこれが最後のお願いになります。\n"
+"あなたの魚を譲ってはいただけないでしょうか？"
+msgstr ""
+
+msgctxt "25962"
+msgid "余った魚があれば、持ってくるとしよう。"
+msgstr ""
+
+msgctxt "26001"
+msgid "お願いします……"
+msgstr ""
+
+msgctxt "26018"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26019"
+msgid "これでいいか？"
+msgstr ""
+
+msgctxt "26034"
+msgid "おぉ！"
+msgstr ""
+
+msgctxt "26041"
+msgid "……ありがとうございます。"
+msgstr ""
+
+msgctxt "26068"
+msgid ""
+"あなたのおかげで、\n"
+"私、これからも釣りを続けることができそうです。"
+msgstr ""
+
+msgctxt "26135"
+msgid ""
+"……けどやっぱり、自分の釣った魚で\n"
+"妻を納得させることができたらよかったな。"
+msgstr ""
+
+msgctxt "26212"
+msgid "…………"
+msgstr ""
+
+msgctxt "26221"
+msgid ""
+"あ、せっかく手伝っていただいたのに\n"
+"こんなこと言ってすいません……"
+msgstr ""
+
+msgctxt "26288"
+msgid "いや、気にしていない。"
+msgstr ""
+
+msgctxt "26311"
+msgid ""
+"私だって釣り人のはしくれですからね……\n"
+"いつか、自分の手で魚を釣ってみたいな……"
+msgstr ""
+
+msgctxt "26392"
+msgid "それでは。"
+msgstr ""
+
+msgctxt "26403"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26404"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26405"
+msgid "はぁ……"
+msgstr ""
+
+msgctxt "26414"
+msgid "調子はどうだ？"
+msgstr ""
+
+msgctxt "26429"
+msgid "あぁ、あなたは！"
+msgstr ""
+
+msgctxt "26446"
+msgid ""
+"……お願いです！　あなたの釣った魚、\n"
+"また譲っていただけませんか？"
+msgstr ""
+
+msgctxt "26513"
+msgid ""
+"何？　まだ奥さん、\n"
+"あんたが釣りをすること許してくれてないのか？"
+msgstr ""
+
+msgctxt "26578"
+msgid ""
+"そうなんです……　この前魚を釣って帰ったのは\n"
+"まぐれ当たりだと思ってるみたいで……"
+msgstr ""
+
+msgctxt "26661"
+msgid ""
+"実際はあなたから頂いた魚を持って帰っただけなので\n"
+"まぐれよりひどいんですが……"
+msgstr ""
+
+msgctxt "26740"
+msgid ""
+"お願いです。妻が信じてくれるまで、\n"
+"魚を譲ってくれないでしょうか？"
+msgstr ""
+
+msgctxt "26807"
+msgid "余った魚があれば、持ってくるとしよう。"
+msgstr ""
+
+msgctxt "26846"
+msgid "お願いします……"
+msgstr ""
+
+msgctxt "26863"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26864"
+msgid "これでいいか？"
+msgstr ""
+
+msgctxt "26879"
+msgid "おぉ！　これはまた活きのよさそうな……"
+msgstr ""
+
+msgctxt "26918"
+msgid ""
+"ようし、この魚を妻のもとへ持って帰れば、\n"
+"これからも釣りを続けてもいいと言ってくれるはず！"
+msgstr ""
+
+msgctxt "27009"
+msgid "本当にありがとうございます。"
+msgstr ""
+
+msgctxt "27038"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27039"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27040"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27041"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27042"
+msgid "はぁ……"
+msgstr ""
+
+msgctxt "27051"
+msgid "調子はどうだ？"
+msgstr ""
+
+msgctxt "27066"
+msgid "あぁ、あなたは！"
+msgstr ""
+
+msgctxt "27083"
+msgid ""
+"……お願いです！　あなたの釣った魚、\n"
+"また譲っていただけませんか？"
+msgstr ""
+
+msgctxt "27150"
+msgid ""
+"何？　まだ奥さん、\n"
+"あんたが釣りをすること許してくれてないのか？"
+msgstr ""
+
+msgctxt "27215"
+msgid ""
+"そうなんです……　この前魚を釣って帰ったのは\n"
+"まぐれ当たりだと思ってるみたいで……"
+msgstr ""
+
+msgctxt "27298"
+msgid ""
+"実際はあなたから頂いた魚を持って帰っただけなので\n"
+"まぐれよりひどいんですが……"
+msgstr ""
+
+msgctxt "27377"
+msgid ""
+"お願いです。妻が信じてくれるまで、\n"
+"魚を譲ってくれないでしょうか？"
+msgstr ""
+
+msgctxt "27444"
+msgid "余った魚があれば、持ってくるとしよう。"
+msgstr ""
+
+msgctxt "27483"
+msgid "お願いします……"
+msgstr ""
+
+msgctxt "27500"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27501"
+msgid "これでいいか？"
+msgstr ""
+
+msgctxt "27516"
+msgid "おぉ！　これはまた活きのよさそうな……"
+msgstr ""
+
+msgctxt "27555"
+msgid ""
+"ようし、この魚を妻のもとへ持って帰れば、\n"
+"これからも釣りを続けてもいいと言ってくれるはず！"
+msgstr ""
+
+msgctxt "27646"
+msgid "本当にありがとうございます。"
+msgstr ""
+
+msgctxt "27675"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27676"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27677"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27678"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27679"
+msgid "今日こそは……"
+msgstr ""
+
+msgctxt "27694"
+msgid "どうだ？　釣れそうか？"
+msgstr ""
+
+msgctxt "27717"
+msgid "いやー、はは……　さっぱりです……"
+msgstr ""
+
+msgctxt "27752"
+msgid "余った魚があれば、持ってくるとしよう。"
+msgstr ""
+
+msgctxt "27791"
+msgid "お願いします……"
+msgstr ""
+
+msgctxt "27808"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27809"
+msgid "余った魚を持ってきたぞ。"
+msgstr ""
+
+msgctxt "27834"
+msgid "おぉ！"
+msgstr ""
+
+msgctxt "27841"
+msgid "これはまた活きのよさそうな……"
+msgstr ""
+
+msgctxt "27872"
+msgid ""
+"ようし、この魚を妻のもとへ持って帰れば、\n"
+"これからも釣りを続けてもいいと言ってくれるはず！"
+msgstr ""
+
+msgctxt "27963"
+msgid ""
+"いやー、助かりました。\n"
+"おかげさまで首の皮一枚つながりましたよ。"
+msgstr ""
+
+msgctxt "28028"
+msgid "フッ、おおげさだな。"
+msgstr ""
+
+msgctxt "28049"
+msgid ""
+"とんでもない！　それくらい深刻だったんですよ！\n"
+"……本当にありがとうございます。"
+msgstr ""
+
+msgctxt "28130"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28131"
+msgid ""
+"「崖っぷち釣り人」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「崖っぷち釣り人」と交流してみましょう。"
+msgstr ""
+
+msgctxt "28356"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28357"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28358"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28359"
+msgid "はぁぁ……　どうしよう……"
+msgstr ""
+
+msgctxt "28386"
+msgid ""
+"……どうかしたのか？\n"
+"ひどく落ち込んでいるようだが。"
+msgstr ""
+
+msgctxt "28439"
+msgid ""
+"え、えぇ……\n"
+"実は、今日こそは魚を釣って帰らないと、\n"
+"生きがいである釣りを、やめなければならんのです。"
+msgstr ""
+
+msgctxt "28542"
+msgid "……どういうことだ？"
+msgstr ""
+
+msgctxt "28563"
+msgid ""
+"……私、釣りが大好きなんですけどね。\n"
+"腕の方は下手っぴで、今まで魚が釣れたことなど\n"
+"一度だってありゃしないんですよ……"
+msgstr ""
+
+msgctxt "28682"
+msgid "い、一度もないのか？"
+msgstr ""
+
+msgctxt "28703"
+msgid ""
+"はい……　時間も労力もかかるくせに\n"
+"おかずの一品も釣ってこない、と。\n"
+"妻からずーっと文句を言われ続けてたんですが……"
+msgstr ""
+
+msgctxt "28820"
+msgid ""
+"ついに、積もり積もった妻の鬱憤が爆発しまして。\n"
+"今回釣れなかったら今後一切釣りはしないと、\n"
+"約束させられてしまったのです……"
+msgstr ""
+
+msgctxt "28945"
+msgid "なるほど……"
+msgstr ""
+
+msgctxt "28958"
+msgid ""
+"……そして今回もやっぱり釣果はなし。\n"
+"竿がピクリともいいませんでした……\n"
+"このままでは、一生釣りが出来なくなってしまう……"
+msgstr ""
+
+msgctxt "29081"
+msgid "…………"
+msgstr ""
+
+msgctxt "29090"
+msgid ""
+"あ……！　そ、そうだ！\n"
+"つかぬことをお聞きしますが……\n"
+"あなた、釣りはしますか？"
+msgstr ""
+
+msgctxt "29171"
+msgid "あ、あぁ。たまにな……"
+msgstr ""
+
+msgctxt "29194"
+msgid ""
+"お願いです！　１匹でもいいんです……！\n"
+"あなたの釣った魚、譲っていただけませんか？"
+msgstr ""
+
+msgctxt "29277"
+msgid "お、俺の釣った魚を？"
+msgstr ""
+
+msgctxt "29298"
+msgid ""
+"他に頼れる人もいないですし……\n"
+"お願いします！　人助けと思って！"
+msgstr ""
+
+msgctxt "29363"
+msgid "（……仕方ない。協力してやるか）"
+msgstr ""
+
+msgctxt "29396"
+msgid ""
+"分かった。釣った魚で余った分があれば、\n"
+"お前に譲ってやる。"
+msgstr ""
+
+msgctxt "29455"
+msgid ""
+"ほ、本当ですか？\n"
+"ありがとうございます！　助かります……！"
+msgstr ""
+
+msgctxt "29514"
+msgid ""
+"自分自身の力で魚を釣れるように、\n"
+"もう少しだけ私も、頑張ってみますが……\n"
+"余った魚があれば、よろしくお願いしますね！"
+msgstr ""
+
+msgctxt "29631"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29632"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29633"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29634"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "29635"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "32196"
+msgid "崖っぷち釣り人"
+msgstr ""
+
+msgctxt "32211"
+msgid "渡す"
+msgstr ""
+
+msgctxt "32216"
+msgid "渡さない"
+msgstr ""
+
+msgctxt "32225"
+msgid "魚"
+msgstr ""
+
+msgctxt "32228"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "32238"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "32249"
+msgid "Player"
+msgstr ""
+
+msgctxt "32256"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "32267"
+msgid "M_CHO_ACT_stand_tsuri_lp"
+msgstr ""
+
+msgctxt "32292"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "32304"
+msgid "kaiwabgm_sub_apathy_01"
+msgstr ""
+
+msgctxt "32327"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "32337"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "32346"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "32358"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "32371"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "32380"
+msgid "M_CLD_ACT_stand_tsuri_lp"
+msgstr ""
+
+msgctxt "32405"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "32416"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "32423"
+msgid "M_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "32445"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "32456"
+msgid "dummy"
+msgstr ""
+
+msgctxt "32462"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "32473"
+msgid "魚をやる"
+msgstr ""
+
+msgctxt "32482"
+msgid "魚をやらない"
+msgstr ""
+
+msgctxt "32495"
+msgid "ADV_M_CHO_STAND"
+msgstr ""
+
+msgctxt "32511"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "32519"
+msgid "Talk_Sad"
+msgstr ""
+
+msgctxt "32528"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "32541"
+msgid "釣り人"
+msgstr ""
+
+msgctxt "32548"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "32559"
+msgid "崖っぷち釣り人との絆"
+msgstr ""

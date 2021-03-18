@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6444"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6445"
+msgid "お前が、こいつらの頭か？"
+msgstr ""
+
+msgctxt "6470"
+msgid ""
+"いかにも。\n"
+"ワシは浄僧天狗頭領、浄僧だ。"
+msgstr ""
+
+msgctxt "6511"
+msgid "（依頼書と同じだな……）"
+msgstr ""
+
+msgctxt "6536"
+msgid ""
+"子分どもが世話になったようじゃないか。\n"
+"浄僧天狗を舐められたままじゃおれんのでな。"
+msgstr ""
+
+msgctxt "6619"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6620"
+msgid "おい、お前ら！"
+msgstr ""
+
+msgctxt "6635"
+msgid "……！"
+msgstr ""
+
+msgctxt "6642"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6643"
+msgid ""
+"この人数相手ならば、太刀打ちできまい。\n"
+"やってしまえ！"
+msgstr ""
+
+msgctxt "6698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6699"
+msgid ""
+"ハァハァ……\n"
+"なんだコイツ、俺たちがやられただと!?"
+msgstr ""
+
+msgctxt "6750"
+msgid ""
+"ぐぬぬぬ。\n"
+"おい、お前たち！"
+msgstr ""
+
+msgctxt "6779"
+msgid "はい、お頭！"
+msgstr ""
+
+msgctxt "6792"
+msgid "こうなったら奥の手だ！"
+msgstr ""
+
+msgctxt "6815"
+msgid "……！"
+msgstr ""
+
+msgctxt "6822"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6823"
+msgid "逃げるぞ！"
+msgstr ""
+
+msgctxt "6834"
+msgid "ヒィィ！"
+msgstr ""
+
+msgctxt "6843"
+msgid "クソが！"
+msgstr ""
+
+msgctxt "6852"
+msgid "覚えてろよ！"
+msgstr ""
+
+msgctxt "6865"
+msgid "……あいつら、一体何がしたかったんだ？"
+msgstr ""
+
+msgctxt "6904"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6905"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6906"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6907"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6908"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6909"
+msgid "お頭ぁ……　これからどうするんで？"
+msgstr ""
+
+msgctxt "6944"
+msgid ""
+"俺たち武闘派の浄僧天狗がこのままで終われるか！\n"
+"このままアイツを、のさばらしてはおかねぇ！"
+msgstr ""
+
+msgctxt "7035"
+msgid ""
+"クソ！\n"
+"お前ら、何か考えろ！"
+msgstr ""
+
+msgctxt "7064"
+msgid "う～ん……"
+msgstr ""
+
+msgctxt "7075"
+msgid "もう、別にトンずらでいいんじゃ……"
+msgstr ""
+
+msgctxt "7110"
+msgid ""
+"バカヤロウ！\n"
+"舐められたままでいられるか！"
+msgstr ""
+
+msgctxt "7153"
+msgid ""
+"お困りのようですね。\n"
+"私の話聞いてみませんか？"
+msgstr ""
+
+msgctxt "7200"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7201"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7202"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7203"
+msgid "お頭、本当にあいつの言うことを信じるんで？"
+msgstr ""
+
+msgctxt "7246"
+msgid "そうですよ、絶対怪しいですぜ？"
+msgstr ""
+
+msgctxt "7277"
+msgid ""
+"フッフッフ、俺だってあいつのことを\n"
+"完全に信じちゃあいないさ。"
+msgstr ""
+
+msgctxt "7340"
+msgid ""
+"だが、ああいう輩は\n"
+"利用しないともったいないだろう？"
+msgstr ""
+
+msgctxt "7393"
+msgid ""
+"胡散臭いようなら後ろから\n"
+"バサリとやっちまうだけよ。"
+msgstr ""
+
+msgctxt "7446"
+msgid "なるほど……"
+msgstr ""
+
+msgctxt "7459"
+msgid "お頭は相変わらず悪どいなぁ……"
+msgstr ""
+
+msgctxt "7490"
+msgid ""
+"ハッハッハ！\n"
+"これであの男をぶちのめすことができるわ！"
+msgstr ""
+
+msgctxt "7545"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7546"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8412"
+msgid "Player"
+msgstr ""
+
+msgctxt "8419"
+msgid "豪華な天狗面の大男"
+msgstr ""
+
+msgctxt "8438"
+msgid "dummy"
+msgstr ""
+
+msgctxt "8444"
+msgid "浄僧"
+msgstr ""
+
+msgctxt "8449"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "8459"
+msgid "E_KNS_WK_stand"
+msgstr ""
+
+msgctxt "8474"
+msgid "E_ENC_KNS_WK_btlst_battou_D"
+msgstr ""
+
+msgctxt "8502"
+msgid "E_KNS_LW_stand"
+msgstr ""
+
+msgctxt "8517"
+msgid "E_ENC_KNS_LW_btlst_battou_D"
+msgstr ""
+
+msgctxt "8545"
+msgid "E_KNS_HS_stand"
+msgstr ""
+
+msgctxt "8560"
+msgid "E_ENC_KNS_HS_btlst_battou_C"
+msgstr ""
+
+msgctxt "8588"
+msgid "E_KNS_HI_stand"
+msgstr ""
+
+msgctxt "8603"
+msgid "E_ENC_KNS_HI_btlst_battou_C"
+msgstr ""
+
+msgctxt "8631"
+msgid "▼バトル"
+msgstr ""
+
+msgctxt "8640"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "8662"
+msgid "天狗面一同"
+msgstr ""
+
+msgctxt "8673"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "8683"
+msgid "kaiwabgm_apathy_01"
+msgstr ""
+
+msgctxt "8702"
+msgid "太郎坊"
+msgstr ""
+
+msgctxt "8709"
+msgid "天狗面の浪人"
+msgstr ""
+
+msgctxt "8722"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "8727"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "8738"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "8750"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8761"
+msgid "謎の男"
+msgstr ""
+
+msgctxt "8768"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8779"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8788"
+msgid "Talk_Think"
+msgstr ""

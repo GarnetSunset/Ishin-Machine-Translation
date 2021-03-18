@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7056"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7057"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7058"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7059"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7060"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7061"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7062"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7065"
+msgid "チッ！　谷の奴、おっ始めおったな……!!"
+msgstr ""
+
+msgctxt "7104"
+msgid "我々も行くぞ。"
+msgstr ""
+
+msgctxt "7119"
+msgid "ああ。"
+msgstr ""
+
+msgctxt "7126"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7127"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7128"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7129"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7130"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7131"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7132"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7133"
+msgid "チッ。来たのか。手前も賞金狙いってわけだ。"
+msgstr ""
+
+msgctxt "7176"
+msgid "私が呼んだ。この戦力では心許ないからな。"
+msgstr ""
+
+msgctxt "7217"
+msgid ""
+"あ？\n"
+"“無用の六番隊長”がなに抜かしとんねん。\n"
+"てめえなんざ足手まといにしかならんやろが。"
+msgstr ""
+
+msgctxt "7308"
+msgid "お前らの足を引っ張る気はない。"
+msgstr ""
+
+msgctxt "7339"
+msgid ""
+"ジジイは引っこんでろ言うとんねん！\n"
+"斎藤、お前もや。"
+msgstr ""
+
+msgctxt "7392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7393"
+msgid ""
+"うるせえな、鈴木。\n"
+"お前の出る幕もねえんだよ。\n"
+"……以蔵を獲んのは俺だけだ！"
+msgstr ""
+
+msgctxt "7470"
+msgid "谷、てめえ!!"
+msgstr ""
+
+msgctxt "7483"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7484"
+msgid "あ？　何だあれ……"
+msgstr ""
+
+msgctxt "7503"
+msgid "おいあれ、新選組じゃ……！"
+msgstr ""
+
+msgctxt "7530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7531"
+msgid "なっ!?　速え！"
+msgstr ""
+
+msgctxt "7546"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7547"
+msgid "おい！　まだ来るぞ！"
+msgstr ""
+
+msgctxt "7568"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7569"
+msgid "新選組や！　どけぇ！"
+msgstr ""
+
+msgctxt "7590"
+msgid "くそ！　ナメんじゃねえ!!"
+msgstr ""
+
+msgctxt "7615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8972"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "8981"
+msgid "C05122_BAK_5"
+msgstr ""
+
+msgctxt "8994"
+msgid "C05122_BAK_4"
+msgstr ""
+
+msgctxt "9007"
+msgid "C05122_BAK_6"
+msgstr ""
+
+msgctxt "9020"
+msgid "C05122_BAK_1"
+msgstr ""
+
+msgctxt "9033"
+msgid "C05122_BAK_2"
+msgstr ""
+
+msgctxt "9046"
+msgid "C05122_BAK_3"
+msgstr ""
+
+msgctxt "9059"
+msgid "鈴木"
+msgstr ""
+
+msgctxt "9064"
+msgid "suzuki_c05_122_01"
+msgstr ""
+
+msgctxt "9082"
+msgid "井上"
+msgstr ""
+
+msgctxt "9087"
+msgid "inoue_c05_122_01"
+msgstr ""
+
+msgctxt "9104"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "9109"
+msgid "kiryu_c05_122_01"
+msgstr ""
+
+msgctxt "9126"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "9137"
+msgid "谷"
+msgstr ""
+
+msgctxt "9140"
+msgid "tani_c05_120_01"
+msgstr ""
+
+msgctxt "9156"
+msgid "inoue_c05_120_01"
+msgstr ""
+
+msgctxt "9173"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "9184"
+msgid "suzuki_c05_120_01"
+msgstr ""
+
+msgctxt "9202"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "9213"
+msgid "inoue_c05_120_02"
+msgstr ""
+
+msgctxt "9230"
+msgid "suzuki_c05_120_02"
+msgstr ""
+
+msgctxt "9248"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "9259"
+msgid "tani_c05_120_02"
+msgstr ""
+
+msgctxt "9275"
+msgid "TLK_SCN009"
+msgstr ""
+
+msgctxt "9286"
+msgid "suzuki_c05_120_03"
+msgstr ""
+
+msgctxt "9304"
+msgid "C05120_INO_C"
+msgstr ""
+
+msgctxt "9317"
+msgid "C05120_SUZ_C"
+msgstr ""
+
+msgctxt "9330"
+msgid "C05120_TAN_C"
+msgstr ""
+
+msgctxt "9343"
+msgid "C05120_KRU_C"
+msgstr ""
+
+msgctxt "9356"
+msgid "Idle"
+msgstr ""
+
+msgctxt "9361"
+msgid "賭場の見張り"
+msgstr ""
+
+msgctxt "9374"
+msgid "mihari_a_c05_120_01"
+msgstr ""
+
+msgctxt "9394"
+msgid "賭場の用心棒"
+msgstr ""
+
+msgctxt "9407"
+msgid "mihari_b_c05_120_01"
+msgstr ""
+
+msgctxt "9427"
+msgid "mihari_a_c05_120_02"
+msgstr ""
+
+msgctxt "9447"
+msgid "mihari_b_c05_120_02"
+msgstr ""
+
+msgctxt "9467"
+msgid "suzuki_c05_120_04"
+msgstr ""
+
+msgctxt "9485"
+msgid "mihari_a_c05_120_03"
+msgstr ""

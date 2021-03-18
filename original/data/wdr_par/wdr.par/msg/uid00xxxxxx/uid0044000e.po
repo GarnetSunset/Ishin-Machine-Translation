@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "4848"
+msgid "突然すまないが……　あんた、医者か？"
+msgstr ""
+
+msgctxt "4885"
+msgid ""
+"……な、なんだ唐突に。\n"
+"いかにも、俺は医者だが……"
+msgstr ""
+
+msgctxt "4936"
+msgid ""
+"急病人がいるんだ。\n"
+"悪いが、すぐに診てやってくれないか？"
+msgstr ""
+
+msgctxt "4993"
+msgid "……本当に俺でいいのか？"
+msgstr ""
+
+msgctxt "5018"
+msgid "ああ。　とにかく、早く来てくれ。"
+msgstr ""
+
+msgctxt "5051"
+msgid "……分かった。案内してくれ。"
+msgstr ""
+
+msgctxt "5080"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5081"
+msgid "ふ……　ちょっと元気になりすぎだな……"
+msgstr ""
+
+msgctxt "5120"
+msgid ""
+"俺からも礼を言う。\n"
+"おかげで助かった。"
+msgstr ""
+
+msgctxt "5159"
+msgid ""
+"なぁに……病人を助けるのは、\n"
+"医者として当然のことだ。"
+msgstr ""
+
+msgctxt "5214"
+msgid ""
+"……俺は医者の健って言うんだ。\n"
+"よろしくな。"
+msgstr ""
+
+msgctxt "5259"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5260"
+msgid ""
+"おー、誰や思たら\n"
+"ヤブ医者の健さんやないか？"
+msgstr ""
+
+msgctxt "5305"
+msgid "わ、若松……！"
+msgstr ""
+
+msgctxt "5320"
+msgid "誰だ、お前は？"
+msgstr ""
+
+msgctxt "5335"
+msgid "誰やとは失礼やな。"
+msgstr ""
+
+msgctxt "5354"
+msgid ""
+"俺の名は若松。祗園で一番の名医や。\n"
+"よう覚えとけ！"
+msgstr ""
+
+msgctxt "5405"
+msgid "ふん……何が名医だ。"
+msgstr ""
+
+msgctxt "5426"
+msgid ""
+"ほーう。人殺したことあるヤブ医者のあんたに、\n"
+"そんな風に言われる筋合いないなぁ。"
+msgstr ""
+
+msgctxt "5507"
+msgid "人を……殺した？"
+msgstr ""
+
+msgctxt "5524"
+msgid "……"
+msgstr ""
+
+msgctxt "5529"
+msgid ""
+"あれれ？\n"
+"お前、そんなんも知らんのか？"
+msgstr ""
+
+msgctxt "5568"
+msgid ""
+"この健さんっていう医者はなぁ、\n"
+"昔、自分の不手際で人殺してもうた事があるんやで。"
+msgstr ""
+
+msgctxt "5649"
+msgid "……本当なのか？"
+msgstr ""
+
+msgctxt "5666"
+msgid "……"
+msgstr ""
+
+msgctxt "5671"
+msgid "その事件でついたあだ名が「殺人医者の健」！"
+msgstr ""
+
+msgctxt "5714"
+msgid ""
+"昔は「祗園一の名医」とか言われてたんやけど\n"
+"その事件以来、誰もこいつを信用せんようになってな。"
+msgstr ""
+
+msgctxt "5809"
+msgid ""
+"とっくによそ行った思ててんけど\n"
+"まさかまだ祗園に居たとはな……"
+msgstr ""
+
+msgctxt "5872"
+msgid "早よ消えろや！"
+msgstr ""
+
+msgctxt "5887"
+msgid "てめぇ……好き勝手言いやがって！"
+msgstr ""
+
+msgctxt "5920"
+msgid "いいんだ……"
+msgstr ""
+
+msgctxt "5933"
+msgid "だが……！"
+msgstr ""
+
+msgctxt "5944"
+msgid ""
+"俺が人を殺してしまったのは事実だ。\n"
+"全ての責任は俺にある。"
+msgstr ""
+
+msgctxt "6003"
+msgid ""
+"医者ってのは、人の命を救う仕事だ。\n"
+"だから、俺のしちまったことは、最低の行為なんだよ。"
+msgstr ""
+
+msgctxt "6090"
+msgid ""
+"……言い訳なんかできねぇんだ。\n"
+"それだけのことをしちまったんだよ、俺は……"
+msgstr ""
+
+msgctxt "6165"
+msgid "……"
+msgstr ""
+
+msgctxt "6170"
+msgid ""
+"へへへ……　よう分かっとるやんけ。\n"
+"目障りやさかい、早よ荷物まとめて出てけよ！"
+msgstr ""
+
+msgctxt "6249"
+msgid ""
+"祗園には、この名医・若松様がおるさかいな！\n"
+"もうお前みたいなヤブ医者は用済みなんや。"
+msgstr ""
+
+msgctxt "6334"
+msgid ""
+"ひゃひゃひゃ！\n"
+"じゃあな！　さいなら！　お疲れさん！"
+msgstr ""
+
+msgctxt "6387"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6388"
+msgid ""
+"すまねぇな……\n"
+"情けないところを見せちまって。"
+msgstr ""
+
+msgctxt "6435"
+msgid ""
+"あいつの言うとおり、俺は人を殺しちまった医者だ。\n"
+"そのせいで祗園の皆からの信頼も完全に失っちまった。"
+msgstr ""
+
+msgctxt "6536"
+msgid ""
+"人から信頼されなくなったら、医者はおしまいだ。\n"
+"あいつの言うとおり、近いうちにここを出ようと思う。"
+msgstr ""
+
+msgctxt "6635"
+msgid ""
+"本当は……　俺を育ててくれたこの祗園で、\n"
+"ずっと医者をやっていたかったんだがな……"
+msgstr ""
+
+msgctxt "6718"
+msgid "健さん……"
+msgstr ""
+
+msgctxt "6729"
+msgid ""
+"じゃあな。\n"
+"こんな俺を信頼してくれて……ありがとよ。"
+msgstr ""
+
+msgctxt "7032"
+msgid "桐生"
+msgstr ""
+
+msgctxt "7037"
+msgid "医者"
+msgstr ""
+
+msgctxt "7042"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7051"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7062"
+msgid "F_CHO_TLK_stand_yes"
+msgstr ""
+
+msgctxt "7082"
+msgid "若松"
+msgstr ""

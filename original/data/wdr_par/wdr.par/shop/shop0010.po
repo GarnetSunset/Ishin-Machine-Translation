@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "560"
+msgid "－"
+msgstr ""
+
+msgctxt "563"
+msgid "所持数"
+msgstr ""
+
+msgctxt "570"
+msgid "（何も選んでいない……）"
+msgstr ""
+
+msgctxt "595"
+msgid "（手持ちが足りないようだな……）"
+msgstr ""
+
+msgctxt "628"
+msgid "おおきに。%sやな。"
+msgstr ""
+
+msgctxt "647"
+msgid "（持ち物が一杯だな……）"
+msgstr ""
+
+msgctxt "672"
+msgid "（売り切れのようだ……）"
+msgstr ""
+
+msgctxt "697"
+msgid "（これは既に持っているな……）"
+msgstr ""
+
+msgctxt "728"
+msgid "所持品"
+msgstr ""
+
+msgctxt "735"
+msgid "詳細"
+msgstr ""
+
+msgctxt "740"
+msgid "商品"
+msgstr ""
+
+msgctxt "745"
+msgid "<Sign:1>前へ"
+msgstr ""
+
+msgctxt "758"
+msgid "<Sign:1>次へ %d/%d"
+msgstr ""
+
+msgctxt "777"
+msgid "－"
+msgstr ""
+
+msgctxt "780"
+msgid "注"
+msgstr ""
+
+msgctxt "783"
+msgid ""
+"量産されている安い刀だ。\n"
+"切れ味はいまいちだが、そこは安かろう悪かろうだ。"
+msgstr ""
+
+msgctxt "857"
+msgid ""
+"洛内の鍛冶屋で打たれた刀だ。\n"
+"切れ味はほどほどだが、守りに強い。"
+msgstr ""
+
+msgctxt "921"
+msgid ""
+"綺麗な拵えの刀だ。\n"
+"一振りで人を吹き飛ばすと言われている名刀だ。"
+msgstr ""
+
+msgctxt "985"
+msgid ""
+"うちの店に伝わる伝説の剣だ。\n"
+"鍛え上げれば相当な代物になりそうだ。"
+msgstr ""
+
+msgctxt "1051"
+msgid ""
+"外国製の回転式拳銃だ。\n"
+"型落ち品らしいから、性能は高くないだろう。"
+msgstr ""
+
+msgctxt "1117"
+msgid ""
+"輸入回転式拳銃を改良した拳銃だ。\n"
+"威力が少しだけ上がっている。"
+msgstr ""
+
+msgctxt "1179"
+msgid ""
+"単純な構造のまっすぐな槍だ。\n"
+"何かで勉強しないと、槍は扱えないだろう。"
+msgstr ""
+
+msgctxt "1249"
+msgid ""
+"革でできた軽い籠手だ。\n"
+"刃は防げないが、つけないよりはマシだろう。"
+msgstr ""
+
+msgctxt "1315"
+msgid ""
+"革でできた胸当てだ。\n"
+"銃弾は防げないから、過信は禁物だ。"
+msgstr ""
+
+msgctxt "1371"
+msgid ""
+"真っ白い鉢巻だ。\n"
+"鉢巻を締めると気合が入るな。"
+msgstr ""
+
+msgctxt "1417"
+msgid ""
+"服の下に身につける下着だ。\n"
+"男ならふんどしをキリっと締めろ。"
+msgstr ""

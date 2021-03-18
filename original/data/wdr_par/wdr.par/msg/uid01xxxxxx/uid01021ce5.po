@@ -1,0 +1,527 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "10864"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10866"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10867"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10868"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10869"
+msgid "斎藤君。"
+msgstr ""
+
+msgctxt "10878"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10879"
+msgid "今、密偵を１人、四国屋の中へ行かせた。"
+msgstr ""
+
+msgctxt "10918"
+msgid "志士どもの会合を見つけたら合図をよこしてくる。"
+msgstr ""
+
+msgctxt "10965"
+msgid ""
+"ここが当たりかはずれか……\n"
+"勤王派の会合が池田屋の方だったら全員で\n"
+"向こうに走る羽目になる。"
+msgstr ""
+
+msgctxt "11058"
+msgid "ああ、わかっている。"
+msgstr ""
+
+msgctxt "11079"
+msgid ""
+"フッ、さすがに落ち着いたものだな。\n"
+"ずいぶん場数を踏んでいるらしい。"
+msgstr ""
+
+msgctxt "11148"
+msgid "…………"
+msgstr ""
+
+msgctxt "11157"
+msgid "ところで……　松原となにかあったか？"
+msgstr ""
+
+msgctxt "11194"
+msgid "どうしてそんなことを聞く。"
+msgstr ""
+
+msgctxt "11221"
+msgid ""
+"いや、松原がやけに君のことを私に聞きにきたので、\n"
+"少し気になってな……"
+msgstr ""
+
+msgctxt "11292"
+msgid "…………"
+msgstr ""
+
+msgctxt "11301"
+msgid ""
+"なあ、ひとつ聞かせてくれるか。\n"
+"君は、なぜ新選組に入隊してきた？"
+msgstr ""
+
+msgctxt "11366"
+msgid "そういうのは入隊する前に聞くもんだ。"
+msgstr ""
+
+msgctxt "11403"
+msgid ""
+"なるほど。\n"
+"これから入ってくる奴にはそうしよう。"
+msgstr ""
+
+msgctxt "11452"
+msgid ""
+"大した理由はない……\n"
+"他に行く所がなかっただけだ。"
+msgstr ""
+
+msgctxt "11503"
+msgid ""
+"そうかな？\n"
+"君ほどの腕があれば、どの藩の勤王志士にも\n"
+"歓迎されるはずだ。"
+msgstr ""
+
+msgctxt "11576"
+msgid ""
+"勤王だろうが幕府の犬だろうが、どっちでもいい。\n"
+"俺を高く買ってくれる所へ行くまでだ。"
+msgstr ""
+
+msgctxt "11661"
+msgid ""
+"フッ、なるほど。君の考えは簡潔で良い。\n"
+"……その点では私と似ていると言えるな。"
+msgstr ""
+
+msgctxt "11740"
+msgid "？"
+msgstr ""
+
+msgctxt "11743"
+msgid ""
+"聞いているかもしれんが……\n"
+"私はもともと百姓の出だ。局長の近藤さんもな。"
+msgstr ""
+
+msgctxt "11816"
+msgid "そうだったのか……"
+msgstr ""
+
+msgctxt "11835"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11836"
+msgid ""
+"３００年前の祖先が百姓だったというだけで、\n"
+"父も祖父も剣を持つことを許されなかった。"
+msgstr ""
+
+msgctxt "11921"
+msgid ""
+"私もガキの頃は、一生百姓のまま\n"
+"終わるもんだと思っていた。"
+msgstr ""
+
+msgctxt "11980"
+msgid "…………"
+msgstr ""
+
+msgctxt "11989"
+msgid ""
+"だが……\n"
+"黒船が来て以来、すべてが変わった。"
+msgstr ""
+
+msgctxt "12034"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12035"
+msgid ""
+"本物の脅威を目前にして、「本当に強い」ものが\n"
+"必要とされる時代になったんだ。"
+msgstr ""
+
+msgctxt "12112"
+msgid ""
+"力さえあれば百姓でも「志」を持つことが\n"
+"許される。"
+msgstr ""
+
+msgctxt "12163"
+msgid "志……？"
+msgstr ""
+
+msgctxt "12172"
+msgid ""
+"近藤勇にはそれがあった。\n"
+"私はそれを支えるために剣を振るい、\n"
+"新選組を鍛え続けている。"
+msgstr ""
+
+msgctxt "12259"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12260"
+msgid "幕府のためにか……"
+msgstr ""
+
+msgctxt "12279"
+msgid "いや、この国を守るためにだ。"
+msgstr ""
+
+msgctxt "12308"
+msgid "なに……？"
+msgstr ""
+
+msgctxt "12319"
+msgid "いずれ君にも話せるときがくるだろう。"
+msgstr ""
+
+msgctxt "12356"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12357"
+msgid "私はこれでも君を高く評価しているんだ。"
+msgstr ""
+
+msgctxt "12396"
+msgid ""
+"だが今はとにかく私のやり方に\n"
+"ついてきて欲しいと思ってる。"
+msgstr ""
+
+msgctxt "12455"
+msgid "余計なことは考えず、人を斬れってことか……"
+msgstr ""
+
+msgctxt "12498"
+msgid "それが武士の本分ってもんじゃないのか？"
+msgstr ""
+
+msgctxt "12537"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12538"
+msgid "そういやあそうだったな。"
+msgstr ""
+
+msgctxt "12563"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12564"
+msgid ""
+"フフ……\n"
+"ん？　密偵が戻ってきたな。"
+msgstr ""
+
+msgctxt "12601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12602"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12603"
+msgid ""
+"副長。\n"
+"四国屋に不審はないようです。"
+msgstr ""
+
+msgctxt "12640"
+msgid "勤王志士たちはいる気配もありません。"
+msgstr ""
+
+msgctxt "12677"
+msgid "とすると、こっちははずれか……？"
+msgstr ""
+
+msgctxt "12710"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12711"
+msgid "池田屋です！　志士の会合は、池田屋!!"
+msgstr ""
+
+msgctxt "12748"
+msgid ""
+"聞いたな？\n"
+"全員、池田屋だ！　行くぞ!!"
+msgstr ""
+
+msgctxt "12787"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12788"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12789"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15096"
+msgid "土方"
+msgstr ""
+
+msgctxt "15101"
+msgid "hijikata_c06_110_01"
+msgstr ""
+
+msgctxt "15121"
+msgid "kaiwabgm_silent"
+msgstr ""
+
+msgctxt "15137"
+msgid "hijikata_c06_110_02"
+msgstr ""
+
+msgctxt "15157"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "15179"
+msgid "M_BUS_TLK_stand_kat_en"
+msgstr ""
+
+msgctxt "15202"
+msgid "hijikata_c06_110_02b"
+msgstr ""
+
+msgctxt "15223"
+msgid "hijikata_c06_110_03"
+msgstr ""
+
+msgctxt "15243"
+msgid "0"
+msgstr ""
+
+msgctxt "15245"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "15250"
+msgid "kiryu_c06_110_01"
+msgstr ""
+
+msgctxt "15267"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "15276"
+msgid "hijikata_c06_110_04"
+msgstr ""
+
+msgctxt "15296"
+msgid "hijikata_c06_110_05"
+msgstr ""
+
+msgctxt "15316"
+msgid "kiryu_c06_110_03"
+msgstr ""
+
+msgctxt "15333"
+msgid "hijikata_c06_110_06"
+msgstr ""
+
+msgctxt "15353"
+msgid "hijikata_c06_110_07"
+msgstr ""
+
+msgctxt "15373"
+msgid "kaiwabgm_apathy_06"
+msgstr ""
+
+msgctxt "15392"
+msgid "kiryu_c06_110_05"
+msgstr ""
+
+msgctxt "15409"
+msgid "hijikata_c06_110_08"
+msgstr ""
+
+msgctxt "15429"
+msgid "kiryu_c06_110_06"
+msgstr ""
+
+msgctxt "15446"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15454"
+msgid "hijikata_c06_110_09"
+msgstr ""
+
+msgctxt "15474"
+msgid "kiryu_c06_110_07"
+msgstr ""
+
+msgctxt "15491"
+msgid "hijikata_c06_110_10"
+msgstr ""
+
+msgctxt "15511"
+msgid "kiryu_c06_110_08"
+msgstr ""
+
+msgctxt "15528"
+msgid "hijikata_c06_110_11"
+msgstr ""
+
+msgctxt "15548"
+msgid "kiryu_c06_110_09"
+msgstr ""
+
+msgctxt "15565"
+msgid "hijikata_c06_110_12"
+msgstr ""
+
+msgctxt "15585"
+msgid "hijikata_c06_110_12b"
+msgstr ""
+
+msgctxt "15606"
+msgid "hijikata_c06_110_13"
+msgstr ""
+
+msgctxt "15626"
+msgid "hijikata_c06_110_13b"
+msgstr ""
+
+msgctxt "15647"
+msgid "hijikata_c06_110_13c"
+msgstr ""
+
+msgctxt "15668"
+msgid "kiryu_c06_110_11"
+msgstr ""
+
+msgctxt "15685"
+msgid "hijikata_c06_110_14"
+msgstr ""
+
+msgctxt "15705"
+msgid "kiryu_c06_110_12"
+msgstr ""
+
+msgctxt "15722"
+msgid "hijikata_c06_110_15"
+msgstr ""
+
+msgctxt "15742"
+msgid "kiryu_c06_110_13"
+msgstr ""
+
+msgctxt "15759"
+msgid "hijikata_c06_110_16"
+msgstr ""
+
+msgctxt "15779"
+msgid "hijikata_c06_110_16b"
+msgstr ""
+
+msgctxt "15800"
+msgid "hijikata_c06_110_16c"
+msgstr ""
+
+msgctxt "15821"
+msgid "kiryu_c06_110_16"
+msgstr ""
+
+msgctxt "15838"
+msgid "hijikata_c06_110_19"
+msgstr ""
+
+msgctxt "15858"
+msgid "kiryu_c06_110_17"
+msgstr ""
+
+msgctxt "15875"
+msgid "hijikata_c06_110_20"
+msgstr ""
+
+msgctxt "15895"
+msgid "C06110_SOL_A"
+msgstr ""
+
+msgctxt "15908"
+msgid "Idle"
+msgstr ""
+
+msgctxt "15913"
+msgid "商人風の男"
+msgstr ""
+
+msgctxt "15924"
+msgid "spy_c06_110_01"
+msgstr ""
+
+msgctxt "15939"
+msgid "spy_c06_110_01b"
+msgstr ""
+
+msgctxt "15955"
+msgid "hijikata_c06_110_21"
+msgstr ""
+
+msgctxt "15975"
+msgid "ADV_M_BUS_STAND"
+msgstr ""
+
+msgctxt "15991"
+msgid "C06120_HR6_A"
+msgstr ""
+
+msgctxt "16004"
+msgid "平隊士"
+msgstr ""
+
+msgctxt "16011"
+msgid "hira_c06_110_01"
+msgstr ""
+
+msgctxt "16027"
+msgid "hijikata_c06_110_22"
+msgstr ""

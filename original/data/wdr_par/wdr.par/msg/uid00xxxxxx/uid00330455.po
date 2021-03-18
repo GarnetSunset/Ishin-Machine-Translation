@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6944"
+msgid ""
+"お兄さん、ここでは西洋の「ポーカー」っちゅう\n"
+"札遊びができるんや。\n"
+"遊んで行きはりますか？"
+msgstr ""
+
+msgctxt "7035"
+msgid "ああ、遊ばせてもらおう。"
+msgstr ""
+
+msgctxt "7060"
+msgid ""
+"かしこまりました。\n"
+"掛け率はどうしはりますか？"
+msgstr ""
+
+msgctxt "7107"
+msgid "低掛け率でたのむ。"
+msgstr ""
+
+msgctxt "7126"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7127"
+msgid ""
+"低掛け率の掛け単位は、\n"
+"第１、第２回は５点、\n"
+"第３、第４回は１０点となります。"
+msgstr ""
+
+msgctxt "7206"
+msgid "では席へどうぞ。"
+msgstr ""
+
+msgctxt "7223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7224"
+msgid ""
+"お兄さん、低掛け率のポーカーを\n"
+"遊んで頂くには、\n"
+"最低１００点の点数が必要となります。"
+msgstr ""
+
+msgctxt "7311"
+msgid "高掛け率でたのむ。"
+msgstr ""
+
+msgctxt "7330"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7331"
+msgid ""
+"高掛け率の掛け単位は、\n"
+"第１、第２回は５０点、\n"
+"第３、第４回は１００点となります。"
+msgstr ""
+
+msgctxt "7414"
+msgid "では席へどうぞ。"
+msgstr ""
+
+msgctxt "7431"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7432"
+msgid ""
+"お兄さん、高掛け率のポーカーを\n"
+"遊んで頂くには、\n"
+"最低１０００点の点数が必要となります。"
+msgstr ""
+
+msgctxt "7521"
+msgid "ああ、遊ばせてもらおう。"
+msgstr ""
+
+msgctxt "7546"
+msgid ""
+"かしこまりました。\n"
+"掛け率はどういたしますか？"
+msgstr ""
+
+msgctxt "7593"
+msgid "低掛け率でたのむ。"
+msgstr ""
+
+msgctxt "7612"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7613"
+msgid ""
+"低掛け率の掛け単位は、\n"
+"第１、第２回は５点、\n"
+"第３、第４回は１０点となります。"
+msgstr ""
+
+msgctxt "7692"
+msgid "では席へどうぞ。"
+msgstr ""
+
+msgctxt "7709"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7710"
+msgid ""
+"お客様、低掛け率のポーカーを\n"
+"遊んで頂くには、\n"
+"最低１００点の掛け点が必要となります。"
+msgstr ""
+
+msgctxt "7797"
+msgid "高掛け率でたのむ。"
+msgstr ""
+
+msgctxt "7816"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7817"
+msgid ""
+"高掛け率の掛け単位は、\n"
+"第１、第２回は５０点、\n"
+"第３、第４回は１００点となります。"
+msgstr ""
+
+msgctxt "7900"
+msgid "では席へどうぞ。"
+msgstr ""
+
+msgctxt "7917"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7918"
+msgid ""
+"お客様、高掛け率のポーカーを\n"
+"遊んで頂くには、\n"
+"最低１０００点の掛け点が必要となります。"
+msgstr ""
+
+msgctxt "8007"
+msgid "ああ、遊ばせてもらおう。"
+msgstr ""
+
+msgctxt "8032"
+msgid ""
+"かしこまりました。\n"
+"掛け率はどういたしますか？"
+msgstr ""
+
+msgctxt "8079"
+msgid "低掛け率でたのむ。"
+msgstr ""
+
+msgctxt "8098"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8099"
+msgid ""
+"低掛け率の掛け単位は、\n"
+"第１、第２回は５点、\n"
+"第３、第４回は１０点となります。"
+msgstr ""
+
+msgctxt "8178"
+msgid "では席へどうぞ。"
+msgstr ""
+
+msgctxt "8195"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8196"
+msgid ""
+"お客様、低掛け率のポーカーを\n"
+"プレイして頂くには、\n"
+"最低１００点の掛け点が必要となります。"
+msgstr ""
+
+msgctxt "8287"
+msgid "高掛け率でたのむ。"
+msgstr ""
+
+msgctxt "8306"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8307"
+msgid ""
+"高掛け率の掛け単位は、\n"
+"第１、第２回は５０点、\n"
+"第３、第４回は１００点となります。"
+msgstr ""
+
+msgctxt "8390"
+msgid "では席へどうぞ。"
+msgstr ""
+
+msgctxt "8407"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8408"
+msgid ""
+"お客様、高掛け率のポーカーを\n"
+"遊んで頂くには、\n"
+"最低１０００点の掛け点が必要となります。"
+msgstr ""
+
+msgctxt "8497"
+msgid ""
+"テキサスホールデムの遊び方を\n"
+"確認いたしますか？"
+msgstr ""
+
+msgctxt "8546"
+msgid "では席へどうぞ。"
+msgstr ""
+
+msgctxt "8563"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8564"
+msgid ""
+"パイナップルホールデムの遊び方を\n"
+"確認いたしますか？"
+msgstr ""
+
+msgctxt "8617"
+msgid "では席へどうぞ。"
+msgstr ""
+
+msgctxt "8634"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8635"
+msgid ""
+"オマハホールデムの遊び方を\n"
+"確認いたしますか？"
+msgstr ""
+
+msgctxt "8682"
+msgid "では席へどうぞ。"
+msgstr ""
+
+msgctxt "8699"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8700"
+msgid "いや、やめておこう。"
+msgstr ""
+
+msgctxt "8721"
+msgid ""
+"そうですか。\n"
+"次は是非遊んでいって下さい。"
+msgstr ""
+
+msgctxt "8824"
+msgid "ディーラー"
+msgstr ""
+
+msgctxt "8835"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8846"
+msgid "テキサスホールデムで遊ぶ"
+msgstr ""
+
+msgctxt "8871"
+msgid "パイナップルホールデムで遊ぶ"
+msgstr ""
+
+msgctxt "8900"
+msgid "オマハホールデムで遊ぶ"
+msgstr ""
+
+msgctxt "8923"
+msgid "テキサスホールデム練習"
+msgstr ""
+
+msgctxt "8946"
+msgid "パイナップルホールデム練習"
+msgstr ""
+
+msgctxt "8973"
+msgid "オマハホールデム練習"
+msgstr ""
+
+msgctxt "8994"
+msgid "やめる"
+msgstr ""
+
+msgctxt "9001"
+msgid "Player"
+msgstr ""
+
+msgctxt "9008"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9017"
+msgid "低掛け率（５点／１０点）"
+msgstr ""
+
+msgctxt "9042"
+msgid "高掛け率（５０点／１００点）"
+msgstr ""
+
+msgctxt "9071"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9079"
+msgid "確認する"
+msgstr ""

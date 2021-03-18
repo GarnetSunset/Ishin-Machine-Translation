@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7712"
+msgid ""
+"いらっしゃいませ。\n"
+"「ＥＬＩＳＥ」へようこそ。"
+msgstr ""
+
+msgctxt "7759"
+msgid ""
+"当店では最低でもセット料金８４００円、\n"
+"それにサービス料金３１５０円が必要となります。\n"
+"ご指名の場合は別途指名料３１５０円も加わります。"
+msgstr ""
+
+msgctxt "7896"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7897"
+msgid "ご入店されますか？"
+msgstr ""
+
+msgctxt "7916"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7917"
+msgid "フリーですね。こちらへどうぞ。"
+msgstr ""
+
+msgctxt "7948"
+msgid "ひなたさんをご指名ですね。こちらへどうぞ。"
+msgstr ""
+
+msgctxt "7991"
+msgid ""
+"そうですか。\n"
+"またのお越しをお待ちしております。"
+msgstr ""
+
+msgctxt "8040"
+msgid ""
+"ひなたさんをご指名ですか？\n"
+"申し訳ありません……\n"
+"今ちょっと出勤してないんですよ。"
+msgstr ""
+
+msgctxt "8123"
+msgid ""
+"そうか……\n"
+"また来る。"
+msgstr ""
+
+msgctxt "8146"
+msgid "またのお越しを。"
+msgstr ""
+
+msgctxt "8163"
+msgid "（しまった、手持ちの金が無いぞ……）"
+msgstr ""
+
+msgctxt "8200"
+msgid "ちょっと待て！"
+msgstr ""
+
+msgctxt "8215"
+msgid "どうされました？"
+msgstr ""
+
+msgctxt "8232"
+msgid "すまんが、また後で来る……"
+msgstr ""
+
+msgctxt "8259"
+msgid "（最低１万５０００円は必要だな……）"
+msgstr ""
+
+msgctxt "8296"
+msgid "お会計はこちらになります。"
+msgstr ""
+
+msgctxt "8323"
+msgid "ありがとうございます。"
+msgstr ""
+
+msgctxt "8346"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8347"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8348"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8349"
+msgid ""
+"そろそろお時間となりますが……\n"
+"ご延長なさいますか？"
+msgstr ""
+
+msgctxt "8402"
+msgid "ご延長で！　ごゆっくりお楽しみください。"
+msgstr ""
+
+msgctxt "8443"
+msgid "かしこまりました。"
+msgstr ""
+
+msgctxt "8462"
+msgid ""
+"そろそろお時間となりますが……\n"
+"ご延長なさいますか？"
+msgstr ""
+
+msgctxt "8515"
+msgid "（延長するには金が足りないな……）"
+msgstr ""
+
+msgctxt "8550"
+msgid "いや、もう帰る。"
+msgstr ""
+
+msgctxt "8567"
+msgid "かしこまりました。"
+msgstr ""
+
+msgctxt "8586"
+msgid "（なにか話題を振ってみるか……）"
+msgstr ""
+
+msgctxt "8619"
+msgid "（なにか質問をしてみるか……）"
+msgstr ""
+
+msgctxt "8650"
+msgid "（なにか頼もうか……）"
+msgstr ""
+
+msgctxt "8673"
+msgid "（プレゼントしてみるか……）"
+msgstr ""
+
+msgctxt "8702"
+msgid "（アフターに誘ってみるか……）"
+msgstr ""
+
+msgctxt "8733"
+msgid "（もう帰るか……）"
+msgstr ""
+
+msgctxt "8752"
+msgid "（なにを話そうか……）"
+msgstr ""
+
+msgctxt "8775"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8776"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8777"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8779"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8781"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8782"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8783"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8784"
+msgid "（なにについて聞こうか……）"
+msgstr ""
+
+msgctxt "8813"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8814"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8815"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8816"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8817"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8818"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8819"
+msgid "（どうする？）"
+msgstr ""
+
+msgctxt "8834"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8835"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8836"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8837"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8838"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8839"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8840"
+msgid ""
+"（既にＯＫの返事をもらっている。\n"
+"　何をそんなに焦っているんだ……）"
+msgstr ""
+
+msgctxt "8909"
+msgid ""
+"（既に一度誘って断られているじゃないか。\n"
+"　今回は諦めて、また別の機会に誘ってみよう）"
+msgstr ""
+
+msgctxt "8996"
+msgid "（どうする？）"
+msgstr ""
+
+msgctxt "9011"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9012"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9013"
+msgid "（どうする？）"
+msgstr ""
+
+msgctxt "9028"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9029"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9128"
+msgid "ボーイ"
+msgstr ""
+
+msgctxt "9135"
+msgid "遊んでいく"
+msgstr ""
+
+msgctxt "9146"
+msgid "遊ばない"
+msgstr ""
+
+msgctxt "9155"
+msgid "Player"
+msgstr ""
+
+msgctxt "9162"
+msgid "する"
+msgstr ""
+
+msgctxt "9167"
+msgid "しない"
+msgstr ""
+
+msgctxt "9174"
+msgid "最近の神室町"
+msgstr ""
+
+msgctxt "9187"
+msgid "クリスマスの話"
+msgstr ""
+
+msgctxt "9202"
+msgid "東京の女の子"
+msgstr ""
+
+msgctxt "9215"
+msgid "カラオケ館のひとりカラオケルーム"
+msgstr ""
+
+msgctxt "9248"
+msgid "疲労回復にタコが効く"
+msgstr ""
+
+msgctxt "9269"
+msgid "食べる紅茶"
+msgstr ""
+
+msgctxt "9280"
+msgid "韓国式サウナ"
+msgstr ""
+
+msgctxt "9293"
+msgid "有名ブランドはアウトレットで"
+msgstr ""
+
+msgctxt "9322"
+msgid "やっぱりやめる"
+msgstr ""
+
+msgctxt "9337"
+msgid "好きなもの"
+msgstr ""
+
+msgctxt "9348"
+msgid "趣味"
+msgstr ""
+
+msgctxt "9353"
+msgid "恋愛観"
+msgstr ""
+
+msgctxt "9360"
+msgid "ひなたのこと"
+msgstr ""
+
+msgctxt "9373"
+msgid "つっこんだ話"
+msgstr ""
+
+msgctxt "9386"
+msgid "注文する"
+msgstr ""
+
+msgctxt "9395"
+msgid "Y"
+msgstr ""
+
+msgctxt "9397"
+msgid "誘ってみる"
+msgstr ""
+
+msgctxt "9408"
+msgid "帰る"
+msgstr ""

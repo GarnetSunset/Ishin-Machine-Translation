@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "243492"
+msgid ""
+"はっはっはっは！　おい　どこだ？　ん？\n"
+"あんまり逃げんなよ？"
+msgstr ""
+
+msgctxt "243636"
+msgid "近藤先生！　こっちこっち"
+msgstr ""
+
+msgctxt "243780"
+msgid "先生　こっちどすぅ"
+msgstr ""
+
+msgctxt "243924"
+msgid "どっちだぁ？　お　そこか！"
+msgstr ""
+
+msgctxt "244068"
+msgid "よおし　捕まえたぁ！"
+msgstr ""
+
+msgctxt "244212"
+msgid "姐さん　わざと捕まらはったやろぉ？"
+msgstr ""
+
+msgctxt "244356"
+msgid "ん？　あぁ？"
+msgstr ""
+
+msgctxt "244500"
+msgid "何だこりゃ？　血のにおいか"
+msgstr ""
+
+msgctxt "244644"
+msgid "え？　血のにおい？"
+msgstr ""
+
+msgctxt "244788"
+msgid "よお　思ったより早く来たな"
+msgstr ""
+
+msgctxt "244932"
+msgid "三番隊隊長　斎藤一です"
+msgstr ""
+
+msgctxt "245076"
+msgid "知ってるよ俺が呼んだんだからよ"
+msgstr ""
+
+msgctxt "245220"
+msgid "あなたが　局長の……"
+msgstr ""
+
+msgctxt "245364"
+msgid ""
+"ああ\n"
+"新選組局長　近藤勇だ"
+msgstr ""
+
+msgctxt "245508"
+msgid ""
+"それで？\n"
+"頼んだ件は調べてくれたかい？"
+msgstr ""
+
+msgctxt "245652"
+msgid "例の坂本龍馬"
+msgstr ""
+
+msgctxt "245796"
+msgid ""
+"はい　坂本が現れたという\n"
+"薩摩藩邸に行ってきましたが"
+msgstr ""
+
+msgctxt "245940"
+msgid "あいにく　西郷にはとぼけられました"
+msgstr ""
+
+msgctxt "246084"
+msgid "まあそんなとこだろうな"
+msgstr ""
+
+msgctxt "246228"
+msgid "もともと西郷には期待しちゃいなかったんだ"
+msgstr ""
+
+msgctxt "246372"
+msgid "それは　どういう意味で？"
+msgstr ""
+
+msgctxt "246516"
+msgid ""
+"「坂本龍馬」は今\n"
+"長崎に向かっているらしくてな"
+msgstr ""
+
+msgctxt "246660"
+msgid ""
+"本人が京にいねえんだから\n"
+"薩摩もいくらだってシラ切れる"
+msgstr ""
+
+msgctxt "246804"
+msgid ""
+"今西郷に聞いたところで\n"
+"ろくな返事はねえだろうよ"
+msgstr ""
+
+msgctxt "246948"
+msgid ""
+"だから　まあ何も情報を掴めなかったのは\n"
+"アンタのせいじゃない"
+msgstr ""
+
+msgctxt "247092"
+msgid ""
+"ただでさえ本音を見せねぇ\n"
+"西郷のクチ割らせるのは"
+msgstr ""
+
+msgctxt "247236"
+msgid "カンタンなことじゃねぇからな"
+msgstr ""
+
+msgctxt "247380"
+msgid "けど大収穫だ"
+msgstr ""
+
+msgctxt "247524"
+msgid ""
+"いやぁ　アンタ\n"
+"いい仕事したぜ斎藤さんよ"
+msgstr ""
+
+msgctxt "247668"
+msgid "俺が　ですか？"
+msgstr ""
+
+msgctxt "247812"
+msgid ""
+"ああ　だってよ\n"
+"「坂本龍馬」について……"
+msgstr ""
+
+msgctxt "247956"
+msgid ""
+"ひとつだけ確実なことが\n"
+"分かったんだからな"
+msgstr ""
+
+msgctxt "248100"
+msgid ""
+"薩摩の西郷に会った\n"
+"その「坂本龍馬」ってのは……"
+msgstr ""
+
+msgctxt "248244"
+msgid "真っ赤な偽者だ"
+msgstr ""
+
+msgctxt "248388"
+msgid "だよな？"
+msgstr ""
+
+msgctxt "248532"
+msgid "“本物の龍馬”さん"
+msgstr ""

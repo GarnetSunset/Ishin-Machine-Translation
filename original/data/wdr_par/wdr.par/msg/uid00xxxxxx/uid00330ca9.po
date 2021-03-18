@@ -1,0 +1,573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "12780"
+msgid ""
+"いらっしゃいませ。\n"
+"今日はどういったものをお探しで？"
+msgstr ""
+
+msgctxt "12833"
+msgid "商品を見せてくれ。"
+msgstr ""
+
+msgctxt "12852"
+msgid ""
+"こちらです。\n"
+"いかがなさいますか？"
+msgstr ""
+
+msgctxt "12887"
+msgid "福引き券%d枚お渡しします。"
+msgstr ""
+
+msgctxt "12914"
+msgid ""
+"ありがとうございました！\n"
+"また、よろしくお願いします。"
+msgstr ""
+
+msgctxt "12969"
+msgid "またのご来店をお待ちしております。"
+msgstr ""
+
+msgctxt "13004"
+msgid ""
+"いらっしゃいませ。\n"
+"今日はどういったものをお探しで？"
+msgstr ""
+
+msgctxt "13057"
+msgid "商品を見せてくれ。"
+msgstr ""
+
+msgctxt "13076"
+msgid ""
+"こちらです。\n"
+"いかがなさいますか？"
+msgstr ""
+
+msgctxt "13111"
+msgid "福引き券%d枚お渡しします。"
+msgstr ""
+
+msgctxt "13138"
+msgid ""
+"ありがとうございました！\n"
+"また、よろしくお願いします。"
+msgstr ""
+
+msgctxt "13193"
+msgid "またのご来店をお待ちしております。"
+msgstr ""
+
+msgctxt "13228"
+msgid "あ、お客様！"
+msgstr ""
+
+msgctxt "13241"
+msgid "……ん？　どうした？"
+msgstr ""
+
+msgctxt "13262"
+msgid ""
+"私の手が空いてなかった時、\n"
+"他のお客様に商品の場所を教えてくださったのって、\n"
+"もしかして、お客様のことですか？"
+msgstr ""
+
+msgctxt "13373"
+msgid ""
+"……ん？　あぁ。\n"
+"あの米俵の客か。"
+msgstr ""
+
+msgctxt "13408"
+msgid ""
+"えぇ、やはりお客様でしたか。\n"
+"その節は申し訳ありませんでした。\n"
+"そしてありがとうございます。"
+msgstr ""
+
+msgctxt "13501"
+msgid "いや、大したことはしていない。"
+msgstr ""
+
+msgctxt "13532"
+msgid ""
+"米俵の方、ずいぶん喜んでいましたよ。\n"
+"ずいぶん丁寧な店員さんに接客していただいた、と。"
+msgstr ""
+
+msgctxt "13619"
+msgid "フッ、そうか。"
+msgstr ""
+
+msgctxt "13634"
+msgid ""
+"お客様が店員じゃないことを教えたら、\n"
+"驚いていましたよ。"
+msgstr ""
+
+msgctxt "13691"
+msgid ""
+"こちら、米俵の方から預かっておりました。\n"
+"店員さんと間違えたお詫びだそうです。"
+msgstr ""
+
+msgctxt "13770"
+msgid "「<Color:8>金の皿<Color:Default>」を手に入れた"
+msgstr ""
+
+msgctxt "13817"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13818"
+msgid ""
+"いやしかし、うちの店の商品の場所をすぐに\n"
+"教えてあげられるだなんて……"
+msgstr ""
+
+msgctxt "13889"
+msgid ""
+"お客様、ずいぶんどん・きほーてのことを\n"
+"知っていただいているみたいですね。"
+msgstr ""
+
+msgctxt "13964"
+msgid ""
+"フッ、ずいぶん通ったからな。\n"
+"体が覚えてしまったのかもしれん。"
+msgstr ""
+
+msgctxt "14027"
+msgid ""
+"これからも、どん・きほーて洛内店を\n"
+"よろしくお願いしますね。"
+msgstr ""
+
+msgctxt "14088"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14089"
+msgid "すみません！　今おつりを切らしていて……"
+msgstr ""
+
+msgctxt "14130"
+msgid "そうか……　また来る。"
+msgstr ""
+
+msgctxt "14153"
+msgid ""
+"いらっしゃいませ。\n"
+"今日はどういったものをお探しで？"
+msgstr ""
+
+msgctxt "14206"
+msgid ""
+"ありがとうございます。\n"
+"いかがなさいましょう？"
+msgstr ""
+
+msgctxt "14253"
+msgid "福引き券%d枚お渡しします。"
+msgstr ""
+
+msgctxt "14280"
+msgid ""
+"ありがとうございました。\n"
+"また、おこしください。"
+msgstr ""
+
+msgctxt "14329"
+msgid "またのご来店をお待ちしております。"
+msgstr ""
+
+msgctxt "14364"
+msgid ""
+"いらっしゃいませ。\n"
+"今日はどういったものをお探しで？"
+msgstr ""
+
+msgctxt "14417"
+msgid ""
+"ありがとうございます。\n"
+"いかがなさいましょう？"
+msgstr ""
+
+msgctxt "14464"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14465"
+msgid "福引き券%d枚お渡しします。"
+msgstr ""
+
+msgctxt "14492"
+msgid ""
+"ありがとうございました。\n"
+"また、おこしください。"
+msgstr ""
+
+msgctxt "14541"
+msgid "またのご来店をお待ちしております。"
+msgstr ""
+
+msgctxt "14576"
+msgid ""
+"いらっしゃいませ。\n"
+"今日はどういったものをお探しで？"
+msgstr ""
+
+msgctxt "14629"
+msgid "またのご来店をお待ちしております。"
+msgstr ""
+
+msgctxt "14664"
+msgid "商品を見せてくれ。"
+msgstr ""
+
+msgctxt "14683"
+msgid ""
+"こちらです。\n"
+"いかがなさいますか？"
+msgstr ""
+
+msgctxt "14718"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14719"
+msgid "福引き券%d枚お渡しします。"
+msgstr ""
+
+msgctxt "14746"
+msgid ""
+"ありがとうございました！\n"
+"また、よろしくお願いします。"
+msgstr ""
+
+msgctxt "14801"
+msgid "ずいぶん品揃えのいい店だな。"
+msgstr ""
+
+msgctxt "14830"
+msgid ""
+"ありがとうございます。\n"
+"品揃えでは他の店に絶対負けませんよ。"
+msgstr ""
+
+msgctxt "14891"
+msgid ""
+"……だが、こんなに品物があったら、\n"
+"いざ、客に商品の場所を尋ねられた時に\n"
+"答えられなくないか？"
+msgstr ""
+
+msgctxt "14986"
+msgid ""
+"そんなことはありません。\n"
+"お客様のため、全ての商品の位置を\n"
+"頭の中に叩き込んでますよ。"
+msgstr ""
+
+msgctxt "15073"
+msgid ""
+"本当ならすごいと思うが……\n"
+"にわかには信じがたいな。"
+msgstr ""
+
+msgctxt "15126"
+msgid ""
+"ふふ……　それではお客様、\n"
+"何か気になる商品などございますか？\n"
+"その場所までご案内いたしますよ。"
+msgstr ""
+
+msgctxt "15223"
+msgid ""
+"ほう、おもしろい。\n"
+"じゃあそうだな……"
+msgstr ""
+
+msgctxt "15262"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15263"
+msgid "金平糖の場所を教えてくれ。"
+msgstr ""
+
+msgctxt "15290"
+msgid ""
+"はい、金平糖ですね。\n"
+"かしこまりました。"
+msgstr ""
+
+msgctxt "15331"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15332"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15333"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15334"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15335"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15336"
+msgid "こちらが金平糖です。"
+msgstr ""
+
+msgctxt "15357"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15358"
+msgid ""
+"まさか一瞬の迷いもなく、\n"
+"金平糖の場所まで案内されるとは……"
+msgstr ""
+
+msgctxt "15419"
+msgid "草履の場所を教えてくれ。"
+msgstr ""
+
+msgctxt "15444"
+msgid ""
+"はい、草履ですね。\n"
+"かしこまりました。"
+msgstr ""
+
+msgctxt "15483"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15484"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15485"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15486"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15487"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15488"
+msgid "こちらが草履です。"
+msgstr ""
+
+msgctxt "15507"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15508"
+msgid ""
+"まさか一瞬の迷いもなく、\n"
+"草履の場所まで案内されるとは……"
+msgstr ""
+
+msgctxt "15567"
+msgid "笛の場所を教えてくれ。"
+msgstr ""
+
+msgctxt "15590"
+msgid ""
+"はい、笛ですね。\n"
+"かしこまりました。"
+msgstr ""
+
+msgctxt "15627"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15628"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15629"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15630"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15631"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15632"
+msgid "こちらが笛です。"
+msgstr ""
+
+msgctxt "15649"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15650"
+msgid ""
+"まさか一瞬の迷いもなく、\n"
+"笛の場所まで案内されるとは……"
+msgstr ""
+
+msgctxt "15707"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15708"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15709"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15710"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15711"
+msgid ""
+"商品の場所をすべて覚えているというのも、\n"
+"どうやら嘘じゃなさそうだ。\n"
+"……疑ってすまなかったな。"
+msgstr ""
+
+msgctxt "15808"
+msgid ""
+"いえいえ、ご要望があれば\n"
+"どんなものでもすぐにお探しいたしますよ。"
+msgstr ""
+
+msgctxt "15875"
+msgid ""
+"……というわけで、\n"
+"これからもどん・きほーて洛内店を、\n"
+"よろしくお願いいたします。"
+msgstr ""
+
+msgctxt "15958"
+msgid ""
+"「どん・きほーての店員」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「どん・きほーての店員」と交流してみましょう。"
+msgstr ""
+
+msgctxt "17612"
+msgid "どん・きほーての店員"
+msgstr ""
+
+msgctxt "17633"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "17642"
+msgid "買い物をする"
+msgstr ""
+
+msgctxt "17655"
+msgid "やめる"
+msgstr ""
+
+msgctxt "17662"
+msgid "Player"
+msgstr ""
+
+msgctxt "17669"
+msgid "dummy"
+msgstr ""
+
+msgctxt "17675"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "17686"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "17696"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "17707"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "17715"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "17726"
+msgid "M_CHO_TLK_seiza_happy"
+msgstr ""
+
+msgctxt "17748"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "17759"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "17764"
+msgid "金平糖"
+msgstr ""
+
+msgctxt "17771"
+msgid "草履"
+msgstr ""
+
+msgctxt "17776"
+msgid "笛"
+msgstr ""
+
+msgctxt "17779"
+msgid "M_SHP_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "17801"
+msgid "M_SHP_TLK_stand_info_l"
+msgstr ""
+
+msgctxt "17824"
+msgid "M_SHP_TLK_stand_info_r"
+msgstr ""
+
+msgctxt "17847"
+msgid "M_CHO_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "17869"
+msgid "どん・きほーての店員との絆"
+msgstr ""

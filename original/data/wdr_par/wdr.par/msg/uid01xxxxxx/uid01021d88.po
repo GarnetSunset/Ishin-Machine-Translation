@@ -1,0 +1,11538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "257276"
+msgid ""
+"あれ、途中でやめちゃうの？\n"
+"材料もったいないよ……"
+msgstr ""
+
+msgctxt "257327"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257328"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257329"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257330"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257331"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257332"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257333"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257334"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257335"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257336"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257337"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257338"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257339"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257340"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257341"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257342"
+msgid ""
+"……おじさん、まずは包丁の使い方からだね。\n"
+"きっとすぐ、上手になるよ！"
+msgstr ""
+
+msgctxt "257413"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257414"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257415"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257416"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257418"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257421"
+msgid ""
+"美味しくできてるね。\n"
+"箸休めにぴったりだよ。"
+msgstr ""
+
+msgctxt "257466"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257467"
+msgid "「<Color:8>手作り浅漬け<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "257516"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257517"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257518"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257519"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257520"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257521"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257522"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257523"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257524"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257531"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257532"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257533"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257534"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257535"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257536"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257537"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257538"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257539"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257540"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "257591"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257593"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257594"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "257639"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257640"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257641"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257642"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "257687"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257688"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257689"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257690"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257691"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257692"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257693"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257694"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257695"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257696"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257697"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257699"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257700"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257701"
+msgid ""
+"すごく、美味しいよ、おじさん！\n"
+"ごはんがとまらないね！"
+msgstr ""
+
+msgctxt "257756"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257757"
+msgid "「<Color:8>手作り浅漬け[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "257812"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257813"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257814"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257815"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257816"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257817"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257818"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257819"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257820"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257821"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257822"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257823"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257824"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257825"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257826"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257827"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257828"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257829"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257830"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257831"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257832"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257833"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257834"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257835"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257836"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "257887"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257888"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257889"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257890"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "257935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257937"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257938"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "257983"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257984"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257985"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257986"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257987"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257988"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257989"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257990"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257991"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257992"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257993"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257994"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257995"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "257996"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "258039"
+msgid "……え？"
+msgstr ""
+
+msgctxt "258048"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "258097"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "258132"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "258217"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "258268"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258269"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258270"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258271"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258272"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258273"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258274"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258275"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258276"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258277"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258278"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258279"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258280"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258281"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258282"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258283"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258284"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258285"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258286"
+msgid ""
+"おじさん、ごめん……\n"
+"正直言って、これじゃ食べられないよ。\n"
+"次はがんばってね！"
+msgstr ""
+
+msgctxt "258365"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258366"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258367"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258368"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258369"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258370"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258371"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258372"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258373"
+msgid ""
+"おいしかったよ。\n"
+"ごはんがふっくら炊けてるね。"
+msgstr ""
+
+msgctxt "258420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258421"
+msgid "「<Color:8>かて飯<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "258464"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258465"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258466"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258467"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258468"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258469"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258470"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258471"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258472"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258473"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258474"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258475"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258476"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258477"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258478"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258479"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258480"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258481"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258482"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258483"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258484"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258485"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258486"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258487"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258488"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "258539"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258540"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258541"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258542"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "258587"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258589"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258590"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "258635"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258636"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258637"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258638"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258639"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258640"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258641"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258642"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258643"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258644"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258645"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258646"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258647"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258648"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258649"
+msgid ""
+"すごく、美味しいよ、おじさん！\n"
+"何杯もおかわりしちゃいそうだよ～！"
+msgstr ""
+
+msgctxt "258716"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258717"
+msgid "「<Color:8>かて飯[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "258766"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258767"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258768"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258769"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258770"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258772"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258773"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258774"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258775"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258776"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258777"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258779"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258781"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258782"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258783"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258784"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258785"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258786"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258787"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258788"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258789"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258790"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "258841"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258842"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258843"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258844"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "258889"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258890"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258891"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258892"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "258937"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258938"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258940"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258942"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258943"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258945"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258947"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258948"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258949"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "258950"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "258993"
+msgid "……え？"
+msgstr ""
+
+msgctxt "259002"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "259051"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "259086"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "259171"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "259222"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259234"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259240"
+msgid ""
+"おじさん、ごめん……\n"
+"正直言って、これじゃ食べられないよ。\n"
+"次はがんばってね！"
+msgstr ""
+
+msgctxt "259319"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259320"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259321"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259322"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259323"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259324"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259325"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259326"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259327"
+msgid ""
+"おいしかったよ。\n"
+"お汁もいい感じにできてるね。"
+msgstr ""
+
+msgctxt "259374"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259375"
+msgid "「<Color:8>ほっこり味噌汁<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "259426"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259427"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259428"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259429"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259430"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259431"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259432"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259433"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259434"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259435"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259436"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259437"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259438"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259439"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259440"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259441"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259442"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259443"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259444"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259445"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259446"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259447"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259448"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259449"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259450"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "259501"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259502"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259503"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259504"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "259549"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259550"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259551"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259552"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "259597"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259598"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259599"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259600"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259602"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259603"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259604"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259605"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259606"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259607"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259608"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259609"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259610"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259611"
+msgid ""
+"すごく、美味しいよ、おじさん！\n"
+"味付けも良いし、飲むとほっこりするね～。\n"
+"また作って欲しいな！"
+msgstr ""
+
+msgctxt "259706"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259707"
+msgid "「<Color:8>ほっこり味噌汁[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "259764"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259765"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259766"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259767"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259768"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259769"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259770"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259772"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259773"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259774"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259775"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259776"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259777"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259779"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259781"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259782"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259783"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259784"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259785"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259786"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259787"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259788"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "259839"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259840"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259841"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259842"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "259887"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259888"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259889"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259890"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "259935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259937"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259938"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259940"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259942"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259943"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259945"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259947"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "259948"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "259991"
+msgid "……え？"
+msgstr ""
+
+msgctxt "260000"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "260049"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "260084"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "260169"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "260220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260222"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260234"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260238"
+msgid ""
+"おじさん、ごめん……\n"
+"正直言って、これじゃ食べられないよ。\n"
+"次はがんばってね！"
+msgstr ""
+
+msgctxt "260317"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260318"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260319"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260320"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260321"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260322"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260323"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260324"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260325"
+msgid ""
+"おいしかったよ。\n"
+"具が色々あるから飽きずに食べられるね。"
+msgstr ""
+
+msgctxt "260382"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260383"
+msgid "「<Color:8>元気おむすび<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "260432"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260433"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260434"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260435"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260436"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260437"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260438"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260439"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260440"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260441"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260442"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260443"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260444"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260445"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260446"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260447"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260448"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260449"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260450"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260451"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260452"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260453"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260454"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260455"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260456"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "260507"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260508"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260509"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260510"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "260555"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260556"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260557"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260558"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "260603"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260604"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260605"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260606"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260607"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260608"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260609"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260610"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260611"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260612"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260613"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260614"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260617"
+msgid ""
+"すごく、美味しいよ、おじさん！\n"
+"これなら、私でも\n"
+"５個くらい食べられちゃいそうだよ～。"
+msgstr ""
+
+msgctxt "260704"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260705"
+msgid "「<Color:8>元気おむすび[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "260760"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260761"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260762"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260763"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260764"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260765"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260766"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260767"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260768"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260769"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260770"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260772"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260773"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260774"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260775"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260776"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260777"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260779"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260781"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260782"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260783"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260784"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "260835"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260836"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260837"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260838"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "260883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260886"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "260931"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260932"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260933"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260934"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260937"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260938"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260940"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260942"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260943"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "260944"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "260987"
+msgid "……え？"
+msgstr ""
+
+msgctxt "260996"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "261045"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "261080"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "261165"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "261216"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261217"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261218"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261222"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261234"
+msgid ""
+"おじさん、ごめん……\n"
+"正直言って、これじゃ食べられないよ。\n"
+"次はがんばってね！"
+msgstr ""
+
+msgctxt "261313"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261314"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261315"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261316"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261317"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261318"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261319"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261320"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261321"
+msgid ""
+"おいしかったよ。\n"
+"たまには、いつもと違うお味噌汁もいいね。"
+msgstr ""
+
+msgctxt "261380"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261381"
+msgid "「<Color:8>みなぎる味噌汁<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "261432"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261433"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261434"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261435"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261436"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261437"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261438"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261439"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261440"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261441"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261442"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261443"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261444"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261445"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261446"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261447"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261448"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261449"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261450"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261451"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261452"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261453"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261454"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261455"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261456"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "261507"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261508"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261509"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261510"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "261555"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261556"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261557"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261558"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "261603"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261604"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261605"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261606"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261607"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261608"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261609"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261610"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261611"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261612"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261613"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261614"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261617"
+msgid ""
+"すごく、美味しいよ、おじさん！\n"
+"刺激的な味が新鮮でやみつきになりそう～。"
+msgstr ""
+
+msgctxt "261690"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261691"
+msgid "「<Color:8>みなぎる味噌汁[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "261748"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261749"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261750"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261751"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261752"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261753"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261754"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261755"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261756"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261757"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261758"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261759"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261760"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261761"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261762"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261763"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261764"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261765"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261766"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261767"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261768"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261769"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261770"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261772"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "261823"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261824"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261825"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261826"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "261871"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261872"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261873"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261874"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "261919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261921"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261922"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261924"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261925"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261926"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261927"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261928"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261929"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261930"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261931"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "261932"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "261975"
+msgid "……え？"
+msgstr ""
+
+msgctxt "261984"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "262033"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "262068"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "262153"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "262204"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262205"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262206"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262207"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262208"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262209"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262210"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262211"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262212"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262213"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262214"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262215"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262216"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262217"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262218"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262222"
+msgid ""
+"おじさん……\n"
+"なんだか変な味がするよ。\n"
+"次は美味しく作ってね。"
+msgstr ""
+
+msgctxt "262285"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262286"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262287"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262288"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262289"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262290"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262291"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262292"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262293"
+msgid ""
+"おいしかったよ。\n"
+"寒い季節に、温かいお鍋はありがたいよね。"
+msgstr ""
+
+msgctxt "262352"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262353"
+msgid "「<Color:8>力持ち煮込み<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "262402"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262403"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262404"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262405"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262406"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262407"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262408"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262409"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262410"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262411"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262412"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262413"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262414"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262415"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262416"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262418"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262421"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262424"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262425"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262426"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "262477"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262478"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262479"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262480"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "262525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262528"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "262573"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262574"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262575"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262576"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262577"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262578"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262584"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262585"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262586"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262587"
+msgid ""
+"おじさん！　すっごく美味しくできてるよ!!\n"
+"うっかり食べ過ぎちゃいそうだよ～！"
+msgstr ""
+
+msgctxt "262664"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262665"
+msgid "「<Color:8>力持ち煮込み[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "262720"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262721"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262722"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262723"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262724"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262725"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262726"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262727"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262728"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262729"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262730"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262731"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262732"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262733"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262734"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262735"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262736"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262737"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262738"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262739"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262740"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262741"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262742"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262743"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262744"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "262795"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262796"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262797"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262798"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "262843"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262844"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262845"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262846"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "262891"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262892"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262893"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262894"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262895"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262896"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262897"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262898"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262899"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262900"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262901"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262902"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262903"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "262904"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "262947"
+msgid "……え？"
+msgstr ""
+
+msgctxt "262956"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "263005"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "263040"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "263125"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "263176"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263177"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263178"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263179"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263180"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263181"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263182"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263183"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263184"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263185"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263186"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263187"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263188"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263189"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263190"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263191"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263192"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263193"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263194"
+msgid ""
+"おじさん……\n"
+"なんだか変な味がするよ。\n"
+"次は美味しく作ってね。"
+msgstr ""
+
+msgctxt "263257"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263258"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263259"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263260"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263261"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263262"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263263"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263264"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263265"
+msgid ""
+"おいしかったよ。\n"
+"辛いお鍋は体がポカポカになっていいよね。"
+msgstr ""
+
+msgctxt "263324"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263325"
+msgid "「<Color:8>魚介たっぷり辛みそ鍋<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "263382"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263383"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263384"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263385"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263386"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263387"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263388"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263389"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263390"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263391"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263393"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263394"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263395"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263396"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263397"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263398"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263399"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263400"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263401"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263402"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263403"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263404"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263405"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263406"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "263457"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263458"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263459"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263460"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "263505"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263506"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263507"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263508"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "263553"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263554"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263555"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263556"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263557"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263558"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263559"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263560"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263561"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263562"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263563"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263564"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263565"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263566"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263567"
+msgid ""
+"おじさん！　すっごく美味しくできてるよ!!\n"
+"お鍋の具もいい味出してるし、\n"
+"お汁もお魚の旨味がいっぱいで最高だね！"
+msgstr ""
+
+msgctxt "263678"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263679"
+msgid "「<Color:8>魚介たっぷり辛みそ鍋[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "263742"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263743"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263744"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263745"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263746"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263747"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263748"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263749"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263750"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263751"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263752"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263753"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263754"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263755"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263756"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263757"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263758"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263759"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263760"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263761"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263762"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263763"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263764"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263765"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263766"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "263817"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263818"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263819"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263820"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "263865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263866"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263867"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263868"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "263913"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263914"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263915"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263916"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263917"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263918"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263921"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263922"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263924"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263925"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "263926"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "263969"
+msgid "……え？"
+msgstr ""
+
+msgctxt "263978"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "264027"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "264062"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "264147"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "264198"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264199"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264200"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264201"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264202"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264203"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264204"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264205"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264206"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264207"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264208"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264209"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264210"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264211"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264212"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264213"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264214"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264215"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264216"
+msgid ""
+"おじさん……\n"
+"なんだか変な味がするよ。\n"
+"次は美味しく作ってね。"
+msgstr ""
+
+msgctxt "264279"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264280"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264281"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264282"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264283"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264284"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264285"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264286"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264287"
+msgid ""
+"おいしかったよ。\n"
+"いろんな具材が一度に食べれるのがいいよね。"
+msgstr ""
+
+msgctxt "264348"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264349"
+msgid "「<Color:8>根性ちらし寿司<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "264400"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264401"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264402"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264403"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264404"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264405"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264406"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264407"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264408"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264409"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264410"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264411"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264412"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264413"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264414"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264415"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264416"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264418"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264421"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264424"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "264475"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264476"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264477"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264478"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "264523"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264524"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264526"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "264571"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264572"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264573"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264574"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264575"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264576"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264577"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264578"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264584"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264585"
+msgid ""
+"おじさん！　すっごく美味しくできてるよ!!\n"
+"酢飯もお酢の加減が最高だし、\n"
+"具もたくさん入ってて幸せな気持ちになったよ！"
+msgstr ""
+
+msgctxt "264702"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264703"
+msgid "「<Color:8>根性ちらし寿司[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "264760"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264761"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264762"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264763"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264764"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264765"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264766"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264767"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264768"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264769"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264770"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264772"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264773"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264774"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264775"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264776"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264777"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264779"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264781"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264782"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264783"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264784"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "264835"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264836"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264837"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264838"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "264883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264886"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "264931"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264932"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264933"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264934"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264937"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264938"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264940"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264942"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264943"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "264944"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "264987"
+msgid "……え？"
+msgstr ""
+
+msgctxt "264996"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "265045"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "265080"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "265165"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "265216"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265217"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265218"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265222"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265234"
+msgid ""
+"おじさん……\n"
+"なんだか変な味がするよ。\n"
+"次は美味しく作ってね。"
+msgstr ""
+
+msgctxt "265297"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265298"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265299"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265300"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265301"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265302"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265303"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265304"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265305"
+msgid ""
+"おいしかったよ。\n"
+"揚げるとお野菜が甘く感じるね。"
+msgstr ""
+
+msgctxt "265354"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265355"
+msgid "「<Color:8>爽快香味かき揚げ<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "265408"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265409"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265410"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265411"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265412"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265413"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265414"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265415"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265416"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265418"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265421"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265424"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265425"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265426"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265427"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265428"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265429"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265430"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265431"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265432"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "265483"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265484"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265485"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265486"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "265531"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265532"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265533"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265534"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "265579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265584"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265585"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265586"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265587"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265589"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265590"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265591"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265593"
+msgid ""
+"おじさん！　すっごく美味しくできてるよ!!\n"
+"いろんな具材の味と、油のコクが合わさって最高～。\n"
+"しかも、衣がサックサク！"
+msgstr ""
+
+msgctxt "265710"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265711"
+msgid "「<Color:8>爽快香味かき揚げ[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "265770"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265772"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265773"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265774"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265775"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265776"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265777"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265779"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265781"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265782"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265783"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265784"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265785"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265786"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265787"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265788"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265789"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265790"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265791"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265792"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265793"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265794"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "265845"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265846"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265847"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265848"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "265893"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265894"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265895"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265896"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "265941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265942"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265943"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265945"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265947"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265948"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265949"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265950"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265951"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265953"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "265954"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "265997"
+msgid "……え？"
+msgstr ""
+
+msgctxt "266006"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "266055"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "266090"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "266175"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "266226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266234"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266240"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266241"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266242"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266243"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266244"
+msgid ""
+"おじさん……\n"
+"なんだか変な味がするよ。\n"
+"次は美味しく作ってね。"
+msgstr ""
+
+msgctxt "266307"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266308"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266309"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266310"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266311"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266312"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266313"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266314"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266315"
+msgid ""
+"おいしかったよ。\n"
+"それにしても、ほんとに真っ赤な煮物だね。\n"
+"気のせいかもしれないけど、元気が出てきたよ。"
+msgstr ""
+
+msgctxt "266420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266421"
+msgid "「<Color:8>鉄火煮<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "266464"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266465"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266466"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266467"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266468"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266469"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266470"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266471"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266472"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266473"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266474"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266475"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266476"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266477"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266478"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266479"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266480"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266481"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266482"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266483"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266484"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266485"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266486"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266487"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266488"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "266539"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266540"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266541"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266542"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "266587"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266589"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266590"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "266635"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266636"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266637"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266638"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266639"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266640"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266641"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266642"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266643"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266644"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266645"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266646"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266647"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266648"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266649"
+msgid ""
+"おじさん！　すっごく美味しくできてるよ!!\n"
+"それだけじゃなくて、やる気とか、未来への希望とか\n"
+"いろんなものが込み上げて、興奮してきたよ！"
+msgstr ""
+
+msgctxt "266784"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266785"
+msgid "「<Color:8>鉄火煮[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "266834"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266835"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266836"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266837"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266838"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266839"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266840"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266841"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266842"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266843"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266844"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266845"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266846"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266847"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266848"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266849"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266850"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266851"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266852"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266853"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266854"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266855"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266856"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266857"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266858"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "266909"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266910"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266911"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266912"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "266957"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266958"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266959"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "266960"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "267005"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267006"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267007"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267008"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267009"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267010"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267011"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267012"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267013"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267014"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267015"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267016"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267017"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267018"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "267061"
+msgid "……え？"
+msgstr ""
+
+msgctxt "267070"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "267119"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "267154"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "267239"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "267290"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267291"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267292"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267293"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267294"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267295"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267296"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267297"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267298"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267299"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267300"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267301"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267302"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267303"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267304"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267305"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267306"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267307"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267308"
+msgid ""
+"おじさん……\n"
+"なんだか変な味がするよ。\n"
+"次は美味しく作ってね。"
+msgstr ""
+
+msgctxt "267371"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267372"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267373"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267374"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267375"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267376"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267377"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267378"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267379"
+msgid ""
+"おいしかったよ。\n"
+"お野菜がいっぱい食べれてうれしいな。"
+msgstr ""
+
+msgctxt "267434"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267435"
+msgid "「<Color:8>すっきり野菜の和え物<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "267492"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267493"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267494"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267495"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267496"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267497"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267498"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267499"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267500"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267501"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267502"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267503"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267504"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267505"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267506"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267507"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267508"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267509"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267510"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267511"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267512"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267513"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267514"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267515"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267516"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "267567"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267568"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267569"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267570"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "267615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267617"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267618"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "267663"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267664"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267665"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267666"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267667"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267668"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267669"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267670"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267671"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267672"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267673"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267674"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267675"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267676"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267677"
+msgid ""
+"おじさん！　すっごく美味しくできてるよ!!\n"
+"お野菜の食感も、味付けも本当にいい塩梅～。\n"
+"なんだか爽やかな気分になったよ！"
+msgstr ""
+
+msgctxt "267796"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267797"
+msgid "「<Color:8>すっきり野菜の和え物[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "267860"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267861"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267862"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267863"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267864"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267866"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267867"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267868"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267869"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267870"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267871"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267872"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267873"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267874"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267875"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267876"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267877"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267878"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267879"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267880"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267881"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267882"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267884"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "267935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267937"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267938"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "267983"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267984"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267985"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "267986"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "268031"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268032"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268033"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268034"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268035"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268036"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268037"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268038"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268039"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268040"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268041"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268042"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268043"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268044"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "268087"
+msgid "……え？"
+msgstr ""
+
+msgctxt "268096"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "268145"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "268180"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "268265"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "268316"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268317"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268318"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268319"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268320"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268321"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268322"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268323"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268324"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268325"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268326"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268327"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268328"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268329"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268330"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268331"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268332"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268333"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268334"
+msgid ""
+"おじさん……\n"
+"なんだか変な味がするよ。\n"
+"次は美味しく作ってね。"
+msgstr ""
+
+msgctxt "268397"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268398"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268399"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268400"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268401"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268402"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268403"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268404"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268405"
+msgid ""
+"おいしかったよ。\n"
+"やっぱり食卓の真ん中には、焼き魚だよね。"
+msgstr ""
+
+msgctxt "268464"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268465"
+msgid "「<Color:8>しっかり焼き魚<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "268516"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268517"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268518"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268519"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268520"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268521"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268522"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268523"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268524"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268531"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268532"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268533"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268534"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268535"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268536"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268537"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268538"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268539"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268540"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "268591"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268593"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268594"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "268639"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268640"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268641"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268642"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "268687"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268688"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268689"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268690"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268691"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268692"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268693"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268694"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268695"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268696"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268697"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268699"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268700"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268701"
+msgid ""
+"おじさん！　すっごく美味しくできてるよ!!\n"
+"身がほんとにふっくら焼きあがってる！\n"
+"皮目も狐色の焼き目がパリパリでいい感じ～。"
+msgstr ""
+
+msgctxt "268824"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268825"
+msgid "「<Color:8>しっかり焼き魚[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "268882"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268886"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268887"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268888"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268889"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268890"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268891"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268892"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268893"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268894"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268895"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268896"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268897"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268898"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268899"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268900"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268901"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268902"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268903"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268904"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268905"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268906"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "268957"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268958"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268959"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "268960"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "269005"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269006"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269007"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269008"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "269053"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269054"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269055"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269056"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269057"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269058"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269059"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269060"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269061"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269062"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269066"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "269109"
+msgid "……え？"
+msgstr ""
+
+msgctxt "269118"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "269167"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "269202"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "269287"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "269338"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269339"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269340"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269341"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269342"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269343"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269344"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269345"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269346"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269347"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269348"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269349"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269350"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269351"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269352"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269353"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269354"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269355"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269356"
+msgid ""
+"うーん、なんだか微妙な味がする……\n"
+"ちょっと難しい料理だったね。\n"
+"次はもうちょっとうまく作れるといいね。"
+msgstr ""
+
+msgctxt "269461"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269462"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269463"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269464"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269465"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269466"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269467"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269468"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269469"
+msgid ""
+"おいしかったよ。\n"
+"イカとお味噌ってすごく合うよね。"
+msgstr ""
+
+msgctxt "269520"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269521"
+msgid "「<Color:8>漁師のてっぽう焼き<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "269576"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269577"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269578"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269584"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269585"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269586"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269587"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269589"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269590"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269591"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269593"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269594"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269595"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269596"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269597"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269598"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269599"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269600"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "269651"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269652"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269653"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269654"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "269699"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269700"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269701"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269702"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "269747"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269748"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269749"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269750"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269751"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269752"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269753"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269754"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269755"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269756"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269757"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269758"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269759"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269760"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269761"
+msgid ""
+"ものすっごく美味しい！　私、大好きな味だよ！\n"
+"やわらかく焼きあがってるし、特に\n"
+"お味噌が少し焦げてるところがたまんないね！"
+msgstr ""
+
+msgctxt "269884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269885"
+msgid "「<Color:8>漁師のてっぽう焼き[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "269946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269947"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269948"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269949"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269950"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269951"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269953"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269955"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269956"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269957"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269958"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269959"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269960"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269961"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269962"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269963"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269964"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269965"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269966"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269967"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269968"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269969"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "269970"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "270021"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270022"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270023"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270024"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "270069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270070"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270071"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270072"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "270117"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270118"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270119"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270120"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270121"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270122"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270123"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270124"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270125"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270126"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270127"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270128"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270129"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270130"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "270173"
+msgid "……え？"
+msgstr ""
+
+msgctxt "270182"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "270231"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "270266"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "270351"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "270402"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270403"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270404"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270405"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270406"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270407"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270408"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270409"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270410"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270411"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270412"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270413"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270414"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270415"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270416"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270418"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270420"
+msgid ""
+"うーん、なんだか微妙な味がする……\n"
+"ちょっと難しい料理だったね。\n"
+"次はもうちょっとうまく作れるといいね。"
+msgstr ""
+
+msgctxt "270525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270531"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270532"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270533"
+msgid ""
+"おいしかったよ。\n"
+"味付けがやさしくて、体にしみじみ染みわたるね。"
+msgstr ""
+
+msgctxt "270598"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270599"
+msgid "「<Color:8>疲れ知らずの滋養鍋<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "270654"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270655"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270656"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270657"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270658"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270659"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270660"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270661"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270662"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270663"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270664"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270665"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270666"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270667"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270668"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270669"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270670"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270671"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270672"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270673"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270674"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270675"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270676"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270677"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270678"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "270729"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270730"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270731"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270732"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "270777"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270779"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270780"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "270825"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270826"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270827"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270828"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270829"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270830"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270831"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270832"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270833"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270834"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270835"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270836"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270837"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270838"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270839"
+msgid ""
+"ものすっごく美味しい！　私、大好きな味だよ！\n"
+"あっさりしてるから具材の味が引き立ってるね。\n"
+"お汁も味わい深くて……　シメは雑炊にしたいよ～。"
+msgstr ""
+
+msgctxt "270980"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "270981"
+msgid "「<Color:8>疲れ知らずの滋養鍋[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "271042"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271043"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271044"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271045"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271046"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271047"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271048"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271049"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271050"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271051"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271052"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271053"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271054"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271055"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271056"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271057"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271058"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271059"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271060"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271061"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271062"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271066"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "271117"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271118"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271119"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271120"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "271165"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271166"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271167"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271168"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "271213"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271214"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271215"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271216"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271217"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271218"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271222"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271226"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "271269"
+msgid "……え？"
+msgstr ""
+
+msgctxt "271278"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "271327"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "271362"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "271447"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "271498"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271499"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271500"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271501"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271502"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271503"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271504"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271505"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271506"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271507"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271508"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271509"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271510"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271511"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271512"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271513"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271514"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271515"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271516"
+msgid ""
+"うーん、なんだか微妙な味がする……\n"
+"ちょっと難しい料理だったね。\n"
+"次はもうちょっとうまく作れるといいね。"
+msgstr ""
+
+msgctxt "271621"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271622"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271623"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271624"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271625"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271626"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271627"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271628"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271629"
+msgid ""
+"おいしかったよ。\n"
+"「ん」（運）のつく食材、いっぱい食べたから\n"
+"今日はいいことありそうな気がしてきたよ。"
+msgstr ""
+
+msgctxt "271732"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271733"
+msgid "「<Color:8>幸せうどん<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "271780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271781"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271782"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271783"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271784"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271785"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271786"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271787"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271788"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271789"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271790"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271791"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271792"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271793"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271794"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271795"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271796"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271797"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271798"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271799"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271800"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271801"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271802"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271803"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271804"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "271855"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271856"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271857"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271858"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "271903"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271904"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271905"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271906"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "271951"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271953"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271955"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271956"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271957"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271958"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271959"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271960"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271961"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271962"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271963"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271964"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "271965"
+msgid ""
+"ものすっごく美味しい！　私、大好きな味だよ！\n"
+"お出汁がきいてるし、おうどんもシコシコ！\n"
+"お野菜のほっくりした感じも最高だよ。"
+msgstr ""
+
+msgctxt "272090"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272091"
+msgid "「<Color:8>幸せうどん[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "272144"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272145"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272146"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272147"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272148"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272149"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272150"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272151"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272152"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272153"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272154"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272155"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272156"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272157"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272158"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272159"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272160"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272161"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272162"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272163"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272164"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272165"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272166"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272167"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272168"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "272219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272222"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "272267"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272268"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272269"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272270"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "272315"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272316"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272317"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272318"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272319"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272320"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272321"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272322"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272323"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272324"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272325"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272326"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272327"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272328"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "272371"
+msgid "……え？"
+msgstr ""
+
+msgctxt "272380"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "272429"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "272464"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "272549"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "272600"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272602"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272603"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272604"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272605"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272606"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272607"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272608"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272609"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272610"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272611"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272612"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272613"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272614"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272617"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272618"
+msgid ""
+"うーん、なんだか微妙な味がする……\n"
+"ちょっと難しい料理だったね。\n"
+"次はもうちょっとうまく作れるといいね。"
+msgstr ""
+
+msgctxt "272723"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272724"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272725"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272726"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272727"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272728"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272729"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272730"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272731"
+msgid ""
+"おいしかったよ。\n"
+"とっても甘くて、食べると疲れが吹き飛ぶね。"
+msgstr ""
+
+msgctxt "272792"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272793"
+msgid "「<Color:8>ちゃっかり加須底羅<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "272848"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272849"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272850"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272851"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272852"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272853"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272854"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272855"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272856"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272857"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272858"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272859"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272860"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272861"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272862"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272863"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272864"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272866"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272867"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272868"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272869"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272870"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272871"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272872"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "272923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272924"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272925"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272926"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "272971"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272972"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272973"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "272974"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "273019"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273020"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273021"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273022"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273023"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273024"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273025"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273026"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273027"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273028"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273029"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273030"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273031"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273032"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273033"
+msgid ""
+"ものすっごく美味しい！　私、大好きな味だよ！\n"
+"生地がふわふわだし、舌触りも最高～！\n"
+"口いっぱいに頬張りたくなっちゃうよ!!"
+msgstr ""
+
+msgctxt "273154"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273155"
+msgid "「<Color:8>ちゃっかり加須底羅[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "273216"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273217"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273218"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273222"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273234"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273240"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "273291"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273292"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273293"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273294"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "273339"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273340"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273341"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273342"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "273387"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273388"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273389"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273390"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273391"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273393"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273394"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273395"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273396"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273397"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273398"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273399"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273400"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "273443"
+msgid "……え？"
+msgstr ""
+
+msgctxt "273452"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "273501"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "273536"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "273621"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "273672"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273673"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273674"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273675"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273676"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273677"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273678"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273679"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273680"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273681"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273682"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273683"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273684"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273685"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273686"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273687"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273688"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273689"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273690"
+msgid ""
+"うーん、なんだか微妙な味がする……\n"
+"ちょっと難しい料理だったね。\n"
+"次はもうちょっとうまく作れるといいね。"
+msgstr ""
+
+msgctxt "273795"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273796"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273797"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273798"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273799"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273800"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273801"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273802"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273803"
+msgid ""
+"おいしかったよ。\n"
+"これだけたくさん入ったお重なら、\n"
+"お相撲さんでも満足できるね。"
+msgstr ""
+
+msgctxt "273884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273885"
+msgid "「<Color:8>はなまる重<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "273932"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273933"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273934"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273937"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273938"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273940"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273942"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273943"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273945"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273947"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273948"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273949"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273950"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273951"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273953"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273955"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "273956"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "274007"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274008"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274009"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274010"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "274055"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274056"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274057"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274058"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "274103"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274104"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274105"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274106"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274107"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274108"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274109"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274110"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274111"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274112"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274113"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274114"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274115"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274116"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274117"
+msgid ""
+"すごく美味しいよ、おじさん！\n"
+"いろんなお惣菜が入ってて目移りしちゃう～。\n"
+"このお重があったら、みんな笑顔になるね。"
+msgstr ""
+
+msgctxt "274232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274233"
+msgid "「<Color:8>はなまる重[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "274286"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274287"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274288"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274289"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274290"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274291"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274292"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274293"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274294"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274295"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274296"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274297"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274298"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274299"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274300"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274301"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274302"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274303"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274304"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274305"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274306"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274307"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274308"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274309"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274310"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "274361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274362"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274363"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274364"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "274409"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274410"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274411"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274412"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "274457"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274458"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274459"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274460"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274461"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274462"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274463"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274464"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274465"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274466"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274467"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274468"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274469"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274470"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "274513"
+msgid "……え？"
+msgstr ""
+
+msgctxt "274522"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "274571"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "274606"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "274691"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "274742"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274743"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274744"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274745"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274746"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274747"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274748"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274749"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274750"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274751"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274752"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274753"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274754"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274755"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274756"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274757"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274758"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274759"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274760"
+msgid ""
+"うーん、なんだか微妙な味がする……\n"
+"ちょっと難しい料理だったね。\n"
+"次はもうちょっとうまく作れるといいね。"
+msgstr ""
+
+msgctxt "274865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274866"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274867"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274868"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274869"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274870"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274871"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274872"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274873"
+msgid ""
+"おいしかったよ。\n"
+"すっぽんを食べたせいか体がぽかぽかしてきたよ。"
+msgstr ""
+
+msgctxt "274938"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274939"
+msgid "「<Color:8>鬼神弁当<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "274984"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274985"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274986"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274987"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274988"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274989"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274990"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274991"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274992"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274993"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274994"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274995"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274996"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274997"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274998"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "274999"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275000"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275001"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275002"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275003"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275004"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275005"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275006"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275007"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275008"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "275059"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275060"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275061"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275062"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "275107"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275108"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275109"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275110"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "275155"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275156"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275157"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275158"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275159"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275160"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275161"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275162"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275163"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275164"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275165"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275166"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275167"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275168"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275169"
+msgid ""
+"ものすっごく美味しい！　私、大好きな味だよ！\n"
+"普段あまり食べない食材に、刺激的な味付けで\n"
+"お家で食べるごはんじゃないみたいだね！"
+msgstr ""
+
+msgctxt "275298"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275299"
+msgid "「<Color:8>鬼神弁当[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "275350"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275351"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275352"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275353"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275354"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275355"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275356"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275357"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275358"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275359"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275360"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275362"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275363"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275364"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275365"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275366"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275367"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275368"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275369"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275370"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275371"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275372"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275373"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275374"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "275425"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275426"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275427"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275428"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "275473"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275474"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275475"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275476"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "275521"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275522"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275523"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275524"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275531"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275532"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275533"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275534"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "275577"
+msgid "……え？"
+msgstr ""
+
+msgctxt "275586"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "275635"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "275670"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "275755"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "275806"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275807"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275808"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275809"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275810"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275811"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275812"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275813"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275814"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275815"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275816"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275817"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275818"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275819"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275820"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275821"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275822"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275823"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275824"
+msgid ""
+"うーん、なんだか微妙な味がする……\n"
+"ちょっと難しい料理だったね。\n"
+"次はもうちょっとうまく作れるといいね。"
+msgstr ""
+
+msgctxt "275929"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275930"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275931"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275932"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275933"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275934"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "275937"
+msgid ""
+"おいしかったよ。\n"
+"調子悪い時に食べると体調を整えてくれそうだよね。"
+msgstr ""
+
+msgctxt "276004"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276005"
+msgid "「<Color:8>すこやか薬効膳<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "276056"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276057"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276058"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276059"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276060"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276061"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276062"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276066"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276067"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276068"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276070"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276071"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276072"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276073"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276074"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276075"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276076"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276077"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276078"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276079"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276080"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "276131"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276132"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276133"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276134"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "276179"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276180"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276181"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276182"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "276227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276234"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276240"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276241"
+msgid ""
+"ものすっごく美味しい！　私、大好きな味だよ！\n"
+"いろんなお野菜がまんべんなく取れるし、\n"
+"程よい味付けで、気持ちがホッとするね～。"
+msgstr ""
+
+msgctxt "276368"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276369"
+msgid "「<Color:8>すこやか薬効膳[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "276426"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276427"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276428"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276429"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276430"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276431"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276432"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276433"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276434"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276435"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276436"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276437"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276438"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276439"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276440"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276441"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276442"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276443"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276444"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276445"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276446"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276447"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276448"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276449"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276450"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "276501"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276502"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276503"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276504"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "276549"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276550"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276551"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276552"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "276597"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276598"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276599"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276600"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276602"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276603"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276604"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276605"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276606"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276607"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276608"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276609"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276610"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "276653"
+msgid "……え？"
+msgstr ""
+
+msgctxt "276662"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "276711"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "276746"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "276831"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "276882"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276886"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276887"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276888"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276889"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276890"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276891"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276892"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276893"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276894"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276895"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276896"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276897"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276898"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276899"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "276900"
+msgid ""
+"うーん、なんだか微妙な味がする……\n"
+"ちょっと難しい料理だったね。\n"
+"次はもうちょっとうまく作れるといいね。"
+msgstr ""
+
+msgctxt "277005"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277006"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277007"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277008"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277009"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277010"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277011"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277012"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277013"
+msgid ""
+"おいしかったよ。\n"
+"おいしかったと思うけど、\n"
+"正直なところ辛すぎてよくわからなかったよ。"
+msgstr ""
+
+msgctxt "277100"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277101"
+msgid "「<Color:8>超激辛ちゃんこ鍋<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "277154"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277155"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277156"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277157"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277158"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277159"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277160"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277161"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277162"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277163"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277164"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277165"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277166"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277167"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277168"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277169"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277170"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277171"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277172"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277173"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277174"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277175"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277176"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277177"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277178"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "277229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277232"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "277277"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277278"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277279"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277280"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "277325"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277326"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277327"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277328"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277329"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277330"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277331"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277332"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277333"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277334"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277335"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277336"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277337"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277338"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277339"
+msgid ""
+"ものすっごく辛い！　おじさんこれは本当に辛いよ!!\n"
+"最初は、熱い気持ちになってたけど、\n"
+"あまりに辛すぎて、逆に、冷静になってきたよ!!"
+msgstr ""
+
+msgctxt "277470"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277471"
+msgid "「<Color:8>超激辛ちゃんこ鍋[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "277530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277531"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277532"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277533"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277534"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277535"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277536"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277537"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277538"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277539"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277540"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277541"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277542"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277543"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277544"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277545"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277546"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277547"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277548"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277549"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277550"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277551"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277552"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277553"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277554"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "277605"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277606"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277607"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277608"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "277653"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277654"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277655"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277656"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "277701"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277702"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277703"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277704"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277705"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277706"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277707"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277708"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277709"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277710"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277711"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277712"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277713"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277714"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "277757"
+msgid "……え？"
+msgstr ""
+
+msgctxt "277766"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "277815"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "277850"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "277935"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "277986"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277987"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277988"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277989"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277990"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277991"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277992"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277993"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277994"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277995"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277996"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277997"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277998"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "277999"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278000"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278001"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278002"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278003"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278004"
+msgid ""
+"おじさん……\n"
+"なんだか変な味がするよ。\n"
+"次は美味しく作ってね。"
+msgstr ""
+
+msgctxt "278067"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278068"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278070"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278071"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278072"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278073"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278074"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278075"
+msgid ""
+"おいしかったよ～！\n"
+"ころころ揚げって本当においしいよね～！\n"
+"もう一個、食べたいなぁ～。"
+msgstr ""
+
+msgctxt "278162"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278163"
+msgid "「<Color:8>革命ころころ揚げ<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "278216"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278217"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278218"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278222"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278234"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278240"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "278291"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278292"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278293"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278294"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "278339"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278340"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278341"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278342"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "278387"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278388"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278389"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278390"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278391"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278393"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278394"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278395"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278396"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278397"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278398"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278399"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278400"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278401"
+msgid ""
+"おじさん！　私これ大好きなんだ！\n"
+"ほっくほくのおイモと、衣のサクサクが絶妙！\n"
+"おじさんまた作ってね！　絶対だよ！"
+msgstr ""
+
+msgctxt "278514"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278515"
+msgid "「<Color:8>革命ころころ揚げ[特上]<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "278574"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278575"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278576"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278577"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278578"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278584"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278585"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278586"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278587"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278589"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278590"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278591"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278593"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278594"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278595"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278596"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278597"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278598"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "278649"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278650"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278651"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278652"
+msgid "「<Color:8>水神石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "278697"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278699"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278700"
+msgid "「<Color:8>火打石<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "278745"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278746"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278747"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278748"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278749"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278750"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278751"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278752"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278753"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278754"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278755"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278756"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278757"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "278758"
+msgid "あ！　おじさん、まな板が割れちゃってるよ！"
+msgstr ""
+
+msgctxt "278801"
+msgid "……え？"
+msgstr ""
+
+msgctxt "278810"
+msgid ""
+"あぁ……\n"
+"仕方がないから新しいのに替えておくね。"
+msgstr ""
+
+msgctxt "278859"
+msgid "すまん、ちょっと力入れすぎたか……"
+msgstr ""
+
+msgctxt "278894"
+msgid ""
+"……ふふっ！\n"
+"まさか、包丁でまな板まで切っちゃう人がいるなんて\n"
+"思ってもなかったよ。"
+msgstr ""
+
+msgctxt "278979"
+msgid "「<Color:8>割れたまな板<Color:Default>」を入手した"
+msgstr ""
+
+msgctxt "279030"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279031"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279032"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279033"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279034"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279035"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279036"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279037"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279038"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279039"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279040"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279041"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279042"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279043"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279044"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279045"
+msgid ""
+"おじさん！　この梅干しめちゃくちゃ酸っぱいよ！\n"
+"やっぱり季節外れの梅でつけたからかな？\n"
+"酸っぱさが尋常じゃないよ！"
+msgstr ""
+
+msgctxt "279160"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279161"
+msgid "「<Color:8>梅干し<Color:Default>」が出来た"
+msgstr ""
+
+msgctxt "279204"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279205"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279206"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279207"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279208"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279209"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279210"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "279472"
+msgid "遥"
+msgstr ""
+
+msgctxt "279475"
+msgid "0"
+msgstr ""
+
+msgctxt "279477"
+msgid "dummy"
+msgstr ""
+
+msgctxt "279483"
+msgid "F_HAL_AL_stand_cook_res_bad"
+msgstr ""
+
+msgctxt "279511"
+msgid "F_HAL_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "279533"
+msgid "ArmsID"
+msgstr ""
+
+msgctxt "279540"
+msgid "F_HAL_AL_stand_cook_res_nml"
+msgstr ""
+
+msgctxt "279568"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "279577"
+msgid "F_HAL_AL_stand_cook_res_good"
+msgstr ""
+
+msgctxt "279606"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "279617"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "279622"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "279631"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "279642"
+msgid "F_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "279664"
+msgid "M_CLD_ACT_stand_talk_big_lp"
+msgstr ""
+
+msgctxt "279692"
+msgid "M_CLD_ACT_stand_talk_big_st"
+msgstr ""
+
+msgctxt "279720"
+msgid "haruka_ryouri"
+msgstr ""

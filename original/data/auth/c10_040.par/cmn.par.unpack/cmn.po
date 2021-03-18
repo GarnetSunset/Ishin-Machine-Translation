@@ -1,0 +1,384 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "942524"
+msgid "ずいぶん早いお帰りで"
+msgstr ""
+
+msgctxt "942668"
+msgid "沖田"
+msgstr ""
+
+msgctxt "942812"
+msgid "それに井上　永倉"
+msgstr ""
+
+msgctxt "942956"
+msgid "局長"
+msgstr ""
+
+msgctxt "943100"
+msgid "土佐での一仕事　お疲れ様でした"
+msgstr ""
+
+msgctxt "943244"
+msgid "何の話だ"
+msgstr ""
+
+msgctxt "943388"
+msgid "鴨さん　あなたが水戸藩にいた頃から……"
+msgstr ""
+
+msgctxt "943532"
+msgid ""
+"こうした闇仕事を\n"
+"受けていたことは知っています"
+msgstr ""
+
+msgctxt "943676"
+msgid ""
+"あなたが\n"
+"あの相州乱波　風魔由来の剣術"
+msgstr ""
+
+msgctxt "943820"
+msgid "水戸天狗流の宗家ということもね"
+msgstr ""
+
+msgctxt "943964"
+msgid "俺の素性を知った上で……"
+msgstr ""
+
+msgctxt "944108"
+msgid ""
+"土佐から戻ってくる時を\n"
+"狙って待っていたというわけか"
+msgstr ""
+
+msgctxt "944252"
+msgid ""
+"近藤さんは\n"
+"あなた達“水戸組”を優遇しすぎている"
+msgstr ""
+
+msgctxt "944396"
+msgid "京の道場で偶然知り合った……"
+msgstr ""
+
+msgctxt "944540"
+msgid ""
+"罪人同然だったあなた方を\n"
+"壬生浪士組に暖かく迎え入れた"
+msgstr ""
+
+msgctxt "944684"
+msgid "その剣の腕を買ってね"
+msgstr ""
+
+msgctxt "944828"
+msgid ""
+"だがこのままでは\n"
+"“試衛館”一派の我々の立場が危ぶまれる"
+msgstr ""
+
+msgctxt "944972"
+msgid "やめろ"
+msgstr ""
+
+msgctxt "945116"
+msgid "まさか身内で殺しあうつもりか"
+msgstr ""
+
+msgctxt "945260"
+msgid ""
+"ここにいる我々３人は\n"
+"あなたを身内と思っていませんよ"
+msgstr ""
+
+msgctxt "945404"
+msgid "沖田……"
+msgstr ""
+
+msgctxt "945548"
+msgid "安心してください"
+msgstr ""
+
+msgctxt "945692"
+msgid ""
+"平山と平間は\n"
+"薬でぐっすり寝かせておきました"
+msgstr ""
+
+msgctxt "945836"
+msgid ""
+"あなたを殺したあとで\n"
+"ちゃんと後を追わせますから"
+msgstr ""
+
+msgctxt "945980"
+msgid "芹沢鴨……"
+msgstr ""
+
+msgctxt "946124"
+msgid "覚悟！"
+msgstr ""
+
+msgctxt "946268"
+msgid "あれは……？"
+msgstr ""
+
+msgctxt "946412"
+msgid "沖田！？"
+msgstr ""
+
+msgctxt "946556"
+msgid "おい五郎　起きろ！"
+msgstr ""
+
+msgctxt "946700"
+msgid "何やねん？"
+msgstr ""
+
+msgctxt "946844"
+msgid "鴨さん！"
+msgstr ""
+
+msgctxt "946988"
+msgid ""
+"来るな！\n"
+"お前たちは来るな！！"
+msgstr ""
+
+msgctxt "947132"
+msgid "鴨さん！！"
+msgstr ""
+
+msgctxt "947276"
+msgid "死ね……　芹沢！"
+msgstr ""
+
+msgctxt "947420"
+msgid "鴨さん……"
+msgstr ""
+
+msgctxt "947564"
+msgid "何でこないなことに……"
+msgstr ""
+
+msgctxt "947708"
+msgid "近藤殿　土方殿"
+msgstr ""
+
+msgctxt "947852"
+msgid ""
+"さすが水戸天狗流\n"
+"総司をもってしても敵わなかったのか"
+msgstr ""
+
+msgctxt "947996"
+msgid ""
+"行き違いがあったとはいえ\n"
+"私は浪士組の同志を殺めてしまった"
+msgstr ""
+
+msgctxt "948140"
+msgid ""
+"私は切腹致します　ですからどうか\n"
+"どうか　平山と平間の命だけは！！"
+msgstr ""
+
+msgctxt "948284"
+msgid "なんで謝るんや鴨さん！"
+msgstr ""
+
+msgctxt "948428"
+msgid "先に殺しに来たんは沖田達の方やろが！"
+msgstr ""
+
+msgctxt "948572"
+msgid "それに沖田を殺したのは俺と五郎や"
+msgstr ""
+
+msgctxt "948716"
+msgid "鴨さんだけの責任やない"
+msgstr ""
+
+msgctxt "948860"
+msgid "黙れ！"
+msgstr ""
+
+msgctxt "949004"
+msgid ""
+"近藤局長は　影として水戸藩に使い捨てられた\n"
+"俺たちを救ってくれた"
+msgstr ""
+
+msgctxt "949148"
+msgid ""
+"もはや陽の当たる場所では\n"
+"生きる道のなかった俺たちをな"
+msgstr ""
+
+msgctxt "949292"
+msgid ""
+"だがその愛弟子殿を殺めたんだ\n"
+"その罪は　俺の死をもって償うほかない"
+msgstr ""
+
+msgctxt "949436"
+msgid ""
+"せやけど\n"
+"悪いのはウチらやないはずや！"
+msgstr ""
+
+msgctxt "949580"
+msgid "その通りだ"
+msgstr ""
+
+msgctxt "949724"
+msgid ""
+"謝んなきゃならねえのは\n"
+"こっちだよ鴨さん"
+msgstr ""
+
+msgctxt "949868"
+msgid ""
+"総司たちはアンタ達\n"
+"“水戸組”の剣の腕を恐れてた"
+msgstr ""
+
+msgctxt "950012"
+msgid "だから勝手にこんなことを"
+msgstr ""
+
+msgctxt "950156"
+msgid "近藤殿"
+msgstr ""
+
+msgctxt "950300"
+msgid ""
+"だが\n"
+"やっちまったもんは仕方ねえ"
+msgstr ""
+
+msgctxt "950444"
+msgid "アンタらには……"
+msgstr ""
+
+msgctxt "950588"
+msgid "きっちり死んでもらうよ"
+msgstr ""
+
+msgctxt "950732"
+msgid "近藤！"
+msgstr ""
+
+msgctxt "950876"
+msgid ""
+"沖田総司は浪士組一の剣豪として\n"
+"勤王志士達の間でも名が通ってる"
+msgstr ""
+
+msgctxt "951020"
+msgid "この壬生浪士組の顔ともいうべき存在だった"
+msgstr ""
+
+msgctxt "951164"
+msgid "その総司が斬られて死んだとなりゃ"
+msgstr ""
+
+msgctxt "951308"
+msgid ""
+"浪士組もたかが知れてると\n"
+"世間の笑いものになっちまう"
+msgstr ""
+
+msgctxt "951452"
+msgid "そうなれば我々はお役御免"
+msgstr ""
+
+msgctxt "951596"
+msgid "幕府からも見捨てられ……"
+msgstr ""
+
+msgctxt "951740"
+msgid "解散を命じられることになるだろうな"
+msgstr ""
+
+msgctxt "951884"
+msgid "それがどないしたっちゅうんや"
+msgstr ""
+
+msgctxt "952028"
+msgid "そないなもんワシらには関係ない！"
+msgstr ""
+
+msgctxt "952172"
+msgid "やめろ！"
+msgstr ""
+
+msgctxt "952316"
+msgid "五郎！ 重助！"
+msgstr ""
+
+msgctxt "952460"
+msgid "俺は非情な人間でね"
+msgstr ""
+
+msgctxt "952604"
+msgid "愛弟子が死んだってのに"
+msgstr ""
+
+msgctxt "952748"
+msgid ""
+"頭ん中は浪士組を\n"
+"どうやって生き残らせるかで一杯だ"
+msgstr ""
+
+msgctxt "952892"
+msgid "何やと？"
+msgstr ""
+
+msgctxt "953036"
+msgid "俺はなぁ"
+msgstr ""
+
+msgctxt "953180"
+msgid ""
+"どんな犠牲を払おうと\n"
+"絶対にこの国を変えてやろうと思ってるんだ"
+msgstr ""
+
+msgctxt "953324"
+msgid ""
+"そのために幕府をだましてまで\n"
+"壬生浪士組を作ったんだよ"
+msgstr ""
+
+msgctxt "953468"
+msgid ""
+"そしてそれを実現するには\n"
+"アンタたちの力がどうしても必要だ"
+msgstr ""
+
+msgctxt "953612"
+msgid "どうだい？"
+msgstr ""
+
+msgctxt "953756"
+msgid "今日からアンタたち"
+msgstr ""
+
+msgctxt "953900"
+msgid "“第二の人生”ってヤツを生きてみねえか？"
+msgstr ""

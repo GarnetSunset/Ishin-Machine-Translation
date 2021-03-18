@@ -1,0 +1,1475 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "37428"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37429"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37430"
+msgid ""
+"お、斎藤さんやないの。\n"
+"おこしやす！　今日は何にしはる？"
+msgstr ""
+
+msgctxt "37487"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37488"
+msgid ""
+"斎藤さん。\n"
+"福引き券%d枚、よかったらもらってや。"
+msgstr ""
+
+msgctxt "37537"
+msgid ""
+"ふはは、相変わらず斎藤さんは\n"
+"難しい顔して食べはるねぇ。おいしかった？"
+msgstr ""
+
+msgctxt "37608"
+msgid "あぁ、うまかったぜ。"
+msgstr ""
+
+msgctxt "37629"
+msgid ""
+"せやせや、それでこそ斎藤さんやね。\n"
+"また食べにおいでや。"
+msgstr ""
+
+msgctxt "37686"
+msgid ""
+"またおいでやす。\n"
+"次は食べてってや。"
+msgstr ""
+
+msgctxt "37723"
+msgid "店を手伝ってもいいか？"
+msgstr ""
+
+msgctxt "37746"
+msgid ""
+"ほんまに？　えらい助かるわ。\n"
+"じゃあお願いしようかな。\n"
+"難しさはどないする？"
+msgstr ""
+
+msgctxt "37823"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37824"
+msgid "それじゃあよろしくたのんます！"
+msgstr ""
+
+msgctxt "37855"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "37856"
+msgid ""
+"すまない。\n"
+"急用を思い出した。"
+msgstr ""
+
+msgctxt "37887"
+msgid ""
+"そうかぁ、それなら仕方ないな。\n"
+"斎藤さん。また手伝いに来たってや。"
+msgstr ""
+
+msgctxt "37954"
+msgid ""
+"注文されるうどんの種類を覚えてください。\n"
+"お客さんが全員注文し終わったら\n"
+"お客さんのうどんの種類に対応するボタンを\n"
+"順番通りに押していきましょう。"
+msgstr ""
+
+msgctxt "38101"
+msgid ""
+"麺さばき（難易度）が上がっていくほど\n"
+"成功した時の売り上げが上がりやすくなります。\n"
+"\n"
+"<Sign:6>を押すとお客さんの注文を\n"
+"全て統一させる「おすすめ」が使えます。\n"
+"おすすめは基本１度しか使えませんが、\n"
+"失敗すると再び使えるようになります。\n"
+"\n"
+"これらを駆使して一流のうどん屋を目指しましょう。"
+msgstr ""
+
+msgctxt "38388"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38389"
+msgid "ここで飯でも食おうか。"
+msgstr ""
+
+msgctxt "38412"
+msgid "はい。"
+msgstr ""
+
+msgctxt "38419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38421"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38424"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38425"
+msgid "おりょう、好きなもの食っていいぞ。"
+msgstr ""
+
+msgctxt "38460"
+msgid ""
+"うーん……　せやけど一（はじめ）さん、\n"
+"ちゃんとお金持ってるの？"
+msgstr ""
+
+msgctxt "38525"
+msgid "フッ、そんな心配はしなくていい。"
+msgstr ""
+
+msgctxt "38558"
+msgid "ふふ……"
+msgstr ""
+
+msgctxt "38567"
+msgid ""
+"でも、何か照れるわ。\n"
+"こうして二人っきりで食事してると。"
+msgstr ""
+
+msgctxt "38624"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38625"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38626"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38627"
+msgid ""
+"斎藤さん、今日はお代はいいですよ。\n"
+"日頃からお世話になってますし。"
+msgstr ""
+
+msgctxt "38694"
+msgid "いいのか？　すまないな。"
+msgstr ""
+
+msgctxt "38719"
+msgid ""
+"一（はじめ）さん……\n"
+"ちょっと助かったと思ってるやろ？"
+msgstr ""
+
+msgctxt "38774"
+msgid "ふふ……　ちょっとだけな。"
+msgstr ""
+
+msgctxt "38801"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38802"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38803"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38804"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38805"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "38806"
+msgid "どうだった？"
+msgstr ""
+
+msgctxt "38819"
+msgid ""
+"うん、美味しかった。\n"
+"けど、一（はじめ）さんの食べっぷり見たの初めて。"
+msgstr ""
+
+msgctxt "38890"
+msgid ""
+"うちの作った寺田屋の食事、一（はじめ）さん、\n"
+"ほとんど手ぇつけへんかったもんねぇ。"
+msgstr ""
+
+msgctxt "38973"
+msgid "あ……"
+msgstr ""
+
+msgctxt "38980"
+msgid "フフ。さ、次はどこ行く？"
+msgstr ""
+
+msgctxt "39005"
+msgid "（どこかで軽く酒でも飲むか）"
+msgstr ""
+
+msgctxt "39034"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39035"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39036"
+msgid ""
+"おいでやす！\n"
+"注文は何にしはる？"
+msgstr ""
+
+msgctxt "39069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39070"
+msgid ""
+"斎藤さん。\n"
+"福引き券%d枚、よかったらもらってや。"
+msgstr ""
+
+msgctxt "39119"
+msgid "またいつでもおいでや。"
+msgstr ""
+
+msgctxt "39142"
+msgid "斎藤さん。次は食べてってや。"
+msgstr ""
+
+msgctxt "39171"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39172"
+msgid ""
+"お、斎藤さん。\n"
+"今日はどうしはる？"
+msgstr ""
+
+msgctxt "39207"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39208"
+msgid ""
+"斎藤さん。\n"
+"福引き券%d枚、よかったらもらってや。"
+msgstr ""
+
+msgctxt "39257"
+msgid "またいつでもおいでや。"
+msgstr ""
+
+msgctxt "39280"
+msgid "斎藤さん。次は食べてってや。"
+msgstr ""
+
+msgctxt "39309"
+msgid "店を手伝ってもいいか？"
+msgstr ""
+
+msgctxt "39332"
+msgid ""
+"斎藤さんやったらいつでも歓迎やわ。\n"
+"難しさはどないするん？"
+msgstr ""
+
+msgctxt "39391"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39392"
+msgid "それじゃあよろしくたのんます！"
+msgstr ""
+
+msgctxt "39423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "39424"
+msgid ""
+"すまない。\n"
+"急用を思い出した。"
+msgstr ""
+
+msgctxt "39455"
+msgid ""
+"そうかぁ、それなら仕方ないな。\n"
+"斎藤さん。また手伝いに来たってや。"
+msgstr ""
+
+msgctxt "39522"
+msgid ""
+"注文されるうどんの種類を覚えてください。\n"
+"お客さんが全員注文し終わったら\n"
+"お客さんのうどんの種類に対応するボタンを\n"
+"順番通りに押していきましょう。"
+msgstr ""
+
+msgctxt "39669"
+msgid ""
+"麺さばき（難易度）が上がっていくほど\n"
+"成功した時の売り上げが上がりやすくなります。\n"
+"\n"
+"<Sign:6>を押すとお客さんの注文を\n"
+"全て統一させる「おすすめ」が使えます。\n"
+"おすすめは基本１度しか使えませんが、\n"
+"失敗すると再び使えるようになります。\n"
+"\n"
+"これらを駆使して一流のうどん屋を目指しましょう。"
+msgstr ""
+
+msgctxt "39956"
+msgid "斎藤さん、ちょうどいいところに。"
+msgstr ""
+
+msgctxt "39989"
+msgid "ん？　どうかしたのか？"
+msgstr ""
+
+msgctxt "40012"
+msgid "この前、内緒にしてたやつ、ついに達成したで！"
+msgstr ""
+
+msgctxt "40057"
+msgid ""
+"あぁ、たしか。\n"
+"もうすぐ何か達成しそうとか言ってたやつか。\n"
+"いったい何の話だったんだ？"
+msgstr ""
+
+msgctxt "40144"
+msgid ""
+"実はな、つい今しがた……\n"
+"店を始めた時から決めてた、\n"
+"総売り上げ目標をついに達成したんや！"
+msgstr ""
+
+msgctxt "40235"
+msgid "ほう……　それはめでたいな。おめでとう。"
+msgstr ""
+
+msgctxt "40276"
+msgid ""
+"おおきに。これもぜんぶ斎藤さんが\n"
+"手伝ってくれたりしたおかげやわ。"
+msgstr ""
+
+msgctxt "40343"
+msgid ""
+"フッ、少しでも力になれたのなら\n"
+"よかったぜ……"
+msgstr ""
+
+msgctxt "40390"
+msgid ""
+"それでな、売り上げが目標金額に達したら\n"
+"遠くの町に二号店でもだそうと思うてたんや。"
+msgstr ""
+
+msgctxt "40473"
+msgid "二号店か……"
+msgstr ""
+
+msgctxt "40486"
+msgid ""
+"って言うても、まずは土地だけ買っとく感じやな。\n"
+"実際に二つ目の店を始めるのはまだまだ先やで。\n"
+"まだどこに建てるかも決まってないしな。"
+msgstr ""
+
+msgctxt "40619"
+msgid ""
+"それでな、その二号店の店長……\n"
+"斎藤さんにやってもらいたいなって思うとるねん。"
+msgstr ""
+
+msgctxt "40698"
+msgid "お、俺が!?"
+msgstr ""
+
+msgctxt "40709"
+msgid ""
+"いやー、斎藤さん。うどん作る筋えぇし、\n"
+"人柄もえぇ人やし、まさにうってつけ。"
+msgstr ""
+
+msgctxt "40786"
+msgid ""
+"うちな、うちの店まかせられる人、\n"
+"斎藤さんしかおらんと思っとる。\n"
+"……どうや？　店長、やってみぃひんか？"
+msgstr ""
+
+msgctxt "40891"
+msgid "俺は……"
+msgstr ""
+
+msgctxt "40900"
+msgid "……悪いが、二号店を手伝うことはできない。"
+msgstr ""
+
+msgctxt "40943"
+msgid "……斎藤さん、うどん作る才能あんねんで。"
+msgstr ""
+
+msgctxt "40984"
+msgid ""
+"気持ちは嬉しいが……　俺にはやるべきことがある。\n"
+"そのためにも、今は横道にそれることはできない。"
+msgstr ""
+
+msgctxt "41081"
+msgid "そうか……"
+msgstr ""
+
+msgctxt "41092"
+msgid ""
+"……なんてな！　やっぱりなぁ。\n"
+"まぁ断られると思うとったよ。あんま気にせんでな。"
+msgstr ""
+
+msgctxt "41173"
+msgid "そうなのか？"
+msgstr ""
+
+msgctxt "41186"
+msgid ""
+"せや。今やらなきゃいけんことを\n"
+"簡単に投げ出す奴やったら、\n"
+"そもそも二号店の店長なんて任せられんわ。"
+msgstr ""
+
+msgctxt "41287"
+msgid "……矛盾しとるけどな。"
+msgstr ""
+
+msgctxt "41310"
+msgid "……そうだな。"
+msgstr ""
+
+msgctxt "41325"
+msgid ""
+"でも斎藤さんに店長やってもらいたいのは嘘やない。\n"
+"……二号店ができるのはまだずっと先や。\n"
+"十年後かもしれんし、二十年後かもしれん。"
+msgstr ""
+
+msgctxt "41456"
+msgid ""
+"そん時、もう戦わんでえぇ世の中になっとったらさ、\n"
+"うどんでも作りながら、のんびり暮らしていく。\n"
+"そんな人生も……　悪くないんやない？"
+msgstr ""
+
+msgctxt "41589"
+msgid "……なるほど、そんな人生も楽しそうだな。"
+msgstr ""
+
+msgctxt "41630"
+msgid "せやろ？"
+msgstr ""
+
+msgctxt "41639"
+msgid ""
+"フッ、わかった。\n"
+"……そんな平和な世の中にできたら\n"
+"二号店の店長でもなんでもやってやるよ。"
+msgstr ""
+
+msgctxt "41730"
+msgid ""
+"ふはは、楽しみにしとくわ。\n"
+"いつになるかはわからんけどな。\n"
+"そんな世の中に……　なるとえぇなぁ……"
+msgstr ""
+
+msgctxt "41829"
+msgid "そうだな……"
+msgstr ""
+
+msgctxt "41842"
+msgid "それまでうどん作りの技術、よう磨いときや。"
+msgstr ""
+
+msgctxt "41885"
+msgid "ふっ……　わかった。"
+msgstr ""
+
+msgctxt "41906"
+msgid ""
+"おおきに！\n"
+"……今日は気分がええからうちの奢りや。\n"
+"うどん、食べていくやろ？"
+msgstr ""
+
+msgctxt "41983"
+msgid "……あぁ、頼む。"
+msgstr ""
+
+msgctxt "42000"
+msgid "あいよ！　天ぷらうどん一丁！"
+msgstr ""
+
+msgctxt "42029"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42030"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42031"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42032"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42033"
+msgid "お、斎藤さんやないの。ふへへ。"
+msgstr ""
+
+msgctxt "42064"
+msgid ""
+"ん、どうしたんだ？\n"
+"にやにやして、何かあったのか？"
+msgstr ""
+
+msgctxt "42115"
+msgid "あ、あぁ、もうすぐ達成するんやわ……"
+msgstr ""
+
+msgctxt "42152"
+msgid "……何がだ？"
+msgstr ""
+
+msgctxt "42165"
+msgid "それはな……"
+msgstr ""
+
+msgctxt "42178"
+msgid ""
+"……ってだめだめ。まだ内緒や！\n"
+"言えるようになったら言うさかい、\n"
+"そん時は話きいてちょうだいね。"
+msgstr ""
+
+msgctxt "42275"
+msgid "……そうか、わかった。"
+msgstr ""
+
+msgctxt "42298"
+msgid "さ、今日の注文は何にしはる？"
+msgstr ""
+
+msgctxt "42327"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42328"
+msgid ""
+"斎藤さん。\n"
+"福引き券%d枚、よかったらもらってや。"
+msgstr ""
+
+msgctxt "42377"
+msgid ""
+"ふはは、相変わらず斎藤さんは\n"
+"難しい顔して食べはるねぇ。おいしかった？"
+msgstr ""
+
+msgctxt "42448"
+msgid "あぁ、うまかったぜ。"
+msgstr ""
+
+msgctxt "42469"
+msgid ""
+"せやせや、それでこそ斎藤さんやね。\n"
+"また食べにおいでや。"
+msgstr ""
+
+msgctxt "42526"
+msgid ""
+"またおいでやす。\n"
+"次は食べてってや。"
+msgstr ""
+
+msgctxt "42563"
+msgid "店を手伝ってもいいか？"
+msgstr ""
+
+msgctxt "42586"
+msgid ""
+"ほんまに？　えらい助かるわ。\n"
+"じゃあお願いしようかな。\n"
+"難しさはどないする？"
+msgstr ""
+
+msgctxt "42663"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42664"
+msgid "それじゃあよろしくたのんます！"
+msgstr ""
+
+msgctxt "42695"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "42696"
+msgid ""
+"すまない。\n"
+"急用を思い出した。"
+msgstr ""
+
+msgctxt "42727"
+msgid ""
+"そうかぁ、それなら仕方ないな。\n"
+"斎藤さん。また手伝いに来たってや。"
+msgstr ""
+
+msgctxt "42794"
+msgid ""
+"注文されるうどんの種類を覚えてください。\n"
+"お客さんが全員注文し終わったら\n"
+"お客さんのうどんの種類に対応するボタンを\n"
+"順番通りに押していきましょう。"
+msgstr ""
+
+msgctxt "42941"
+msgid ""
+"麺さばき（難易度）が上がっていくほど\n"
+"成功した時の売り上げが上がりやすくなります。\n"
+"\n"
+"<Sign:6>を押すとお客さんの注文を\n"
+"全て統一させる「おすすめ」が使えます。\n"
+"おすすめは基本１度しか使えませんが、\n"
+"失敗すると再び使えるようになります。\n"
+"\n"
+"これらを駆使して一流のうどん屋を目指しましょう。"
+msgstr ""
+
+msgctxt "43228"
+msgid ""
+"お、斎藤さんやないの。\n"
+"おこしやす！　今日は何にしはる？"
+msgstr ""
+
+msgctxt "43285"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43286"
+msgid ""
+"斎藤さん。\n"
+"福引き券%d枚、よかったらもらってや。"
+msgstr ""
+
+msgctxt "43335"
+msgid ""
+"ふはは、相変わらず斎藤さんは\n"
+"難しい顔して食べはるねぇ。おいしかった？"
+msgstr ""
+
+msgctxt "43406"
+msgid "あぁ、うまかったぜ。"
+msgstr ""
+
+msgctxt "43427"
+msgid ""
+"せやせや、それでこそ斎藤さんやね。\n"
+"また食べにおいでや。"
+msgstr ""
+
+msgctxt "43484"
+msgid ""
+"またおいでやす。\n"
+"次は食べてってや。"
+msgstr ""
+
+msgctxt "43521"
+msgid "店を手伝ってもいいか？"
+msgstr ""
+
+msgctxt "43544"
+msgid ""
+"ほんまに？　えらい助かるわ。\n"
+"じゃあお願いしようかな。\n"
+"難しさはどないする？"
+msgstr ""
+
+msgctxt "43621"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43622"
+msgid "それじゃあよろしくたのんます！"
+msgstr ""
+
+msgctxt "43653"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "43654"
+msgid ""
+"すまない。\n"
+"急用を思い出した。"
+msgstr ""
+
+msgctxt "43685"
+msgid ""
+"そうかぁ、それなら仕方ないな。\n"
+"斎藤さん。また手伝いに来たってや。"
+msgstr ""
+
+msgctxt "43752"
+msgid ""
+"注文されるうどんの種類を覚えてください。\n"
+"お客さんが全員注文し終わったら\n"
+"お客さんのうどんの種類に対応するボタンを\n"
+"順番通りに押していきましょう。"
+msgstr ""
+
+msgctxt "43899"
+msgid ""
+"麺さばき（難易度）が上がっていくほど\n"
+"成功した時の売り上げが上がりやすくなります。\n"
+"\n"
+"<Sign:6>を押すとお客さんの注文を\n"
+"全て統一させる「おすすめ」が使えます。\n"
+"おすすめは基本１度しか使えませんが、\n"
+"失敗すると再び使えるようになります。\n"
+"\n"
+"これらを駆使して一流のうどん屋を目指しましょう。"
+msgstr ""
+
+msgctxt "44186"
+msgid "いらっしゃい！　いらっしゃーい！"
+msgstr ""
+
+msgctxt "44219"
+msgid ""
+"（前に来たことがあるうどん屋だ……\n"
+"　とてもいい匂いがするな）"
+msgstr ""
+
+msgctxt "44282"
+msgid "（少し腹も減ったし、食っていこうか）"
+msgstr ""
+
+msgctxt "44319"
+msgid "（……今はやめておくか）"
+msgstr ""
+
+msgctxt "44344"
+msgid "（……よし、食っていこう）"
+msgstr ""
+
+msgctxt "44371"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "44372"
+msgid ""
+"あっ、お客さん。また来てくれたね。\n"
+"ありがとう。お名前、なんて言うんだい？"
+msgstr ""
+
+msgctxt "44447"
+msgid "ああ……　斎藤だ。"
+msgstr ""
+
+msgctxt "44466"
+msgid ""
+"斎藤さん、か。\n"
+"いつも贔屓にしてくれておおきに。"
+msgstr ""
+
+msgctxt "44515"
+msgid ""
+"前に見たときから\n"
+"斎藤さんのこと気になっとったんよ。\n"
+"深刻な顔してうどん食べてはるから。"
+msgstr ""
+
+msgctxt "44604"
+msgid ""
+"ひょっとしてうちのうどん、\n"
+"口にあわんのやろうか、味が気に入らんのやろうか、\n"
+"そうやって心配しとったんやけど……"
+msgstr ""
+
+msgctxt "44717"
+msgid ""
+"……そんなことはない。\n"
+"変な誤解をさせて悪かったな。"
+msgstr ""
+
+msgctxt "44770"
+msgid ""
+"ふはは！　謝ることないよ。\n"
+"何度もうちに足を運んでくれるってことは、\n"
+"おいしいって思ってくれとるってことやさかい。"
+msgstr ""
+
+msgctxt "44885"
+msgid "あぁ。確かに、ここのうどんは美味いな。"
+msgstr ""
+
+msgctxt "44924"
+msgid ""
+"嬉しいこと言ってくれはるやないの！\n"
+"斎藤さん、おおきに。"
+msgstr ""
+
+msgctxt "44981"
+msgid ""
+"あ、そやそや！　今日は俺の奢りで食べていきぃ！\n"
+"常連さんへのちょっとした感謝の気持ちや。"
+msgstr ""
+
+msgctxt "45070"
+msgid "何。……いいのか？"
+msgstr ""
+
+msgctxt "45089"
+msgid ""
+"いいのいいの、今日は名前教えてもらったし。\n"
+"お近づきの印に……　ね！"
+msgstr ""
+
+msgctxt "45158"
+msgid ""
+"あ、でも今度からはちゃんとお代いただくからね。\n"
+"忘れんといてや。"
+msgstr ""
+
+msgctxt "45223"
+msgid "……フッ。じゃあお言葉に甘えさせてもらおう。"
+msgstr ""
+
+msgctxt "45268"
+msgid "注文は？　何にしはる？"
+msgstr ""
+
+msgctxt "45291"
+msgid "うーん、そうだな……"
+msgstr ""
+
+msgctxt "45312"
+msgid ""
+"ゆっくり考えてな。ちなみによく注文されるのは、\n"
+"安い方から……　たぬきうどん、きつねうどん、\n"
+"月見うどん、天ぷらうどんの４種類やね。"
+msgstr ""
+
+msgctxt "45445"
+msgid ""
+"今日はうちの奢りやから、\n"
+"一番値段の高い天ぷらうどんいってみよか。"
+msgstr ""
+
+msgctxt "45512"
+msgid "いいのか？　じゃあ天ぷらうどんを頼む。"
+msgstr ""
+
+msgctxt "45551"
+msgid "あいよ！　天ぷら一丁！"
+msgstr ""
+
+msgctxt "45574"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45575"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45576"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45577"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45578"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45579"
+msgid "どうや？　うまいやろ？"
+msgstr ""
+
+msgctxt "45602"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "45603"
+msgid ""
+"あぁ、シコシコした麺に薄味の出汁が染み渡り、かつ\n"
+"その上品さを損なわないように添えられた天ぷらが\n"
+"うどん本来の味をさらに引き立てていて……"
+msgstr ""
+
+msgctxt "45742"
+msgid "……とてもうまかった。"
+msgstr ""
+
+msgctxt "45765"
+msgid ""
+"はは、そうやろそうやろ！\n"
+"これが京のうどんの味やさかい……"
+msgstr ""
+
+msgctxt "45824"
+msgid ""
+"うーむ、俺もたまに料理をするが……\n"
+"こんな繊細な味はなかなかだせないな。\n"
+"ぜひ秘訣を教えてもらいたいもんだ。"
+msgstr ""
+
+msgctxt "45933"
+msgid "秘訣ねぇ……　それはやっぱりあれやな。"
+msgstr ""
+
+msgctxt "45972"
+msgid "あれ……？"
+msgstr ""
+
+msgctxt "45983"
+msgid "ずばり……　秘訣はコシや。"
+msgstr ""
+
+msgctxt "46010"
+msgid "ほう、コシというと……　うどんのか。"
+msgstr ""
+
+msgctxt "46047"
+msgid ""
+"ちゃうちゃう！\n"
+"それももちろん大事やけども！　体の腰のほうや！"
+msgstr ""
+
+msgctxt "46110"
+msgid ""
+"麺をこねる時の腰使いが大事なんや、\n"
+"腰の動きが、もろにうどんの味へと直結するんやで。"
+msgstr ""
+
+msgctxt "46195"
+msgid "……なるほどな。"
+msgstr ""
+
+msgctxt "46212"
+msgid ""
+"せやから、ちゃんと足腰は鍛えなあかんで！\n"
+"斎藤さんなんて若いんやからなおさらや！"
+msgstr ""
+
+msgctxt "46293"
+msgid "店長はどうやって腰を鍛えているんだ？"
+msgstr ""
+
+msgctxt "46330"
+msgid ""
+"あちゃぁ……　野暮なこと聞かんといて。\n"
+"男が腰を鍛える手段なんてただひとつ！"
+msgstr ""
+
+msgctxt "46407"
+msgid ""
+"俺なんてなぁ、昨夜も愛しのおみっちゃんと……\n"
+"ぐふ……　ぐふふふ……！"
+msgstr ""
+
+msgctxt "46478"
+msgid "…………"
+msgstr ""
+
+msgctxt "46487"
+msgid "へへ、思い出しただけで興奮してきたで！"
+msgstr ""
+
+msgctxt "46526"
+msgid ""
+"腰をこうやって、こうやってな！\n"
+"たまに別の角度から……"
+msgstr ""
+
+msgctxt "46581"
+msgid "……って、あだっ!!!!"
+msgstr ""
+
+msgctxt "46602"
+msgid "!?"
+msgstr ""
+
+msgctxt "46605"
+msgid "あだっ……　あだだだ……っ！"
+msgstr ""
+
+msgctxt "46634"
+msgid "ど、どうしたんだ……？"
+msgstr ""
+
+msgctxt "46657"
+msgid "こ、腰が……！　痛……　あだだだ!!"
+msgstr ""
+
+msgctxt "46692"
+msgid ""
+"そ、それはぎっくり腰じゃないか？\n"
+"腰の使いすぎだ。今すぐ医者のところへ……"
+msgstr ""
+
+msgctxt "46767"
+msgid "い、いや……　それだけは絶対にあかん。"
+msgstr ""
+
+msgctxt "46806"
+msgid ""
+"もうすぐお客さんが濁流の如く押し寄せる時間帯、\n"
+"通称、御饂飩・輪廻（おうどんりんね）が\n"
+"来てしまうさかい……"
+msgstr ""
+
+msgctxt "46915"
+msgid "御饂飩・輪廻（おうどんりんね）……"
+msgstr ""
+
+msgctxt "46950"
+msgid ""
+"この時間帯が一番の稼ぎ時やから、\n"
+"店を離れるわけにはいかへんのや。"
+msgstr ""
+
+msgctxt "47017"
+msgid ""
+"くっ……　せやけどこの腰じゃあ\n"
+"客にうどんを出すことすらできへん……"
+msgstr ""
+
+msgctxt "47086"
+msgid "…………"
+msgstr ""
+
+msgctxt "47095"
+msgid ""
+"……せ、せや！　斎藤さん！\n"
+"ちょっとだけ店、手伝ってくれへんやろか？"
+msgstr ""
+
+msgctxt "47164"
+msgid "え？"
+msgstr ""
+
+msgctxt "47169"
+msgid ""
+"麺は俺の方で茹でておくさかい、\n"
+"斎藤さんにはうどんをお客さんに配ってほしいねん。"
+msgstr ""
+
+msgctxt "47250"
+msgid ""
+"お客さんの注文通りに\n"
+"具をいれて配るだけでええから！\n"
+"きつねうどんなら揚げ、月見うどんなら玉子、って。"
+msgstr ""
+
+msgctxt "47353"
+msgid ""
+"斎藤さん、ほんま頼んます！\n"
+"お給料はちゃんと出すさかい！"
+msgstr ""
+
+msgctxt "47410"
+msgid "いや、俺には無理な気がするが……"
+msgstr ""
+
+msgctxt "47443"
+msgid ""
+"……この時間に店閉めとったら、\n"
+"うちの商売、あがったりなんですわ。"
+msgstr ""
+
+msgctxt "47510"
+msgid ""
+"それに、わざわざうちに足を運んでくれるお客さんを\n"
+"悲しませたくないしな……"
+msgstr ""
+
+msgctxt "47585"
+msgid ""
+"（うーむ……\n"
+"　うどんを御馳走してもらった恩もある。\n"
+"　ここは少し協力してあげるか……）"
+msgstr ""
+
+msgctxt "47674"
+msgid ""
+"……わかった。\n"
+"上手く出来るかわからねぇが、俺に手伝わせてくれ。"
+msgstr ""
+
+msgctxt "47739"
+msgid ""
+"ほ、ほんまでっか!?　おおきに！\n"
+"助かりますわ！"
+msgstr ""
+
+msgctxt "47786"
+msgid "店長ー！　４人なんだけど、大丈夫？"
+msgstr ""
+
+msgctxt "47821"
+msgid ""
+"はーい、ちょっとだけ待っとってや。\n"
+"今準備するさかいに！"
+msgstr ""
+
+msgctxt "47878"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47879"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47880"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47881"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47882"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "47886"
+msgid "さぁ、斎藤さん。さっそくおいでなすったで。"
+msgstr ""
+
+msgctxt "47929"
+msgid ""
+"生と死が交互に幾度も繰り返すが如く\n"
+"お客と注文が生まれ続ける……\n"
+"御饂飩・輪廻（おうどんりんね）の時間帯や!!!!"
+msgstr ""
+
+msgctxt "48040"
+msgid ""
+"……俺は客の注文通りに\n"
+"具をいれて出せばいいんだったな？"
+msgstr ""
+
+msgctxt "48097"
+msgid ""
+"せや、でもできるだけ素早く対応したってや。\n"
+"大事なうどんのコシが台無しになってしまうさかい！\n"
+"とりあえず、売り上げ３両を目標に頑張ってや！"
+msgstr ""
+
+msgctxt "48236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48237"
+msgid ""
+"おいでやす！\n"
+"注文は何にしはる？"
+msgstr ""
+
+msgctxt "48270"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "48271"
+msgid "お客さん、福引き券%d枚どうぞ。"
+msgstr ""
+
+msgctxt "48302"
+msgid ""
+"（とてもうまいうどんだったな。\n"
+"　寺田屋からも近いし、また来よう……）"
+msgstr ""
+
+msgctxt "48373"
+msgid "お客さん……　おいしかった？"
+msgstr ""
+
+msgctxt "48402"
+msgid "ん？　あぁ。"
+msgstr ""
+
+msgctxt "48415"
+msgid "ほんまに？　ほんまにおいしかったん？"
+msgstr ""
+
+msgctxt "48452"
+msgid "……うまかった。"
+msgstr ""
+
+msgctxt "48469"
+msgid ""
+"そうでっか！\n"
+"ふはは……　おおきにお客さん。またおいでや。"
+msgstr ""
+
+msgctxt "48528"
+msgid "……？　あぁ。"
+msgstr ""
+
+msgctxt "48543"
+msgid ""
+"「うまい屋うどんの主人」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「うまい屋うどんの主人」と交流してみましょう。"
+msgstr ""
+
+msgctxt "48780"
+msgid ""
+"またおいでやす。\n"
+"次は食べてってや。"
+msgstr ""
+
+msgctxt "52688"
+msgid "うどん屋店長"
+msgstr ""
+
+msgctxt "52701"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "52711"
+msgid "注文する"
+msgstr ""
+
+msgctxt "52720"
+msgid "うどん屋を手伝う"
+msgstr ""
+
+msgctxt "52737"
+msgid "うどん屋手伝いの説明を聞く"
+msgstr ""
+
+msgctxt "52764"
+msgid "やめる"
+msgstr ""
+
+msgctxt "52771"
+msgid "dummy"
+msgstr ""
+
+msgctxt "52777"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "52787"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "52798"
+msgid "Player"
+msgstr ""
+
+msgctxt "52805"
+msgid "ADV_P_KRU_STAND"
+msgstr ""
+
+msgctxt "52821"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "52830"
+msgid "駆けだし級"
+msgstr ""
+
+msgctxt "52841"
+msgid "真打ち級"
+msgstr ""
+
+msgctxt "52850"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "52861"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "52869"
+msgid "うどん屋手伝い"
+msgstr ""
+
+msgctxt "52884"
+msgid "龍馬"
+msgstr ""
+
+msgctxt "52889"
+msgid "おりょう"
+msgstr ""
+
+msgctxt "52898"
+msgid "店員"
+msgstr ""
+
+msgctxt "52903"
+msgid "ADV_F_CHO_STAND"
+msgstr ""
+
+msgctxt "52919"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "52928"
+msgid "ADV_F_CHO_BASE"
+msgstr ""
+
+msgctxt "52943"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "52955"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "52966"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "52977"
+msgid "kaiwabgm_sub_hartwarm_01"
+msgstr ""
+
+msgctxt "53002"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "53013"
+msgid "うどんを食う"
+msgstr ""
+
+msgctxt "53026"
+msgid "食わない"
+msgstr ""
+
+msgctxt "53035"
+msgid "P_KRU_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "53057"
+msgid "P_KRU_TLK_stand_to_chair"
+msgstr ""
+
+msgctxt "53082"
+msgid "kaiwabgm_sub_apathy_01"
+msgstr ""
+
+msgctxt "53105"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "53117"
+msgid "P_KRU_TLK_chair_eat_noodle"
+msgstr ""
+
+msgctxt "53144"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "53157"
+msgid "kaiwabgm_comical"
+msgstr ""
+
+msgctxt "53174"
+msgid "M_SHP_SS_stand_koshi_lp"
+msgstr ""
+
+msgctxt "53198"
+msgid "M_SHP_SS_stand_koshi_st"
+msgstr ""
+
+msgctxt "53222"
+msgid "M_SHP_SS_stand_koshi_dam"
+msgstr ""
+
+msgctxt "53247"
+msgid "M_SHP_SS_stand_koshi_en"
+msgstr ""
+
+msgctxt "53271"
+msgid "客"
+msgstr ""
+
+msgctxt "53274"
+msgid "うまい屋うどんの主人との絆"
+msgstr ""

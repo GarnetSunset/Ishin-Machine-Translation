@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "404"
+msgid "ご隠居されてから１年"
+msgstr ""
+
+msgctxt "548"
+msgid "優雅なものですな"
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"あなたが内国事務総裁を\n"
+"辞任されてからというもの……"
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"こっちは　政府の仕事を山ほど押し付けられて\n"
+"てんやわんやでね"
+msgstr ""
+
+msgctxt "980"
+msgid "なかなか　挨拶に伺えませんでした"
+msgstr ""
+
+msgctxt "1124"
+msgid "あの坂本龍馬が果てた後"
+msgstr ""
+
+msgctxt "1268"
+msgid "あなたは"
+msgstr ""
+
+msgctxt "1412"
+msgid ""
+"軍事都市と化していた\n"
+"土佐の暴走を食い止め"
+msgstr ""
+
+msgctxt "1556"
+msgid "日本の新しい国造りを陰で支えてくれた"
+msgstr ""
+
+msgctxt "1700"
+msgid ""
+"あなたは　坂本龍馬と並ぶ\n"
+"明治維新の功労者です"
+msgstr ""
+
+msgctxt "1844"
+msgid "山内容堂先生"
+msgstr ""
+
+msgctxt "1988"
+msgid "そうでした"
+msgstr ""
+
+msgctxt "2132"
+msgid "もうその名を騙る必要もないんでしたよね？"
+msgstr ""
+
+msgctxt "2276"
+msgid ""
+"私も新堀に桂　木戸と\n"
+"名前をコロコロ変えてきましたけど"
+msgstr ""
+
+msgctxt "2420"
+msgid ""
+"あなたほど\n"
+"他人の人生を生きた人はいないでしょう"
+msgstr ""
+
+msgctxt "2564"
+msgid "名を変え　立場を変え"
+msgstr ""
+
+msgctxt "2708"
+msgid "いくら他人の人生を生きようと"
+msgstr ""
+
+msgctxt "2852"
+msgid "酒の趣味だけは変わらないもんなんですね"
+msgstr ""
+
+msgctxt "2996"
+msgid "武市さん"
+msgstr ""
+
+msgctxt "3140"
+msgid "あー……"
+msgstr ""
+
+msgctxt "3284"
+msgid "あーちくしょー！"
+msgstr ""
+
+msgctxt "3428"
+msgid "あーら　先生また失敗どすか？"
+msgstr ""
+
+msgctxt "3572"
+msgid "いつになったら書き終わることやら"
+msgstr ""
+
+msgctxt "3716"
+msgid "んなこと言ったってしゃあないだろ"
+msgstr ""
+
+msgctxt "3860"
+msgid "２人分の人生を１つにまとめてんだ"
+msgstr ""
+
+msgctxt "4004"
+msgid "上手く綺麗に繋げろっつー方が難しいや"
+msgstr ""
+
+msgctxt "4148"
+msgid "あら　また八つ当たりどすか？"
+msgstr ""
+
+msgctxt "4292"
+msgid "坂本はんの話を書きたいから"
+msgstr ""
+
+msgctxt "4436"
+msgid "寺田屋の部屋をタダで貸せ言わはったのは"
+msgstr ""
+
+msgctxt "4580"
+msgid "どこの誰だったか"
+msgstr ""
+
+msgctxt "4724"
+msgid "まぶしいなあ"
+msgstr ""
+
+msgctxt "4868"
+msgid "開けないでくれよ　集中できねえ"
+msgstr ""
+
+msgctxt "5012"
+msgid "綺麗な日本晴れやねえ"
+msgstr ""
+
+msgctxt "5156"
+msgid "今頃"
+msgstr ""
+
+msgctxt "5300"
+msgid "阿蘇も晴れとるんやろか"
+msgstr ""
+
+msgctxt "5444"
+msgid "あぁ"
+msgstr ""
+
+msgctxt "5588"
+msgid ""
+"そういや行ってんだっけか\n"
+"あいつらが"
+msgstr ""
+
+msgctxt "5732"
+msgid "ええ"
+msgstr ""
+
+msgctxt "5876"
+msgid "結婚できひん代わりに"
+msgstr ""
+
+msgctxt "6020"
+msgid "想い出だけは作りに行こうってなぁ"
+msgstr ""
+
+msgctxt "6164"
+msgid "きっとあの２人には"
+msgstr ""
+
+msgctxt "6308"
+msgid ""
+"この空が\n"
+"誰よりも綺麗に見えるんやろうねぇ"
+msgstr ""
+
+msgctxt "6452"
+msgid "大丈夫か？"
+msgstr ""
+
+msgctxt "6596"
+msgid "うん"
+msgstr ""
+
+msgctxt "6740"
+msgid "綺麗やね"
+msgstr ""
+
+msgctxt "6884"
+msgid "ああ"
+msgstr ""
+
+msgctxt "7028"
+msgid ""
+"これからウチら　どれだけ一緒の景色\n"
+"見られるんやろ"
+msgstr ""
+
+msgctxt "7172"
+msgid "ずっとさ"
+msgstr ""
+
+msgctxt "7316"
+msgid "ずっと……"
+msgstr ""
+
+msgctxt "7460"
+msgid "なあ　お前"
+msgstr ""
+
+msgctxt "7604"
+msgid "将来やりたいことはあるのか？"
+msgstr ""
+
+msgctxt "7748"
+msgid "お父さんのやってる仕事とかかなあ"
+msgstr ""
+
+msgctxt "7892"
+msgid "本当にそれがお前のやりたいことなのか？"
+msgstr ""
+
+msgctxt "8036"
+msgid "分かんない"
+msgstr ""
+
+msgctxt "8180"
+msgid "まだ分からないか"
+msgstr ""
+
+msgctxt "8324"
+msgid ""
+"分からないうちは\n"
+"俺の背中を見てついてこい"
+msgstr ""
+
+msgctxt "8468"
+msgid ""
+"でもいつか　自分のやりたいこと\n"
+"自分の進むべき道がわかる日が来る"
+msgstr ""
+
+msgctxt "8612"
+msgid "その時は　迷わずその道を進め"
+msgstr ""
+
+msgctxt "8756"
+msgid "分かったか？"
+msgstr ""
+
+msgctxt "8900"
+msgid "うん"
+msgstr ""
+
+msgctxt "9044"
+msgid "お父さんも昔そうしたの？"
+msgstr ""
+
+msgctxt "9188"
+msgid "ああ　お父さんだけじゃない"
+msgstr ""
+
+msgctxt "9332"
+msgid "この国の人間は"
+msgstr ""
+
+msgctxt "9476"
+msgid ""
+"みんなあの人の背中に導かれて\n"
+"強く生きてきたんだからな"
+msgstr ""
