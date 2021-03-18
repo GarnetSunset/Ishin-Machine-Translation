@@ -15,11 +15,11 @@ from os import path as realPath
 poList = []
 processes = []
 
-for root, dirs, files in os.walk("firstdir"):
+for root, dirs, files in os.walk("..\\firstdir"):
     for file in files:
         if file.endswith(".po"):
              poList.append(os.path.join(root, file))
-             Path(root.replace("firstdir\\", "lasterdir\\")).mkdir(parents=True, exist_ok=True)
+             Path(root.replace("..\\firstdir\\", "..\\lasterdir\\")).mkdir(parents=True, exist_ok=True)
 
 try:
     os.mkdir('fucker')    
@@ -34,7 +34,7 @@ headers = {
 for fileName in poList:
     print(fileName)
     input_file = polib.pofile(fileName)
-    input_file_2 = polib.pofile(fileName.replace("firstdir\\", "lastdir\\"))
+    input_file_2 = polib.pofile(fileName.replace("..\\firstdir\\", " ..\\lastdir\\"))
     output_file = polib.POFile()
     output_file.metadata = {
     'Project-Id-Version': 'Ryū ga Gotoku Ishin!',
@@ -75,8 +75,8 @@ for fileName in poList:
                 msgstr=msgstr
                 )
         output_file.append(translated_entry)
-        output_file.save(fileName.replace("firstdir\\", "lasterdir\\"))
-        with open(fileName.replace("firstdir\\", "lasterdir\\"), 'r', encoding="utf8") as fin:
+        output_file.save(fileName.replace("..\\firstdir\\", "..\\lasterdir\\"))
+        with open(fileName.replace("..\\firstdir\\", "..\\lasterdir\\"), 'r', encoding="utf8") as fin:
             data = fin.read().splitlines(True)
-        with open(fileName.replace("firstdir\\", "lasterdir\\"), 'w', encoding="utf8") as fout:
+        with open(fileName.replace("..\\firstdir\\", "..\\lasterdir\\"), 'w', encoding="utf8") as fout:
             fout.writelines(data[1:])
