@@ -59,9 +59,8 @@ def translate_text(target, text):
     result = translate_client.translate(text, target_language=target)
 
     return result["translatedText"]
-    
 
-
+matches = ["TAG_", "DETAIL_EXPLAIN", "KIND_", "SHOP_ID", "UNIT_", "CATEGORY_" , "FINISH_FLAG", "PLAYER_", "TYPE_"]
 
 for fileName in poList:
     c=0
@@ -82,55 +81,7 @@ for fileName in poList:
     for entry in input_file:
         if re.match(regex, str(entry.msgid)):
             if realPath.isfile(fileName.replace("..\\firstdir\\", "..\\lastdir\\")) == False:   
-                if "TAG_" in entry.msgctxt:
-                    translated_entry = polib.POEntry(
-                        msgctxt=entry.msgctxt,
-                        msgid=entry.msgid,
-                        msgstr=entry.msgid
-                        )
-                elif "KIND_" in entry.msgctxt:
-                    translated_entry = polib.POEntry(
-                        msgctxt=entry.msgctxt,
-                        msgid=entry.msgid,
-                        msgstr=entry.msgid
-                        )
-                elif "SHOP_ID" in entry.msgctxt:
-                    translated_entry = polib.POEntry(
-                        msgctxt=entry.msgctxt,
-                        msgid=entry.msgid,
-                        msgstr=entry.msgid
-                        )
-                elif "CATEGORY_" in entry.msgctxt:
-                    translated_entry = polib.POEntry(
-                        msgctxt=entry.msgctxt,
-                        msgid=entry.msgid,
-                        msgstr=entry.msgid
-                        )
-                elif "FINISH_FLAG" in entry.msgctxt:
-                    translated_entry = polib.POEntry(
-                        msgctxt=entry.msgctxt,
-                        msgid=entry.msgid,
-                        msgstr=entry.msgid
-                        )
-                elif "PLAYER_" in entry.msgctxt:
-                    translated_entry = polib.POEntry(
-                        msgctxt=entry.msgctxt,
-                        msgid=entry.msgid,
-                        msgstr=entry.msgid
-                        )
-                elif "TYPE_" in entry.msgctxt:
-                    translated_entry = polib.POEntry(
-                        msgctxt=entry.msgctxt,
-                        msgid=entry.msgid,
-                        msgstr=entry.msgid
-                        )
-                elif "UNIT_" in entry.msgctxt:
-                    translated_entry = polib.POEntry(
-                        msgctxt=entry.msgctxt,
-                        msgid=entry.msgid,
-                        msgstr=entry.msgid
-                        )
-                elif "DETAIL_EXPLAIN" in entry.msgctxt:
+                if any(x in str(entry.msgid) for x in matches):
                     translated_entry = polib.POEntry(
                         msgctxt=entry.msgctxt,
                         msgid=entry.msgid,
