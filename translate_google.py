@@ -121,6 +121,11 @@ for fileName in poList:
                         msgid=entry.msgid,
                         msgstr=entry.msgid
                         )
+            elif realPath.isfile(fileName.replace("original\\", "translated\\")) == True:
+                input_file_2 = polib.pofile(fileName.replace("original\\", "translated\\")
+                for entries in input_file_2:
+                    if str(entries.
+                
             else:    
                 translated_entry = polib.POEntry(
                     msgctxt=entry.msgctxt,
