@@ -102,10 +102,7 @@ for fileName in poList:
                                 msgstr = msgstr[:counter+soylent] + "\n" + msgstr[counter+soylent+1:]
                     except:
                         pass
-                    if "<Sign" in str(entry.msgid):
-                        msgctxt=str(entry.msgctxt)
-                        substringButtons = str(entry.msgid).split("<Sign:",1)[1][0]
-                        msgstr.replace("<Sign >", "<Sign:"+substringButtons+">")
+                    
                     if str(msgstr) or re.search("^\s*$", (msgstr)):
                         translated_entry = polib.POEntry(
                             msgctxt=entry.msgctxt,

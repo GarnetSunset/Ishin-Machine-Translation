@@ -86,6 +86,10 @@ for fileName in poList:
                 )
             for entry_2 in input_file_2:
                 if str(entry.msgctxt) == str(entry_2.msgctxt):
+                    if "<Sign" in str(entry.msgid):
+                        msgctxt=str(entry.msgctxt)
+                        substringButtons = str(entry.msgid).split("<Sign:",1)[1][0]
+                        msgstr.replace("<Sign >", "<Sign:"+substringButtons+">")
                     if str(entry_2.msgstr) == "":
                         print(str(entry_2.msgid))
                     msgstr = str(entry_2.msgstr)
