@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "316"
+msgid "－"
+msgstr "－"
+
+msgctxt "319"
+msgid "所持数"
+msgstr "The number of possession"
+
+msgctxt "326"
+msgid "（何も選んでいない……）"
+msgstr "(I haven't selected anything ...)"
+
+msgctxt "351"
+msgid "（手持ちが足りないようだな……）"
+msgstr "(It looks like you don't have enough ...)"
+
+msgctxt "384"
+msgid "おおきにな。%sや。"
+msgstr "Big. % s and."
+
+msgctxt "403"
+msgid "（これ以上食べられないな……）"
+msgstr "(I can't eat any more ...)"
+
+msgctxt "434"
+msgid "（これ以上飲めないな……）"
+msgstr "(I can't drink any more ...)"
+
+msgctxt "461"
+msgid "御品書"
+msgstr "Imperial book"
+
+msgctxt "468"
+msgid "－"
+msgstr "－"
+
+msgctxt "471"
+msgid "注"
+msgstr "Note"
+
+msgctxt "474"
+msgid "（うむ、うまいな）"
+msgstr "(Um, good)"
+
+msgctxt "493"
+msgid "（いけるな）"
+msgstr "(Don't go)"
+
+msgctxt "506"
+msgid "（なかなかのものだな）"
+msgstr "(It's pretty good)"
+
+msgctxt "529"
+msgid "（うむ、なかなかだな）"
+msgstr "(Um, it's pretty good)"
+
+msgctxt "552"
+msgid "（これは、いいな）"
+msgstr "(This is nice)"
+
+msgctxt "571"
+msgid "（うまいものだな）"
+msgstr "(It's good)"
+
+msgctxt "590"
+msgid "（なかなか、いけるな）"
+msgstr "(Don't go)"
+
+msgctxt "613"
+msgid "（これは、なかなか……）"
+msgstr "(This is pretty ...)"
+
+msgctxt "638"
+msgid "（こいつは、うまいぞ）"
+msgstr "(This guy is good)"
+
+msgctxt "661"
+msgid "（ふむ、いけるな）"
+msgstr "(Hmm, don't go)"
+
+msgctxt "680"
+msgid "（う～ん……　イマイチだな……）"
+msgstr "(Hmm ... I'm not good ...)"
+
+msgctxt "713"
+msgid "chair"
+msgstr ""
+
+msgctxt "719"
+msgid ""
+"炊いた米を発酵させて作られた濁り酒や。\n"
+"がっつり酔えるで。"
+msgstr ""
+"Muddy sake made by fermenting cooked rice.\n"
+"Get drunk."
+
+msgctxt "777"
+msgid ""
+"俺の特製の酒やで。\n"
+"色々な酒を絶妙に混ぜたものや。\n"
+"他では味わえないうまさやで。"
+msgstr ""
+"With my special sake. An exquisite mixture\n"
+"of various types of sake. It's a Masaya\n"
+"that you can't taste anywhere else."
+
+msgctxt "856"
+msgid ""
+"季節の野菜をぬか漬けにしたものや。\n"
+"酒のつまみと言ったら、これやろ。"
+msgstr ""
+"Nukazuke of seasonal vegetables. Speaking\n"
+"of sake knobs, this is it."
+
+msgctxt "924"
+msgid ""
+"とにかく、よく煮た煮物やで。\n"
+"何を煮込んだかなんて、どうでもええやろ。\n"
+"えらいうまいで。"
+msgstr ""
+"Anyway, it's a well-boiled simmered dish.\n"
+"It doesn't matter what you boiled. Don't\n"
+"be afraid."

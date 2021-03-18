@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1348"
+msgid "どうだ？　うまく歌えてたか？"
+msgstr "How is it? Did you sing well?"
+
+msgctxt "1377"
+msgid ""
+"ふふ……　とっても上手やったで。\n"
+"お店のみんなも盛り上がってた。"
+msgstr ""
+"Fufu ... I did it very well. Everyone in\n"
+"the shop was excited too."
+
+msgctxt "1442"
+msgid ""
+"そうか。\n"
+"そいつは良かった。"
+msgstr "Really. That was good."
+
+msgctxt "1471"
+msgid ""
+"一（はじめ）さん、人気者やね。\n"
+"京のみんなに好かれてる。"
+msgstr ""
+"Mr. Ichi (beginning), a popular person.\n"
+"It is loved by everyone in Kyoto."
+
+msgctxt "1528"
+msgid "ふ……　そんなことねえよ。"
+msgstr "Hmm ... That's not true."
+
+msgctxt "1555"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1556"
+msgid "ここは俺が一曲、歌ってやろう。"
+msgstr "I'll sing a song here."
+
+msgctxt "1587"
+msgid "へえ、楽しみ！　聞かせて。"
+msgstr "Hey, look forward to it! Let me know."
+
+msgctxt "1614"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1804"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "1809"
+msgid "おりょう"
+msgstr "Oryo"
+
+msgctxt "1818"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1829"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1838"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "1849"
+msgid "ADV_F_CHO_BASE"
+msgstr ""
+
+msgctxt "1864"
+msgid "dummy"
+msgstr ""

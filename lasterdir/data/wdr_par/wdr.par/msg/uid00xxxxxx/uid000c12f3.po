@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1996"
+msgid "…………"
+msgstr ""
+
+msgctxt "2005"
+msgid "南野……"
+msgstr "Minamino ……"
+
+msgctxt "2014"
+msgid "俺が、犯人と……？"
+msgstr "I'm the criminal ...?"
+
+msgctxt "2033"
+msgid "あぁ、犯人はお前だ……！"
+msgstr "Oh, the criminal is you ...!"
+
+msgctxt "2058"
+msgid "…………"
+msgstr ""
+
+msgctxt "2067"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2068"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2070"
+msgid "もう１度話を聞かせてくれないか？"
+msgstr "Will you tell me the story again?"
+
+msgctxt "2103"
+msgid ""
+"犯人の１人は西山……　あいつの着物に……\n"
+"大福の粉がついているところ……　見た……"
+msgstr ""
+"One of the criminals was Nishiyama ... I\n"
+"saw his kimono with Daifuku powder ..."
+
+msgctxt "2186"
+msgid "（南野は、西山が犯人だと言っているな……）"
+msgstr ""
+"(Minamino says Nishiyama is the culprit\n"
+"...)"
+
+msgctxt "2229"
+msgid "南野、知っていることを教えてくれ。"
+msgstr "Minamino, tell me what you know."
+
+msgctxt "2264"
+msgid ""
+"犯人の１人は西山……　あいつの着物に……\n"
+"大福の粉がついているところ……　見た……"
+msgstr ""
+"One of the criminals was Nishiyama ... I\n"
+"saw his kimono with Daifuku powder ..."
+
+msgctxt "2347"
+msgid "（南野は、西山が犯人だと言っているな……）"
+msgstr ""
+"(Minamino says Nishiyama is the culprit\n"
+"...)"
+
+msgctxt "2390"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2604"
+msgid "南野"
+msgstr "Minamino"
+
+msgctxt "2609"
+msgid "Player"
+msgstr ""
+
+msgctxt "2616"
+msgid "犯人はお前だ"
+msgstr "The criminal is you"
+
+msgctxt "2629"
+msgid "もう１度話が聞きたい"
+msgstr "I want to hear the story again"
+
+msgctxt "2650"
+msgid "P_KRU_SS_stand_hannin_lp"
+msgstr ""
+
+msgctxt "2675"
+msgid "P_KRU_SS_stand_hannin_st"
+msgstr ""
+
+msgctxt "2700"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "2722"
+msgid "P_KRU_SS_stand_hannin_en"
+msgstr ""
+
+msgctxt "2747"
+msgid "Talk_No"
+msgstr ""

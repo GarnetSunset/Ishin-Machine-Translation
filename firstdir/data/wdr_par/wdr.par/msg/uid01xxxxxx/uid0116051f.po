@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1248"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1249"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1250"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1251"
+msgid ""
+"坂本、鉄砲隊だ！\n"
+"石燈籠の裏に隠れよう！"
+msgstr ""
+"Sakamoto, the gun corps! Let's hide behind\n"
+"the stone lantern!"
+
+msgctxt "1292"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1293"
+msgid ""
+"短銃の型使用時に<Sign:4>を押しながら\n"
+"移動しつつ、<Sign:2>で射撃を行うことで\n"
+"移動しながら銃を撃つことができます。"
+msgstr ""
+"When using a pistol mold<Sign:4> While moving\n"
+"while pressing<Sign:2> You can shoot\n"
+"a gun while moving by shooting with."
+
+msgctxt "1408"
+msgid ""
+"遠くから銃を撃ってくる敵には、\n"
+"移動しつつ物陰に隠れながら\n"
+"隙を見つけて攻撃してみましょう。"
+msgstr ""
+"For enemies who shoot guns from a distance,\n"
+"try to find a gap and attack while\n"
+"moving and hiding in the shadows."
+
+msgctxt "1501"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1502"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1503"
+msgid "くそっ、また鉄砲隊か……"
+msgstr "Damn, is it a gun corps again ..."
+
+msgctxt "1528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1531"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1620"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1626"
+msgid "中岡"
+msgstr "Nakaoka"
+
+msgctxt "1631"
+msgid "短銃を撃ちながらの移動"
+msgstr "Moving while shooting a pistol"
+
+msgctxt "1654"
+msgid "遮蔽物の利用"
+msgstr "Use of shields"
+
+msgctxt "1667"
+msgid "2"
+msgstr ""
+
+msgctxt "1669"
+msgid "A60180_appear_gouwan"
+msgstr ""

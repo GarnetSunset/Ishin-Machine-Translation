@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3104"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3105"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3106"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3107"
+msgid "こちらは闘技場の受付になります。"
+msgstr "This is the reception desk for the arena."
+
+msgctxt "3140"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3141"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3142"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3143"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3144"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3145"
+msgid ""
+"武器を一つお選び下さい。\n"
+"今装備している武器や防具の効果は\n"
+"無効になりますのでご注意下さい。"
+msgstr ""
+"Please choose one weapon. Please note that\n"
+"the effects of the weapons and armor\n"
+"you are currently equipped with will be\n"
+"invalidated."
+
+msgctxt "3238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3240"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3241"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3242"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3243"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3244"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3245"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3246"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3247"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3248"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3249"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3250"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3251"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3252"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3253"
+msgid "またのお越しをお待ちしております。"
+msgstr "looking forward to seeing you coming again."
+
+msgctxt "3372"
+msgid "大会運営員"
+msgstr "Tournament organizer"
+
+msgctxt "3383"
+msgid "出場登録を行う"
+msgstr "Register for participation"
+
+msgctxt "3398"
+msgid "闘技場に関する説明"
+msgstr "Explanation about the arena"
+
+msgctxt "3417"
+msgid "選手情報を確認する"
+msgstr "Check player information"
+
+msgctxt "3436"
+msgid "戦績を確認する"
+msgstr "Check the battle record"
+
+msgctxt "3451"
+msgid "バトルランキングを見る"
+msgstr "View battle ranking"
+
+msgctxt "3474"
+msgid "ポイントを交換する"
+msgstr "Redeem points"
+
+msgctxt "3493"
+msgid "やめる"
+msgstr "Stop"
+
+msgctxt "3500"
+msgid "基本ルール説明"
+msgstr "Basic rule explanation"
+
+msgctxt "3515"
+msgid "タッグ説明"
+msgstr "Tag description"
+
+msgctxt "3526"
+msgid "バトルランキング説明"
+msgstr "Battle ranking explanation"
+
+msgctxt "3547"
+msgid "メニューへ戻る"
+msgstr "Return to menu"
+
+msgctxt "3562"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3568"
+msgid "業物のドス"
+msgstr "Dos of business"
+
+msgctxt "3579"
+msgid "業物の刀"
+msgstr "Karma sword"
+
+msgctxt "3588"
+msgid "業物の槍"
+msgstr "Karma spear"
+
+msgctxt "3597"
+msgid "業物の鉄甲"
+msgstr "Tekko of business"
+
+msgctxt "3608"
+msgid "業物のハンマー"
+msgstr "Hammer of business"
+
+msgctxt "3623"
+msgid "業物のヌンチャク"
+msgstr "Nunchaku of business"
+
+msgctxt "3640"
+msgid "業物のトンファー"
+msgstr "Tonfa of business"
+
+msgctxt "3657"
+msgid "業物のカリスティック"
+msgstr "Karma Calistic"

@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6820"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6821"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6822"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6823"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6824"
+msgid "新選組を抜けるつもりですか……　斎藤君。"
+msgstr ""
+"Are you planning to leave the Shinsengumi\n"
+"... Saito-kun."
+
+msgctxt "6865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6866"
+msgid "土方……"
+msgstr "Earthwork..."
+
+msgctxt "6875"
+msgid ""
+"総司から話は聞きました。\n"
+"あなたがここに来た理由も。本当の名前も全て。"
+msgstr ""
+"I heard from Souji. Also why you came here.\n"
+"All the real names."
+
+msgctxt "6946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6947"
+msgid "そうか……"
+msgstr "Really……"
+
+msgctxt "6958"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6959"
+msgid "逃げんのかい。……一（はじめ）ちゃん。"
+msgstr ""
+"Are you running away? ...... Ichi (beginning)\n"
+"-chan."
+
+msgctxt "6998"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6999"
+msgid "……逃げる？"
+msgstr "……escape?"
+
+msgctxt "7012"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7013"
+msgid ""
+"せや……　確かに一（はじめ）ちゃんが\n"
+"新選組に居る理由は無ぅなった……"
+msgstr ""
+"Saya ... Certainly there is no reason why\n"
+"Ichi (Hajime) is in the Shinsengumi ..."
+
+msgctxt "7084"
+msgid ""
+"せやけどな、仲間残して独りで何もかも抱え込んで\n"
+"闘いに向かうんは、逃げるっちゅうことや。"
+msgstr ""
+"It's a burn, but if you leave your friends\n"
+"and hold everything by yourself and\n"
+"head for the fight, you'll have to run\n"
+"away."
+
+msgctxt "7173"
+msgid ""
+"他人とつるまんと、独りでやる方がカッコええ……\n"
+"せやけどそれじゃアカンのや。"
+msgstr ""
+"It's cooler to do it alone with other people\n"
+"... But then it's Akan."
+
+msgctxt "7250"
+msgid "闘いっちゅうんは、誰かと一緒にやらなアカンねん。"
+msgstr ""
+"Fighting is an Akan that you can do with\n"
+"someone."
+
+msgctxt "7299"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7300"
+msgid "どうしてだ。"
+msgstr "Why?"
+
+msgctxt "7313"
+msgid ""
+"……人間、大事なことをする時は、誰かに\n"
+"見ててもらわなアカンっちゅうことや。"
+msgstr ""
+"…… Human, when you do something important,\n"
+"you don't want someone to see you."
+
+msgctxt "7390"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7391"
+msgid ""
+"共に闘い、共に考え、共に哀しみ、共に喜ぶ……\n"
+"そうやって時を同じくすることで、\n"
+"事実は人から人へ伝わり歴史は作られてく。"
+msgstr ""
+"Fighting together, thinking together, sadness\n"
+"together, rejoicing together ...\n"
+"By doing so at the same time, the facts\n"
+"are transmitted from person to person\n"
+"and history is created."
+
+msgctxt "7512"
+msgid ""
+"せやから近藤局長は、最期まで新選組という\n"
+"仲間を捨てなかったんや。"
+msgstr ""
+"Director General Kondo did not abandon the\n"
+"Shinsengumi until the end."
+
+msgctxt "7579"
+msgid ""
+"だが、俺はこれ以上、新選組を巻き込むわけには\n"
+"いかない……　ここから先は、坂本龍馬という\n"
+"１人の男としての闘いだ。"
+msgstr ""
+"However, I can't get involved in the Shinsengumi\n"
+"anymore ... From here on, it's\n"
+"a fight as a man named Ryoma Sakamoto."
+
+msgctxt "7694"
+msgid ""
+"それがどないした。\n"
+"……坂本龍馬１人の闘いのために新選組が闘う。\n"
+"それでええやないか。"
+msgstr ""
+"It didn't work. ...... Ryoma Sakamoto The\n"
+"Shinsengumi fights for the fight of one\n"
+"person. Isn't that so?"
+
+msgctxt "7781"
+msgid "沖田……"
+msgstr "Okita ……"
+
+msgctxt "7790"
+msgid "な、新八？"
+msgstr "What, Shinpachi?"
+
+msgctxt "7801"
+msgid ""
+"ああ。\n"
+"俺にとっちゃ、それが局長と共に生きるということ\n"
+"でもあるしな。"
+msgstr ""
+"Oh. For me, that also means living with\n"
+"the director."
+
+msgctxt "7872"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7873"
+msgid "永倉……"
+msgstr "Nagakura ……"
+
+msgctxt "7882"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7884"
+msgid "土方……"
+msgstr "Earthwork..."
+
+msgctxt "7893"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7894"
+msgid ""
+"それに坂本さん……\n"
+"あなたの斎藤一としての仕事はまだ残って\n"
+"いるようだ。"
+msgstr ""
+"And Mr. Sakamoto ... It seems that your\n"
+"work as Saito Hajime still remains."
+
+msgctxt "7967"
+msgid ""
+"仕事？\n"
+"近藤はそこに最後の策があると言っていたが……"
+msgstr ""
+"jobs? Kondo said that there was a last resort\n"
+"..."
+
+msgctxt "8020"
+msgid ""
+"近藤勇は死んでも死なん……か。\n"
+"……フッ。"
+msgstr ""
+"Isami Kondo is dead even if he dies ...?\n"
+"...... Huh."
+
+msgctxt "8063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9568"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "9579"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "9590"
+msgid "土方"
+msgstr "Earthwork"
+
+msgctxt "9595"
+msgid "kaiwabgm_hartwarm_06"
+msgstr ""
+
+msgctxt "9616"
+msgid "hijikata_c12_110_01"
+msgstr ""
+
+msgctxt "9636"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "9641"
+msgid "kiryu_c12_110_02"
+msgstr ""
+
+msgctxt "9658"
+msgid "hijikata_c12_110_02"
+msgstr ""
+
+msgctxt "9678"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "9689"
+msgid "kiryu_c12_110_03"
+msgstr ""
+
+msgctxt "9706"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "9717"
+msgid "TLK_SCN006"
+msgstr ""
+
+msgctxt "9728"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "9739"
+msgid "沖田"
+msgstr "Okita"
+
+msgctxt "9744"
+msgid "majima_c12_110_01"
+msgstr ""
+
+msgctxt "9762"
+msgid "kiryu_c12_110_04"
+msgstr ""
+
+msgctxt "9779"
+msgid "TLK_SCN008"
+msgstr ""
+
+msgctxt "9790"
+msgid "majima_c12_110_02"
+msgstr ""
+
+msgctxt "9808"
+msgid "00021e4b"
+msgstr ""
+
+msgctxt "9817"
+msgid "TLK_SCN010"
+msgstr ""
+
+msgctxt "9828"
+msgid "majima_c12_110_02b"
+msgstr ""
+
+msgctxt "9847"
+msgid "majima_c12_110_03"
+msgstr ""
+
+msgctxt "9865"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "9876"
+msgid "majima_c12_110_03b"
+msgstr ""
+
+msgctxt "9895"
+msgid "kiryu_c12_110_05"
+msgstr ""
+
+msgctxt "9912"
+msgid "majima_c12_110_04"
+msgstr ""
+
+msgctxt "9930"
+msgid "TLK_SCN009"
+msgstr ""
+
+msgctxt "9941"
+msgid "永倉"
+msgstr "Nagakura"
+
+msgctxt "9946"
+msgid "saejima_c12_110_01"
+msgstr ""
+
+msgctxt "9965"
+msgid "TLK_SCN012"
+msgstr ""
+
+msgctxt "9976"
+msgid "TLK_SCN011"
+msgstr ""
+
+msgctxt "9987"
+msgid "saejima_c12_110_01b"
+msgstr ""
+
+msgctxt "10007"
+msgid "kiryu_c12_110_06"
+msgstr ""
+
+msgctxt "10024"
+msgid "TLK_SCN014"
+msgstr ""
+
+msgctxt "10035"
+msgid "majima_c12_110_05"
+msgstr ""
+
+msgctxt "10053"
+msgid "TLK_SCN016"
+msgstr ""
+
+msgctxt "10064"
+msgid "TLK_SCN013"
+msgstr ""
+
+msgctxt "10075"
+msgid "kiryu_c12_110_07"
+msgstr ""
+
+msgctxt "10092"
+msgid "majima_c12_110_06"
+msgstr ""
+
+msgctxt "10110"
+msgid "TLK_SCN015"
+msgstr ""
+
+msgctxt "10121"
+msgid "saejima_c12_110_02"
+msgstr ""
+
+msgctxt "10140"
+msgid "TLK_SCN018"
+msgstr ""
+
+msgctxt "10151"
+msgid "kiryu_c12_110_08"
+msgstr ""
+
+msgctxt "10168"
+msgid "TLK_SCN020"
+msgstr ""
+
+msgctxt "10179"
+msgid "TLK_SCN017"
+msgstr ""
+
+msgctxt "10190"
+msgid "kiryu_c12_110_09"
+msgstr ""
+
+msgctxt "10207"
+msgid "hijikata_c12_110_03"
+msgstr ""
+
+msgctxt "10227"
+msgid "TLK_SCN022"
+msgstr ""
+
+msgctxt "10238"
+msgid "kiryu_c12_110_10"
+msgstr ""
+
+msgctxt "10255"
+msgid "TLK_SCN024"
+msgstr ""
+
+msgctxt "10266"
+msgid "hijikata_c12_110_04"
+msgstr ""

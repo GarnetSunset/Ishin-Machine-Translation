@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1644"
+msgid "（くそっ……なんだあれは……）"
+msgstr "(Damn ... what is that ...)"
+
+msgctxt "1675"
+msgid ""
+"（隠れながら拳銃を撃つか、\n"
+"　強引に近づくか……）"
+msgstr ""
+"(Whether to shoot a pistol while hiding\n"
+"or approach forcibly ...)"
+
+msgctxt "1726"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1727"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1728"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1729"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1730"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1731"
+msgid "（む……　追手か……）"
+msgstr "(Mu ... Is it a pursuit ...)"
+
+msgctxt "1754"
+msgid "（数が多いな……　一気に蹴散らす方法は……）"
+msgstr ""
+"(There are a lot of them ... How to get\n"
+"rid of them all at once ...)"
+
+msgctxt "1799"
+msgid "（これだ!!）"
+msgstr "(This is it!!)"
+
+msgctxt "1812"
+msgid "（追手は倒した……　千石を追うぞ！）"
+msgstr "(I defeated the chase ... I'll chase Sengoku!)"
+
+msgctxt "1849"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1850"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1851"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1852"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2000"
+msgid "Player"
+msgstr ""
+
+msgctxt "2007"
+msgid "A60142_sengoku_escape_door2"
+msgstr ""
+
+msgctxt "2035"
+msgid "7e008080"
+msgstr ""
+
+msgctxt "2044"
+msgid "A60180_appear_gouwan"
+msgstr ""

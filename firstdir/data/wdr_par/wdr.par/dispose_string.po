@@ -1,0 +1,9636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "9632"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9633"
+msgid "Idle"
+msgstr ""
+
+msgctxt "9638"
+msgid "c_em_default"
+msgstr ""
+
+msgctxt "9651"
+msgid "M_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "9673"
+msgid "c_em_shop_kajiya02"
+msgstr ""
+
+msgctxt "9692"
+msgid "C_SET_kajiya_lp"
+msgstr ""
+
+msgctxt "9708"
+msgid "WEPCT2700"
+msgstr ""
+
+msgctxt "9718"
+msgid "redev5000"
+msgstr ""
+
+msgctxt "9728"
+msgid "c_ab_ryoma_fund"
+msgstr ""
+
+msgctxt "9744"
+msgid "PetCat"
+msgstr ""
+
+msgctxt "9751"
+msgid "c_d05_pe00_cat"
+msgstr ""
+
+msgctxt "9766"
+msgid "A_CAT_TLK_stand_tlk_nml_02"
+msgstr ""
+
+msgctxt "9793"
+msgid "ADV_A_CAT_PET"
+msgstr ""
+
+msgctxt "9807"
+msgid "PetDog"
+msgstr ""
+
+msgctxt "9814"
+msgid "c_d38_pe00_dog"
+msgstr ""
+
+msgctxt "9829"
+msgid "A_DOG_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "9851"
+msgid "ADV_A_DOG_PET"
+msgstr ""
+
+msgctxt "9865"
+msgid "c_d38_pe01_mame"
+msgstr ""
+
+msgctxt "9881"
+msgid "A_DOG_TLK_stand_ikaku_lp"
+msgstr ""
+
+msgctxt "9906"
+msgid "c_d38_pe03_hoe"
+msgstr ""
+
+msgctxt "9921"
+msgid "A_DOG_TLK_sitgrd_sleep_lp"
+msgstr ""
+
+msgctxt "9947"
+msgid "c_d38_pe02_nao"
+msgstr ""
+
+msgctxt "9962"
+msgid "A_DOG_TLK_sitgrd_lp"
+msgstr ""
+
+msgctxt "9982"
+msgid "c_d05_pe06_dai"
+msgstr ""
+
+msgctxt "9997"
+msgid "A_CAT_TLK_sitgrd_sleep_lp"
+msgstr ""
+
+msgctxt "10023"
+msgid "c_d05_pe04_maguro"
+msgstr ""
+
+msgctxt "10041"
+msgid "c_d05_pe05_ochoko"
+msgstr ""
+
+msgctxt "10059"
+msgid "A_CAT_TLK_sitgrd_kedukuroi_lp"
+msgstr ""
+
+msgctxt "10089"
+msgid "A_DOG_TLK_feel_good_lp"
+msgstr ""
+
+msgctxt "10112"
+msgid "A_DOG_TLK_stand_bark_lp"
+msgstr ""
+
+msgctxt "10136"
+msgid "A_CAT_TLK_stand_tlk_nml"
+msgstr ""
+
+msgctxt "10160"
+msgid "HikyakuMibudera"
+msgstr ""
+
+msgctxt "10176"
+msgid "malehikyakudaiku"
+msgstr ""
+
+msgctxt "10193"
+msgid "M_HKK_ACT_stand_kamae"
+msgstr ""
+
+msgctxt "10215"
+msgid "ADV_M_HKK_BASE"
+msgstr ""
+
+msgctxt "10230"
+msgid "LookWait"
+msgstr ""
+
+msgctxt "10239"
+msgid "c_em_c01_010_kin_01"
+msgstr ""
+
+msgctxt "10259"
+msgid "F_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "10281"
+msgid "ADV_M_CHO_BASE"
+msgstr ""
+
+msgctxt "10296"
+msgid "c_ew_c00_k_oldwoman_03"
+msgstr ""
+
+msgctxt "10319"
+msgid "c_ew_c00_k_woman_02"
+msgstr ""
+
+msgctxt "10339"
+msgid "F_SHP_TLK_stand_sad"
+msgstr ""
+
+msgctxt "10359"
+msgid "c_em_c02_a165_ronin1"
+msgstr ""
+
+msgctxt "10380"
+msgid "M_CHO_TLK_stand_happy"
+msgstr ""
+
+msgctxt "10402"
+msgid "c_em_k_oldman_07"
+msgstr ""
+
+msgctxt "10419"
+msgid "M_BUS_TLK_btl_aft_nw_04_lp"
+msgstr ""
+
+msgctxt "10446"
+msgid "M_BUS_TLK_btl_aft_nw_01_lp"
+msgstr ""
+
+msgctxt "10473"
+msgid "c_em_k_man_01"
+msgstr ""
+
+msgctxt "10487"
+msgid "c_em_k_man_18"
+msgstr ""
+
+msgctxt "10501"
+msgid "c_em_g_man06"
+msgstr ""
+
+msgctxt "10514"
+msgid "c_ew_k_oldwoman_01"
+msgstr ""
+
+msgctxt "10533"
+msgid "c_d36_cochin"
+msgstr ""
+
+msgctxt "10546"
+msgid "c_em_k_man_14"
+msgstr ""
+
+msgctxt "10560"
+msgid "c_em_k_oldman_10"
+msgstr ""
+
+msgctxt "10577"
+msgid "c_ew_k_oldwoman_10"
+msgstr ""
+
+msgctxt "10596"
+msgid "c_ab_taketi"
+msgstr ""
+
+msgctxt "10608"
+msgid "M_NAK_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "10630"
+msgid "c_em_ss17_kenkaya1"
+msgstr ""
+
+msgctxt "10649"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "10671"
+msgid "ADV_M_BUS_STAND"
+msgstr ""
+
+msgctxt "10687"
+msgid "use_enemy_weapon"
+msgstr ""
+
+msgctxt "10704"
+msgid "default"
+msgstr ""
+
+msgctxt "10712"
+msgid "YARI_A"
+msgstr ""
+
+msgctxt "10719"
+msgid "E_btlst_WPI_battou_A"
+msgstr ""
+
+msgctxt "10740"
+msgid "wepct4200"
+msgstr ""
+
+msgctxt "10750"
+msgid "DisposeMax"
+msgstr ""
+
+msgctxt "10761"
+msgid "墨坊主"
+msgstr ""
+
+msgctxt "10768"
+msgid "c_em_ss39_man_01"
+msgstr ""
+
+msgctxt "10785"
+msgid "ADV_M_CHO_STAND"
+msgstr ""
+
+msgctxt "10801"
+msgid "c_em_ss18_kenkaya2"
+msgstr ""
+
+msgctxt "10820"
+msgid "c_em_ss19_kenkaya3"
+msgstr ""
+
+msgctxt "10839"
+msgid "P_KRU_STG_stand_lp"
+msgstr ""
+
+msgctxt "10858"
+msgid "MBOSS_YARI"
+msgstr ""
+
+msgctxt "10869"
+msgid "E_btlst_WPI_battou_B"
+msgstr ""
+
+msgctxt "10890"
+msgid "c_em_ss31_kisha"
+msgstr ""
+
+msgctxt "10906"
+msgid "c_em_ss31_man_01"
+msgstr ""
+
+msgctxt "10923"
+msgid "KNG_HI"
+msgstr ""
+
+msgctxt "10930"
+msgid "E_btlst_KNS_HI_battou_B"
+msgstr ""
+
+msgctxt "10954"
+msgid "wepct2700"
+msgstr ""
+
+msgctxt "10964"
+msgid "関"
+msgstr ""
+
+msgctxt "10967"
+msgid "c_em_ss31_man_02"
+msgstr ""
+
+msgctxt "10984"
+msgid "KNS_WK"
+msgstr ""
+
+msgctxt "10991"
+msgid "E_btlst_KNS_WK_battou_A"
+msgstr ""
+
+msgctxt "11015"
+msgid "村山"
+msgstr ""
+
+msgctxt "11020"
+msgid "c_em_ss31_man_03"
+msgstr ""
+
+msgctxt "11037"
+msgid "KNS_MD"
+msgstr ""
+
+msgctxt "11044"
+msgid "E_btlst_KNS_battou_A"
+msgstr ""
+
+msgctxt "11065"
+msgid "川野"
+msgstr ""
+
+msgctxt "11070"
+msgid "c_em_c00_sin_17"
+msgstr ""
+
+msgctxt "11086"
+msgid "M_CHO_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "11108"
+msgid "ADV_M_CHO_SEIZA"
+msgstr ""
+
+msgctxt "11124"
+msgid "acdev7080"
+msgstr ""
+
+msgctxt "11134"
+msgid "acdev7020"
+msgstr ""
+
+msgctxt "11144"
+msgid "c_ek_ss32_girl_01"
+msgstr ""
+
+msgctxt "11162"
+msgid "M_CLD_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "11184"
+msgid "ADV_M_CLD_STAND"
+msgstr ""
+
+msgctxt "11200"
+msgid "c_ek_ss32_boy_01"
+msgstr ""
+
+msgctxt "11217"
+msgid "c_ek_ss32_girl_02"
+msgstr ""
+
+msgctxt "11235"
+msgid "c_em_ss32_man_01"
+msgstr ""
+
+msgctxt "11252"
+msgid "c_em_ss32_man_02"
+msgstr ""
+
+msgctxt "11269"
+msgid "KNG_HS"
+msgstr ""
+
+msgctxt "11276"
+msgid "E_btlst_KNS_HS_battou_A"
+msgstr ""
+
+msgctxt "11300"
+msgid "森田"
+msgstr ""
+
+msgctxt "11305"
+msgid "c_ew_mg_nichibut"
+msgstr ""
+
+msgctxt "11322"
+msgid "ADV_F_CHO_STAND"
+msgstr ""
+
+msgctxt "11338"
+msgid "c_em_ss03_man_01"
+msgstr ""
+
+msgctxt "11355"
+msgid "YATOU"
+msgstr ""
+
+msgctxt "11361"
+msgid "E_btlst_YAT_battou_A"
+msgstr ""
+
+msgctxt "11382"
+msgid "小谷"
+msgstr ""
+
+msgctxt "11387"
+msgid "c_em_ss03_man_02"
+msgstr ""
+
+msgctxt "11404"
+msgid "奥野"
+msgstr ""
+
+msgctxt "11409"
+msgid "c_em_ss03_man_03"
+msgstr ""
+
+msgctxt "11426"
+msgid "E_btlst_YAT_battou_B"
+msgstr ""
+
+msgctxt "11447"
+msgid "宮沢"
+msgstr ""
+
+msgctxt "11452"
+msgid "c_em_ss03_man_04"
+msgstr ""
+
+msgctxt "11469"
+msgid "窪田"
+msgstr ""
+
+msgctxt "11474"
+msgid "c_ew_sh06_woman_01"
+msgstr ""
+
+msgctxt "11493"
+msgid "F_CHO_ACT_stand_shop_think_lp"
+msgstr ""
+
+msgctxt "11523"
+msgid "c_em_sh03_man_01"
+msgstr ""
+
+msgctxt "11540"
+msgid "c_em_sh03_man_02"
+msgstr ""
+
+msgctxt "11557"
+msgid "c_em_c02_a040_ronin1"
+msgstr ""
+
+msgctxt "11578"
+msgid "M_BIG_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "11600"
+msgid "ADV_M_BIG_STAND"
+msgstr ""
+
+msgctxt "11616"
+msgid "GOWAN"
+msgstr ""
+
+msgctxt "11622"
+msgid "E_btlst_WPG_battou_A"
+msgstr ""
+
+msgctxt "11643"
+msgid "wepct5500"
+msgstr ""
+
+msgctxt "11653"
+msgid "片桐"
+msgstr ""
+
+msgctxt "11658"
+msgid "c_em_m_man_01"
+msgstr ""
+
+msgctxt "11672"
+msgid "松下"
+msgstr ""
+
+msgctxt "11677"
+msgid "c_em_m_man_02"
+msgstr ""
+
+msgctxt "11691"
+msgid "井出"
+msgstr ""
+
+msgctxt "11696"
+msgid "c_em_m_man_03"
+msgstr ""
+
+msgctxt "11710"
+msgid "早川"
+msgstr ""
+
+msgctxt "11715"
+msgid "c_em_b_narazu_14"
+msgstr ""
+
+msgctxt "11732"
+msgid "HGUN_A"
+msgstr ""
+
+msgctxt "11739"
+msgid "E_btlst_WPY_typeB_battou_B"
+msgstr ""
+
+msgctxt "11766"
+msgid "wepct1500"
+msgstr ""
+
+msgctxt "11776"
+msgid "小柳"
+msgstr ""
+
+msgctxt "11781"
+msgid "c_em_shop_utahiro_01"
+msgstr ""
+
+msgctxt "11802"
+msgid "c_em_ps01_man_01"
+msgstr ""
+
+msgctxt "11819"
+msgid "E_btlst_KNS_battou_B"
+msgstr ""
+
+msgctxt "11840"
+msgid "小坂"
+msgstr ""
+
+msgctxt "11845"
+msgid "c_em_ps01_man_02"
+msgstr ""
+
+msgctxt "11862"
+msgid "KNG_LW"
+msgstr ""
+
+msgctxt "11869"
+msgid "E_btlst_KNS_LW_battou_A"
+msgstr ""
+
+msgctxt "11893"
+msgid "小林"
+msgstr ""
+
+msgctxt "11898"
+msgid "c_em_ps01_man_03"
+msgstr ""
+
+msgctxt "11915"
+msgid "E_btlst_KNS_HS_battou_B"
+msgstr ""
+
+msgctxt "11939"
+msgid "青柳"
+msgstr ""
+
+msgctxt "11944"
+msgid "F_CHO_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "11966"
+msgid "ADV_F_CHO_SEIZA"
+msgstr ""
+
+msgctxt "11982"
+msgid "c_em_shop_kagoya_01"
+msgstr ""
+
+msgctxt "12002"
+msgid "c_em_shop_kagoya_02"
+msgstr ""
+
+msgctxt "12022"
+msgid "c_am_okita_cas"
+msgstr ""
+
+msgctxt "12037"
+msgid "M_BUS_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "12059"
+msgid "c_am_nagakura_kina"
+msgstr ""
+
+msgctxt "12078"
+msgid "c_aw_ikumatu"
+msgstr ""
+
+msgctxt "12091"
+msgid "F_CHO_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "12113"
+msgid "c_cw_haruka"
+msgstr ""
+
+msgctxt "12125"
+msgid "F_HAL_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "12147"
+msgid "c_ew_c00_k_woman_01"
+msgstr ""
+
+msgctxt "12167"
+msgid "c_ew_k_woman_02"
+msgstr ""
+
+msgctxt "12183"
+msgid "c_ew_mg_nichibu_01"
+msgstr ""
+
+msgctxt "12202"
+msgid "IdleBehavior"
+msgstr ""
+
+msgctxt "12215"
+msgid "c_ew_mg_nichibu_02"
+msgstr ""
+
+msgctxt "12234"
+msgid "F_CHO_ACT_stand_atc_hisohiso"
+msgstr ""
+
+msgctxt "12263"
+msgid "ADV_F_CHO_BASE"
+msgstr ""
+
+msgctxt "12278"
+msgid "stand_talk_secretly"
+msgstr ""
+
+msgctxt "12298"
+msgid "none"
+msgstr ""
+
+msgctxt "12303"
+msgid "c_ew_mg_nichibu_03"
+msgstr ""
+
+msgctxt "12322"
+msgid "F_CHO_TLK_stand_eejanaika_n_lp"
+msgstr ""
+
+msgctxt "12353"
+msgid "c_ew_mg_nichibu_04"
+msgstr ""
+
+msgctxt "12372"
+msgid "F_CHO_ACT_stand_atc_listen_lp"
+msgstr ""
+
+msgctxt "12402"
+msgid "c_em_shop_utahiro_02"
+msgstr ""
+
+msgctxt "12423"
+msgid "M_SHP_uta_shamisen_lp"
+msgstr ""
+
+msgctxt "12445"
+msgid "acdev5050"
+msgstr ""
+
+msgctxt "12455"
+msgid "acdev5055"
+msgstr ""
+
+msgctxt "12465"
+msgid "c_em_man12_man_03"
+msgstr ""
+
+msgctxt "12483"
+msgid "c_em_man12_man_04"
+msgstr ""
+
+msgctxt "12501"
+msgid "c_em_sh01_man_01"
+msgstr ""
+
+msgctxt "12518"
+msgid "M_BUS_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "12540"
+msgid "ADV_M_BUS_AGURA"
+msgstr ""
+
+msgctxt "12556"
+msgid "c_em_shop_man_01"
+msgstr ""
+
+msgctxt "12573"
+msgid "M_CHO_ACT_stand_look_item_lp"
+msgstr ""
+
+msgctxt "12602"
+msgid "look_item"
+msgstr ""
+
+msgctxt "12612"
+msgid "c_em_k_oldman_01"
+msgstr ""
+
+msgctxt "12629"
+msgid "M_CHO_ACT_stand_shop_think_lp"
+msgstr ""
+
+msgctxt "12659"
+msgid "stand_think"
+msgstr ""
+
+msgctxt "12671"
+msgid "c_em_t_man_01"
+msgstr ""
+
+msgctxt "12685"
+msgid "c_ew_k_oldwoman_03"
+msgstr ""
+
+msgctxt "12704"
+msgid "c_em_shop_utahiro_03"
+msgstr ""
+
+msgctxt "12725"
+msgid "c_em_sh08_man_01"
+msgstr ""
+
+msgctxt "12742"
+msgid "c_cm_ryoma_k"
+msgstr ""
+
+msgctxt "12755"
+msgid "c_ew_shop_utahiro"
+msgstr ""
+
+msgctxt "12773"
+msgid "amb_ikedaya_btl.hca"
+msgstr ""
+
+msgctxt "12793"
+msgid "amb_ikedaya_2f_btl.hca"
+msgstr ""
+
+msgctxt "12816"
+msgid "c_em_shop_kajiya"
+msgstr ""
+
+msgctxt "12833"
+msgid "M_BUS_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "12855"
+msgid "c_em_shop_kajiya03"
+msgstr ""
+
+msgctxt "12874"
+msgid "c_em_shop_kajiya04"
+msgstr ""
+
+msgctxt "12893"
+msgid "c_em_shop_kajiya_m"
+msgstr ""
+
+msgctxt "12912"
+msgid "M_OLD_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "12934"
+msgid "c_em_amon"
+msgstr ""
+
+msgctxt "12944"
+msgid "E_KNS_LW_stand"
+msgstr ""
+
+msgctxt "12959"
+msgid "wechi0002"
+msgstr ""
+
+msgctxt "12969"
+msgid "c_cm_kb_metal_b"
+msgstr ""
+
+msgctxt "12985"
+msgid "E_GENE_NIN_appear_r_A"
+msgstr ""
+
+msgctxt "13007"
+msgid "c_cm_kb_metal_g"
+msgstr ""
+
+msgctxt "13023"
+msgid "E_GENE_NIN_appear_top_A"
+msgstr ""
+
+msgctxt "13047"
+msgid "c_cm_kb_metal_r"
+msgstr ""
+
+msgctxt "13063"
+msgid "E_GENE_NIN_appear_l_A"
+msgstr ""
+
+msgctxt "13085"
+msgid "c_em_chonin_1st_01"
+msgstr ""
+
+msgctxt "13104"
+msgid "c_ew_chonin_1st_01"
+msgstr ""
+
+msgctxt "13123"
+msgid "c_cw_otose"
+msgstr ""
+
+msgctxt "13134"
+msgid "ScenarioSpeak"
+msgstr ""
+
+msgctxt "13148"
+msgid "ADV_F_OTS_HK"
+msgstr ""
+
+msgctxt "13161"
+msgid "c_ew_c02_a040_okami"
+msgstr ""
+
+msgctxt "13181"
+msgid "ADV_F_CHO_stand"
+msgstr ""
+
+msgctxt "13197"
+msgid "c_em_c02_a040_ronin2"
+msgstr ""
+
+msgctxt "13218"
+msgid "M_BUS_TLK_btl_aft_nw_02_lp"
+msgstr ""
+
+msgctxt "13245"
+msgid "ADV_M_YKZ_STAND"
+msgstr ""
+
+msgctxt "13261"
+msgid "E_btlst_WEE_02"
+msgstr ""
+
+msgctxt "13276"
+msgid "林田"
+msgstr ""
+
+msgctxt "13281"
+msgid "E_btlst_WEE_01"
+msgstr ""
+
+msgctxt "13296"
+msgid "寺本"
+msgstr ""
+
+msgctxt "13301"
+msgid "c_em_c02_a040_ronin4"
+msgstr ""
+
+msgctxt "13322"
+msgid "M_YKZ_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "13344"
+msgid "c_em_c02_a040_ronin3"
+msgstr ""
+
+msgctxt "13365"
+msgid "c_em_c01_simada"
+msgstr ""
+
+msgctxt "13381"
+msgid "c_em_c02_030_sinsen1"
+msgstr ""
+
+msgctxt "13402"
+msgid "c_em_c02_030_sinsen2"
+msgstr ""
+
+msgctxt "13423"
+msgid "c_em_c02_030_sinsen3"
+msgstr ""
+
+msgctxt "13444"
+msgid "M_BUS_TLK_stand_kat_lp"
+msgstr ""
+
+msgctxt "13467"
+msgid "c_cm_katura"
+msgstr ""
+
+msgctxt "13479"
+msgid "C02070_KAT_kiseru_kamae"
+msgstr ""
+
+msgctxt "13503"
+msgid "acsce0240"
+msgstr ""
+
+msgctxt "13513"
+msgid "wepct2890"
+msgstr ""
+
+msgctxt "13523"
+msgid "c_ew_c02_a010_jochu"
+msgstr ""
+
+msgctxt "13543"
+msgid "F_CHO_ACT_stand_atc_think_lp"
+msgstr ""
+
+msgctxt "13572"
+msgid "c_cm_taketi_tnaked_agra"
+msgstr ""
+
+msgctxt "13596"
+msgid "Friendly"
+msgstr ""
+
+msgctxt "13605"
+msgid "c_em_c01_a040_chonina"
+msgstr ""
+
+msgctxt "13627"
+msgid "c_cm_hizikata"
+msgstr ""
+
+msgctxt "13641"
+msgid "c_cm_yamanami"
+msgstr ""
+
+msgctxt "13655"
+msgid "YAMAN"
+msgstr ""
+
+msgctxt "13661"
+msgid "NONE"
+msgstr ""
+
+msgctxt "13666"
+msgid "wepct2870"
+msgstr ""
+
+msgctxt "13676"
+msgid "白装束の男"
+msgstr ""
+
+msgctxt "13687"
+msgid "c_cw_c01_otumum"
+msgstr ""
+
+msgctxt "13703"
+msgid "c_ck_c01_otu"
+msgstr ""
+
+msgctxt "13716"
+msgid "c_cm_c01_isha"
+msgstr ""
+
+msgctxt "13730"
+msgid "c_cm_toyo"
+msgstr ""
+
+msgctxt "13740"
+msgid "Stay"
+msgstr ""
+
+msgctxt "13745"
+msgid "c_em_c01_a040_choninb"
+msgstr ""
+
+msgctxt "13767"
+msgid "c_cm_toyo_c01"
+msgstr ""
+
+msgctxt "13781"
+msgid "P_KRU_TLK_agura_sake1_lp"
+msgstr ""
+
+msgctxt "13806"
+msgid "acsce0120"
+msgstr ""
+
+msgctxt "13816"
+msgid "acsce0130"
+msgstr ""
+
+msgctxt "13826"
+msgid "c_em_c01_a060_niseb"
+msgstr ""
+
+msgctxt "13846"
+msgid "ADV_M_BUS_BASE"
+msgstr ""
+
+msgctxt "13861"
+msgid "M_BUS_TLK_btl_aft_03_kamae"
+msgstr ""
+
+msgctxt "13888"
+msgid "江原"
+msgstr ""
+
+msgctxt "13893"
+msgid "c_em_c01_a060_nisea"
+msgstr ""
+
+msgctxt "13913"
+msgid "stand_listen"
+msgstr ""
+
+msgctxt "13926"
+msgid "M_BUS_TLK_btl_aft_02_lp"
+msgstr ""
+
+msgctxt "13950"
+msgid "KNS_LW"
+msgstr ""
+
+msgctxt "13957"
+msgid "田所"
+msgstr ""
+
+msgctxt "13962"
+msgid "c_em_c01_a060_shujin"
+msgstr ""
+
+msgctxt "13983"
+msgid "stand_frightened"
+msgstr ""
+
+msgctxt "14000"
+msgid "stand_cheer"
+msgstr ""
+
+msgctxt "14012"
+msgid "c_cm_izo"
+msgstr ""
+
+msgctxt "14021"
+msgid "wepct2810"
+msgstr ""
+
+msgctxt "14031"
+msgid "c_cm_c01_tkin5"
+msgstr ""
+
+msgctxt "14046"
+msgid "c_em_c01_100_tkin2"
+msgstr ""
+
+msgctxt "14065"
+msgid "c_em_c01_100_tkin6"
+msgstr ""
+
+msgctxt "14084"
+msgid "c_cm_c01_tkin2"
+msgstr ""
+
+msgctxt "14099"
+msgid "c_cm_taketi"
+msgstr ""
+
+msgctxt "14111"
+msgid "wepct2820"
+msgstr ""
+
+msgctxt "14121"
+msgid "Navi"
+msgstr ""
+
+msgctxt "14126"
+msgid "c_cm_taketi_c01kizu2"
+msgstr ""
+
+msgctxt "14147"
+msgid "c_cm_c02_bandai"
+msgstr ""
+
+msgctxt "14163"
+msgid "c_am_sai_naked"
+msgstr ""
+
+msgctxt "14178"
+msgid "C02100_SAI_furo_kamae"
+msgstr ""
+
+msgctxt "14200"
+msgid "c_cm_saigo"
+msgstr ""
+
+msgctxt "14211"
+msgid "P_KRU_TLK_agura_sake2_lp"
+msgstr ""
+
+msgctxt "14236"
+msgid "acsce0260"
+msgstr ""
+
+msgctxt "14246"
+msgid "c_aa_c02_geisha2"
+msgstr ""
+
+msgctxt "14263"
+msgid "F_YUJ_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "14285"
+msgid "ADV_F_YUJ_SEIZA"
+msgstr ""
+
+msgctxt "14301"
+msgid "c_aw_c02_geisha1"
+msgstr ""
+
+msgctxt "14318"
+msgid "c_em_c02_a130_chonin1"
+msgstr ""
+
+msgctxt "14340"
+msgid "c_em_c02_a130_chonin2"
+msgstr ""
+
+msgctxt "14362"
+msgid "c_em_c01_simada_dead"
+msgstr ""
+
+msgctxt "14383"
+msgid "C02130_TOS_dead_lp"
+msgstr ""
+
+msgctxt "14402"
+msgid "c_cm_izo_kyokasa"
+msgstr ""
+
+msgctxt "14419"
+msgid "c_cw_oryo"
+msgstr ""
+
+msgctxt "14429"
+msgid "c_em_shop_sendo_01"
+msgstr ""
+
+msgctxt "14448"
+msgid "M_CHO_ACT_stand_atc_listen_lp"
+msgstr ""
+
+msgctxt "14478"
+msgid "C02160_SEN_fune_kogi_kamae"
+msgstr ""
+
+msgctxt "14505"
+msgid "ACDEV1000"
+msgstr ""
+
+msgctxt "14515"
+msgid "c_cm_izo_kyo"
+msgstr ""
+
+msgctxt "14528"
+msgid "C02170_IZO_btlaft_kamae"
+msgstr ""
+
+msgctxt "14552"
+msgid "IZO_2"
+msgstr ""
+
+msgctxt "14558"
+msgid "岡田以蔵"
+msgstr ""
+
+msgctxt "14567"
+msgid "M_BUS_TLK_btl_aft_nw_03_kamae"
+msgstr ""
+
+msgctxt "14597"
+msgid "田村"
+msgstr ""
+
+msgctxt "14602"
+msgid "c_em_c02_a165_ronin2"
+msgstr ""
+
+msgctxt "14623"
+msgid "M_BUS_TLK_btl_aft_nw_05_kamae"
+msgstr ""
+
+msgctxt "14653"
+msgid "大沼"
+msgstr ""
+
+msgctxt "14658"
+msgid "c_em_c02_a165_ronin3"
+msgstr ""
+
+msgctxt "14679"
+msgid "M_BUS_TLK_btl_aft_02_kamae"
+msgstr ""
+
+msgctxt "14706"
+msgid "川田"
+msgstr ""
+
+msgctxt "14711"
+msgid "c_ab_taketi_kyo"
+msgstr ""
+
+msgctxt "14727"
+msgid "P_KRU_TLK_agura_sake3_lp"
+msgstr ""
+
+msgctxt "14752"
+msgid "acsce0280"
+msgstr ""
+
+msgctxt "14762"
+msgid "acsce0270"
+msgstr ""
+
+msgctxt "14772"
+msgid "c_em_k_man_16"
+msgstr ""
+
+msgctxt "14786"
+msgid "c_em_k_man_07"
+msgstr ""
+
+msgctxt "14800"
+msgid "c_em_k_man_02"
+msgstr ""
+
+msgctxt "14814"
+msgid "c_cm_nagakura"
+msgstr ""
+
+msgctxt "14828"
+msgid "M_BUS_TLK_stand_nag_lp"
+msgstr ""
+
+msgctxt "14851"
+msgid "ADV_M_BUS_STAND_NAG"
+msgstr ""
+
+msgctxt "14871"
+msgid "wepct2840"
+msgstr ""
+
+msgctxt "14881"
+msgid "c_cm_okita"
+msgstr ""
+
+msgctxt "14892"
+msgid "wepct2830"
+msgstr ""
+
+msgctxt "14902"
+msgid "c_em_shop_sin_guard_01"
+msgstr ""
+
+msgctxt "14925"
+msgid "ADV_M_BUS_SEIZA"
+msgstr ""
+
+msgctxt "14941"
+msgid "C04005_NAG_kamae"
+msgstr ""
+
+msgctxt "14958"
+msgid "c_cm_ito"
+msgstr ""
+
+msgctxt "14967"
+msgid "C04005_ITO_kamae"
+msgstr ""
+
+msgctxt "14984"
+msgid "c_cm_takeda"
+msgstr ""
+
+msgctxt "14996"
+msgid "C04005_TAK_kamae"
+msgstr ""
+
+msgctxt "15013"
+msgid "acsce0405"
+msgstr ""
+
+msgctxt "15023"
+msgid "c_cm_tani"
+msgstr ""
+
+msgctxt "15033"
+msgid "C04005_TAN_kamae"
+msgstr ""
+
+msgctxt "15050"
+msgid "c_cm_inoue"
+msgstr ""
+
+msgctxt "15061"
+msgid "C04005_INO_kamae"
+msgstr ""
+
+msgctxt "15078"
+msgid "c_cm_matubara"
+msgstr ""
+
+msgctxt "15092"
+msgid "C04005_MAT_kamae"
+msgstr ""
+
+msgctxt "15109"
+msgid "c_cm_suzuki"
+msgstr ""
+
+msgctxt "15121"
+msgid "C04005_SUZ_kamae"
+msgstr ""
+
+msgctxt "15138"
+msgid "c_cm_todo"
+msgstr ""
+
+msgctxt "15148"
+msgid "C04005_TOD_kamae"
+msgstr ""
+
+msgctxt "15165"
+msgid "c_cm_harada"
+msgstr ""
+
+msgctxt "15177"
+msgid "C04005_HRD_kamae"
+msgstr ""
+
+msgctxt "15194"
+msgid "C04020_TOD_haori_kamae"
+msgstr ""
+
+msgctxt "15217"
+msgid "acsce0410"
+msgstr ""
+
+msgctxt "15227"
+msgid "wepct2940"
+msgstr ""
+
+msgctxt "15237"
+msgid "F_SHP_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "15259"
+msgid "ADV_F_SHP_STAND"
+msgstr ""
+
+msgctxt "15275"
+msgid "c_cm_nakaoka"
+msgstr ""
+
+msgctxt "15288"
+msgid "wepct2960"
+msgstr ""
+
+msgctxt "15298"
+msgid "c_cm_c04_tkin"
+msgstr ""
+
+msgctxt "15312"
+msgid "c_em_c04_a100_tkin1"
+msgstr ""
+
+msgctxt "15332"
+msgid "WEPCT1500"
+msgstr ""
+
+msgctxt "15342"
+msgid "c_em_c04_a100_tkin2"
+msgstr ""
+
+msgctxt "15362"
+msgid "c_em_c04_a100_tkin3"
+msgstr ""
+
+msgctxt "15382"
+msgid "c_em_c04_a100_tkin4"
+msgstr ""
+
+msgctxt "15402"
+msgid "c_cm_yamazaki_c05"
+msgstr ""
+
+msgctxt "15420"
+msgid "C05050_YAM_agura_kamae"
+msgstr ""
+
+msgctxt "15443"
+msgid "C05070_TOD_stealth_kamae"
+msgstr ""
+
+msgctxt "15468"
+msgid "c_em_c05_a080_tkin1"
+msgstr ""
+
+msgctxt "15488"
+msgid "c_aa_mizuki"
+msgstr ""
+
+msgctxt "15500"
+msgid "C05085_MID_A"
+msgstr ""
+
+msgctxt "15513"
+msgid "c_cm_akimoto"
+msgstr ""
+
+msgctxt "15526"
+msgid "wepct3850"
+msgstr ""
+
+msgctxt "15536"
+msgid "AKI"
+msgstr ""
+
+msgctxt "15540"
+msgid "wepct2850"
+msgstr ""
+
+msgctxt "15550"
+msgid "秋元"
+msgstr ""
+
+msgctxt "15555"
+msgid "wepct2880"
+msgstr ""
+
+msgctxt "15565"
+msgid "c_em_b_sin_02"
+msgstr ""
+
+msgctxt "15579"
+msgid "c_em_b_sin_01"
+msgstr ""
+
+msgctxt "15593"
+msgid "C06110_KRU_kamae"
+msgstr ""
+
+msgctxt "15610"
+msgid "NPC_SUZ"
+msgstr ""
+
+msgctxt "15618"
+msgid "鈴木三樹三郎"
+msgstr ""
+
+msgctxt "15631"
+msgid "C05120_INO_A"
+msgstr ""
+
+msgctxt "15644"
+msgid "M_BUS_TLK_stand_hide_R_B"
+msgstr ""
+
+msgctxt "15669"
+msgid "NPC_INO"
+msgstr ""
+
+msgctxt "15677"
+msgid "井上源三郎"
+msgstr ""
+
+msgctxt "15688"
+msgid "c_em_c05_a120_toba1"
+msgstr ""
+
+msgctxt "15708"
+msgid "岸"
+msgstr ""
+
+msgctxt "15711"
+msgid "c_em_c05_a120_toba2"
+msgstr ""
+
+msgctxt "15731"
+msgid "日高"
+msgstr ""
+
+msgctxt "15736"
+msgid "ADV_M_NAK_AGURA_KISERU"
+msgstr ""
+
+msgctxt "15759"
+msgid "acsce0610"
+msgstr ""
+
+msgctxt "15769"
+msgid "c_em_c01_a060_nisec"
+msgstr ""
+
+msgctxt "15789"
+msgid "KNS_HI"
+msgstr ""
+
+msgctxt "15796"
+msgid "佐田"
+msgstr ""
+
+msgctxt "15801"
+msgid "wepct3800"
+msgstr ""
+
+msgctxt "15811"
+msgid "wepct2805"
+msgstr ""
+
+msgctxt "15821"
+msgid "wepct3830"
+msgstr ""
+
+msgctxt "15831"
+msgid "wepct3840"
+msgstr ""
+
+msgctxt "15841"
+msgid "wepct3920"
+msgstr ""
+
+msgctxt "15851"
+msgid "wepct2920"
+msgstr ""
+
+msgctxt "15861"
+msgid "wepct3930"
+msgstr ""
+
+msgctxt "15871"
+msgid "wepct2930"
+msgstr ""
+
+msgctxt "15881"
+msgid "wepct3880"
+msgstr ""
+
+msgctxt "15891"
+msgid "wepct3940"
+msgstr ""
+
+msgctxt "15901"
+msgid "c_em_c02_karasu"
+msgstr ""
+
+msgctxt "15917"
+msgid "Speak"
+msgstr ""
+
+msgctxt "15923"
+msgid "c_am_furutaka"
+msgstr ""
+
+msgctxt "15937"
+msgid "C06090_KOD_kamae"
+msgstr ""
+
+msgctxt "15954"
+msgid "c_em_c06_a110_mittei"
+msgstr ""
+
+msgctxt "15975"
+msgid "c_em_c06_a110_sinsen2"
+msgstr ""
+
+msgctxt "15997"
+msgid "c_em_c06_a110_sinsen1"
+msgstr ""
+
+msgctxt "16019"
+msgid "c_cm_nagakura_c06_040"
+msgstr ""
+
+msgctxt "16041"
+msgid "C06130_NAG_kamae"
+msgstr ""
+
+msgctxt "16058"
+msgid "c_cm_tosimaro"
+msgstr ""
+
+msgctxt "16072"
+msgid "YSD"
+msgstr ""
+
+msgctxt "16076"
+msgid "E_btlst_TOS"
+msgstr ""
+
+msgctxt "16088"
+msgid "wepct5810"
+msgstr ""
+
+msgctxt "16098"
+msgid "吉田稔麿"
+msgstr ""
+
+msgctxt "16107"
+msgid "c_em_c06_a130_sinsen3"
+msgstr ""
+
+msgctxt "16129"
+msgid "c_am_saigo_c07_010_agra"
+msgstr ""
+
+msgctxt "16153"
+msgid "C07005_SAI_A_kamae"
+msgstr ""
+
+msgctxt "16172"
+msgid "acsce0720"
+msgstr ""
+
+msgctxt "16182"
+msgid "wepct2970"
+msgstr ""
+
+msgctxt "16192"
+msgid "C07080_SAI_kamae"
+msgstr ""
+
+msgctxt "16209"
+msgid "c_am_katu"
+msgstr ""
+
+msgctxt "16219"
+msgid "C07005_KAT_A"
+msgstr ""
+
+msgctxt "16232"
+msgid "wepct2990"
+msgstr ""
+
+msgctxt "16242"
+msgid "c_ab_taketi_ryoma_seiza"
+msgstr ""
+
+msgctxt "16266"
+msgid "c_cm_sasaki"
+msgstr ""
+
+msgctxt "16278"
+msgid "wepct2910"
+msgstr ""
+
+msgctxt "16288"
+msgid "c_em_b_kmiwa_01"
+msgstr ""
+
+msgctxt "16304"
+msgid "c_em_b_kmiwa_02"
+msgstr ""
+
+msgctxt "16320"
+msgid "c_em_b_kmiwa_03"
+msgstr ""
+
+msgctxt "16336"
+msgid "c_em_b_kmiwa_04"
+msgstr ""
+
+msgctxt "16352"
+msgid "c_em_b_kmiwa_05"
+msgstr ""
+
+msgctxt "16368"
+msgid "acsce0760"
+msgstr ""
+
+msgctxt "16378"
+msgid "SpeakTeam"
+msgstr ""
+
+msgctxt "16388"
+msgid "C07050_OKI_B"
+msgstr ""
+
+msgctxt "16401"
+msgid "C07050_TAK_B"
+msgstr ""
+
+msgctxt "16414"
+msgid "c_em_c07_a050_sin_01"
+msgstr ""
+
+msgctxt "16435"
+msgid "C07050_SOL_2_B"
+msgstr ""
+
+msgctxt "16450"
+msgid "c_em_c07_a050_sin_02"
+msgstr ""
+
+msgctxt "16471"
+msgid "C07050_SOL_1_B"
+msgstr ""
+
+msgctxt "16486"
+msgid "c_em_c07_a070_satuguard"
+msgstr ""
+
+msgctxt "16510"
+msgid "庄司"
+msgstr ""
+
+msgctxt "16515"
+msgid "c_em_c07_a005_satuma1"
+msgstr ""
+
+msgctxt "16537"
+msgid "M_BUS_TLK_btl_aft_01_kamae"
+msgstr ""
+
+msgctxt "16564"
+msgid "塚田"
+msgstr ""
+
+msgctxt "16569"
+msgid "c_em_c07_a005_satuma2"
+msgstr ""
+
+msgctxt "16591"
+msgid "福本"
+msgstr ""
+
+msgctxt "16596"
+msgid "c_em_c07_a005_satuma3"
+msgstr ""
+
+msgctxt "16618"
+msgid "KNG_MD"
+msgstr ""
+
+msgctxt "16625"
+msgid "柳沢"
+msgstr ""
+
+msgctxt "16630"
+msgid "c_am_yamazaki_c05"
+msgstr ""
+
+msgctxt "16648"
+msgid "c_cm_kondo_cas"
+msgstr ""
+
+msgctxt "16663"
+msgid "C07110_KON_A_kamae"
+msgstr ""
+
+msgctxt "16682"
+msgid "C02130_CHO_ogami_lp"
+msgstr ""
+
+msgctxt "16702"
+msgid "c_em_k_man_08"
+msgstr ""
+
+msgctxt "16716"
+msgid "c_em_c02_a165_man1"
+msgstr ""
+
+msgctxt "16735"
+msgid "C02165_ROU_2_lp"
+msgstr ""
+
+msgctxt "16751"
+msgid "KENKA"
+msgstr ""
+
+msgctxt "16757"
+msgid "E_btlst_nml_03"
+msgstr ""
+
+msgctxt "16772"
+msgid "西沢"
+msgstr ""
+
+msgctxt "16777"
+msgid "c_ew_c01_a015_chonind"
+msgstr ""
+
+msgctxt "16799"
+msgid "c_em_c01_a040_tkinb"
+msgstr ""
+
+msgctxt "16819"
+msgid "c_em_c01_a040_tkina"
+msgstr ""
+
+msgctxt "16839"
+msgid "stand_talk"
+msgstr ""
+
+msgctxt "16850"
+msgid "c_em_c01_a040_chonine"
+msgstr ""
+
+msgctxt "16872"
+msgid "c_em_c01_a040_choninf"
+msgstr ""
+
+msgctxt "16894"
+msgid "c_em_c01_a060_choning"
+msgstr ""
+
+msgctxt "16916"
+msgid "c_em_c01_a060_choninh"
+msgstr ""
+
+msgctxt "16938"
+msgid "c_ew_c01_a060_chonini"
+msgstr ""
+
+msgctxt "16960"
+msgid "c_em_c01_a060_tdojo_01"
+msgstr ""
+
+msgctxt "16983"
+msgid "c_em_k_man_09"
+msgstr ""
+
+msgctxt "16997"
+msgid "c_em_b_sin_03"
+msgstr ""
+
+msgctxt "17011"
+msgid "c_em_b_sin_05"
+msgstr ""
+
+msgctxt "17025"
+msgid "c_em_c05_020_kojiki6"
+msgstr ""
+
+msgctxt "17046"
+msgid "ADV_M_MKR_LAYOUT_SIT"
+msgstr ""
+
+msgctxt "17067"
+msgid "idle"
+msgstr ""
+
+msgctxt "17072"
+msgid "c_em_c05_adv_kojiki1"
+msgstr ""
+
+msgctxt "17093"
+msgid "c_em_c05_020_kojiki4"
+msgstr ""
+
+msgctxt "17114"
+msgid "c_em_c05_020_kojiki3"
+msgstr ""
+
+msgctxt "17135"
+msgid "c_em_c05_020_kojiki2"
+msgstr ""
+
+msgctxt "17156"
+msgid "c_em_c05_adv_kojiki4"
+msgstr ""
+
+msgctxt "17177"
+msgid "c_cm_ryoma_naked"
+msgstr ""
+
+msgctxt "17194"
+msgid "C02100_KRU_furo_kamae"
+msgstr ""
+
+msgctxt "17216"
+msgid "c_em_b_sin_04"
+msgstr ""
+
+msgctxt "17230"
+msgid "c_em_b_sin_06"
+msgstr ""
+
+msgctxt "17244"
+msgid "c_em_b_sin_07"
+msgstr ""
+
+msgctxt "17258"
+msgid "c_em_b_sin_08"
+msgstr ""
+
+msgctxt "17272"
+msgid "c_em_b_sin_09"
+msgstr ""
+
+msgctxt "17286"
+msgid "c_em_b_sin_10"
+msgstr ""
+
+msgctxt "17300"
+msgid "M_YKZ_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "17322"
+msgid "M_BUS_TLK_stand_oki_lp"
+msgstr ""
+
+msgctxt "17345"
+msgid "C08080_OKI_A"
+msgstr ""
+
+msgctxt "17358"
+msgid "c_cm_sengoku"
+msgstr ""
+
+msgctxt "17371"
+msgid "M_BUS_TLK_btl_aft_dead_G"
+msgstr ""
+
+msgctxt "17396"
+msgid "M_OLD_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "17418"
+msgid "ADV_M_OLD_STAND"
+msgstr ""
+
+msgctxt "17434"
+msgid "c_em_b_sin1_01"
+msgstr ""
+
+msgctxt "17449"
+msgid "c_cm_kondo"
+msgstr ""
+
+msgctxt "17460"
+msgid "wepct2860"
+msgstr ""
+
+msgctxt "17470"
+msgid "c_am_kondo"
+msgstr ""
+
+msgctxt "17481"
+msgid "wepct3860"
+msgstr ""
+
+msgctxt "17491"
+msgid "c_am_okita"
+msgstr ""
+
+msgctxt "17502"
+msgid "Stalk"
+msgstr ""
+
+msgctxt "17508"
+msgid "c_cm_okita_cas"
+msgstr ""
+
+msgctxt "17523"
+msgid "NPC_OKI"
+msgstr ""
+
+msgctxt "17531"
+msgid "c_cm_taketi_komu"
+msgstr ""
+
+msgctxt "17548"
+msgid "TAKE"
+msgstr ""
+
+msgctxt "17553"
+msgid "takechi2nd"
+msgstr ""
+
+msgctxt "17564"
+msgid "虚無僧"
+msgstr ""
+
+msgctxt "17571"
+msgid "c_em_c10_a110_sisi3"
+msgstr ""
+
+msgctxt "17591"
+msgid "E_KNS_stand_MID"
+msgstr ""
+
+msgctxt "17607"
+msgid "八木"
+msgstr ""
+
+msgctxt "17612"
+msgid "c_em_c10_a110_sisi2"
+msgstr ""
+
+msgctxt "17632"
+msgid "E_KNS_HS_stand"
+msgstr ""
+
+msgctxt "17647"
+msgid "KNS_HS"
+msgstr ""
+
+msgctxt "17654"
+msgid "c_em_c10_a110_sisi1"
+msgstr ""
+
+msgctxt "17674"
+msgid "相馬"
+msgstr ""
+
+msgctxt "17679"
+msgid "新撰組"
+msgstr ""
+
+msgctxt "17686"
+msgid "E_btlst_OKI_to_TNN"
+msgstr ""
+
+msgctxt "17705"
+msgid "沖田総司"
+msgstr ""
+
+msgctxt "17714"
+msgid "C10120_OKI_A"
+msgstr ""
+
+msgctxt "17727"
+msgid "c_cm_ryoma_sin"
+msgstr ""
+
+msgctxt "17742"
+msgid "C10120_KRU_A"
+msgstr ""
+
+msgctxt "17755"
+msgid "c_cw_oryo_notas"
+msgstr ""
+
+msgctxt "17771"
+msgid "c_cw_otose_notas"
+msgstr ""
+
+msgctxt "17788"
+msgid "UniqueActionTour"
+msgstr ""
+
+msgctxt "17805"
+msgid "c_em_c11_a040_sinsen1"
+msgstr ""
+
+msgctxt "17827"
+msgid "C11040_SOL_1_A"
+msgstr ""
+
+msgctxt "17842"
+msgid "acsce1110"
+msgstr ""
+
+msgctxt "17852"
+msgid "c_em_c11_a040_sinsen2"
+msgstr ""
+
+msgctxt "17874"
+msgid "c_aw_oryo"
+msgstr ""
+
+msgctxt "17884"
+msgid "C11080_OKI_A"
+msgstr ""
+
+msgctxt "17897"
+msgid "acsce1120"
+msgstr ""
+
+msgctxt "17907"
+msgid "C11085_OKI_A"
+msgstr ""
+
+msgctxt "17920"
+msgid "C11095_OKI_A"
+msgstr ""
+
+msgctxt "17933"
+msgid "c_am_c11_030busi"
+msgstr ""
+
+msgctxt "17950"
+msgid "C11085_CHO_A"
+msgstr ""
+
+msgctxt "17963"
+msgid "acsce1130"
+msgstr ""
+
+msgctxt "17973"
+msgid "c_cm_yosinobu"
+msgstr ""
+
+msgctxt "17987"
+msgid "wepct2900"
+msgstr ""
+
+msgctxt "17997"
+msgid "c_cm_c11_060busi"
+msgstr ""
+
+msgctxt "18014"
+msgid "SASAKI"
+msgstr ""
+
+msgctxt "18021"
+msgid "E_btlst_SSK_B14_012"
+msgstr ""
+
+msgctxt "18041"
+msgid "佐々木只三郎"
+msgstr ""
+
+msgctxt "18054"
+msgid "wepct1820"
+msgstr ""
+
+msgctxt "18064"
+msgid "wepct4810"
+msgstr ""
+
+msgctxt "18074"
+msgid "HARADA"
+msgstr ""
+
+msgctxt "18081"
+msgid "E_btlst_HAR"
+msgstr ""
+
+msgctxt "18093"
+msgid "原田左之助"
+msgstr ""
+
+msgctxt "18104"
+msgid "c_em_b_sin_17"
+msgstr ""
+
+msgctxt "18118"
+msgid "C14040_SSAK_A"
+msgstr ""
+
+msgctxt "18132"
+msgid "SASAKI_2"
+msgstr ""
+
+msgctxt "18141"
+msgid "NPC_HIZ"
+msgstr ""
+
+msgctxt "18149"
+msgid "E_btlst_HIJ_to_TNN"
+msgstr ""
+
+msgctxt "18168"
+msgid "土方歳三"
+msgstr ""
+
+msgctxt "18177"
+msgid "C14040_NGK_A"
+msgstr ""
+
+msgctxt "18190"
+msgid "NPC_NAG"
+msgstr ""
+
+msgctxt "18198"
+msgid "E_btlst_NAG_to_TNN"
+msgstr ""
+
+msgctxt "18217"
+msgid "永倉新八"
+msgstr ""
+
+msgctxt "18226"
+msgid "C14040_OKI_A"
+msgstr ""
+
+msgctxt "18239"
+msgid "C14040_HIJ_A"
+msgstr ""
+
+msgctxt "18252"
+msgid "c_cm_ito_g_tas"
+msgstr ""
+
+msgctxt "18267"
+msgid "C14060_ITO_A"
+msgstr ""
+
+msgctxt "18280"
+msgid "ITO"
+msgstr ""
+
+msgctxt "18284"
+msgid "伊東甲子太郎"
+msgstr ""
+
+msgctxt "18297"
+msgid "C14060_HIJ_A"
+msgstr ""
+
+msgctxt "18310"
+msgid "C14080_OKI_A"
+msgstr ""
+
+msgctxt "18323"
+msgid "c_cm_glover"
+msgstr ""
+
+msgctxt "18335"
+msgid "C14070_GLV_A"
+msgstr ""
+
+msgctxt "18348"
+msgid "C14080_GLV_A"
+msgstr ""
+
+msgctxt "18361"
+msgid "TOMAS"
+msgstr ""
+
+msgctxt "18367"
+msgid "E_btlst_TKD"
+msgstr ""
+
+msgctxt "18379"
+msgid "wepct1840"
+msgstr ""
+
+msgctxt "18389"
+msgid "トーマス・グラバー"
+msgstr ""
+
+msgctxt "18408"
+msgid "c_cw_ikumatu"
+msgstr ""
+
+msgctxt "18421"
+msgid "acsce0920"
+msgstr ""
+
+msgctxt "18431"
+msgid "wepct2980"
+msgstr ""
+
+msgctxt "18441"
+msgid "NPC_KAT"
+msgstr ""
+
+msgctxt "18449"
+msgid "NPC_SIG"
+msgstr ""
+
+msgctxt "18457"
+msgid "c_d38_c09_dog"
+msgstr ""
+
+msgctxt "18471"
+msgid "wepct3980"
+msgstr ""
+
+msgctxt "18481"
+msgid "wepct3970"
+msgstr ""
+
+msgctxt "18491"
+msgid "P_KRU_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "18513"
+msgid "c_cm_hizikata_agra"
+msgstr ""
+
+msgctxt "18532"
+msgid "c_cm_okita_tatihiza"
+msgstr ""
+
+msgctxt "18552"
+msgid "c_cm_todo_g"
+msgstr ""
+
+msgctxt "18564"
+msgid "C13012_OTS_A"
+msgstr ""
+
+msgctxt "18577"
+msgid "C13012_ORY_A"
+msgstr ""
+
+msgctxt "18590"
+msgid "C13015_ORY_A"
+msgstr ""
+
+msgctxt "18603"
+msgid "c_cm_okita_agra"
+msgstr ""
+
+msgctxt "18619"
+msgid "C13015_KRU_A"
+msgstr ""
+
+msgctxt "18632"
+msgid "C13015_NAG_A"
+msgstr ""
+
+msgctxt "18645"
+msgid "acsce1310"
+msgstr ""
+
+msgctxt "18655"
+msgid "c_cm_takeda_g"
+msgstr ""
+
+msgctxt "18669"
+msgid "wepct1830"
+msgstr ""
+
+msgctxt "18679"
+msgid "c_em_b_sin1_02"
+msgstr ""
+
+msgctxt "18694"
+msgid "c_em_b_sin1_03"
+msgstr ""
+
+msgctxt "18709"
+msgid "c_em_b_sin1_04"
+msgstr ""
+
+msgctxt "18724"
+msgid "c_em_b_sin1_05"
+msgstr ""
+
+msgctxt "18739"
+msgid "c_cm_inoue_naked"
+msgstr ""
+
+msgctxt "18756"
+msgid "C10030_INO_A"
+msgstr ""
+
+msgctxt "18769"
+msgid "浜口"
+msgstr ""
+
+msgctxt "18774"
+msgid "越智"
+msgstr ""
+
+msgctxt "18779"
+msgid "E_btlst_KNS_HI_battou_A"
+msgstr ""
+
+msgctxt "18803"
+msgid "大内"
+msgstr ""
+
+msgctxt "18808"
+msgid "M_BUS_TLK_btl_aft_nw_01_kamae"
+msgstr ""
+
+msgctxt "18838"
+msgid "堀口"
+msgstr ""
+
+msgctxt "18843"
+msgid "M_BUS_TLK_btl_aft_nw_02_kamae"
+msgstr ""
+
+msgctxt "18873"
+msgid "畑中"
+msgstr ""
+
+msgctxt "18878"
+msgid "c_em_b_kmiwa_06"
+msgstr ""
+
+msgctxt "18894"
+msgid "c_em_b_kmiwa_07"
+msgstr ""
+
+msgctxt "18910"
+msgid "M_BUS_TLK_btl_aft_nw_04_kamae"
+msgstr ""
+
+msgctxt "18940"
+msgid "梅田"
+msgstr ""
+
+msgctxt "18945"
+msgid "c_em_b_kmiwa_08"
+msgstr ""
+
+msgctxt "18961"
+msgid "甲斐"
+msgstr ""
+
+msgctxt "18966"
+msgid "c_em_b_goryo_01"
+msgstr ""
+
+msgctxt "18982"
+msgid "千葉"
+msgstr ""
+
+msgctxt "18987"
+msgid "c_em_b_goryo_02"
+msgstr ""
+
+msgctxt "19003"
+msgid "尾崎"
+msgstr ""
+
+msgctxt "19008"
+msgid "c_em_b_goryo_03"
+msgstr ""
+
+msgctxt "19024"
+msgid "中井"
+msgstr ""
+
+msgctxt "19029"
+msgid "c_em_b_goryo_04"
+msgstr ""
+
+msgctxt "19045"
+msgid "浜野"
+msgstr ""
+
+msgctxt "19050"
+msgid "c_em_b_goryo_05"
+msgstr ""
+
+msgctxt "19066"
+msgid "榊原"
+msgstr ""
+
+msgctxt "19071"
+msgid "c_em_b_goryo_06"
+msgstr ""
+
+msgctxt "19087"
+msgid "古谷"
+msgstr ""
+
+msgctxt "19092"
+msgid "c_em_b_goryo_07"
+msgstr ""
+
+msgctxt "19108"
+msgid "杉田"
+msgstr ""
+
+msgctxt "19113"
+msgid "c_em_b_goryo_08"
+msgstr ""
+
+msgctxt "19129"
+msgid "山根"
+msgstr ""
+
+msgctxt "19134"
+msgid "c_em_b_goryo_09"
+msgstr ""
+
+msgctxt "19150"
+msgid "松島"
+msgstr ""
+
+msgctxt "19155"
+msgid "c_em_b_goryo_10"
+msgstr ""
+
+msgctxt "19171"
+msgid "本間"
+msgstr ""
+
+msgctxt "19176"
+msgid "c_em_b_goryo_11"
+msgstr ""
+
+msgctxt "19192"
+msgid "緒方"
+msgstr ""
+
+msgctxt "19197"
+msgid "c_em_b_goryo_12"
+msgstr ""
+
+msgctxt "19213"
+msgid "新谷"
+msgstr ""
+
+msgctxt "19218"
+msgid "c_em_c14_tos_eikoku_01"
+msgstr ""
+
+msgctxt "19241"
+msgid "C14070_SOL_A"
+msgstr ""
+
+msgctxt "19254"
+msgid "M_BUS_TLK_btl_aft_dead_A"
+msgstr ""
+
+msgctxt "19279"
+msgid "RIFLE_E"
+msgstr ""
+
+msgctxt "19287"
+msgid "wepct9020"
+msgstr ""
+
+msgctxt "19297"
+msgid "male_foreigner"
+msgstr ""
+
+msgctxt "19312"
+msgid "アーロン"
+msgstr ""
+
+msgctxt "19321"
+msgid "c_em_c14_tos_eikoku_02"
+msgstr ""
+
+msgctxt "19344"
+msgid "M_BUS_TLK_btl_aft_dead_B"
+msgstr ""
+
+msgctxt "19369"
+msgid "エイブラハム"
+msgstr ""
+
+msgctxt "19382"
+msgid "c_em_c14_tos_eikoku_03"
+msgstr ""
+
+msgctxt "19405"
+msgid "M_BUS_TLK_btl_aft_dead_C"
+msgstr ""
+
+msgctxt "19430"
+msgid "アルフォンス"
+msgstr ""
+
+msgctxt "19443"
+msgid "c_em_c14_tos_eikoku_04"
+msgstr ""
+
+msgctxt "19466"
+msgid "M_BUS_TLK_btl_aft_dead_D"
+msgstr ""
+
+msgctxt "19491"
+msgid "アルフレッド"
+msgstr ""
+
+msgctxt "19504"
+msgid "c_em_c14_tos_eikoku_05"
+msgstr ""
+
+msgctxt "19527"
+msgid "M_BUS_TLK_btl_aft_dead_E"
+msgstr ""
+
+msgctxt "19552"
+msgid "アンソニー"
+msgstr ""
+
+msgctxt "19563"
+msgid "c_em_c14_tos_eikoku_06"
+msgstr ""
+
+msgctxt "19586"
+msgid "M_BUS_TLK_btl_aft_dead_F"
+msgstr ""
+
+msgctxt "19611"
+msgid "エドガー"
+msgstr ""
+
+msgctxt "19620"
+msgid "c_em_c14_tos_eikoku_07"
+msgstr ""
+
+msgctxt "19643"
+msgid "オースティン"
+msgstr ""
+
+msgctxt "19656"
+msgid "c_em_c14_tos_eikoku_08"
+msgstr ""
+
+msgctxt "19679"
+msgid "バーナード"
+msgstr ""
+
+msgctxt "19690"
+msgid "c_em_c14_tos_eikoku_09"
+msgstr ""
+
+msgctxt "19713"
+msgid "ベンジャミン"
+msgstr ""
+
+msgctxt "19726"
+msgid "c_em_c14_tos_eikoku_10"
+msgstr ""
+
+msgctxt "19749"
+msgid "ベネット"
+msgstr ""
+
+msgctxt "19758"
+msgid "c_em_c14_tos_eikoku_11"
+msgstr ""
+
+msgctxt "19781"
+msgid "E_GAT_stand_lp"
+msgstr ""
+
+msgctxt "19796"
+msgid "GAT"
+msgstr ""
+
+msgctxt "19800"
+msgid "ZZZZZ9999"
+msgstr ""
+
+msgctxt "19810"
+msgid "ブレア"
+msgstr ""
+
+msgctxt "19817"
+msgid "c_em_c14_tos_eikoku_12"
+msgstr ""
+
+msgctxt "19840"
+msgid "ハロルド"
+msgstr ""
+
+msgctxt "19849"
+msgid "c_em_c02_a165_ronin4"
+msgstr ""
+
+msgctxt "19870"
+msgid "野口"
+msgstr ""
+
+msgctxt "19875"
+msgid "c_em_c02_a165_man3"
+msgstr ""
+
+msgctxt "19894"
+msgid "C02165_ROU_1_lp"
+msgstr ""
+
+msgctxt "19910"
+msgid "c_em_c02_a165_man2"
+msgstr ""
+
+msgctxt "19929"
+msgid "C02165_ROU_3_lp"
+msgstr ""
+
+msgctxt "19945"
+msgid "E_btlst_nml_05"
+msgstr ""
+
+msgctxt "19960"
+msgid "茂木"
+msgstr ""
+
+msgctxt "19965"
+msgid "M_BUS_TLK_stand_hide_R_A"
+msgstr ""
+
+msgctxt "19990"
+msgid "西"
+msgstr ""
+
+msgctxt "19993"
+msgid "大原"
+msgstr ""
+
+msgctxt "19998"
+msgid "M_BUS_TLK_stand_hide_L_A"
+msgstr ""
+
+msgctxt "20023"
+msgid "KNG_WK"
+msgstr ""
+
+msgctxt "20030"
+msgid "藤岡"
+msgstr ""
+
+msgctxt "20035"
+msgid "二宮"
+msgstr ""
+
+msgctxt "20040"
+msgid "大城"
+msgstr ""
+
+msgctxt "20045"
+msgid "c_em_b_sin_18"
+msgstr ""
+
+msgctxt "20059"
+msgid "c_em_b_sin_19"
+msgstr ""
+
+msgctxt "20073"
+msgid "c_em_b_sin_20"
+msgstr ""
+
+msgctxt "20087"
+msgid "c_em_b_kmiwa_09"
+msgstr ""
+
+msgctxt "20103"
+msgid "c_em_b_kmiwa_10"
+msgstr ""
+
+msgctxt "20119"
+msgid "c_em_b_kmiwa_11"
+msgstr ""
+
+msgctxt "20135"
+msgid "c_em_b_kmiwa_12"
+msgstr ""
+
+msgctxt "20151"
+msgid "c_em_b_kmiwa_13"
+msgstr ""
+
+msgctxt "20167"
+msgid "c_em_b_kmiwa_14"
+msgstr ""
+
+msgctxt "20183"
+msgid "c_em_toba_man_11"
+msgstr ""
+
+msgctxt "20200"
+msgid "c_em_toba_man_12"
+msgstr ""
+
+msgctxt "20217"
+msgid "c_em_toba_man_13"
+msgstr ""
+
+msgctxt "20234"
+msgid "c_em_toba_man_14"
+msgstr ""
+
+msgctxt "20251"
+msgid "c_em_toba_man_15"
+msgstr ""
+
+msgctxt "20268"
+msgid "c_em_toba_man_16"
+msgstr ""
+
+msgctxt "20285"
+msgid "MnG47_A_COC_ready_nml"
+msgstr ""
+
+msgctxt "20307"
+msgid "ADV_A_DOG"
+msgstr ""
+
+msgctxt "20317"
+msgid "maletraveler"
+msgstr ""
+
+msgctxt "20330"
+msgid "femalechoninmiddle"
+msgstr ""
+
+msgctxt "20349"
+msgid "c_d05_cat_black"
+msgstr ""
+
+msgctxt "20365"
+msgid "c_em_shop_man_02"
+msgstr ""
+
+msgctxt "20382"
+msgid "M_BUS_TLK_stand_hide_L_B"
+msgstr ""
+
+msgctxt "20407"
+msgid "M_BUS_TLK_shagami_hide_R_A"
+msgstr ""
+
+msgctxt "20434"
+msgid "c_ab_ryoma_kina"
+msgstr ""
+
+msgctxt "20450"
+msgid "C5140_KRU_A"
+msgstr ""
+
+msgctxt "20462"
+msgid "acsce0520"
+msgstr ""
+
+msgctxt "20472"
+msgid "前川"
+msgstr ""
+
+msgctxt "20477"
+msgid "大田"
+msgstr ""
+
+msgctxt "20482"
+msgid "臼井"
+msgstr ""
+
+msgctxt "20487"
+msgid "中島"
+msgstr ""
+
+msgctxt "20492"
+msgid "藤沢"
+msgstr ""
+
+msgctxt "20497"
+msgid "c_em_b_sin1_06"
+msgstr ""
+
+msgctxt "20512"
+msgid "関根"
+msgstr ""
+
+msgctxt "20517"
+msgid "c_em_b_sin1_07"
+msgstr ""
+
+msgctxt "20532"
+msgid "北野"
+msgstr ""
+
+msgctxt "20537"
+msgid "c_em_b_sin1_08"
+msgstr ""
+
+msgctxt "20552"
+msgid "松山"
+msgstr ""
+
+msgctxt "20557"
+msgid "c_em_b_sin1_09"
+msgstr ""
+
+msgctxt "20572"
+msgid "足立"
+msgstr ""
+
+msgctxt "20577"
+msgid "c_em_b_sin1_10"
+msgstr ""
+
+msgctxt "20592"
+msgid "三好"
+msgstr ""
+
+msgctxt "20597"
+msgid "篠崎"
+msgstr ""
+
+msgctxt "20602"
+msgid "浜田"
+msgstr ""
+
+msgctxt "20607"
+msgid "E_btlst_KNS_LW_battou_B"
+msgstr ""
+
+msgctxt "20631"
+msgid "木村"
+msgstr ""
+
+msgctxt "20636"
+msgid "栗原"
+msgstr ""
+
+msgctxt "20641"
+msgid "岡崎"
+msgstr ""
+
+msgctxt "20646"
+msgid "E_btlst_KNS_WK_battou_B"
+msgstr ""
+
+msgctxt "20670"
+msgid "土井"
+msgstr ""
+
+msgctxt "20675"
+msgid "稲田"
+msgstr ""
+
+msgctxt "20680"
+msgid "大竹"
+msgstr ""
+
+msgctxt "20685"
+msgid "松本"
+msgstr ""
+
+msgctxt "20690"
+msgid "田中"
+msgstr ""
+
+msgctxt "20695"
+msgid "M_BUS_TLK_shagami_hide_L_A"
+msgstr ""
+
+msgctxt "20722"
+msgid "c_em_b_sin_11"
+msgstr ""
+
+msgctxt "20736"
+msgid "c_em_b_sin_12"
+msgstr ""
+
+msgctxt "20750"
+msgid "c_em_b_sin_13"
+msgstr ""
+
+msgctxt "20764"
+msgid "c_em_b_sin_14"
+msgstr ""
+
+msgctxt "20778"
+msgid "c_em_b_sin_15"
+msgstr ""
+
+msgctxt "20792"
+msgid "c_em_b_sin_16"
+msgstr ""
+
+msgctxt "20806"
+msgid "c_em_c07_a005_satuma4"
+msgstr ""
+
+msgctxt "20828"
+msgid "c_em_c07_a005_satuma5"
+msgstr ""
+
+msgctxt "20850"
+msgid "c_em_c07_a005_satuma6"
+msgstr ""
+
+msgctxt "20872"
+msgid "c_em_c07_a005_satuma7"
+msgstr ""
+
+msgctxt "20894"
+msgid "c_em_c07_a005_satuma8"
+msgstr ""
+
+msgctxt "20916"
+msgid "c_em_c07_a005_satuma9"
+msgstr ""
+
+msgctxt "20938"
+msgid "c_em_c07_a005_satuma10"
+msgstr ""
+
+msgctxt "20961"
+msgid "c_em_c02_karasu_yarare"
+msgstr ""
+
+msgctxt "20984"
+msgid "c_em_c02_axxx_monban"
+msgstr ""
+
+msgctxt "21005"
+msgid "c_em_c03_a011_toba"
+msgstr ""
+
+msgctxt "21024"
+msgid "c_em_c03_a011_kochin"
+msgstr ""
+
+msgctxt "21045"
+msgid "stand_call_near"
+msgstr ""
+
+msgctxt "21061"
+msgid "c_em_k_man_13"
+msgstr ""
+
+msgctxt "21075"
+msgid "c_em_k_man_11"
+msgstr ""
+
+msgctxt "21089"
+msgid "c_em_k_man_05"
+msgstr ""
+
+msgctxt "21103"
+msgid "c_em_k_man_19"
+msgstr ""
+
+msgctxt "21117"
+msgid "c_em_c03_a011_tougijo_01"
+msgstr ""
+
+msgctxt "21142"
+msgid "c_em_c03_a011_tougijo_02"
+msgstr ""
+
+msgctxt "21167"
+msgid "c_em_c03_a011_decchi"
+msgstr ""
+
+msgctxt "21188"
+msgid "M_SHP_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "21210"
+msgid "ADV_M_SHP_BASE"
+msgstr ""
+
+msgctxt "21225"
+msgid "c_em_c03_a011_mukuro_01"
+msgstr ""
+
+msgctxt "21249"
+msgid "c_em_c03_a011_mukuro_02"
+msgstr ""
+
+msgctxt "21273"
+msgid "c_em_k_man_15"
+msgstr ""
+
+msgctxt "21287"
+msgid "c_em_k_man_03"
+msgstr ""
+
+msgctxt "21301"
+msgid "c_ew_k_woman_03"
+msgstr ""
+
+msgctxt "21317"
+msgid "c_ew_k_woman_01"
+msgstr ""
+
+msgctxt "21333"
+msgid "c_em_m_man_04"
+msgstr ""
+
+msgctxt "21347"
+msgid "c_em_m_man_12"
+msgstr ""
+
+msgctxt "21361"
+msgid "c_em_c01_a080_tutorialb_01"
+msgstr ""
+
+msgctxt "21388"
+msgid "石川"
+msgstr ""
+
+msgctxt "21393"
+msgid "c_em_c01_a080_tutorialb_04"
+msgstr ""
+
+msgctxt "21420"
+msgid "M_BUS_TLK_btl_aft_03_lp"
+msgstr ""
+
+msgctxt "21444"
+msgid "町田"
+msgstr ""
+
+msgctxt "21449"
+msgid "c_em_c01_a080_tutorialb_03"
+msgstr ""
+
+msgctxt "21476"
+msgid "矢島"
+msgstr ""
+
+msgctxt "21481"
+msgid "c_em_c01_a080_tutorialb_02"
+msgstr ""
+
+msgctxt "21508"
+msgid "c_em_c01_a080_tutoriala_01"
+msgstr ""
+
+msgctxt "21535"
+msgid "c_em_c01_a080_tutoriala_02"
+msgstr ""
+
+msgctxt "21562"
+msgid "stand_search"
+msgstr ""
+
+msgctxt "21575"
+msgid "清水"
+msgstr ""
+
+msgctxt "21580"
+msgid "c_em_c01_a080_tutoriala_03"
+msgstr ""
+
+msgctxt "21607"
+msgid "c_em_c01_a080_tutoriala_04"
+msgstr ""
+
+msgctxt "21634"
+msgid "池上"
+msgstr ""
+
+msgctxt "21639"
+msgid "P_KRU_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "21661"
+msgid "c_em_k_man_04"
+msgstr ""
+
+msgctxt "21675"
+msgid "c_em_k_man_06"
+msgstr ""
+
+msgctxt "21689"
+msgid "c_em_k_man_10"
+msgstr ""
+
+msgctxt "21703"
+msgid "c_em_k_man_12"
+msgstr ""
+
+msgctxt "21717"
+msgid "c_ew_k_woman_11"
+msgstr ""
+
+msgctxt "21733"
+msgid "c_ew_k_woman_12"
+msgstr ""
+
+msgctxt "21749"
+msgid "c_ew_k_woman_13"
+msgstr ""
+
+msgctxt "21765"
+msgid "c_ew_k_woman_14"
+msgstr ""
+
+msgctxt "21781"
+msgid "c_ew_k_woman_15"
+msgstr ""
+
+msgctxt "21797"
+msgid "C14020_KRU_s_A_kamae"
+msgstr ""
+
+msgctxt "21818"
+msgid "C14020_KRU_S_A"
+msgstr ""
+
+msgctxt "21833"
+msgid "acsce0960"
+msgstr ""
+
+msgctxt "21843"
+msgid "C14020_ORY_s_A_kamae"
+msgstr ""
+
+msgctxt "21864"
+msgid "C14020_ORY_S_A"
+msgstr ""
+
+msgctxt "21879"
+msgid "acsce0950"
+msgstr ""
+
+msgctxt "21889"
+msgid "c_em_c14_tos_eikoku_13"
+msgstr ""
+
+msgctxt "21912"
+msgid "c_em_c14_tos_eikoku_14"
+msgstr ""
+
+msgctxt "21935"
+msgid "c_em_c14_tos_eikoku_15"
+msgstr ""
+
+msgctxt "21958"
+msgid "c_em_c14_tos_eikoku_16"
+msgstr ""
+
+msgctxt "21981"
+msgid "c_em_c14_tos_eikoku_17"
+msgstr ""
+
+msgctxt "22004"
+msgid "c_em_c14_tos_eikoku_18"
+msgstr ""
+
+msgctxt "22027"
+msgid "c_em_c14_tos_eikoku_19"
+msgstr ""
+
+msgctxt "22050"
+msgid "c_em_c14_tos_eikoku_20"
+msgstr ""
+
+msgctxt "22073"
+msgid "M_BUS_TLK_btl_aft_nw_05_lp"
+msgstr ""
+
+msgctxt "22100"
+msgid "C14020_KRU_f_A_kamae"
+msgstr ""
+
+msgctxt "22121"
+msgid "C14020_KRU_F_A"
+msgstr ""
+
+msgctxt "22136"
+msgid "C14020_ORY_f_A_kamae"
+msgstr ""
+
+msgctxt "22157"
+msgid "C14020_ORY_F_A"
+msgstr ""
+
+msgctxt "22172"
+msgid "c_em_g_man08"
+msgstr ""
+
+msgctxt "22185"
+msgid "c_em_b_busi_02"
+msgstr ""
+
+msgctxt "22200"
+msgid "c_em_b_busi_04"
+msgstr ""
+
+msgctxt "22215"
+msgid "c_em_b_busi_03"
+msgstr ""
+
+msgctxt "22230"
+msgid "C13012_OKI_A"
+msgstr ""
+
+msgctxt "22243"
+msgid "c_em_c05_020_kojiki1"
+msgstr ""
+
+msgctxt "22264"
+msgid "c_em_c05_020_kojiki5"
+msgstr ""
+
+msgctxt "22285"
+msgid "Trace"
+msgstr ""
+
+msgctxt "22291"
+msgid "player_adv"
+msgstr ""
+
+msgctxt "22302"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "22324"
+msgid "ADV_P_KRU_STAND"
+msgstr ""
+
+msgctxt "22340"
+msgid "c_em_k_shokunin_01"
+msgstr ""
+
+msgctxt "22359"
+msgid "c_em_k_shokunin_05"
+msgstr ""
+
+msgctxt "22378"
+msgid "c_em_trakugai_man_01"
+msgstr ""
+
+msgctxt "22399"
+msgid "c_em_trakugai_man_04"
+msgstr ""
+
+msgctxt "22420"
+msgid "c_em_trakugai_man_06"
+msgstr ""
+
+msgctxt "22441"
+msgid "F_CHO_TLK_stand_no"
+msgstr ""
+
+msgctxt "22460"
+msgid "c_cm_mt4_10bee"
+msgstr ""
+
+msgctxt "22475"
+msgid "c_em_man16_man"
+msgstr ""
+
+msgctxt "22490"
+msgid "M_BUS_TLK_btl_aft_01_lp"
+msgstr ""
+
+msgctxt "22514"
+msgid "c_em_ft_uketuke"
+msgstr ""
+
+msgctxt "22530"
+msgid "c_em_tzt_tengu02"
+msgstr ""
+
+msgctxt "22547"
+msgid "AIKI"
+msgstr ""
+
+msgctxt "22552"
+msgid "P_btlst_stand_poki"
+msgstr ""
+
+msgctxt "22571"
+msgid "千田"
+msgstr ""
+
+msgctxt "22576"
+msgid "c_em_tzt_tengu01"
+msgstr ""
+
+msgctxt "22593"
+msgid "c_em_tzt_sagami"
+msgstr ""
+
+msgctxt "22609"
+msgid "WEPCT2710"
+msgstr ""
+
+msgctxt "22619"
+msgid "osk_m_chinpira_l"
+msgstr ""
+
+msgctxt "22636"
+msgid "相模天狗"
+msgstr ""
+
+msgctxt "22645"
+msgid "c_ew_tz_omatsu"
+msgstr ""
+
+msgctxt "22660"
+msgid "c_em_man16_tosa"
+msgstr ""
+
+msgctxt "22676"
+msgid "c_em_tz_man01"
+msgstr ""
+
+msgctxt "22690"
+msgid "c_em_tz_man02"
+msgstr ""
+
+msgctxt "22704"
+msgid "c_em_tz_man04"
+msgstr ""
+
+msgctxt "22718"
+msgid "c_em_tz_man03"
+msgstr ""
+
+msgctxt "22732"
+msgid "c_em_tzt_taro"
+msgstr ""
+
+msgctxt "22746"
+msgid "M_CHO_TLK_agura_kamae"
+msgstr ""
+
+msgctxt "22768"
+msgid "ADV_M_CHO_LAYOUT_SIT"
+msgstr ""
+
+msgctxt "22789"
+msgid "acdev1230"
+msgstr ""
+
+msgctxt "22799"
+msgid "acdev1200"
+msgstr ""
+
+msgctxt "22809"
+msgid "agura_chawan"
+msgstr ""
+
+msgctxt "22822"
+msgid "太郎坊天狗"
+msgstr ""
+
+msgctxt "22833"
+msgid "c_em_tzt_tengu03"
+msgstr ""
+
+msgctxt "22850"
+msgid "c_em_tzt_tengu04"
+msgstr ""
+
+msgctxt "22867"
+msgid "talk_yes"
+msgstr ""
+
+msgctxt "22876"
+msgid "talk_happy"
+msgstr ""
+
+msgctxt "22887"
+msgid "talk_think"
+msgstr ""
+
+msgctxt "22898"
+msgid "辰坊"
+msgstr ""
+
+msgctxt "22903"
+msgid "c_em_shop_rsake_01"
+msgstr ""
+
+msgctxt "22922"
+msgid "c_em_tzt_tengu05"
+msgstr ""
+
+msgctxt "22939"
+msgid "ADV_M_KAT_STAND_KISERU"
+msgstr ""
+
+msgctxt "22962"
+msgid "talk_kiseru_yes"
+msgstr ""
+
+msgctxt "22978"
+msgid "talk_kiseru_fukasu"
+msgstr ""
+
+msgctxt "22997"
+msgid "talk_kiseru_no"
+msgstr ""
+
+msgctxt "23012"
+msgid "YAWARA"
+msgstr ""
+
+msgctxt "23019"
+msgid "勝坊"
+msgstr ""
+
+msgctxt "23024"
+msgid "c_em_b_narazu_10"
+msgstr ""
+
+msgctxt "23041"
+msgid "c_em_b_narazu_fat_01"
+msgstr ""
+
+msgctxt "23062"
+msgid "c_em_tzt_tengu06"
+msgstr ""
+
+msgctxt "23079"
+msgid "c_em_tzt_boss"
+msgstr ""
+
+msgctxt "23093"
+msgid "JOZO"
+msgstr ""
+
+msgctxt "23098"
+msgid "浄僧天狗"
+msgstr ""
+
+msgctxt "23107"
+msgid "c_em_tzt_karasu"
+msgstr ""
+
+msgctxt "23123"
+msgid "鴉天狗"
+msgstr ""
+
+msgctxt "23130"
+msgid "c_em_tzt_konoha"
+msgstr ""
+
+msgctxt "23146"
+msgid "木葉天狗"
+msgstr ""
+
+msgctxt "23155"
+msgid "c_em_tz_yasuuji"
+msgstr ""
+
+msgctxt "23171"
+msgid "c_em_tzt_tengu07"
+msgstr ""
+
+msgctxt "23188"
+msgid "ADV_M_YKZ_BASE"
+msgstr ""
+
+msgctxt "23203"
+msgid "木下"
+msgstr ""
+
+msgctxt "23208"
+msgid "c_em_tzt_tengu08"
+msgstr ""
+
+msgctxt "23225"
+msgid "那須"
+msgstr ""
+
+msgctxt "23230"
+msgid "c_em_tzt_tengu09"
+msgstr ""
+
+msgctxt "23247"
+msgid "猪野"
+msgstr ""
+
+msgctxt "23252"
+msgid "c_ew_man17_fusimi_01"
+msgstr ""
+
+msgctxt "23273"
+msgid "c_em_tzn_white_00"
+msgstr ""
+
+msgctxt "23291"
+msgid "c_em_tzh_ronin05"
+msgstr ""
+
+msgctxt "23308"
+msgid "E_KNS_HI_stand"
+msgstr ""
+
+msgctxt "23323"
+msgid "c_ew_man17_fusimi_02"
+msgstr ""
+
+msgctxt "23344"
+msgid "c_em_tzn_blue_00"
+msgstr ""
+
+msgctxt "23361"
+msgid "c_em_tzn_blue_01"
+msgstr ""
+
+msgctxt "23378"
+msgid "M_BUS_TLK_btl_aft_nw_03_lp"
+msgstr ""
+
+msgctxt "23405"
+msgid "c_em_tzn_blue_02"
+msgstr ""
+
+msgctxt "23422"
+msgid "c_em_tzh_ronin03"
+msgstr ""
+
+msgctxt "23439"
+msgid "c_em_tzh_aramasa"
+msgstr ""
+
+msgctxt "23456"
+msgid "c_em_tzh_masamune"
+msgstr ""
+
+msgctxt "23474"
+msgid "wepct2725"
+msgstr ""
+
+msgctxt "23484"
+msgid "正宗"
+msgstr ""
+
+msgctxt "23489"
+msgid "c_em_tzh_ronin01"
+msgstr ""
+
+msgctxt "23506"
+msgid "真澄"
+msgstr ""
+
+msgctxt "23511"
+msgid "c_em_tzh_ronin02"
+msgstr ""
+
+msgctxt "23528"
+msgid "九平"
+msgstr ""
+
+msgctxt "23533"
+msgid "菊粋"
+msgstr ""
+
+msgctxt "23538"
+msgid "c_em_tzh_ronin04"
+msgstr ""
+
+msgctxt "23555"
+msgid "三ノ蔵"
+msgstr ""
+
+msgctxt "23562"
+msgid "c_cm_tzh_boss"
+msgstr ""
+
+msgctxt "23576"
+msgid "YUKIMITU"
+msgstr ""
+
+msgctxt "23585"
+msgid "行光"
+msgstr ""
+
+msgctxt "23590"
+msgid "c_em_tzh_kagetora"
+msgstr ""
+
+msgctxt "23608"
+msgid "景虎"
+msgstr ""
+
+msgctxt "23613"
+msgid "c_em_tzh_1monji"
+msgstr ""
+
+msgctxt "23629"
+msgid "一文字"
+msgstr ""
+
+msgctxt "23636"
+msgid "政宗"
+msgstr ""
+
+msgctxt "23641"
+msgid "c_ew_c00_k_woman_16"
+msgstr ""
+
+msgctxt "23661"
+msgid "c_em_tzn_green_00"
+msgstr ""
+
+msgctxt "23679"
+msgid "c_em_tzn_green_01"
+msgstr ""
+
+msgctxt "23697"
+msgid "c_em_tzn_green_02"
+msgstr ""
+
+msgctxt "23715"
+msgid "acsce0510"
+msgstr ""
+
+msgctxt "23725"
+msgid "c_em_tzt_tengu10"
+msgstr ""
+
+msgctxt "23742"
+msgid "M_CHO_ACT_chair_eat_chawan_lp"
+msgstr ""
+
+msgctxt "23772"
+msgid "chair_chawan"
+msgstr ""
+
+msgctxt "23785"
+msgid "絹田"
+msgstr ""
+
+msgctxt "23790"
+msgid "c_em_tzn_boss"
+msgstr ""
+
+msgctxt "23804"
+msgid "ADV_M_BUS_LAYOUT_SIT"
+msgstr ""
+
+msgctxt "23825"
+msgid "TOJIRO"
+msgstr ""
+
+msgctxt "23832"
+msgid "E_btlst_WPB_battou_A"
+msgstr ""
+
+msgctxt "23853"
+msgid "wepct3500"
+msgstr ""
+
+msgctxt "23863"
+msgid "藤次郎"
+msgstr ""
+
+msgctxt "23870"
+msgid "c_em_tzn_blue_09"
+msgstr ""
+
+msgctxt "23887"
+msgid "NIN"
+msgstr ""
+
+msgctxt "23891"
+msgid "青忍者"
+msgstr ""
+
+msgctxt "23898"
+msgid "緑忍者"
+msgstr ""
+
+msgctxt "23905"
+msgid "白忍者"
+msgstr ""
+
+msgctxt "23912"
+msgid "c_ew_tzn_oharu"
+msgstr ""
+
+msgctxt "23927"
+msgid "c_em_tz_man05"
+msgstr ""
+
+msgctxt "23941"
+msgid "c_em_tzt_tengu25"
+msgstr ""
+
+msgctxt "23958"
+msgid "P_WPG_stand_btl_lp"
+msgstr ""
+
+msgctxt "23977"
+msgid "篠塚"
+msgstr ""
+
+msgctxt "23982"
+msgid "c_em_tzt_tengu24"
+msgstr ""
+
+msgctxt "23999"
+msgid "浜塚"
+msgstr ""
+
+msgctxt "24004"
+msgid "c_em_tzn_red_00"
+msgstr ""
+
+msgctxt "24020"
+msgid "c_ew_c00_k_woman_19"
+msgstr ""
+
+msgctxt "24040"
+msgid "c_ew_c00_k_woman_20"
+msgstr ""
+
+msgctxt "24060"
+msgid "c_ew_c00_k_woman_18"
+msgstr ""
+
+msgctxt "24080"
+msgid "c_em_b_busi_13"
+msgstr ""
+
+msgctxt "24095"
+msgid "c_em_b_narazu_11"
+msgstr ""
+
+msgctxt "24112"
+msgid "E_btlst_NBS_battou_A"
+msgstr ""
+
+msgctxt "24133"
+msgid "赤忍者"
+msgstr ""
+
+msgctxt "24140"
+msgid "c_em_tzt_tengu16"
+msgstr ""
+
+msgctxt "24157"
+msgid "c_em_tzt_tengu20"
+msgstr ""
+
+msgctxt "24174"
+msgid "鰐塚"
+msgstr ""
+
+msgctxt "24179"
+msgid "SOTOKU"
+msgstr ""
+
+msgctxt "24186"
+msgid "wepct2740"
+msgstr ""
+
+msgctxt "24196"
+msgid "稲原阿久水"
+msgstr ""
+
+msgctxt "24207"
+msgid "c_em_tzt_tengu11"
+msgstr ""
+
+msgctxt "24224"
+msgid "c_em_tzt_tengu13"
+msgstr ""
+
+msgctxt "24241"
+msgid "c_em_tzn_blue_07"
+msgstr ""
+
+msgctxt "24258"
+msgid "NIN_T"
+msgstr ""
+
+msgctxt "24264"
+msgid "鶴水"
+msgstr ""
+
+msgctxt "24269"
+msgid "c_em_b_ronin_01"
+msgstr ""
+
+msgctxt "24285"
+msgid "stand_talk_yes"
+msgstr ""
+
+msgctxt "24300"
+msgid "c_em_b_narazu_13"
+msgstr ""
+
+msgctxt "24317"
+msgid "c_em_b_narazu_mus_02"
+msgstr ""
+
+msgctxt "24338"
+msgid "c_em_mt1_ginryu_01"
+msgstr ""
+
+msgctxt "24357"
+msgid "c_em_mt1_desi_02_01"
+msgstr ""
+
+msgctxt "24377"
+msgid "c_em_mt2_desi_02_01"
+msgstr ""
+
+msgctxt "24397"
+msgid "M_SOL_ACT_stand_suburi_lp"
+msgstr ""
+
+msgctxt "24423"
+msgid "c_em_mt1_desi_02_02"
+msgstr ""
+
+msgctxt "24443"
+msgid "c_em_mt1_desi_02_04"
+msgstr ""
+
+msgctxt "24463"
+msgid "c_em_mt1_desi_02_03"
+msgstr ""
+
+msgctxt "24483"
+msgid "c_em_mt2_desi_02_03"
+msgstr ""
+
+msgctxt "24503"
+msgid "c_cm_mt2_komaki"
+msgstr ""
+
+msgctxt "24519"
+msgid "c_em_mt1_ichibandesi"
+msgstr ""
+
+msgctxt "24540"
+msgid "IdleLook"
+msgstr ""
+
+msgctxt "24549"
+msgid "c_cm_mt3_wilium"
+msgstr ""
+
+msgctxt "24565"
+msgid "c_em_mt3_buka_01"
+msgstr ""
+
+msgctxt "24582"
+msgid "c_em_mt3_buka_02"
+msgstr ""
+
+msgctxt "24599"
+msgid "c_em_mt3_buka_03"
+msgstr ""
+
+msgctxt "24616"
+msgid "c_em_mt3_buka_12"
+msgstr ""
+
+msgctxt "24633"
+msgid "c_em_mt3_buka_08"
+msgstr ""
+
+msgctxt "24650"
+msgid "c_em_mt1_desi_04_01"
+msgstr ""
+
+msgctxt "24670"
+msgid "c_em_mt1_desi_04_09"
+msgstr ""
+
+msgctxt "24690"
+msgid "c_em_mt1_desi_01_01"
+msgstr ""
+
+msgctxt "24710"
+msgid "c_em_mt2_desi_01_01"
+msgstr ""
+
+msgctxt "24730"
+msgid "吟柳の弟子４"
+msgstr ""
+
+msgctxt "24743"
+msgid "c_em_mt2_desi_04_01"
+msgstr ""
+
+msgctxt "24763"
+msgid "吟柳の弟子１"
+msgstr ""
+
+msgctxt "24776"
+msgid "c_em_mt2_desi_04_02"
+msgstr ""
+
+msgctxt "24796"
+msgid "吟柳の弟子２"
+msgstr ""
+
+msgctxt "24809"
+msgid "c_em_mt2_desi_04_03"
+msgstr ""
+
+msgctxt "24829"
+msgid "吟柳の弟子３"
+msgstr ""
+
+msgctxt "24842"
+msgid "c_em_mt2_desi_04_04"
+msgstr ""
+
+msgctxt "24862"
+msgid "c_em_mt1_desi_02_05"
+msgstr ""
+
+msgctxt "24882"
+msgid "c_em_mt2_desi_04_05"
+msgstr ""
+
+msgctxt "24902"
+msgid "吟柳の弟子５"
+msgstr ""
+
+msgctxt "24915"
+msgid "c_em_mt2_ichibandesi"
+msgstr ""
+
+msgctxt "24936"
+msgid "M_BUS_TLK_btl_aft_nw_02_en"
+msgstr ""
+
+msgctxt "24963"
+msgid "c_em_mt1_desi_04_10"
+msgstr ""
+
+msgctxt "24983"
+msgid "c_em_mt1_desi_04_08"
+msgstr ""
+
+msgctxt "25003"
+msgid "c_em_mt3_buka_09"
+msgstr ""
+
+msgctxt "25020"
+msgid "c_cm_mt4_sinbee"
+msgstr ""
+
+msgctxt "25036"
+msgid "c_em_mt3_buka_21"
+msgstr ""
+
+msgctxt "25053"
+msgid "c_em_mt3_buka_23"
+msgstr ""
+
+msgctxt "25070"
+msgid "c_em_mt3_buka_24"
+msgstr ""
+
+msgctxt "25087"
+msgid "c_em_mt3_buka_15"
+msgstr ""
+
+msgctxt "25104"
+msgid "c_em_mt3_buka_25"
+msgstr ""
+
+msgctxt "25121"
+msgid "c_em_man17_man"
+msgstr ""
+
+msgctxt "25136"
+msgid "c_em_man17_man_01"
+msgstr ""
+
+msgctxt "25154"
+msgid "c_em_man17_man_02"
+msgstr ""
+
+msgctxt "25172"
+msgid "c_em_man17_fusimi_01"
+msgstr ""
+
+msgctxt "25193"
+msgid "c_em_man17_fusimi_02"
+msgstr ""
+
+msgctxt "25214"
+msgid "c_ew_man17_rakugai_01"
+msgstr ""
+
+msgctxt "25236"
+msgid "c_ew_man17_rakugai_02"
+msgstr ""
+
+msgctxt "25258"
+msgid "c_em_man17_rakugai_01"
+msgstr ""
+
+msgctxt "25280"
+msgid "c_em_man17_rakugai_02"
+msgstr ""
+
+msgctxt "25302"
+msgid "c_em_man17_mukuro_01"
+msgstr ""
+
+msgctxt "25323"
+msgid "c_em_man17_mukuro_02"
+msgstr ""
+
+msgctxt "25344"
+msgid "c_em_man17_mukuro_03"
+msgstr ""
+
+msgctxt "25365"
+msgid "c_ew_man17_rakunai_02"
+msgstr ""
+
+msgctxt "25387"
+msgid "c_em_man17_rakunai_01"
+msgstr ""
+
+msgctxt "25409"
+msgid "c_em_man17_rakunai_02"
+msgstr ""
+
+msgctxt "25431"
+msgid "c_ew_man17_rakunai_01"
+msgstr ""
+
+msgctxt "25453"
+msgid "c_em_man17_dad"
+msgstr ""
+
+msgctxt "25468"
+msgid "c_em_mt3_buka_22"
+msgstr ""
+
+msgctxt "25485"
+msgid "c_em_mt3_buka_10"
+msgstr ""
+
+msgctxt "25502"
+msgid "c_em_mt3_amagiki"
+msgstr ""
+
+msgctxt "25519"
+msgid "c_cm_mt3_amagi"
+msgstr ""
+
+msgctxt "25534"
+msgid "E_WPY_stand"
+msgstr ""
+
+msgctxt "25546"
+msgid "c_em_mt3_man_05_01"
+msgstr ""
+
+msgctxt "25565"
+msgid "c_em_mt3_man_05_02"
+msgstr ""
+
+msgctxt "25584"
+msgid "c_em_mt3_man_05_03"
+msgstr ""
+
+msgctxt "25603"
+msgid "c_em_kb_toyo_boss"
+msgstr ""
+
+msgctxt "25621"
+msgid "AMON_2"
+msgstr ""
+
+msgctxt "25628"
+msgid "亜門玄丈斎"
+msgstr ""
+
+msgctxt "25639"
+msgid "c_ew_t_oldwoman_01"
+msgstr ""
+
+msgctxt "25658"
+msgid "c_em_mt3_buka_05"
+msgstr ""
+
+msgctxt "25675"
+msgid "c_em_mt3_buka_06"
+msgstr ""
+
+msgctxt "25692"
+msgid "c_em_mt3_buka_07"
+msgstr ""
+
+msgctxt "25709"
+msgid "c_em_mt3_buka_11"
+msgstr ""
+
+msgctxt "25726"
+msgid "c_ew_k_oldwoman_02"
+msgstr ""
+
+msgctxt "25745"
+msgid "c_em_tzn_boss_off"
+msgstr ""
+
+msgctxt "25763"
+msgid "c_em_mt1_ginryu_02"
+msgstr ""
+
+msgctxt "25782"
+msgid "M_MOB_SYNC_kiriai_B"
+msgstr ""
+
+msgctxt "25802"
+msgid "wepct2765"
+msgstr ""
+
+msgctxt "25812"
+msgid "M_MOB_SYNC1_kiriai_B"
+msgstr ""
+
+msgctxt "25833"
+msgid "c_em_c01_koh_tosadosin_01"
+msgstr ""
+
+msgctxt "25859"
+msgid "c_em_c01_koh_tosadosin_02"
+msgstr ""
+
+msgctxt "25885"
+msgid "c_em_c01_koh_tosadosin_03"
+msgstr ""
+
+msgctxt "25911"
+msgid "c_em_c01_lbb_koh_01"
+msgstr ""
+
+msgctxt "25931"
+msgid "c_em_c01_koh_tosadosin_04"
+msgstr ""
+
+msgctxt "25957"
+msgid "c_em_c01_koh_tosadosin_05"
+msgstr ""
+
+msgctxt "25983"
+msgid "c_em_c01_lbb_koh_02"
+msgstr ""
+
+msgctxt "26003"
+msgid "川島"
+msgstr ""
+
+msgctxt "26008"
+msgid "c_em_c04_lbb_kiy_01"
+msgstr ""
+
+msgctxt "26028"
+msgid "wepct5600"
+msgstr ""
+
+msgctxt "26038"
+msgid "武市半平太"
+msgstr ""
+
+msgctxt "26049"
+msgid "BtlMaleRonin"
+msgstr ""
+
+msgctxt "26062"
+msgid "BtlMaleBushi"
+msgstr ""
+
+msgctxt "26075"
+msgid "mt3_buka"
+msgstr ""
+
+msgctxt "26084"
+msgid "BtlMaleYatou"
+msgstr ""
+
+msgctxt "26097"
+msgid "btl_narazu_fat"
+msgstr ""
+
+msgctxt "26112"
+msgid "btl_busi_mus"
+msgstr ""
+
+msgctxt "26125"
+msgid "btlmaleedoninja"
+msgstr ""
+
+msgctxt "26141"
+msgid "忍者"
+msgstr ""
+
+msgctxt "26146"
+msgid "btl_yato_mus"
+msgstr ""
+
+msgctxt "26159"
+msgid "c_em_KB_yato_boss"
+msgstr ""
+
+msgctxt "26177"
+msgid "btl_narazu_mus"
+msgstr ""
+
+msgctxt "26192"
+msgid "btl_ronin_mus"
+msgstr ""
+
+msgctxt "26206"
+msgid "btlmalebushi"
+msgstr ""
+
+msgctxt "26219"
+msgid "btlmalenarazumus"
+msgstr ""
+
+msgctxt "26236"
+msgid "btlmaleninja"
+msgstr ""
+
+msgctxt "26249"
+msgid "c_em_c01_lbb_koh_03"
+msgstr ""
+
+msgctxt "26269"
+msgid "wepct5200"
+msgstr ""
+
+msgctxt "26279"
+msgid "wepct2760"
+msgstr ""
+
+msgctxt "26289"
+msgid "古牧の一番弟子"
+msgstr ""
+
+msgctxt "26304"
+msgid "c_em_mt2_desi_02_02"
+msgstr ""
+
+msgctxt "26324"
+msgid "古牧宗光"
+msgstr ""
+
+msgctxt "26333"
+msgid "c_em_mt2_desi_05_02"
+msgstr ""
+
+msgctxt "26353"
+msgid "c_em_mt2_desi_05_03"
+msgstr ""
+
+msgctxt "26373"
+msgid "ウィリアム・ブラッドリー"
+msgstr ""
+
+msgctxt "26398"
+msgid "吟柳"
+msgstr ""
+
+msgctxt "26403"
+msgid "平之助"
+msgstr ""
+
+msgctxt "26410"
+msgid "c_em_c08_lbb_sen_03"
+msgstr ""
+
+msgctxt "26430"
+msgid "c_cm_MT3_wilium"
+msgstr ""
+
+msgctxt "26446"
+msgid "c_em_mt3_buka_13"
+msgstr ""
+
+msgctxt "26463"
+msgid "mt3_buka_ninja"
+msgstr ""
+
+msgctxt "26478"
+msgid "mt3_buka_debu"
+msgstr ""
+
+msgctxt "26492"
+msgid "膳治"
+msgstr ""
+
+msgctxt "26497"
+msgid "c_em_FT29"
+msgstr ""
+
+msgctxt "26507"
+msgid "坂之上錦太郎"
+msgstr ""
+
+msgctxt "26520"
+msgid "c_em_FT24"
+msgstr ""
+
+msgctxt "26530"
+msgid "戒空"
+msgstr ""
+
+msgctxt "26535"
+msgid "c_em_FT19"
+msgstr ""
+
+msgctxt "26545"
+msgid "籐千坊"
+msgstr ""
+
+msgctxt "26552"
+msgid "c_em_FT14"
+msgstr ""
+
+msgctxt "26562"
+msgid "五葉小五郎"
+msgstr ""
+
+msgctxt "26573"
+msgid "c_em_FT21"
+msgstr ""
+
+msgctxt "26583"
+msgid "田畑康次郎"
+msgstr ""
+
+msgctxt "26594"
+msgid "c_em_FT27"
+msgstr ""
+
+msgctxt "26604"
+msgid "大黒屋藤右衛門"
+msgstr ""
+
+msgctxt "26619"
+msgid "c_em_FT11"
+msgstr ""
+
+msgctxt "26629"
+msgid "黄忍"
+msgstr ""
+
+msgctxt "26634"
+msgid "c_cm_FT01"
+msgstr ""
+
+msgctxt "26644"
+msgid "辰鳶太源"
+msgstr ""
+
+msgctxt "26653"
+msgid "c_em_FT28"
+msgstr ""
+
+msgctxt "26663"
+msgid "高嶺之華"
+msgstr ""
+
+msgctxt "26672"
+msgid "c_em_FT23"
+msgstr ""
+
+msgctxt "26682"
+msgid "忠野武"
+msgstr ""
+
+msgctxt "26689"
+msgid "c_em_FT18"
+msgstr ""
+
+msgctxt "26699"
+msgid "藤田誠二郎"
+msgstr ""
+
+msgctxt "26710"
+msgid "c_em_FT13"
+msgstr ""
+
+msgctxt "26720"
+msgid "蓋長巴直"
+msgstr ""
+
+msgctxt "26729"
+msgid "c_em_FT20"
+msgstr ""
+
+msgctxt "26739"
+msgid "柔畑軟三郎"
+msgstr ""
+
+msgctxt "26750"
+msgid "c_em_FT25"
+msgstr ""
+
+msgctxt "26760"
+msgid "林信之助"
+msgstr ""
+
+msgctxt "26769"
+msgid "c_cm_TZH_boss"
+msgstr ""
+
+msgctxt "26783"
+msgid "c_em_FT31"
+msgstr ""
+
+msgctxt "26793"
+msgid "宝蔵院胤鳴"
+msgstr ""
+
+msgctxt "26804"
+msgid "c_em_FT22"
+msgstr ""
+
+msgctxt "26814"
+msgid "蜂須賀助六"
+msgstr ""
+
+msgctxt "26825"
+msgid "c_em_FT17"
+msgstr ""
+
+msgctxt "26835"
+msgid "大宮棟梁"
+msgstr ""
+
+msgctxt "26844"
+msgid "c_em_FT12"
+msgstr ""
+
+msgctxt "26854"
+msgid "桜田信国"
+msgstr ""
+
+msgctxt "26863"
+msgid "c_em_FT16"
+msgstr ""
+
+msgctxt "26873"
+msgid "蒲田春風"
+msgstr ""
+
+msgctxt "26882"
+msgid "c_em_TZN_boss"
+msgstr ""
+
+msgctxt "26896"
+msgid "c_cm_MT2_komaki"
+msgstr ""
+
+msgctxt "26912"
+msgid "c_em_FT26"
+msgstr ""
+
+msgctxt "26922"
+msgid "十川貝蔵"
+msgstr ""
+
+msgctxt "26931"
+msgid "c_em_FT15"
+msgstr ""
+
+msgctxt "26941"
+msgid "新田勲"
+msgstr ""
+
+msgctxt "26948"
+msgid "c_em_MT1_ginryu_01"
+msgstr ""
+
+msgctxt "26967"
+msgid "c_em_FT10"
+msgstr ""
+
+msgctxt "26977"
+msgid "僧正天狗"
+msgstr ""
+
+msgctxt "26986"
+msgid "c_em_FT30"
+msgstr ""
+
+msgctxt "26996"
+msgid "紫電"
+msgstr ""
+
+msgctxt "27001"
+msgid "E_btlst_BOSS_01"
+msgstr ""
+
+msgctxt "27017"
+msgid "c_em_ft11"
+msgstr ""
+
+msgctxt "27027"
+msgid "黄忍者"
+msgstr ""
+
+msgctxt "27034"
+msgid "c_em_tzt_tengu12"
+msgstr ""
+
+msgctxt "27051"
+msgid "荒正"
+msgstr ""
+
+msgctxt "27056"
+msgid "武鶴"
+msgstr ""
+
+msgctxt "27061"
+msgid "千寿"
+msgstr ""
+
+msgctxt "27066"
+msgid "E_btlst_nml_01"
+msgstr ""
+
+msgctxt "27081"
+msgid "渡田"
+msgstr ""
+
+msgctxt "27086"
+msgid "c_em_tzt_tengu14"
+msgstr ""
+
+msgctxt "27103"
+msgid "c_em_tzt_tengu15"
+msgstr ""
+
+msgctxt "27120"
+msgid "怖そうな浪人"
+msgstr ""
+
+msgctxt "27133"
+msgid "貧乏そうな浪人"
+msgstr ""
+
+msgctxt "27148"
+msgid "c_em_c01_koh_tosabushi_05"
+msgstr ""
+
+msgctxt "27174"
+msgid "E_GENE_run_turn_battou_l90_5m"
+msgstr ""
+
+msgctxt "27204"
+msgid "c_em_c01_koh_tosabushi_08"
+msgstr ""
+
+msgctxt "27230"
+msgid "E_GENE_run_turn_l90_5m"
+msgstr ""
+
+msgctxt "27253"
+msgid "c_em_c01_koh_tosabushi_11"
+msgstr ""
+
+msgctxt "27279"
+msgid "E_SET_battou_f_02_lp"
+msgstr ""
+
+msgctxt "27300"
+msgid "c_em_c01_koh_tosabushi_14"
+msgstr ""
+
+msgctxt "27326"
+msgid "E_GENE_run_turn_battou_r90_5m"
+msgstr ""
+
+msgctxt "27356"
+msgid "c_em_c01_koh_tosabushi_01"
+msgstr ""
+
+msgctxt "27382"
+msgid "c_em_c01_koh_tosabushi_02"
+msgstr ""
+
+msgctxt "27408"
+msgid "c_em_c01_koh_tosabushi_07"
+msgstr ""
+
+msgctxt "27434"
+msgid "E_SET_fusuma_open_01_en"
+msgstr ""
+
+msgctxt "27458"
+msgid "c_em_c01_koh_tosabushi_10"
+msgstr ""
+
+msgctxt "27484"
+msgid "E_GENE_run_turn_r90_01"
+msgstr ""
+
+msgctxt "27507"
+msgid "c_em_c01_koh_tosabushi_09"
+msgstr ""
+
+msgctxt "27533"
+msgid "E_GENE_run_turn_r90_5m"
+msgstr ""
+
+msgctxt "27556"
+msgid "c_em_c01_koh_tosabushi_03"
+msgstr ""
+
+msgctxt "27582"
+msgid "E_GENE_run_turn_l90_01"
+msgstr ""
+
+msgctxt "27605"
+msgid "c_em_c01_koh_tosabushi_06"
+msgstr ""
+
+msgctxt "27631"
+msgid "E_SET_fusuma_open_02_en"
+msgstr ""
+
+msgctxt "27655"
+msgid "c_em_c01_koh_tosabushi_04"
+msgstr ""
+
+msgctxt "27681"
+msgid "c_em_c01_koh_tosabushi_18"
+msgstr ""
+
+msgctxt "27707"
+msgid "c_em_c01_koh_tosabushi_13"
+msgstr ""
+
+msgctxt "27733"
+msgid "E_SET_battou_f_01_lp"
+msgstr ""
+
+msgctxt "27754"
+msgid "c_em_c01_koh_tosabushi_15"
+msgstr ""
+
+msgctxt "27780"
+msgid "E_GENE_WPI_run_f_B"
+msgstr ""
+
+msgctxt "27799"
+msgid "c_em_c01_koh_tosabushi_16"
+msgstr ""
+
+msgctxt "27825"
+msgid "c_em_c01_koh_tosabushi_19"
+msgstr ""
+
+msgctxt "27851"
+msgid "c_em_c01_koh_tosabushi_20"
+msgstr ""
+
+msgctxt "27877"
+msgid "c_em_c01_koh_tosabushi_12"
+msgstr ""
+
+msgctxt "27903"
+msgid "c_em_c01_koh_tosabushi_17"
+msgstr ""
+
+msgctxt "27929"
+msgid "c_em_c04_kiy_tosakin_01"
+msgstr ""
+
+msgctxt "27953"
+msgid "c_em_c04_kiy_tosakin_02"
+msgstr ""
+
+msgctxt "27977"
+msgid "c_em_c04_kiy_tosakin_03"
+msgstr ""
+
+msgctxt "28001"
+msgid "c_em_c04_kiy_tosakin_04"
+msgstr ""
+
+msgctxt "28025"
+msgid "E_SET_battou_l_01_lp"
+msgstr ""
+
+msgctxt "28046"
+msgid "c_em_c04_kiy_tosakin_05"
+msgstr ""
+
+msgctxt "28070"
+msgid "E_SET_battou_r_01_lp"
+msgstr ""
+
+msgctxt "28091"
+msgid "c_em_c04_kiy_tosakin_13"
+msgstr ""
+
+msgctxt "28115"
+msgid "E_GENE_run_turn_l90_15m"
+msgstr ""
+
+msgctxt "28139"
+msgid "c_em_c04_kiy_tosakin_14"
+msgstr ""
+
+msgctxt "28163"
+msgid "E_GENE_run_turn_battou_l90_15m"
+msgstr ""
+
+msgctxt "28194"
+msgid "c_em_c04_kiy_tosakin_15"
+msgstr ""
+
+msgctxt "28218"
+msgid "c_em_c04_kiy_tosakin_16"
+msgstr ""
+
+msgctxt "28242"
+msgid "E_GENE_run_turn_battou_r90_01"
+msgstr ""
+
+msgctxt "28272"
+msgid "c_em_c04_kiy_tosakin_17"
+msgstr ""
+
+msgctxt "28296"
+msgid "c_em_c04_kiy_tosakin_18"
+msgstr ""
+
+msgctxt "28320"
+msgid "c_em_c04_kiy_tosakin_19"
+msgstr ""
+
+msgctxt "28344"
+msgid "c_em_c04_kiy_tosakin_20"
+msgstr ""
+
+msgctxt "28368"
+msgid "mt3_buka_gun"
+msgstr ""
+
+msgctxt "28381"
+msgid "P_btlst_stand_nirami"
+msgstr ""
+
+msgctxt "28402"
+msgid "wepct9010"
+msgstr ""
+
+msgctxt "28412"
+msgid "E_GENE_run_turn_battou_l90_01"
+msgstr ""
+
+msgctxt "28442"
+msgid "E_GENE_WPI_run_f_A"
+msgstr ""
+
+msgctxt "28461"
+msgid "E_GENE_WPY_A_run_f"
+msgstr ""
+
+msgctxt "28480"
+msgid "E_GENE_WPY_B_run_f"
+msgstr ""
+
+msgctxt "28499"
+msgid "E_GENE_NIN_appear_top_B"
+msgstr ""
+
+msgctxt "28523"
+msgid "E_btlst_nml_02"
+msgstr ""
+
+msgctxt "28538"
+msgid "E_btlst_SMO_01"
+msgstr ""
+
+msgctxt "28553"
+msgid "E_btlst_SMO_03"
+msgstr ""
+
+msgctxt "28568"
+msgid "c_emz_default"
+msgstr ""
+
+msgctxt "28582"
+msgid "F_shp_stand"
+msgstr ""
+
+msgctxt "28594"
+msgid "c_em_b_narazu_01"
+msgstr ""
+
+msgctxt "28611"
+msgid "M_YKZ_ACT_agura_toba_thinkA_lp"
+msgstr ""
+
+msgctxt "28642"
+msgid "c_em_b_narazu_02"
+msgstr ""
+
+msgctxt "28659"
+msgid "M_YKZ_ACT_agura_toba_thinkB_lp"
+msgstr ""
+
+msgctxt "28690"
+msgid "c_ew_shop_tubo"
+msgstr ""
+
+msgctxt "28705"
+msgid "c_em_b_narazu_06"
+msgstr ""
+
+msgctxt "28722"
+msgid "ADV_M_CHO_AGURA"
+msgstr ""
+
+msgctxt "28738"
+msgid "c_em_man01_kojiki2"
+msgstr ""
+
+msgctxt "28757"
+msgid "c_em_man01_kojiki"
+msgstr ""
+
+msgctxt "28775"
+msgid "c_em_shop_kusuri_01"
+msgstr ""
+
+msgctxt "28795"
+msgid "M_OLD_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "28817"
+msgid "ADV_M_OLD_SEIZA"
+msgstr ""
+
+msgctxt "28833"
+msgid "c_ew_man08_woman"
+msgstr ""
+
+msgctxt "28850"
+msgid "c_em_shop_shichiya_01"
+msgstr ""
+
+msgctxt "28872"
+msgid "M_SHP_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "28894"
+msgid "ADV_M_SHP_SEIZA"
+msgstr ""
+
+msgctxt "28910"
+msgid "c_em_sh07_man_02"
+msgstr ""
+
+msgctxt "28927"
+msgid "c_em_sh07_man_01"
+msgstr ""
+
+msgctxt "28944"
+msgid "c_em_shop_shogi"
+msgstr ""
+
+msgctxt "28960"
+msgid "c_em_man10_fisher"
+msgstr ""
+
+msgctxt "28978"
+msgid "M_CHO_ACT_stand_tsuri_lp"
+msgstr ""
+
+msgctxt "29003"
+msgid "acdev1050"
+msgstr ""
+
+msgctxt "29013"
+msgid "c_ew_ss25_saki"
+msgstr ""
+
+msgctxt "29028"
+msgid "c_ew_ss25_woman_01"
+msgstr ""
+
+msgctxt "29047"
+msgid "c_em_ss35_ehigasi"
+msgstr ""
+
+msgctxt "29065"
+msgid "c_em_ss35_wnisi"
+msgstr ""
+
+msgctxt "29081"
+msgid "c_em_ss35_cnaka"
+msgstr ""
+
+msgctxt "29097"
+msgid "c_em_ss35_sminami"
+msgstr ""
+
+msgctxt "29115"
+msgid "c_em_ss35_nkita"
+msgstr ""
+
+msgctxt "29131"
+msgid "c_em_ss35_man"
+msgstr ""
+
+msgctxt "29145"
+msgid "c_em_ss07_man_02"
+msgstr ""
+
+msgctxt "29162"
+msgid "M_MKR_ACT_stand_kamae"
+msgstr ""
+
+msgctxt "29184"
+msgid "ADV_M_MKR_BASE"
+msgstr ""
+
+msgctxt "29199"
+msgid "石塚"
+msgstr ""
+
+msgctxt "29204"
+msgid "c_em_ss07_man_03"
+msgstr ""
+
+msgctxt "29221"
+msgid "ADV_M_OLD_AGURA"
+msgstr ""
+
+msgctxt "29237"
+msgid "福原"
+msgstr ""
+
+msgctxt "29242"
+msgid "c_em_ss07_man_04"
+msgstr ""
+
+msgctxt "29259"
+msgid "白石"
+msgstr ""
+
+msgctxt "29264"
+msgid "c_em_ss05_uchi"
+msgstr ""
+
+msgctxt "29279"
+msgid "NPC_TOM"
+msgstr ""
+
+msgctxt "29287"
+msgid "内太郎"
+msgstr ""
+
+msgctxt "29294"
+msgid "c_ew_ss05_uchimama"
+msgstr ""
+
+msgctxt "29313"
+msgid "F_OLD_SS_shagami_cry_lp"
+msgstr ""
+
+msgctxt "29337"
+msgid "ADV_F_OLD_SEIZA"
+msgstr ""
+
+msgctxt "29353"
+msgid "ADV_M_BUS_BTLAFT_01"
+msgstr ""
+
+msgctxt "29373"
+msgid "c_em_ss05_man_01"
+msgstr ""
+
+msgctxt "29390"
+msgid "下田"
+msgstr ""
+
+msgctxt "29395"
+msgid "c_em_ss05_man_02"
+msgstr ""
+
+msgctxt "29412"
+msgid "c_em_ss05_man_03"
+msgstr ""
+
+msgctxt "29429"
+msgid "NOBUSHI"
+msgstr ""
+
+msgctxt "29437"
+msgid "栗田"
+msgstr ""
+
+msgctxt "29442"
+msgid "c_em_ss05_man_04"
+msgstr ""
+
+msgctxt "29459"
+msgid "石黒"
+msgstr ""
+
+msgctxt "29464"
+msgid "c_em_ss05_man_05"
+msgstr ""
+
+msgctxt "29481"
+msgid "E_btlst_NBS_battou_B"
+msgstr ""
+
+msgctxt "29502"
+msgid "亀井"
+msgstr ""
+
+msgctxt "29507"
+msgid "c_em_ss33_creek"
+msgstr ""
+
+msgctxt "29523"
+msgid "c_em_ss33_man_01"
+msgstr ""
+
+msgctxt "29540"
+msgid "c_em_ss33_man_04"
+msgstr ""
+
+msgctxt "29557"
+msgid "竹村"
+msgstr ""
+
+msgctxt "29562"
+msgid "c_em_ss33_man_07"
+msgstr ""
+
+msgctxt "29579"
+msgid "鈴井"
+msgstr ""
+
+msgctxt "29584"
+msgid "c_em_ss33_man_05"
+msgstr ""
+
+msgctxt "29601"
+msgid "山田"
+msgstr ""
+
+msgctxt "29606"
+msgid "c_em_ss33_man_06"
+msgstr ""
+
+msgctxt "29623"
+msgid "c_em_ss33_man_02"
+msgstr ""
+
+msgctxt "29640"
+msgid "中田"
+msgstr ""
+
+msgctxt "29645"
+msgid "c_em_man12_man_01"
+msgstr ""
+
+msgctxt "29663"
+msgid "c_em_man04_man"
+msgstr ""
+
+msgctxt "29678"
+msgid "c_ek_man09_kodomo"
+msgstr ""
+
+msgctxt "29696"
+msgid "c_ew_man09_mom"
+msgstr ""
+
+msgctxt "29711"
+msgid "c_em_shop_yorozu_01"
+msgstr ""
+
+msgctxt "29731"
+msgid "c_d38_pe03_hoe_02"
+msgstr ""
+
+msgctxt "29749"
+msgid "c_ew_pe03_woman_01"
+msgstr ""
+
+msgctxt "29768"
+msgid "c_ew_k_woman_05"
+msgstr ""
+
+msgctxt "29784"
+msgid "Clerk"
+msgstr ""
+
+msgctxt "29790"
+msgid "c_ew_shop_otyaya_01"
+msgstr ""
+
+msgctxt "29810"
+msgid "c_em_sh05_man_01"
+msgstr ""
+
+msgctxt "29827"
+msgid "慎介"
+msgstr ""
+
+msgctxt "29832"
+msgid "c_ew_shop_ryotei"
+msgstr ""
+
+msgctxt "29849"
+msgid "c_ew_sh08_woman_01"
+msgstr ""
+
+msgctxt "29868"
+msgid "大槻"
+msgstr ""
+
+msgctxt "29873"
+msgid "c_em_ss13_man_01"
+msgstr ""
+
+msgctxt "29890"
+msgid "c_em_ss14_man_01"
+msgstr ""
+
+msgctxt "29907"
+msgid "c_em_ss14_man_02"
+msgstr ""
+
+msgctxt "29924"
+msgid "M_BIG_TLK_stand_tsuppari_n_lp"
+msgstr ""
+
+msgctxt "29954"
+msgid "M_BIG_TLK_stand_tsuppari_f_lp"
+msgstr ""
+
+msgctxt "29984"
+msgid "SUMO"
+msgstr ""
+
+msgctxt "29989"
+msgid "E_btlst_SMO_02"
+msgstr ""
+
+msgctxt "30004"
+msgid "お菊"
+msgstr ""
+
+msgctxt "30009"
+msgid "c_em_ss14_man_03"
+msgstr ""
+
+msgctxt "30026"
+msgid "お咲"
+msgstr ""
+
+msgctxt "30031"
+msgid "c_em_ss14_man_04"
+msgstr ""
+
+msgctxt "30048"
+msgid "お鈴"
+msgstr ""
+
+msgctxt "30053"
+msgid "c_em_c14_tos_kinshishi_19"
+msgstr ""
+
+msgctxt "30079"
+msgid "c_em_c14_tos_kinshishi_18"
+msgstr ""
+
+msgctxt "30105"
+msgid "c_em_c14_tos_kinshishi_17"
+msgstr ""
+
+msgctxt "30131"
+msgid "c_em_c14_tos_kinshishi_16"
+msgstr ""
+
+msgctxt "30157"
+msgid "c_ek_ss21_boy"
+msgstr ""
+
+msgctxt "30171"
+msgid "c_em_ss21_dad"
+msgstr ""
+
+msgctxt "30185"
+msgid "c_d27_bear"
+msgstr ""
+
+msgctxt "30196"
+msgid "SS2_A_KUM_DED_f_lp"
+msgstr ""
+
+msgctxt "30215"
+msgid "SS2_A_KUM_2ft_stand"
+msgstr ""
+
+msgctxt "30235"
+msgid "KUMA"
+msgstr ""
+
+msgctxt "30240"
+msgid "熊"
+msgstr ""
+
+msgctxt "30243"
+msgid "c_em_ss37_man_07"
+msgstr ""
+
+msgctxt "30260"
+msgid "M_CHO_TLK_stand_eejanaika_n_lp"
+msgstr ""
+
+msgctxt "30291"
+msgid "c_em_ss37_man_02"
+msgstr ""
+
+msgctxt "30308"
+msgid "c_em_ss37_man_05"
+msgstr ""
+
+msgctxt "30325"
+msgid "c_em_ss40_tom"
+msgstr ""
+
+msgctxt "30339"
+msgid "武士"
+msgstr ""
+
+msgctxt "30344"
+msgid "トム"
+msgstr ""
+
+msgctxt "30349"
+msgid "c_ew_ss37_woman_03"
+msgstr ""
+
+msgctxt "30368"
+msgid "c_ew_ss37_woman_02"
+msgstr ""
+
+msgctxt "30387"
+msgid "c_ew_ss37_woman_01"
+msgstr ""
+
+msgctxt "30406"
+msgid "c_em_ss37_man_06"
+msgstr ""
+
+msgctxt "30423"
+msgid "c_em_ss40_man_02"
+msgstr ""
+
+msgctxt "30440"
+msgid "c_em_ss40_man_01"
+msgstr ""
+
+msgctxt "30457"
+msgid "c_em_ss37_man_01"
+msgstr ""
+
+msgctxt "30474"
+msgid "c_em_ss37_man_03"
+msgstr ""
+
+msgctxt "30491"
+msgid "WEPCT3500"
+msgstr ""
+
+msgctxt "30501"
+msgid "c_em_ss37_man_04"
+msgstr ""
+
+msgctxt "30518"
+msgid "acsce0210"
+msgstr ""
+
+msgctxt "30528"
+msgid "c_em_shop_udon"
+msgstr ""
+
+msgctxt "30543"
+msgid "c_em_ss13_man_03"
+msgstr ""
+
+msgctxt "30560"
+msgid "c_em_ss13_man_04"
+msgstr ""
+
+msgctxt "30577"
+msgid "c_em_ss13_man_05"
+msgstr ""
+
+msgctxt "30594"
+msgid "c_em_shop_kannusi"
+msgstr ""
+
+msgctxt "30612"
+msgid "c_ew_shop_miko"
+msgstr ""
+
+msgctxt "30627"
+msgid "c_d05_man08_tanegasima"
+msgstr ""
+
+msgctxt "30650"
+msgid "ADV_A_CAT"
+msgstr ""
+
+msgctxt "30660"
+msgid "c_cm_ryoma_fund"
+msgstr ""
+
+msgctxt "30676"
+msgid "c_em_ss29_fujie"
+msgstr ""
+
+msgctxt "30692"
+msgid "M_CHO_ACT_stand_atc_think_lp"
+msgstr ""
+
+msgctxt "30721"
+msgid "c_em_ss08_man_01"
+msgstr ""
+
+msgctxt "30738"
+msgid "c_em_ss10_man_01"
+msgstr ""
+
+msgctxt "30755"
+msgid "c_em_ss10_man_02"
+msgstr ""
+
+msgctxt "30772"
+msgid "c_em_ss10_man_03"
+msgstr ""
+
+msgctxt "30789"
+msgid "HGUN_B"
+msgstr ""
+
+msgctxt "30796"
+msgid "E_btlst_WPY_battou_A"
+msgstr ""
+
+msgctxt "30817"
+msgid "片山"
+msgstr ""
+
+msgctxt "30822"
+msgid "c_em_ss10_man_04"
+msgstr ""
+
+msgctxt "30839"
+msgid "岡部"
+msgstr ""
+
+msgctxt "30844"
+msgid "c_em_ss10_man_05"
+msgstr ""
+
+msgctxt "30861"
+msgid "安達"
+msgstr ""
+
+msgctxt "30866"
+msgid "c_ek_ss10_yukiko"
+msgstr ""
+
+msgctxt "30883"
+msgid "c_em_ss16_susi"
+msgstr ""
+
+msgctxt "30898"
+msgid "c_em_ss16_man_01"
+msgstr ""
+
+msgctxt "30915"
+msgid "c_cm_ryoma_udon"
+msgstr ""
+
+msgctxt "30931"
+msgid "P_KRU_udon_stand"
+msgstr ""
+
+msgctxt "30948"
+msgid "c_em_ss02_aguri_kega"
+msgstr ""
+
+msgctxt "30969"
+msgid "c_em_ss02_aguri"
+msgstr ""
+
+msgctxt "30985"
+msgid "c_em_ss02_man_01"
+msgstr ""
+
+msgctxt "31002"
+msgid "c_em_ss02_man_02"
+msgstr ""
+
+msgctxt "31019"
+msgid "c_em_ss02_man_03"
+msgstr ""
+
+msgctxt "31036"
+msgid "c_em_ss02_man_04"
+msgstr ""
+
+msgctxt "31053"
+msgid "c_ew_ss02_suzu"
+msgstr ""
+
+msgctxt "31068"
+msgid "c_em_ss02_ikesugi"
+msgstr ""
+
+msgctxt "31086"
+msgid "池杉"
+msgstr ""
+
+msgctxt "31091"
+msgid "c_em_ss02_ikebuka_01"
+msgstr ""
+
+msgctxt "31112"
+msgid "大谷"
+msgstr ""
+
+msgctxt "31117"
+msgid "c_em_ss02_ikebuka_02"
+msgstr ""
+
+msgctxt "31138"
+msgid "岡上"
+msgstr ""
+
+msgctxt "31143"
+msgid "c_em_ss02_ikebuka_03"
+msgstr ""
+
+msgctxt "31164"
+msgid "中嶋"
+msgstr ""
+
+msgctxt "31169"
+msgid "c_em_ss02_ikebuka_04"
+msgstr ""
+
+msgctxt "31190"
+msgid "河原"
+msgstr ""
+
+msgctxt "31195"
+msgid "c_em_ss34_man"
+msgstr ""
+
+msgctxt "31209"
+msgid "P_KRU_TLK_stand_item_get_lp"
+msgstr ""
+
+msgctxt "31237"
+msgid "ならず者"
+msgstr ""
+
+msgctxt "31246"
+msgid "c_ew_ss34_woman"
+msgstr ""
+
+msgctxt "31262"
+msgid "c_ek_ss11_sinta"
+msgstr ""
+
+msgctxt "31278"
+msgid "M_CLD_SS_stand_tired_lp"
+msgstr ""
+
+msgctxt "31302"
+msgid "c_ek_ss11_miho"
+msgstr ""
+
+msgctxt "31317"
+msgid "ADV_KID_LAYOUT_STAND"
+msgstr ""
+
+msgctxt "31338"
+msgid "c_em_ss11_father"
+msgstr ""
+
+msgctxt "31355"
+msgid "c_d48_ss11_kago"
+msgstr ""
+
+msgctxt "31371"
+msgid "M_SHP_ACT_kago_kamae"
+msgstr ""
+
+msgctxt "31392"
+msgid "ADV_M_KGY_BASE"
+msgstr ""
+
+msgctxt "31407"
+msgid "c_ek_ss40_kodomo_01"
+msgstr ""
+
+msgctxt "31427"
+msgid "c_ek_ss40_kodomo_02"
+msgstr ""
+
+msgctxt "31447"
+msgid "c_ek_ss40_kodomo_03"
+msgstr ""
+
+msgctxt "31467"
+msgid "c_em_ss40_man_03"
+msgstr ""
+
+msgctxt "31484"
+msgid "神谷"
+msgstr ""
+
+msgctxt "31489"
+msgid "c_em_ss40_man_04"
+msgstr ""
+
+msgctxt "31506"
+msgid "中沢"
+msgstr ""
+
+msgctxt "31511"
+msgid "c_em_ss40_man_05"
+msgstr ""
+
+msgctxt "31528"
+msgid "江口"
+msgstr ""
+
+msgctxt "31533"
+msgid "c_em_ss40_man_06"
+msgstr ""
+
+msgctxt "31550"
+msgid "中谷"
+msgstr ""
+
+msgctxt "31555"
+msgid "c_em_ss40_man_07"
+msgstr ""
+
+msgctxt "31572"
+msgid "畠山"
+msgstr ""
+
+msgctxt "31577"
+msgid "c_em_ss40_man_08"
+msgstr ""
+
+msgctxt "31594"
+msgid "IAI"
+msgstr ""
+
+msgctxt "31598"
+msgid "谷崎"
+msgstr ""
+
+msgctxt "31603"
+msgid "c_em_ss40_man_09"
+msgstr ""
+
+msgctxt "31620"
+msgid "及川"
+msgstr ""
+
+msgctxt "31625"
+msgid "細川"
+msgstr ""
+
+msgctxt "31630"
+msgid "三上"
+msgstr ""
+
+msgctxt "31635"
+msgid "c_em_ss04_jii"
+msgstr ""
+
+msgctxt "31649"
+msgid "c_ew_ss04_baa"
+msgstr ""
+
+msgctxt "31663"
+msgid "c_d38_ss04_kazu_kega"
+msgstr ""
+
+msgctxt "31684"
+msgid "c_d38_ss04_kazu"
+msgstr ""
+
+msgctxt "31700"
+msgid "c_em_ss04_bushi"
+msgstr ""
+
+msgctxt "31716"
+msgid "白川"
+msgstr ""
+
+msgctxt "31721"
+msgid "c_em_ss27_kotaro"
+msgstr ""
+
+msgctxt "31738"
+msgid "c_ew_ss09_okami"
+msgstr ""
+
+msgctxt "31754"
+msgid "c_em_ss09_man_01"
+msgstr ""
+
+msgctxt "31771"
+msgid "c_em_ss09_man_02"
+msgstr ""
+
+msgctxt "31788"
+msgid "森"
+msgstr ""
+
+msgctxt "31791"
+msgid "c_em_ss09_man_03"
+msgstr ""
+
+msgctxt "31808"
+msgid "c_em_ss09_man_04"
+msgstr ""
+
+msgctxt "31825"
+msgid "E_btlst_WPY_typeB_battou_A"
+msgstr ""
+
+msgctxt "31852"
+msgid "青木"
+msgstr ""
+
+msgctxt "31857"
+msgid "c_em_ss09_man_05"
+msgstr ""
+
+msgctxt "31874"
+msgid "川崎"
+msgstr ""
+
+msgctxt "31879"
+msgid "c_em_shop_sippo_01"
+msgstr ""
+
+msgctxt "31898"
+msgid "c_em_shop_sippo_02"
+msgstr ""
+
+msgctxt "31917"
+msgid "c_em_shop_sippo_03"
+msgstr ""
+
+msgctxt "31936"
+msgid "c_em_pe06_man_01"
+msgstr ""
+
+msgctxt "31953"
+msgid "c_em_pe06_man_02"
+msgstr ""
+
+msgctxt "31970"
+msgid "c_em_pe06_man_04"
+msgstr ""
+
+msgctxt "31987"
+msgid "山本"
+msgstr ""
+
+msgctxt "31992"
+msgid "c_em_pe06_man_03"
+msgstr ""
+
+msgctxt "32009"
+msgid "c_d05_pe05_ochoko_kega"
+msgstr ""
+
+msgctxt "32032"
+msgid "P_KRU_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "32054"
+msgid "ADV_P_KRU_SEIZA"
+msgstr ""
+
+msgctxt "32070"
+msgid "P_KRU_TLK_stand_pet_pose_lp"
+msgstr ""
+
+msgctxt "32098"
+msgid "ADV_P_ADV"
+msgstr ""
+
+msgctxt "32108"
+msgid "c_em_b_ronin_mus_08"
+msgstr ""
+
+msgctxt "32128"
+msgid "c_em_b_ronin_11"
+msgstr ""
+
+msgctxt "32144"
+msgid "c_em_b_ronin_10"
+msgstr ""
+
+msgctxt "32160"
+msgid "金子"
+msgstr ""
+
+msgctxt "32165"
+msgid "c_em_c00_t_shokunin_01"
+msgstr ""
+
+msgctxt "32188"
+msgid "M_CHO_ACT_stand_obie_lp"
+msgstr ""
+
+msgctxt "32212"
+msgid "F_CHO_SS_stand_sexy_kamae"
+msgstr ""
+
+msgctxt "32238"
+msgid "c_d05_cat_mike"
+msgstr ""
+
+msgctxt "32253"
+msgid "c_em_ss16_man_02"
+msgstr ""
+
+msgctxt "32270"
+msgid "c_em_ss16_man_03"
+msgstr ""
+
+msgctxt "32287"
+msgid "c_em_ss16_man_04"
+msgstr ""
+
+msgctxt "32304"
+msgid "c_em_ss16_man_05"
+msgstr ""
+
+msgctxt "32321"
+msgid "c_em_k_man_17"
+msgstr ""
+
+msgctxt "32335"
+msgid "c_em_k_man_20"
+msgstr ""
+
+msgctxt "32349"
+msgid "M_CHO_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "32371"
+msgid "c_em_shop_kawaraban"
+msgstr ""
+
+msgctxt "32391"
+msgid "c_cm_ryoma"
+msgstr ""
+
+msgctxt "32402"
+msgid "c_d05_cat"
+msgstr ""
+
+msgctxt "32412"
+msgid "c_em_ronin_1st_02"
+msgstr ""
+
+msgctxt "32430"
+msgid "ZAKO"
+msgstr ""
+
+msgctxt "32435"
+msgid "E_ENC_KNS_btlst_battou"
+msgstr ""
+
+msgctxt "32458"
+msgid "wepct2710"
+msgstr ""
+
+msgctxt "32468"
+msgid "山川"
+msgstr ""
+
+msgctxt "32473"
+msgid "c_em_ronin_1st_04"
+msgstr ""
+
+msgctxt "32491"
+msgid "C2020_M_BUS_down2_kamae"
+msgstr ""
+
+msgctxt "32515"
+msgid "稲毛"
+msgstr ""
+
+msgctxt "32520"
+msgid "c_em_ronin_1st_05"
+msgstr ""
+
+msgctxt "32538"
+msgid "C2020_M_BUS_down1_kamae"
+msgstr ""
+
+msgctxt "32562"
+msgid "田川"
+msgstr ""
+
+msgctxt "32567"
+msgid "c_em_kannusi_1st_01"
+msgstr ""
+
+msgctxt "32587"
+msgid "c_aw_haruka"
+msgstr ""
+
+msgctxt "32599"
+msgid "ADV_F_HAL_STAND"
+msgstr ""
+
+msgctxt "32615"
+msgid "c_em_shop_kochin"
+msgstr ""
+
+msgctxt "32632"
+msgid "c_em_c02_a130_chonin4"
+msgstr ""
+
+msgctxt "32654"
+msgid "c_ew_k_woman_04"
+msgstr ""
+
+msgctxt "32670"
+msgid "F_CHO_ACT_stand_yaji_B_lp"
+msgstr ""
+
+msgctxt "32696"
+msgid "M_CHO_ACT_stand_yaji_A_lp"
+msgstr ""
+
+msgctxt "32722"
+msgid "c_aw_haruka_kago_set"
+msgstr ""
+
+msgctxt "32743"
+msgid "c_aw_haruka_kago"
+msgstr ""
+
+msgctxt "32760"
+msgid "c_em_ss12_saru"
+msgstr ""
+
+msgctxt "32775"
+msgid "c_em_ss12_shogun"
+msgstr ""
+
+msgctxt "32792"
+msgid "c_em_ss12_man_01"
+msgstr ""
+
+msgctxt "32809"
+msgid "c_em_ss12_man_02"
+msgstr ""
+
+msgctxt "32826"
+msgid "c_em_ss20_jii"
+msgstr ""
+
+msgctxt "32840"
+msgid "c_d48_ss20_kago"
+msgstr ""
+
+msgctxt "32856"
+msgid "ADV_M_SHP_STAND"
+msgstr ""
+
+msgctxt "32872"
+msgid "c_em_ss20_hayakaze"
+msgstr ""
+
+msgctxt "32891"
+msgid "早風"
+msgstr ""
+
+msgctxt "32896"
+msgid "c_em_ss41_hara"
+msgstr ""
+
+msgctxt "32911"
+msgid "c_em_ss41_man_02"
+msgstr ""
+
+msgctxt "32928"
+msgid "c_em_ss41_man_03"
+msgstr ""
+
+msgctxt "32945"
+msgid "c_em_ss41_man_04"
+msgstr ""
+
+msgctxt "32962"
+msgid "c_em_ss41_man_01"
+msgstr ""
+
+msgctxt "32979"
+msgid "c_em_ss41_man_05"
+msgstr ""
+
+msgctxt "32996"
+msgid "c_em_ss41_man_06"
+msgstr ""
+
+msgctxt "33013"
+msgid "rounin1"
+msgstr ""
+
+msgctxt "33021"
+msgid "大石"
+msgstr ""
+
+msgctxt "33026"
+msgid "rounin2"
+msgstr ""
+
+msgctxt "33034"
+msgid "rounin3"
+msgstr ""
+
+msgctxt "33042"
+msgid "菊地"
+msgstr ""
+
+msgctxt "33047"
+msgid "小田"
+msgstr ""
+
+msgctxt "33052"
+msgid "c_em_man02_rikisi"
+msgstr ""
+
+msgctxt "33070"
+msgid "ADV_M_BUS_BTLAFT_NW_01"
+msgstr ""
+
+msgctxt "33093"
+msgid "c_ew_man13_woman"
+msgstr ""
+
+msgctxt "33110"
+msgid "c_ek_man14_kodomo"
+msgstr ""
+
+msgctxt "33128"
+msgid "c_em_man03_cook"
+msgstr ""
+
+msgctxt "33144"
+msgid "c_d38_pe02_nao_kega"
+msgstr ""
+
+msgctxt "33164"
+msgid "A_DOG_TLK_stand_ohuri"
+msgstr ""
+
+msgctxt "33186"
+msgid "太田"
+msgstr ""
+
+msgctxt "33191"
+msgid "c_em_man15_man"
+msgstr ""
+
+msgctxt "33206"
+msgid "c_em_ps04_man_01"
+msgstr ""
+
+msgctxt "33223"
+msgid "c_ew_pe01_woman_01"
+msgstr ""
+
+msgctxt "33242"
+msgid "c_ew_man11_grandma"
+msgstr ""
+
+msgctxt "33261"
+msgid "F_OLD_SS_eejanaika_koke_lp"
+msgstr ""
+
+msgctxt "33288"
+msgid "ADV_F_OLD_STAND"
+msgstr ""
+
+msgctxt "33304"
+msgid "F_OLD_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "33326"
+msgid "F_OLD_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "33348"
+msgid "c_em_man05_otaku"
+msgstr ""
+
+msgctxt "33365"
+msgid "c_em_man06_man_01_cure"
+msgstr ""
+
+msgctxt "33388"
+msgid "stand_look_l"
+msgstr ""
+
+msgctxt "33401"
+msgid "stand_look_r"
+msgstr ""
+
+msgctxt "33414"
+msgid "c_em_man06_man_01"
+msgstr ""
+
+msgctxt "33432"
+msgid "ADV_M_BUS_BTLAFT_NW_04"
+msgstr ""
+
+msgctxt "33455"
+msgid "c_ew_man06_woman_01"
+msgstr ""
+
+msgctxt "33475"
+msgid "c_em_man06_man_02"
+msgstr ""
+
+msgctxt "33493"
+msgid "c_em_man06_man_03"
+msgstr ""
+
+msgctxt "33511"
+msgid "c_em_man07_man"
+msgstr ""
+
+msgctxt "33526"
+msgid "M_CHO_SS_slip_down_lp"
+msgstr ""
+
+msgctxt "33548"
+msgid "c_d36_mg_kochin_gray"
+msgstr ""
+
+msgctxt "33569"
+msgid "MnG47_A_COC_ready_good"
+msgstr ""
+
+msgctxt "33592"
+msgid "c_d36_mg_kochin_white"
+msgstr ""
+
+msgctxt "33614"
+msgid "cheer_bibiri"
+msgstr ""
+
+msgctxt "33627"
+msgid "M_CHO_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "33650"
+msgid "c_em_g_man01"
+msgstr ""
+
+msgctxt "33663"
+msgid "M_CHO_TLK_stand_no"
+msgstr ""
+
+msgctxt "33682"
+msgid "c_em_g_man02"
+msgstr ""
+
+msgctxt "33695"
+msgid "c_em_g_man03"
+msgstr ""
+
+msgctxt "33708"
+msgid "c_em_g_man04"
+msgstr ""
+
+msgctxt "33721"
+msgid "M_CHO_TLK_stand_smile"
+msgstr ""
+
+msgctxt "33743"
+msgid "c_em_g_man05"
+msgstr ""
+
+msgctxt "33756"
+msgid "M_CHO_TLK_stand_call"
+msgstr ""
+
+msgctxt "33777"
+msgid "c_em_g_man07"
+msgstr ""
+
+msgctxt "33790"
+msgid "c_em_g_man09"
+msgstr ""
+
+msgctxt "33803"
+msgid "M_CHO_TLK_agura_kansin"
+msgstr ""
+
+msgctxt "33826"
+msgid "M_CHO_TLK_stand_sad"
+msgstr ""
+
+msgctxt "33846"
+msgid "M_CHO_TLK_stand_request"
+msgstr ""
+
+msgctxt "33870"
+msgid "c_em_g_man10"
+msgstr ""
+
+msgctxt "33883"
+msgid "E_MOB_SYNC1_kiriai_A"
+msgstr ""
+
+msgctxt "33904"
+msgid "c_em_c06_ike_kinshishi_15"
+msgstr ""
+
+msgctxt "33930"
+msgid "E_MOB_SYNC_kiriai_A"
+msgstr ""
+
+msgctxt "33950"
+msgid "E_MOB_SYNC1_kiriai_B"
+msgstr ""
+
+msgctxt "33971"
+msgid "c_em_c06_ike_kinshishi_16"
+msgstr ""
+
+msgctxt "33997"
+msgid "E_MOB_SYNC_kiriai_B"
+msgstr ""
+
+msgctxt "34017"
+msgid "c_em_c06_ike_kinshishi_17"
+msgstr ""
+
+msgctxt "34043"
+msgid "c_ew_k_oldwoman_07"
+msgstr ""
+
+msgctxt "34062"
+msgid "c_em_c06_ike_kinshishi_18"
+msgstr ""
+
+msgctxt "34088"
+msgid "C06130_YOS_A"
+msgstr ""
+
+msgctxt "34101"
+msgid "c_am_nagakura"
+msgstr ""
+
+msgctxt "34115"
+msgid "c_em_c06_ike_kinshishi_05"
+msgstr ""
+
+msgctxt "34141"
+msgid "c_em_c06_ike_kinshishi_01"
+msgstr ""
+
+msgctxt "34167"
+msgid "c_em_c00_sin_dead_10"
+msgstr ""
+
+msgctxt "34188"
+msgid "c_em_c06_ike_kinshishi_03"
+msgstr ""
+
+msgctxt "34214"
+msgid "c_em_c00_sin_01"
+msgstr ""
+
+msgctxt "34230"
+msgid "c_em_c06_ike_kinshishi_08"
+msgstr ""
+
+msgctxt "34256"
+msgid "c_em_c06_ike_kinshishi_19"
+msgstr ""
+
+msgctxt "34282"
+msgid "c_em_c06_ike_kinshishi_20"
+msgstr ""
+
+msgctxt "34308"
+msgid "c_em_c00_sin_dead_08"
+msgstr ""
+
+msgctxt "34329"
+msgid "c_em_c00_sin_dead_07"
+msgstr ""
+
+msgctxt "34350"
+msgid "C12050_BUS3_A"
+msgstr ""
+
+msgctxt "34364"
+msgid "c_em_c06_ike_kinshishi_12"
+msgstr ""
+
+msgctxt "34390"
+msgid "c_em_c06_ike_kinshishi_14"
+msgstr ""
+
+msgctxt "34416"
+msgid "c_em_k_oldman_02"
+msgstr ""
+
+msgctxt "34433"
+msgid "c_ew_k_oldwoman_08"
+msgstr ""
+
+msgctxt "34452"
+msgid "c_em_k_oldman_03"
+msgstr ""
+
+msgctxt "34469"
+msgid "c_ew_k_oldwoman_09"
+msgstr ""
+
+msgctxt "34488"
+msgid "c_em_k_oldman_04"
+msgstr ""
+
+msgctxt "34505"
+msgid "c_em_c00_sin_dead_05"
+msgstr ""
+
+msgctxt "34526"
+msgid "c_am_toyo_c01kizu2"
+msgstr ""
+
+msgctxt "34545"
+msgid "c_em_c06_ike_kinshishi_09"
+msgstr ""
+
+msgctxt "34571"
+msgid "c_em_c00_sin_dead_09"
+msgstr ""
+
+msgctxt "34592"
+msgid "M_CHO_TLK_stand_ase"
+msgstr ""
+
+msgctxt "34612"
+msgid "spectator_care"
+msgstr ""
+
+msgctxt "34627"
+msgid "F_CHO_ACT_shagami_talk_lp"
+msgstr ""
+
+msgctxt "34653"
+msgid "spectator_look"
+msgstr ""
+
+msgctxt "34668"
+msgid "stand_hope"
+msgstr ""
+
+msgctxt "34679"
+msgid "c_ew_ss38_woman"
+msgstr ""
+
+msgctxt "34695"
+msgid "c_ew_ss39_woman_01"
+msgstr ""
+
+msgctxt "34714"
+msgid "c_ew_ss39_woman_02"
+msgstr ""
+
+msgctxt "34733"
+msgid "c_ew_ss39_woman_03"
+msgstr ""
+
+msgctxt "34752"
+msgid "c_em_ss39_man_05"
+msgstr ""
+
+msgctxt "34769"
+msgid "c_em_ss39_man_06"
+msgstr ""
+
+msgctxt "34786"
+msgid "c_em_ss39_man_07"
+msgstr ""
+
+msgctxt "34803"
+msgid "stand_touch_jaw"
+msgstr ""
+
+msgctxt "34819"
+msgid "c_em_ss24_pony"
+msgstr ""
+
+msgctxt "34834"
+msgid "c_em_b_yato_mus_01"
+msgstr ""
+
+msgctxt "34853"
+msgid "c_em_b_yato_mus_02"
+msgstr ""
+
+msgctxt "34872"
+msgid "c_em_b_yato_mus_03"
+msgstr ""
+
+msgctxt "34891"
+msgid "c_em_b_yato_mus_04"
+msgstr ""
+
+msgctxt "34910"
+msgid "c_em_b_yato_mus_05"
+msgstr ""
+
+msgctxt "34929"
+msgid "c_em_b_yato_mus_06"
+msgstr ""
+
+msgctxt "34948"
+msgid "c_em_b_yato_mus_07"
+msgstr ""
+
+msgctxt "34967"
+msgid "c_em_b_yato_mus_08"
+msgstr ""
+
+msgctxt "34986"
+msgid "c_em_b_yato_mus_09"
+msgstr ""
+
+msgctxt "35005"
+msgid "c_em_kb_toyo_mus_01"
+msgstr ""
+
+msgctxt "35025"
+msgid "c_em_kb_toyo_mus_02"
+msgstr ""
+
+msgctxt "35045"
+msgid "c_em_kb_toyo_mus_03"
+msgstr ""
+
+msgctxt "35065"
+msgid "c_em_kb_toyo_mus_04"
+msgstr ""
+
+msgctxt "35085"
+msgid "c_em_kb_toyo_mus_05"
+msgstr ""
+
+msgctxt "35105"
+msgid "c_em_kb_toyo_3_a"
+msgstr ""
+
+msgctxt "35122"
+msgid "c_em_kb_toyo_3_b"
+msgstr ""
+
+msgctxt "35139"
+msgid "c_em_kb_toyo_3_c"
+msgstr ""
+
+msgctxt "35156"
+msgid "c_em_kb_toyo_4_a"
+msgstr ""
+
+msgctxt "35173"
+msgid "c_em_kb_toyo_4_b"
+msgstr ""
+
+msgctxt "35190"
+msgid "c_em_kb_toyo_4_c"
+msgstr ""
+
+msgctxt "35207"
+msgid "c_em_kb_toyo_4_d"
+msgstr ""
+
+msgctxt "35224"
+msgid "c_em_kb_toyo_5_a"
+msgstr ""
+
+msgctxt "35241"
+msgid "c_em_kb_toyo_5_b"
+msgstr ""
+
+msgctxt "35258"
+msgid "c_em_kb_toyo_5_c"
+msgstr ""
+
+msgctxt "35275"
+msgid "c_em_kb_toyo_5_d"
+msgstr ""
+
+msgctxt "35292"
+msgid "c_em_kb_toyo_5_e"
+msgstr ""
+
+msgctxt "35309"
+msgid "c_em_b_ronin_mus_01"
+msgstr ""
+
+msgctxt "35329"
+msgid "c_em_b_ronin_mus_02"
+msgstr ""
+
+msgctxt "35349"
+msgid "c_em_b_ronin_mus_03"
+msgstr ""
+
+msgctxt "35369"
+msgid "c_em_b_ronin_mus_04"
+msgstr ""
+
+msgctxt "35389"
+msgid "c_em_b_ronin_mus_05"
+msgstr ""
+
+msgctxt "35409"
+msgid "c_em_b_ronin_mus_06"
+msgstr ""
+
+msgctxt "35429"
+msgid "c_em_b_ronin_mus_07"
+msgstr ""
+
+msgctxt "35449"
+msgid "c_em_kb_gizoku__b"
+msgstr ""
+
+msgctxt "35467"
+msgid "c_em_kb_gizoku__a"
+msgstr ""
+
+msgctxt "35485"
+msgid "c_em_kb_gizoku_boss"
+msgstr ""
+
+msgctxt "35505"
+msgid "c_em_c11_lbb_edo_02"
+msgstr ""
+
+msgctxt "35525"
+msgid "c_em_b_yato_14"
+msgstr ""
+
+msgctxt "35540"
+msgid "c_em_b_yato_15"
+msgstr ""
+
+msgctxt "35555"
+msgid "c_em_b_yato_01"
+msgstr ""
+
+msgctxt "35570"
+msgid "c_em_b_yato_02"
+msgstr ""
+
+msgctxt "35585"
+msgid "c_em_b_yato_03"
+msgstr ""
+
+msgctxt "35600"
+msgid "c_em_b_yato_04"
+msgstr ""
+
+msgctxt "35615"
+msgid "c_em_b_yato_05"
+msgstr ""
+
+msgctxt "35630"
+msgid "c_em_b_yato_06"
+msgstr ""
+
+msgctxt "35645"
+msgid "c_em_b_yato_07"
+msgstr ""
+
+msgctxt "35660"
+msgid "c_em_c08_sen_kinshishi_19"
+msgstr ""
+
+msgctxt "35686"
+msgid "c_em_c08_sen_kinshishi_20"
+msgstr ""
+
+msgctxt "35712"
+msgid "c_em_b_yato_08"
+msgstr ""
+
+msgctxt "35727"
+msgid "c_em_b_yato_09"
+msgstr ""
+
+msgctxt "35742"
+msgid "c_em_b_yato_10"
+msgstr ""
+
+msgctxt "35757"
+msgid "c_em_b_yato_11"
+msgstr ""
+
+msgctxt "35772"
+msgid "c_em_b_yato_12"
+msgstr ""
+
+msgctxt "35787"
+msgid "c_em_b_yato_13"
+msgstr ""
+
+msgctxt "35802"
+msgid "c_em_b_ronin_02"
+msgstr ""
+
+msgctxt "35818"
+msgid "c_em_b_ronin_03"
+msgstr ""
+
+msgctxt "35834"
+msgid "c_em_b_ronin_04"
+msgstr ""
+
+msgctxt "35850"
+msgid "c_em_b_ronin_05"
+msgstr ""
+
+msgctxt "35866"
+msgid "c_em_b_ronin_06"
+msgstr ""
+
+msgctxt "35882"
+msgid "c_em_b_ronin_07"
+msgstr ""
+
+msgctxt "35898"
+msgid "c_em_b_ronin_08"
+msgstr ""
+
+msgctxt "35914"
+msgid "c_em_b_ronin_09"
+msgstr ""
+
+msgctxt "35930"
+msgid "c_em_b_ronin_12"
+msgstr ""
+
+msgctxt "35946"
+msgid "c_em_b_ronin_13"
+msgstr ""
+
+msgctxt "35962"
+msgid "c_em_b_ronin_14"
+msgstr ""
+
+msgctxt "35978"
+msgid "c_em_b_ronin_15"
+msgstr ""
+
+msgctxt "35994"
+msgid "c_em_kb_toyo_busi_01"
+msgstr ""
+
+msgctxt "36015"
+msgid "c_em_kb_toyo_busi_02"
+msgstr ""
+
+msgctxt "36036"
+msgid "c_em_kb_toyo_busi_03"
+msgstr ""
+
+msgctxt "36057"
+msgid "c_em_kb_toyo_busi_04"
+msgstr ""
+
+msgctxt "36078"
+msgid "c_em_kb_toyo_busi_05"
+msgstr ""
+
+msgctxt "36099"
+msgid "c_em_kb_toyo_busi_06"
+msgstr ""
+
+msgctxt "36120"
+msgid "c_em_kb_toyo_busi_07"
+msgstr ""
+
+msgctxt "36141"
+msgid "c_em_kb_toyo_busi_08"
+msgstr ""
+
+msgctxt "36162"
+msgid "c_em_kb_toyo_busi_09"
+msgstr ""
+
+msgctxt "36183"
+msgid "c_em_kb_toyo_busi_10"
+msgstr ""
+
+msgctxt "36204"
+msgid "c_em_kb_toyo_busi_11"
+msgstr ""
+
+msgctxt "36225"
+msgid "c_em_kb_toyo_busi_12"
+msgstr ""
+
+msgctxt "36246"
+msgid "c_em_kb_toyo_busi_13"
+msgstr ""
+
+msgctxt "36267"
+msgid "c_em_kb_toyo_ninja_01"
+msgstr ""
+
+msgctxt "36289"
+msgid "c_em_kb_toyo_ninja_02"
+msgstr ""
+
+msgctxt "36311"
+msgid "c_em_kb_toyo_ninja_03"
+msgstr ""
+
+msgctxt "36333"
+msgid "c_em_kb_toyo_ninja_04"
+msgstr ""
+
+msgctxt "36355"
+msgid "c_em_kb_toyo_busi_14"
+msgstr ""
+
+msgctxt "36376"
+msgid "c_em_kb_toyo_busi_15"
+msgstr ""
+
+msgctxt "36397"
+msgid "c_em_kb_toyo_busi_16"
+msgstr ""
+
+msgctxt "36418"
+msgid "c_em_kb_toyo_busi_17"
+msgstr ""
+
+msgctxt "36439"
+msgid "c_em_kb_toyo_busi_18"
+msgstr ""
+
+msgctxt "36460"
+msgid "c_em_kb_toyo_busi_19"
+msgstr ""
+
+msgctxt "36481"
+msgid "c_em_kb_toyo_busi_20"
+msgstr ""
+
+msgctxt "36502"
+msgid "c_em_kb_toyo_ninja_05"
+msgstr ""
+
+msgctxt "36524"
+msgid "c_em_kb_toyo_ninja_06"
+msgstr ""
+
+msgctxt "36546"
+msgid "c_em_kb_toyo_ninja_07"
+msgstr ""
+
+msgctxt "36568"
+msgid "c_em_kb_toyo_ninja_08"
+msgstr ""
+
+msgctxt "36590"
+msgid "c_em_kb_toyo_ninja_09"
+msgstr ""
+
+msgctxt "36612"
+msgid "c_em_kb_toyo_ninja_10"
+msgstr ""
+
+msgctxt "36634"
+msgid "c_em_kb_toyo_ninja_11"
+msgstr ""
+
+msgctxt "36656"
+msgid "c_em_kb_toyo_ninja_12"
+msgstr ""
+
+msgctxt "36678"
+msgid "c_em_kb_toyo_ninja_13"
+msgstr ""
+
+msgctxt "36700"
+msgid "c_em_kb_toyo_ninja_14"
+msgstr ""
+
+msgctxt "36722"
+msgid "c_em_kb_toyo_ninja_15"
+msgstr ""
+
+msgctxt "36744"
+msgid "c_em_kb_toyo_ninja_16"
+msgstr ""
+
+msgctxt "36766"
+msgid "M_HKK_SS_dam_lp"
+msgstr ""
+
+msgctxt "36782"
+msgid "c_em_c13_oum_kinshishi_18"
+msgstr ""
+
+msgctxt "36808"
+msgid "c_em_c13_oum_kinshishi_19"
+msgstr ""
+
+msgctxt "36834"
+msgid "c_em_c13_oum_kinshishi_20"
+msgstr ""
+
+msgctxt "36860"
+msgid "btlmaleronin"
+msgstr ""
+
+msgctxt "36873"
+msgid "c_em_c08_sen_kinshishi_01"
+msgstr ""
+
+msgctxt "36899"
+msgid "c_em_c08_sen_kinshishi_02"
+msgstr ""
+
+msgctxt "36925"
+msgid "c_em_c08_sen_kinshishi_03"
+msgstr ""
+
+msgctxt "36951"
+msgid "c_em_c08_sen_kinshishi_04"
+msgstr ""
+
+msgctxt "36977"
+msgid "c_em_c08_sen_kinshishi_05"
+msgstr ""
+
+msgctxt "37003"
+msgid "c_em_c14_tos_kinshishi_01"
+msgstr ""
+
+msgctxt "37029"
+msgid "c_em_c14_tos_kinshishi_02"
+msgstr ""
+
+msgctxt "37055"
+msgid "c_em_c14_tos_kinshishi_03"
+msgstr ""
+
+msgctxt "37081"
+msgid "c_em_c14_tos_kinshishi_04"
+msgstr ""
+
+msgctxt "37107"
+msgid "c_em_c14_tos_kinshishi_05"
+msgstr ""
+
+msgctxt "37133"
+msgid "c_em_c14_tos_kinshishi_20"
+msgstr ""
+
+msgctxt "37159"
+msgid "c_em_c11_edo_baku_01"
+msgstr ""
+
+msgctxt "37180"
+msgid "c_em_c11_edo_baku_02"
+msgstr ""
+
+msgctxt "37201"
+msgid "c_em_c11_edo_baku_03"
+msgstr ""
+
+msgctxt "37222"
+msgid "c_em_c11_edo_baku_04"
+msgstr ""
+
+msgctxt "37243"
+msgid "c_em_c11_edo_baku_05"
+msgstr ""
+
+msgctxt "37264"
+msgid "c_em_c11_edo_baku_06"
+msgstr ""
+
+msgctxt "37285"
+msgid "c_em_c11_edo_baku_07"
+msgstr ""
+
+msgctxt "37306"
+msgid "c_em_c11_edo_baku_08"
+msgstr ""
+
+msgctxt "37327"
+msgid "c_em_c13_oum_kinshishi_01"
+msgstr ""
+
+msgctxt "37353"
+msgid "c_em_c13_oum_kinshishi_02"
+msgstr ""
+
+msgctxt "37379"
+msgid "c_em_c13_oum_kinshishi_03"
+msgstr ""
+
+msgctxt "37405"
+msgid "c_em_c13_lbb_oum_01"
+msgstr ""
+
+msgctxt "37425"
+msgid "c_em_c13_lbb_oum_02"
+msgstr ""
+
+msgctxt "37445"
+msgid "c_em_c13_lbb_oum_03"
+msgstr ""
+
+msgctxt "37465"
+msgid "c_em_c06_ike_kinshishi_04"
+msgstr ""
+
+msgctxt "37491"
+msgid "kb_toyo_busi"
+msgstr ""
+
+msgctxt "37504"
+msgid "E_btlst_SGO"
+msgstr ""
+
+msgctxt "37516"
+msgid "西郷吉之助"
+msgstr ""
+
+msgctxt "37527"
+msgid "P_AKI_btlst_03"
+msgstr ""
+
+msgctxt "37542"
+msgid "桂小五郎"
+msgstr ""
+
+msgctxt "37551"
+msgid "徳川慶喜"
+msgstr ""
+
+msgctxt "37560"
+msgid "武田観柳斎"
+msgstr ""
+
+msgctxt "37571"
+msgid "kb_toyo_busi_mus"
+msgstr ""
+
+msgctxt "37588"
+msgid "c_em_c10_lbb_ter_01"
+msgstr ""
+
+msgctxt "37608"
+msgid "豊臣秀武"
+msgstr ""
+
+msgctxt "37617"
+msgid "空将軍"
+msgstr ""
+
+msgctxt "37624"
+msgid "風将軍"
+msgstr ""
+
+msgctxt "37631"
+msgid "水将軍"
+msgstr ""
+
+msgctxt "37638"
+msgid "地将軍"
+msgstr ""
+
+msgctxt "37645"
+msgid "火将軍"
+msgstr ""
+
+msgctxt "37652"
+msgid "青龍"
+msgstr ""
+
+msgctxt "37657"
+msgid "白虎"
+msgstr ""
+
+msgctxt "37662"
+msgid "朱雀"
+msgstr ""
+
+msgctxt "37667"
+msgid "玄武"
+msgstr ""
+
+msgctxt "37672"
+msgid "猪"
+msgstr ""
+
+msgctxt "37675"
+msgid "鹿"
+msgstr ""
+
+msgctxt "37678"
+msgid "蝶"
+msgstr ""
+
+msgctxt "37681"
+msgid "kb_toyo_ninja"
+msgstr ""
+
+msgctxt "37695"
+msgid "c_em_kb_yato_boss"
+msgstr ""
+
+msgctxt "37713"
+msgid "曙丸"
+msgstr ""
+
+msgctxt "37718"
+msgid "c_em_c11_edo_baku_cannon_12"
+msgstr ""
+
+msgctxt "37746"
+msgid "c_em_c11_edo_baku_cannon_11"
+msgstr ""
+
+msgctxt "37774"
+msgid "c_em_c08_lbb_sen_01"
+msgstr ""
+
+msgctxt "37794"
+msgid "c_em_c08_lbb_sen_02"
+msgstr ""
+
+msgctxt "37814"
+msgid "中岡慎太郎"
+msgstr ""
+
+msgctxt "37825"
+msgid "千石虎之丞"
+msgstr ""
+
+msgctxt "37836"
+msgid "c_em_c10_lbb_ter_02"
+msgstr ""
+
+msgctxt "37856"
+msgid "c_em_c10_050_man_01"
+msgstr ""
+
+msgctxt "37876"
+msgid "c_em_c11_050_toku_02"
+msgstr ""
+
+msgctxt "37897"
+msgid "c_em_c11_050_toku_03"
+msgstr ""
+
+msgctxt "37918"
+msgid "c_em_c11_050_toku_04"
+msgstr ""
+
+msgctxt "37939"
+msgid "c_em_c11_050_toku_05"
+msgstr ""
+
+msgctxt "37960"
+msgid "c_em_c11_050_toku_06"
+msgstr ""
+
+msgctxt "37981"
+msgid "吉兵衛"
+msgstr ""
+
+msgctxt "37988"
+msgid "風神坊"
+msgstr ""
+
+msgctxt "37995"
+msgid "雷神坊"
+msgstr ""
+
+msgctxt "38002"
+msgid "c_em_c11_edo_nin_01"
+msgstr ""
+
+msgctxt "38022"
+msgid "c_em_c11_edo_nin_02"
+msgstr ""
+
+msgctxt "38042"
+msgid "c_em_c11_edo_nin_03"
+msgstr ""
+
+msgctxt "38062"
+msgid "c_em_c06_ike_kinshishi_07"
+msgstr ""
+
+msgctxt "38088"
+msgid "c_em_c06_ike_kinshishi_10"
+msgstr ""
+
+msgctxt "38114"
+msgid "c_em_c06_ike_kinshishi_13"
+msgstr ""
+
+msgctxt "38140"
+msgid "c_em_c13_oum_kinshishi_16"
+msgstr ""
+
+msgctxt "38166"
+msgid "c_em_c13_oum_kinshishi_17"
+msgstr ""
+
+msgctxt "38192"
+msgid "c_em_c04_kiy_tosakin_06"
+msgstr ""
+
+msgctxt "38216"
+msgid "E_GENE_WPL_run_l"
+msgstr ""
+
+msgctxt "38233"
+msgid "c_em_c04_kiy_tosakin_07"
+msgstr ""
+
+msgctxt "38257"
+msgid "c_em_c04_kiy_tosakin_08"
+msgstr ""
+
+msgctxt "38281"
+msgid "E_GENE_WPL_run_r"
+msgstr ""
+
+msgctxt "38298"
+msgid "c_em_c04_kiy_tosakin_09"
+msgstr ""
+
+msgctxt "38322"
+msgid "c_em_c04_kiy_tosakin_10"
+msgstr ""
+
+msgctxt "38346"
+msgid "c_em_c04_kiy_tosakin_11"
+msgstr ""
+
+msgctxt "38370"
+msgid "c_em_c04_kiy_tosakin_12"
+msgstr ""
+
+msgctxt "38394"
+msgid "黒船に乗っていた男"
+msgstr ""
+
+msgctxt "38413"
+msgid "c_em_c11_lbb_edo_01"
+msgstr ""
+
+msgctxt "38433"
+msgid "前田"
+msgstr ""
+
+msgctxt "38438"
+msgid "E_btlst_ykz_01"
+msgstr ""
+
+msgctxt "38453"
+msgid "中村"
+msgstr ""
+
+msgctxt "38458"
+msgid "c_em_ss22_musha"
+msgstr ""
+
+msgctxt "38474"
+msgid "亡霊武者"
+msgstr ""
+
+msgctxt "38483"
+msgid "c_em_c11_edo_baku_17"
+msgstr ""
+
+msgctxt "38504"
+msgid "c_em_c11_edo_baku_14"
+msgstr ""
+
+msgctxt "38525"
+msgid "c_em_c11_edo_baku_20"
+msgstr ""
+
+msgctxt "38546"
+msgid "btlmaleyatou"
+msgstr ""
+
+msgctxt "38559"
+msgid "c_em_c06_ike_kinshishi_06"
+msgstr ""
+
+msgctxt "38585"
+msgid "E_SET_fusuma_break_02_en"
+msgstr ""
+
+msgctxt "38610"
+msgid "E_SET_fusuma_break_01_en"
+msgstr ""
+
+msgctxt "38635"
+msgid "c_em_c06_ike_kinshishi_11"
+msgstr ""
+
+msgctxt "38661"
+msgid "E_GENE_run_turn_r90_15m"
+msgstr ""
+
+msgctxt "38685"
+msgid "E_GENE_run_turn_battou_r90_15m"
+msgstr ""
+
+msgctxt "38716"
+msgid "E_GENE_WPY_B_run_l"
+msgstr ""
+
+msgctxt "38735"
+msgid "E_GENE_WPY_B_run_r"
+msgstr ""
+
+msgctxt "38754"
+msgid "E_GENE_WPY_A_run_l"
+msgstr ""
+
+msgctxt "38773"
+msgid "c_em_c06_ike_kinshishi_02"
+msgstr ""
+
+msgctxt "38799"
+msgid "c_em_c10_ter_kinshishi_07"
+msgstr ""
+
+msgctxt "38825"
+msgid "c_em_c10_ter_kinshishi_08"
+msgstr ""
+
+msgctxt "38851"
+msgid "c_em_c10_ter_kinshishi_09"
+msgstr ""
+
+msgctxt "38877"
+msgid "c_em_c10_ter_kinshishi_11"
+msgstr ""
+
+msgctxt "38903"
+msgid "c_em_c10_ter_kinshishi_10"
+msgstr ""
+
+msgctxt "38929"
+msgid "c_em_c10_ter_kinshishi_12"
+msgstr ""
+
+msgctxt "38955"
+msgid "c_em_c10_ter_kinshishi_16"
+msgstr ""
+
+msgctxt "38981"
+msgid "c_em_c10_ter_kinshishi_13"
+msgstr ""
+
+msgctxt "39007"
+msgid "c_em_c10_ter_kinshishi_14"
+msgstr ""
+
+msgctxt "39033"
+msgid "c_em_c10_ter_kinshishi_15"
+msgstr ""
+
+msgctxt "39059"
+msgid "c_em_c10_ter_kinshishi_18"
+msgstr ""
+
+msgctxt "39085"
+msgid "c_em_c10_ter_kinshishi_17"
+msgstr ""
+
+msgctxt "39111"
+msgid "c_em_c10_ter_kinshishi_19"
+msgstr ""
+
+msgctxt "39137"
+msgid "c_em_c10_ter_kinshishi_20"
+msgstr ""
+
+msgctxt "39163"
+msgid "c_em_c10_ter_kinshishi_01"
+msgstr ""
+
+msgctxt "39189"
+msgid "c_em_c10_ter_kinshishi_02"
+msgstr ""
+
+msgctxt "39215"
+msgid "c_em_c10_ter_kinshishi_03"
+msgstr ""
+
+msgctxt "39241"
+msgid "E_GENE_WPI_run_r_B"
+msgstr ""
+
+msgctxt "39260"
+msgid "c_em_c10_ter_kinshishi_04"
+msgstr ""
+
+msgctxt "39286"
+msgid "c_em_c10_ter_kinshishi_05"
+msgstr ""
+
+msgctxt "39312"
+msgid "E_GENE_WPY_A_run_r"
+msgstr ""
+
+msgctxt "39331"
+msgid "c_em_c10_ter_kinshishi_06"
+msgstr ""
+
+msgctxt "39357"
+msgid "c_em_c08_sen_kinshishi_06"
+msgstr ""
+
+msgctxt "39383"
+msgid "c_em_c08_sen_kinshishi_07"
+msgstr ""
+
+msgctxt "39409"
+msgid "c_em_c08_sen_kinshishi_08"
+msgstr ""
+
+msgctxt "39435"
+msgid "c_em_c08_sen_kinshishi_09"
+msgstr ""
+
+msgctxt "39461"
+msgid "c_em_c08_sen_kinshishi_10"
+msgstr ""
+
+msgctxt "39487"
+msgid "c_em_c08_sen_kinshishi_11"
+msgstr ""
+
+msgctxt "39513"
+msgid "c_em_c08_sen_kinshishi_12"
+msgstr ""
+
+msgctxt "39539"
+msgid "c_em_c08_sen_kinshishi_13"
+msgstr ""
+
+msgctxt "39565"
+msgid "c_em_c08_sen_kinshishi_14"
+msgstr ""
+
+msgctxt "39591"
+msgid "c_em_c08_sen_kinshishi_15"
+msgstr ""
+
+msgctxt "39617"
+msgid "c_em_c08_sen_kinshishi_16"
+msgstr ""
+
+msgctxt "39643"
+msgid "c_em_c08_sen_kinshishi_17"
+msgstr ""
+
+msgctxt "39669"
+msgid "c_em_c08_sen_kinshishi_18"
+msgstr ""
+
+msgctxt "39695"
+msgid "c_em_c14_tos_kinshishi_10"
+msgstr ""
+
+msgctxt "39721"
+msgid "c_em_c14_tos_kinshishi_11"
+msgstr ""
+
+msgctxt "39747"
+msgid "c_em_c14_tos_kinshishi_12"
+msgstr ""
+
+msgctxt "39773"
+msgid "c_em_c14_tos_kinshishi_13"
+msgstr ""
+
+msgctxt "39799"
+msgid "c_em_c14_tos_kinshishi_14"
+msgstr ""
+
+msgctxt "39825"
+msgid "c_em_c14_tos_kinshishi_15"
+msgstr ""
+
+msgctxt "39851"
+msgid "E_GENE_WPI_run_r_A"
+msgstr ""
+
+msgctxt "39870"
+msgid "c_em_c14_tos_kinshishi_06"
+msgstr ""
+
+msgctxt "39896"
+msgid "c_em_c14_tos_kinshishi_07"
+msgstr ""
+
+msgctxt "39922"
+msgid "c_em_c14_tos_kinshishi_08"
+msgstr ""
+
+msgctxt "39948"
+msgid "c_em_c14_tos_kinshishi_09"
+msgstr ""
+
+msgctxt "39974"
+msgid "E_GENE_WPI_run_l_B"
+msgstr ""
+
+msgctxt "39993"
+msgid "c_em_c11_edo_baku_cannon_01"
+msgstr ""
+
+msgctxt "40021"
+msgid "c_em_c11_edo_baku_cannon_02"
+msgstr ""
+
+msgctxt "40049"
+msgid "c_em_c11_edo_baku_cannon_03"
+msgstr ""
+
+msgctxt "40077"
+msgid "c_em_c11_edo_baku_cannon_04"
+msgstr ""
+
+msgctxt "40105"
+msgid "c_em_c11_edo_baku_cannon_05"
+msgstr ""
+
+msgctxt "40133"
+msgid "c_em_c11_edo_baku_cannon_06"
+msgstr ""
+
+msgctxt "40161"
+msgid "c_em_c11_edo_baku_cannon_07"
+msgstr ""
+
+msgctxt "40189"
+msgid "c_em_c11_edo_baku_cannon_08"
+msgstr ""
+
+msgctxt "40217"
+msgid "c_em_c11_edo_baku_cannon_09"
+msgstr ""
+
+msgctxt "40245"
+msgid "c_em_c11_edo_baku_cannon_10"
+msgstr ""
+
+msgctxt "40273"
+msgid "c_em_c11_edo_baku_09"
+msgstr ""
+
+msgctxt "40294"
+msgid "c_em_c11_edo_baku_10"
+msgstr ""
+
+msgctxt "40315"
+msgid "c_em_c11_edo_baku_11"
+msgstr ""
+
+msgctxt "40336"
+msgid "c_em_c11_edo_baku_12"
+msgstr ""
+
+msgctxt "40357"
+msgid "c_em_c11_edo_baku_13"
+msgstr ""
+
+msgctxt "40378"
+msgid "c_em_c11_edo_baku_15"
+msgstr ""
+
+msgctxt "40399"
+msgid "c_em_c11_edo_baku_16"
+msgstr ""
+
+msgctxt "40420"
+msgid "c_em_c11_edo_baku_18"
+msgstr ""
+
+msgctxt "40441"
+msgid "c_em_c11_edo_baku_19"
+msgstr ""
+
+msgctxt "40462"
+msgid "c_em_c13_oum_kinshishi_04"
+msgstr ""
+
+msgctxt "40488"
+msgid "c_em_c13_oum_kinshishi_05"
+msgstr ""
+
+msgctxt "40514"
+msgid "c_em_c13_oum_kinshishi_06"
+msgstr ""
+
+msgctxt "40540"
+msgid "c_em_c13_oum_kinshishi_07"
+msgstr ""
+
+msgctxt "40566"
+msgid "c_em_c13_oum_kinshishi_08"
+msgstr ""
+
+msgctxt "40592"
+msgid "c_em_c13_oum_kinshishi_09"
+msgstr ""
+
+msgctxt "40618"
+msgid "c_em_c13_oum_kinshishi_10"
+msgstr ""
+
+msgctxt "40644"
+msgid "c_em_c13_oum_kinshishi_11"
+msgstr ""
+
+msgctxt "40670"
+msgid "c_em_c13_oum_kinshishi_12"
+msgstr ""
+
+msgctxt "40696"
+msgid "c_em_c13_oum_kinshishi_13"
+msgstr ""
+
+msgctxt "40722"
+msgid "c_em_c13_oum_kinshishi_14"
+msgstr ""
+
+msgctxt "40748"
+msgid "c_em_c13_oum_kinshishi_15"
+msgstr ""
+
+msgctxt "40774"
+msgid "E_GENE_NIN_appear_r_B"
+msgstr ""
+
+msgctxt "40796"
+msgid "E_GENE_NIN_appear_l_B"
+msgstr ""
+
+msgctxt "40818"
+msgid "E_GENE_WPL_run_f"
+msgstr ""
+
+msgctxt "40835"
+msgid "btlmaletoyobushimus"
+msgstr ""
+
+msgctxt "40855"
+msgid "btlmalenarazu"
+msgstr ""
+
+msgctxt "40869"
+msgid "E_GENE_WPI_run_l_A"
+msgstr ""
+
+msgctxt "40888"
+msgid "player_auth"
+msgstr ""
+
+msgctxt "40900"
+msgid "M_NML_TLK_stand_twist_0"
+msgstr ""
+
+msgctxt "40924"
+msgid "c_aw_otose"
+msgstr ""
+
+msgctxt "40935"
+msgid "wedbg0100"
+msgstr ""
+
+msgctxt "40945"
+msgid "c_em_shop_yaoya"
+msgstr ""
+
+msgctxt "40961"
+msgid "c_em_shop_man_05"
+msgstr ""
+
+msgctxt "40978"
+msgid "c_ew_shop_woman_03"
+msgstr ""
+
+msgctxt "40997"
+msgid "c_em_c02_020_dojo1"
+msgstr ""
+
+msgctxt "41016"
+msgid "c_em_c02_020_dojo2"
+msgstr ""
+
+msgctxt "41035"
+msgid "c_em_c02_020_dojo3"
+msgstr ""
+
+msgctxt "41054"
+msgid "c_em_c02_020_dojo4"
+msgstr ""
+
+msgctxt "41073"
+msgid "c_em_c02_020_dojo5"
+msgstr ""
+
+msgctxt "41092"
+msgid "M_CHO_ACT_chair_drink_01"
+msgstr ""
+
+msgctxt "41117"
+msgid "acdev1020"
+msgstr ""
+
+msgctxt "41127"
+msgid "c_em_t_man_02"
+msgstr ""
+
+msgctxt "41141"
+msgid "c_ew_t_woman_02"
+msgstr ""
+
+msgctxt "41157"
+msgid "F_CHO_ACT_chair_drink_01"
+msgstr ""
+
+msgctxt "41182"
+msgid "ADV_F_CHO_LAYOUT_SIT"
+msgstr ""
+
+msgctxt "41203"
+msgid "acdev1025"
+msgstr ""
+
+msgctxt "41213"
+msgid "c_ew_shop_woman_07"
+msgstr ""
+
+msgctxt "41232"
+msgid "malechonin"
+msgstr ""
+
+msgctxt "41243"
+msgid "M_CHO_ACT_chair_eat_01"
+msgstr ""
+
+msgctxt "41266"
+msgid "acdev1260"
+msgstr ""
+
+msgctxt "41276"
+msgid "femalechonin"
+msgstr ""
+
+msgctxt "41289"
+msgid "M_CHO_ACT_chair_drink_sake_lp"
+msgstr ""
+
+msgctxt "41319"
+msgid "acsce0910"
+msgstr ""
+
+msgctxt "41329"
+msgid "F_CHO_ACT_chair_eat_01"
+msgstr ""
+
+msgctxt "41352"
+msgid "acdev1250"
+msgstr ""
+
+msgctxt "41362"
+msgid "c_em_shop_man_06"
+msgstr ""
+
+msgctxt "41379"
+msgid "C07015_SOL_1_kamae"
+msgstr ""
+
+msgctxt "41398"
+msgid "C07015_SOL_1"
+msgstr ""
+
+msgctxt "41411"
+msgid "acsce0730"
+msgstr ""
+
+msgctxt "41421"
+msgid "c_em_shop_sin_guard_02"
+msgstr ""
+
+msgctxt "41444"
+msgid "C07015_SOL_2_kamae"
+msgstr ""
+
+msgctxt "41463"
+msgid "C07015_SOL_2"
+msgstr ""
+
+msgctxt "41476"
+msgid "Gatekeeper"
+msgstr ""
+
+msgctxt "41487"
+msgid "malesinsen"
+msgstr ""
+
+msgctxt "41498"
+msgid "M_CHO_ACT_stand_wall_motare_lp"
+msgstr ""
+
+msgctxt "41529"
+msgid "lean"
+msgstr ""
+
+msgctxt "41534"
+msgid "M_CHO_ACT_stand_atc_good_A_lp"
+msgstr ""
+
+msgctxt "41564"
+msgid "M_BUS_TLK_stand_yes"
+msgstr ""
+
+msgctxt "41584"
+msgid "M_BUS_TLK_stand_no"
+msgstr ""
+
+msgctxt "41603"
+msgid "M_BUS_TLK_stand_think"
+msgstr ""
+
+msgctxt "41625"
+msgid "malemonogoi"
+msgstr ""
+
+msgctxt "41637"
+msgid "M_CHO_ACT_agura_drink_01"
+msgstr ""
+
+msgctxt "41662"
+msgid "M_CHO_ACT_agura_drink_sake_lp"
+msgstr ""
+
+msgctxt "41692"
+msgid "agura_drink"
+msgstr ""
+
+msgctxt "41704"
+msgid "agura_sake"
+msgstr ""
+
+msgctxt "41715"
+msgid "M_MKR_ACT_agura_akutai"
+msgstr ""
+
+msgctxt "41738"
+msgid "agura_talk"
+msgstr ""
+
+msgctxt "41749"
+msgid "agura_angry"
+msgstr ""
+
+msgctxt "41761"
+msgid "M_MKR_ACT_agura_talk_lp"
+msgstr ""
+
+msgctxt "41785"
+msgid "M_MKR_ACT_stand_tlk"
+msgstr ""
+
+msgctxt "41805"
+msgid "M_MKR_ACT_agura_talk_en"
+msgstr ""
+
+msgctxt "41829"
+msgid "M_MKR_ACT_agura_kamae"
+msgstr ""
+
+msgctxt "41851"
+msgid "C02165_ROU_4_agura_lp"
+msgstr ""
+
+msgctxt "41873"
+msgid "c_em_shop_man_10"
+msgstr ""
+
+msgctxt "41890"
+msgid "femalechildbig"
+msgstr ""
+
+msgctxt "41905"
+msgid "chair_eat"
+msgstr ""
+
+msgctxt "41915"
+msgid "malechildbig"
+msgstr ""
+
+msgctxt "41928"
+msgid "ADV_KID_BASE"
+msgstr ""
+
+msgctxt "41941"
+msgid "F_CHO_ACT_shagami_work_lp"
+msgstr ""
+
+msgctxt "41967"
+msgid "malechildsmall"
+msgstr ""
+
+msgctxt "41982"
+msgid "M_CHO_ACT_shagami_work_lp"
+msgstr ""
+
+msgctxt "42008"
+msgid "ADV_M_CHO_LAYOUT_STAND"
+msgstr ""
+
+msgctxt "42031"
+msgid "shagami_work"
+msgstr ""
+
+msgctxt "42044"
+msgid "F_SHP_ACT_stand_talking_A_lp"
+msgstr ""
+
+msgctxt "42073"
+msgid "stand_talk_jump"
+msgstr ""
+
+msgctxt "42089"
+msgid "M_CHO_ACT_stand_atc_yes"
+msgstr ""
+
+msgctxt "42113"
+msgid "M_CHO_TLK_agura_think"
+msgstr ""
+
+msgctxt "42135"
+msgid "talk_kansin"
+msgstr ""
+
+msgctxt "42147"
+msgid "talk_no"
+msgstr ""
+
+msgctxt "42155"
+msgid "talk_sad"
+msgstr ""
+
+msgctxt "42164"
+msgid "malesendou"
+msgstr ""
+
+msgctxt "42175"
+msgid "M_NAK_TLK_agura_fukasu"
+msgstr ""
+
+msgctxt "42198"
+msgid "talk_kiseru_think"
+msgstr ""
+
+msgctxt "42216"
+msgid "talk_kiseru_quest"
+msgstr ""
+
+msgctxt "42234"
+msgid "F_CHO_ACT_seiza_drink_01"
+msgstr ""
+
+msgctxt "42259"
+msgid "Barker"
+msgstr ""
+
+msgctxt "42266"
+msgid "c_em_shop_man_04"
+msgstr ""
+
+msgctxt "42283"
+msgid "M_KWR_ACT_talk_lp"
+msgstr ""
+
+msgctxt "42301"
+msgid "acdev1030"
+msgstr ""
+
+msgctxt "42311"
+msgid "acdev1040"
+msgstr ""
+
+msgctxt "42321"
+msgid "acdev1060"
+msgstr ""
+
+msgctxt "42331"
+msgid "stand_fishing"
+msgstr ""
+
+msgctxt "42345"
+msgid "c_ek_k_boy_02"
+msgstr ""
+
+msgctxt "42359"
+msgid "M_CLD_ACT_stand_tsuri_lp"
+msgstr ""
+
+msgctxt "42384"
+msgid "acdev1055"
+msgstr ""
+
+msgctxt "42394"
+msgid "c_d36_mg_kochin_multi01"
+msgstr ""
+
+msgctxt "42418"
+msgid "MnG47_A_COC_ready_bad"
+msgstr ""
+
+msgctxt "42440"
+msgid "c_d36_mg_kochin_multi02"
+msgstr ""
+
+msgctxt "42464"
+msgid "WatchAnimal"
+msgstr ""
+
+msgctxt "42476"
+msgid "c_ek_shop_girl_01"
+msgstr ""
+
+msgctxt "42494"
+msgid "c_ew_shop_susi"
+msgstr ""
+
+msgctxt "42509"
+msgid "c_ew_shop_donki"
+msgstr ""
+
+msgctxt "42525"
+msgid "c_ek_shop_boy_02"
+msgstr ""
+
+msgctxt "42542"
+msgid "c_em_shop_man_07"
+msgstr ""
+
+msgctxt "42559"
+msgid "c_ew_shop_woman_04"
+msgstr ""
+
+msgctxt "42578"
+msgid "c_ew_shop_woman_01"
+msgstr ""
+
+msgctxt "42597"
+msgid "c_ew_shop_woman_05"
+msgstr ""
+
+msgctxt "42616"
+msgid "M_CHO_ACT_stand_atc_gesture"
+msgstr ""
+
+msgctxt "42644"
+msgid "c_em_t_oldman_03"
+msgstr ""
+
+msgctxt "42661"
+msgid "c_ew_t_woman_10"
+msgstr ""
+
+msgctxt "42677"
+msgid "竹中"
+msgstr ""
+
+msgctxt "42682"
+msgid "ShopClerk"
+msgstr ""
+
+msgctxt "42692"
+msgid "c_ew_shop_watami_02"
+msgstr ""
+
+msgctxt "42712"
+msgid "malechoninhigh"
+msgstr ""
+
+msgctxt "42727"
+msgid "c_em_shop_fuji"
+msgstr ""
+
+msgctxt "42742"
+msgid "maleshonin"
+msgstr ""
+
+msgctxt "42753"
+msgid "c_ek_k_girl_01"
+msgstr ""
+
+msgctxt "42768"
+msgid "M_CLD_ACT_stand_shabon_lp"
+msgstr ""
+
+msgctxt "42794"
+msgid "acdev1270"
+msgstr ""
+
+msgctxt "42804"
+msgid "acdev1275"
+msgstr ""
+
+msgctxt "42814"
+msgid "stand_syabon"
+msgstr ""
+
+msgctxt "42827"
+msgid "c_ek_shop_boy_03"
+msgstr ""
+
+msgctxt "42844"
+msgid "talk_ase"
+msgstr ""
+
+msgctxt "42853"
+msgid "RunAway"
+msgstr ""
+
+msgctxt "42861"
+msgid "c_d05_cat_white"
+msgstr ""
+
+msgctxt "42877"
+msgid "c_em_trakugai_man_02"
+msgstr ""
+
+msgctxt "42898"
+msgid "c_em_trakugai_man_05"
+msgstr ""
+
+msgctxt "42919"
+msgid "femalechildsmall"
+msgstr ""
+
+msgctxt "42936"
+msgid "M_CLD_ACT_walk_koke_lp"
+msgstr ""
+
+msgctxt "42959"
+msgid "tumble_f"
+msgstr ""
+
+msgctxt "42968"
+msgid "stand_talk_low"
+msgstr ""
+
+msgctxt "42983"
+msgid "M_CLD_ACT_shagami_talk_lp"
+msgstr ""
+
+msgctxt "43009"
+msgid "care"
+msgstr ""
+
+msgctxt "43014"
+msgid "c_em_shop_man_03"
+msgstr ""
+
+msgctxt "43031"
+msgid "c_em_c00_k_man_01"
+msgstr ""
+
+msgctxt "43049"
+msgid "c_em_t_man_14"
+msgstr ""
+
+msgctxt "43063"
+msgid "TestBehavior"
+msgstr ""
+
+msgctxt "43076"
+msgid "c_em_te00_gold"
+msgstr ""
+
+msgctxt "43091"
+msgid "WEDBG0500"
+msgstr ""
+
+msgctxt "43101"
+msgid "stand_hello"
+msgstr ""
+
+msgctxt "43113"
+msgid "c_ew_t_woman_01"
+msgstr ""
+
+msgctxt "43129"
+msgid "c_ek_t_boy_01"
+msgstr ""
+
+msgctxt "43143"
+msgid "TestSpeak"
+msgstr ""
+
+msgctxt "43153"
+msgid "HousekeeperHaruka"
+msgstr ""
+
+msgctxt "43171"
+msgid "acdev3200"
+msgstr ""
+
+msgctxt "43181"
+msgid "acdev3110"
+msgstr ""
+
+msgctxt "43191"
+msgid "ADV_M_DHC_BASE"
+msgstr ""
+
+msgctxt "43206"
+msgid "F_CHO_ACT_stand_yaji_A_lp"
+msgstr ""
+
+msgctxt "43232"
+msgid "c_ek_k_boy_01"
+msgstr ""
+
+msgctxt "43246"
+msgid "M_CLD_ACT_stand_talk_lp"
+msgstr ""
+
+msgctxt "43270"
+msgid "F_HAL_TLK_stand_think"
+msgstr ""
+
+msgctxt "43292"
+msgid "c_ew_shop_woman_02"
+msgstr ""
+
+msgctxt "43311"
+msgid "F_CHO_ACT_stand_work_lp"
+msgstr ""
+
+msgctxt "43335"
+msgid "ADV_F_CHO_LAYOUT_STAND"
+msgstr ""
+
+msgctxt "43358"
+msgid "stand_work"
+msgstr ""
+
+msgctxt "43369"
+msgid "tosamalechonin"
+msgstr ""
+
+msgctxt "43384"
+msgid "malechoninold"
+msgstr ""
+
+msgctxt "43398"
+msgid "F_CHO_ACT_chair_eat_chawan_lp"
+msgstr ""
+
+msgctxt "43428"
+msgid "M_CHO_ACT_stand_work_lp"
+msgstr ""
+
+msgctxt "43452"
+msgid "c_em_k_shokunin_02"
+msgstr ""
+
+msgctxt "43471"
+msgid "c_em_k_shokunin_03"
+msgstr ""
+
+msgctxt "43490"
+msgid "c_em_k_shokunin_04"
+msgstr ""
+
+msgctxt "43509"
+msgid "M_CHO_ACT_chair_eat_udon_lp"
+msgstr ""
+
+msgctxt "43537"
+msgid "acdev1210"
+msgstr ""
+
+msgctxt "43547"
+msgid "c_ew_shop_woman_09"
+msgstr ""
+
+msgctxt "43566"
+msgid "F_CHO_ACT_chair_eat_udon_lp"
+msgstr ""
+
+msgctxt "43594"
+msgid "acdev1220"
+msgstr ""
+
+msgctxt "43604"
+msgid "femalechoninold"
+msgstr ""
+
+msgctxt "43620"
+msgid "F_CHO_TLK_stand_yes"
+msgstr ""
+
+msgctxt "43640"
+msgid "femaleshoninmiddle"
+msgstr ""
+
+msgctxt "43659"
+msgid "M_CHO_ACT_stand_atc_think_want"
+msgstr ""
+
+msgctxt "43690"
+msgid "kyoto_audience_f"
+msgstr ""
+
+msgctxt "43707"
+msgid "F_CHO_ACT_stand_look_item_lp"
+msgstr ""
+
+msgctxt "43736"
+msgid "F_CHO_ACT_seiza_eat_chawan_lp"
+msgstr ""
+
+msgctxt "43766"
+msgid "c_em_trakugai_man_07"
+msgstr ""
+
+msgctxt "43787"
+msgid "c_em_trakugai_man_09"
+msgstr ""
+
+msgctxt "43808"
+msgid "c_em_trakugai_man_10"
+msgstr ""
+
+msgctxt "43829"
+msgid "M_CHO_ACT_agura_eat_chawan_lp"
+msgstr ""
+
+msgctxt "43859"
+msgid "c_em_trakugai_man_08"
+msgstr ""
+
+msgctxt "43880"
+msgid "ADV_M_BUS_LAYOUT_STAND"
+msgstr ""
+
+msgctxt "43903"
+msgid "stand_suburi"
+msgstr ""
+
+msgctxt "43916"
+msgid "M_SIN_ACT_agura_tonjo_A_lp"
+msgstr ""
+
+msgctxt "43943"
+msgid "agura_think_a"
+msgstr ""
+
+msgctxt "43957"
+msgid "agura_todo_a"
+msgstr ""
+
+msgctxt "43970"
+msgid "M_BUS_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "43993"
+msgid "C13012_TOD_B"
+msgstr ""
+
+msgctxt "44006"
+msgid "agura_todo_b"
+msgstr ""
+
+msgctxt "44019"
+msgid "tosamalechoninold"
+msgstr ""
+
+msgctxt "44037"
+msgid "chair_drink"
+msgstr ""
+
+msgctxt "44049"
+msgid "tosa_audience_m"
+msgstr ""
+
+msgctxt "44065"
+msgid "tosafemalechoninmiddle"
+msgstr ""
+
+msgctxt "44088"
+msgid "c_ew_shop_woman_10"
+msgstr ""
+
+msgctxt "44107"
+msgid "c_em_c00_k_tman_08"
+msgstr ""
+
+msgctxt "44126"
+msgid "c_em_c00_k_man_10"
+msgstr ""
+
+msgctxt "44144"
+msgid "c_ew_c00_k_woman_14"
+msgstr ""
+
+msgctxt "44164"
+msgid "P_MOV_dam_lp"
+msgstr ""
+
+msgctxt "44177"
+msgid "c_ew_trakugai_woman_03"
+msgstr ""
+
+msgctxt "44200"
+msgid "c_em_c00_k_man_11"
+msgstr ""
+
+msgctxt "44218"
+msgid "c_ew_k_woman_16"
+msgstr ""
+
+msgctxt "44234"
+msgid "c_ew_k_woman_10"
+msgstr ""
+
+msgctxt "44250"
+msgid "F_ANA_SAK_drink_nml_lose_lp"
+msgstr ""
+
+msgctxt "44278"
+msgid "c_ew_k_woman_19"
+msgstr ""
+
+msgctxt "44294"
+msgid "MnG09Tubo_F_seiza_angry_lp"
+msgstr ""
+
+msgctxt "44321"
+msgid "c_ew_c00_k_oldwoman_06"
+msgstr ""
+
+msgctxt "44344"
+msgid "c_ew_trakugai_woman_04"
+msgstr ""
+
+msgctxt "44367"
+msgid "c_em_trakugai_man_03"
+msgstr ""
+
+msgctxt "44388"
+msgid "c_ew_k_oldwoman_05"
+msgstr ""
+
+msgctxt "44407"
+msgid "c_ew_k_woman_20"
+msgstr ""
+
+msgctxt "44423"
+msgid "c_ew_shop_woman_08"
+msgstr ""
+
+msgctxt "44442"
+msgid "c_em_shop_sendo_02"
+msgstr ""
+
+msgctxt "44461"
+msgid "c_d38_pe04_dog"
+msgstr ""
+
+msgctxt "44476"
+msgid "c_em_c00_k_oldman_03"
+msgstr ""
+
+msgctxt "44497"
+msgid "c_ew_c00_k_woman_05"
+msgstr ""
+
+msgctxt "44517"
+msgid "c_em_r_man_02"
+msgstr ""
+
+msgctxt "44531"
+msgid "c_em_c00_k_man_04"
+msgstr ""
+
+msgctxt "44549"
+msgid "c_em_c00_k_tman_05"
+msgstr ""
+
+msgctxt "44568"
+msgid "c_em_ft17"
+msgstr ""
+
+msgctxt "44578"
+msgid "c_ew_k_woman_17"
+msgstr ""
+
+msgctxt "44594"
+msgid "c_ew_c00_k_oldwoman_01"
+msgstr ""
+
+msgctxt "44617"
+msgid "c_ew_k_woman_08"
+msgstr ""
+
+msgctxt "44633"
+msgid "c_ew_k_woman_18"
+msgstr ""
+
+msgctxt "44649"
+msgid "c_ew_k_woman_07"
+msgstr ""
+
+msgctxt "44665"
+msgid "c_em_b_busi_11"
+msgstr ""
+
+msgctxt "44680"
+msgid "c_em_c00_k_man_12"
+msgstr ""
+
+msgctxt "44698"
+msgid "c_ew_c00_k_woman_17"
+msgstr ""
+
+msgctxt "44718"
+msgid "c_em_c00_k_man_07"
+msgstr ""
+
+msgctxt "44736"
+msgid "c_ek_k_girl_02"
+msgstr ""
+
+msgctxt "44751"
+msgid "c_em_c00_k_man_15"
+msgstr ""
+
+msgctxt "44769"
+msgid "c_em_c00_k_oldman_07"
+msgstr ""
+
+msgctxt "44790"
+msgid "c_em_shop_man_08"
+msgstr ""
+
+msgctxt "44807"
+msgid "c_em_c00_k_man_13"
+msgstr ""
+
+msgctxt "44825"
+msgid "c_em_shop_man_09"
+msgstr ""
+
+msgctxt "44842"
+msgid "c_em_k_oldman_05"
+msgstr ""
+
+msgctxt "44859"
+msgid "c_ew_shop_gindako"
+msgstr ""
+
+msgctxt "44877"
+msgid "c_em_ss06_man_02"
+msgstr ""
+
+msgctxt "44894"
+msgid "c_ew_ss06_man_01"
+msgstr ""
+
+msgctxt "44911"
+msgid "c_em_ss06_man_01"
+msgstr ""
+
+msgctxt "44928"
+msgid "c_em_ss06_ebisu"
+msgstr ""
+
+msgctxt "44944"
+msgid "c_em_ss15_man_03"
+msgstr ""
+
+msgctxt "44961"
+msgid "c_em_ss15_man_04"
+msgstr ""
+
+msgctxt "44978"
+msgid "c_ew_ss15_mother"
+msgstr ""
+
+msgctxt "44995"
+msgid "c_ek_ss15_kodomo"
+msgstr ""
+
+msgctxt "45012"
+msgid "c_em_ss15_man_02"
+msgstr ""
+
+msgctxt "45029"
+msgid "c_em_ss15_kamatukai"
+msgstr ""
+
+msgctxt "45049"
+msgid "E_btlst_JYU_01"
+msgstr ""
+
+msgctxt "45064"
+msgid "鎌本"
+msgstr ""
+
+msgctxt "45069"
+msgid "c_em_ss15_konohakama"
+msgstr ""
+
+msgctxt "45090"
+msgid "このは"
+msgstr ""
+
+msgctxt "45097"
+msgid "c_em_ss15_man_01"
+msgstr ""
+
+msgctxt "45114"
+msgid "ぼたん"
+msgstr ""
+
+msgctxt "45121"
+msgid "c_em_ss15_okama_01"
+msgstr ""
+
+msgctxt "45140"
+msgid "さくら"
+msgstr ""
+
+msgctxt "45147"
+msgid "c_em_ss15_okama_02"
+msgstr ""
+
+msgctxt "45166"
+msgid "E_btlst_nml_04"
+msgstr ""
+
+msgctxt "45181"
+msgid "かえで"
+msgstr ""
+
+msgctxt "45188"
+msgid "c_em_ss15_okama_03"
+msgstr ""
+
+msgctxt "45207"
+msgid "つつじ"
+msgstr ""
+
+msgctxt "45214"
+msgid "c_em_ss15_okama_04"
+msgstr ""
+
+msgctxt "45233"
+msgid "E_btlst_nml_06"
+msgstr ""
+
+msgctxt "45248"
+msgid "なずな"
+msgstr ""
+
+msgctxt "45255"
+msgid "c_em_ss15_konoha"
+msgstr ""
+
+msgctxt "45272"
+msgid "c_em_ss22_man_01"
+msgstr ""
+
+msgctxt "45289"
+msgid "c_em_ss22_man_02"
+msgstr ""
+
+msgctxt "45306"
+msgid "c_em_ss24_man_01"
+msgstr ""
+
+msgctxt "45323"
+msgid "c_ew_ss24_woman_01"
+msgstr ""
+
+msgctxt "45342"
+msgid "c_em_ss24_man_02"
+msgstr ""
+
+msgctxt "45359"
+msgid "c_em_ss24_man_03"
+msgstr ""
+
+msgctxt "45376"
+msgid "c_em_ss24_man_04"
+msgstr ""
+
+msgctxt "45393"
+msgid "c_em_ss24_man_05"
+msgstr ""
+
+msgctxt "45410"
+msgid "stand_caution_sign"
+msgstr ""
+
+msgctxt "45429"
+msgid "c_em_ss24_man_06"
+msgstr ""
+
+msgctxt "45446"
+msgid "c_em_ss24_man_07"
+msgstr ""
+
+msgctxt "45463"
+msgid "c_em_ss24_man_08"
+msgstr ""
+
+msgctxt "45480"
+msgid "stand_caution_l"
+msgstr ""
+
+msgctxt "45496"
+msgid "stand_caution_r"
+msgstr ""
+
+msgctxt "45512"
+msgid "c_em_ss24_joyman_01"
+msgstr ""
+
+msgctxt "45532"
+msgid "松井"
+msgstr ""
+
+msgctxt "45537"
+msgid "c_em_ss24_joyman_02"
+msgstr ""
+
+msgctxt "45557"
+msgid "小泉"
+msgstr ""
+
+msgctxt "45562"
+msgid "c_em_ss24_joyman_03"
+msgstr ""
+
+msgctxt "45582"
+msgid "田辺"
+msgstr ""
+
+msgctxt "45587"
+msgid "c_em_ss38_man_01"
+msgstr ""
+
+msgctxt "45604"
+msgid "筒井"
+msgstr ""
+
+msgctxt "45609"
+msgid "c_em_ss38_man_02"
+msgstr ""
+
+msgctxt "45626"
+msgid "丹羽"
+msgstr ""
+
+msgctxt "45631"
+msgid "c_em_ss38_man_03"
+msgstr ""
+
+msgctxt "45648"
+msgid "伊藤"
+msgstr ""
+
+msgctxt "45653"
+msgid "c_em_ss38_man_04"
+msgstr ""
+
+msgctxt "45670"
+msgid "岡野"
+msgstr ""
+
+msgctxt "45675"
+msgid "c_em_ss38_man_05"
+msgstr ""
+
+msgctxt "45692"
+msgid "内田"
+msgstr ""
+
+msgctxt "45697"
+msgid "c_em_ss38_man_06"
+msgstr ""
+
+msgctxt "45714"
+msgid "KDT"
+msgstr ""
+
+msgctxt "45718"
+msgid "阿部"
+msgstr ""
+
+msgctxt "45723"
+msgid "c_em_ss06_kuroebisu"
+msgstr ""
+
+msgctxt "45743"
+msgid "黒恵比寿"
+msgstr ""
+
+msgctxt "45752"
+msgid "c_em_ss39_man_02"
+msgstr ""
+
+msgctxt "45769"
+msgid "藤本"
+msgstr ""
+
+msgctxt "45774"
+msgid "c_em_ss39_man_03"
+msgstr ""
+
+msgctxt "45791"
+msgid "c_em_ss39_man_04"
+msgstr ""
+
+msgctxt "45808"
+msgid "c_em_ss42_kiyo"
+msgstr ""
+
+msgctxt "45823"
+msgid "M_HKK_SS_dam_talk_kamae"
+msgstr ""
+
+msgctxt "45847"
+msgid "c_em_ss43_inamoto"
+msgstr ""
+
+msgctxt "45865"
+msgid "c_em_ss46_hosi"
+msgstr ""
+
+msgctxt "45880"
+msgid "c_em_ss45_makino"
+msgstr ""
+
+msgctxt "45897"
+msgid "c_em_ss44_takeda"
+msgstr ""
+
+msgctxt "45914"
+msgid "c_ew_shop_ageya"
+msgstr ""
+
+msgctxt "45930"
+msgid "c_ab_ryoma_k"
+msgstr ""
+
+msgctxt "45943"
+msgid "P_KRU_TLK_sit2_lp"
+msgstr ""
+
+msgctxt "45961"
+msgid "c_aa_anna_sit"
+msgstr ""
+
+msgctxt "45975"
+msgid "F_ANA_TLK_sit_lp"
+msgstr ""
+
+msgctxt "45992"
+msgid "c_aa_anna"
+msgstr ""
+
+msgctxt "46002"
+msgid "F_ANA_TLK_stand_greet_lp"
+msgstr ""
+
+msgctxt "46027"
+msgid "c_em_ss28_teacher"
+msgstr ""
+
+msgctxt "46045"
+msgid "c_ek_ss28_student_01"
+msgstr ""
+
+msgctxt "46066"
+msgid "M_CLD_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "46088"
+msgid "ADV_M_CLD_SEIZA"
+msgstr ""
+
+msgctxt "46104"
+msgid "c_ek_ss28_student_02"
+msgstr ""
+
+msgctxt "46125"
+msgid "c_ek_ss28_student_04"
+msgstr ""
+
+msgctxt "46146"
+msgid "c_aw_haruka_toff"
+msgstr ""
+
+msgctxt "46163"
+msgid "F_HAL_AL_soine_kamae"
+msgstr ""
+
+msgctxt "46184"
+msgid "P_KRU_AL_soine_kamae"
+msgstr ""
+
+msgctxt "46205"
+msgid "F_HAL_AL_mimi_kamae"
+msgstr ""
+
+msgctxt "46225"
+msgid "acdev3510"
+msgstr ""
+
+msgctxt "46235"
+msgid "P_KRU_AL_mimi_kamae"
+msgstr ""
+
+msgctxt "46255"
+msgid "P_KRU_AL_senaka_kamae"
+msgstr ""
+
+msgctxt "46277"
+msgid "F_HAL_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "46299"
+msgid "acdev3550"
+msgstr ""
+
+msgctxt "46309"
+msgid "c_aw_anna_juban2"
+msgstr ""
+
+msgctxt "46326"
+msgid "F_ANA_SAK_seiza_B_lp"
+msgstr ""
+
+msgctxt "46347"
+msgid "c_ew_ss46_hirakawa"
+msgstr ""
+
+msgctxt "46366"
+msgid "c_ew_ss46_fan_01"
+msgstr ""
+
+msgctxt "46383"
+msgid "c_ew_ss46_fan_02"
+msgstr ""
+
+msgctxt "46400"
+msgid "amb_kyoto_mukuro_hiru.hca"
+msgstr ""
+
+msgctxt "46426"
+msgid "amb_kyoto_mukuro_yu.hca"
+msgstr ""
+
+msgctxt "46450"
+msgid "amb_kyoto_mukuro_yoru.hca"
+msgstr ""
+
+msgctxt "46476"
+msgid "ambbase_kyoto_mukuro_hiru.adx"
+msgstr ""
+
+msgctxt "46506"
+msgid "ambbase_kyoto_mukuro_yoru.adx"
+msgstr ""
+
+msgctxt "46536"
+msgid "amb_kyoto_rakunai_hiru.hca"
+msgstr ""
+
+msgctxt "46563"
+msgid "amb_kyoto_rakunai_yu.hca"
+msgstr ""
+
+msgctxt "46588"
+msgid "amb_kyoto_rakunai_yoru.hca"
+msgstr ""
+
+msgctxt "46615"
+msgid "ambbase_kyoto_hiru.adx"
+msgstr ""
+
+msgctxt "46638"
+msgid "ambbase_kyoto_yoru.adx"
+msgstr ""
+
+msgctxt "46661"
+msgid "amb_kyoto_mukuro_gaya.hca"
+msgstr ""
+
+msgctxt "46687"
+msgid "amb_kyoto_rakugai_hiru.hca"
+msgstr ""
+
+msgctxt "46714"
+msgid "amb_kyoto_rakugai_yu.hca"
+msgstr ""
+
+msgctxt "46739"
+msgid "amb_kyoto_rakugai_yoru.hca"
+msgstr ""
+
+msgctxt "46766"
+msgid "amb_tosa_yousai_un02.hca"
+msgstr ""
+
+msgctxt "46791"
+msgid "amb_kyoto_fushimi_hiru.hca"
+msgstr ""
+
+msgctxt "46818"
+msgid "amb_kyoto_fushimi_yu.hca"
+msgstr ""
+
+msgctxt "46843"
+msgid "amb_kyoto_fushimi_yoru.hca"
+msgstr ""
+
+msgctxt "46870"
+msgid "amb_teradaya.hca"
+msgstr ""
+
+msgctxt "46887"
+msgid "amb_teradaya_yu.hca"
+msgstr ""
+
+msgctxt "46907"
+msgid "amb_teradaya_yoru.hca"
+msgstr ""
+
+msgctxt "46929"
+msgid "ambbase_teradaya.adx"
+msgstr ""
+
+msgctxt "46950"
+msgid "amb_kyoto_rakugai_tower.hca"
+msgstr ""
+
+msgctxt "46978"
+msgid "amb_silent_hanyou.hca"
+msgstr ""
+
+msgctxt "47000"
+msgid "ambbase_silent_in_hanyou.adx"
+msgstr ""
+
+msgctxt "47029"
+msgid "amb_teradaya_fire.hca"
+msgstr ""
+
+msgctxt "47051"
+msgid "advbgm_kinpaku_fire.hca"
+msgstr ""
+
+msgctxt "47075"
+msgid "amb_kyoto_fushimi_asa.hca"
+msgstr ""
+
+msgctxt "47101"
+msgid "malechoninmiddle"
+msgstr ""
+
+msgctxt "47118"
+msgid "maleshoninold"
+msgstr ""
+
+msgctxt "47132"
+msgid "femaleshonin"
+msgstr ""
+
+msgctxt "47145"
+msgid "kyoto_walker"
+msgstr ""
+
+msgctxt "47158"
+msgid "c_em_tzn_blue_03"
+msgstr ""
+
+msgctxt "47175"
+msgid "c_em_shop_majan"
+msgstr ""
+
+msgctxt "47191"
+msgid "M_YKZ_ACT_agura_majan_lp"
+msgstr ""
+
+msgctxt "47216"
+msgid "ADV_M_YKZ_AGURA"
+msgstr ""
+
+msgctxt "47232"
+msgid "c_em_b_narazu_07"
+msgstr ""
+
+msgctxt "47249"
+msgid "c_em_b_narazu_03"
+msgstr ""
+
+msgctxt "47266"
+msgid "c_em_b_narazu_04"
+msgstr ""
+
+msgctxt "47283"
+msgid "c_em_shop_izakaya"
+msgstr ""
+
+msgctxt "47301"
+msgid "c_em_shop_bukiya_01"
+msgstr ""
+
+msgctxt "47321"
+msgid "c_ew_shop_watami"
+msgstr ""
+
+msgctxt "47338"
+msgid "c_em_shop_koryori"
+msgstr ""
+
+msgctxt "47356"
+msgid "c_em_shop_shichiya_02"
+msgstr ""
+
+msgctxt "47378"
+msgid "c_em_shop_susi"
+msgstr ""
+
+msgctxt "47393"
+msgid "c_em_shop_kusuri_02"
+msgstr ""
+
+msgctxt "47413"
+msgid "c_em_shop_donki"
+msgstr ""
+
+msgctxt "47429"
+msgid "M_YKZ_ACT_agura_toba_B_lp"
+msgstr ""
+
+msgctxt "47455"
+msgid "M_YKZ_ACT_agura_toba_A_lp"
+msgstr ""
+
+msgctxt "47481"
+msgid "M_RUN_ACT_agura_toba_A_lp"
+msgstr ""
+
+msgctxt "47507"
+msgid "c_ew_shop_tea_t"
+msgstr ""
+
+msgctxt "47523"
+msgid "c_em_shop_izakaya_02"
+msgstr ""
+
+msgctxt "47544"
+msgid "M_SHP_ACT_kamifubuki_lp"
+msgstr ""
+
+msgctxt "47568"
+msgid "acdev1280"
+msgstr ""
+
+msgctxt "47578"
+msgid "F_CHO_ACT_stand_atc_bad_L_lp"
+msgstr ""
+
+msgctxt "47607"
+msgid "M_CHO_ACT_chair_eat_sushi_lp"
+msgstr ""
+
+msgctxt "47636"
+msgid "F_CHO_ACT_stand_choose_item"
+msgstr ""
+
+msgctxt "47664"
+msgid "c_em_shop_hana_01"
+msgstr ""
+
+msgctxt "47682"
+msgid "c_em_shop_kamatora"
+msgstr ""
+
+msgctxt "47701"
+msgid "tosafemalechoninold"
+msgstr ""
+
+msgctxt "47721"
+msgid "c_ew_shop_hanako"
+msgstr ""
+
+msgctxt "47738"
+msgid "c_ew_shop_hanako_01"
+msgstr ""
+
+msgctxt "47758"
+msgid "c_ew_shop_hanako_02"
+msgstr ""
+
+msgctxt "47778"
+msgid "c_ew_shop_hanako_03"
+msgstr ""
+
+msgctxt "47798"
+msgid "c_ew_shop_fuku_01"
+msgstr ""
+
+msgctxt "47816"
+msgid "wemap7061"
+msgstr ""
+
+msgctxt "47826"
+msgid "C05070_TOD_kamae"
+msgstr ""
+
+msgctxt "47843"
+msgid "c_em_shop_hikyaku_01"
+msgstr ""
+
+msgctxt "47864"
+msgid "ADV_M_HKK_STAND"
+msgstr ""
+
+msgctxt "47880"
+msgid "acdev1160"
+msgstr ""
+
+msgctxt "47890"
+msgid "c_ew_shop_fuku_02"
+msgstr ""
+
+msgctxt "47908"
+msgid "c_em_shop_bukiya_02"
+msgstr ""
+
+msgctxt "47928"
+msgid "c_ew_shop_fuji"
+msgstr ""
+
+msgctxt "47943"
+msgid "c_em_shop_tubo_01"
+msgstr ""
+
+msgctxt "47961"
+msgid "agura_think_b"
+msgstr ""
+
+msgctxt "47975"
+msgid "M_MKR_ACT_agura_talk_st"
+msgstr ""
+
+msgctxt "47999"
+msgid "talk_quest"
+msgstr ""
+
+msgctxt "48010"
+msgid "M_CHO_TLK_seiza_kansin"
+msgstr ""
+
+msgctxt "48033"
+msgid "agura_toba_a"
+msgstr ""
+
+msgctxt "48046"
+msgid "M_CHO_uta_ouen_A_lv1"
+msgstr ""
+
+msgctxt "48067"
+msgid "M_OLD_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "48089"
+msgid "c_em_m_man_18"
+msgstr ""
+
+msgctxt "48103"
+msgid "F_CHO_uta_ouen_A_lv1"
+msgstr ""
+
+msgctxt "48124"
+msgid "M_CHO_uta_ouen_B_lv1"
+msgstr ""
+
+msgctxt "48145"
+msgid "c_ew_c00_k_woman_08"
+msgstr ""
+
+msgctxt "48165"
+msgid "F_CHO_uta_ouen_B_lv1"
+msgstr ""
+
+msgctxt "48186"
+msgid "c_em_bob"
+msgstr ""
+
+msgctxt "48195"
+msgid "c_em_shop_rsake_02"
+msgstr ""
+
+msgctxt "48214"
+msgid "P_KRU_AL_stand_cook_cut_kamae"
+msgstr ""
+
+msgctxt "48244"
+msgid "堂島大吾"
+msgstr ""
+
+msgctxt "48253"
+msgid "相沢"
+msgstr ""
+
+msgctxt "48258"
+msgid "森永"
+msgstr ""
+
+msgctxt "48263"
+msgid "c_cm_daigo"
+msgstr ""
+
+msgctxt "48274"
+msgid "c_cm_aizawa"
+msgstr ""
+
+msgctxt "48286"
+msgid "c_cm_aoyama"
+msgstr ""
+
+msgctxt "48298"
+msgid "c_em_te_madoguchi"
+msgstr ""
+
+msgctxt "48316"
+msgid "c_em_te99_runner"
+msgstr ""
+
+msgctxt "48333"
+msgid "c_em_c03_020_ronin1"
+msgstr ""
+
+msgctxt "48353"
+msgid "c_em_c03_020_ronin2"
+msgstr ""
+
+msgctxt "48373"
+msgid "c_em_c03_020_ronin3"
+msgstr ""
+
+msgctxt "48393"
+msgid "P_KRU_SAK_agura_B_lp"
+msgstr ""
+
+msgctxt "48414"
+msgid "c_em_c03_020_ronin4"
+msgstr ""
+
+msgctxt "48434"
+msgid "c_em_c03_020_ronin5"
+msgstr ""
+
+msgctxt "48454"
+msgid "c_em_c03_020_ronin6"
+msgstr ""
+
+msgctxt "48474"
+msgid "c_em_c03_020_ronin7"
+msgstr ""
+
+msgctxt "48494"
+msgid "c_em_c03_020_ronin8"
+msgstr ""
+
+msgctxt "48514"
+msgid "c_em_c03_020_ronin9"
+msgstr ""
+
+msgctxt "48534"
+msgid "c_em_c03_020_ronin10"
+msgstr ""
+
+msgctxt "48555"
+msgid "c_em_c00_sin_13"
+msgstr ""
+
+msgctxt "48571"
+msgid "c_em_c00_sin_12"
+msgstr ""
+
+msgctxt "48587"
+msgid "c_em_c00_sin_04"
+msgstr ""
+
+msgctxt "48603"
+msgid "c_em_c00_sin_10"
+msgstr ""
+
+msgctxt "48619"
+msgid "c_cm_sengoku_c08_020"
+msgstr ""
+
+msgctxt "48640"
+msgid "M_OKM_SS_stand_kamae"
+msgstr ""
+
+msgctxt "48661"
+msgid "c_ew_c00_k_yujo_01"
+msgstr ""
+
+msgctxt "48680"
+msgid "c_ew_c00_k_yujo_02"
+msgstr ""
+
+msgctxt "48699"
+msgid "F_SET_BTLMOB_YUJO_sit_seiza"
+msgstr ""
+
+msgctxt "48727"
+msgid "c_ew_c00_k_yujo_03"
+msgstr ""
+
+msgctxt "48746"
+msgid "F_SET_BTLMOB_YUJO_sit_talk"
+msgstr ""
+
+msgctxt "48773"
+msgid "c_ew_c00_k_yujo_04"
+msgstr ""
+
+msgctxt "48792"
+msgid "F_SET_BTLMOB_YUJO_stand_01"
+msgstr ""
+
+msgctxt "48819"
+msgid "c_ew_c00_k_yujo_05"
+msgstr ""
+
+msgctxt "48838"
+msgid "F_SET_BTLMOB_YUJO_stand_02"
+msgstr ""
+
+msgctxt "48865"
+msgid "c_ew_c00_k_yujo_07"
+msgstr ""
+
+msgctxt "48884"
+msgid "c_ew_c00_k_yujo_06"
+msgstr ""
+
+msgctxt "48903"
+msgid "c_ew_c00_k_yujo_08"
+msgstr ""
+
+msgctxt "48922"
+msgid "F_SET_BTLMOB_YUJO_sit_sensu"
+msgstr ""
+
+msgctxt "48950"
+msgid "c_em_b_kmiwa_15"
+msgstr ""
+
+msgctxt "48966"
+msgid "c_em_b_kmiwa_16"
+msgstr ""
+
+msgctxt "48982"
+msgid "btlmaletoyobushi"
+msgstr ""
+
+msgctxt "48999"
+msgid "名無し"
+msgstr ""
+
+msgctxt "49006"
+msgid "c_cm_saigo_naked"
+msgstr ""
+
+msgctxt "49023"
+msgid "巨漢の男"
+msgstr ""
+
+msgctxt "49032"
+msgid "c_cm_c01_tjosi1"
+msgstr ""
+
+msgctxt "49048"
+msgid "権堂"
+msgstr ""
+
+msgctxt "49053"
+msgid "c_cm_c01_tjosi2"
+msgstr ""
+
+msgctxt "49069"
+msgid "南田"
+msgstr ""
+
+msgctxt "49074"
+msgid "後藤"
+msgstr ""
+
+msgctxt "49079"
+msgid "本橋"
+msgstr ""
+
+msgctxt "49084"
+msgid "c_cm_inoue_mask"
+msgstr ""
+
+msgctxt "49100"
+msgid "覆面の男"
+msgstr ""
+
+msgctxt "49109"
+msgid "E_btlst_IZO"
+msgstr ""
+
+msgctxt "49121"
+msgid "c_cm_kondo_teko"
+msgstr ""
+
+msgctxt "49137"
+msgid "近藤勇"
+msgstr ""
+
+msgctxt "49144"
+msgid "c_em_c01_090_tkin6"
+msgstr ""
+
+msgctxt "49163"
+msgid "高橋"
+msgstr ""
+
+msgctxt "49168"
+msgid "c_em_c01_090_tkin2"
+msgstr ""
+
+msgctxt "49187"
+msgid "岡山"
+msgstr ""
+
+msgctxt "49192"
+msgid "野原"
+msgstr ""
+
+msgctxt "49197"
+msgid "吉川"
+msgstr ""
+
+msgctxt "49202"
+msgid "服部"
+msgstr ""
+
+msgctxt "49207"
+msgid "樋口"
+msgstr ""
+
+msgctxt "49212"
+msgid "佐藤"
+msgstr ""
+
+msgctxt "49217"
+msgid "wepct2720"
+msgstr ""
+
+msgctxt "49227"
+msgid "wepct2730"
+msgstr ""
+
+msgctxt "49237"
+msgid "渡辺"
+msgstr ""
+
+msgctxt "49242"
+msgid "wepct5610"
+msgstr ""
+
+msgctxt "49252"
+msgid "c_em_c11_060_ninja_01"
+msgstr ""
+
+msgctxt "49274"
+msgid "E_SET_fusuma_break_01_lp"
+msgstr ""
+
+msgctxt "49299"
+msgid "E_SET_fusuma_break_02_lp"
+msgstr ""
+
+msgctxt "49324"
+msgid "E_SET_fusuma_open_02_lp"
+msgstr ""
+
+msgctxt "49348"
+msgid "btlmaleroninmus"
+msgstr ""
+
+msgctxt "49364"
+msgid "amb_mibudera_soto_hiru_nature.hca"
+msgstr ""
+
+msgctxt "49398"
+msgid "amb_mibudera_soto_yu_nature.hca"
+msgstr ""
+
+msgctxt "49430"
+msgid "amb_mibudera_soto_yoru_nature.hca"
+msgstr ""
+
+msgctxt "49464"
+msgid "ambbase_silent_hanyou.adx"
+msgstr ""
+
+msgctxt "49490"
+msgid "amb_kyoto_gion_hiru_odori.hca"
+msgstr ""
+
+msgctxt "49520"
+msgid "amb_kyoto_gion_yu_odori.hca"
+msgstr ""
+
+msgctxt "49548"
+msgid "amb_kyoto_gion_yoru_odori.hca"
+msgstr ""
+
+msgctxt "49578"
+msgid "ambbase_kyoto_gion_hiru.adx"
+msgstr ""
+
+msgctxt "49606"
+msgid "ambbase_kyoto_gion_yu.adx"
+msgstr ""
+
+msgctxt "49632"
+msgid "ambbase_kyoto_gion_yoru.adx"
+msgstr ""
+
+msgctxt "49660"
+msgid "amb_ryoma_ie_furo.hca"
+msgstr ""
+
+msgctxt "49682"
+msgid "ambbase_ryoma_ie.adx"
+msgstr ""

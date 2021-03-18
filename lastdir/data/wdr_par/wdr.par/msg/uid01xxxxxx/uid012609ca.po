@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3905"
+msgid ""
+"この先が最後の部屋のようだ。\n"
+"このまま入るか？"
+msgstr "This is like the last room. Will you enter as it is?"
+
+msgctxt "3956"
+msgid ""
+"（この先が最後の部屋のようだが、\n"
+"　まだ、すべての千両箱を回収していない。\n"
+"　残りの千両箱を探そう）"
+msgstr ""
+"(It looks like the last room ahead, but I haven't collected all the 1000 "
+"boxes yet. Let's find the remaining 1000 boxes)"
+
+msgctxt "4071"
+msgid "志半ばで……　む、無念……"
+msgstr "In the middle of my ambition ..."
+
+msgctxt "4098"
+msgid "くそっ……　つ、強い……"
+msgstr "Damn ... one, strong ..."
+
+msgctxt "4123"
+msgid "と、徳川の犬め……　覚えておけ……"
+msgstr "Tokugawa's dog ... Remember ..."
+
+msgctxt "4158"
+msgid "これで終わりだと……　思うなよ……"
+msgstr "I think this is the end ... I don't think ..."
+
+msgctxt "4193"
+msgid "し、新選組め……"
+msgstr "And the new selection ..."
+
+msgctxt "4210"
+msgid "御館様……　すいません……"
+msgstr "Mr. Gokan ... I'm sorry ..."
+
+msgctxt "4237"
+msgid "お……　御館様……"
+msgstr "Oh …… Mr. Gokan ……"
+
+msgctxt "4256"
+msgid "ぐ……　ぐはっ……"
+msgstr "Gu ... Guha ..."
+
+msgctxt "4275"
+msgid "くそっ……　ここまでか……"
+msgstr "Damn ... up to here ..."
+
+msgctxt "4302"
+msgid "（任務は片付いた、屯所へ戻るか？）"
+msgstr "(The mission has been completed, will you return to the tunsho?)"
+
+msgctxt "4503"
+msgid "入る"
+msgstr "enter"
+
+msgctxt "4508"
+msgid "後にする"
+msgstr "Later"
+
+msgctxt "4523"
+msgid "残党"
+msgstr "Remnants"
+
+msgctxt "4528"
+msgid "戻らない"
+msgstr "Dont return"
+
+msgctxt "4537"
+msgid "屯所に戻る"
+msgstr "Return to tunsho"

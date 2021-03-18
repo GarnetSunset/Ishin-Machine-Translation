@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2548"
+msgid "斎藤さん。"
+msgstr "Mr. Saito."
+
+msgctxt "2559"
+msgid "お前は……"
+msgstr "You are……"
+
+msgctxt "2570"
+msgid "藤堂ですよ。藤堂平助。"
+msgstr "It's Todo. Heisuke Todo."
+
+msgctxt "2595"
+msgid "仕事の説明は明日からじゃなかったのか？"
+msgstr "Wasn't the explanation of the work from tomorrow?"
+
+msgctxt "2634"
+msgid "それとは別件でして。はいこれ。"
+msgstr "Apart from that. Yes this."
+
+msgctxt "2665"
+msgid "……これは？"
+msgstr "……is this?"
+
+msgctxt "2678"
+msgid ""
+"新選組名物、浅葱色の羽織です。\n"
+"しかもこれは隊長のみが着用を許された、\n"
+"隊長格仕様です。"
+msgstr ""
+"It is a Shinsengumi specialty, Asagi-iro haori. Moreover, this is a "
+"captain's specification that only the captain is allowed to wear."
+
+msgctxt "2767"
+msgid ""
+"明日からは、これ着て来て下さいね。\n"
+"隊長としてパリッとしてもらわないと。"
+msgstr "Please wear this from tomorrow. I have to get crisp as a captain."
+
+msgctxt "2840"
+msgid "じゃ、お疲れ様でした。"
+msgstr "Thank you for your hard work."
+
+msgctxt "3424"
+msgid "藤堂"
+msgstr "Todo"
+
+msgctxt "3445"
+msgid "龍馬"
+msgstr "Ryoma"

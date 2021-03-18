@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2752"
+msgid "う、うぅ……"
+msgstr "Uhhhh ..."
+
+msgctxt "2765"
+msgid "お通！　どうしたの、お通！"
+msgstr "Thank you! What's wrong?"
+
+msgctxt "2792"
+msgid "だれか！　誰か、お医者様はいませんか!!"
+msgstr "Someone! Does anyone have a doctor !!"
+
+msgctxt "2831"
+msgid ""
+"どういたがぜよ!?\n"
+"ワシは医者じゃ。みしてみ。"
+msgstr "What's wrong !? I'm a doctor. Try it."
+
+msgctxt "2876"
+msgid "つい先ほどから、急に腹をおさえて苦しみだして……！"
+msgstr ""
+"Just a while ago, I suddenly got hungry\n"
+"and started suffering ...!"
+
+msgctxt "2927"
+msgid "……こりゃいかん。盲腸かもしれんちや。"
+msgstr ""
+
+msgctxt "2966"
+msgid "も、盲腸？"
+msgstr "Even the cecum?"
+
+msgctxt "2977"
+msgid ""
+"腹の腑が炎症を起こす病気じゃ。\n"
+"蘭方医しか治せん代物じゃ。"
+msgstr ""
+"It's a disease that causes inflammation\n"
+"in the abdomen. Only the orchid doctor\n"
+"can cure it."
+
+msgctxt "3036"
+msgid "そ、そんな……！"
+msgstr "That's right ...!"
+
+msgctxt "3053"
+msgid "とにかく、急いで運ぶがぜよ！"
+msgstr "Anyway, hurry up and carry it!"
+
+msgctxt "3082"
+msgid ""
+"おい！\n"
+"誰か、この子を運ぶのを手伝うてくれんか!!"
+msgstr ""
+"Hey! Can someone help me carry this kid\n"
+"!!"
+
+msgctxt "3131"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3132"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3133"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3134"
+msgid "（……１年ぶりの土佐だ）"
+msgstr "(... It's Tosa for the first time in a year)"
+
+msgctxt "3159"
+msgid "（……皆、元気にしてるだろうか？）"
+msgstr "(... Is everyone doing well?)"
+
+msgctxt "3194"
+msgid "（……ちょっと街の様子でも見に行くか）"
+msgstr "(... Would you like to go see the city?)"
+
+msgctxt "3233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3668"
+msgid "少女"
+msgstr "Maiden"
+
+msgctxt "3673"
+msgid "girl_c01_020_01"
+msgstr ""
+
+msgctxt "3689"
+msgid "母親"
+msgstr "mother"
+
+msgctxt "3694"
+msgid "haha_c01_020_01"
+msgstr ""
+
+msgctxt "3710"
+msgid "haha_c01_020_01b"
+msgstr ""
+
+msgctxt "3727"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "3738"
+msgid "医者"
+msgstr "doctor"
+
+msgctxt "3743"
+msgid "isya_c01_020_01"
+msgstr ""
+
+msgctxt "3759"
+msgid "haha_c01_020_02"
+msgstr ""
+
+msgctxt "3775"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "3786"
+msgid "kaiwabgm_fuon_10"
+msgstr ""
+
+msgctxt "3803"
+msgid "isya_c01_020_02"
+msgstr ""
+
+msgctxt "3819"
+msgid "haha_c01_020_03"
+msgstr ""
+
+msgctxt "3835"
+msgid "isya_c01_020_03"
+msgstr ""
+
+msgctxt "3851"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "3862"
+msgid "haha_c01_020_04"
+msgstr ""
+
+msgctxt "3878"
+msgid "isya_c01_020_04"
+msgstr ""
+
+msgctxt "3894"
+msgid "isya_c01_020_04b"
+msgstr ""
+
+msgctxt "3911"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "3922"
+msgid "龍馬"
+msgstr "Ryoma"

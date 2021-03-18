@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "849004"
+msgid "太"
+msgstr "too"
+
+msgctxt "851180"
+msgid "だ"
+msgstr "Is"
+
+msgctxt "851452"
+msgid "まで行っても"
+msgstr "Even if you go to"
+
+msgctxt "853900"
+msgid ""
+"りも\n"
+"もっと大事なもんがあったってことさ"
+msgstr "There was something more important than that"
+
+msgctxt "858796"
+msgid "俺の兄弟なんだ"
+msgstr "I'm my brother"
+
+msgctxt "860972"
+msgid "ていた"
+msgstr "Was"
+
+msgctxt "861244"
+msgid ""
+"から\n"
+"武器や兵器弾薬を仕入れさせてたんだ"
+msgstr "I was getting weapons and weapons ammunition from"
+
+msgctxt "863692"
+msgid "かなかいい活躍だったぞ"
+msgstr "It was a pretty good success"
+
+msgctxt "865868"
+msgid "国王……"
+msgstr "king……"
+
+msgctxt "866140"
+msgid "の国ではワシ以外の万民は"
+msgstr "In the country, everyone except the eagle"
+
+msgctxt "868316"
+msgid "助けてやろう"
+msgstr "I'll help you"
+
+msgctxt "871036"
+msgid "レの死に場所や"
+msgstr "Where to die"
+
+msgctxt "873484"
+msgid "りきった"
+msgstr "Riki"
+
+msgctxt "875660"
+msgid "謔閧熏lえている！"
+msgstr "Smoked!"
+
+msgctxt "875932"
+msgid "！！"
+msgstr "！！"
+
+msgctxt "878380"
+msgid "の血が流れるだろう"
+msgstr "Blood will flow"
+
+msgctxt "880828"
+msgid "未来もなくなっちまう"
+msgstr "The future is gone"

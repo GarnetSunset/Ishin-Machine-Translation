@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1872"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1873"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1874"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1875"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1876"
+msgid ""
+"（あの恰好……　あいつがここの主、千石か。\n"
+"　奥へ逃げたな……）"
+msgstr ""
+"(That look ... Is he the lord here, Sengoku?\n"
+"I ran away to the back ...)"
+
+msgctxt "1941"
+msgid ""
+"（外で沖田たちも派手にやっているようだな、\n"
+"　今は千石を追うぞ!!）"
+msgstr ""
+"(It seems that Okita and his friends are\n"
+"doing it outside, now I'm chasing Sengoku\n"
+"!!)"
+
+msgctxt "2008"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2009"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2010"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2011"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2012"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2013"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2014"
+msgid "（くそっ……なんだあれは……）"
+msgstr "(Damn ... what is that ...)"
+
+msgctxt "2045"
+msgid "（避けながらいくしかなさそうだな……）"
+msgstr "(It seems that we have to avoid it ...)"
+
+msgctxt "2084"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2085"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2086"
+msgid "（む……追手か……）"
+msgstr "(Mu ... a pursuit ...)"
+
+msgctxt "2107"
+msgid "（数が多いな……一気に蹴散らす方法は……）"
+msgstr ""
+"(There are a lot of them ... How to get\n"
+"rid of them all at once ...)"
+
+msgctxt "2150"
+msgid "（これだ!!）"
+msgstr "(This is it!!)"
+
+msgctxt "2163"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2164"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2165"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2320"
+msgid "A60140_sengoku_escape"
+msgstr ""
+
+msgctxt "2342"
+msgid "Player"
+msgstr ""

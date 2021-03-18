@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "676"
+msgid "うぅぅ……"
+msgstr "Uuu ……"
+
+msgctxt "687"
+msgid "く 苦しぃ～"
+msgstr "It's painful ~"
+
+msgctxt "699"
+msgid "うっ！"
+msgstr "Ugh!"
+
+msgctxt "706"
+msgid "……はぁ はぁ"
+msgstr ""
+
+msgctxt "720"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "721"
+msgid "うぅぅ……"
+msgstr "Uuu ……"
+
+msgctxt "732"
+msgid "く 苦しぃ～"
+msgstr "It's painful ~"
+
+msgctxt "744"
+msgid "し 死ぬ……"
+msgstr "I will die ..."
+
+msgctxt "756"
+msgid "<!empty>"
+msgstr ""

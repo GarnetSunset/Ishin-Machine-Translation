@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6052"
+msgid "なんだと？"
+msgstr "what?"
+
+msgctxt "6063"
+msgid ""
+"伊東はんは、泥舟……\n"
+"このままやとワシも御陵衛士も、\n"
+"坂本龍馬にええように利用されて仕舞いや。"
+msgstr ""
+"Han Ito is a muddy boat ... As it is, both\n"
+"the eagle and the Imperial Guard are\n"
+"used by Ryoma Sakamoto."
+
+msgctxt "6158"
+msgid ""
+"ならいっそ、長州にでも雇ってもろた方が\n"
+"ええ思うてな。"
+msgstr ""
+"If so, I think it would be better to hire\n"
+"him in Choshu."
+
+msgctxt "6213"
+msgid "長州だと？"
+msgstr "Choshu?"
+
+msgctxt "6224"
+msgid ""
+"お前ら、桂と繋がりあるみたいやないか。\n"
+"ワシと五番隊の連中、面倒見てもらえるよう\n"
+"取り次いでもらえへんやろか。"
+msgstr ""
+"You guys seem to have a connection with\n"
+"Katsura. The eagle and the 5th corps aren't\n"
+"going to take care of me."
+
+msgctxt "6335"
+msgid "武田、お前……"
+msgstr "Takeda, you ..."
+
+msgctxt "6350"
+msgid ""
+"それとも、平助みたいに、ここでワシに\n"
+"弄ばれるだけ弄ばれて捨てられるか……\n"
+"好きな方を選べや。"
+msgstr ""
+"Or, like Heisuke, can you just play with\n"
+"me here and throw it away ... Choose the\n"
+"one you like."
+
+msgctxt "6445"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6446"
+msgid "ひ、っ……　いやぁあ……"
+msgstr "Hi ... No ..."
+
+msgctxt "6471"
+msgid ""
+"ペッ！\n"
+"やっぱ女子の汗は口に合わん。\n"
+"相手するんは、平助みたいな若い男に限るわ。"
+msgstr ""
+"Pep! After all, girls' sweat doesn't fit\n"
+"in their mouths. I'm limited to young\n"
+"guys like Heisuke."
+
+msgctxt "6552"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6553"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6554"
+msgid "お前が下衆で良かった……"
+msgstr "I'm glad you were a subordinate ..."
+
+msgctxt "6579"
+msgid "あん？"
+msgstr "An?"
+
+msgctxt "6586"
+msgid ""
+"口封じのためじゃない……\n"
+"何の躊躇もなくお前を殺すことができる。"
+msgstr ""
+"It's not for closing your mouth ... I can\n"
+"kill you without any hesitation."
+
+msgctxt "6651"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6652"
+msgid "やる気なんか。"
+msgstr "Is it motivated?"
+
+msgctxt "6667"
+msgid "答えるまでもねえ。"
+msgstr "Not even to answer."
+
+msgctxt "6686"
+msgid ""
+"そうか。\n"
+"残念や……こないなところでワレほどの男、\n"
+"殺しとうはないんやけどなぁ!!"
+msgstr ""
+"Really. I'm afraid ... I can't kill a man\n"
+"like a cracker in a place where he doesn't\n"
+"come !!"
+
+msgctxt "6767"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6768"
+msgid ""
+"あの井上源三郎を殺した銃や……\n"
+"坂本龍馬って男にもろたもんや。"
+msgstr ""
+"The gun that killed that Inoue Genzaburo\n"
+"... Ryoma Sakamoto was a man."
+
+msgctxt "6831"
+msgid "なんだと……!?"
+msgstr "what……!?"
+
+msgctxt "6846"
+msgid ""
+"自動装てん式大口径弾……\n"
+"最新の軍学兵器の前じゃ、剣術など意味がない。"
+msgstr ""
+"Automatically loaded large caliber bullets\n"
+"... In front of the latest military\n"
+"weapons, swordsmanship is meaningless."
+
+msgctxt "6917"
+msgid "それを証明したるわ。"
+msgstr "I'll prove it."
+
+msgctxt "6938"
+msgid "そうかならその銃も、仇のひとつというわけだな。"
+msgstr "If so, that gun is also one of the dead."
+
+msgctxt "6985"
+msgid ""
+"一瞬や。勝負は一瞬で決まる。\n"
+"死ぬ覚悟はできとんな？"
+msgstr ""
+"For a moment. The game is decided in an\n"
+"instant. Are you ready to die?"
+
+msgctxt "7038"
+msgid "いつでもいいぜ。……来い！"
+msgstr "Anytime is fine. ...... Come on!"
+
+msgctxt "7065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7066"
+msgid "死にさらせ！　このボケがぁあああああ！"
+msgstr "Let me die! This bokeh is ahhhhh!"
+
+msgctxt "7105"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7106"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7107"
+msgid "（早く幾松の店へ行かなければ……）"
+msgstr ""
+"(If you don't go to the Ikumatsu store soon\n"
+"...)"
+
+msgctxt "7142"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8832"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "8837"
+msgid "kiryu_13_050_04"
+msgstr ""
+
+msgctxt "8853"
+msgid "武田"
+msgstr "Takeda"
+
+msgctxt "8858"
+msgid "takeda_13_050_04"
+msgstr ""
+
+msgctxt "8875"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "8886"
+msgid "takeda_13_050_04b"
+msgstr ""
+
+msgctxt "8904"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "8915"
+msgid "kiryu_13_050_05"
+msgstr ""
+
+msgctxt "8931"
+msgid "takeda_13_050_05"
+msgstr ""
+
+msgctxt "8948"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "8959"
+msgid "kiryu_13_050_06"
+msgstr ""
+
+msgctxt "8975"
+msgid "takeda_13_050_06"
+msgstr ""
+
+msgctxt "8992"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "9003"
+msgid "TLK_SCN009"
+msgstr ""
+
+msgctxt "9014"
+msgid "Player"
+msgstr ""
+
+msgctxt "9021"
+msgid "幾松"
+msgstr "Jisong"
+
+msgctxt "9026"
+msgid "iku_13_050_01"
+msgstr ""
+
+msgctxt "9040"
+msgid "takeda_13_050_07"
+msgstr ""
+
+msgctxt "9057"
+msgid "TLK_SCN011"
+msgstr ""
+
+msgctxt "9068"
+msgid "kiryu_13_050_07"
+msgstr ""
+
+msgctxt "9084"
+msgid "takeda_13_050_08"
+msgstr ""
+
+msgctxt "9101"
+msgid "TLK_SCN013"
+msgstr ""
+
+msgctxt "9112"
+msgid "kaiwabgm_kinpaku_05"
+msgstr ""
+
+msgctxt "9132"
+msgid "kiryu_13_050_08"
+msgstr ""
+
+msgctxt "9148"
+msgid "TLK_SCN015"
+msgstr ""
+
+msgctxt "9159"
+msgid "takeda_13_050_09"
+msgstr ""
+
+msgctxt "9176"
+msgid "kiryu_13_050_09"
+msgstr ""
+
+msgctxt "9192"
+msgid "takeda_13_050_10"
+msgstr ""
+
+msgctxt "9209"
+msgid "TLK_SCN017"
+msgstr ""
+
+msgctxt "9220"
+msgid "takeda_13_050_11"
+msgstr ""
+
+msgctxt "9237"
+msgid "TLK_SCN019"
+msgstr ""
+
+msgctxt "9248"
+msgid "kiryu_13_050_10"
+msgstr ""
+
+msgctxt "9264"
+msgid "takeda_13_050_12"
+msgstr ""
+
+msgctxt "9281"
+msgid "TLK_SCN021"
+msgstr ""
+
+msgctxt "9292"
+msgid "takeda_13_050_12b"
+msgstr ""
+
+msgctxt "9310"
+msgid "TLK_SCN023"
+msgstr ""
+
+msgctxt "9321"
+msgid "kiryu_13_050_11"
+msgstr ""
+
+msgctxt "9337"
+msgid "takeda_13_050_13"
+msgstr ""
+
+msgctxt "9354"
+msgid "TLK_SCN025"
+msgstr ""
+
+msgctxt "9365"
+msgid "kiryu_13_050_12"
+msgstr ""
+
+msgctxt "9381"
+msgid "TLK_SCN027"
+msgstr ""
+
+msgctxt "9392"
+msgid "takeda_13_050_14"
+msgstr ""

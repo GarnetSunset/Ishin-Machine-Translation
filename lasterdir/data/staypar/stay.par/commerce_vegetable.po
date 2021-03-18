@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "TITLE_0"
+msgid "大根"
+msgstr "Radish"
+
+msgctxt "TITLE_1"
+msgid "人参"
+msgstr "Ginseng"
+
+msgctxt "TITLE_2"
+msgid "農作物なんでも５品"
+msgstr "5 agricultural products"
+
+msgctxt "TITLE_3"
+msgid "じゃが芋"
+msgstr "potato"
+
+msgctxt "TITLE_4"
+msgid "ほうれん草"
+msgstr "spinach"
+
+msgctxt "TITLE_5"
+msgid "きゅうり"
+msgstr "Cucumber"
+
+msgctxt "TITLE_6"
+msgid "農作物なんでも１０品"
+msgstr "10 agricultural products"
+
+msgctxt "TITLE_7"
+msgid "さつま芋"
+msgstr "Sweet potato"
+
+msgctxt "TITLE_8"
+msgid "ねぎ"
+msgstr "Leek"
+
+msgctxt "TITLE_9"
+msgid "なす"
+msgstr "Eggplant"
+
+msgctxt "TITLE_10"
+msgid "たまねぎ"
+msgstr "Onion"
+
+msgctxt "TITLE_11"
+msgid "かぶ"
+msgstr "Turnip"
+
+msgctxt "TITLE_12"
+msgid "そら豆"
+msgstr "Broad beans"
+
+msgctxt "TITLE_13"
+msgid "ごぼう"
+msgstr "Burdock"
+
+msgctxt "TITLE_14"
+msgid "生姜"
+msgstr "ginger"
+
+msgctxt "TITLE_15"
+msgid "かぼちゃ"
+msgstr "pumpkin"
+
+msgctxt "TITLE_16"
+msgid "白菜"
+msgstr "Chinese cabbage"
+
+msgctxt "TITLE_17"
+msgid "唐辛子"
+msgstr "Chili"
+
+msgctxt "TITLE_18"
+msgid "にんにく"
+msgstr "Garlic"
+
+msgctxt "TITLE_19"
+msgid "瓜２種"
+msgstr "2 kinds of melon"
+
+msgctxt "TITLE_20"
+msgid "きゃべつ"
+msgstr "Cabbage"
+
+msgctxt "TITLE_21"
+msgid "とまと"
+msgstr "Tomato"
+
+msgctxt "TITLE_22"
+msgid "里芋"
+msgstr "taro"
+
+msgctxt "TITLE_23"
+msgid "いちご"
+msgstr "Strawberry"
+
+msgctxt "TITLE_24"
+msgid "芋３種"
+msgstr "3 kinds of potatoes"
+
+msgctxt "TITLE_25"
+msgid "朝鮮人参"
+msgstr "Ginseng"
+
+msgctxt "SPONSOR_0"
+msgid "料理人の源太"
+msgstr "Cook Genta"
+
+msgctxt "SPONSOR_1"
+msgid "八百屋の店主"
+msgstr "Greengrocer shopkeeper"
+
+msgctxt "SPONSOR_2"
+msgid "御所の料理長"
+msgstr "Gosho chef"
+
+msgctxt "SPONSOR_3"
+msgid "植物学者テリー"
+msgstr "Botanist Terry"
+
+msgctxt "TRIGGER_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "TRIGGER_1"
+msgid "L1_2"
+msgstr ""
+
+msgctxt "TRIGGER_2"
+msgid "L1_5"
+msgstr ""
+
+msgctxt "TRIGGER_3"
+msgid "L1_3"
+msgstr ""
+
+msgctxt "TRIGGER_4"
+msgid "L2_2"
+msgstr ""
+
+msgctxt "TRIGGER_5"
+msgid "L2_4"
+msgstr ""
+
+msgctxt "TRIGGER_6"
+msgid "L2_5"
+msgstr ""
+
+msgctxt "TRIGGER_7"
+msgid "L3_2"
+msgstr ""
+
+msgctxt "TRIGGER_8"
+msgid "L3_5"
+msgstr ""
+
+msgctxt "TRIGGER_9"
+msgid "L4_2"
+msgstr ""
+
+msgctxt "TRIGGER_10"
+msgid "L4_3"
+msgstr ""
+
+msgctxt "TRIGGER_11"
+msgid "L4_5"
+msgstr ""
+
+msgctxt "TRIGGER_12"
+msgid "L5_2"
+msgstr ""
+
+msgctxt "TRIGGER_13"
+msgid "L5_3"
+msgstr ""
+
+msgctxt "TRIGGER_14"
+msgid "L5_5"
+msgstr ""
+
+msgctxt "TRIGGER_15"
+msgid "L6_2"
+msgstr ""
+
+msgctxt "TRIGGER_16"
+msgid "L6_5"
+msgstr ""
+
+msgctxt "TRIGGER_17"
+msgid "L7_1"
+msgstr ""
+
+msgctxt "TRIGGER_18"
+msgid "L8_2"
+msgstr ""

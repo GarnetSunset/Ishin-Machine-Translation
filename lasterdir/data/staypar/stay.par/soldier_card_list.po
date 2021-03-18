@@ -1,0 +1,6594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "PROPERTY_0"
+msgid "攻"
+msgstr "attack"
+
+msgctxt "PROPERTY_1"
+msgid "防"
+msgstr "Guard against"
+
+msgctxt "PROPERTY_2"
+msgid "癒"
+msgstr "Healing"
+
+msgctxt "PROPERTY_3"
+msgid "応"
+msgstr "Response"
+
+msgctxt "PROPERTY_4"
+msgid "支"
+msgstr "support"
+
+msgctxt "WEAPON_0"
+msgid "刀"
+msgstr "Knife"
+
+msgctxt "WEAPON_1"
+msgid "槍"
+msgstr "gun"
+
+msgctxt "WEAPON_2"
+msgid "前装式銃"
+msgstr "Breech loader"
+
+msgctxt "RARE_0"
+msgid "SR"
+msgstr ""
+
+msgctxt "RARE_1"
+msgid "R"
+msgstr ""
+
+msgctxt "RARE_2"
+msgid "UC"
+msgstr ""
+
+msgctxt "RARE_3"
+msgid "C"
+msgstr ""
+
+msgctxt "NAME_0"
+msgid "品田 辰之助"
+msgstr "Shinada Tatsunosuke"
+
+msgctxt "NAME_1"
+msgid "琉道 力也"
+msgstr "Ryudo Rikiya"
+
+msgctxt "NAME_2"
+msgid "南 大五郎"
+msgstr "Daigoro Minami"
+
+msgctxt "NAME_3"
+msgid "古牧 宗之介"
+msgstr "Gu Mu Zong Nosuke"
+
+msgctxt "NAME_4"
+msgid "浄僧天狗"
+msgstr "Jyomon Tengu"
+
+msgctxt "NAME_5"
+msgid "藤次郎"
+msgstr "Tojiro"
+
+msgctxt "NAME_6"
+msgid "行光"
+msgstr "Xingguang"
+
+msgctxt "NAME_7"
+msgid "墨坊主"
+msgstr "Sumibozu"
+
+msgctxt "NAME_8"
+msgid "劉 九龍"
+msgstr "Liu Jiulong"
+
+msgctxt "NAME_9"
+msgid "歌 彫衛門"
+msgstr "Kazuemon"
+
+msgctxt "NAME_10"
+msgid "新垣 幹三郎"
+msgstr "Mikisaburo Arakaki"
+
+msgctxt "NAME_11"
+msgid "与那城 尚三"
+msgstr "Yonashiro Shozo"
+
+msgctxt "NAME_12"
+msgid "白川 般若"
+msgstr "Shirakawa Prajna"
+
+msgctxt "NAME_13"
+msgid "伊原 勝正"
+msgstr "Katsumasa Ihara"
+
+msgctxt "NAME_14"
+msgid "日村 公庵"
+msgstr "Himura Koan"
+
+msgctxt "NAME_15"
+msgid "柄本 宗継"
+msgstr "Munetsugu Aramoto"
+
+msgctxt "NAME_16"
+msgid "神田 剛二"
+msgstr "Goji Kanda"
+
+msgctxt "NAME_17"
+msgid "空乃原"
+msgstr "Soranohara"
+
+msgctxt "NAME_18"
+msgid "宇野 道盛"
+msgstr "Michimori Uno"
+
+msgctxt "NAME_19"
+msgid "鎌本 鉄太郎"
+msgstr "Tetsutaro Kamamoto"
+
+msgctxt "NAME_20"
+msgid "黒雷 勇矢"
+msgstr "Black Thunder Yuya"
+
+msgctxt "NAME_21"
+msgid "長谷部 兼満"
+msgstr "Kanemitsu Hasebe"
+
+msgctxt "NAME_22"
+msgid "トム"
+msgstr "Tom"
+
+msgctxt "NAME_23"
+msgid "正木 義千代"
+msgstr "Yoshichiyo Masaki"
+
+msgctxt "NAME_24"
+msgid "大島 平八"
+msgstr "Heihachi Oshima"
+
+msgctxt "NAME_25"
+msgid "秋元 文吉"
+msgstr "Fumiyoshi Akimoto"
+
+msgctxt "NAME_26"
+msgid "道明寺 一輝"
+msgstr "Domyoji Ikki"
+
+msgctxt "NAME_27"
+msgid "阿栗 純太郎"
+msgstr "Juntaro Aguri"
+
+msgctxt "NAME_28"
+msgid "北方 蔵之介"
+msgstr "Northern Kuranosuke"
+
+msgctxt "NAME_29"
+msgid "真鍋 兼松"
+msgstr "Manabe Kanematsu"
+
+msgctxt "NAME_30"
+msgid "竹内 栄次郎"
+msgstr "Eijiro Takeuchi"
+
+msgctxt "NAME_31"
+msgid "笠井 清治"
+msgstr "Kasai Kiyoji"
+
+msgctxt "NAME_32"
+msgid "瀬戸 可兵衛"
+msgstr "Kabei Seto"
+
+msgctxt "NAME_33"
+msgid "田村 政造"
+msgstr "Seizo Tamura"
+
+msgctxt "NAME_34"
+msgid "杉原 武雄"
+msgstr "Takeo Sugihara"
+
+msgctxt "NAME_35"
+msgid "根岸 忠成"
+msgstr "Tadanari Negishi"
+
+msgctxt "NAME_36"
+msgid "金子 鉄次郎"
+msgstr "Tetsujiro Kaneko"
+
+msgctxt "NAME_37"
+msgid "小出 虎松"
+msgstr "Koide Toramatsu"
+
+msgctxt "NAME_38"
+msgid "中山 銀太郎"
+msgstr "Gintaro Nakayama"
+
+msgctxt "NAME_39"
+msgid "谷本 利勝"
+msgstr "Toshikatsu Tanimoto"
+
+msgctxt "NAME_40"
+msgid "石田 重蔵"
+msgstr "Shigezo Ishida"
+
+msgctxt "NAME_41"
+msgid "手塚 寿也"
+msgstr "Toshiya Tezuka"
+
+msgctxt "NAME_42"
+msgid "沼田 重一郎"
+msgstr "Shigeichiro Numata"
+
+msgctxt "NAME_43"
+msgid "川野 亀松"
+msgstr "Kawano Kamematsu"
+
+msgctxt "NAME_44"
+msgid "石崎 光次"
+msgstr "Hikaru Ishizaki"
+
+msgctxt "NAME_45"
+msgid "深沢 稔"
+msgstr "Minoru Fukasawa"
+
+msgctxt "NAME_46"
+msgid "花田 金"
+msgstr "Hanada Kim"
+
+msgctxt "NAME_47"
+msgid "池上 伊織"
+msgstr "Iori Ikegami"
+
+msgctxt "NAME_48"
+msgid "篠田 正盛"
+msgstr "Shinoda Masamori"
+
+msgctxt "NAME_49"
+msgid "平岡 惣次"
+msgstr "Soji Hiraoka"
+
+msgctxt "NAME_50"
+msgid "上田 寅二"
+msgstr "Toraj Ueda"
+
+msgctxt "NAME_51"
+msgid "鶴田 秀三"
+msgstr "Shuzo Tsuruta"
+
+msgctxt "NAME_52"
+msgid "武井 藤太"
+msgstr "Tota Takei"
+
+msgctxt "NAME_53"
+msgid "柳田 新三"
+msgstr "Shinzo Yanagita"
+
+msgctxt "NAME_54"
+msgid "永野 宇平"
+msgstr "Uhei Nagano"
+
+msgctxt "NAME_55"
+msgid "大田 熊次郎"
+msgstr "Kumajiro Daejeon"
+
+msgctxt "NAME_56"
+msgid "西沢 貞平"
+msgstr "Sadahira Nishizawa"
+
+msgctxt "NAME_57"
+msgid "入江 伝馬"
+msgstr "Irie Denma"
+
+msgctxt "NAME_58"
+msgid "湯浅 駒吉"
+msgstr "Yuasa Komayoshi"
+
+msgctxt "NAME_59"
+msgid "長沢 茂次郎"
+msgstr "Shigejiro Nagasawa"
+
+msgctxt "NAME_60"
+msgid "相馬 啓司"
+msgstr "Keiji Soma"
+
+msgctxt "NAME_61"
+msgid "石山 清之介"
+msgstr "Kiyonosuke Ishiyama"
+
+msgctxt "NAME_62"
+msgid "園田 千蔵"
+msgstr "Senzo Sonoda"
+
+msgctxt "NAME_63"
+msgid "高松 恭介"
+msgstr "Kyosuke Takamatsu"
+
+msgctxt "NAME_64"
+msgid "堀川 鯉之介"
+msgstr "Horikawa Koinosuke"
+
+msgctxt "NAME_65"
+msgid "二宮 宗助"
+msgstr "Sosuke Ninomiya"
+
+msgctxt "NAME_66"
+msgid "臼井 又兵衛"
+msgstr "Matabei Usui"
+
+msgctxt "NAME_67"
+msgid "森田 一之介"
+msgstr "Hajime Morita"
+
+msgctxt "NAME_68"
+msgid "大原 菊蔵"
+msgstr "Kikuzo Ohara"
+
+msgctxt "NAME_69"
+msgid "福永 誠太郎"
+msgstr "Seitaro Fukunaga"
+
+msgctxt "NAME_70"
+msgid "林田 勲"
+msgstr "Isao Hayashida"
+
+msgctxt "NAME_71"
+msgid "篠崎 保次"
+msgstr "Yoji Shinozaki"
+
+msgctxt "NAME_72"
+msgid "富永 佐平"
+msgstr "Sahei Tominaga"
+
+msgctxt "NAME_73"
+msgid "長岡 入道"
+msgstr "Nagaoka entrance"
+
+msgctxt "NAME_74"
+msgid "溝口 光正"
+msgstr "Mitsumasa Mizoguchi"
+
+msgctxt "NAME_75"
+msgid "山岡 鉄"
+msgstr "Yamaoka Tesshu"
+
+msgctxt "NAME_76"
+msgid "平松 正次"
+msgstr "Masatsugu Hiramatsu"
+
+msgctxt "NAME_77"
+msgid "北原 三代吉"
+msgstr "Kitahara Sandaikichi"
+
+msgctxt "NAME_78"
+msgid "浅田 宗義"
+msgstr "Muneyoshi Asada"
+
+msgctxt "NAME_79"
+msgid "越智 秀吉"
+msgstr "Hideyoshi Ochi"
+
+msgctxt "NAME_80"
+msgid "原 歌之助"
+msgstr "Utanosuke Hara"
+
+msgctxt "NAME_81"
+msgid "桜井 鶴之助"
+msgstr "Sakurai Tsurunosuke"
+
+msgctxt "NAME_82"
+msgid "古川 万助"
+msgstr "Mansuke Furukawa"
+
+msgctxt "NAME_83"
+msgid "市川 平兵衛"
+msgstr "Heibei Ichikawa"
+
+msgctxt "NAME_84"
+msgid "島田 義次郎"
+msgstr "Yoshijiro Shimada"
+
+msgctxt "NAME_85"
+msgid "小松 六郎"
+msgstr "Rokuro Komatsu"
+
+msgctxt "NAME_86"
+msgid "高野 与助"
+msgstr "Yosuke Takano"
+
+msgctxt "NAME_87"
+msgid "水野 新一郎"
+msgstr "Shinichiro Mizuno"
+
+msgctxt "NAME_88"
+msgid "吉川 伝五郎"
+msgstr "Dengoro Yoshikawa"
+
+msgctxt "NAME_89"
+msgid "山内 三郎"
+msgstr "Saburo Yamauchi"
+
+msgctxt "NAME_90"
+msgid "西田 鋤三郎"
+msgstr "Nishida Spade Saburo"
+
+msgctxt "NAME_91"
+msgid "菊池 九兵衛"
+msgstr "Kikuchi Kubei"
+
+msgctxt "NAME_92"
+msgid "北村 三助"
+msgstr "Kitamura Sansuke"
+
+msgctxt "NAME_93"
+msgid "浜田 源蔵"
+msgstr "Genzo Hamada"
+
+msgctxt "NAME_94"
+msgid "安田 竹之介"
+msgstr "Takenosuke Yasuda"
+
+msgctxt "NAME_95"
+msgid "中田 礼三"
+msgstr "Reizo Nakata"
+
+msgctxt "NAME_96"
+msgid "川口 彦一"
+msgstr "Hikoichi Kawaguchi"
+
+msgctxt "NAME_97"
+msgid "平田 寅三"
+msgstr "Torazo Hirata"
+
+msgctxt "NAME_98"
+msgid "川崎 秀太"
+msgstr "Shuta Kawasaki"
+
+msgctxt "NAME_99"
+msgid "東 康彦"
+msgstr "Yasuhiko Higashi"
+
+msgctxt "NAME_100"
+msgid "飯田 太郎吉"
+msgstr "Taro Iida"
+
+msgctxt "NAME_101"
+msgid "本田 万吉"
+msgstr "Honda Mankichi"
+
+msgctxt "NAME_102"
+msgid "吉村 金之助"
+msgstr "Kinnosuke Yoshimura"
+
+msgctxt "NAME_103"
+msgid "辻 五兵衛"
+msgstr "Gobei Tsuji"
+
+msgctxt "NAME_104"
+msgid "関 福太郎"
+msgstr "Fukutaro Seki"
+
+msgctxt "NAME_105"
+msgid "中西 小一郎"
+msgstr "Nakanishi Koichiro"
+
+msgctxt "NAME_106"
+msgid "福島 一郎"
+msgstr "Ichiro Fukushima"
+
+msgctxt "NAME_107"
+msgid "岩田 彦四朗"
+msgstr "Hikoshiro Iwata"
+
+msgctxt "NAME_108"
+msgid "服部 弥太郎"
+msgstr "Yataro Hattori"
+
+msgctxt "NAME_109"
+msgid "樋口 栄三郎"
+msgstr "Eisaburo Higuchi"
+
+msgctxt "NAME_110"
+msgid "川上 重一郎"
+msgstr "Shigeichiro Kawakami"
+
+msgctxt "NAME_111"
+msgid "松岡 伝五郎"
+msgstr "Dengoro Matsuoka"
+
+msgctxt "NAME_112"
+msgid "永井 良助"
+msgstr "Ryosuke Nagai"
+
+msgctxt "NAME_113"
+msgid "山中 彦助"
+msgstr "Hikosuke Yamanaka"
+
+msgctxt "NAME_114"
+msgid "田口 一夫"
+msgstr "Kazuo Taguchi"
+
+msgctxt "NAME_115"
+msgid "森本 松之介"
+msgstr "Matsunosuke Morimoto"
+
+msgctxt "NAME_116"
+msgid "矢野 米助"
+msgstr "Yano Yonesuke"
+
+msgctxt "NAME_117"
+msgid "土屋 彦一"
+msgstr "Hikoichi Tsuchiya"
+
+msgctxt "NAME_118"
+msgid "柴田 泰助"
+msgstr "Taisuke Shibata"
+
+msgctxt "NAME_119"
+msgid "大島 太郎"
+msgstr "Taro Oshima"
+
+msgctxt "NAME_120"
+msgid "平井 彦太郎"
+msgstr "Hikotaro Hirai"
+
+msgctxt "NAME_121"
+msgid "岩本 精三郎"
+msgstr "Seisaburo Iwamoto"
+
+msgctxt "NAME_122"
+msgid "片山 吉兵衛"
+msgstr "Katayama Yoshibei"
+
+msgctxt "NAME_123"
+msgid "沢田 安太"
+msgstr "Yasuta Sawada"
+
+msgctxt "NAME_124"
+msgid "本間 庄助"
+msgstr "Shosuke Homma"
+
+msgctxt "NAME_125"
+msgid "早川 富吉"
+msgstr "Tomiyoshi Hayakawa"
+
+msgctxt "NAME_126"
+msgid "横田 三平"
+msgstr "Sanpei Yokota"
+
+msgctxt "NAME_127"
+msgid "荒井 茂"
+msgstr "Shigeru Arai"
+
+msgctxt "NAME_128"
+msgid "岡崎 梅之助"
+msgstr "Okazaki Umenosuke"
+
+msgctxt "NAME_129"
+msgid "鎌田 多兵衛"
+msgstr "Tamae Kamada"
+
+msgctxt "NAME_130"
+msgid "大石 吉太郎"
+msgstr "Yoshitaro Oishi"
+
+msgctxt "NAME_131"
+msgid "成田 五郎"
+msgstr "Goro Narita"
+
+msgctxt "NAME_132"
+msgid "小田 彦四郎"
+msgstr "Hikoshiro Oda"
+
+msgctxt "NAME_133"
+msgid "宮田 四郎"
+msgstr "Shiro Miyata"
+
+msgctxt "NAME_134"
+msgid "石橋 鋤一郎"
+msgstr "Ishibashi Plow Ichiro"
+
+msgctxt "NAME_135"
+msgid "篠原 甚三郎"
+msgstr "Jinzaburo Shinohara"
+
+msgctxt "NAME_136"
+msgid "萩原 廉太郎"
+msgstr "Rentaro Hagiwara"
+
+msgctxt "NAME_137"
+msgid "高山 次郎"
+msgstr "Jiro Takayama"
+
+msgctxt "NAME_138"
+msgid "小西 光彦"
+msgstr "Mitsuhiko Konishi"
+
+msgctxt "NAME_139"
+msgid "栗原 権兵衛"
+msgstr "Gonbei Kurihara"
+
+msgctxt "NAME_140"
+msgid "酒井 孫吉"
+msgstr "Sakai Sunkichi"
+
+msgctxt "NAME_141"
+msgid "松原 弥五郎"
+msgstr "Yagoro Matsubara"
+
+msgctxt "NAME_142"
+msgid "糸田 三兵衛"
+msgstr "Itoda Sanbei"
+
+msgctxt "NAME_143"
+msgid "三宅 五助"
+msgstr "Gosuke Miyake"
+
+msgctxt "NAME_144"
+msgid "福井 長次郎"
+msgstr "Chojiro Fukui"
+
+msgctxt "NAME_145"
+msgid "小沢 吉八郎"
+msgstr "Yoshihachiro Ozawa"
+
+msgctxt "NAME_146"
+msgid "南 信之助"
+msgstr "Nam Shinnosuke"
+
+msgctxt "NAME_147"
+msgid "大森 権助"
+msgstr "Gonsuke Omori"
+
+msgctxt "NAME_148"
+msgid "奥村 与兵衛"
+msgstr "Okumura Yohei"
+
+msgctxt "NAME_149"
+msgid "片岡 長五郎"
+msgstr "Chogoro Kataoka"
+
+msgctxt "NAME_150"
+msgid "内山 弥吉"
+msgstr "Yakichi Uchiyama"
+
+msgctxt "NAME_151"
+msgid "桑原 新三郎"
+msgstr "Shinsaburo Kuwahara"
+
+msgctxt "NAME_152"
+msgid "岡 銀二"
+msgstr "Oka Ginji"
+
+msgctxt "NAME_153"
+msgid "富田 三郎"
+msgstr "Saburo Tomita"
+
+msgctxt "NAME_154"
+msgid "関口 一郎"
+msgstr "Ichiro Sekiguchi"
+
+msgctxt "NAME_155"
+msgid "松永 甚太郎"
+msgstr "Jintaro Matsunaga"
+
+msgctxt "NAME_156"
+msgid "奥田 留吉"
+msgstr "Tomekichi Okuda"
+
+msgctxt "NAME_157"
+msgid "北川 秀士郎"
+msgstr "Hideshiro Kitagawa"
+
+msgctxt "NAME_158"
+msgid "古賀 太郎吉"
+msgstr "Taro Koga"
+
+msgctxt "NAME_159"
+msgid "上原 彦衛門"
+msgstr "Uehara Hikoemon"
+
+msgctxt "NAME_160"
+msgid "工藤 平太"
+msgstr "Heita Kudo"
+
+msgctxt "NAME_161"
+msgid "八木 又一郎"
+msgstr "Mataichiro Yagi"
+
+msgctxt "NAME_162"
+msgid "吉野 伝次郎"
+msgstr "Denjiro Yoshino"
+
+msgctxt "NAME_163"
+msgid "白石 鋤一"
+msgstr "Shiraishi Hoichi"
+
+msgctxt "NAME_164"
+msgid "今村 桑次郎"
+msgstr "Kuwajiro Imamura"
+
+msgctxt "NAME_165"
+msgid "川島 藤吉"
+msgstr "Fujiyoshi Kawashima"
+
+msgctxt "NAME_166"
+msgid "上村 金三"
+msgstr "Kinzo Uemura"
+
+msgctxt "NAME_167"
+msgid "小泉 徳之助"
+msgstr "Tokunosuke Koizumi"
+
+msgctxt "NAME_168"
+msgid "中尾 半助"
+msgstr "Hansuke Nakao"
+
+msgctxt "NAME_169"
+msgid "平山 彦三"
+msgstr "Hikozo Hirayama"
+
+msgctxt "NAME_170"
+msgid "牧野 米助"
+msgstr "Makino Yonesuke"
+
+msgctxt "NAME_171"
+msgid "寺田 門司"
+msgstr "Terada Moji"
+
+msgctxt "NAME_172"
+msgid "渋谷 麦蔵"
+msgstr "Shibuya barley"
+
+msgctxt "NAME_173"
+msgid "岡村 末吉"
+msgstr "Sueyoshi Okamura"
+
+msgctxt "NAME_174"
+msgid "児玉 由兵衛"
+msgstr "Kodama Yoshibe"
+
+msgctxt "NAME_175"
+msgid "坂口 太郎"
+msgstr "Taro Sakaguchi"
+
+msgctxt "NAME_176"
+msgid "河合 栄吉"
+msgstr "Eikichi Kawai"
+
+msgctxt "NAME_177"
+msgid "大山 六郎"
+msgstr "Rokuro Oyama"
+
+msgctxt "NAME_178"
+msgid "多田 順司"
+msgstr "Junji Tada"
+
+msgctxt "NAME_179"
+msgid "宮下 源二"
+msgstr "Genji Miyashita"
+
+msgctxt "NAME_180"
+msgid "横山 甚太郎"
+msgstr "Jintaro Yokoyama"
+
+msgctxt "NAME_181"
+msgid "石原 平一"
+msgstr "Ishihara Heiichi"
+
+msgctxt "NAME_182"
+msgid "松下 七郎"
+msgstr "Shichiro Matsushita"
+
+msgctxt "NAME_183"
+msgid "大橋 八兵衛"
+msgstr "Ohashi Hachibei"
+
+msgctxt "NAME_184"
+msgid "吉岡 蔵太"
+msgstr "Kurata Yoshioka"
+
+msgctxt "NAME_185"
+msgid "松浦 九郎"
+msgstr "Kuro Matsuura"
+
+msgctxt "NAME_186"
+msgid "小池 三郎"
+msgstr "Saburo Koike"
+
+msgctxt "NAME_187"
+msgid "浅野 権蔵"
+msgstr "Gonzo Asano"
+
+msgctxt "NAME_188"
+msgid "熊谷 太平"
+msgstr "Taihei Kumagai"
+
+msgctxt "NAME_189"
+msgid "荒木 彦兵衛"
+msgstr "Hikobei Araki"
+
+msgctxt "NAME_190"
+msgid "野田 源一郎"
+msgstr "Genichiro Noda"
+
+msgctxt "NAME_191"
+msgid "川村 豊"
+msgstr "Yutaka Kawamura"
+
+msgctxt "NAME_192"
+msgid "星野 権作"
+msgstr "Hoshino Gonsaku"
+
+msgctxt "NAME_193"
+msgid "広瀬 喜一"
+msgstr "Kiichi Hirose"
+
+msgctxt "NAME_194"
+msgid "大谷 又一"
+msgstr "Otani Yoichi"
+
+msgctxt "NAME_195"
+msgid "黒田 五郎"
+msgstr "Goro Kuroda"
+
+msgctxt "NAME_196"
+msgid "尾崎 作兵衛"
+msgstr "Risa Ozaki"
+
+msgctxt "NAME_197"
+msgid "田辺 六之助"
+msgstr "Rokunosuke Tanabe"
+
+msgctxt "NAME_198"
+msgid "永田 千代吉"
+msgstr "Chiyokichi Nagata"
+
+msgctxt "NAME_199"
+msgid "松村 駒三郎"
+msgstr "Matsumura Komasaburo"
+
+msgctxt "NAME_200"
+msgid "吉田 渉"
+msgstr "Wataru Yoshida"
+
+msgctxt "NAME_201"
+msgid "堀 権左衛門"
+msgstr "Hori Gonzaemon"
+
+msgctxt "NAME_202"
+msgid "内藤 一平"
+msgstr "Ippei Naito"
+
+msgctxt "NAME_203"
+msgid "菅野 平次"
+msgstr "Heiji Kanno"
+
+msgctxt "NAME_204"
+msgid "西山 稲造"
+msgstr "Nishiyama Inazo"
+
+msgctxt "NAME_205"
+msgid "小倉 二郎"
+msgstr "Jiro Ogura"
+
+msgctxt "NAME_206"
+msgid "竹田 又三"
+msgstr "Taketa Yuzo"
+
+msgctxt "NAME_207"
+msgid "足立 作之介"
+msgstr "Adachi Sakunosuke"
+
+msgctxt "NAME_208"
+msgid "天野 彦助"
+msgstr "Hikosuke Amano"
+
+msgctxt "NAME_209"
+msgid "村山 十兵衛"
+msgstr "Jubei Murayama"
+
+msgctxt "NAME_210"
+msgid "坂井 太郎"
+msgstr "Taro Sakai"
+
+msgctxt "NAME_211"
+msgid "杉浦 太二"
+msgstr "Taiyo Sugiura"
+
+msgctxt "NAME_212"
+msgid "坂田 源五郎"
+msgstr "Gengoro Sakata"
+
+msgctxt "NAME_213"
+msgid "小原 新太"
+msgstr "Shinta Ohara"
+
+msgctxt "NAME_214"
+msgid "豊田 稲作"
+msgstr "Toyota rice farming"
+
+msgctxt "NAME_215"
+msgid "河村 正一"
+msgstr "Shoichi Kawamura"
+
+msgctxt "NAME_216"
+msgid "角田 四郎"
+msgstr "Shiro Tsunoda"
+
+msgctxt "NAME_217"
+msgid "水谷 和吉"
+msgstr "Kazuyoshi Mizutani"
+
+msgctxt "NAME_218"
+msgid "根本 新三郎"
+msgstr "Nemoto Shinsaburo"
+
+msgctxt "NAME_219"
+msgid "宮崎 佐平"
+msgstr "Sahei Miyazaki"
+
+msgctxt "NAME_220"
+msgid "関根 又九郎"
+msgstr "Matakuro Sekine"
+
+msgctxt "NAME_221"
+msgid "森下 権吉"
+msgstr "Gonyoshi Morishita"
+
+msgctxt "NAME_222"
+msgid "中井 万吉"
+msgstr "Mankichi Nakai"
+
+msgctxt "NAME_223"
+msgid "田島 三助"
+msgstr "Tajima Sansuke"
+
+msgctxt "NAME_224"
+msgid "植田 秀次郎"
+msgstr "Shujiro Ueda"
+
+msgctxt "NAME_225"
+msgid "塚本 猫介"
+msgstr "Tsukamoto Nekosuke"
+
+msgctxt "NAME_226"
+msgid "飯塚 満太"
+msgstr "Mita Iizuka"
+
+msgctxt "NAME_227"
+msgid "前川 太助"
+msgstr "Tasuke Maekawa"
+
+msgctxt "NAME_228"
+msgid "鈴木 照道"
+msgstr "Terumichi Suzuki"
+
+msgctxt "NAME_229"
+msgid "浅井 三郎"
+msgstr "Saburo Asai"
+
+msgctxt "NAME_230"
+msgid "山根 大四郎"
+msgstr "Daishiro Yamane"
+
+msgctxt "NAME_231"
+msgid "白井 六郎太"
+msgstr "Rotaro Shirai"
+
+msgctxt "NAME_232"
+msgid "宮川 二郎吉"
+msgstr "Jirokichi Miyakawa"
+
+msgctxt "NAME_233"
+msgid "岡本 惇"
+msgstr "Okamoto Toshi"
+
+msgctxt "NAME_234"
+msgid "大沢 小太郎"
+msgstr "Kotaro Osawa"
+
+msgctxt "NAME_235"
+msgid "大川 稲介"
+msgstr "Inasuke Okawa"
+
+msgctxt "NAME_236"
+msgid "長田 三太"
+msgstr "Mita Nagata"
+
+msgctxt "NAME_237"
+msgid "堀内 十兵衛"
+msgstr "Jubei Horiuchi"
+
+msgctxt "NAME_238"
+msgid "稲垣 六之助"
+msgstr "Rokunosuke Inagaki"
+
+msgctxt "NAME_239"
+msgid "若林 二平"
+msgstr "Nihei Wakabayashi"
+
+msgctxt "NAME_240"
+msgid "松崎 重三"
+msgstr "Shigezo Matsuzaki"
+
+msgctxt "NAME_241"
+msgid "榎本 太郎"
+msgstr "Taro Enomoto"
+
+msgctxt "NAME_242"
+msgid "森山 一平"
+msgstr "Ippei Moriyama"
+
+msgctxt "NAME_243"
+msgid "神谷 聡"
+msgstr "Satoshi Kamiya"
+
+msgctxt "NAME_244"
+msgid "中沢 四平"
+msgstr "Shihei Nakazawa"
+
+msgctxt "NAME_245"
+msgid "江口 助蔵"
+msgstr "Eguchi Sukezo"
+
+msgctxt "NAME_246"
+msgid "中谷 小平太"
+msgstr "Kohei Nakatani"
+
+msgctxt "NAME_247"
+msgid "稲辺 信太郎"
+msgstr "Shintaro Inanabe"
+
+msgctxt "NAME_248"
+msgid "谷 文十三"
+msgstr "Tani Bunjuzo"
+
+msgctxt "NAME_249"
+msgid "及川 三平"
+msgstr "Sanpei Oikawa"
+
+msgctxt "NAME_250"
+msgid "三上 二郎"
+msgstr "Jiro Mikami"
+
+msgctxt "NAME_251"
+msgid "今野 左平"
+msgstr "Sahei Konno"
+
+msgctxt "NAME_252"
+msgid "西尾 武次郎"
+msgstr "Takejiro Nishio"
+
+msgctxt "NAME_253"
+msgid "安達 道三"
+msgstr "Dosan Adachi"
+
+msgctxt "NAME_254"
+msgid "田代 七郎"
+msgstr "Shichiro Tashiro"
+
+msgctxt "NAME_255"
+msgid "飯島 平助"
+msgstr "Heisuke Iijima"
+
+msgctxt "NAME_256"
+msgid "石塚 三造"
+msgstr "Ishizuka Sanzo"
+
+msgctxt "NAME_257"
+msgid "津田 一平太"
+msgstr "Ippei Tsuda"
+
+msgctxt "NAME_258"
+msgid "宮本 福助"
+msgstr "Fukusuke Miyamoto"
+
+msgctxt "NAME_259"
+msgid "久保園 健"
+msgstr "Ken Kubozono"
+
+msgctxt "NAME_260"
+msgid "土井 又太"
+msgstr "Matata Doi"
+
+msgctxt "NAME_261"
+msgid "米田 晋平"
+msgstr "Shinpei Yoneda"
+
+msgctxt "NAME_262"
+msgid "丸山 理一"
+msgstr "Riichi Maruyama"
+
+msgctxt "NAME_263"
+msgid "鈴木 二郎"
+msgstr "Jiro Suzuki"
+
+msgctxt "NAME_264"
+msgid "三好 権三"
+msgstr "Miyoshi Gonzo"
+
+msgctxt "NAME_265"
+msgid "吉田 一郎"
+msgstr "Ichiro Yoshida"
+
+msgctxt "NAME_266"
+msgid "米田 太郎"
+msgstr "Taro Yoneda"
+
+msgctxt "NAME_267"
+msgid "田中 智弘"
+msgstr "Tomohiro Tanaka"
+
+msgctxt "NAME_268"
+msgid "岡野 二郎"
+msgstr "Jiro Okano"
+
+msgctxt "NAME_269"
+msgid "藤原 治"
+msgstr "Fujiwara"
+
+msgctxt "NAME_270"
+msgid "岸井 源八郎"
+msgstr "Genhachiro Kishii"
+
+msgctxt "NAME_271"
+msgid "佐伯 又八"
+msgstr "Saeki Yupachi"
+
+msgctxt "NAME_272"
+msgid "岸田 修平"
+msgstr "Shuhei Kishida"
+
+msgctxt "NAME_273"
+msgid "片山 信吾"
+msgstr "Shingo Katayama"
+
+msgctxt "NAME_274"
+msgid "星 広馬"
+msgstr "Star Horse"
+
+msgctxt "NAME_275"
+msgid "中嶋 登"
+msgstr "Noboru Nakajima"
+
+msgctxt "NAME_276"
+msgid "岩井 吉平"
+msgstr "Yoshihei Iwai"
+
+msgctxt "NAME_277"
+msgid "黒木 三郎太"
+msgstr "Saburo Kuroki"
+
+msgctxt "NAME_278"
+msgid "堤 太郎二郎"
+msgstr "Tetaro Jiro"
+
+msgctxt "NAME_279"
+msgid "金田 伝吉"
+msgstr "Denkichi Kaneda"
+
+msgctxt "NAME_280"
+msgid "野崎 三郎"
+msgstr "Saburo Nozaki"
+
+msgctxt "NAME_281"
+msgid "落合 種太郎"
+msgstr "Taro Ochiai"
+
+msgctxt "NAME_282"
+msgid "堀田 稲吉"
+msgstr "Hotta Inayoshi"
+
+msgctxt "NAME_283"
+msgid "西野 麦太郎"
+msgstr "Nishino Mugitaro"
+
+msgctxt "NAME_284"
+msgid "町田 八郎"
+msgstr "Hachiro Machida"
+
+msgctxt "NAME_285"
+msgid "斎藤 新太郎"
+msgstr "Shintaro Saito"
+
+msgctxt "NAME_286"
+msgid "山岸 秀三"
+msgstr "Hidetada Yamagishi"
+
+msgctxt "NAME_287"
+msgid "新田 剣次郎"
+msgstr "Kenjiro Nitta"
+
+msgctxt "NAME_288"
+msgid "古田 育三"
+msgstr "Ikuzo Furuta"
+
+msgctxt "NAME_289"
+msgid "滝沢 弥助"
+msgstr "Yasuke Takizawa"
+
+msgctxt "NAME_290"
+msgid "川田 六助"
+msgstr "Rokusuke Kawada"
+
+msgctxt "NAME_291"
+msgid "山川 平太"
+msgstr "Heita Yamakawa"
+
+msgctxt "NAME_292"
+msgid "杉田 源太"
+msgstr "Genta Sugita"
+
+msgctxt "NAME_293"
+msgid "土田 勝三"
+msgstr "Katsuzo Tsuchida"
+
+msgctxt "NAME_294"
+msgid "笠原 稲之介"
+msgstr "Kasahara Inanosuke"
+
+msgctxt "NAME_295"
+msgid "金沢 又三郎"
+msgstr "Matasaburo Kanazawa"
+
+msgctxt "NAME_296"
+msgid "奥山 与太郎"
+msgstr "Yotaro Okuyama"
+
+msgctxt "NAME_297"
+msgid "内田 作兵衛"
+msgstr "Sakubei Uchida"
+
+msgctxt "NAME_298"
+msgid "三木 弥太郎"
+msgstr "Yataro Miki"
+
+msgctxt "NAME_299"
+msgid "梅田 又吉"
+msgstr "Umeda Matayoshi"
+
+msgctxt "NAME_300"
+msgid "村井 太郎"
+msgstr "Taro Murai"
+
+msgctxt "NAME_301"
+msgid "野中 与平"
+msgstr "Yohei Nonaka"
+
+msgctxt "NAME_302"
+msgid "堀江 大五郎"
+msgstr "Horie Daigoro"
+
+msgctxt "NAME_303"
+msgid "大竹 道彦"
+msgstr "Michihiko Otake"
+
+msgctxt "NAME_304"
+msgid "川端 諭吉"
+msgstr "Satoshi Kawabata"
+
+msgctxt "NAME_305"
+msgid "大村 勝二"
+msgstr "Katsuji Omura"
+
+msgctxt "NAME_306"
+msgid "岸 八郎兵衛"
+msgstr "Kishihachiro Hebei"
+
+msgctxt "NAME_307"
+msgid "日高 勝吉"
+msgstr "Katsuyoshi Hidaka"
+
+msgctxt "NAME_308"
+msgid "梶原 惣吉"
+msgstr "Sokichi Kajiwara"
+
+msgctxt "NAME_309"
+msgid "梶木 三郎"
+msgstr "Saburo Kajiki"
+
+msgctxt "NAME_310"
+msgid "広田 勘介"
+msgstr "Kansuke Hirota"
+
+msgctxt "NAME_311"
+msgid "藤沢 弥一郎"
+msgstr "Yaichiro Fujisawa"
+
+msgctxt "NAME_312"
+msgid "西本 三郎"
+msgstr "Saburo Nishimoto"
+
+msgctxt "NAME_313"
+msgid "井口 弥三郎"
+msgstr "Yasaburo Iguchi"
+
+msgctxt "NAME_314"
+msgid "向井 貫太"
+msgstr "Kanta Mukai"
+
+msgctxt "NAME_315"
+msgid "大木 門司"
+msgstr "Oki Moji"
+
+msgctxt "NAME_316"
+msgid "大場 源蔵"
+msgstr "Genzo Oba"
+
+msgctxt "NAME_317"
+msgid "松島 又八郎"
+msgstr "Matsushima Matahachiro"
+
+msgctxt "NAME_318"
+msgid "竹中 文太"
+msgstr "Bunta Takenaka"
+
+msgctxt "NAME_319"
+msgid "榊原 真一"
+msgstr "Shinichi Sakakibara"
+
+msgctxt "NAME_320"
+msgid "藤川 清次郎"
+msgstr "Seijiro Fujikawa"
+
+msgctxt "NAME_321"
+msgid "吉本 太郎"
+msgstr "Taro Yoshimoto"
+
+msgctxt "NAME_322"
+msgid "川原 二郎"
+msgstr "Jiro Kawahara"
+
+msgctxt "NAME_323"
+msgid "安井 弥平"
+msgstr "Yahei Yasui"
+
+msgctxt "NAME_324"
+msgid "大内 惣太"
+msgstr "Sota Ouchi"
+
+msgctxt "NAME_325"
+msgid "竹下 右平"
+msgstr "Uhei Takeshita"
+
+msgctxt "NAME_326"
+msgid "吉原 敬二"
+msgstr "Keiji Yoshihara"
+
+msgctxt "NAME_327"
+msgid "藤岡 四郎"
+msgstr "Shiro Fujioka"
+
+msgctxt "NAME_328"
+msgid "塚田 平太郎"
+msgstr "Heitaro Tsukada"
+
+msgctxt "NAME_329"
+msgid "福本 源一郎"
+msgstr "Genichiro Fukumoto"
+
+msgctxt "NAME_330"
+msgid "柳沢 弥一郎"
+msgstr "Yaichiro Yanagisawa"
+
+msgctxt "NAME_331"
+msgid "高島 彦太"
+msgstr "Hikota Takashima"
+
+msgctxt "NAME_332"
+msgid "大谷 又三"
+msgstr "Otani Yuzo"
+
+msgctxt "NAME_333"
+msgid "小谷 藤三"
+msgstr "Tozo Kotani"
+
+msgctxt "NAME_334"
+msgid "藤村 大一郎"
+msgstr "Daiichiro Fujimura"
+
+msgctxt "NAME_335"
+msgid "宮内 作兵衛"
+msgstr "Miyauchi Sakubei"
+
+msgctxt "NAME_336"
+msgid "竹本 裕二"
+msgstr "Yuji Takemoto"
+
+msgctxt "NAME_337"
+msgid "谷川 道行"
+msgstr "Michiyuki Tanikawa"
+
+msgctxt "NAME_338"
+msgid "緒方 安康"
+msgstr "Ogata Ankang"
+
+msgctxt "NAME_339"
+msgid "奥野 平庵"
+msgstr "Okuno Heian"
+
+msgctxt "NAME_340"
+msgid "宮沢 歩"
+msgstr "Ayumu Miyazawa"
+
+msgctxt "NAME_341"
+msgid "窪田 三雄太"
+msgstr "Mitsuyuta Kubota"
+
+msgctxt "NAME_342"
+msgid "下田 次郎"
+msgstr "Jiro Shimoda"
+
+msgctxt "NAME_343"
+msgid "北野 二兵衛"
+msgstr "Nibei Kitano"
+
+msgctxt "NAME_344"
+msgid "栗田 明之助"
+msgstr "Akinosuke Kurita"
+
+msgctxt "NAME_345"
+msgid "石黒 信平"
+msgstr "Shinpei Ishiguro"
+
+msgctxt "NAME_346"
+msgid "亀井 重太郎"
+msgstr "Kamei Shigetaro"
+
+msgctxt "NAME_347"
+msgid "長野 巌"
+msgstr "Iwao Nagano"
+
+msgctxt "NAME_348"
+msgid "平川 兼行"
+msgstr "Kaneyuki Hirakawa"
+
+msgctxt "NAME_349"
+msgid "藤野 助五郎"
+msgstr "Fujino Sukegoro"
+
+msgctxt "NAME_350"
+msgid "宮原 又一"
+msgstr "Mataichi Miyahara"
+
+msgctxt "NAME_351"
+msgid "長島 一郎"
+msgstr "Ichiro Nagashima"
+
+msgctxt "NAME_352"
+msgid "川本 三郎"
+msgstr "Saburo Kawamoto"
+
+msgctxt "NAME_353"
+msgid "茂木 明"
+msgstr "Akira Mogi"
+
+msgctxt "NAME_354"
+msgid "三輪 周平"
+msgstr "Miwa Shuhei"
+
+msgctxt "NAME_355"
+msgid "下村 彦太郎"
+msgstr "Hikotaro Shimomura"
+
+msgctxt "NAME_356"
+msgid "山村 権兵衛"
+msgstr "Gonbei Yamamura"
+
+msgctxt "NAME_357"
+msgid "丹羽 作兵衛"
+msgstr "Niwa Sakubei"
+
+msgctxt "NAME_358"
+msgid "高井 雄三"
+msgstr "Yuzo Takai"
+
+msgctxt "NAME_359"
+msgid "古谷 一太"
+msgstr "Ikko Furuya"
+
+msgctxt "NAME_360"
+msgid "吉沢 貫太郎"
+msgstr "Kuntaro Yoshizawa"
+
+msgctxt "NAME_361"
+msgid "青柳 貞行"
+msgstr "Sadayuki Aoyagi"
+
+msgctxt "NAME_362"
+msgid "竹村 米蔵"
+msgstr "Takemura Yonezo"
+
+msgctxt "NAME_363"
+msgid "出口 内蔵助"
+msgstr "Exit built-in assistant"
+
+msgctxt "NAME_364"
+msgid "荻野 助六"
+msgstr "Sukeroku Ogino"
+
+msgctxt "NAME_365"
+msgid "小森 鉢太郎"
+msgstr "Komori Hattaro"
+
+msgctxt "NAME_366"
+msgid "黒沢 一郎"
+msgstr "Ichiro Kurosawa"
+
+msgctxt "NAME_367"
+msgid "高瀬 弥三郎"
+msgstr "Yasaburo Takase"
+
+msgctxt "NAME_368"
+msgid "稲田 安彦"
+msgstr "Yasuhiko Inada"
+
+msgctxt "NAME_369"
+msgid "大城 道則"
+msgstr "Dacheng Road"
+
+msgctxt "NAME_370"
+msgid "筒井 源一"
+msgstr "Genichi Tsutsui"
+
+msgctxt "NAME_371"
+msgid "福岡 春太郎"
+msgstr "Fukuoka Harutaro"
+
+msgctxt "NAME_372"
+msgid "横井 慶一郎"
+msgstr "Keiichiro Yokoi"
+
+msgctxt "NAME_373"
+msgid "大平 作兵衛"
+msgstr "Sakubei Ohira"
+
+msgctxt "NAME_374"
+msgid "宮城 則一"
+msgstr "Noriichi Miyagi"
+
+msgctxt "NAME_375"
+msgid "攻撃師範"
+msgstr "Attack Master"
+
+msgctxt "NAME_376"
+msgid "守備師範"
+msgstr "Defensive instructor"
+
+msgctxt "NAME_377"
+msgid "衛生師範"
+msgstr "Hygiene master"
+
+msgctxt "NAME_378"
+msgid "応援師範"
+msgstr "Cheering instructor"
+
+msgctxt "NAME_379"
+msgid "支援師範"
+msgstr "Support Teacher"
+
+msgctxt "TEX_NAME_0"
+msgid "taishi_000"
+msgstr ""
+
+msgctxt "TEX_NAME_1"
+msgid "taishi_001"
+msgstr ""
+
+msgctxt "TEX_NAME_2"
+msgid "taishi_002"
+msgstr ""
+
+msgctxt "TEX_NAME_3"
+msgid "taishi_003"
+msgstr ""
+
+msgctxt "TEX_NAME_4"
+msgid "taishi_004"
+msgstr ""
+
+msgctxt "TEX_NAME_5"
+msgid "taishi_005"
+msgstr ""
+
+msgctxt "TEX_NAME_6"
+msgid "taishi_006"
+msgstr ""
+
+msgctxt "TEX_NAME_7"
+msgid "taishi_007"
+msgstr ""
+
+msgctxt "TEX_NAME_8"
+msgid "taishi_008"
+msgstr ""
+
+msgctxt "TEX_NAME_9"
+msgid "taishi_009"
+msgstr ""
+
+msgctxt "TEX_NAME_10"
+msgid "taishi_010"
+msgstr ""
+
+msgctxt "TEX_NAME_11"
+msgid "taishi_011"
+msgstr ""
+
+msgctxt "TEX_NAME_12"
+msgid "taishi_012"
+msgstr ""
+
+msgctxt "TEX_NAME_13"
+msgid "taishi_013"
+msgstr ""
+
+msgctxt "TEX_NAME_14"
+msgid "taishi_014"
+msgstr ""
+
+msgctxt "TEX_NAME_15"
+msgid "taishi_015"
+msgstr ""
+
+msgctxt "TEX_NAME_16"
+msgid "taishi_016"
+msgstr ""
+
+msgctxt "TEX_NAME_17"
+msgid "taishi_017"
+msgstr ""
+
+msgctxt "TEX_NAME_18"
+msgid "taishi_018"
+msgstr ""
+
+msgctxt "TEX_NAME_19"
+msgid "taishi_019"
+msgstr ""
+
+msgctxt "TEX_NAME_20"
+msgid "taishi_020"
+msgstr ""
+
+msgctxt "TEX_NAME_21"
+msgid "taishi_021"
+msgstr ""
+
+msgctxt "TEX_NAME_22"
+msgid "taishi_022"
+msgstr ""
+
+msgctxt "TEX_NAME_23"
+msgid "taishi_023"
+msgstr ""
+
+msgctxt "TEX_NAME_24"
+msgid "taishi_024"
+msgstr ""
+
+msgctxt "TEX_NAME_25"
+msgid "taishi_025"
+msgstr ""
+
+msgctxt "TEX_NAME_26"
+msgid "taishi_026"
+msgstr ""
+
+msgctxt "TEX_NAME_27"
+msgid "taishi_027"
+msgstr ""
+
+msgctxt "TEX_NAME_28"
+msgid "taishi_028"
+msgstr ""
+
+msgctxt "TEX_NAME_29"
+msgid "taishi_029"
+msgstr ""
+
+msgctxt "TEX_NAME_30"
+msgid "taishi_030"
+msgstr ""
+
+msgctxt "TEX_NAME_31"
+msgid "taishi_031"
+msgstr ""
+
+msgctxt "TEX_NAME_32"
+msgid "taishi_032"
+msgstr ""
+
+msgctxt "TEX_NAME_33"
+msgid "taishi_033"
+msgstr ""
+
+msgctxt "TEX_NAME_34"
+msgid "taishi_034"
+msgstr ""
+
+msgctxt "TEX_NAME_35"
+msgid "taishi_035"
+msgstr ""
+
+msgctxt "TEX_NAME_36"
+msgid "taishi_036"
+msgstr ""
+
+msgctxt "TEX_NAME_37"
+msgid "taishi_037"
+msgstr ""
+
+msgctxt "TEX_NAME_38"
+msgid "taishi_038"
+msgstr ""
+
+msgctxt "TEX_NAME_39"
+msgid "taishi_039"
+msgstr ""
+
+msgctxt "TEX_NAME_40"
+msgid "taishi_040"
+msgstr ""
+
+msgctxt "TEX_NAME_41"
+msgid "taishi_041"
+msgstr ""
+
+msgctxt "TEX_NAME_42"
+msgid "taishi_042"
+msgstr ""
+
+msgctxt "TEX_NAME_43"
+msgid "taishi_043"
+msgstr ""
+
+msgctxt "TEX_NAME_44"
+msgid "taishi_044"
+msgstr ""
+
+msgctxt "TEX_NAME_45"
+msgid "taishi_045"
+msgstr ""
+
+msgctxt "TEX_NAME_46"
+msgid "taishi_046"
+msgstr ""
+
+msgctxt "TEX_NAME_47"
+msgid "taishi_047"
+msgstr ""
+
+msgctxt "TEX_NAME_48"
+msgid "taishi_048"
+msgstr ""
+
+msgctxt "TEX_NAME_49"
+msgid "taishi_049"
+msgstr ""
+
+msgctxt "TEX_NAME_50"
+msgid "taishi_050"
+msgstr ""
+
+msgctxt "TEX_NAME_51"
+msgid "taishi_051"
+msgstr ""
+
+msgctxt "TEX_NAME_52"
+msgid "taishi_052"
+msgstr ""
+
+msgctxt "TEX_NAME_53"
+msgid "taishi_053"
+msgstr ""
+
+msgctxt "TEX_NAME_54"
+msgid "taishi_054"
+msgstr ""
+
+msgctxt "TEX_NAME_55"
+msgid "taishi_055"
+msgstr ""
+
+msgctxt "TEX_NAME_56"
+msgid "taishi_056"
+msgstr ""
+
+msgctxt "TEX_NAME_57"
+msgid "taishi_057"
+msgstr ""
+
+msgctxt "TEX_NAME_58"
+msgid "taishi_058"
+msgstr ""
+
+msgctxt "TEX_NAME_59"
+msgid "taishi_059"
+msgstr ""
+
+msgctxt "TEX_NAME_60"
+msgid "taishi_060"
+msgstr ""
+
+msgctxt "TEX_NAME_61"
+msgid "taishi_061"
+msgstr ""
+
+msgctxt "TEX_NAME_62"
+msgid "taishi_062"
+msgstr ""
+
+msgctxt "TEX_NAME_63"
+msgid "taishi_063"
+msgstr ""
+
+msgctxt "TEX_NAME_64"
+msgid "taishi_064"
+msgstr ""
+
+msgctxt "TEX_NAME_65"
+msgid "taishi_065"
+msgstr ""
+
+msgctxt "TEX_NAME_66"
+msgid "taishi_066"
+msgstr ""
+
+msgctxt "TEX_NAME_67"
+msgid "taishi_067"
+msgstr ""
+
+msgctxt "TEX_NAME_68"
+msgid "taishi_068"
+msgstr ""
+
+msgctxt "TEX_NAME_69"
+msgid "taishi_069"
+msgstr ""
+
+msgctxt "TEX_NAME_70"
+msgid "taishi_070"
+msgstr ""
+
+msgctxt "TEX_NAME_71"
+msgid "taishi_071"
+msgstr ""
+
+msgctxt "TEX_NAME_72"
+msgid "taishi_072"
+msgstr ""
+
+msgctxt "TEX_NAME_73"
+msgid "taishi_073"
+msgstr ""
+
+msgctxt "TEX_NAME_74"
+msgid "taishi_074"
+msgstr ""
+
+msgctxt "TEX_NAME_75"
+msgid "taishi_075"
+msgstr ""
+
+msgctxt "TEX_NAME_76"
+msgid "taishi_076"
+msgstr ""
+
+msgctxt "TEX_NAME_77"
+msgid "taishi_077"
+msgstr ""
+
+msgctxt "TEX_NAME_78"
+msgid "taishi_078"
+msgstr ""
+
+msgctxt "TEX_NAME_79"
+msgid "taishi_079"
+msgstr ""
+
+msgctxt "TEX_NAME_80"
+msgid "taishi_080"
+msgstr ""
+
+msgctxt "TEX_NAME_81"
+msgid "taishi_081"
+msgstr ""
+
+msgctxt "TEX_NAME_82"
+msgid "taishi_082"
+msgstr ""
+
+msgctxt "TEX_NAME_83"
+msgid "taishi_083"
+msgstr ""
+
+msgctxt "TEX_NAME_84"
+msgid "taishi_084"
+msgstr ""
+
+msgctxt "TEX_NAME_85"
+msgid "taishi_085"
+msgstr ""
+
+msgctxt "TEX_NAME_86"
+msgid "taishi_086"
+msgstr ""
+
+msgctxt "TEX_NAME_87"
+msgid "taishi_087"
+msgstr ""
+
+msgctxt "TEX_NAME_88"
+msgid "taishi_088"
+msgstr ""
+
+msgctxt "TEX_NAME_89"
+msgid "taishi_089"
+msgstr ""
+
+msgctxt "TEX_NAME_90"
+msgid "taishi_090"
+msgstr ""
+
+msgctxt "TEX_NAME_91"
+msgid "taishi_091"
+msgstr ""
+
+msgctxt "TEX_NAME_92"
+msgid "taishi_092"
+msgstr ""
+
+msgctxt "TEX_NAME_93"
+msgid "taishi_093"
+msgstr ""
+
+msgctxt "TEX_NAME_94"
+msgid "taishi_094"
+msgstr ""
+
+msgctxt "TEX_NAME_95"
+msgid "taishi_095"
+msgstr ""
+
+msgctxt "TEX_NAME_96"
+msgid "taishi_096"
+msgstr ""
+
+msgctxt "TEX_NAME_97"
+msgid "taishi_097"
+msgstr ""
+
+msgctxt "TEX_NAME_98"
+msgid "taishi_098"
+msgstr ""
+
+msgctxt "TEX_NAME_99"
+msgid "taishi_099"
+msgstr ""
+
+msgctxt "TEX_NAME_100"
+msgid "taishi_100"
+msgstr ""
+
+msgctxt "TEX_NAME_101"
+msgid "taishi_101"
+msgstr ""
+
+msgctxt "TEX_NAME_102"
+msgid "taishi_102"
+msgstr ""
+
+msgctxt "TEX_NAME_103"
+msgid "taishi_103"
+msgstr ""
+
+msgctxt "TEX_NAME_104"
+msgid "taishi_104"
+msgstr ""
+
+msgctxt "TEX_NAME_105"
+msgid "taishi_105"
+msgstr ""
+
+msgctxt "TEX_NAME_106"
+msgid "taishi_106"
+msgstr ""
+
+msgctxt "TEX_NAME_107"
+msgid "taishi_107"
+msgstr ""
+
+msgctxt "TEX_NAME_108"
+msgid "taishi_108"
+msgstr ""
+
+msgctxt "TEX_NAME_109"
+msgid "taishi_109"
+msgstr ""
+
+msgctxt "TEX_NAME_110"
+msgid "taishi_110"
+msgstr ""
+
+msgctxt "TEX_NAME_111"
+msgid "taishi_111"
+msgstr ""
+
+msgctxt "TEX_NAME_112"
+msgid "taishi_112"
+msgstr ""
+
+msgctxt "TEX_NAME_113"
+msgid "taishi_113"
+msgstr ""
+
+msgctxt "TEX_NAME_114"
+msgid "taishi_114"
+msgstr ""
+
+msgctxt "TEX_NAME_115"
+msgid "taishi_115"
+msgstr ""
+
+msgctxt "TEX_NAME_116"
+msgid "taishi_116"
+msgstr ""
+
+msgctxt "TEX_NAME_117"
+msgid "taishi_117"
+msgstr ""
+
+msgctxt "TEX_NAME_118"
+msgid "taishi_118"
+msgstr ""
+
+msgctxt "TEX_NAME_119"
+msgid "taishi_119"
+msgstr ""
+
+msgctxt "TEX_NAME_120"
+msgid "taishi_120"
+msgstr ""
+
+msgctxt "TEX_NAME_121"
+msgid "taishi_121"
+msgstr ""
+
+msgctxt "TEX_NAME_122"
+msgid "taishi_122"
+msgstr ""
+
+msgctxt "TEX_NAME_123"
+msgid "taishi_123"
+msgstr ""
+
+msgctxt "TEX_NAME_124"
+msgid "taishi_124"
+msgstr ""
+
+msgctxt "TEX_NAME_125"
+msgid "taishi_125"
+msgstr ""
+
+msgctxt "TEX_NAME_126"
+msgid "taishi_126"
+msgstr ""
+
+msgctxt "TEX_NAME_127"
+msgid "taishi_127"
+msgstr ""
+
+msgctxt "TEX_NAME_128"
+msgid "taishi_128"
+msgstr ""
+
+msgctxt "TEX_NAME_129"
+msgid "taishi_129"
+msgstr ""
+
+msgctxt "TEX_NAME_130"
+msgid "taishi_130"
+msgstr ""
+
+msgctxt "TEX_NAME_131"
+msgid "taishi_131"
+msgstr ""
+
+msgctxt "TEX_NAME_132"
+msgid "taishi_132"
+msgstr ""
+
+msgctxt "TEX_NAME_133"
+msgid "taishi_133"
+msgstr ""
+
+msgctxt "TEX_NAME_134"
+msgid "taishi_134"
+msgstr ""
+
+msgctxt "TEX_NAME_135"
+msgid "taishi_135"
+msgstr ""
+
+msgctxt "TEX_NAME_136"
+msgid "taishi_136"
+msgstr ""
+
+msgctxt "TEX_NAME_137"
+msgid "taishi_137"
+msgstr ""
+
+msgctxt "TEX_NAME_138"
+msgid "taishi_138"
+msgstr ""
+
+msgctxt "TEX_NAME_139"
+msgid "taishi_139"
+msgstr ""
+
+msgctxt "TEX_NAME_140"
+msgid "taishi_140"
+msgstr ""
+
+msgctxt "TEX_NAME_141"
+msgid "taishi_141"
+msgstr ""
+
+msgctxt "TEX_NAME_142"
+msgid "taishi_142"
+msgstr ""
+
+msgctxt "TEX_NAME_143"
+msgid "taishi_143"
+msgstr ""
+
+msgctxt "TEX_NAME_144"
+msgid "taishi_144"
+msgstr ""
+
+msgctxt "TEX_NAME_145"
+msgid "taishi_145"
+msgstr ""
+
+msgctxt "TEX_NAME_146"
+msgid "taishi_146"
+msgstr ""
+
+msgctxt "TEX_NAME_147"
+msgid "taishi_147"
+msgstr ""
+
+msgctxt "TEX_NAME_148"
+msgid "taishi_148"
+msgstr ""
+
+msgctxt "TEX_NAME_149"
+msgid "taishi_149"
+msgstr ""
+
+msgctxt "TEX_NAME_150"
+msgid "taishi_150"
+msgstr ""
+
+msgctxt "TEX_NAME_151"
+msgid "taishi_151"
+msgstr ""
+
+msgctxt "TEX_NAME_152"
+msgid "taishi_152"
+msgstr ""
+
+msgctxt "TEX_NAME_153"
+msgid "taishi_153"
+msgstr ""
+
+msgctxt "TEX_NAME_154"
+msgid "taishi_154"
+msgstr ""
+
+msgctxt "TEX_NAME_155"
+msgid "taishi_155"
+msgstr ""
+
+msgctxt "TEX_NAME_156"
+msgid "taishi_156"
+msgstr ""
+
+msgctxt "TEX_NAME_157"
+msgid "taishi_157"
+msgstr ""
+
+msgctxt "TEX_NAME_158"
+msgid "taishi_158"
+msgstr ""
+
+msgctxt "TEX_NAME_159"
+msgid "taishi_159"
+msgstr ""
+
+msgctxt "TEX_NAME_160"
+msgid "taishi_160"
+msgstr ""
+
+msgctxt "TEX_NAME_161"
+msgid "taishi_161"
+msgstr ""
+
+msgctxt "TEX_NAME_162"
+msgid "taishi_162"
+msgstr ""
+
+msgctxt "TEX_NAME_163"
+msgid "taishi_163"
+msgstr ""
+
+msgctxt "TEX_NAME_164"
+msgid "taishi_164"
+msgstr ""
+
+msgctxt "TEX_NAME_165"
+msgid "taishi_165"
+msgstr ""
+
+msgctxt "TEX_NAME_166"
+msgid "taishi_166"
+msgstr ""
+
+msgctxt "TEX_NAME_167"
+msgid "taishi_167"
+msgstr ""
+
+msgctxt "TEX_NAME_168"
+msgid "taishi_168"
+msgstr ""
+
+msgctxt "TEX_NAME_169"
+msgid "taishi_169"
+msgstr ""
+
+msgctxt "TEX_NAME_170"
+msgid "taishi_170"
+msgstr ""
+
+msgctxt "TEX_NAME_171"
+msgid "taishi_171"
+msgstr ""
+
+msgctxt "TEX_NAME_172"
+msgid "taishi_172"
+msgstr ""
+
+msgctxt "TEX_NAME_173"
+msgid "taishi_173"
+msgstr ""
+
+msgctxt "TEX_NAME_174"
+msgid "taishi_174"
+msgstr ""
+
+msgctxt "TEX_NAME_175"
+msgid "taishi_175"
+msgstr ""
+
+msgctxt "TEX_NAME_176"
+msgid "taishi_176"
+msgstr ""
+
+msgctxt "TEX_NAME_177"
+msgid "taishi_177"
+msgstr ""
+
+msgctxt "TEX_NAME_178"
+msgid "taishi_178"
+msgstr ""
+
+msgctxt "TEX_NAME_179"
+msgid "taishi_179"
+msgstr ""
+
+msgctxt "TEX_NAME_180"
+msgid "taishi_180"
+msgstr ""
+
+msgctxt "TEX_NAME_181"
+msgid "taishi_181"
+msgstr ""
+
+msgctxt "TEX_NAME_182"
+msgid "taishi_182"
+msgstr ""
+
+msgctxt "TEX_NAME_183"
+msgid "taishi_183"
+msgstr ""
+
+msgctxt "TEX_NAME_184"
+msgid "taishi_184"
+msgstr ""
+
+msgctxt "TEX_NAME_185"
+msgid "taishi_185"
+msgstr ""
+
+msgctxt "TEX_NAME_186"
+msgid "taishi_186"
+msgstr ""
+
+msgctxt "TEX_NAME_187"
+msgid "taishi_187"
+msgstr ""
+
+msgctxt "TEX_NAME_188"
+msgid "taishi_188"
+msgstr ""
+
+msgctxt "TEX_NAME_189"
+msgid "taishi_189"
+msgstr ""
+
+msgctxt "TEX_NAME_190"
+msgid "taishi_190"
+msgstr ""
+
+msgctxt "TEX_NAME_191"
+msgid "taishi_191"
+msgstr ""
+
+msgctxt "TEX_NAME_192"
+msgid "taishi_192"
+msgstr ""
+
+msgctxt "TEX_NAME_193"
+msgid "taishi_193"
+msgstr ""
+
+msgctxt "TEX_NAME_194"
+msgid "taishi_194"
+msgstr ""
+
+msgctxt "TEX_NAME_195"
+msgid "taishi_195"
+msgstr ""
+
+msgctxt "TEX_NAME_196"
+msgid "taishi_196"
+msgstr ""
+
+msgctxt "TEX_NAME_197"
+msgid "taishi_197"
+msgstr ""
+
+msgctxt "TEX_NAME_198"
+msgid "taishi_198"
+msgstr ""
+
+msgctxt "TEX_NAME_199"
+msgid "taishi_199"
+msgstr ""
+
+msgctxt "TEX_NAME_200"
+msgid "taishi_200"
+msgstr ""
+
+msgctxt "TEX_NAME_201"
+msgid "taishi_201"
+msgstr ""
+
+msgctxt "TEX_NAME_202"
+msgid "taishi_202"
+msgstr ""
+
+msgctxt "TEX_NAME_203"
+msgid "taishi_203"
+msgstr ""
+
+msgctxt "TEX_NAME_204"
+msgid "taishi_204"
+msgstr ""
+
+msgctxt "TEX_NAME_205"
+msgid "taishi_205"
+msgstr ""
+
+msgctxt "TEX_NAME_206"
+msgid "taishi_206"
+msgstr ""
+
+msgctxt "TEX_NAME_207"
+msgid "taishi_207"
+msgstr ""
+
+msgctxt "TEX_NAME_208"
+msgid "taishi_208"
+msgstr ""
+
+msgctxt "TEX_NAME_209"
+msgid "taishi_209"
+msgstr ""
+
+msgctxt "TEX_NAME_210"
+msgid "taishi_210"
+msgstr ""
+
+msgctxt "TEX_NAME_211"
+msgid "taishi_211"
+msgstr ""
+
+msgctxt "TEX_NAME_212"
+msgid "taishi_212"
+msgstr ""
+
+msgctxt "TEX_NAME_213"
+msgid "taishi_213"
+msgstr ""
+
+msgctxt "TEX_NAME_214"
+msgid "taishi_214"
+msgstr ""
+
+msgctxt "TEX_NAME_215"
+msgid "taishi_215"
+msgstr ""
+
+msgctxt "TEX_NAME_216"
+msgid "taishi_216"
+msgstr ""
+
+msgctxt "TEX_NAME_217"
+msgid "taishi_217"
+msgstr ""
+
+msgctxt "TEX_NAME_218"
+msgid "taishi_218"
+msgstr ""
+
+msgctxt "TEX_NAME_219"
+msgid "taishi_219"
+msgstr ""
+
+msgctxt "TEX_NAME_220"
+msgid "taishi_220"
+msgstr ""
+
+msgctxt "TEX_NAME_221"
+msgid "taishi_221"
+msgstr ""
+
+msgctxt "TEX_NAME_222"
+msgid "taishi_222"
+msgstr ""
+
+msgctxt "TEX_NAME_223"
+msgid "taishi_223"
+msgstr ""
+
+msgctxt "TEX_NAME_224"
+msgid "taishi_224"
+msgstr ""
+
+msgctxt "TEX_NAME_225"
+msgid "taishi_225"
+msgstr ""
+
+msgctxt "TEX_NAME_226"
+msgid "taishi_226"
+msgstr ""
+
+msgctxt "TEX_NAME_227"
+msgid "taishi_227"
+msgstr ""
+
+msgctxt "TEX_NAME_228"
+msgid "taishi_228"
+msgstr ""
+
+msgctxt "TEX_NAME_229"
+msgid "taishi_229"
+msgstr ""
+
+msgctxt "TEX_NAME_230"
+msgid "taishi_230"
+msgstr ""
+
+msgctxt "TEX_NAME_231"
+msgid "taishi_231"
+msgstr ""
+
+msgctxt "TEX_NAME_232"
+msgid "taishi_232"
+msgstr ""
+
+msgctxt "TEX_NAME_233"
+msgid "taishi_233"
+msgstr ""
+
+msgctxt "TEX_NAME_234"
+msgid "taishi_234"
+msgstr ""
+
+msgctxt "TEX_NAME_235"
+msgid "taishi_235"
+msgstr ""
+
+msgctxt "TEX_NAME_236"
+msgid "taishi_236"
+msgstr ""
+
+msgctxt "TEX_NAME_237"
+msgid "taishi_237"
+msgstr ""
+
+msgctxt "TEX_NAME_238"
+msgid "taishi_238"
+msgstr ""
+
+msgctxt "TEX_NAME_239"
+msgid "taishi_239"
+msgstr ""
+
+msgctxt "TEX_NAME_240"
+msgid "taishi_240"
+msgstr ""
+
+msgctxt "TEX_NAME_241"
+msgid "taishi_241"
+msgstr ""
+
+msgctxt "TEX_NAME_242"
+msgid "taishi_242"
+msgstr ""
+
+msgctxt "TEX_NAME_243"
+msgid "taishi_243"
+msgstr ""
+
+msgctxt "TEX_NAME_244"
+msgid "taishi_244"
+msgstr ""
+
+msgctxt "TEX_NAME_245"
+msgid "taishi_245"
+msgstr ""
+
+msgctxt "TEX_NAME_246"
+msgid "taishi_246"
+msgstr ""
+
+msgctxt "TEX_NAME_247"
+msgid "taishi_247"
+msgstr ""
+
+msgctxt "TEX_NAME_248"
+msgid "taishi_248"
+msgstr ""
+
+msgctxt "TEX_NAME_249"
+msgid "taishi_249"
+msgstr ""
+
+msgctxt "TEX_NAME_250"
+msgid "taishi_250"
+msgstr ""
+
+msgctxt "TEX_NAME_251"
+msgid "taishi_251"
+msgstr ""
+
+msgctxt "TEX_NAME_252"
+msgid "taishi_252"
+msgstr ""
+
+msgctxt "TEX_NAME_253"
+msgid "taishi_253"
+msgstr ""
+
+msgctxt "TEX_NAME_254"
+msgid "taishi_254"
+msgstr ""
+
+msgctxt "TEX_NAME_255"
+msgid "taishi_255"
+msgstr ""
+
+msgctxt "TEX_NAME_256"
+msgid "taishi_256"
+msgstr ""
+
+msgctxt "TEX_NAME_257"
+msgid "taishi_257"
+msgstr ""
+
+msgctxt "TEX_NAME_258"
+msgid "taishi_258"
+msgstr ""
+
+msgctxt "TEX_NAME_259"
+msgid "taishi_259"
+msgstr ""
+
+msgctxt "TEX_NAME_260"
+msgid "taishi_260"
+msgstr ""
+
+msgctxt "TEX_NAME_261"
+msgid "taishi_261"
+msgstr ""
+
+msgctxt "TEX_NAME_262"
+msgid "taishi_262"
+msgstr ""
+
+msgctxt "TEX_NAME_263"
+msgid "taishi_263"
+msgstr ""
+
+msgctxt "TEX_NAME_264"
+msgid "taishi_264"
+msgstr ""
+
+msgctxt "TEX_NAME_265"
+msgid "taishi_265"
+msgstr ""
+
+msgctxt "TEX_NAME_266"
+msgid "taishi_266"
+msgstr ""
+
+msgctxt "TEX_NAME_267"
+msgid "taishi_267"
+msgstr ""
+
+msgctxt "TEX_NAME_268"
+msgid "taishi_268"
+msgstr ""
+
+msgctxt "TEX_NAME_269"
+msgid "taishi_269"
+msgstr ""
+
+msgctxt "TEX_NAME_270"
+msgid "taishi_270"
+msgstr ""
+
+msgctxt "TEX_NAME_271"
+msgid "taishi_271"
+msgstr ""
+
+msgctxt "TEX_NAME_272"
+msgid "taishi_272"
+msgstr ""
+
+msgctxt "TEX_NAME_273"
+msgid "taishi_273"
+msgstr ""
+
+msgctxt "TEX_NAME_274"
+msgid "taishi_274"
+msgstr ""
+
+msgctxt "TEX_NAME_275"
+msgid "taishi_275"
+msgstr ""
+
+msgctxt "TEX_NAME_276"
+msgid "taishi_276"
+msgstr ""
+
+msgctxt "TEX_NAME_277"
+msgid "taishi_277"
+msgstr ""
+
+msgctxt "TEX_NAME_278"
+msgid "taishi_278"
+msgstr ""
+
+msgctxt "TEX_NAME_279"
+msgid "taishi_279"
+msgstr ""
+
+msgctxt "TEX_NAME_280"
+msgid "taishi_280"
+msgstr ""
+
+msgctxt "TEX_NAME_281"
+msgid "taishi_281"
+msgstr ""
+
+msgctxt "TEX_NAME_282"
+msgid "taishi_282"
+msgstr ""
+
+msgctxt "TEX_NAME_283"
+msgid "taishi_283"
+msgstr ""
+
+msgctxt "TEX_NAME_284"
+msgid "taishi_284"
+msgstr ""
+
+msgctxt "TEX_NAME_285"
+msgid "taishi_285"
+msgstr ""
+
+msgctxt "TEX_NAME_286"
+msgid "taishi_286"
+msgstr ""
+
+msgctxt "TEX_NAME_287"
+msgid "taishi_287"
+msgstr ""
+
+msgctxt "TEX_NAME_288"
+msgid "taishi_288"
+msgstr ""
+
+msgctxt "TEX_NAME_289"
+msgid "taishi_289"
+msgstr ""
+
+msgctxt "TEX_NAME_290"
+msgid "taishi_290"
+msgstr ""
+
+msgctxt "TEX_NAME_291"
+msgid "taishi_291"
+msgstr ""
+
+msgctxt "TEX_NAME_292"
+msgid "taishi_292"
+msgstr ""
+
+msgctxt "TEX_NAME_293"
+msgid "taishi_293"
+msgstr ""
+
+msgctxt "TEX_NAME_294"
+msgid "taishi_294"
+msgstr ""
+
+msgctxt "TEX_NAME_295"
+msgid "taishi_295"
+msgstr ""
+
+msgctxt "TEX_NAME_296"
+msgid "taishi_296"
+msgstr ""
+
+msgctxt "TEX_NAME_297"
+msgid "taishi_297"
+msgstr ""
+
+msgctxt "TEX_NAME_298"
+msgid "taishi_298"
+msgstr ""
+
+msgctxt "TEX_NAME_299"
+msgid "taishi_299"
+msgstr ""
+
+msgctxt "TEX_NAME_300"
+msgid "taishi_300"
+msgstr ""
+
+msgctxt "TEX_NAME_301"
+msgid "taishi_301"
+msgstr ""
+
+msgctxt "TEX_NAME_302"
+msgid "taishi_302"
+msgstr ""
+
+msgctxt "TEX_NAME_303"
+msgid "taishi_303"
+msgstr ""
+
+msgctxt "TEX_NAME_304"
+msgid "taishi_304"
+msgstr ""
+
+msgctxt "TEX_NAME_305"
+msgid "taishi_305"
+msgstr ""
+
+msgctxt "TEX_NAME_306"
+msgid "taishi_306"
+msgstr ""
+
+msgctxt "TEX_NAME_307"
+msgid "taishi_307"
+msgstr ""
+
+msgctxt "TEX_NAME_308"
+msgid "taishi_308"
+msgstr ""
+
+msgctxt "TEX_NAME_309"
+msgid "taishi_309"
+msgstr ""
+
+msgctxt "TEX_NAME_310"
+msgid "taishi_310"
+msgstr ""
+
+msgctxt "TEX_NAME_311"
+msgid "taishi_311"
+msgstr ""
+
+msgctxt "TEX_NAME_312"
+msgid "taishi_312"
+msgstr ""
+
+msgctxt "TEX_NAME_313"
+msgid "taishi_313"
+msgstr ""
+
+msgctxt "TEX_NAME_314"
+msgid "taishi_314"
+msgstr ""
+
+msgctxt "TEX_NAME_315"
+msgid "taishi_315"
+msgstr ""
+
+msgctxt "TEX_NAME_316"
+msgid "taishi_316"
+msgstr ""
+
+msgctxt "TEX_NAME_317"
+msgid "taishi_317"
+msgstr ""
+
+msgctxt "TEX_NAME_318"
+msgid "taishi_318"
+msgstr ""
+
+msgctxt "TEX_NAME_319"
+msgid "taishi_319"
+msgstr ""
+
+msgctxt "TEX_NAME_320"
+msgid "taishi_320"
+msgstr ""
+
+msgctxt "TEX_NAME_321"
+msgid "taishi_321"
+msgstr ""
+
+msgctxt "TEX_NAME_322"
+msgid "taishi_322"
+msgstr ""
+
+msgctxt "TEX_NAME_323"
+msgid "taishi_323"
+msgstr ""
+
+msgctxt "TEX_NAME_324"
+msgid "taishi_324"
+msgstr ""
+
+msgctxt "TEX_NAME_325"
+msgid "taishi_325"
+msgstr ""
+
+msgctxt "TEX_NAME_326"
+msgid "taishi_326"
+msgstr ""
+
+msgctxt "TEX_NAME_327"
+msgid "taishi_327"
+msgstr ""
+
+msgctxt "TEX_NAME_328"
+msgid "taishi_328"
+msgstr ""
+
+msgctxt "TEX_NAME_329"
+msgid "taishi_329"
+msgstr ""
+
+msgctxt "TEX_NAME_330"
+msgid "taishi_330"
+msgstr ""
+
+msgctxt "TEX_NAME_331"
+msgid "taishi_331"
+msgstr ""
+
+msgctxt "TEX_NAME_332"
+msgid "taishi_332"
+msgstr ""
+
+msgctxt "TEX_NAME_333"
+msgid "taishi_333"
+msgstr ""
+
+msgctxt "TEX_NAME_334"
+msgid "taishi_334"
+msgstr ""
+
+msgctxt "TEX_NAME_335"
+msgid "taishi_335"
+msgstr ""
+
+msgctxt "TEX_NAME_336"
+msgid "taishi_336"
+msgstr ""
+
+msgctxt "TEX_NAME_337"
+msgid "taishi_337"
+msgstr ""
+
+msgctxt "TEX_NAME_338"
+msgid "taishi_338"
+msgstr ""
+
+msgctxt "TEX_NAME_339"
+msgid "taishi_339"
+msgstr ""
+
+msgctxt "TEX_NAME_340"
+msgid "taishi_340"
+msgstr ""
+
+msgctxt "TEX_NAME_341"
+msgid "taishi_341"
+msgstr ""
+
+msgctxt "TEX_NAME_342"
+msgid "taishi_342"
+msgstr ""
+
+msgctxt "TEX_NAME_343"
+msgid "taishi_343"
+msgstr ""
+
+msgctxt "TEX_NAME_344"
+msgid "taishi_344"
+msgstr ""
+
+msgctxt "TEX_NAME_345"
+msgid "taishi_345"
+msgstr ""
+
+msgctxt "TEX_NAME_346"
+msgid "taishi_346"
+msgstr ""
+
+msgctxt "TEX_NAME_347"
+msgid "taishi_347"
+msgstr ""
+
+msgctxt "TEX_NAME_348"
+msgid "taishi_348"
+msgstr ""
+
+msgctxt "TEX_NAME_349"
+msgid "taishi_349"
+msgstr ""
+
+msgctxt "TEX_NAME_350"
+msgid "taishi_350"
+msgstr ""
+
+msgctxt "TEX_NAME_351"
+msgid "taishi_351"
+msgstr ""
+
+msgctxt "TEX_NAME_352"
+msgid "taishi_352"
+msgstr ""
+
+msgctxt "TEX_NAME_353"
+msgid "taishi_353"
+msgstr ""
+
+msgctxt "TEX_NAME_354"
+msgid "taishi_354"
+msgstr ""
+
+msgctxt "TEX_NAME_355"
+msgid "taishi_355"
+msgstr ""
+
+msgctxt "TEX_NAME_356"
+msgid "taishi_356"
+msgstr ""
+
+msgctxt "TEX_NAME_357"
+msgid "taishi_357"
+msgstr ""
+
+msgctxt "TEX_NAME_358"
+msgid "taishi_358"
+msgstr ""
+
+msgctxt "TEX_NAME_359"
+msgid "taishi_359"
+msgstr ""
+
+msgctxt "TEX_NAME_360"
+msgid "taishi_360"
+msgstr ""
+
+msgctxt "TEX_NAME_361"
+msgid "taishi_361"
+msgstr ""
+
+msgctxt "TEX_NAME_362"
+msgid "taishi_362"
+msgstr ""
+
+msgctxt "TEX_NAME_363"
+msgid "taishi_363"
+msgstr ""
+
+msgctxt "TEX_NAME_364"
+msgid "taishi_364"
+msgstr ""
+
+msgctxt "TEX_NAME_365"
+msgid "taishi_365"
+msgstr ""
+
+msgctxt "TEX_NAME_366"
+msgid "taishi_366"
+msgstr ""
+
+msgctxt "TEX_NAME_367"
+msgid "taishi_367"
+msgstr ""
+
+msgctxt "TEX_NAME_368"
+msgid "taishi_368"
+msgstr ""
+
+msgctxt "TEX_NAME_369"
+msgid "taishi_369"
+msgstr ""
+
+msgctxt "TEX_NAME_370"
+msgid "taishi_370"
+msgstr ""
+
+msgctxt "TEX_NAME_371"
+msgid "taishi_371"
+msgstr ""
+
+msgctxt "TEX_NAME_372"
+msgid "taishi_372"
+msgstr ""
+
+msgctxt "TEX_NAME_373"
+msgid "taishi_373"
+msgstr ""
+
+msgctxt "TEX_NAME_374"
+msgid "taishi_374"
+msgstr ""
+
+msgctxt "TEX_NAME_375"
+msgid "taishi_shihan_01"
+msgstr ""
+
+msgctxt "TEX_NAME_376"
+msgid "taishi_shihan_01"
+msgstr ""
+
+msgctxt "TEX_NAME_377"
+msgid "taishi_shihan_01"
+msgstr ""
+
+msgctxt "TEX_NAME_378"
+msgid "taishi_shihan_01"
+msgstr ""
+
+msgctxt "TEX_NAME_379"
+msgid "taishi_shihan_01"
+msgstr ""
+
+msgctxt "LEADER_SKILL_0"
+msgid "武甕雷男神"
+msgstr "Wu Weng Lei Male God"
+
+msgctxt "LEADER_SKILL_1"
+msgid "極・義侠道"
+msgstr "Extreme · Righteous Xia Dao"
+
+msgctxt "LEADER_SKILL_2"
+msgid "怒龍ノ紋章"
+msgstr "Angry Dragon Crest"
+
+msgctxt "LEADER_SKILL_3"
+msgid "猛将・極"
+msgstr "Fierce general"
+
+msgctxt "LEADER_SKILL_4"
+msgid "無双ノ槍衆"
+msgstr "Musou no Yarishu"
+
+msgctxt "LEADER_SKILL_5"
+msgid "守将・極"
+msgstr "Guardian・Pole"
+
+msgctxt "LEADER_SKILL_6"
+msgid "堅守ノ銃衆"
+msgstr "Adherent guns"
+
+msgctxt "LEADER_SKILL_7"
+msgid "癒将・極"
+msgstr "Healer / Pole"
+
+msgctxt "LEADER_SKILL_8"
+msgid "不倒根性"
+msgstr "Immortality"
+
+msgctxt "LEADER_SKILL_9"
+msgid "神癒ノ刀衆"
+msgstr "Divine Healing Swordsman"
+
+msgctxt "LEADER_SKILL_10"
+msgid "励攻・極"
+msgstr "Li Gong · Extreme"
+
+msgctxt "LEADER_SKILL_11"
+msgid "激励ノ刀衆"
+msgstr "Encouragement swordsman"
+
+msgctxt "LEADER_SKILL_12"
+msgid "真・新選組"
+msgstr "Shinsengumi"
+
+msgctxt "LEADER_SKILL_13"
+msgid "励癒・極"
+msgstr "Rejuvenation・Extremely"
+
+msgctxt "LEADER_SKILL_14"
+msgid "励守・極"
+msgstr "Rei Shou, Ji"
+
+msgctxt "LEADER_SKILL_15"
+msgid "神速・極"
+msgstr "Speed and extreme"
+
+msgctxt "LEADER_SKILL_16"
+msgid "義理人情"
+msgstr "Righteousness"
+
+msgctxt "LEADER_SKILL_17"
+msgid "猛将・参"
+msgstr "Mighty generals"
+
+msgctxt "LEADER_SKILL_18"
+msgid "無双ノ刀衆"
+msgstr "Musou no Swordsman"
+
+msgctxt "LEADER_SKILL_19"
+msgid "無双ノ銃衆"
+msgstr "Musou no Gunshu"
+
+msgctxt "LEADER_SKILL_20"
+msgid "守将・参"
+msgstr "Guardian・Participant"
+
+msgctxt "LEADER_SKILL_21"
+msgid "堅守ノ刀衆"
+msgstr "Adherent swordsman"
+
+msgctxt "LEADER_SKILL_22"
+msgid "堅守ノ槍衆"
+msgstr "Adherent spear crowd"
+
+msgctxt "LEADER_SKILL_23"
+msgid "癒将・参"
+msgstr "Yujang・Sam"
+
+msgctxt "LEADER_SKILL_24"
+msgid "神癒ノ槍衆"
+msgstr "Divine Healing Spear"
+
+msgctxt "LEADER_SKILL_25"
+msgid "神癒ノ銃衆"
+msgstr "Divine Healing Guns"
+
+msgctxt "LEADER_SKILL_26"
+msgid "励攻・参"
+msgstr "Rei Gong・San"
+
+msgctxt "LEADER_SKILL_27"
+msgid "励守・参"
+msgstr "Rei Mori・San"
+
+msgctxt "LEADER_SKILL_28"
+msgid "励癒・参"
+msgstr "Reiyu・Sam"
+
+msgctxt "LEADER_SKILL_29"
+msgid "大励将"
+msgstr "Da Li Jiang"
+
+msgctxt "LEADER_SKILL_30"
+msgid "激励ノ槍衆"
+msgstr "Encouragement spear crowd"
+
+msgctxt "LEADER_SKILL_31"
+msgid "激励ノ銃衆"
+msgstr "Encouragement guns"
+
+msgctxt "LEADER_SKILL_32"
+msgid "神速・参"
+msgstr "Speed and ginseng"
+
+msgctxt "LEADER_SKILL_33"
+msgid "神速ノ刀衆"
+msgstr "God speed swordsman"
+
+msgctxt "LEADER_SKILL_34"
+msgid "神速ノ槍衆"
+msgstr "Shinsoku no Yarishu"
+
+msgctxt "LEADER_SKILL_35"
+msgid "神速ノ銃衆"
+msgstr "God speed guns"
+
+msgctxt "LEADER_SKILL_36"
+msgid "猛将・弐"
+msgstr "Fierce general"
+
+msgctxt "LEADER_SKILL_37"
+msgid "猛将・壱"
+msgstr "Fierce general"
+
+msgctxt "LEADER_SKILL_38"
+msgid "諸刃・枠防"
+msgstr "Double-edged / frame defense"
+
+msgctxt "LEADER_SKILL_39"
+msgid "狂闘将"
+msgstr "Madman"
+
+msgctxt "LEADER_SKILL_40"
+msgid "義侠心"
+msgstr "Righteous chivalry"
+
+msgctxt "LEADER_SKILL_41"
+msgid "守将・弐"
+msgstr "Guardian"
+
+msgctxt "LEADER_SKILL_42"
+msgid "守将・壱"
+msgstr "Guardian・壱"
+
+msgctxt "LEADER_SKILL_43"
+msgid "鉄壁将"
+msgstr "Iron wall general"
+
+msgctxt "LEADER_SKILL_44"
+msgid "癒将・弐"
+msgstr "Healer 2"
+
+msgctxt "LEADER_SKILL_45"
+msgid "癒将・壱"
+msgstr "Healer Ichi"
+
+msgctxt "LEADER_SKILL_46"
+msgid "励攻・弐"
+msgstr "Encouragement, 2"
+
+msgctxt "LEADER_SKILL_47"
+msgid "励守・弐"
+msgstr "Encouragement / second"
+
+msgctxt "LEADER_SKILL_48"
+msgid "励癒・弐"
+msgstr "Healing / II"
+
+msgctxt "LEADER_SKILL_49"
+msgid "諸刃・励守"
+msgstr "Double-edged / encouragement"
+
+msgctxt "LEADER_SKILL_50"
+msgid "諸刃・励防"
+msgstr "Double-edged / encouragement"
+
+msgctxt "LEADER_SKILL_51"
+msgid "諸刃・励避"
+msgstr "Double-edged / avoidance"
+
+msgctxt "LEADER_SKILL_52"
+msgid "諸刃・励技"
+msgstr "Double-edged / encouragement"
+
+msgctxt "LEADER_SKILL_53"
+msgid "諸刃・励武"
+msgstr "Double-edged / encouraged"
+
+msgctxt "LEADER_SKILL_54"
+msgid "諸刃・励視"
+msgstr "Double-edged / gaze"
+
+msgctxt "LEADER_SKILL_55"
+msgid "諸刃・励気"
+msgstr "Double-edged / encouraged"
+
+msgctxt "LEADER_SKILL_56"
+msgid "神速・弐"
+msgstr "God speed, 2"
+
+msgctxt "LEADER_SKILL_57"
+msgid "神速・壱"
+msgstr "God speed, Ichi"
+
+msgctxt "LEADER_SKILL_58"
+msgid "烈神速"
+msgstr "Fierce speed"
+
+msgctxt "LEADER_SKILL_59"
+msgid "励攻・壱"
+msgstr "Encouragement / Ichi"
+
+msgctxt "LEADER_SKILL_60"
+msgid "励守・壱"
+msgstr "Rei Shou·壱"
+
+msgctxt "LEADER_SKILL_61"
+msgid "励癒・壱"
+msgstr "Healing / Ichi"
+
+msgctxt "LEADER_SKILL_62"
+msgid "-"
+msgstr ""
+
+msgctxt "NORMAL_SKILL_0"
+msgid "空蝉ノ時計"
+msgstr "Sky 蝉 ノ Clock"
+
+msgctxt "NORMAL_SKILL_1"
+msgid "漢気ノ真髄"
+msgstr "The essence of Hanki"
+
+msgctxt "NORMAL_SKILL_2"
+msgid "極・火炎玉"
+msgstr "Pole / flame ball"
+
+msgctxt "NORMAL_SKILL_3"
+msgid "虎墜ノ気位"
+msgstr "Tiger crash"
+
+msgctxt "NORMAL_SKILL_4"
+msgid "恐怖戦慄"
+msgstr "Horror horror"
+
+msgctxt "NORMAL_SKILL_5"
+msgid "極・雷撃玉"
+msgstr "Pole / lightning ball"
+
+msgctxt "NORMAL_SKILL_6"
+msgid "極・閃光玉"
+msgstr "Pole・Flashing Jade"
+
+msgctxt "NORMAL_SKILL_7"
+msgid "極・爆炎玉"
+msgstr "Pole / explosion ball"
+
+msgctxt "NORMAL_SKILL_8"
+msgid "戦神ノ加護"
+msgstr "War God Blessing"
+
+msgctxt "NORMAL_SKILL_9"
+msgid "極・毒霧玉"
+msgstr "Pole / poison fog ball"
+
+msgctxt "NORMAL_SKILL_10"
+msgid "不屈ノ闘魂"
+msgstr "Indomitable fighting spirit"
+
+msgctxt "NORMAL_SKILL_11"
+msgid "金城鉄壁"
+msgstr "Kinjo iron wall"
+
+msgctxt "NORMAL_SKILL_12"
+msgid "武神ノ守護"
+msgstr "Takegami no guardian"
+
+msgctxt "NORMAL_SKILL_13"
+msgid "南無三"
+msgstr "Minami Muzo"
+
+msgctxt "NORMAL_SKILL_14"
+msgid "極・大射撃"
+msgstr "Extreme and large shooting"
+
+msgctxt "NORMAL_SKILL_15"
+msgid "医神ノ息吹"
+msgstr "Medical God Breath"
+
+msgctxt "NORMAL_SKILL_16"
+msgid "奇跡ノ愛撫"
+msgstr "Miracle caress"
+
+msgctxt "NORMAL_SKILL_17"
+msgid "武神ノ慈悲"
+msgstr "Takegami no mercy"
+
+msgctxt "NORMAL_SKILL_18"
+msgid "至高ノ指圧"
+msgstr "Supreme Shiatsu"
+
+msgctxt "NORMAL_SKILL_19"
+msgid "応援部隊"
+msgstr "Support unit"
+
+msgctxt "NORMAL_SKILL_20"
+msgid "怒髪衝天"
+msgstr "Dohatsuten"
+
+msgctxt "NORMAL_SKILL_21"
+msgid "助太刀"
+msgstr "Assistant sword"
+
+msgctxt "NORMAL_SKILL_22"
+msgid "闘神ノ士気"
+msgstr "Fighting god morale"
+
+msgctxt "NORMAL_SKILL_23"
+msgid "識者ノ言霊"
+msgstr "Kotodama"
+
+msgctxt "NORMAL_SKILL_24"
+msgid "神々ノ祭典"
+msgstr "Gods Festival"
+
+msgctxt "NORMAL_SKILL_25"
+msgid "商神の恩寵"
+msgstr "Grace of the commercial god"
+
+msgctxt "NORMAL_SKILL_26"
+msgid "熱烈支援"
+msgstr "Warm support"
+
+msgctxt "NORMAL_SKILL_27"
+msgid "北ノ大号令"
+msgstr "Kitano Daisho"
+
+msgctxt "NORMAL_SKILL_28"
+msgid "鬼神ノ咆哮"
+msgstr "Demon Roar"
+
+msgctxt "NORMAL_SKILL_29"
+msgid "天下無双"
+msgstr "World Musou"
+
+msgctxt "NORMAL_SKILL_30"
+msgid "一騎当千"
+msgstr "Ikki Tousen"
+
+msgctxt "NORMAL_SKILL_31"
+msgid "毒性大神"
+msgstr "Toxic God"
+
+msgctxt "NORMAL_SKILL_32"
+msgid "獅子奮迅"
+msgstr "Lion rush"
+
+msgctxt "NORMAL_SKILL_33"
+msgid "火炎大神"
+msgstr "Flame Okami"
+
+msgctxt "NORMAL_SKILL_34"
+msgid "英雄豪傑"
+msgstr "Hero hero"
+
+msgctxt "NORMAL_SKILL_35"
+msgid "雷電大神"
+msgstr "Raiden Okami"
+
+msgctxt "NORMAL_SKILL_36"
+msgid "一斉射撃"
+msgstr "Salvo"
+
+msgctxt "NORMAL_SKILL_37"
+msgid "難攻不落"
+msgstr "impregnable"
+
+msgctxt "NORMAL_SKILL_38"
+msgid "威風堂々"
+msgstr "stately"
+
+msgctxt "NORMAL_SKILL_39"
+msgid "野戦病院"
+msgstr "Field hospital"
+
+msgctxt "NORMAL_SKILL_40"
+msgid "医薬者"
+msgstr "Pharmacist"
+
+msgctxt "NORMAL_SKILL_41"
+msgid "衛生兵"
+msgstr "Health soldier"
+
+msgctxt "NORMAL_SKILL_42"
+msgid "応援歌"
+msgstr "Cheering song"
+
+msgctxt "NORMAL_SKILL_43"
+msgid "後援隊"
+msgstr "Support team"
+
+msgctxt "NORMAL_SKILL_44"
+msgid "補助者"
+msgstr "Grantor"
+
+msgctxt "NORMAL_SKILL_45"
+msgid "超絶激怒"
+msgstr "Transcendental rage"
+
+msgctxt "NORMAL_SKILL_46"
+msgid "報奨金"
+msgstr "Bounty"
+
+msgctxt "NORMAL_SKILL_47"
+msgid "大支援"
+msgstr "Great support"
+
+msgctxt "NORMAL_SKILL_48"
+msgid "益荒男"
+msgstr "Masu Arao"
+
+msgctxt "NORMAL_SKILL_49"
+msgid "狂戦士"
+msgstr "Berserker"
+
+msgctxt "NORMAL_SKILL_50"
+msgid "閃光大神"
+msgstr "Flash Okami"
+
+msgctxt "NORMAL_SKILL_51"
+msgid "爆炎玉"
+msgstr "Explosive ball"
+
+msgctxt "NORMAL_SKILL_52"
+msgid "火炎玉"
+msgstr "Flame ball"
+
+msgctxt "NORMAL_SKILL_53"
+msgid "電撃玉"
+msgstr "Dengeki ball"
+
+msgctxt "NORMAL_SKILL_54"
+msgid "閃光玉"
+msgstr "Flash jade"
+
+msgctxt "NORMAL_SKILL_55"
+msgid "毒霧玉"
+msgstr "Poison Mist Jade"
+
+msgctxt "NORMAL_SKILL_56"
+msgid "阿修羅"
+msgstr "Ashura"
+
+msgctxt "NORMAL_SKILL_57"
+msgid "疾風迅雷"
+msgstr "Gust of thunder"
+
+msgctxt "NORMAL_SKILL_58"
+msgid "背水ノ陣"
+msgstr "Backwater team"
+
+msgctxt "NORMAL_SKILL_59"
+msgid "火炎師"
+msgstr "Flame master"
+
+msgctxt "NORMAL_SKILL_60"
+msgid "雷電師"
+msgstr "Raiden"
+
+msgctxt "NORMAL_SKILL_61"
+msgid "閃光師"
+msgstr "Flasher"
+
+msgctxt "NORMAL_SKILL_62"
+msgid "毒性師"
+msgstr "Toxicologist"
+
+msgctxt "NORMAL_SKILL_63"
+msgid "大乱舞"
+msgstr "Big flurry"
+
+msgctxt "NORMAL_SKILL_64"
+msgid "悪即斬"
+msgstr "Evil instant slash"
+
+msgctxt "NORMAL_SKILL_65"
+msgid "格闘術"
+msgstr "Martial arts"
+
+msgctxt "NORMAL_SKILL_66"
+msgid "三連射"
+msgstr "Triple shot"
+
+msgctxt "NORMAL_SKILL_67"
+msgid "偉丈夫"
+msgstr "Great husband"
+
+msgctxt "NORMAL_SKILL_68"
+msgid "不退転"
+msgstr "Never retreat"
+
+msgctxt "NORMAL_SKILL_69"
+msgid "怒髪天"
+msgstr "Anger"
+
+msgctxt "NORMAL_SKILL_70"
+msgid "薬箱"
+msgstr "Medicine box"
+
+msgctxt "NORMAL_SKILL_71"
+msgid "手当"
+msgstr "allowance"
+
+msgctxt "NORMAL_SKILL_72"
+msgid "憤怒"
+msgstr "anger"
+
+msgctxt "NORMAL_SKILL_73"
+msgid "応援"
+msgstr "Cheering"
+
+msgctxt "NORMAL_SKILL_74"
+msgid "鼓舞"
+msgstr "Inspire"
+
+msgctxt "NORMAL_SKILL_75"
+msgid "援助"
+msgstr "assistance"
+
+msgctxt "NORMAL_SKILL_76"
+msgid "補翼"
+msgstr "Patch"
+
+msgctxt "NORMAL_SKILL_77"
+msgid "支援"
+msgstr "support"
+
+msgctxt "NORMAL_SKILL_78"
+msgid "奮闘"
+msgstr "Struggle"
+
+msgctxt "NORMAL_SKILL_79"
+msgid "特攻"
+msgstr "Special attack"
+
+msgctxt "NORMAL_SKILL_80"
+msgid "強襲"
+msgstr "Assault"
+
+msgctxt "NORMAL_SKILL_81"
+msgid "勇気"
+msgstr "courage"
+
+msgctxt "NORMAL_SKILL_82"
+msgid "努力"
+msgstr "Work hard"
+
+msgctxt "NORMAL_SKILL_83"
+msgid "無謀"
+msgstr "reckless"
+
+msgctxt "NORMAL_SKILL_84"
+msgid "舞踏"
+msgstr "Butoh"
+
+msgctxt "NORMAL_SKILL_85"
+msgid "乱舞"
+msgstr "Ranbu"
+
+msgctxt "NORMAL_SKILL_86"
+msgid "斬撃"
+msgstr "Slashing"
+
+msgctxt "NORMAL_SKILL_87"
+msgid "斬鉄"
+msgstr "Zantetsu"
+
+msgctxt "NORMAL_SKILL_88"
+msgid "篭手"
+msgstr "Stick hand"
+
+msgctxt "NORMAL_SKILL_89"
+msgid "喧嘩"
+msgstr "quarrel"
+
+msgctxt "NORMAL_SKILL_90"
+msgid "炎師"
+msgstr "Yanshi"
+
+msgctxt "NORMAL_SKILL_91"
+msgid "雷師"
+msgstr "Lei Shi"
+
+msgctxt "NORMAL_SKILL_92"
+msgid "光師"
+msgstr "Mitsushi"
+
+msgctxt "NORMAL_SKILL_93"
+msgid "毒師"
+msgstr "Poison Master"
+
+msgctxt "NORMAL_SKILL_94"
+msgid "射撃"
+msgstr "shooting"
+
+msgctxt "NORMAL_SKILL_95"
+msgid "連射"
+msgstr "Rapid fire"
+
+msgctxt "NORMAL_SKILL_96"
+msgid "防御"
+msgstr "defense"
+
+msgctxt "NORMAL_SKILL_97"
+msgid "防衛"
+msgstr "defense"
+
+msgctxt "NORMAL_SKILL_98"
+msgid "鉄壁"
+msgstr "Iron wall"
+
+msgctxt "NORMAL_SKILL_99"
+msgid "我慢"
+msgstr "patience"
+
+msgctxt "NORMAL_SKILL_100"
+msgid "根性"
+msgstr "guts"
+
+msgctxt "NORMAL_SKILL_101"
+msgid "忍耐"
+msgstr "patience"
+
+msgctxt "NORMAL_SKILL_102"
+msgid "傷薬"
+msgstr "Injury"
+
+msgctxt "NORMAL_SKILL_103"
+msgid "声援"
+msgstr "Solidarity"
+
+msgctxt "NORMAL_SKILL_104"
+msgid "激励"
+msgstr "excitation"
+
+msgctxt "NORMAL_SKILL_105"
+msgid "手伝"
+msgstr "help"
+
+msgctxt "NORMAL_SKILL_106"
+msgid "補助"
+msgstr "Subsidy"
+
+msgctxt "NORMAL_SKILL_107"
+msgid "-"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_0"
+msgid "himeturuitimonnji"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_1"
+msgid "sakurahubuki"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_2"
+msgid "kogarasumaru"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_3"
+msgid "tokagemaru"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_4"
+msgid "samonnji"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_5"
+msgid "tennkoumaru"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_6"
+msgid "hotarumaru"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_7"
+msgid "daikonnmaru"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_8"
+msgid "oofude"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_9"
+msgid "ouka"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_10"
+msgid "juzumaru"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_11"
+msgid "himeturuitimonnji"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_12"
+msgid "sakurahubuki"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_13"
+msgid "jyuumonnjiyari"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_14"
+msgid "meikyou"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_15"
+msgid "kogarasumaru"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_16"
+msgid "tokagemaru"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_17"
+msgid "samonnji"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_18"
+msgid "oomiyari"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_19"
+msgid "niou"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_20"
+msgid "tennkoumaru"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_21"
+msgid "hotarumaru"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_22"
+msgid "daikonnmaru"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_23"
+msgid "oomiyari"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_24"
+msgid "ouka"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_25"
+msgid "juzumaru"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_26"
+msgid "himeturuitimonnji"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_27"
+msgid "sakurahubuki"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_28"
+msgid "jyuumonnjiyari"
+msgstr ""
+
+msgctxt "AWAKE_WEAPON_ID_29"
+msgid "niou"
+msgstr ""
+
+msgctxt "GET_COMMENT_0"
+msgid "時の流れを一時的に止められる平隊士。攻防に優れており伍長として最適。座右の銘は「晴耕雨読」。"
+msgstr ""
+"A flat soldier who can temporarily stop\n"
+"the flow of time. Excellent offense and\n"
+"defense, ideal as a corporal. The motto\n"
+"is \"Haruko Ameyomi\"."
+
+msgctxt "GET_COMMENT_1"
+msgid "最も優秀な攻撃型の平隊士の一人。統率力の優れた伍長として適任。座右の銘は「剛毅果断」。"
+msgstr ""
+"One of the best offensive flat soldiers.\n"
+"Suitable as a corporal with excellent\n"
+"leadership. The motto is \"Takeshi Kabuki\"."
+
+msgctxt "GET_COMMENT_2"
+msgid "火炎玉を扱うことに長けた平隊士。攻撃型伍長として最適も、危険も伴う。座右の銘は「親思う心に勝る親心」。"
+msgstr ""
+"A flat soldier who is good at handling flame\n"
+"balls. Optimal as an offensive corporal,\n"
+"but also dangerous. The motto is\n"
+"\"Intimacy that surpasses intimacy.\""
+
+msgctxt "GET_COMMENT_3"
+msgid "隊長の闘気を高める点において最も優秀な平隊士。攻撃型伍長として最適も、危険も伴う。座右の銘は「一意専心」。"
+msgstr ""
+"The most excellent flat soldier in terms\n"
+"of enhancing the fighting spirit of the\n"
+"captain. Optimal as an offensive corporal,\n"
+"but also dangerous. The motto is\n"
+"\"unique devotion\"."
+
+msgctxt "GET_COMMENT_4"
+msgid "敵の戦意を奪う優秀な平隊士。攻撃型伍長に最適。座右の銘は「気宇壮大」。"
+msgstr ""
+"An excellent flat soldier who robs the enemy\n"
+"of fighting spirit. Ideal for attacking\n"
+"corporals. The motto is \"Kiusoudai\"."
+
+msgctxt "GET_COMMENT_5"
+msgid "電撃玉を扱うことに長けた平隊士。攻撃型伍長に最適。座右の銘は「金剛不壊」。"
+msgstr ""
+"A flat soldier who is good at handling electric\n"
+"shock balls. Ideal for attacking\n"
+"corporals. The motto is \"Kongou Fuwa\"."
+
+msgctxt "GET_COMMENT_6"
+msgid "閃光玉を扱うことに長けた平隊士。攻撃型伍長に最適。座右の銘は「敬天愛人」。"
+msgstr ""
+"A flat soldier who is good at handling flash\n"
+"balls. Ideal for attacking corporals.\n"
+"The motto is \"Keiten Mistress\"."
+
+msgctxt "GET_COMMENT_7"
+msgid "爆弾を扱うことに長けた平隊士。攻撃型伍長に最適。座右の銘は「情けは人の為ならず」。"
+msgstr ""
+"A flat soldier who is good at handling bombs.\n"
+"Ideal for attacking corporals. The\n"
+"motto is \"Pity is not for people.\""
+
+msgctxt "GET_COMMENT_8"
+msgid "最も優秀な攻撃型の平隊士の一人。槍隊士を率いる攻撃型伍長として最適。座右の銘は「結果がすべて」。"
+msgstr ""
+"One of the best offensive flat soldiers.\n"
+"Ideal as an offensive corporal to lead\n"
+"a spear corps. The motto is \"The result\n"
+"is everything\"."
+
+msgctxt "GET_COMMENT_9"
+msgid "毒霧玉を扱うことに長けた平隊士。攻撃型伍長として最適も、危険も伴う。座右の銘は「継続は力なり」。"
+msgstr ""
+"A flat soldier who is good at handling poisonous\n"
+"fog balls. Optimal as an offensive\n"
+"corporal, but also dangerous. The\n"
+"motto is \"Continuation is power\"."
+
+msgctxt "GET_COMMENT_10"
+msgid "戦う為に痛覚を麻痺させる平隊士。守備型伍長に最適。座右の銘は「当たって砕けろ」。"
+msgstr ""
+"A flat soldier who paralyzes his pain to\n"
+"fight. Ideal for defensive corporals.\n"
+"The motto is \"Hit and crush.\""
+
+msgctxt "GET_COMMENT_11"
+msgid "守備型の平隊士として秀逸。守備型伍長に最適。座右の銘は「頑固一徹」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Ideal for defensive corporals. The\n"
+"motto is \"Stubborn Ittetsu\"."
+
+msgctxt "GET_COMMENT_12"
+msgid "最も優秀な守備型の平隊士の一人。攻防に優れており伍長として最適。座右の銘は「決して驕らず、決して腐らず　」。"
+msgstr ""
+"One of the best defensive flat soldiers.\n"
+"Excellent offense and defense, ideal as\n"
+"a corporal. The motto is \"Never go crazy,\n"
+"never rot.\""
+
+msgctxt "GET_COMMENT_13"
+msgid "守備型の平隊士として優秀。守備型伍長に最適。座右の銘は「命に過ぎたる宝なし」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Ideal for defensive corporals. The\n"
+"motto is \"No treasure that is too much\n"
+"for life.\""
+
+msgctxt "GET_COMMENT_14"
+msgid "援護射撃を扱うことに長けた平隊士。銃隊士を率いる守備型伍長として最適。座右の銘は「縁の下の力持ち」。"
+msgstr ""
+"A flat soldier who is good at handling support\n"
+"shooting. Ideal as a defensive corporal\n"
+"to lead a gunman. The motto is\n"
+"\"Underground Power\"."
+
+msgctxt "GET_COMMENT_15"
+msgid "最も優秀な体力回復系平隊士の一人。回復系伍長に最適。座右の銘は「七生報国」。"
+msgstr ""
+"One of the best health recovery type flat\n"
+"soldiers. Ideal for recovery corporals.\n"
+"The motto is \"Nanasei Hokoku\"."
+
+msgctxt "GET_COMMENT_16"
+msgid "最も優秀な体力回復系平隊士の一人。攻撃型伍長として有能。座右の銘は「千の言より一の暴力」。"
+msgstr ""
+"One of the best health recovery type flat\n"
+"soldiers. Competent as an offensive corporal.\n"
+"The motto is \"One violence from\n"
+"a thousand words.\""
+
+msgctxt "GET_COMMENT_17"
+msgid "最も優秀な体力回復系平隊士の一人。刀隊士を率いる回復系伍長として最適。座右の銘は「腹が減っては戦はできぬ」。"
+msgstr ""
+"One of the best health recovery type flat\n"
+"soldiers. Ideal as a recovery corporal\n"
+"who leads a swordsman. The motto is \"You\n"
+"can't fight if you're hungry.\""
+
+msgctxt "GET_COMMENT_18"
+msgid "最も優秀な体力回復系平隊士の一人。回復系伍長に最適。座右の銘は「笑う門には福来る」。"
+msgstr ""
+"One of the best health recovery type flat\n"
+"soldiers. Ideal for recovery corporals.\n"
+"The motto is \"Fortune comes to the laughing\n"
+"gate.\""
+
+msgctxt "GET_COMMENT_19"
+msgid "最も優秀な体力回復系平隊士の一人。攻撃型伍長として有能。座右の銘は「鉄心石腸」。"
+msgstr ""
+"One of the best health recovery type flat\n"
+"soldiers. Competent as an offensive corporal.\n"
+"The motto is \"Iron core stone\n"
+"intestine\"."
+
+msgctxt "GET_COMMENT_20"
+msgid "全ての隊士補佐に長けた平隊士。攻撃型伍長として最適。座右の銘は「人事を尽くして天明を待つ」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. Ideal as an attacking corporal.\n"
+"The motto is \"Do your best to wait\n"
+"for Tenmei.\""
+
+msgctxt "GET_COMMENT_21"
+msgid "継続的に隊長の闘気を高めることに優秀な平隊士。刀隊士を率いる万能型伍長として最適。座右の銘は「時は金なり」。"
+msgstr ""
+"An excellent flat soldier who continuously\n"
+"raises the fighting spirit of the captain.\n"
+"Ideal as a versatile corporal to\n"
+"lead a swordsman. The motto is \"Time is\n"
+"money\"."
+
+msgctxt "GET_COMMENT_22"
+msgid "平凡な平隊士。万能型伍長として最適。座右の銘は「失敗は成功のもと」。"
+msgstr ""
+"A mediocre flat soldier. Ideal as a versatile\n"
+"corporal. The motto is \"Failure is\n"
+"the source of success.\""
+
+msgctxt "GET_COMMENT_23"
+msgid "全ての隊士補佐において優秀な平隊士。回復系伍長に最適。座右の銘は「苦あれば楽あり」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Ideal for recovery corporals.\n"
+"The motto is \"If you have a hard time,\n"
+"it's easy.\""
+
+msgctxt "GET_COMMENT_24"
+msgid "全ての隊士補佐において優秀な平隊士。守備型伍長に最適。座右の銘は「不立文字」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Ideal for defensive corporals.\n"
+"The motto is \"Infidelity\"."
+
+msgctxt "GET_COMMENT_25"
+msgid "戦いの中に波乱を巻き起こす平隊士。伍長には不向きも、使い方次第。座右の銘は「思い立ったが吉日」。"
+msgstr ""
+"A flat soldier who causes turmoil in the\n"
+"battle. Not suitable for corporal, but\n"
+"it depends on how you use it. The motto\n"
+"is \"I thought it was a good day.\""
+
+msgctxt "GET_COMMENT_26"
+msgid "最も優秀な隊士補佐系平隊士の一人。統率力の優れた伍長として適任。座右の銘は「怒りは敵と思え」。"
+msgstr ""
+"One of the most talented assistant soldiers.\n"
+"Suitable as a corporal with excellent\n"
+"leadership. The motto is \"Angry seems\n"
+"to be an enemy.\""
+
+msgctxt "GET_COMMENT_27"
+msgid "全ての隊士補佐において優秀な平隊士。伍長には不向きも、使い方次第。座右の銘は「謹厳実直」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Not suitable for corporal,\n"
+"but it depends on how you use it. The\n"
+"motto is \"Strict and honest\"."
+
+msgctxt "GET_COMMENT_28"
+msgid "最も優秀な隊士補佐系平隊士の一人。統率力の優れた伍長として適任。座右の銘は「人に歴史あり」。"
+msgstr ""
+"One of the most talented assistant soldiers.\n"
+"Suitable as a corporal with excellent\n"
+"leadership. The motto is \"People have\n"
+"history.\""
+
+msgctxt "GET_COMMENT_29"
+msgid "継続的に隊長の闘気を高める点において最も優秀な平隊士の一人。伍長には不向きも、使い方次第。座右の銘は「明日できることを今日するな」。"
+msgstr ""
+"One of the best flat soldiers in terms of\n"
+"continuously increasing the fighting\n"
+"spirit of the captain. Not suitable for\n"
+"corporal, but it depends on how you use\n"
+"it. The motto is \"Don't do what you can\n"
+"tomorrow today.\""
+
+msgctxt "GET_COMMENT_30"
+msgid "瞬発的な攻撃型の平隊士として秀逸。統率力の優れた伍長として適任。座右の銘は「人は城、人は石垣」。"
+msgstr ""
+"Excellent as an instant attack type flat\n"
+"soldier. Suitable as a corporal with excellent\n"
+"leadership. The motto is \"People\n"
+"are castles, people are stone walls\"."
+
+msgctxt "GET_COMMENT_31"
+msgid "攻撃型の平隊士として秀逸。統率力の優れた伍長として適任。座右の銘は「後は野となれ山となれ」。"
+msgstr ""
+"Excellent as an offensive flat soldier.\n"
+"Suitable as a corporal with excellent leadership.\n"
+"The motto is \"Become a field\n"
+"and a mountain afterwards.\""
+
+msgctxt "GET_COMMENT_32"
+msgid "毒属性武器の扱いに秀逸な平隊士。攻撃型伍長として適任。座右の銘は「正々堂々」。"
+msgstr ""
+"A flat soldier who excels in handling poisonous\n"
+"weapons. Suitable as an offensive\n"
+"corporal. The motto is \"Straight and\n"
+"Dignified\"."
+
+msgctxt "GET_COMMENT_33"
+msgid "攻撃型の平隊士として秀逸。刀隊士を率いる攻撃型伍長として最適。座右の銘は「有言実行」。"
+msgstr ""
+"Excellent as an offensive flat soldier.\n"
+"Ideal as an offensive corporal to lead\n"
+"a swordsman. The motto is \"execution of\n"
+"words\"."
+
+msgctxt "GET_COMMENT_34"
+msgid "炎属性武器の扱いに秀逸な平隊士。攻撃型伍長として適任。座右の銘は「陰徳陽報」。"
+msgstr ""
+"A flat soldier who excels in handling fire-type\n"
+"weapons. Suitable as an offensive\n"
+"corporal. The motto is \"Yin and Yang\"."
+
+msgctxt "GET_COMMENT_35"
+msgid "電撃玉を扱うことに長けた平隊士。攻撃型伍長として適任。座右の銘は「転ばぬ先の杖」。"
+msgstr ""
+"A flat soldier who is good at handling electric\n"
+"shock balls. Suitable as an offensive\n"
+"corporal. The motto is \"The cane\n"
+"that doesn't fall.\""
+
+msgctxt "GET_COMMENT_36"
+msgid "爆弾を扱うことに長けた平隊士。攻撃型伍長として適任。座右の銘は「自分のことを必要以上に考えない」。"
+msgstr ""
+"A flat soldier who is good at handling bombs.\n"
+"Suitable as an offensive corporal.\n"
+"The motto is \"Don't think about yourself\n"
+"more than necessary.\""
+
+msgctxt "GET_COMMENT_37"
+msgid "敵の防御を崩すことに長けた平隊士。槍隊士を率いる攻撃型伍長として最適。座右の銘は「井の中の蛙」。"
+msgstr ""
+"A flat soldier who is good at breaking the\n"
+"defense of the enemy. Ideal as an offensive\n"
+"corporal to lead a spear corps.\n"
+"The motto is \"Frog in the well\"."
+
+msgctxt "GET_COMMENT_38"
+msgid "雷属性武器の扱いに秀逸な平隊士。攻撃型伍長として適任。座右の銘は「百聞は一見にしかず」。"
+msgstr ""
+"A flat soldier who excels in handling lightning\n"
+"weapons. Suitable as an offensive\n"
+"corporal. The motto is \"Seeing is believing\"."
+
+msgctxt "GET_COMMENT_39"
+msgid "援護射撃を扱う平隊士。銃隊士を率いる攻撃型伍長として最適。座右の銘は「日々是精進」。"
+msgstr ""
+"A flat soldier who handles support shooting.\n"
+"Ideal as an offensive corporal to\n"
+"lead a gunman. The motto is \"Daily devotion\"."
+
+msgctxt "GET_COMMENT_40"
+msgid "守備型の平隊士として秀逸。統率力の優れた伍長として適任。座右の銘は「一致団結」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Suitable as a corporal with excellent\n"
+"leadership. The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_41"
+msgid "守備型の平隊士として秀逸。統率力の優れた伍長として適任。座右の銘は「為せば成る」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Suitable as a corporal with excellent\n"
+"leadership. The motto is \"If you do\n"
+"it\"."
+
+msgctxt "GET_COMMENT_42"
+msgid "守備型の平隊士として秀逸。守備型伍長として適任。座右の銘は「泰然自若」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Suitable as a defensive corporal. The\n"
+"motto is \"Taisei Jiju\"."
+
+msgctxt "GET_COMMENT_43"
+msgid "守備型の平隊士として秀逸。守備型伍長として適任。座右の銘は「有言実行」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Suitable as a defensive corporal. The\n"
+"motto is \"execution of words\"."
+
+msgctxt "GET_COMMENT_44"
+msgid "戦う為に痛覚を麻痺させる平隊士。守備型伍長として適任。座右の銘は「不言実行」。"
+msgstr ""
+"A flat soldier who paralyzes his pain to\n"
+"fight. Suitable as a defensive corporal.\n"
+"The motto is \"Silence execution\"."
+
+msgctxt "GET_COMMENT_45"
+msgid "守備型の平隊士として秀逸。刀隊士を率いる守備型伍長として最適。座右の銘は「明日は明日の風が吹く」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Ideal as a defensive corporal to lead\n"
+"a swordsman. The motto is \"Tomorrow's\n"
+"wind will blow\"."
+
+msgctxt "GET_COMMENT_46"
+msgid "守備型の平隊士として秀逸。槍隊士を率いる守備型伍長として最適。座右の銘は「為せば成る」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Ideal as a defensive corporal to lead\n"
+"a spear corps. The motto is \"If you\n"
+"do it\"."
+
+msgctxt "GET_COMMENT_47"
+msgid "守備型の平隊士として秀逸。攻撃型伍長として有能。座右の銘は「泰然自若」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Competent as an offensive corporal.\n"
+"The motto is \"Taisei Jiju\"."
+
+msgctxt "GET_COMMENT_48"
+msgid "守備型の平隊士として秀逸。銃隊士を率いる守備型伍長として最適。座右の銘は「品行方正」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Ideal as a defensive corporal to lead\n"
+"a gunman. The motto is \"Good behavior\"."
+
+msgctxt "GET_COMMENT_49"
+msgid "守備型の平隊士として秀逸。攻撃型伍長として有能。座右の銘は「安寧秩序」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Competent as an offensive corporal.\n"
+"The motto is \"Peaceful Order\"."
+
+msgctxt "GET_COMMENT_50"
+msgid "優秀な体力回復系平隊士。統率力の優れた伍長として適任。座右の銘は「一期一会」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. Suitable as a corporal with excellent\n"
+"leadership. The motto is \"Ichigo\n"
+"Ichikai\"."
+
+msgctxt "GET_COMMENT_51"
+msgid "優秀な体力回復系平隊士。統率力の優れた伍長として適任。座右の銘は「豪放磊落」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. Suitable as a corporal with excellent\n"
+"leadership. The motto is \"Gorgeous\n"
+"fall\"."
+
+msgctxt "GET_COMMENT_52"
+msgid "優秀な体力回復系平隊士。回復系伍長として適任。座右の銘は「千里の道も一歩から」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. Suitable as a recovery corporal.\n"
+"The motto is \"Senri no Michi also starts\n"
+"from one step\"."
+
+msgctxt "GET_COMMENT_53"
+msgid "優秀な体力回復系平隊士。回復系伍長として適任。座右の銘は「雨降って地固まる」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. Suitable as a recovery corporal.\n"
+"The motto is \"It rains and solidifies.\""
+
+msgctxt "GET_COMMENT_54"
+msgid "優秀な体力回復系平隊士。回復系伍長として適任。座右の銘は「和をもって貴しとなす」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. Suitable as a recovery corporal.\n"
+"The motto is \"Wa is precious.\""
+
+msgctxt "GET_COMMENT_55"
+msgid "優秀な体力回復系平隊士。刀隊士を率いる回復系伍長として最適。座右の銘は「明日は明日の風が吹く」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. Ideal as a recovery corporal who\n"
+"leads a swordsman. The motto is \"Tomorrow's\n"
+"wind will blow\"."
+
+msgctxt "GET_COMMENT_56"
+msgid "体力回復に長けた平隊士。槍隊士を率いる回復系伍長として最適。座右の銘は「為せば成る」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Ideal as a recovery\n"
+"corporal to lead a spear corps. The motto\n"
+"is \"If you do it\"."
+
+msgctxt "GET_COMMENT_57"
+msgid "優秀な体力回復系平隊士。回復系伍長として適任。座右の銘は「平穏無事」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. Suitable as a recovery corporal.\n"
+"The motto is \"Peaceful and safe\"."
+
+msgctxt "GET_COMMENT_58"
+msgid "体力回復に長けた平隊士。銃隊士を率いる回復系伍長として最適。座右の銘は「有言実行」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Ideal as a recovery\n"
+"corporal to lead a gunman. The motto is\n"
+"\"execution of words\"."
+
+msgctxt "GET_COMMENT_59"
+msgid "優秀な体力回復系平隊士。回復系伍長として適任。座右の銘は「温故知新」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. Suitable as a recovery corporal.\n"
+"The motto is \"Won's old wisdom\"."
+
+msgctxt "GET_COMMENT_60"
+msgid "攻撃隊士補佐において優秀な平隊士。攻撃型伍長として適任。座右の銘は「一攫千金」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"attack corps. Suitable as an offensive\n"
+"corporal. The motto is \"Ichibashi Senkin\"."
+
+msgctxt "GET_COMMENT_61"
+msgid "全ての隊士補佐に長けた平隊士。攻撃型伍長として適任。座右の銘は「一富士二鷹三茄子」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. Suitable as an offensive\n"
+"corporal. The motto is \"Ichifuji, Nitaka,\n"
+"and Eggplant.\""
+
+msgctxt "GET_COMMENT_62"
+msgid "守備隊士補佐において優秀な平隊士。守備型伍長として適任。座右の銘は「一心不乱」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"garrison. Suitable as a defensive corporal.\n"
+"The motto is \"Ichishin Furu\"."
+
+msgctxt "GET_COMMENT_63"
+msgid "衛生隊士補佐において優秀な平隊士。回復系伍長として適任。座右の銘は「誠心誠意」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"hygiene corps. Suitable as a recovery\n"
+"corporal. The motto is \"Sincerity\"."
+
+msgctxt "GET_COMMENT_64"
+msgid "平凡な平隊士。刀隊士を率いる万能型伍長として最適。座右の銘は「質実剛健」。"
+msgstr ""
+"A mediocre flat soldier. Ideal as a versatile\n"
+"corporal to lead a swordsman. The\n"
+"motto is \"Simple and strong\"."
+
+msgctxt "GET_COMMENT_65"
+msgid "全ての隊士補佐に長けた平隊士。有能な伍長として死地に活路を開く。座右の銘は「切磋琢磨」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. As a competent corporal,\n"
+"he opens the way to the dead. The motto\n"
+"is \"Kiritsu Takuma\"."
+
+msgctxt "GET_COMMENT_66"
+msgid "平凡な平隊士。槍隊士を率いる万能型伍長として最適。座右の銘は「明日は明日の風が吹く」。"
+msgstr ""
+"A mediocre flat soldier. Ideal as a versatile\n"
+"corporal to lead a spear corps. The\n"
+"motto is \"Tomorrow's wind will blow\"."
+
+msgctxt "GET_COMMENT_67"
+msgid "全ての隊士補佐に長けた平隊士。有能な伍長として死地に活路を開く。座右の銘は「安寧秩序」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. As a competent corporal,\n"
+"he opens the way to the dead. The motto\n"
+"is \"Peaceful Order\"."
+
+msgctxt "GET_COMMENT_68"
+msgid "平凡な平隊士。銃隊士を率いる万能型伍長として最適。座右の銘は「為せば成る」。"
+msgstr ""
+"A mediocre flat soldier. Ideal as a versatile\n"
+"corporal to lead a gun corps. The\n"
+"motto is \"If you do it\"."
+
+msgctxt "GET_COMMENT_69"
+msgid "全ての隊士補佐に長けた平隊士。有能な伍長として死地に活路を開く。座右の銘は「会うは別れの始め」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. As a competent corporal,\n"
+"he opens the way to the dead. The motto\n"
+"is \"Meeting is the beginning of parting.\""
+
+msgctxt "GET_COMMENT_70"
+msgid "全ての隊士補佐において優秀な平隊士。伍長には不向きも、使い方次第。座右の銘は「嘘も方便」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Not suitable for corporal,\n"
+"but it depends on how you use it. The\n"
+"motto is \"Lies and Upaya\"."
+
+msgctxt "GET_COMMENT_71"
+msgid "隊長の闘気を高める点において最も優秀な平隊士。伍長には不向きも、使い方次第。座右の銘は「悪銭身につかず」。"
+msgstr ""
+"The most excellent flat soldier in terms\n"
+"of enhancing the fighting spirit of the\n"
+"captain. Not suitable for corporal, but\n"
+"it depends on how you use it. The motto\n"
+"is \"Don't get sick.\""
+
+msgctxt "GET_COMMENT_72"
+msgid "全ての隊士補佐において優秀な平隊士。統率力の優れた伍長として適任。座右の銘は「あばたもえくぼ」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Suitable as a corporal with\n"
+"excellent leadership. The motto is \"Abata\n"
+"dimples\"."
+
+msgctxt "GET_COMMENT_73"
+msgid "全ての隊士補佐において優秀な平隊士。統率力の優れた伍長として適任。座右の銘は「一致団結」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Suitable as a corporal with\n"
+"excellent leadership. The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_74"
+msgid "全ての隊士補佐に長けた平隊士。刀隊士を率いる万能型伍長として最適。座右の銘は「為せば成る」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. Ideal as a versatile corporal\n"
+"to lead a swordsman. The motto is\n"
+"\"If you do it\"."
+
+msgctxt "GET_COMMENT_75"
+msgid "全ての隊士補佐において優秀な平隊士。統率力の優れた伍長として適任。座右の銘は「泰然自若」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Suitable as a corporal with\n"
+"excellent leadership. The motto is \"Taisei\n"
+"Jiju\"."
+
+msgctxt "GET_COMMENT_76"
+msgid "全ての隊士補佐に長けた平隊士。槍隊士を率いる万能型伍長として最適。座右の銘は「有言実行」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. Ideal as a versatile corporal\n"
+"to lead a spear corps. The motto is\n"
+"\"execution of words\"."
+
+msgctxt "GET_COMMENT_77"
+msgid "全ての隊士補佐において優秀な平隊士。統率力の優れた伍長として適任。座右の銘は「不言実行」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Suitable as a corporal with\n"
+"excellent leadership. The motto is \"Silence\n"
+"execution\"."
+
+msgctxt "GET_COMMENT_78"
+msgid "全ての隊士補佐に長けた平隊士。銃隊士を率いる万能型伍長として最適。座右の銘は「愛されるより愛したい」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. Ideal as a versatile corporal\n"
+"to lead a gun corps. The motto is\n"
+"\"I want to love rather than be loved.\""
+
+msgctxt "GET_COMMENT_79"
+msgid "全ての隊士補佐において優秀な平隊士。統率力の優れた伍長として適任。座右の銘は「尽忠報国」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Suitable as a corporal with\n"
+"excellent leadership. The motto is \"Zanchuhokoku\"."
+
+msgctxt "GET_COMMENT_80"
+msgid "攻撃型の平隊士として優秀。攻撃型伍長として適任。座右の銘は「一攫千金」。"
+msgstr ""
+"Excellent as an offensive flat soldier.\n"
+"Suitable as an offensive corporal. The\n"
+"motto is \"Ichibashi Senkin\"."
+
+msgctxt "GET_COMMENT_81"
+msgid "攻撃型の平隊士として優秀。攻撃型伍長として適任。座右の銘は「平穏無事」。"
+msgstr ""
+"Excellent as an offensive flat soldier.\n"
+"Suitable as an offensive corporal. The\n"
+"motto is \"Peaceful and safe\"."
+
+msgctxt "GET_COMMENT_82"
+msgid "閃属性武器の扱いに秀逸な平隊士。攻撃型伍長としては凡庸。座右の銘は「有言実行」。"
+msgstr ""
+"A flat soldier who is excellent at handling\n"
+"flash weapons. Mediocre as an offensive\n"
+"corporal. The motto is \"execution\n"
+"of words\"."
+
+msgctxt "GET_COMMENT_83"
+msgid "爆弾を扱う平隊士。攻撃型伍長としては凡庸。座右の銘は「温故知新」。"
+msgstr ""
+"A flat soldier who handles bombs. Mediocre\n"
+"as an offensive corporal. The motto\n"
+"is \"Won's old wisdom\"."
+
+msgctxt "GET_COMMENT_84"
+msgid "火炎玉を扱う平隊士。攻撃型伍長としては凡庸。座右の銘は「一攫千金」。"
+msgstr ""
+"A flat soldier who handles flameballs. Mediocre\n"
+"as an offensive corporal. The motto\n"
+"is \"Ichibashi Senkin\"."
+
+msgctxt "GET_COMMENT_85"
+msgid "電撃玉を扱う平隊士。攻撃型伍長としては凡庸。座右の銘は「破天荒」。"
+msgstr ""
+"A flat soldier who handles electric shock\n"
+"balls. Mediocre as an offensive corporal.\n"
+"The motto is \"Breakfast\"."
+
+msgctxt "GET_COMMENT_86"
+msgid "閃光玉を扱う平隊士。攻撃型伍長としては凡庸。座右の銘は「一心不乱」。"
+msgstr ""
+"A flat soldier who handles flash balls.\n"
+"Mediocre as an offensive corporal. The\n"
+"motto is \"Ichishin Furu\"."
+
+msgctxt "GET_COMMENT_87"
+msgid "毒霧玉を扱う平隊士。伍長には不向き。座右の銘は「誠心誠意」。"
+msgstr ""
+"A flat soldier who handles poisonous fog\n"
+"balls. Not suitable for corporals. The\n"
+"motto is \"Sincerity\"."
+
+msgctxt "GET_COMMENT_88"
+msgid "攻撃型の平隊士として優秀。伍長には不向き。座右の銘は「質実剛健」。"
+msgstr ""
+"Excellent as an offensive flat soldier.\n"
+"Not suitable for corporals. The motto is\n"
+"\"Simple and strong\"."
+
+msgctxt "GET_COMMENT_89"
+msgid "攻撃型の平隊士として秀逸。伍長とすれば有能だが、危険も伴う。座右の銘は「棚からぼた餅」。"
+msgstr ""
+"Excellent as an offensive flat soldier.\n"
+"A corporal is capable, but also dangerous.\n"
+"The motto is \"Botamochi from the shelf\"."
+
+msgctxt "GET_COMMENT_90"
+msgid "危険を好むが優秀な攻撃型平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「明日は明日の風が吹く」。"
+msgstr ""
+"An excellent offensive flat soldier who\n"
+"likes danger. As a corporal, he demonstrates\n"
+"his offensive power to survive the\n"
+"predicament. The motto is \"Tomorrow's\n"
+"wind will blow\"."
+
+msgctxt "GET_COMMENT_91"
+msgid "炎属性武器の扱いに優秀な平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「為せば成る」。"
+msgstr ""
+"An excellent flat soldier who handles fire-type\n"
+"weapons. As a corporal, he demonstrates\n"
+"his offensive power to survive\n"
+"the predicament. The motto is \"If you\n"
+"do it\"."
+
+msgctxt "GET_COMMENT_92"
+msgid "雷属性武器の扱いに優秀な平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「泰然自若」。"
+msgstr ""
+"An excellent flat soldier who handles lightning\n"
+"weapons. As a corporal, he demonstrates\n"
+"his offensive power to survive\n"
+"the predicament. The motto is \"Taisei\n"
+"Jiju\"."
+
+msgctxt "GET_COMMENT_93"
+msgid "閃属性武器の扱いに優秀な平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「品行方正」。"
+msgstr ""
+"An excellent flat soldier who handles flash\n"
+"weapons. As a corporal, he demonstrates\n"
+"his offensive power to survive the\n"
+"predicament. The motto is \"Good behavior\"."
+
+msgctxt "GET_COMMENT_94"
+msgid "毒属性武器の扱いに優秀な平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「温故知新」。"
+msgstr ""
+"A flat soldier who is excellent at handling\n"
+"poisonous weapons. As a corporal, he\n"
+"demonstrates his offensive power to survive\n"
+"the predicament. The motto is \"Won's\n"
+"old wisdom\"."
+
+msgctxt "GET_COMMENT_95"
+msgid "乱舞補佐として優秀な平隊士。統率力の優れた伍長として有能。座右の銘は「実るほど首を垂れる稲穂かな」。"
+msgstr ""
+"An excellent flat soldier as an assistant\n"
+"to Ranbu. Competent as a corporal with\n"
+"excellent command. The motto is \"Is it\n"
+"an ear of rice that hangs its head as\n"
+"it grows?\""
+
+msgctxt "GET_COMMENT_96"
+msgid "一刀補佐として優秀な平隊士。攻撃型伍長としては凡庸。座右の銘は「尽忠報国」。"
+msgstr ""
+"An excellent flat soldier as an assistant\n"
+"to one sword. Mediocre as an offensive\n"
+"corporal. The motto is \"Zanchuhokoku\"."
+
+msgctxt "GET_COMMENT_97"
+msgid "格闘補佐として優秀な平隊士。統率力の優れた伍長として有能。座右の銘は「有言実行」。"
+msgstr ""
+"An excellent flat soldier as a fighting\n"
+"assistant. Competent as a corporal with\n"
+"excellent command. The motto is \"execution\n"
+"of words\"."
+
+msgctxt "GET_COMMENT_98"
+msgid "爆弾を扱う平隊士。攻撃型伍長としては凡庸。座右の銘は「平々凡々」。"
+msgstr ""
+"A flat soldier who handles bombs. Mediocre\n"
+"as an offensive corporal. The motto\n"
+"is \"Mediocre\"."
+
+msgctxt "GET_COMMENT_99"
+msgid "短銃補佐として優秀な平隊士。統率力の優れた伍長として有能。座右の銘は「臥薪嘗胆」。"
+msgstr ""
+"An excellent pistol assistant. Competent\n"
+"as a corporal with excellent command.\n"
+"The motto is \"Wo-ki-boku\"."
+
+msgctxt "GET_COMMENT_100"
+msgid "守備型の平隊士として優秀。守備型伍長として適任。座右の銘は「平穏無事」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Suitable as a defensive corporal. The\n"
+"motto is \"Peaceful and safe\"."
+
+msgctxt "GET_COMMENT_101"
+msgid "守備型の平隊士として優秀。守備型伍長として適任。座右の銘は「有言実行」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Suitable as a defensive corporal. The\n"
+"motto is \"execution of words\"."
+
+msgctxt "GET_COMMENT_102"
+msgid "守備型の平隊士として優秀。守備型伍長としては凡庸。座右の銘は「温故知新」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Mediocre as a defensive corporal. The\n"
+"motto is \"Won's old wisdom\"."
+
+msgctxt "GET_COMMENT_103"
+msgid "守備型の平隊士として優秀。守備型伍長としては凡庸。座右の銘は「一攫千金」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Mediocre as a defensive corporal. The\n"
+"motto is \"Ichibashi Senkin\"."
+
+msgctxt "GET_COMMENT_104"
+msgid "守備型の平隊士として優秀。守備型伍長としては凡庸。座右の銘は「破天荒」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Mediocre as a defensive corporal. The\n"
+"motto is \"Breakfast\"."
+
+msgctxt "GET_COMMENT_105"
+msgid "守備型の平隊士として優秀。伍長には不向き。座右の銘は「一心不乱」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Not suitable for corporals. The motto\n"
+"is \"Ichishin Furu\"."
+
+msgctxt "GET_COMMENT_106"
+msgid "継続的に隊長の闘気を高めることに長けた平隊士。伍長には不向き。座右の銘は「誠心誠意」。"
+msgstr ""
+"A flat soldier who is good at continuously\n"
+"increasing the fighting spirit of the\n"
+"captain. Not suitable for corporals.\n"
+"The motto is \"Sincerity\"."
+
+msgctxt "GET_COMMENT_107"
+msgid "守備型の平隊士として優秀。伍長とすれば有能だが、危険も伴う。座右の銘は「質実剛健」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"A corporal is capable, but also dangerous.\n"
+"The motto is \"Simple and strong\"."
+
+msgctxt "GET_COMMENT_108"
+msgid "守備型の平隊士として優秀。伍長とすれば有能だが、危険も伴う。座右の銘は「棚からぼた餅」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"A corporal is capable, but also dangerous.\n"
+"The motto is \"Botamochi from the\n"
+"shelf\"."
+
+msgctxt "GET_COMMENT_109"
+msgid "守備型の平隊士として優秀。伍長とすれば有能だが、危険も伴う。座右の銘は「明日は明日の風が吹く」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"A corporal is capable, but also dangerous.\n"
+"The motto is \"Tomorrow's wind will\n"
+"blow\"."
+
+msgctxt "GET_COMMENT_110"
+msgid "守備型の平隊士として優秀。伍長としては窮地を粘り強く耐え抜く。座右の銘は「日進月歩」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"As a corporal, he endures the predicament\n"
+"tenaciously. The motto is \"Daily\n"
+"progress\"."
+
+msgctxt "GET_COMMENT_111"
+msgid "守備型の平隊士として優秀。伍長としては窮地を粘り強く耐え抜く。座右の銘は「一期一会」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"As a corporal, he endures the predicament\n"
+"tenaciously. The motto is \"Ichigo\n"
+"Ichikai\"."
+
+msgctxt "GET_COMMENT_112"
+msgid "守備型の平隊士として優秀。伍長としては窮地を粘り強く耐え抜く。座右の銘は「実るほど首を垂れる稲穂かな」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"As a corporal, he endures the predicament\n"
+"tenaciously. The motto is \"Is it\n"
+"an ear of rice that hangs its head as\n"
+"it grows?\""
+
+msgctxt "GET_COMMENT_113"
+msgid "守備型の平隊士として優秀。伍長としては窮地を粘り強く耐え抜く。座右の銘は「尽忠報国」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"As a corporal, he endures the predicament\n"
+"tenaciously. The motto is \"Zanchuhokoku\"."
+
+msgctxt "GET_COMMENT_114"
+msgid "守備型の平隊士として優秀。伍長としては窮地を粘り強く耐え抜く。座右の銘は「平々凡々」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"As a corporal, he endures the predicament\n"
+"tenaciously. The motto is \"Mediocre\"."
+
+msgctxt "GET_COMMENT_115"
+msgid "守備型の平隊士として優秀。統率力の優れた伍長として有能。座右の銘は「臥薪嘗胆」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Competent as a corporal with excellent\n"
+"command. The motto is \"Wo-ki-boku\"."
+
+msgctxt "GET_COMMENT_116"
+msgid "継続的に隊長の闘気を高めることに長けた平隊士。守備型伍長としては凡庸。座右の銘は「切磋琢磨」。"
+msgstr ""
+"A flat soldier who is good at continuously\n"
+"increasing the fighting spirit of the\n"
+"captain. Mediocre as a defensive corporal.\n"
+"The motto is \"Kiritsu Takuma\"."
+
+msgctxt "GET_COMMENT_117"
+msgid "守備型の平隊士として優秀。統率力の優れた伍長として有能。座右の銘は「品行方正」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Competent as a corporal with excellent\n"
+"command. The motto is \"Good behavior\"."
+
+msgctxt "GET_COMMENT_118"
+msgid "守備型の平隊士として優秀。守備型伍長としては凡庸。座右の銘は「実るほど首を垂れる稲穂かな」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Mediocre as a defensive corporal. The\n"
+"motto is \"Is it an ear of rice that\n"
+"hangs its head as it grows?\""
+
+msgctxt "GET_COMMENT_119"
+msgid "守備型の平隊士として優秀。統率力の優れた伍長として有能。座右の銘は「質実剛健」。"
+msgstr ""
+"Excellent as a defensive type flat soldier.\n"
+"Competent as a corporal with excellent\n"
+"command. The motto is \"Simple and strong\"."
+
+msgctxt "GET_COMMENT_120"
+msgid "優秀な体力回復系平隊士。回復系伍長として適任。座右の銘は「初志貫徹」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. Suitable as a recovery corporal.\n"
+"The motto is \"Toru Hatsushi\"."
+
+msgctxt "GET_COMMENT_121"
+msgid "体力回復に長けた平隊士。回復系伍長として適任。座右の銘は「因果応報」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Suitable as a recovery\n"
+"corporal. The motto is \"Causal Retribution\"."
+
+msgctxt "GET_COMMENT_122"
+msgid "体力回復に長けた平隊士。回復系伍長としては凡庸。座右の銘は「有言実行」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. A mediocre recovery\n"
+"corporal. The motto is \"execution of words\"."
+
+msgctxt "GET_COMMENT_123"
+msgid "体力回復に長けた平隊士。回復系伍長としては凡庸。座右の銘は「平々凡々」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. A mediocre recovery\n"
+"corporal. The motto is \"Mediocre\"."
+
+msgctxt "GET_COMMENT_124"
+msgid "体力回復に長けた平隊士。回復系伍長としては凡庸。座右の銘は「臥薪嘗胆」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. A mediocre recovery\n"
+"corporal. The motto is \"Wo-ki-boku\"."
+
+msgctxt "GET_COMMENT_125"
+msgid "平凡な平隊士。回復系伍長としては凡庸。座右の銘は「切磋琢磨」。"
+msgstr ""
+"A mediocre flat soldier. A mediocre recovery\n"
+"corporal. The motto is \"Kiritsu Takuma\"."
+
+msgctxt "GET_COMMENT_126"
+msgid "平凡な平隊士。回復系伍長としては凡庸。座右の銘は「品行方正」。"
+msgstr ""
+"A mediocre flat soldier. A mediocre recovery\n"
+"corporal. The motto is \"Good behavior\"."
+
+msgctxt "GET_COMMENT_127"
+msgid "平凡な平隊士。回復系伍長としては凡庸。座右の銘は「不言実行」。"
+msgstr ""
+"A mediocre flat soldier. A mediocre recovery\n"
+"corporal. The motto is \"Silence execution\"."
+
+msgctxt "GET_COMMENT_128"
+msgid "優秀な体力回復系平隊士。回復系伍長としては凡庸。座右の銘は「安寧秩序」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. A mediocre recovery corporal.\n"
+"The motto is \"Peaceful Order\"."
+
+msgctxt "GET_COMMENT_129"
+msgid "体力回復に長けた平隊士。回復系伍長としては凡庸。座右の銘は「流水浮木」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. A mediocre recovery\n"
+"corporal. The motto is \"Running floating\n"
+"tree\"."
+
+msgctxt "GET_COMMENT_130"
+msgid "継続的に隊長の闘気を高めることに長けた平隊士。伍長には不向き。座右の銘は「威風堂々」。"
+msgstr ""
+"A flat soldier who is good at continuously\n"
+"increasing the fighting spirit of the\n"
+"captain. Not suitable for corporals.\n"
+"The motto is \"Pomp and Circumstance\"."
+
+msgctxt "GET_COMMENT_131"
+msgid "体力回復に長けた平隊士。伍長には不向き。座右の銘は「因果応報」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Not suitable for corporals.\n"
+"The motto is \"Causal Retribution\"."
+
+msgctxt "GET_COMMENT_132"
+msgid "優秀な体力回復系平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「七転八倒」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. A corporal is capable, but also\n"
+"dangerous. The motto is \"Seven turns\n"
+"and eight falls\"."
+
+msgctxt "GET_COMMENT_133"
+msgid "体力回復に長けた平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「一致団結」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. A corporal is capable,\n"
+"but also dangerous. The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_134"
+msgid "体力回復に長けた平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「為せば成る」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. A corporal is capable,\n"
+"but also dangerous. The motto is \"If\n"
+"you do it\"."
+
+msgctxt "GET_COMMENT_135"
+msgid "平凡な平隊士。統率力の優れた伍長として有能。座右の銘は「初志貫徹」。"
+msgstr ""
+"A mediocre flat soldier. Competent as a\n"
+"corporal with excellent command. The motto\n"
+"is \"Toru Hatsushi\"."
+
+msgctxt "GET_COMMENT_136"
+msgid "優秀な体力回復系平隊士。回復系伍長としては凡庸。座右の銘は「誠心誠意」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. A mediocre recovery corporal.\n"
+"The motto is \"Sincerity\"."
+
+msgctxt "GET_COMMENT_137"
+msgid "体力回復に長けた平隊士。統率力の優れた伍長として有能。座右の銘は「質実剛健」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Competent as a corporal\n"
+"with excellent command. The motto\n"
+"is \"Simple and strong\"."
+
+msgctxt "GET_COMMENT_138"
+msgid "優秀な体力回復系平隊士。回復系伍長としては凡庸。座右の銘は「破天荒」。"
+msgstr ""
+"Excellent physical recovery system flat\n"
+"soldier. A mediocre recovery corporal.\n"
+"The motto is \"Breakfast\"."
+
+msgctxt "GET_COMMENT_139"
+msgid "体力回復に長けた平隊士。統率力の優れた伍長として有能。座右の銘は「一心不乱」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Competent as a corporal\n"
+"with excellent command. The motto\n"
+"is \"Ichishin Furu\"."
+
+msgctxt "GET_COMMENT_140"
+msgid "守備隊士補佐において優秀な平隊士。攻撃型伍長として適任。座右の銘は「明日は明日の風が吹く」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"garrison. Suitable as an offensive corporal.\n"
+"The motto is \"Tomorrow's wind\n"
+"will blow\"."
+
+msgctxt "GET_COMMENT_141"
+msgid "攻撃隊士補佐において優秀な平隊士。攻撃型伍長としては凡庸。座右の銘は「平穏無事」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"attack corps. Mediocre as an offensive\n"
+"corporal. The motto is \"Peaceful and\n"
+"safe\"."
+
+msgctxt "GET_COMMENT_142"
+msgid "攻撃隊士補佐に長けた平隊士。攻撃型伍長としては凡庸。座右の銘は「有言実行」。"
+msgstr ""
+"A flat soldier who is good at assisting\n"
+"attackers. Mediocre as an offensive corporal.\n"
+"The motto is \"execution of words\"."
+
+msgctxt "GET_COMMENT_143"
+msgid "攻撃隊士補佐において優秀な平隊士。守備型伍長として適任。座右の銘は「温故知新」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"attack corps. Suitable as a defensive\n"
+"corporal. The motto is \"Won's old wisdom\"."
+
+msgctxt "GET_COMMENT_144"
+msgid "守備隊士補佐に長けた平隊士。守備型伍長としては凡庸。座右の銘は「一攫千金」。"
+msgstr ""
+"A flat soldier who is good at assistant\n"
+"garrison. Mediocre as a defensive corporal.\n"
+"The motto is \"Ichibashi Senkin\"."
+
+msgctxt "GET_COMMENT_145"
+msgid "守備隊士補佐において優秀な平隊士。回復系伍長として適任。座右の銘は「破天荒」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"garrison. Suitable as a recovery corporal.\n"
+"The motto is \"Breakfast\"."
+
+msgctxt "GET_COMMENT_146"
+msgid "継続的に隊長の闘気を高めることに長けた平隊士。回復系伍長としては凡庸。座右の銘は「一心不乱」。"
+msgstr ""
+"A flat soldier who is good at continuously\n"
+"increasing the fighting spirit of the\n"
+"captain. A mediocre recovery corporal.\n"
+"The motto is \"Ichishin Furu\"."
+
+msgctxt "GET_COMMENT_147"
+msgid "攻撃隊士補佐において優秀な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「誠心誠意」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"attack corps. A corporal is capable,\n"
+"but also dangerous. The motto is \"Sincerity\"."
+
+msgctxt "GET_COMMENT_148"
+msgid "攻撃隊士補佐において優秀な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「質実剛健」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"attack corps. A corporal is capable,\n"
+"but also dangerous. The motto is \"Simple\n"
+"and strong\"."
+
+msgctxt "GET_COMMENT_149"
+msgid "攻撃隊士補佐において優秀な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「棚からぼた餅」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"attack corps. A corporal is capable,\n"
+"but also dangerous. The motto is \"Botamochi\n"
+"from the shelf\"."
+
+msgctxt "GET_COMMENT_150"
+msgid "守備隊士補佐において優秀な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「明日は明日の風が吹く」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"garrison. A corporal is capable, but\n"
+"also dangerous. The motto is \"Tomorrow's\n"
+"wind will blow\"."
+
+msgctxt "GET_COMMENT_151"
+msgid "守備隊士補佐において優秀な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「威風堂々」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"garrison. A corporal is capable, but\n"
+"also dangerous. The motto is \"Pomp and\n"
+"Circumstance\"."
+
+msgctxt "GET_COMMENT_152"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「一念発起」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Initial\"."
+
+msgctxt "GET_COMMENT_153"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「七転八倒」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Seven turns and eight falls\"."
+
+msgctxt "GET_COMMENT_154"
+msgid "攻撃隊士補佐において優秀な平隊士。有能な伍長として死地に活路を開く。座右の銘は「安寧秩序」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"attack corps. As a competent corporal,\n"
+"he opens the way to the dead. The motto\n"
+"is \"Peaceful Order\"."
+
+msgctxt "GET_COMMENT_155"
+msgid "守備隊士補佐において優秀な平隊士。有能な伍長として死地に活路を開く。座右の銘は「為せば成る」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"garrison. As a competent corporal, he\n"
+"opens the way to the dead. The motto\n"
+"is \"If you do it\"."
+
+msgctxt "GET_COMMENT_156"
+msgid "攻撃隊士補佐において優秀な平隊士。攻撃型伍長としては凡庸。座右の銘は「泰然自若」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"attack corps. Mediocre as an offensive\n"
+"corporal. The motto is \"Taisei Jiju\"."
+
+msgctxt "GET_COMMENT_157"
+msgid "守備隊士補佐において優秀な平隊士。有能な伍長として死地に活路を開く。座右の銘は「誠心誠意」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"garrison. As a competent corporal, he\n"
+"opens the way to the dead. The motto\n"
+"is \"Sincerity\"."
+
+msgctxt "GET_COMMENT_158"
+msgid "攻撃隊士補佐において優秀な平隊士。攻撃型伍長としては凡庸。座右の銘は「一期一会」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"attack corps. Mediocre as an offensive\n"
+"corporal. The motto is \"Ichigo Ichikai\"."
+
+msgctxt "GET_COMMENT_159"
+msgid "守備隊士補佐において優秀な平隊士。有能な伍長として死地に活路を開く。座右の銘は「不言実行」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"garrison. As a competent corporal, he\n"
+"opens the way to the dead. The motto\n"
+"is \"Silence execution\"."
+
+msgctxt "GET_COMMENT_160"
+msgid "全ての隊士補佐に長けた平隊士。伍長には不向きも、使い方次第。座右の銘は「初志貫徹」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. Not suitable for corporal,\n"
+"but it depends on how you use it. The\n"
+"motto is \"Toru Hatsushi\"."
+
+msgctxt "GET_COMMENT_161"
+msgid "全ての隊士補佐において優秀な平隊士。伍長には不向きも、使い方次第。座右の銘は「威風堂々」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Not suitable for corporal,\n"
+"but it depends on how you use it. The\n"
+"motto is \"Pomp and Circumstance\"."
+
+msgctxt "GET_COMMENT_162"
+msgid "全ての隊士補佐において優秀な平隊士。伍長には不向き。座右の銘は「一念発起」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Not suitable for corporals.\n"
+"The motto is \"Initial\"."
+
+msgctxt "GET_COMMENT_163"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「七転八倒」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Seven turns\n"
+"and eight falls\"."
+
+msgctxt "GET_COMMENT_164"
+msgid "全ての隊士補佐に長けた平隊士。伍長には不向き。座右の銘は「一致団結」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. Not suitable for corporals.\n"
+"The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_165"
+msgid "全ての隊士補佐において優秀な平隊士。伍長には不向き。座右の銘は「為せば成る」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Not suitable for corporals.\n"
+"The motto is \"If you do it\"."
+
+msgctxt "GET_COMMENT_166"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一心不乱」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Ichishin Furu\"."
+
+msgctxt "GET_COMMENT_167"
+msgid "全ての隊士補佐に長けた平隊士。伍長には不向き。座右の銘は「因果応報」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. Not suitable for corporals.\n"
+"The motto is \"Causal Retribution\"."
+
+msgctxt "GET_COMMENT_168"
+msgid "全ての隊士補佐に長けた平隊士。伍長には不向き。座右の銘は「一期一会」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. Not suitable for corporals.\n"
+"The motto is \"Ichigo Ichikai\"."
+
+msgctxt "GET_COMMENT_169"
+msgid "全ての隊士補佐に長けた平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「実るほど首を垂れる稲穂かな」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. A corporal is capable, but\n"
+"also dangerous. The motto is \"Is it an\n"
+"ear of rice that hangs its head as it\n"
+"grows?\""
+
+msgctxt "GET_COMMENT_170"
+msgid "全ての隊士補佐において優秀な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「尽忠報国」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. A corporal is capable, but\n"
+"also dangerous. The motto is \"Zanchuhokoku\"."
+
+msgctxt "GET_COMMENT_171"
+msgid "全ての隊士補佐に長けた平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「初志貫徹」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. A corporal is capable, but\n"
+"also dangerous. The motto is \"Toru Hatsushi\"."
+
+msgctxt "GET_COMMENT_172"
+msgid "平凡な平隊士。有能な伍長として死地に活路を開く。座右の銘は「因果応報」。"
+msgstr ""
+"A mediocre flat soldier. As a competent\n"
+"corporal, he opens the way to the dead.\n"
+"The motto is \"Causal Retribution\"."
+
+msgctxt "GET_COMMENT_173"
+msgid "継続的に隊長の闘気を高めることに長けた平隊士。有能な伍長として死地に活路を開く。座右の銘は「有言実行」。"
+msgstr ""
+"A flat soldier who is good at continuously\n"
+"increasing the fighting spirit of the\n"
+"captain. As a competent corporal, he\n"
+"opens the way to the dead. The motto is\n"
+"\"execution of words\"."
+
+msgctxt "GET_COMMENT_174"
+msgid "全ての隊士補佐に長けた平隊士。有能な伍長として死地に活路を開く。座右の銘は「平々凡々」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. As a competent corporal,\n"
+"he opens the way to the dead. The motto\n"
+"is \"Mediocre\"."
+
+msgctxt "GET_COMMENT_175"
+msgid "全ての隊士補佐において優秀な平隊士。統率力の優れた伍長として有能。座右の銘は「臥薪嘗胆」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Competent as a corporal with\n"
+"excellent command. The motto is \"Wo-ki-boku\"."
+
+msgctxt "GET_COMMENT_176"
+msgid "全ての隊士補佐に長けた平隊士。伍長には不向き。座右の銘は「切磋琢磨」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. Not suitable for corporals.\n"
+"The motto is \"Kiritsu Takuma\"."
+
+msgctxt "GET_COMMENT_177"
+msgid "全ての隊士補佐において優秀な平隊士。統率力の優れた伍長として有能。座右の銘は「品行方正」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Competent as a corporal with\n"
+"excellent command. The motto is \"Good\n"
+"behavior\"."
+
+msgctxt "GET_COMMENT_178"
+msgid "全ての隊士補佐に長けた平隊士。伍長には不向き。座右の銘は「不言実行」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. Not suitable for corporals.\n"
+"The motto is \"Silence execution\"."
+
+msgctxt "GET_COMMENT_179"
+msgid "全ての隊士補佐において優秀な平隊士。統率力の優れた伍長として有能。座右の銘は「安寧秩序」。"
+msgstr ""
+"An excellent flat soldier in all assistant\n"
+"soldiers. Competent as a corporal with\n"
+"excellent command. The motto is \"Peaceful\n"
+"Order\"."
+
+msgctxt "GET_COMMENT_180"
+msgid "汎用的な攻撃型平隊士。攻撃型伍長としては凡庸。座右の銘は「泰然自若」。"
+msgstr ""
+"A general-purpose attack type flat soldier.\n"
+"Mediocre as an offensive corporal.\n"
+"The motto is \"Taisei Jiju\"."
+
+msgctxt "GET_COMMENT_181"
+msgid "汎用的な攻撃型平隊士。攻撃型伍長としては凡庸。座右の銘は「平穏無事」。"
+msgstr ""
+"A general-purpose attack type flat soldier.\n"
+"Mediocre as an offensive corporal.\n"
+"The motto is \"Peaceful and safe\"."
+
+msgctxt "GET_COMMENT_182"
+msgid "汎用的な攻撃型平隊士。攻撃型伍長としては凡庸。座右の銘は「有言実行」。"
+msgstr ""
+"A general-purpose attack type flat soldier.\n"
+"Mediocre as an offensive corporal.\n"
+"The motto is \"execution of words\"."
+
+msgctxt "GET_COMMENT_183"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「温故知新」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Won's old wisdom\"."
+
+msgctxt "GET_COMMENT_184"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一攫千金」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Ichibashi Senkin\"."
+
+msgctxt "GET_COMMENT_185"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「破天荒」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Breakfast\"."
+
+msgctxt "GET_COMMENT_186"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一心不乱」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Ichishin Furu\"."
+
+msgctxt "GET_COMMENT_187"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「誠心誠意」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Sincerity\"."
+
+msgctxt "GET_COMMENT_188"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「質実剛健」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Simple and strong\"."
+
+msgctxt "GET_COMMENT_189"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「棚からぼた餅」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Botamochi from\n"
+"the shelf\"."
+
+msgctxt "GET_COMMENT_190"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「明日は明日の風が吹く」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Tomorrow's wind\n"
+"will blow\"."
+
+msgctxt "GET_COMMENT_191"
+msgid "乱舞補佐に長けた平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「威風堂々」。"
+msgstr ""
+"A flat soldier who is good at assisting\n"
+"Ranbu. As a corporal, he demonstrates his\n"
+"offensive power to survive the predicament.\n"
+"The motto is \"Pomp and Circumstance\"."
+
+msgctxt "GET_COMMENT_192"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一念発起」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Initial\"."
+
+msgctxt "GET_COMMENT_193"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「七転八倒」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Seven turns\n"
+"and eight falls\"."
+
+msgctxt "GET_COMMENT_194"
+msgid "一刀補佐に長けた平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「一致団結」。"
+msgstr ""
+"A flat soldier who is good at assisting\n"
+"one sword. As a corporal, he demonstrates\n"
+"his offensive power to survive the predicament.\n"
+"The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_195"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「為せば成る」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"If you do it\"."
+
+msgctxt "GET_COMMENT_196"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「泰然自若」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Taisei Jiju\"."
+
+msgctxt "GET_COMMENT_197"
+msgid "格闘補佐に長けた平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「日進月歩」。"
+msgstr ""
+"A flat soldier who is good at fighting assistants.\n"
+"As a corporal, he demonstrates\n"
+"his offensive power to survive the predicament.\n"
+"The motto is \"Daily progress\"."
+
+msgctxt "GET_COMMENT_198"
+msgid "爆弾を扱う平隊士。伍長には不向き。座右の銘は「温故知新」。"
+msgstr ""
+"A flat soldier who handles bombs. Not suitable\n"
+"for corporals. The motto is \"Won's\n"
+"old wisdom\"."
+
+msgctxt "GET_COMMENT_199"
+msgid "火炎玉を扱う平隊士。伍長には不向き。座右の銘は「実るほど首を垂れる稲穂かな」。"
+msgstr ""
+"A flat soldier who handles flameballs. Not\n"
+"suitable for corporals. The motto is\n"
+"\"Is it an ear of rice that hangs its head\n"
+"as it grows?\""
+
+msgctxt "GET_COMMENT_200"
+msgid "電撃玉を扱う平隊士。伍長には不向き。座右の銘は「尽忠報国」。"
+msgstr ""
+"A flat soldier who handles electric shock\n"
+"balls. Not suitable for corporals. The\n"
+"motto is \"Zanchuhokoku\"."
+
+msgctxt "GET_COMMENT_201"
+msgid "閃光玉を扱う平隊士。伍長には不向き。座右の銘は「平穏無事」。"
+msgstr ""
+"A flat soldier who handles flash balls.\n"
+"Not suitable for corporals. The motto is\n"
+"\"Peaceful and safe\"."
+
+msgctxt "GET_COMMENT_202"
+msgid "毒霧玉を扱う平隊士。伍長には不向き。座右の銘は「有言実行」。"
+msgstr ""
+"A flat soldier who handles poisonous fog\n"
+"balls. Not suitable for corporals. The\n"
+"motto is \"execution of words\"."
+
+msgctxt "GET_COMMENT_203"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「温故知新」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Won's old wisdom\"."
+
+msgctxt "GET_COMMENT_204"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「一攫千金」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Ichibashi Senkin\"."
+
+msgctxt "GET_COMMENT_205"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「破天荒」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Breakfast\"."
+
+msgctxt "GET_COMMENT_206"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「一心不乱」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Ichishin Furu\"."
+
+msgctxt "GET_COMMENT_207"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「誠心誠意」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Sincerity\"."
+
+msgctxt "GET_COMMENT_208"
+msgid "汎用的な攻撃型平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「質実剛健」。"
+msgstr ""
+"A general-purpose attack type flat soldier.\n"
+"A corporal is capable, but also dangerous.\n"
+"The motto is \"Simple and strong\"."
+
+msgctxt "GET_COMMENT_209"
+msgid "汎用的な攻撃型平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「棚からぼた餅」。"
+msgstr ""
+"A general-purpose attack type flat soldier.\n"
+"As a corporal, he demonstrates his\n"
+"offensive power to survive the predicament.\n"
+"The motto is \"Botamochi from the shelf\"."
+
+msgctxt "GET_COMMENT_210"
+msgid "汎用的な攻撃型平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「明日は明日の風が吹く」。"
+msgstr ""
+"A general-purpose attack type flat soldier.\n"
+"As a corporal, he demonstrates his\n"
+"offensive power to survive the predicament.\n"
+"The motto is \"Tomorrow's wind will\n"
+"blow\"."
+
+msgctxt "GET_COMMENT_211"
+msgid "炎属性武器の扱いに長けた平隊士。攻撃型伍長としては凡庸。座右の銘は「一念発起」。"
+msgstr ""
+"A flat soldier who is good at handling fire-type\n"
+"weapons. Mediocre as an offensive\n"
+"corporal. The motto is \"Initial\"."
+
+msgctxt "GET_COMMENT_212"
+msgid "雷属性武器の扱いに長けた平隊士。攻撃型伍長としては凡庸。座右の銘は「七転八倒」。"
+msgstr ""
+"A flat soldier who is good at handling lightning\n"
+"weapons. Mediocre as an offensive\n"
+"corporal. The motto is \"Seven turns\n"
+"and eight falls\"."
+
+msgctxt "GET_COMMENT_213"
+msgid "閃属性武器の扱いに長けた平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「一致団結」。"
+msgstr ""
+"A flat soldier who is good at handling flash\n"
+"weapons. As a corporal, he demonstrates\n"
+"his offensive power to survive the\n"
+"predicament. The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_214"
+msgid "毒属性武器の扱いに長けた平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「為せば成る」。"
+msgstr ""
+"A flat soldier who is good at handling poisonous\n"
+"weapons. As a corporal, he demonstrates\n"
+"his offensive power to survive\n"
+"the predicament. The motto is \"If you\n"
+"do it\"."
+
+msgctxt "GET_COMMENT_215"
+msgid "平凡な平隊士。攻撃型伍長としては凡庸。座右の銘は「泰然自若」。"
+msgstr ""
+"A mediocre flat soldier. Mediocre as an\n"
+"offensive corporal. The motto is \"Taisei\n"
+"Jiju\"."
+
+msgctxt "GET_COMMENT_216"
+msgid "火炎玉を扱う平隊士。伍長には不向き。座右の銘は「日進月歩」。"
+msgstr ""
+"A flat soldier who handles flameballs. Not\n"
+"suitable for corporals. The motto is\n"
+"\"Daily progress\"."
+
+msgctxt "GET_COMMENT_217"
+msgid "電撃玉を扱う平隊士。伍長には不向き。座右の銘は「一期一会」。"
+msgstr ""
+"A flat soldier who handles electric shock\n"
+"balls. Not suitable for corporals. The\n"
+"motto is \"Ichigo Ichikai\"."
+
+msgctxt "GET_COMMENT_218"
+msgid "短銃補佐に長けた平隊士。伍長としては窮地を生き抜く攻撃力を発揮。座右の銘は「一攫千金」。"
+msgstr ""
+"A flat soldier who is good at assisting\n"
+"pistols. As a corporal, he demonstrates\n"
+"his offensive power to survive the predicament.\n"
+"The motto is \"Ichibashi Senkin\"."
+
+msgctxt "GET_COMMENT_219"
+msgid "守備型の平隊士として汎用的。守備型伍長としては凡庸。座右の銘は「日進月歩」。"
+msgstr ""
+"Versatile as a defensive flat soldier. Mediocre\n"
+"as a defensive corporal. The motto\n"
+"is \"Daily progress\"."
+
+msgctxt "GET_COMMENT_220"
+msgid "守備型の平隊士として汎用的。守備型伍長としては凡庸。座右の銘は「初志貫徹」。"
+msgstr ""
+"Versatile as a defensive flat soldier. Mediocre\n"
+"as a defensive corporal. The motto\n"
+"is \"Toru Hatsushi\"."
+
+msgctxt "GET_COMMENT_221"
+msgid "守備型の平隊士として汎用的。守備型伍長としては凡庸。座右の銘は「因果応報」。"
+msgstr ""
+"Versatile as a defensive flat soldier. Mediocre\n"
+"as a defensive corporal. The motto\n"
+"is \"Causal Retribution\"."
+
+msgctxt "GET_COMMENT_222"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「有言実行」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"execution of\n"
+"words\"."
+
+msgctxt "GET_COMMENT_223"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「平々凡々」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Mediocre\"."
+
+msgctxt "GET_COMMENT_224"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「臥薪嘗胆」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Wo-ki-boku\"."
+
+msgctxt "GET_COMMENT_225"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「切磋琢磨」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Kiritsu Takuma\"."
+
+msgctxt "GET_COMMENT_226"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「品行方正」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Good behavior\"."
+
+msgctxt "GET_COMMENT_227"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「不言実行」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Silence execution\"."
+
+msgctxt "GET_COMMENT_228"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「安寧秩序」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Peaceful Order\"."
+
+msgctxt "GET_COMMENT_229"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「流水浮木」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Running floating\n"
+"tree\"."
+
+msgctxt "GET_COMMENT_230"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「威風堂々」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Pomp and Circumstance\"."
+
+msgctxt "GET_COMMENT_231"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一念発起」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Initial\"."
+
+msgctxt "GET_COMMENT_232"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「七転八倒」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Seven turns\n"
+"and eight falls\"."
+
+msgctxt "GET_COMMENT_233"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一致団結」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_234"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「為せば成る」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"If you do it\"."
+
+msgctxt "GET_COMMENT_235"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「泰然自若」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Taisei Jiju\"."
+
+msgctxt "GET_COMMENT_236"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「日進月歩」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Daily progress\"."
+
+msgctxt "GET_COMMENT_237"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一期一会」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Ichigo Ichikai\"."
+
+msgctxt "GET_COMMENT_238"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「実るほど首を垂れる稲穂かな」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Is it an ear\n"
+"of rice that hangs its head as it grows?\""
+
+msgctxt "GET_COMMENT_239"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「尽忠報国」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Zanchuhokoku\"."
+
+msgctxt "GET_COMMENT_240"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「初志貫徹」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Toru Hatsushi\"."
+
+msgctxt "GET_COMMENT_241"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「因果応報」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Causal Retribution\"."
+
+msgctxt "GET_COMMENT_242"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「有言実行」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"execution of\n"
+"words\"."
+
+msgctxt "GET_COMMENT_243"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「平々凡々」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Mediocre\"."
+
+msgctxt "GET_COMMENT_244"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「臥薪嘗胆」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Wo-ki-boku\"."
+
+msgctxt "GET_COMMENT_245"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「切磋琢磨」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Kiritsu Takuma\"."
+
+msgctxt "GET_COMMENT_246"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「品行方正」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Good behavior\"."
+
+msgctxt "GET_COMMENT_247"
+msgid "守備型の平隊士として汎用的。伍長とすれば有能だが、危険も伴う。座右の銘は「不言実行」。"
+msgstr ""
+"Versatile as a defensive flat soldier. A\n"
+"corporal is capable, but also dangerous.\n"
+"The motto is \"Silence execution\"."
+
+msgctxt "GET_COMMENT_248"
+msgid "守備型の平隊士として汎用的。伍長としては窮地を粘り強く耐え抜く。座右の銘は「安寧秩序」。"
+msgstr ""
+"Versatile as a defensive flat soldier. As\n"
+"a corporal, he endures the predicament\n"
+"tenaciously. The motto is \"Peaceful Order\"."
+
+msgctxt "GET_COMMENT_249"
+msgid "守備型の平隊士として汎用的。伍長としては窮地を粘り強く耐え抜く。座右の銘は「流水浮木」。"
+msgstr ""
+"Versatile as a defensive flat soldier. As\n"
+"a corporal, he endures the predicament\n"
+"tenaciously. The motto is \"Running floating\n"
+"tree\"."
+
+msgctxt "GET_COMMENT_250"
+msgid "平凡な平隊士。守備型伍長としては凡庸。座右の銘は「七転八倒」。"
+msgstr ""
+"A mediocre flat soldier. Mediocre as a defensive\n"
+"corporal. The motto is \"Seven\n"
+"turns and eight falls\"."
+
+msgctxt "GET_COMMENT_251"
+msgid "平凡な平隊士。守備型伍長としては凡庸。座右の銘は「一致団結」。"
+msgstr ""
+"A mediocre flat soldier. Mediocre as a defensive\n"
+"corporal. The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_252"
+msgid "平凡な平隊士。伍長としては窮地を粘り強く耐え抜く。座右の銘は「為せば成る」。"
+msgstr ""
+"A mediocre flat soldier. As a corporal,\n"
+"he endures the predicament tenaciously.\n"
+"The motto is \"If you do it\"."
+
+msgctxt "GET_COMMENT_253"
+msgid "守備型の平隊士として汎用的。伍長としては窮地を粘り強く耐え抜く。座右の銘は「泰然自若」。"
+msgstr ""
+"Versatile as a defensive flat soldier. As\n"
+"a corporal, he endures the predicament\n"
+"tenaciously. The motto is \"Taisei Jiju\"."
+
+msgctxt "GET_COMMENT_254"
+msgid "平凡な平隊士。守備型伍長としては凡庸。座右の銘は「日進月歩」。"
+msgstr ""
+"A mediocre flat soldier. Mediocre as a defensive\n"
+"corporal. The motto is \"Daily\n"
+"progress\"."
+
+msgctxt "GET_COMMENT_255"
+msgid "平凡な平隊士。守備型伍長としては凡庸。座右の銘は「流水浮木」。"
+msgstr ""
+"A mediocre flat soldier. Mediocre as a defensive\n"
+"corporal. The motto is \"Running\n"
+"floating tree\"."
+
+msgctxt "GET_COMMENT_256"
+msgid "平凡な平隊士。伍長としては窮地を粘り強く耐え抜く。座右の銘は「棚からぼた餅」。"
+msgstr ""
+"A mediocre flat soldier. As a corporal,\n"
+"he endures the predicament tenaciously.\n"
+"The motto is \"Botamochi from the shelf\"."
+
+msgctxt "GET_COMMENT_257"
+msgid "守備型の平隊士として汎用的。伍長としては窮地を粘り強く耐え抜く。座右の銘は「尽忠報国」。"
+msgstr ""
+"Versatile as a defensive flat soldier. As\n"
+"a corporal, he endures the predicament\n"
+"tenaciously. The motto is \"Zanchuhokoku\"."
+
+msgctxt "GET_COMMENT_258"
+msgid "平凡な平隊士。回復系伍長としては凡庸。座右の銘は「平穏無事」。"
+msgstr ""
+"A mediocre flat soldier. A mediocre recovery\n"
+"corporal. The motto is \"Peaceful and\n"
+"safe\"."
+
+msgctxt "GET_COMMENT_259"
+msgid "平凡な平隊士。回復系伍長としては凡庸。座右の銘は「威風堂々」。"
+msgstr ""
+"A mediocre flat soldier. A mediocre recovery\n"
+"corporal. The motto is \"Pomp and Circumstance\"."
+
+msgctxt "GET_COMMENT_260"
+msgid "体力回復に長けた平隊士。回復系伍長としては凡庸。座右の銘は「一念発起」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. A mediocre recovery\n"
+"corporal. The motto is \"Initial\"."
+
+msgctxt "GET_COMMENT_261"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「七転八倒」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Seven turns\n"
+"and eight falls\"."
+
+msgctxt "GET_COMMENT_262"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一致団結」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_263"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「流水浮木」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Running floating\n"
+"tree\"."
+
+msgctxt "GET_COMMENT_264"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「泰然自若」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Taisei Jiju\"."
+
+msgctxt "GET_COMMENT_265"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「日進月歩」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Daily progress\"."
+
+msgctxt "GET_COMMENT_266"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一期一会」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Ichigo Ichikai\"."
+
+msgctxt "GET_COMMENT_267"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「実るほど首を垂れる稲穂かな」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Is it an ear\n"
+"of rice that hangs its head as it grows?\""
+
+msgctxt "GET_COMMENT_268"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「尽忠報国」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Zanchuhokoku\"."
+
+msgctxt "GET_COMMENT_269"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「初志貫徹」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Toru Hatsushi\"."
+
+msgctxt "GET_COMMENT_270"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「因果応報」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Causal Retribution\"."
+
+msgctxt "GET_COMMENT_271"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「有言実行」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"execution of\n"
+"words\"."
+
+msgctxt "GET_COMMENT_272"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「平々凡々」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Mediocre\"."
+
+msgctxt "GET_COMMENT_273"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「臥薪嘗胆」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Wo-ki-boku\"."
+
+msgctxt "GET_COMMENT_274"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「切磋琢磨」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Kiritsu Takuma\"."
+
+msgctxt "GET_COMMENT_275"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「品行方正」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Good behavior\"."
+
+msgctxt "GET_COMMENT_276"
+msgid "体力回復に長けた平隊士。伍長には不向き。座右の銘は「不言実行」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Not suitable for corporals.\n"
+"The motto is \"Silence execution\"."
+
+msgctxt "GET_COMMENT_277"
+msgid "体力回復に長けた平隊士。伍長には不向き。座右の銘は「安寧秩序」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Not suitable for corporals.\n"
+"The motto is \"Peaceful Order\"."
+
+msgctxt "GET_COMMENT_278"
+msgid "体力回復に長けた平隊士。伍長には不向き。座右の銘は「流水浮木」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Not suitable for corporals.\n"
+"The motto is \"Running floating\n"
+"tree\"."
+
+msgctxt "GET_COMMENT_279"
+msgid "体力回復に長けた平隊士。伍長には不向き。座右の銘は「平穏無事」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Not suitable for corporals.\n"
+"The motto is \"Peaceful and safe\"."
+
+msgctxt "GET_COMMENT_280"
+msgid "体力回復に長けた平隊士。伍長には不向き。座右の銘は「有言実行」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Not suitable for corporals.\n"
+"The motto is \"execution of words\"."
+
+msgctxt "GET_COMMENT_281"
+msgid "体力回復に長けた平隊士。伍長には不向き。座右の銘は「温故知新」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Not suitable for corporals.\n"
+"The motto is \"Won's old wisdom\"."
+
+msgctxt "GET_COMMENT_282"
+msgid "体力回復に長けた平隊士。伍長には不向き。座右の銘は「一攫千金」。"
+msgstr ""
+"A flat soldier who is good at recovering\n"
+"physical strength. Not suitable for corporals.\n"
+"The motto is \"Ichibashi Senkin\"."
+
+msgctxt "GET_COMMENT_283"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「破天荒」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Breakfast\"."
+
+msgctxt "GET_COMMENT_284"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一心不乱」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Ichishin Furu\"."
+
+msgctxt "GET_COMMENT_285"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「誠心誠意」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Sincerity\"."
+
+msgctxt "GET_COMMENT_286"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「質実剛健」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Simple and strong\"."
+
+msgctxt "GET_COMMENT_287"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「棚からぼた餅」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Botamochi from the shelf\"."
+
+msgctxt "GET_COMMENT_288"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「明日は明日の風が吹く」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Tomorrow's wind will blow\"."
+
+msgctxt "GET_COMMENT_289"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一念発起」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Initial\"."
+
+msgctxt "GET_COMMENT_290"
+msgid "平凡な平隊士。回復系伍長としては凡庸。座右の銘は「七転八倒」。"
+msgstr ""
+"A mediocre flat soldier. A mediocre recovery\n"
+"corporal. The motto is \"Seven turns\n"
+"and eight falls\"."
+
+msgctxt "GET_COMMENT_291"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一致団結」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_292"
+msgid "平凡な平隊士。回復系伍長としては凡庸。座右の銘は「為せば成る」。"
+msgstr ""
+"A mediocre flat soldier. A mediocre recovery\n"
+"corporal. The motto is \"If you do\n"
+"it\"."
+
+msgctxt "GET_COMMENT_293"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「泰然自若」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Taisei Jiju\"."
+
+msgctxt "GET_COMMENT_294"
+msgid "平凡な平隊士。回復系伍長としては凡庸。座右の銘は「日進月歩」。"
+msgstr ""
+"A mediocre flat soldier. A mediocre recovery\n"
+"corporal. The motto is \"Daily progress\"."
+
+msgctxt "GET_COMMENT_295"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一期一会」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Ichigo Ichikai\"."
+
+msgctxt "GET_COMMENT_296"
+msgid "平凡な平隊士。回復系伍長としては凡庸。座右の銘は「実るほど首を垂れる稲穂かな」。"
+msgstr ""
+"A mediocre flat soldier. A mediocre recovery\n"
+"corporal. The motto is \"Is it an ear\n"
+"of rice that hangs its head as it grows?\""
+
+msgctxt "GET_COMMENT_297"
+msgid "平凡な平隊士。攻撃型伍長としては凡庸。座右の銘は「棚からぼた餅」。"
+msgstr ""
+"A mediocre flat soldier. Mediocre as an\n"
+"offensive corporal. The motto is \"Botamochi\n"
+"from the shelf\"."
+
+msgctxt "GET_COMMENT_298"
+msgid "攻撃隊士補佐に長けた平隊士。攻撃型伍長としては凡庸。座右の銘は「威風堂々」。"
+msgstr ""
+"A flat soldier who is good at assisting\n"
+"attackers. Mediocre as an offensive corporal.\n"
+"The motto is \"Pomp and Circumstance\"."
+
+msgctxt "GET_COMMENT_299"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一念発起」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Initial\"."
+
+msgctxt "GET_COMMENT_300"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「七転八倒」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Seven turns\n"
+"and eight falls\"."
+
+msgctxt "GET_COMMENT_301"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一致団結」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_302"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「流水浮木」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Running floating\n"
+"tree\"."
+
+msgctxt "GET_COMMENT_303"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「初志貫徹」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Toru Hatsushi\"."
+
+msgctxt "GET_COMMENT_304"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「日進月歩」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Daily progress\"."
+
+msgctxt "GET_COMMENT_305"
+msgid "平凡な平隊士。守備型伍長としては凡庸。座右の銘は「一期一会」。"
+msgstr ""
+"A mediocre flat soldier. Mediocre as a defensive\n"
+"corporal. The motto is \"Ichigo\n"
+"Ichikai\"."
+
+msgctxt "GET_COMMENT_306"
+msgid "攻撃隊士補佐に長けた平隊士。守備型伍長としては凡庸。座右の銘は「実るほど首を垂れる稲穂かな」。"
+msgstr ""
+"A flat soldier who is good at assisting\n"
+"attackers. Mediocre as a defensive corporal.\n"
+"The motto is \"Is it an ear of rice\n"
+"that hangs its head as it grows?\""
+
+msgctxt "GET_COMMENT_307"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「尽忠報国」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Zanchuhokoku\"."
+
+msgctxt "GET_COMMENT_308"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「平穏無事」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Peaceful and\n"
+"safe\"."
+
+msgctxt "GET_COMMENT_309"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「有言実行」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"execution of\n"
+"words\"."
+
+msgctxt "GET_COMMENT_310"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「温故知新」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Won's old wisdom\"."
+
+msgctxt "GET_COMMENT_311"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一攫千金」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Ichibashi Senkin\"."
+
+msgctxt "GET_COMMENT_312"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「破天荒」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Breakfast\"."
+
+msgctxt "GET_COMMENT_313"
+msgid "平凡な平隊士。回復系伍長としては凡庸。座右の銘は「一心不乱」。"
+msgstr ""
+"A mediocre flat soldier. A mediocre recovery\n"
+"corporal. The motto is \"Ichishin Furu\"."
+
+msgctxt "GET_COMMENT_314"
+msgid "攻撃隊士補佐に長けた平隊士。回復系伍長としては凡庸。座右の銘は「誠心誠意」。"
+msgstr ""
+"A flat soldier who is good at assisting\n"
+"attackers. A mediocre recovery corporal.\n"
+"The motto is \"Sincerity\"."
+
+msgctxt "GET_COMMENT_315"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「質実剛健」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Simple and strong\"."
+
+msgctxt "GET_COMMENT_316"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「棚からぼた餅」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Botamochi from\n"
+"the shelf\"."
+
+msgctxt "GET_COMMENT_317"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「明日は明日の風が吹く」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Tomorrow's wind\n"
+"will blow\"."
+
+msgctxt "GET_COMMENT_318"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「初志貫徹」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Toru Hatsushi\"."
+
+msgctxt "GET_COMMENT_319"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「因果応報」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Causal Retribution\"."
+
+msgctxt "GET_COMMENT_320"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「有言実行」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"execution of\n"
+"words\"."
+
+msgctxt "GET_COMMENT_321"
+msgid "攻撃隊士補佐において優秀な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「平々凡々」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"attack corps. A corporal is capable,\n"
+"but also dangerous. The motto is \"Mediocre\"."
+
+msgctxt "GET_COMMENT_322"
+msgid "攻撃隊士補佐において優秀な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「臥薪嘗胆」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"attack corps. A corporal is capable,\n"
+"but also dangerous. The motto is \"Wo-ki-boku\"."
+
+msgctxt "GET_COMMENT_323"
+msgid "攻撃隊士補佐において優秀な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「切磋琢磨」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"attack corps. A corporal is capable,\n"
+"but also dangerous. The motto is \"Kiritsu\n"
+"Takuma\"."
+
+msgctxt "GET_COMMENT_324"
+msgid "守備隊士補佐において優秀な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「品行方正」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"garrison. A corporal is capable, but\n"
+"also dangerous. The motto is \"Good behavior\"."
+
+msgctxt "GET_COMMENT_325"
+msgid "守備隊士補佐において優秀な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「不言実行」。"
+msgstr ""
+"An excellent flat soldier in the assistant\n"
+"garrison. A corporal is capable, but\n"
+"also dangerous. The motto is \"Silence\n"
+"execution\"."
+
+msgctxt "GET_COMMENT_326"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「安寧秩序」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Peaceful Order\"."
+
+msgctxt "GET_COMMENT_327"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「流水浮木」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Running floating tree\"."
+
+msgctxt "GET_COMMENT_328"
+msgid "平凡な平隊士。攻撃型伍長としては凡庸。座右の銘は「一念発起」。"
+msgstr ""
+"A mediocre flat soldier. Mediocre as an\n"
+"offensive corporal. The motto is \"Initial\"."
+
+msgctxt "GET_COMMENT_329"
+msgid "平凡な平隊士。守備型伍長としては凡庸。座右の銘は「七転八倒」。"
+msgstr ""
+"A mediocre flat soldier. Mediocre as a defensive\n"
+"corporal. The motto is \"Seven\n"
+"turns and eight falls\"."
+
+msgctxt "GET_COMMENT_330"
+msgid "平凡な平隊士。回復系伍長としては凡庸。座右の銘は「一致団結」。"
+msgstr ""
+"A mediocre flat soldier. A mediocre recovery\n"
+"corporal. The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_331"
+msgid "守備隊士補佐に長けた平隊士。有能な伍長として死地に活路を開く。座右の銘は「破天荒」。"
+msgstr ""
+"A flat soldier who is good at assistant\n"
+"garrison. As a competent corporal, he opens\n"
+"the way to the dead. The motto is\n"
+"\"Breakfast\"."
+
+msgctxt "GET_COMMENT_332"
+msgid "平凡な平隊士。攻撃型伍長としては凡庸。座右の銘は「泰然自若」。"
+msgstr ""
+"A mediocre flat soldier. Mediocre as an\n"
+"offensive corporal. The motto is \"Taisei\n"
+"Jiju\"."
+
+msgctxt "GET_COMMENT_333"
+msgid "平凡な平隊士。守備型伍長としては凡庸。座右の銘は「日進月歩」。"
+msgstr ""
+"A mediocre flat soldier. Mediocre as a defensive\n"
+"corporal. The motto is \"Daily\n"
+"progress\"."
+
+msgctxt "GET_COMMENT_334"
+msgid "平凡な平隊士。回復系伍長としては凡庸。座右の銘は「一期一会」。"
+msgstr ""
+"A mediocre flat soldier. A mediocre recovery\n"
+"corporal. The motto is \"Ichigo Ichikai\"."
+
+msgctxt "GET_COMMENT_335"
+msgid "衛生隊士補佐に長けた平隊士。有能な伍長として死地に活路を開く。座右の銘は「実るほど首を垂れる稲穂かな」。"
+msgstr ""
+"A flat soldier who is good at assistant\n"
+"hygiene. As a competent corporal, he opens\n"
+"the way to the dead. The motto is \"Is\n"
+"it an ear of rice that hangs its head\n"
+"as it grows?\""
+
+msgctxt "GET_COMMENT_336"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「尽忠報国」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Zanchuhokoku\"."
+
+msgctxt "GET_COMMENT_337"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「初志貫徹」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Toru Hatsushi\"."
+
+msgctxt "GET_COMMENT_338"
+msgid "全ての隊士補佐に長けた平隊士。伍長には不向き。座右の銘は「因果応報」。"
+msgstr ""
+"A flat soldier who is good at all assistant\n"
+"soldiers. Not suitable for corporals.\n"
+"The motto is \"Causal Retribution\"."
+
+msgctxt "GET_COMMENT_339"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「有言実行」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"execution of\n"
+"words\"."
+
+msgctxt "GET_COMMENT_340"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「平々凡々」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Mediocre\"."
+
+msgctxt "GET_COMMENT_341"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「臥薪嘗胆」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Wo-ki-boku\"."
+
+msgctxt "GET_COMMENT_342"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「切磋琢磨」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Kiritsu Takuma\"."
+
+msgctxt "GET_COMMENT_343"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「品行方正」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Good behavior\"."
+
+msgctxt "GET_COMMENT_344"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「不言実行」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Silence execution\"."
+
+msgctxt "GET_COMMENT_345"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「安寧秩序」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Peaceful Order\"."
+
+msgctxt "GET_COMMENT_346"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「流水浮木」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Running floating\n"
+"tree\"."
+
+msgctxt "GET_COMMENT_347"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「威風堂々」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Pomp and Circumstance\"."
+
+msgctxt "GET_COMMENT_348"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一念発起」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Initial\"."
+
+msgctxt "GET_COMMENT_349"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「七転八倒」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Seven turns\n"
+"and eight falls\"."
+
+msgctxt "GET_COMMENT_350"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一致団結」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_351"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「為せば成る」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"If you do it\"."
+
+msgctxt "GET_COMMENT_352"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「切磋琢磨」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Kiritsu Takuma\"."
+
+msgctxt "GET_COMMENT_353"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「日進月歩」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Daily progress\"."
+
+msgctxt "GET_COMMENT_354"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一期一会」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Ichigo Ichikai\"."
+
+msgctxt "GET_COMMENT_355"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「実るほど首を垂れる稲穂かな」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Is it an ear\n"
+"of rice that hangs its head as it grows?\""
+
+msgctxt "GET_COMMENT_356"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「尽忠報国」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Zanchuhokoku\"."
+
+msgctxt "GET_COMMENT_357"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「威風堂々」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Pomp and Circumstance\"."
+
+msgctxt "GET_COMMENT_358"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一念発起」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Initial\"."
+
+msgctxt "GET_COMMENT_359"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「七転八倒」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Seven turns\n"
+"and eight falls\"."
+
+msgctxt "GET_COMMENT_360"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「一致団結」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Unity\"."
+
+msgctxt "GET_COMMENT_361"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「明日は明日の風が吹く」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Tomorrow's wind\n"
+"will blow\"."
+
+msgctxt "GET_COMMENT_362"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「平穏無事」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Peaceful and safe\"."
+
+msgctxt "GET_COMMENT_363"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「日進月歩」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Daily progress\"."
+
+msgctxt "GET_COMMENT_364"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「一期一会」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Ichigo Ichikai\"."
+
+msgctxt "GET_COMMENT_365"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「実るほど首を垂れる稲穂かな」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Is it an ear of rice that hangs its\n"
+"head as it grows?\""
+
+msgctxt "GET_COMMENT_366"
+msgid "平凡な平隊士。伍長とすれば有能だが、危険も伴う。座右の銘は「尽忠報国」。"
+msgstr ""
+"A mediocre flat soldier. A corporal is capable,\n"
+"but also dangerous. The motto is\n"
+"\"Zanchuhokoku\"."
+
+msgctxt "GET_COMMENT_367"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「有言実行」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"execution of\n"
+"words\"."
+
+msgctxt "GET_COMMENT_368"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「平々凡々」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Mediocre\"."
+
+msgctxt "GET_COMMENT_369"
+msgid "平凡な平隊士。有能な伍長として死地に活路を開く。座右の銘は「臥薪嘗胆」。"
+msgstr ""
+"A mediocre flat soldier. As a competent\n"
+"corporal, he opens the way to the dead.\n"
+"The motto is \"Wo-ki-boku\"."
+
+msgctxt "GET_COMMENT_370"
+msgid "平凡な平隊士。有能な伍長として死地に活路を開く。座右の銘は「切磋琢磨」。"
+msgstr ""
+"A mediocre flat soldier. As a competent\n"
+"corporal, he opens the way to the dead.\n"
+"The motto is \"Kiritsu Takuma\"."
+
+msgctxt "GET_COMMENT_371"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「品行方正」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Good behavior\"."
+
+msgctxt "GET_COMMENT_372"
+msgid "平凡な平隊士。伍長には不向き。座右の銘は「不言実行」。"
+msgstr ""
+"A mediocre flat soldier. Not suitable for\n"
+"corporals. The motto is \"Silence execution\"."
+
+msgctxt "GET_COMMENT_373"
+msgid "平凡な平隊士。有能な伍長として死地に活路を開く。座右の銘は「安寧秩序」。"
+msgstr ""
+"A mediocre flat soldier. As a competent\n"
+"corporal, he opens the way to the dead.\n"
+"The motto is \"Peaceful Order\"."
+
+msgctxt "GET_COMMENT_374"
+msgid "平凡な平隊士。有能な伍長として死地に活路を開く。座右の銘は「流水浮木」。"
+msgstr ""
+"A mediocre flat soldier. As a competent\n"
+"corporal, he opens the way to the dead.\n"
+"The motto is \"Running floating tree\"."
+
+msgctxt "GET_COMMENT_375"
+msgid "攻撃隊士の育成に適任。他隊士の教育においても優秀。"
+msgstr ""
+"Suitable for training attackers. Excellent\n"
+"in the education of other soldiers."
+
+msgctxt "GET_COMMENT_376"
+msgid "守備隊士の育成に適任。他隊士の教育においても優秀。"
+msgstr ""
+"Suitable for training garrison personnel.\n"
+"Excellent in the education of other soldiers."
+
+msgctxt "GET_COMMENT_377"
+msgid "衛生隊士の育成に適任。他隊士の教育においても優秀。"
+msgstr ""
+"Suitable for training hygiene personnel.\n"
+"Excellent in the education of other soldiers."
+
+msgctxt "GET_COMMENT_378"
+msgid "応援隊士の育成に適任。他隊士の教育においても優秀。"
+msgstr ""
+"Suitable for training supporters. Excellent\n"
+"in the education of other soldiers."
+
+msgctxt "GET_COMMENT_379"
+msgid "支援隊士の育成に適任。他隊士の教育においても優秀。"
+msgstr ""
+"Suitable for training support personnel.\n"
+"Excellent in the education of other soldiers."

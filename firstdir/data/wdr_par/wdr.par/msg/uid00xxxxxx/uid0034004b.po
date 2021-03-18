@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "12212"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12213"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12214"
+msgid "桐生さーん！"
+msgstr "Kiryu-san!"
+
+msgctxt "12227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12228"
+msgid "おう、ひなた。"
+msgstr "Oh, Hinata."
+
+msgctxt "12243"
+msgid "お待たせー♪"
+msgstr "Please wait ♪"
+
+msgctxt "12256"
+msgid ""
+"フッ……\n"
+"それじゃ行くか。"
+msgstr "Huh ... Then let's go."
+
+msgctxt "12283"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12284"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12285"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12286"
+msgid "楽しかった♪"
+msgstr "It was fun ♪"
+
+msgctxt "12299"
+msgid "俺もだよ。"
+msgstr "Me too."
+
+msgctxt "12310"
+msgid ""
+"じゃあ、帰るね。\n"
+"またね！"
+msgstr "Then I'll go home. See you!"
+
+msgctxt "12337"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12338"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12339"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12340"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12341"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12342"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12343"
+msgid "大事にするね！　ありがとう！"
+msgstr "I will take good care of you! Thank you!"
+
+msgctxt "12372"
+msgid ""
+"うん……　ありがとう。\n"
+"それじゃ、次行きましょ！"
+msgstr "Yes, thank you. Well then, let's go next!"
+
+msgctxt "12421"
+msgid ""
+"ありがとう！\n"
+"それじゃ、次行きましょ！"
+msgstr "Thank you! Well then, let's go next!"
+
+msgctxt "12460"
+msgid "欲しかったのにな～……"
+msgstr "I wanted it ..."
+
+msgctxt "12483"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12484"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12485"
+msgid ""
+"欲しかったの！　ありがとう！\n"
+"それじゃ、次行きましょ！"
+msgstr ""
+"I wanted it! Thank you! Well then, let's\n"
+"go next!"
+
+msgctxt "12540"
+msgid ""
+"うん……　ありがとう。\n"
+"それじゃ、次行きましょ！"
+msgstr "Yes, thank you. Well then, let's go next!"
+
+msgctxt "12589"
+msgid ""
+"ありがとう！\n"
+"それじゃ、次行きましょ！"
+msgstr "Thank you! Well then, let's go next!"
+
+msgctxt "12628"
+msgid ""
+"あれだけお店にいたのに何も買わないとか\n"
+"ちょっと恥ずかしくない……？"
+msgstr ""
+"I'm not ashamed to buy anything even though\n"
+"I was in the store so much ...?"
+
+msgctxt "12697"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12699"
+msgid ""
+"おいしかった～！\n"
+"ごちそうさまでした♪"
+msgstr ""
+"It was delicious! Thank you for your feast\n"
+"♪"
+
+msgctxt "12738"
+msgid "それじゃ、次行きましょ！"
+msgstr "Well then, let's go next!"
+
+msgctxt "12763"
+msgid "それじゃ、次行きましょ！"
+msgstr "Well then, let's go next!"
+
+msgctxt "12788"
+msgid "食べたかったのに……"
+msgstr "I wanted to eat ..."
+
+msgctxt "12809"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12810"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12811"
+msgid ""
+"おいしかった～！\n"
+"ごちそうさまでした♪"
+msgstr ""
+"It was delicious! Thank you for your feast\n"
+"♪"
+
+msgctxt "12850"
+msgid ""
+"まずかった！\n"
+"それじゃ、次行きましょ！"
+msgstr "It was bad! Well then, let's go next!"
+
+msgctxt "12889"
+msgid ""
+"ふつうだった！\n"
+"それじゃ、次行きましょ！"
+msgstr "It was normal! Well then, let's go next!"
+
+msgctxt "12930"
+msgid "食べたかったのに……"
+msgstr "I wanted to eat ..."
+
+msgctxt "12951"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12953"
+msgid ""
+"おいしかった～！\n"
+"ごちそうさまでした♪"
+msgstr ""
+"It was delicious! Thank you for your feast\n"
+"♪"
+
+msgctxt "12992"
+msgid ""
+"まずかった！\n"
+"それじゃ、次行きましょ！"
+msgstr "It was bad! Well then, let's go next!"
+
+msgctxt "13031"
+msgid ""
+"ふつうだった！\n"
+"それじゃ、次行きましょ！"
+msgstr "It was normal! Well then, let's go next!"
+
+msgctxt "13072"
+msgid "食べたかったのに……"
+msgstr "I wanted to eat ..."
+
+msgctxt "13093"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13094"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13095"
+msgid ""
+"ごめ～ん、ちょっと用事できちゃった。\n"
+"今日はもう帰るね。"
+msgstr ""
+"I'm sorry, I was able to do something a\n"
+"little. I'm going home today."
+
+msgctxt "13152"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13153"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13154"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13155"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13156"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13157"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13158"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13159"
+msgid "どうしたの？"
+msgstr "What's wrong?"
+
+msgctxt "13172"
+msgid "それじゃ早く行こ。"
+msgstr "Then go early."
+
+msgctxt "13191"
+msgid "そっか……　じゃあまたね！"
+msgstr "I see ... See you soon!"
+
+msgctxt "13218"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13222"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13484"
+msgid "ひなた"
+msgstr "Hinata"
+
+msgctxt "13491"
+msgid "桐生"
+msgstr "Kiryu"
+
+msgctxt "13496"
+msgid "0"
+msgstr ""
+
+msgctxt "13498"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13504"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13515"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13524"
+msgid "F_cab_stand_tlk_byeB"
+msgstr ""
+
+msgctxt "13545"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13558"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "13569"
+msgid "何でもない"
+msgstr "Nothing"
+
+msgctxt "13580"
+msgid "もう帰る"
+msgstr "I'm going home"

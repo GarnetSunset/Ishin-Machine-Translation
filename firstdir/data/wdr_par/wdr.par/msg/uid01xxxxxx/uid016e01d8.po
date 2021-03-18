@@ -1,0 +1,767 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "19144"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19145"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19146"
+msgid "どう、かな……　似合うかな……？"
+msgstr "I wonder if it suits you ...?"
+
+msgctxt "19179"
+msgid "ああ。すごく似合うぞ。"
+msgstr "Oh. It looks great."
+
+msgctxt "19202"
+msgid ""
+"本当!?　嬉しいなぁ。\n"
+"ふんふんふーん♪"
+msgstr "Really !? I'm happy. Hmmmmmm ♪"
+
+msgctxt "19241"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19242"
+msgid "（遥も喜んでいるようだ。よかったな）"
+msgstr "(Haruka seems to be happy too. I'm glad)"
+
+msgctxt "19279"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19280"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19281"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19282"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19283"
+msgid ""
+"あ、おじさん。\n"
+"おかえりなさい！"
+msgstr "Oh, uncle. Welcome back!"
+
+msgctxt "19316"
+msgid "ああ。ただいま、遥。"
+msgstr "Oh. Haruka right now."
+
+msgctxt "19337"
+msgid ""
+"（そういえば、遥用の着物を手に入れたんだったな。\n"
+"　渡すとしよう）"
+msgstr ""
+"(By the way, I got a kimono for Haruka.\n"
+"Let's give it to me.)"
+
+msgctxt "19404"
+msgid "遥、ほら、お土産だ。"
+msgstr "Haruka, you see, it's a souvenir."
+
+msgctxt "19425"
+msgid "え……？"
+msgstr "e……?"
+
+msgctxt "19434"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19435"
+msgid "「<Color:8>高級着物　深凛緑<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Luxury kimono deep green<Color:Default>\n"
+"Passed"
+
+msgctxt "19488"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19489"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19490"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19491"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19492"
+msgid "「<Color:8>高級着物　癒清水<Color:Default>」を渡した。"
+msgstr ""
+"\"<Color:8> Luxury Kimono Healing Shimizu<Color:Default>\n"
+"Was passed."
+
+msgctxt "19547"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19548"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19549"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19550"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19551"
+msgid "「<Color:8>高級着物　満天桜<Color:Default>」を渡した。"
+msgstr ""
+"\"<Color:8> Luxury kimono full sky cherry\n"
+"blossoms<Color:Default> Was passed."
+
+msgctxt "19606"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19607"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19608"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19609"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19610"
+msgid "「<Color:8>最高級着物　紫艶星<Color:Default>」を渡した。"
+msgstr ""
+"\"<Color:8> Finest Kimono Shien Star<Color:Default>\n"
+"Was passed."
+
+msgctxt "19667"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19668"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19669"
+msgid ""
+"わあっ！　かわいい着物！\n"
+"ありがとう！　さっそく着てみるね！"
+msgstr ""
+"Wow! Cute kimono! Thank you! I'll try it\n"
+"on!"
+
+msgctxt "19730"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19731"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19732"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19733"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19734"
+msgid ""
+"あ、おじさん。\n"
+"おかえりなさい！"
+msgstr "Oh, uncle. Welcome back!"
+
+msgctxt "19767"
+msgid "ああ。ただいま、遥。"
+msgstr "Oh. Haruka right now."
+
+msgctxt "19788"
+msgid ""
+"（そういえば、遥用の着物を手に入れたんだったな。\n"
+"　渡すとしよう）"
+msgstr ""
+"(By the way, I got a kimono for Haruka.\n"
+"Let's give it to me.)"
+
+msgctxt "19855"
+msgid "遥、ほら、お土産だ。"
+msgstr "Haruka, you see, it's a souvenir."
+
+msgctxt "19876"
+msgid "え……？"
+msgstr "e……?"
+
+msgctxt "19885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19886"
+msgid "「<Color:8>高級着物　深凛緑<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Luxury kimono deep green<Color:Default>\n"
+"Passed"
+
+msgctxt "19939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19940"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19942"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19943"
+msgid "「<Color:8>高級着物　癒清水<Color:Default>」を渡した。"
+msgstr ""
+"\"<Color:8> Luxury Kimono Healing Shimizu<Color:Default>\n"
+"Was passed."
+
+msgctxt "19998"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "19999"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20000"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20001"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20002"
+msgid "「<Color:8>高級着物　満天桜<Color:Default>」を渡した。"
+msgstr ""
+"\"<Color:8> Luxury kimono full sky cherry\n"
+"blossoms<Color:Default> Was passed."
+
+msgctxt "20057"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20058"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20059"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20060"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20061"
+msgid "「<Color:8>最高級着物　紫艶星<Color:Default>」を渡した。"
+msgstr ""
+"\"<Color:8> Finest Kimono Shien Star<Color:Default>\n"
+"Was passed."
+
+msgctxt "20118"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20119"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20120"
+msgid ""
+"わあっ！　かわいい着物！\n"
+"ありがとう！　さっそく着てみるね！"
+msgstr ""
+"Wow! Cute kimono! Thank you! I'll try it\n"
+"on!"
+
+msgctxt "20181"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20182"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20183"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20184"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20185"
+msgid ""
+"あ、おじさん。\n"
+"おかえりなさい！"
+msgstr "Oh, uncle. Welcome back!"
+
+msgctxt "20218"
+msgid "ああ。ただいま、遥。"
+msgstr "Oh. Haruka right now."
+
+msgctxt "20239"
+msgid ""
+"（そういえば、遥用の着物を手に入れたんだったな。\n"
+"　渡すとしよう）"
+msgstr ""
+"(By the way, I got a kimono for Haruka.\n"
+"Let's give it to me.)"
+
+msgctxt "20306"
+msgid "遥、ほら、お土産だ。"
+msgstr "Haruka, you see, it's a souvenir."
+
+msgctxt "20327"
+msgid "え……？"
+msgstr "e……?"
+
+msgctxt "20336"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20337"
+msgid "「<Color:8>高級着物　深凛緑<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Luxury kimono deep green<Color:Default>\n"
+"Passed"
+
+msgctxt "20390"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20391"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20393"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20394"
+msgid "「<Color:8>高級着物　癒清水<Color:Default>」を渡した。"
+msgstr ""
+"\"<Color:8> Luxury Kimono Healing Shimizu<Color:Default>\n"
+"Was passed."
+
+msgctxt "20449"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20450"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20451"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20452"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20453"
+msgid "「<Color:8>高級着物　満天桜<Color:Default>」を渡した。"
+msgstr ""
+"\"<Color:8> Luxury kimono full sky cherry\n"
+"blossoms<Color:Default> Was passed."
+
+msgctxt "20508"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20509"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20510"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20511"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20512"
+msgid "「<Color:8>最高級着物　紫艶星<Color:Default>」を渡した。"
+msgstr ""
+"\"<Color:8> Finest Kimono Shien Star<Color:Default>\n"
+"Was passed."
+
+msgctxt "20569"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20570"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20571"
+msgid ""
+"わあっ！　かわいい着物！\n"
+"ありがとう！　さっそく着てみるね！"
+msgstr ""
+"Wow! Cute kimono! Thank you! I'll try it\n"
+"on!"
+
+msgctxt "20632"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20633"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20634"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20635"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20636"
+msgid ""
+"あ、おじさん。\n"
+"おかえりなさい！"
+msgstr "Oh, uncle. Welcome back!"
+
+msgctxt "20669"
+msgid "ああ。ただいま、遥。"
+msgstr "Oh. Haruka right now."
+
+msgctxt "20690"
+msgid ""
+"（そういえば、遥用の着物を手に入れたんだったな。\n"
+"　渡すとしよう）"
+msgstr ""
+"(By the way, I got a kimono for Haruka.\n"
+"Let's give it to me.)"
+
+msgctxt "20757"
+msgid "遥、ほら、お土産だ。"
+msgstr "Haruka, you see, it's a souvenir."
+
+msgctxt "20778"
+msgid "え……？"
+msgstr "e……?"
+
+msgctxt "20787"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20788"
+msgid "「<Color:8>高級着物　深凛緑<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Luxury kimono deep green<Color:Default>\n"
+"Passed"
+
+msgctxt "20841"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20842"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20843"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20844"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20845"
+msgid "「<Color:8>高級着物　癒清水<Color:Default>」を渡した。"
+msgstr ""
+"\"<Color:8> Luxury Kimono Healing Shimizu<Color:Default>\n"
+"Was passed."
+
+msgctxt "20900"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20901"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20902"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20903"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20904"
+msgid "「<Color:8>高級着物　満天桜<Color:Default>」を渡した。"
+msgstr ""
+"\"<Color:8> Luxury kimono full sky cherry\n"
+"blossoms<Color:Default> Was passed."
+
+msgctxt "20959"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20960"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20961"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20962"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20963"
+msgid "「<Color:8>最高級着物　紫艶星<Color:Default>」を渡した。"
+msgstr ""
+"\"<Color:8> Finest Kimono Shien Star<Color:Default>\n"
+"Was passed."
+
+msgctxt "21020"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21021"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21022"
+msgid ""
+"わあっ！　かわいい着物！\n"
+"ありがとう！　さっそく着てみるね！"
+msgstr ""
+"Wow! Cute kimono! Thank you! I'll try it\n"
+"on!"
+
+msgctxt "21083"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21084"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21085"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21086"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21087"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21088"
+msgid "どう、かな……　似合うかな……？"
+msgstr "I wonder if it suits you ...?"
+
+msgctxt "21121"
+msgid "ああ。すごく似合うぞ。"
+msgstr "Oh. It looks great."
+
+msgctxt "21144"
+msgid ""
+"本当!?　嬉しいなぁ。\n"
+"ふんふんふーん♪"
+msgstr "Really !? I'm happy. Hmmmmmm ♪"
+
+msgctxt "21183"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21184"
+msgid ""
+"（遥も喜んでいる。\n"
+"　やはりお洒落したい年頃なんだな。\n"
+"　……俺も気が向いたら、着物を買ってやるかな）"
+msgstr ""
+"(Haruka is also happy. It's about the age\n"
+"when I want to be fashionable .... I\n"
+"wonder if I'll buy a kimono if I feel like\n"
+"it.)"
+
+msgctxt "21287"
+msgid ""
+"「着物」を渡すことで、遥の衣装を変更することが可能になります。\n"
+"着物の変更をしたい場合は、\n"
+"別宅の室内にある化粧道具にアクセスし、選択してください。"
+msgstr ""
+"By handing over the \"kimono\", you will be\n"
+"able to change Haruka's costume. If you\n"
+"want to change your kimono, please access\n"
+"and select the makeup tools in the separate room."
+
+msgctxt "21436"
+msgid ""
+"「着物」は徳交換所で引き換えることでオープンする\n"
+"「神主商店」で手に入れることができます。\n"
+"徳を貯めて、遥に着物をプレゼントして喜ばせましょう！"
+msgstr ""
+"You can get \"Kimono\" at \"Kannushi Shoten\"\n"
+"which opens by exchanging at Toku Exchange.\n"
+"Let's save virtue and give a kimono\n"
+"as a gift to please!"
+
+msgctxt "21581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21584"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21585"
+msgid ""
+"あ、おじさん。\n"
+"おかえりなさい。"
+msgstr "Oh, uncle. Welcome back."
+
+msgctxt "21618"
+msgid "ああ。ただいま、遥。"
+msgstr "Oh. Haruka right now."
+
+msgctxt "21639"
+msgid ""
+"（そういえば、\n"
+"　地主に遥用の着物を貰ったんだったな。\n"
+"　渡すとしよう）"
+msgstr ""
+"(By the way, I got the landowner's kimono\n"
+"for Haruka. Let's give it to him.)"
+
+msgctxt "21712"
+msgid "遥、ほら、お土産だ。"
+msgstr "Haruka, you see, it's a souvenir."
+
+msgctxt "21733"
+msgid "「<Color:8>着物　元黄娘<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Kimono ex-yellow girl<Color:Default>\n"
+"Passed"
+
+msgctxt "21782"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21783"
+msgid "え……？"
+msgstr "e……?"
+
+msgctxt "21792"
+msgid ""
+"地主がお前にって、渡してくれたんだ。\n"
+"年頃なんだから、お洒落くらいさせてやれ、\n"
+"と言われてしまった。"
+msgstr ""
+"The landowner gave it to you. I was around\n"
+"the age, so I was told to make it fashionable."
+
+msgctxt "21893"
+msgid ""
+"わあっ！　かわいい着物！\n"
+"ありがとう！　さっそく着てみるね！"
+msgstr ""
+"Wow! Cute kimono! Thank you! I'll try it\n"
+"on!"
+
+msgctxt "21954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21955"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21956"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21957"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22408"
+msgid "遥"
+msgstr "remote"
+
+msgctxt "22411"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "22420"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "22425"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "22436"
+msgid "dummy"
+msgstr ""
+
+msgctxt "22442"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "22452"
+msgid "着物"
+msgstr "kimono"
+
+msgctxt "22457"
+msgid "Talk_Ase"
+msgstr ""

@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3482"
+msgid ""
+"（この先が最後の部屋のようだ。\n"
+"　このまま入るか？）"
+msgstr "(This seems to be the last room. Will you enter as it is?)"
+
+msgctxt "3553"
+msgid "志半ばで……　む、無念……"
+msgstr "In the middle of my ambition ..."
+
+msgctxt "3580"
+msgid "くそっ……　つ、強い……"
+msgstr "Damn ... one, strong ..."
+
+msgctxt "3605"
+msgid "と、徳川の犬め……　覚えておけ……"
+msgstr "Tokugawa's dog ... Remember ..."
+
+msgctxt "3640"
+msgid "これで終わりだと……　思うなよ……"
+msgstr "I think this is the end ... I don't think ..."
+
+msgctxt "3675"
+msgid "し、新選組め……"
+msgstr "And the new selection ..."
+
+msgctxt "3692"
+msgid "御館様……　すいません……"
+msgstr "Mr. Gokan ... I'm sorry ..."
+
+msgctxt "3719"
+msgid "お……　御館様……"
+msgstr "Oh …… Mr. Gokan ……"
+
+msgctxt "3738"
+msgid "ぐ……　ぐはっ……"
+msgstr "Gu ... Guha ..."
+
+msgctxt "3757"
+msgid "くそっ……　ここまでか……"
+msgstr "Damn ... up to here ..."
+
+msgctxt "3784"
+msgid "（任務は片付いた、屯所へ戻るか？）"
+msgstr "(The mission has been completed, will you return to the tunsho?)"
+
+msgctxt "3987"
+msgid "入る"
+msgstr "enter"
+
+msgctxt "3992"
+msgid "後にする"
+msgstr "Later"
+
+msgctxt "4007"
+msgid "残党"
+msgstr "Remnants"
+
+msgctxt "4012"
+msgid "戻らない"
+msgstr "Dont return"
+
+msgctxt "4021"
+msgid "屯所に戻る"
+msgstr "Return to tunsho"

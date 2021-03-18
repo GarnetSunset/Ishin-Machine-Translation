@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "316"
+msgid "撮影お疲れ様でした。"
+msgstr "Thank you for shooting."
+
+msgctxt "337"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "338"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "348"
+msgid "世に出てはいけない男"
+msgstr "A man who should not go out into the world"
+
+msgctxt "369"
+msgid "Talk_Ojigi"
+msgstr ""

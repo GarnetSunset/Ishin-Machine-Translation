@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1692"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1693"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1694"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1695"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1696"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1697"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1699"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1700"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1701"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1702"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1703"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1704"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1705"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1706"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1707"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1708"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1709"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1710"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1711"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1712"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1720"
+msgid "料理"
+msgstr "cuisine"

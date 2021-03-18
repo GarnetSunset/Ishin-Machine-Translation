@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1524"
+msgid ""
+"（銭湯か……　たまには風呂にでも入って\n"
+"　ゆっくりしてみようか）"
+msgstr "(Sento ... Sometimes I'll take a bath and relax)"
+
+msgctxt "1589"
+msgid "（よし、入っていこう）"
+msgstr "(OK, let's go in)"
+
+msgctxt "1613"
+msgid "（いや、また今度にしておこう）"
+msgstr "(No, let's do it again)"
+
+msgctxt "1645"
+msgid ""
+"（銭湯か……　たまには風呂にでも入って\n"
+"　ゆっくりしてみようか）"
+msgstr "(Sento ... Sometimes I'll take a bath and relax)"
+
+msgctxt "1710"
+msgid "（よし、入っていこう）"
+msgstr "(OK, let's go in)"
+
+msgctxt "1734"
+msgid "（いや、また今度にしておこう）"
+msgstr "(No, let's do it again)"
+
+msgctxt "1907"
+msgid "銭湯に入る"
+msgstr "Enter the public bath"
+
+msgctxt "1918"
+msgid "また今度"
+msgstr "Maybe next time"

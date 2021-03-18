@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "MISSION_NAME_0"
+msgid "刀部隊を倒せ"
+msgstr "Defeat the sword unit"
+
+msgctxt "MISSION_NAME_1"
+msgid "奪われた千両箱を奪還しろ１"
+msgstr "Recapture the robbed Senryo Box 1"
+
+msgctxt "MISSION_NAME_2"
+msgid "奪われた千両箱を奪還しろ２"
+msgstr "Recapture the stolen Senryo Box 2"
+
+msgctxt "MISSION_NAME_3"
+msgid "奪われた千両箱を奪還しろ３"
+msgstr "Recapture the robbed Senryo Box 3"
+
+msgctxt "MISSION_NAME_4"
+msgid "さらわれた村人を救出しろ"
+msgstr "Rescue the kidnapped villagers"
+
+msgctxt "MISSION_NAME_5"
+msgid "攻撃隊士実践訓練"
+msgstr "Attack Corps Practical Training"
+
+msgctxt "MISSION_NAME_6"
+msgid "守備隊士実践訓練"
+msgstr "Garrison practice training"
+
+msgctxt "MISSION_NAME_7"
+msgid "槍部隊を倒せ"
+msgstr "Defeat the spear unit"
+
+msgctxt "MISSION_NAME_8"
+msgid "銃部隊を倒せ"
+msgstr "Defeat the gun unit"
+
+msgctxt "MISSION_NAME_9"
+msgid "野盗の頭領を倒せ"
+msgstr "Defeat the bandit leader"
+
+msgctxt "MISSION_NAME_10"
+msgid "双璧を倒せ"
+msgstr "Defeat the two"
+
+msgctxt "MISSION_NAME_11"
+msgid "義賊の頭領を倒せ"
+msgstr "Defeat the head of the thief"
+
+msgctxt "MISSION_NAME_12"
+msgid "さらわれた要人を救出しろ１"
+msgstr "Rescue the kidnapped dignitaries 1"
+
+msgctxt "MISSION_NAME_13"
+msgid "さらわれた要人を救出しろ２"
+msgstr "Rescue the kidnapped dignitaries 2"
+
+msgctxt "MISSION_NAME_14"
+msgid "さらわれた要人を救出しろ３"
+msgstr "Rescue the kidnapped dignitaries 3"
+
+msgctxt "MISSION_NAME_15"
+msgid "衛生隊士実践訓練"
+msgstr "Hygiene technician practice training"
+
+msgctxt "MISSION_NAME_16"
+msgid "刀隊士限定任務"
+msgstr "Swordsmen limited mission"
+
+msgctxt "MISSION_NAME_17"
+msgid "槍隊士限定任務"
+msgstr "Gunsmen limited mission"
+
+msgctxt "MISSION_NAME_18"
+msgid "銃隊士限定任務"
+msgstr "Gunners limited mission"
+
+msgctxt "MISSION_NAME_19"
+msgid "豪腕坊部隊を倒せ"
+msgstr "Defeat the powerful army unit"
+
+msgctxt "MISSION_NAME_20"
+msgid "三人衆を倒せ"
+msgstr "Defeat the three people"
+
+msgctxt "MISSION_NAME_21"
+msgid "四天王を倒せ"
+msgstr "Defeat the four heavenly kings"
+
+msgctxt "MISSION_NAME_22"
+msgid "五虎将を倒せ"
+msgstr "Defeat the Five Tiger Generals"
+
+msgctxt "MISSION_NAME_23"
+msgid "豊臣秀武を倒せ"
+msgstr "Defeat Toyotomi Hidetake"
+
+msgctxt "SORTIE_QUALIFY_0"
+msgid "攻撃"
+msgstr "attack"
+
+msgctxt "SORTIE_QUALIFY_1"
+msgid "守備"
+msgstr "Defensive"
+
+msgctxt "SORTIE_QUALIFY_2"
+msgid "攻撃"
+msgstr "attack"
+
+msgctxt "SORTIE_QUALIFY_3"
+msgid "守備"
+msgstr "Defensive"
+
+msgctxt "SORTIE_QUALIFY_4"
+msgid "攻撃"
+msgstr "attack"
+
+msgctxt "SORTIE_QUALIFY_5"
+msgid "守備"
+msgstr "Defensive"
+
+msgctxt "SORTIE_QUALIFY_6"
+msgid "癒"
+msgstr "Healing"
+
+msgctxt "SORTIE_QUALIFY_7"
+msgid "刀"
+msgstr "Knife"
+
+msgctxt "SORTIE_QUALIFY_8"
+msgid "槍"
+msgstr "gun"
+
+msgctxt "SORTIE_QUALIFY_9"
+msgid "銃"
+msgstr "gun"

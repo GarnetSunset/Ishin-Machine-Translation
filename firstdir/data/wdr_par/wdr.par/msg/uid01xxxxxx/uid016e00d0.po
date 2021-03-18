@@ -1,0 +1,518 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "9740"
+msgid ""
+"あ！　斎藤さん。\n"
+"待ってましたよ。さぁさぁ、こちらです。"
+msgstr "Ah! Mr. Saito. I was waiting. Come on, here."
+
+msgctxt "9797"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9798"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9799"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9800"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9801"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9802"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9803"
+msgid "随分と人気のないところまでいくんだな……　ん？"
+msgstr ""
+"I'm going to a place that isn't very popular\n"
+"..."
+
+msgctxt "9850"
+msgid "来たか……　斎藤。"
+msgstr "Did you come ... Saito."
+
+msgctxt "9869"
+msgid ""
+"また会ったな。また悪さをしているらしいが……\n"
+"年貢の納め時だぜ？"
+msgstr ""
+"I met you again. It seems that he is doing\n"
+"something wrong again ... It's time\n"
+"to pay the annual tribute, right?"
+
+msgctxt "9934"
+msgid "ふっふっふ。それは、貴様の方だろう？"
+msgstr "Fufufu. Is that you?"
+
+msgctxt "9971"
+msgid "何？"
+msgstr "what?"
+
+msgctxt "9976"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9977"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9978"
+msgid ""
+"罠にはまったな。斎藤さんよぉ。……貴様と\n"
+"沖田にはこの前、恥かかせられちまったからな。\n"
+"ちょっと仕返しさせてもらおうと思ってな。"
+msgstr ""
+"I'm stuck in a trap. Saito-san. ...... Because\n"
+"you and Okita have been embarrassed\n"
+"the other day. I'm thinking of getting\n"
+"a little revenge."
+
+msgctxt "10107"
+msgid "まさか……"
+msgstr "No way ..."
+
+msgctxt "10118"
+msgid ""
+"へへへ……　これでよかったんですよね？\n"
+"役目は果たしましたから、\n"
+"ちゃんと分け前、くださいよ？"
+msgstr ""
+"Hehehe ... That's good, isn't it? I've done\n"
+"my job, so please share it properly,\n"
+"right?"
+
+msgctxt "10213"
+msgid ""
+"……おう。上出来だ。\n"
+"分け前は後でたっぷりやるからよ。\n"
+"こいつをぶっ倒して、奪いとった金からな！"
+msgstr ""
+
+msgctxt "10310"
+msgid "……そうか。お前ら、仲間だったって訳か。"
+msgstr ""
+
+msgctxt "10351"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10352"
+msgid "あ、あれは……　斎藤さん!?"
+msgstr "Oh, that is ... Saito-san !?"
+
+msgctxt "10379"
+msgid ""
+"何か……　まずい状況になってる!?\n"
+"お、沖田さんは？　沖田さんはいないのか……"
+msgstr ""
+"Something ... I'm in a bad situation !?\n"
+"Oh, Mr. Okita? Isn't there Mr. Okita ..."
+
+msgctxt "10456"
+msgid ""
+"いくら三番隊の斎藤とはいえ、今日は１人だ。\n"
+"沖田もいねぇ。\n"
+"はたして俺たち全員を、相手にできるかな……？"
+msgstr ""
+"No matter how much Saito of the third corps,\n"
+"he is alone today. Okita isn't there\n"
+"either. Can we really deal with all\n"
+"of us ...?"
+
+msgctxt "10561"
+msgid "ちっ……"
+msgstr "Chi ..."
+
+msgctxt "10570"
+msgid "このままじゃまずい！　何とかしないと！"
+msgstr "It's not good as it is! I have to do something!"
+
+msgctxt "10609"
+msgid "こないだの借り、返させてもらうぜ。やっちまえ！"
+msgstr "I'll borrow it and return it. Just do it!"
+
+msgctxt "10656"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10657"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10658"
+msgid "なかなかやるじゃねえか……"
+msgstr "It's hard to do it ..."
+
+msgctxt "10685"
+msgid "へっ……　俺たちもダテに剣術積んでないんでね。"
+msgstr ""
+"Hmm ... We don't have swordsmanship on the\n"
+"date either."
+
+msgctxt "10732"
+msgid ""
+"けっ！　新選組と言っても、\n"
+"所詮は多摩の田舎もんが集まっただけじゃねえか！\n"
+"調子に乗ってんじゃねえぞ！"
+msgstr ""
+"Ke! Even though it's a Shinsengumi, after\n"
+"all, it's just a gathering of Tama countryside\n"
+"mons! Don't get in the way!"
+
+msgctxt "10835"
+msgid ""
+"アカンで、一（はじめ）ちゃん……　独り占めは……\n"
+"ワシもまぜてくれや～！"
+msgstr ""
+"In Akan, Ichi (Hajime) -chan ... To be monopolized\n"
+"... Mix me with me!"
+
+msgctxt "10908"
+msgid "その声は沖田か？"
+msgstr "Is that voice Okita?"
+
+msgctxt "10925"
+msgid "はうぁ！　まさか、お、沖田!?"
+msgstr "Wow! No way, Okita !?"
+
+msgctxt "10954"
+msgid "誰や、今新選組のことバカにした奴は……"
+msgstr ""
+"Who is the one who made a fool of the Shinsengumi\n"
+"now ..."
+
+msgctxt "10993"
+msgid "もういっぺん言うてみろやぁあああ！"
+msgstr "Let's say it again!"
+
+msgctxt "11028"
+msgid "ひいいいい！"
+msgstr "Good!"
+
+msgctxt "11041"
+msgid ""
+"新選組最凶の一番隊と三番隊の隊長を敵に回すとは\n"
+"ええ度胸やで、今すぐやったろうやないかい!!"
+msgstr ""
+"It's courageous to turn the captains of\n"
+"the Shinsengumi's worst 1st and 3rd units\n"
+"into enemies, so why not do it right\n"
+"now !!"
+
+msgctxt "11132"
+msgid ""
+"こ、こんな状態で沖田なんかまで相手にしたら……\n"
+"間違いなく、こ、殺される……！"
+msgstr ""
+"If I deal with Okita in such a state ...\n"
+"I'm sure he will be killed ...!"
+
+msgctxt "11211"
+msgid ""
+"す、すみませんでした！\n"
+"ゆ、許してくださいいいいっ！"
+msgstr "I'm sorry! Yu, please forgive me!"
+
+msgctxt "11264"
+msgid "沖田……"
+msgstr "Okita ……"
+
+msgctxt "11273"
+msgid "な、なんや……"
+msgstr "Hmm ..."
+
+msgctxt "11288"
+msgid "ふう……　助かったぜ。"
+msgstr "Hmm ... I was saved."
+
+msgctxt "11311"
+msgid ""
+"き、気にすんなや、一（はじめ）ちゃん。\n"
+"ほな、ワシは先に帰るわ～！"
+msgstr ""
+"Don't worry, Ichi (Hajime) -chan. Honestly,\n"
+"I'll be back first!"
+
+msgctxt "11378"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11379"
+msgid "おい、沖田？　どこへ行くんだ？"
+msgstr "Hey, Okita? Where are you going"
+
+msgctxt "11410"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11411"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11412"
+msgid "はぁ～……　良かった～。"
+msgstr "Hmm ... It was good."
+
+msgctxt "11437"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11438"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13804"
+msgid "博徒"
+msgstr "Bakuto"
+
+msgctxt "13809"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "13819"
+msgid "bakuto_adv_sub_000_012"
+msgstr ""
+
+msgctxt "13842"
+msgid "0"
+msgstr ""
+
+msgctxt "13844"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "13849"
+msgid "kiryu_adv_sub_000_013"
+msgstr ""
+
+msgctxt "13871"
+msgid "親玉風の浪人"
+msgstr "Ronin in the style of a protagonist"
+
+msgctxt "13884"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13895"
+msgid "ronin2_adv_sub_000_010"
+msgstr ""
+
+msgctxt "13918"
+msgid "kiryu_adv_sub_000_014"
+msgstr ""
+
+msgctxt "13940"
+msgid "ronin2_adv_sub_000_011"
+msgstr ""
+
+msgctxt "13963"
+msgid "kiryu_adv_sub_000_015"
+msgstr ""
+
+msgctxt "13985"
+msgid "kaiwabgm_sub_fuon_04"
+msgstr ""
+
+msgctxt "14006"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "14018"
+msgid "ronin2_adv_sub_000_012"
+msgstr ""
+
+msgctxt "14041"
+msgid "kiryu_adv_sub_000_016"
+msgstr ""
+
+msgctxt "14063"
+msgid "bakuto_adv_sub_000_013"
+msgstr ""
+
+msgctxt "14086"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "14098"
+msgid "ronin2_adv_sub_000_013"
+msgstr ""
+
+msgctxt "14121"
+msgid "kiryu_adv_sub_000_017"
+msgstr ""
+
+msgctxt "14143"
+msgid "原口"
+msgstr "Haraguchi"
+
+msgctxt "14148"
+msgid "haraguchi_adv_sub_000_005"
+msgstr ""
+
+msgctxt "14174"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "14183"
+msgid "haraguchi_adv_sub_000_006"
+msgstr ""
+
+msgctxt "14209"
+msgid "ronin2_adv_sub_000_014"
+msgstr ""
+
+msgctxt "14232"
+msgid "kiryu_adv_sub_000_018"
+msgstr ""
+
+msgctxt "14254"
+msgid "haraguchi_adv_sub_000_007"
+msgstr ""
+
+msgctxt "14280"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "14291"
+msgid "ronin2_adv_sub_000_015"
+msgstr ""
+
+msgctxt "14314"
+msgid "kiryu_adv_sub_000_019"
+msgstr ""
+
+msgctxt "14336"
+msgid "たちの悪い浪人"
+msgstr "Bad Ronin"
+
+msgctxt "14351"
+msgid "ronin1_adv_sub_000_005"
+msgstr ""
+
+msgctxt "14374"
+msgid "ronin2_adv_sub_000_016"
+msgstr ""
+
+msgctxt "14397"
+msgid "沖田？"
+msgstr "Okita?"
+
+msgctxt "14404"
+msgid "haraguchi_adv_sub_000_008"
+msgstr ""
+
+msgctxt "14430"
+msgid "kaiwabgm_sub_apathy_03"
+msgstr ""
+
+msgctxt "14453"
+msgid "kiryu_adv_sub_000_020"
+msgstr ""
+
+msgctxt "14475"
+msgid "ronin2_adv_sub_000_017"
+msgstr ""
+
+msgctxt "14498"
+msgid "haraguchi_adv_sub_000_009"
+msgstr ""
+
+msgctxt "14524"
+msgid "haraguchi_adv_sub_000_010"
+msgstr ""
+
+msgctxt "14550"
+msgid "ronin2_adv_sub_000_018"
+msgstr ""
+
+msgctxt "14573"
+msgid "M_CHO_ACT_stand_help_search_lp"
+msgstr ""
+
+msgctxt "14604"
+msgid "M_CHO_ACT_stand_help_search_st"
+msgstr ""
+
+msgctxt "14635"
+msgid "haraguchi_adv_sub_000_011"
+msgstr ""
+
+msgctxt "14661"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "14683"
+msgid "M_BUS_TLK_btl_aft_nw_01_en"
+msgstr ""
+
+msgctxt "14710"
+msgid "M_BUS_TLK_btl_aft_nw_04_en"
+msgstr ""
+
+msgctxt "14737"
+msgid "M_BUS_TLK_btl_aft_nw_03_en"
+msgstr ""
+
+msgctxt "14764"
+msgid "M_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "14786"
+msgid "ronin2_adv_sub_000_019"
+msgstr ""
+
+msgctxt "14809"
+msgid "ronin2_adv_sub_000_020"
+msgstr ""
+
+msgctxt "14832"
+msgid "M_BUS_TLK_btl_aft_nw_02_en"
+msgstr ""
+
+msgctxt "14859"
+msgid "kiryu_adv_sub_000_021"
+msgstr ""
+
+msgctxt "14881"
+msgid "haraguchi_adv_sub_000_012"
+msgstr ""
+
+msgctxt "14907"
+msgid "kiryu_adv_sub_000_022"
+msgstr ""
+
+msgctxt "14929"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14937"
+msgid "haraguchi_adv_sub_000_013"
+msgstr ""
+
+msgctxt "14963"
+msgid "kiryu_adv_sub_000_023"
+msgstr ""
+
+msgctxt "14985"
+msgid "haraguchi_adv_sub_000_014"
+msgstr ""

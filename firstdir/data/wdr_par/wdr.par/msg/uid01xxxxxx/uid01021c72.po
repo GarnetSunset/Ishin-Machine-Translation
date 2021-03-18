@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6953"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6955"
+msgid "おりょう。"
+msgstr "Oryo."
+
+msgctxt "6966"
+msgid "……"
+msgstr ""
+
+msgctxt "6971"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6972"
+msgid "父親のこと、女将から聞いた。"
+msgstr "I heard about my father from the landlady."
+
+msgctxt "7001"
+msgid "……そう。"
+msgstr ""
+
+msgctxt "7012"
+msgid "……"
+msgstr ""
+
+msgctxt "7017"
+msgid "……一（はじめ）さんは、何で新選組に入ったん？"
+msgstr ""
+
+msgctxt "7064"
+msgid "……"
+msgstr ""
+
+msgctxt "7069"
+msgid ""
+"……お金？　偉くなりたい？\n"
+"それとも……　人を斬りたいだけ？"
+msgstr ""
+
+msgctxt "7130"
+msgid "……いや、どれでもない。"
+msgstr ""
+
+msgctxt "7155"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7156"
+msgid "せやったら何で……"
+msgstr "Why should I do it ..."
+
+msgctxt "7175"
+msgid ""
+"……俺が新選組に入ったのは、\n"
+"ある人を捜すためなんだ。"
+msgstr ""
+
+msgctxt "7230"
+msgid "人捜し……？"
+msgstr "Searching for people ...?"
+
+msgctxt "7243"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7244"
+msgid ""
+"ああ。\n"
+"俺はそいつをどうしても見つけなくちゃならない。"
+msgstr "Oh. I have to find it."
+
+msgctxt "7299"
+msgid "それには新選組に入るしかなかった。"
+msgstr ""
+"The only way to do that was to join the\n"
+"Shinsengumi."
+
+msgctxt "7334"
+msgid ""
+"……一（はじめ）さんは、人捜しなんかのために\n"
+"新選組に入って、大勢の罪もない人を\n"
+"斬るっていうの？"
+msgstr ""
+
+msgctxt "7433"
+msgid "確かに一番の目的は人捜しだ。"
+msgstr "Certainly the main purpose is to find people."
+
+msgctxt "7462"
+msgid ""
+"だが俺は三番隊の隊長という、\n"
+"それなりに影響力のある立場を任された。"
+msgstr ""
+"However, I was assigned the position of\n"
+"being the captain of the Third Division,\n"
+"which had some influence."
+
+msgctxt "7531"
+msgid ""
+"この立場なら、新選組が無用に人を殺すのを\n"
+"防げるかもしれない。\n"
+"……少なくとも、三番隊くらいはな。"
+msgstr ""
+"This position may prevent the Shinsengumi\n"
+"from killing people unnecessarily. ......\n"
+"At least about the third corps."
+
+msgctxt "7630"
+msgid "新選組が、人を殺さないように……？"
+msgstr "Don't let the Shinsengumi kill people ...?"
+
+msgctxt "7665"
+msgid ""
+"それでお前の親父さんが、\n"
+"生き返るわけじゃないがな。"
+msgstr ""
+"That doesn't mean that your father will\n"
+"come back to life."
+
+msgctxt "7718"
+msgid ""
+"…………でも、私みたいな目に遭う人は、\n"
+"減るかもしれへん。"
+msgstr ""
+
+msgctxt "7777"
+msgid "ああ。そうなるといいと思ってる。"
+msgstr "Oh. I hope that happens."
+
+msgctxt "7810"
+msgid "……"
+msgstr ""
+
+msgctxt "7815"
+msgid "……さ、もう店に帰れ。女将も心配してた。"
+msgstr ""
+
+msgctxt "7856"
+msgid "……うん。"
+msgstr ""
+
+msgctxt "7867"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7868"
+msgid "一（はじめ）さん。"
+msgstr "Mr. Ichi (beginning)."
+
+msgctxt "7887"
+msgid "うん？"
+msgstr "Yup?"
+
+msgctxt "7894"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7895"
+msgid "……ありがとう。"
+msgstr ""
+
+msgctxt "7912"
+msgid "ああ。"
+msgstr "Oh."
+
+msgctxt "7919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7921"
+msgid "……"
+msgstr ""
+
+msgctxt "7926"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7927"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7928"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7929"
+msgid "（そろそろ寺田屋に戻ってみようか……）"
+msgstr "(Let's go back to Teradaya soon ...)"
+
+msgctxt "9740"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "9751"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "9756"
+msgid "kiryu_c04_060_01"
+msgstr ""
+
+msgctxt "9773"
+msgid "おりょう"
+msgstr "Oryo"
+
+msgctxt "9782"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "9793"
+msgid "kaiwabgm_hartwarm_05"
+msgstr ""
+
+msgctxt "9814"
+msgid "kiryu_c04_060_02"
+msgstr ""
+
+msgctxt "9831"
+msgid "oryo_c04_060_02"
+msgstr ""
+
+msgctxt "9847"
+msgid "oryo_c04_060_03"
+msgstr ""
+
+msgctxt "9863"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "9874"
+msgid "oryo_c04_060_04"
+msgstr ""
+
+msgctxt "9890"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "9901"
+msgid "kiryu_c04_060_05"
+msgstr ""
+
+msgctxt "9918"
+msgid "oryo_c04_060_05"
+msgstr ""
+
+msgctxt "9934"
+msgid "TLK_SCN009"
+msgstr ""
+
+msgctxt "9945"
+msgid "kiryu_c04_060_06"
+msgstr ""
+
+msgctxt "9962"
+msgid "oryo_c04_060_06"
+msgstr ""
+
+msgctxt "9978"
+msgid "TLK_SCN011"
+msgstr ""
+
+msgctxt "9989"
+msgid "kiryu_c04_060_07"
+msgstr ""
+
+msgctxt "10006"
+msgid "kiryu_c04_060_07b"
+msgstr ""
+
+msgctxt "10024"
+msgid "oryo_c04_060_07"
+msgstr ""
+
+msgctxt "10040"
+msgid "TLK_SCN013"
+msgstr ""
+
+msgctxt "10051"
+msgid "kiryu_c04_060_08"
+msgstr ""
+
+msgctxt "10068"
+msgid "kiryu_c04_060_08b"
+msgstr ""
+
+msgctxt "10086"
+msgid "TLK_SCN015"
+msgstr ""
+
+msgctxt "10097"
+msgid "kiryu_c04_060_08c"
+msgstr ""
+
+msgctxt "10115"
+msgid "TLK_SCN017"
+msgstr ""
+
+msgctxt "10126"
+msgid "oryo_c04_060_08"
+msgstr ""
+
+msgctxt "10142"
+msgid "kiryu_c04_060_09"
+msgstr ""
+
+msgctxt "10159"
+msgid "TLK_SCN019"
+msgstr ""
+
+msgctxt "10170"
+msgid "oryo_c04_060_09"
+msgstr ""
+
+msgctxt "10186"
+msgid "TLK_SCN018"
+msgstr ""
+
+msgctxt "10197"
+msgid "kiryu_c04_060_10"
+msgstr ""
+
+msgctxt "10214"
+msgid "TLK_SCN021"
+msgstr ""
+
+msgctxt "10225"
+msgid "kiryu_c04_060_11"
+msgstr ""
+
+msgctxt "10242"
+msgid "TLK_SCN023"
+msgstr ""
+
+msgctxt "10253"
+msgid "oryo_c04_060_11"
+msgstr ""
+
+msgctxt "10269"
+msgid "TLK_SCN020"
+msgstr ""
+
+msgctxt "10280"
+msgid "TLK_SCN025"
+msgstr ""
+
+msgctxt "10291"
+msgid "TLK_SCN022"
+msgstr ""
+
+msgctxt "10302"
+msgid "oryo_c04_060_12"
+msgstr ""
+
+msgctxt "10318"
+msgid "kiryu_c04_060_12"
+msgstr ""
+
+msgctxt "10335"
+msgid "TLK_SCN027"
+msgstr ""
+
+msgctxt "10346"
+msgid "oryo_c04_060_13"
+msgstr ""
+
+msgctxt "10362"
+msgid "TLK_SCN024"
+msgstr ""
+
+msgctxt "10373"
+msgid "kiryu_c04_060_13"
+msgstr ""
+
+msgctxt "10390"
+msgid "TLK_SCN029"
+msgstr ""
+
+msgctxt "10401"
+msgid "TLK_SCN026"
+msgstr ""
+
+msgctxt "10412"
+msgid "kiryu_c04_060_14"
+msgstr ""
+
+msgctxt "10429"
+msgid "0"
+msgstr ""
+
+msgctxt "10431"
+msgid "dummy"
+msgstr ""

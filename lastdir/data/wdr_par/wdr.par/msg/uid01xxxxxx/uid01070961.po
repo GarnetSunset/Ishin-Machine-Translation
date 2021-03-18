@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2160"
+msgid "まずは親を決めようか！"
+msgstr "Let's decide the parents first!"
+
+msgctxt "2183"
+msgid "オレが親な！"
+msgstr "I'm a parent!"
+
+msgctxt "2196"
+msgid "いくら賭けんの？"
+msgstr "How much is a bet?"
+
+msgctxt "2213"
+msgid "ほな、始めるで！"
+msgstr "Hon, get started!"
+
+msgctxt "2230"
+msgid "オレの番な！"
+msgstr "It's my turn!"
+
+msgctxt "2243"
+msgid "（この台詞が出たら駄目）"
+msgstr "(If this line comes out, it's useless)"
+
+msgctxt "2268"
+msgid "精算や！"
+msgstr "Settlement!"
+
+msgctxt "2277"
+msgid "アンタが親やで！"
+msgstr "You are a parent!"
+
+msgctxt "2294"
+msgid "親の交代や！"
+msgstr "Change of parents!"
+
+msgctxt "2307"
+msgid "ほな続き行こか～？"
+msgstr "Is it going to continue?"
+
+msgctxt "2326"
+msgid ""
+"オケラや！\n"
+"はぁ、帰るわ……"
+msgstr "Mole cricket! I'm going home ..."
+
+msgctxt "2355"
+msgid ""
+"もう賭けれへんのやろ？\n"
+"出直してくれや！"
+msgstr "You can't bet anymore? Please come back!"
+
+msgctxt "2396"
+msgid "親の即精算メッセージ。"
+msgstr "Parent's immediate settlement message."
+
+msgctxt "2419"
+msgid "親の奇の見は３になるんやで！"
+msgstr "The strange look of parents will be 3!"
+
+msgctxt "2448"
+msgid ""
+"最初の子が出した奇の見は\n"
+"３になるんやで！"
+msgstr "The strange look that the first child gave is 3!"
+
+msgctxt "2491"
+msgid ""
+"奇の見は一つ前の子と\n"
+"同じ出目になるんやで！"
+msgstr "The strange look will be the same as the previous child!"
+
+msgctxt "2536"
+msgid "親の偶の音は４になるんやで！"
+msgstr "The sound of the parent's even is 4!"
+
+msgctxt "2565"
+msgid ""
+"偶の音は一つ後の子と\n"
+"同じ出目になるんやで！"
+msgstr "The sound of the even will be the same as the next child!"
+
+msgctxt "2610"
+msgid ""
+"最後の子が出した偶の音は\n"
+"４になるんやで！"
+msgstr "The even sound made by the last child will be 4!"
+
+msgctxt "2653"
+msgid ""
+"偶の音は、後ろの子と\n"
+"同じ出目になるんやで！"
+msgstr "The sound of the even will be the same as the child behind!"
+
+msgctxt "2698"
+msgid "偶の音のあとに奇の見が出たで！"
+msgstr "A strange look came out after the sound of the even!"
+
+msgctxt "2729"
+msgid "ムサシやで！　どやっ！"
+msgstr "Musashi and de! Do ya!"
+
+msgctxt "2756"
+msgid "欲張り五郎"
+msgstr "Greedy Goro"

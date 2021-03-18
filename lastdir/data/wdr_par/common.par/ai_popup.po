@@ -1,0 +1,4852 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "13920"
+msgid "ホンマですか？"
+msgstr "Is it true?"
+
+msgctxt "13935"
+msgid "ふぅ"
+msgstr "Fu"
+
+msgctxt "13940"
+msgid "少し休もうか？"
+msgstr "Do you want to take a break?"
+
+msgctxt "13955"
+msgid "そうやなぁ"
+msgstr "Yeah"
+
+msgctxt "13966"
+msgid "あははっ"
+msgstr "Ahaha"
+
+msgctxt "13975"
+msgid "お世辞ばっかり"
+msgstr "Just flattery"
+
+msgctxt "13990"
+msgid "そうねぇ"
+msgstr "let me see"
+
+msgctxt "13999"
+msgid "もう一軒いきはる？"
+msgstr "Do you have another house?"
+
+msgctxt "14018"
+msgid "ほな　行こか"
+msgstr "Hona Ikoka"
+
+msgctxt "14031"
+msgid "あっはっはっは！"
+msgstr "Ahahahaha!"
+
+msgctxt "14048"
+msgid "どこや"
+msgstr "Where"
+
+msgctxt "14055"
+msgid "なんやねん"
+msgstr "What a hell"
+
+msgctxt "14066"
+msgid "やめとけや"
+msgstr "Stop it"
+
+msgctxt "14077"
+msgid "ええやないですか"
+msgstr "Yeah not"
+
+msgctxt "14094"
+msgid "良かった"
+msgstr "Was good"
+
+msgctxt "14103"
+msgid "そろそろ帰らな"
+msgstr "It's about time to go home"
+
+msgctxt "14118"
+msgid "はよ行かんと"
+msgstr "Let's go"
+
+msgctxt "14131"
+msgid "はぁ…"
+msgstr "Hmm ..."
+
+msgctxt "14138"
+msgid "せやな"
+msgstr "Sayana"
+
+msgctxt "14145"
+msgid "ホンマやで"
+msgstr "Honmadekka"
+
+msgctxt "14156"
+msgid "なぁ"
+msgstr "I see"
+
+msgctxt "14161"
+msgid "もう一回言うてよ"
+msgstr "Say it again"
+
+msgctxt "14178"
+msgid "ヒック……"
+msgstr "Hiccup ……"
+
+msgctxt "14189"
+msgid "まだまだ飲めるっちゅうに"
+msgstr "I can still drink"
+
+msgctxt "14214"
+msgid "ええ女やったなあ"
+msgstr "Yeah I did a woman"
+
+msgctxt "14231"
+msgid "あ～　腹減ってきたわ"
+msgstr "I'm hungry"
+
+msgctxt "14252"
+msgid "京の女はええなぁ"
+msgstr "The woman in Kyoto is yeah"
+
+msgctxt "14269"
+msgid "ぷはぁ～"
+msgstr "Puha ~"
+
+msgctxt "14278"
+msgid "ウィ～"
+msgstr "We ~"
+
+msgctxt "14285"
+msgid "ぐふふ　惚れさせたるで"
+msgstr "Gufufu I fell in love with you"
+
+msgctxt "14308"
+msgid "俺は斬られても死なんで～"
+msgstr "I'm dead even if I'm slashed ~"
+
+msgctxt "14333"
+msgid "なんや　全然酔っとらへんで"
+msgstr "I'm totally drunk"
+
+msgctxt "14360"
+msgid "今日は気分がええな　ウップ……"
+msgstr "I feel good today ..."
+
+msgctxt "14391"
+msgid "あれ　ここどこやぁ？"
+msgstr "Where is that here?"
+
+msgctxt "14412"
+msgid "このまま寝てもうたろか"
+msgstr "I'm sleeping like this"
+
+msgctxt "14435"
+msgid "もっともってこ～い"
+msgstr "It ’s the best"
+
+msgctxt "14454"
+msgid "次の店はどこや～"
+msgstr "Where is the next store ~"
+
+msgctxt "14471"
+msgid "ぐふふ……"
+msgstr "Gufufu ……"
+
+msgctxt "14482"
+msgid "もっと飲ませろや"
+msgstr "Give me more"
+
+msgctxt "14499"
+msgid "飲み足りへんな"
+msgstr "Not enough to drink"
+
+msgctxt "14514"
+msgid "飲みすぎてもうた……"
+msgstr "I drank too much ..."
+
+msgctxt "14535"
+msgid "今日は帰るか"
+msgstr "Are you going home today"
+
+msgctxt "14548"
+msgid "今夜は飲むでぇ！"
+msgstr "Drink tonight!"
+
+msgctxt "14565"
+msgid "ええ飲みっぷりやったなぁ"
+msgstr "Yeah, I drank a lot"
+
+msgctxt "14590"
+msgid "もう酔ってるんか？"
+msgstr "Are you already drunk?"
+
+msgctxt "14609"
+msgid "まだまだ飲むでぇ～"
+msgstr "I'm still drinking ~"
+
+msgctxt "14628"
+msgid "飲みまくるでぇ～"
+msgstr "I'll drink it!"
+
+msgctxt "14645"
+msgid "酒持ってこんかい！"
+msgstr "Do you have sake!"
+
+msgctxt "14664"
+msgid "飲み足りんなぁ"
+msgstr "Drinking foot Rin"
+
+msgctxt "14679"
+msgid "次はあっちの店へ寄ろうか"
+msgstr "Shall we go to that store next time?"
+
+msgctxt "14704"
+msgid "酔っ払ってますよ～　ウプッ"
+msgstr "I'm drunk ~"
+
+msgctxt "14731"
+msgid "酒や！　酒や！"
+msgstr "Sake! Sake!"
+
+msgctxt "14746"
+msgid "浴びるほど酒を飲むで～"
+msgstr "The more you take it, the more you drink"
+
+msgctxt "14769"
+msgid "酒は裏切らんなぁ"
+msgstr "I can't betray sake"
+
+msgctxt "14786"
+msgid "まだまだ飲めるわ"
+msgstr "I can still drink"
+
+msgctxt "14803"
+msgid "旨い酒持ってきてや"
+msgstr "Bring some delicious sake"
+
+msgctxt "14822"
+msgid "店の酒全部飲んだるわ！"
+msgstr "I drank all the sake from the store!"
+
+msgctxt "14845"
+msgid "気分ええわ～"
+msgstr "Feeling yeah ~"
+
+msgctxt "14858"
+msgid "飲んでも飲んでも飲み足りんわ！"
+msgstr "Even if you drink it, you can drink it!"
+
+msgctxt "14889"
+msgid "酒が飲めれば何もいらんわ"
+msgstr "I don't need anything if I can drink alcohol"
+
+msgctxt "14914"
+msgid "酒が全てや！"
+msgstr "Alcohol is everything!"
+
+msgctxt "14927"
+msgid "もう酒しか信じられへんわ"
+msgstr "I can't believe only sake anymore"
+
+msgctxt "14952"
+msgid "俺の体は酒で出来てるんやで！"
+msgstr "My body is made of sake!"
+
+msgctxt "14981"
+msgid "あかん……　酔いが醒めてきた"
+msgstr "Akan ... I'm getting sick"
+
+msgctxt "15010"
+msgid "もっと酒や"
+msgstr "More liquor"
+
+msgctxt "15021"
+msgid "酒さえあれば何もいらんわ"
+msgstr "I don't need anything if I have sake"
+
+msgctxt "15046"
+msgid "酔っ払っちゃった～"
+msgstr "I got drunk ~"
+
+msgctxt "15065"
+msgid "もう少し飲んでいこうか"
+msgstr "Let's drink a little more"
+
+msgctxt "15088"
+msgid "二人で飲む酒も悪ないな"
+msgstr "The sake we drink together is not bad"
+
+msgctxt "15111"
+msgid "飲みすぎて気分悪いわ……"
+msgstr "I feel sick because I drank too much ..."
+
+msgctxt "15136"
+msgid "もう飲めんわ……"
+msgstr "I can't drink anymore ..."
+
+msgctxt "15153"
+msgid "うぅ　気持ち悪い……"
+msgstr "Uh, it feels bad ..."
+
+msgctxt "15174"
+msgid "飲みすぎたかな……"
+msgstr "I wonder if I drank too much ..."
+
+msgctxt "15193"
+msgid "頭がクラクラするわ……"
+msgstr "My head is chilling ..."
+
+msgctxt "15216"
+msgid "もう限界や……"
+msgstr "Already the limit ..."
+
+msgctxt "15231"
+msgid "まだ飲むでー"
+msgstr "I'm still drinking"
+
+msgctxt "15244"
+msgid "金ならぎょうさんあるで"
+msgstr "If it ’s money, it ’s Gyo-san."
+
+msgctxt "15267"
+msgid "もう酔うてしもたんか？"
+msgstr "Did you get drunk already?"
+
+msgctxt "15290"
+msgid "お前酒強いなぁ"
+msgstr "You have a strong drink"
+
+msgctxt "15305"
+msgid "さっきの酒はキツかったなぁ……"
+msgstr "The sake I mentioned earlier was tough ..."
+
+msgctxt "15336"
+msgid "この前の店に行ってみようか"
+msgstr "Let's go to the last store"
+
+msgctxt "15363"
+msgid "どこやったかなぁ"
+msgstr "Where did you do it"
+
+msgctxt "15380"
+msgid "今日は一番高い酒を飲んだんでぇ"
+msgstr "I drank the most expensive sake today"
+
+msgctxt "15411"
+msgid "道に迷うてもうたわ"
+msgstr "I'm lost"
+
+msgctxt "15430"
+msgid "もう金あらへん……"
+msgstr "No more money ..."
+
+msgctxt "15449"
+msgid "全然酔うてないわ！"
+msgstr "I'm not drunk at all!"
+
+msgctxt "15468"
+msgid "何杯でも飲めてしまうわ"
+msgstr "I can drink as many cups as I want"
+
+msgctxt "15491"
+msgid "飯でも食うか？"
+msgstr "Do you eat with rice?"
+
+msgctxt "15506"
+msgid "目が回るわ～"
+msgstr "I'm turning my eyes ~"
+
+msgctxt "15519"
+msgid "悪酔いしとるなぁ"
+msgstr "Don't get drunk"
+
+msgctxt "15536"
+msgid "目が回るぅ～"
+msgstr "I'm turning my eyes"
+
+msgctxt "15549"
+msgid "ほどほどにな"
+msgstr "Moderately"
+
+msgctxt "15562"
+msgid "もうフラフラや～"
+msgstr "It ’s already fluttering ~"
+
+msgctxt "15579"
+msgid "次いくで～"
+msgstr "Next time ~"
+
+msgctxt "15590"
+msgid "1年分飲んだ気分や～"
+msgstr "I feel like I drank for a year"
+
+msgctxt "15610"
+msgid "ちょっと横になりたいわ……"
+msgstr "I want to lie down a little ..."
+
+msgctxt "15637"
+msgid "樽ごといったれぇ～"
+msgstr "It ’s like a barrel."
+
+msgctxt "15656"
+msgid "今日はよう眠れるわ"
+msgstr "I can sleep today"
+
+msgctxt "15675"
+msgid "酔ってもうたでぇ～"
+msgstr "Even if you get drunk"
+
+msgctxt "15694"
+msgid "歩き回って疲れたわ"
+msgstr "I'm tired of walking around"
+
+msgctxt "15713"
+msgid "気持ち悪……"
+msgstr "bad feeling……"
+
+msgctxt "15726"
+msgid "ここの酒は絶品ですわ"
+msgstr "The sake here is excellent"
+
+msgctxt "15747"
+msgid "メシ食いとうなってきたわ"
+msgstr "I'm starting to eat rice"
+
+msgctxt "15772"
+msgid "金落としなや"
+msgstr "Money drop"
+
+msgctxt "15785"
+msgid "あんた酒弱いなぁ"
+msgstr "Your sake is weak"
+
+msgctxt "15802"
+msgid "あんたと飲んでると楽しいわぁ"
+msgstr "It's fun to drink with you"
+
+msgctxt "15831"
+msgid "ええ酒飲ましてもろうたで"
+msgstr "Yeah"
+
+msgctxt "15856"
+msgid "まだ飲むんかい"
+msgstr "Do you still drink"
+
+msgctxt "15871"
+msgid "幸せや～"
+msgstr "Happiness"
+
+msgctxt "15880"
+msgid "はぁ、はぁ"
+msgstr "Hah, huh"
+
+msgctxt "15891"
+msgid "あぁああ！"
+msgstr "Ah ah!"
+
+msgctxt "15902"
+msgid "うわぁああ！"
+msgstr "Wow ah!"
+
+msgctxt "15915"
+msgid "ひぇえ！"
+msgstr "Hey!"
+
+msgctxt "15924"
+msgid "あっちは手遅れや……！"
+msgstr "It's too late ...!"
+
+msgctxt "15947"
+msgid "全部燃えてまう……"
+msgstr "It's all burning ..."
+
+msgctxt "15966"
+msgid "えらいこっちゃ！"
+msgstr "Great!"
+
+msgctxt "15983"
+msgid "こんな大火事は始めてや……"
+msgstr "This is the first time for such a big fire ..."
+
+msgctxt "16010"
+msgid "もう走れん……"
+msgstr "I can't run anymore ..."
+
+msgctxt "16025"
+msgid "ここも燃えとる……"
+msgstr "It burns here too ..."
+
+msgctxt "16044"
+msgid "わしの家が……"
+msgstr "My house is ..."
+
+msgctxt "16059"
+msgid "何があったんや！"
+msgstr "What happened!"
+
+msgctxt "16076"
+msgid "なんちゅうこった……"
+msgstr "What a mess ..."
+
+msgctxt "16097"
+msgid "誰か、助けてください！"
+msgstr "help me!"
+
+msgctxt "16120"
+msgid "町が無くなってまう……"
+msgstr "The town is gone ..."
+
+msgctxt "16143"
+msgid "足が……"
+msgstr "legs are……"
+
+msgctxt "16152"
+msgid "家が燃えてもうた……"
+msgstr "The house is on fire ..."
+
+msgctxt "16173"
+msgid "手ぇ貸してください！"
+msgstr "Please lend me!"
+
+msgctxt "16194"
+msgid "どこへ逃げたらええんや……"
+msgstr "Where should I escape ..."
+
+msgctxt "16221"
+msgid "誰か！助けとくれやす！"
+msgstr "who! Easy to help!"
+
+msgctxt "16244"
+msgid "もう終わりや……"
+msgstr "It's over ..."
+
+msgctxt "16261"
+msgid "はよう逃げんと！"
+msgstr "Good morning run away!"
+
+msgctxt "16278"
+msgid "はぁ……もうアカン"
+msgstr "Hmm ... Already Akan"
+
+msgctxt "16297"
+msgid "なんでこないなことに……"
+msgstr "Why don't you ..."
+
+msgctxt "16322"
+msgid "じきにここもあかんな……"
+msgstr "I don't know here soon ..."
+
+msgctxt "16347"
+msgid "急いで逃げるんや！"
+msgstr "Hurry up and run away!"
+
+msgctxt "16366"
+msgid "家は諦めて　はよう走らんかい！"
+msgstr "Let's give up the house and run!"
+
+msgctxt "16397"
+msgid "そこの道は火で塞がってるで！"
+msgstr "The road there is blocked by fire!"
+
+msgctxt "16426"
+msgid "あかんっ！崩れるで！"
+msgstr "Akan! Crumbling!"
+
+msgctxt "16447"
+msgid "急がんと火に飲み込まれるで！"
+msgstr "Suddenly cancer and swallowed by fire!"
+
+msgctxt "16476"
+msgid "そっちは火の海やで！"
+msgstr "That is the sea of fire!"
+
+msgctxt "16497"
+msgid "はよ走りや！"
+msgstr "Good run!"
+
+msgctxt "16510"
+msgid "水持ってこんかい！"
+msgstr "Bring water!"
+
+msgctxt "16529"
+msgid "水や！"
+msgstr "Water!"
+
+msgctxt "16536"
+msgid "誰か！手を貸してや！"
+msgstr "who! Help me!"
+
+msgctxt "16557"
+msgid "先に行っとき！"
+msgstr "When you go first!"
+
+msgctxt "16572"
+msgid "どこに逃げればええんや!?"
+msgstr "Where should I escape !?"
+
+msgctxt "16597"
+msgid "荷物なんか置いていき！"
+msgstr "Leave your luggage!"
+
+msgctxt "16620"
+msgid "急がんかい！"
+msgstr "Suddenly!"
+
+msgctxt "16633"
+msgid "家が倒れんで！"
+msgstr "The house has collapsed!"
+
+msgctxt "16648"
+msgid "今助けたるで！"
+msgstr "Help me now!"
+
+msgctxt "16663"
+msgid "もうそこまで火が迫ってるで！"
+msgstr "The fire is approaching that far!"
+
+msgctxt "16692"
+msgid "あっちは大火事や！"
+msgstr "There is a big fire!"
+
+msgctxt "16711"
+msgid "そっちの家にも燃え移ったで！"
+msgstr "It burned to that house too!"
+
+msgctxt "16740"
+msgid "ここは危険や！"
+msgstr "This is dangerous!"
+
+msgctxt "16755"
+msgid "消しても消してもキリが無いわ……"
+msgstr "Even if you erase it, there is no sharpness ..."
+
+msgctxt "16788"
+msgid "火の勢いが強すぎるわ……"
+msgstr "The momentum of the fire is too strong ..."
+
+msgctxt "16813"
+msgid "さっさとせんと逃げ遅れるで！"
+msgstr "Don't be late to escape!"
+
+msgctxt "16842"
+msgid "火の勢いが強うなってきた"
+msgstr "The momentum of the fire is getting stronger"
+
+msgctxt "16867"
+msgid "そこの家も崩れるで！"
+msgstr "The house there will also collapse!"
+
+msgctxt "16888"
+msgid "はよう逃げんか！"
+msgstr "Good morning run away!"
+
+msgctxt "16905"
+msgid "火の勢いが強過ぎる……"
+msgstr "The momentum of the fire is too strong ..."
+
+msgctxt "16928"
+msgid "そっちはあぶないで！"
+msgstr "Don't be afraid of that!"
+
+msgctxt "16949"
+msgid "きゃぁ！"
+msgstr "Kyaa!"
+
+msgctxt "16958"
+msgid "まだ中に人が！"
+msgstr "There are still people inside!"
+
+msgctxt "16973"
+msgid "誰か！手を貸しておくれやす！"
+msgstr "who! Easy to help!"
+
+msgctxt "17002"
+msgid "そっちに行ったら危ないで！"
+msgstr "Don't be dangerous if you go there!"
+
+msgctxt "17029"
+msgid "うち　もう走れんわ……"
+msgstr "I can't run anymore ..."
+
+msgctxt "17052"
+msgid "急いで逃げんと！"
+msgstr "Hurry up and run away!"
+
+msgctxt "17069"
+msgid "どこへ逃げたらええんやろ……"
+msgstr "Where should I escape ..."
+
+msgctxt "17098"
+msgid "どこもかしこも火の海や……"
+msgstr "Everywhere, everywhere, the sea of fire ..."
+
+msgctxt "17125"
+msgid "はよう逃げへんと！"
+msgstr "Good morning escape!"
+
+msgctxt "17144"
+msgid "助けてくれまへんか！"
+msgstr "Can you help me!"
+
+msgctxt "17165"
+msgid "急がんと火に包まれるよ！"
+msgstr "You'll be surrounded by sudden cancer and fire!"
+
+msgctxt "17190"
+msgid "あっ！家が崩れる！"
+msgstr "Ah! The house collapses!"
+
+msgctxt "17209"
+msgid "誰かー！"
+msgstr "Someone!"
+
+msgctxt "17218"
+msgid "道が塞がれてる……"
+msgstr "The road is blocked ..."
+
+msgctxt "17237"
+msgid "また燃え移ったわ！"
+msgstr "It burned again!"
+
+msgctxt "17256"
+msgid "向こうもあかんみたいよ……"
+msgstr "I don't think it's over there ..."
+
+msgctxt "17283"
+msgid "うちの家は大丈夫やろうか……"
+msgstr "Is my house okay ..."
+
+msgctxt "17312"
+msgid "みんな無事やろうか……"
+msgstr "Let's all do it safely ..."
+
+msgctxt "17335"
+msgid "ここも危ないで！"
+msgstr "Don't be dangerous here either!"
+
+msgctxt "17352"
+msgid "気い付けて逃げんと！"
+msgstr "Be aware and run away!"
+
+msgctxt "17373"
+msgid "ホンマですか？"
+msgstr "Is it true?"
+
+msgctxt "17388"
+msgid "なんちゅうこっちゃ"
+msgstr "What a mess"
+
+msgctxt "17407"
+msgid "ふぅ"
+msgstr "Fu"
+
+msgctxt "17412"
+msgid "金ならあんでぇ"
+msgstr "If it ’s money"
+
+msgctxt "17427"
+msgid "そろそろ帰らんと"
+msgstr "It's about time to go home"
+
+msgctxt "17444"
+msgid "わしも若い頃はモテたんやで"
+msgstr "When I was young, I was popular"
+
+msgctxt "17471"
+msgid "年寄り扱いしなや！"
+msgstr "Don't treat me as an old man!"
+
+msgctxt "17490"
+msgid "若いもんには負けへんで"
+msgstr "Losing to young people"
+
+msgctxt "17513"
+msgid "少し休もか？"
+msgstr "Do you have a little rest?"
+
+msgctxt "17526"
+msgid "そうやなぁ"
+msgstr "Yeah"
+
+msgctxt "17537"
+msgid "ほな　行こか"
+msgstr "Hona Ikoka"
+
+msgctxt "17550"
+msgid "あっはっはっは！"
+msgstr "Ahahahaha!"
+
+msgctxt "17567"
+msgid "どこや"
+msgstr "Where"
+
+msgctxt "17574"
+msgid "なんやねん"
+msgstr "What a hell"
+
+msgctxt "17585"
+msgid "やめとけや"
+msgstr "Stop it"
+
+msgctxt "17596"
+msgid "ほんま楽しいなぁ"
+msgstr "It's really fun"
+
+msgctxt "17613"
+msgid "楽しいなぁ"
+msgstr "It's fun"
+
+msgctxt "17624"
+msgid "少しくらいええやん"
+msgstr "A little yeah"
+
+msgctxt "17643"
+msgid "ちょっとだけやん"
+msgstr "Just a little"
+
+msgctxt "17660"
+msgid "ほんま笑いが止まらんわ～"
+msgstr "I can't stop laughing ~"
+
+msgctxt "17685"
+msgid "困ったなぁ……"
+msgstr "I'm in trouble ..."
+
+msgctxt "17700"
+msgid "恋しいなぁ"
+msgstr "I miss you"
+
+msgctxt "17711"
+msgid "惚れたんか？"
+msgstr "Did you fall in love?"
+
+msgctxt "17724"
+msgid "惚れてしもたわ"
+msgstr "I fell in love with you"
+
+msgctxt "17739"
+msgid "愛おしいなぁ"
+msgstr "I love you"
+
+msgctxt "17752"
+msgid "あれは色気あるわ"
+msgstr "That's sex appeal"
+
+msgctxt "17769"
+msgid "ちょっかいだしなや～"
+msgstr "It's a little bit"
+
+msgctxt "17790"
+msgid "今日は帰ろか"
+msgstr "Go home today"
+
+msgctxt "17803"
+msgid "ちょっと寄っていこかな"
+msgstr "I wonder if it's a little closer"
+
+msgctxt "17826"
+msgid "嫁はんにしばかれるわ……"
+msgstr "I'll be tied up by my bride ..."
+
+msgctxt "17851"
+msgid "それくらいええやん"
+msgstr "That much yeah"
+
+msgctxt "17870"
+msgid "この店か？"
+msgstr "Is this a store?"
+
+msgctxt "17881"
+msgid "旨いもん食わしたんでぇ"
+msgstr "I ate delicious food"
+
+msgctxt "17904"
+msgid "もう帰らんと"
+msgstr "I'm not going home anymore"
+
+msgctxt "17917"
+msgid "あかん　飲みすぎた"
+msgstr "I drank too much"
+
+msgctxt "17936"
+msgid "次はあっちの店へ行こうか"
+msgstr "Let's go to that store next time"
+
+msgctxt "17961"
+msgid "飯でも食っていこうか"
+msgstr "Let's eat with rice"
+
+msgctxt "17982"
+msgid "酒でも飲んでいこうか"
+msgstr "Let's drink alcohol"
+
+msgctxt "18003"
+msgid "ええ店知っとるで"
+msgstr "Yeah, get to know the store"
+
+msgctxt "18020"
+msgid "今度連れてってや"
+msgstr "Take me next time"
+
+msgctxt "18037"
+msgid "ん？　この店か？"
+msgstr "Hmm? Is this a store?"
+
+msgctxt "18054"
+msgid "せつないなぁ……"
+msgstr "I'm sorry ..."
+
+msgctxt "18071"
+msgid "旨いもん食いたいなぁ"
+msgstr "I want to eat delicious food"
+
+msgctxt "18092"
+msgid "どこの店やったかなぁ"
+msgstr "Where did you go?"
+
+msgctxt "18113"
+msgid "あそこの店はやめとき"
+msgstr "When you quit the store over there"
+
+msgctxt "18134"
+msgid "旨かったなぁ"
+msgstr "It was delicious"
+
+msgctxt "18147"
+msgid "高いだけのことはあるなぁ"
+msgstr "There is something that is only expensive"
+
+msgctxt "18172"
+msgid "ん？　通りすぎたか？"
+msgstr "Hmm? Did you pass by?"
+
+msgctxt "18193"
+msgid "あかん　迷ってもうた"
+msgstr "Even if I get lost, I sing"
+
+msgctxt "18214"
+msgid "あっちやったかな"
+msgstr "I wonder if I did it over there"
+
+msgctxt "18231"
+msgid "あぁ　ここや！"
+msgstr "Ah here!"
+
+msgctxt "18246"
+msgid "あかん　惚れてもうた"
+msgstr "I fell in love with you"
+
+msgctxt "18267"
+msgid "また負けたわー"
+msgstr "I lost again"
+
+msgctxt "18282"
+msgid "厳しいなー"
+msgstr "It's tough"
+
+msgctxt "18293"
+msgid "照れるやないか"
+msgstr "Isn't it shy?"
+
+msgctxt "18308"
+msgid "旨い酒やったなぁ"
+msgstr "I did delicious sake"
+
+msgctxt "18325"
+msgid "寂しなんなぁ……"
+msgstr "I'm lonely ..."
+
+msgctxt "18342"
+msgid "また来んで！"
+msgstr "Come again!"
+
+msgctxt "18355"
+msgid "たまには別の店いこか"
+msgstr "Sometimes another store Ikoka"
+
+msgctxt "18376"
+msgid "ええやないか"
+msgstr "Yeah"
+
+msgctxt "18389"
+msgid "少しだけやん"
+msgstr "Just a little"
+
+msgctxt "18402"
+msgid "今日は奢ったんで"
+msgstr "I'm hungry today"
+
+msgctxt "18419"
+msgid "好きなだけ飲みや"
+msgstr "Drink as much as you like"
+
+msgctxt "18436"
+msgid "あかん　スッカラカンや"
+msgstr "Akan Sukkarakan"
+
+msgctxt "18459"
+msgid "今日は遊ぶでぇ"
+msgstr "Let's play today"
+
+msgctxt "18474"
+msgid "派手にいくでぇ"
+msgstr "Go flashy"
+
+msgctxt "18489"
+msgid "久しぶりやなぁ"
+msgstr "It's been a long time"
+
+msgctxt "18504"
+msgid "ぎょうさん飲んだなぁ"
+msgstr "Gyo-san drank it"
+
+msgctxt "18525"
+msgid "もう食えへんわ"
+msgstr "I can't eat anymore"
+
+msgctxt "18540"
+msgid "まぁ　酒でも飲もうや"
+msgstr "Well, let's drink with sake"
+
+msgctxt "18561"
+msgid "まずは酒やな"
+msgstr "First of all, sake"
+
+msgctxt "18574"
+msgid "酔ってきたわ"
+msgstr "I'm getting drunk"
+
+msgctxt "18587"
+msgid "酔ってもうた"
+msgstr "Even if you get drunk"
+
+msgctxt "18600"
+msgid "まだまだ飲むで！"
+msgstr "Drink more!"
+
+msgctxt "18617"
+msgid "楽しいのう"
+msgstr "It's fun"
+
+msgctxt "18628"
+msgid "愉快やなぁ"
+msgstr "It's fun"
+
+msgctxt "18639"
+msgid "あかん　金使いすぎた……"
+msgstr "I spent too much money ..."
+
+msgctxt "18664"
+msgid "なあ　一緒に飲まへん？"
+msgstr "Hey, don't you drink with me?"
+
+msgctxt "18687"
+msgid "飲みすぎたわ……"
+msgstr "I drank too much ..."
+
+msgctxt "18704"
+msgid "あっちの店も寄っていこか"
+msgstr "Do you want to stop by that store?"
+
+msgctxt "18729"
+msgid "何か食っていこか？"
+msgstr "Are you eating something?"
+
+msgctxt "18748"
+msgid "少し飲んでいこか？"
+msgstr "Can I drink a little?"
+
+msgctxt "18767"
+msgid "何か買うて帰ろうか"
+msgstr "Should i buy something and go home"
+
+msgctxt "18786"
+msgid "あかん　財布忘れたわ……"
+msgstr "I forgot my wallet ..."
+
+msgctxt "18811"
+msgid "ここなんだけどさ"
+msgstr "I'm here"
+
+msgctxt "18828"
+msgid "ちょっと見てっていい？"
+msgstr "Can I take a look?"
+
+msgctxt "18851"
+msgid "ふざけるなよ"
+msgstr "Don't be silly"
+
+msgctxt "18864"
+msgid "やめとけって"
+msgstr "Stop it"
+
+msgctxt "18877"
+msgid "いろいろゴメンな"
+msgstr "I'm sorry"
+
+msgctxt "18894"
+msgid "自信持って　な？"
+msgstr "Are you confident?"
+
+msgctxt "18911"
+msgid "また喧嘩？"
+msgstr "Fight again?"
+
+msgctxt "18922"
+msgid "今日はついてたなぁ～"
+msgstr "I was on today ~"
+
+msgctxt "18943"
+msgid "ごちそうさまです！"
+msgstr "Thanks for the meal!"
+
+msgctxt "18962"
+msgid "まぁいいじゃん"
+msgstr "It's okay"
+
+msgctxt "18977"
+msgid "いやーたまらん"
+msgstr "No, I don't like it"
+
+msgctxt "18992"
+msgid "ごめん　忘れてた"
+msgstr "I'm sorry I forgot"
+
+msgctxt "19009"
+msgid "え　なになに？"
+msgstr "What?"
+
+msgctxt "19024"
+msgid "前に会った時はさぁ……"
+msgstr "When I met you before ..."
+
+msgctxt "19047"
+msgid "今度　もう一回勝負しろよー"
+msgstr "Let's play again this time!"
+
+msgctxt "19074"
+msgid "へぇ大変だなぁ"
+msgstr "It's hard"
+
+msgctxt "19089"
+msgid "暇だねぇ"
+msgstr "I'm free"
+
+msgctxt "19098"
+msgid "あぁ　奉公へ出したんですよ"
+msgstr "Ah, I sent it to the apprenticeship"
+
+msgctxt "19125"
+msgid "それ　お前の悪いクセだよ"
+msgstr "That's your bad habit"
+
+msgctxt "19150"
+msgid "まだ若いのに……"
+msgstr "I'm still young ..."
+
+msgctxt "19167"
+msgid "どうもどうも"
+msgstr "Thank you very much"
+
+msgctxt "19180"
+msgid "いやーまいった"
+msgstr "No"
+
+msgctxt "19195"
+msgid "取り返せると思ったのになぁ"
+msgstr "I thought I could get it back"
+
+msgctxt "19222"
+msgid "ここで食べてくか……"
+msgstr "Would you like to eat here ..."
+
+msgctxt "19243"
+msgid "細かい事気にすんなよ"
+msgstr "Don't worry about the details"
+
+msgctxt "19264"
+msgid "飲みすぎだな　お前"
+msgstr "You drank too much"
+
+msgctxt "19283"
+msgid "いい加減だなぁ"
+msgstr "It's sloppy"
+
+msgctxt "19298"
+msgid "この後　仕事？"
+msgstr "Work after this?"
+
+msgctxt "19313"
+msgid "お互い年とったねー"
+msgstr "We're both old"
+
+msgctxt "19332"
+msgid "あれが楽しみなんですわ"
+msgstr "I'm looking forward to that"
+
+msgctxt "19355"
+msgid "大丈夫でした？"
+msgstr "It was okay?"
+
+msgctxt "19370"
+msgid "勘弁してくださいよ"
+msgstr "Please forgive me"
+
+msgctxt "19389"
+msgid "おまえ　バカだなぁ～"
+msgstr "You're stupid ~"
+
+msgctxt "19410"
+msgid "そうは言ってもねぇ"
+msgstr "I can't say that"
+
+msgctxt "19429"
+msgid "最近　はやってるんですよ"
+msgstr "I'm doing it these days"
+
+msgctxt "19454"
+msgid "へぇ　じゃぁしばらく寂しねぇ"
+msgstr "I'm not lonely for a while"
+
+msgctxt "19483"
+msgid "もう頑張るしかないな"
+msgstr "I have no choice but to do my best"
+
+msgctxt "19504"
+msgid "お久しぶりです"
+msgstr "Long time no see"
+
+msgctxt "19519"
+msgid "最近面白いことあった？"
+msgstr "Have you had any interesting things lately?"
+
+msgctxt "19542"
+msgid "腹減った～"
+msgstr "I'm hungry ~"
+
+msgctxt "19553"
+msgid "それ好きだね～"
+msgstr "I like it ~"
+
+msgctxt "19568"
+msgid "へーなるほどねー"
+msgstr "I see"
+
+msgctxt "19585"
+msgid "昨日飲みすぎたなぁ"
+msgstr "I drank too much yesterday"
+
+msgctxt "19604"
+msgid "さっきの子　可愛かったなぁ"
+msgstr "The child I just mentioned was cute"
+
+msgctxt "19631"
+msgid "はい　任せてください"
+msgstr "Yes leave it to me"
+
+msgctxt "19652"
+msgid "うん　それで？"
+msgstr "Yeah then?"
+
+msgctxt "19667"
+msgid "ハハハ！"
+msgstr "Hahaha!"
+
+msgctxt "19676"
+msgid "いやいや　本気だって"
+msgstr "No, I'm serious"
+
+msgctxt "19697"
+msgid "またまたぁ"
+msgstr "See you again"
+
+msgctxt "19708"
+msgid "いいねぇそれ！"
+msgstr "Good it!"
+
+msgctxt "19723"
+msgid "はぁ……ついてないなぁ"
+msgstr "Hmm ... I don't have it"
+
+msgctxt "19746"
+msgid "あーまたすっちまった！"
+msgstr "Ah, it's gone again!"
+
+msgctxt "19769"
+msgid "奢ってくれるよな？"
+msgstr "Will you give me a favor?"
+
+msgctxt "19788"
+msgid "あー調子わりぃ"
+msgstr "Ah"
+
+msgctxt "19803"
+msgid "え　何だっけそれ?"
+msgstr "What's that?"
+
+msgctxt "19821"
+msgid "聞いてんのかよ　おい？"
+msgstr "Are you listening?"
+
+msgctxt "19844"
+msgid "あーゆーのグッとくるよな"
+msgstr "Ah, it's coming"
+
+msgctxt "19869"
+msgid "お世辞なのにさ―"
+msgstr "Even though it's flattering-"
+
+msgctxt "19886"
+msgid "あれ　イカサマだろ？"
+msgstr "That's crazy, isn't it?"
+
+msgctxt "19907"
+msgid "大丈夫　大丈夫！"
+msgstr "It's okay!"
+
+msgctxt "19924"
+msgid "ねぇねぇ"
+msgstr "Hey hey"
+
+msgctxt "19933"
+msgid "すごいわぁ！"
+msgstr "Wow!"
+
+msgctxt "19946"
+msgid "あれ　かわいい！"
+msgstr "That's cute!"
+
+msgctxt "19963"
+msgid "はぁ……もうやだ"
+msgstr "Hmm ... no more"
+
+msgctxt "19980"
+msgid "そうですねぇ"
+msgstr "Yeah"
+
+msgctxt "19993"
+msgid "ふふふっ"
+msgstr "Fufufu"
+
+msgctxt "20002"
+msgid "面白い話してよ～"
+msgstr "Tell me an interesting story ~"
+
+msgctxt "20019"
+msgid "話聞いてくれてありがとう"
+msgstr "Thank you for listening"
+
+msgctxt "20044"
+msgid "やーん　久しぶり～"
+msgstr "It's been a long time"
+
+msgctxt "20063"
+msgid "よかったねぇ！"
+msgstr "I'm glad!"
+
+msgctxt "20078"
+msgid "ちょっと待ってて"
+msgstr "Wait a minute"
+
+msgctxt "20095"
+msgid "ごちそうさまー"
+msgstr "Feast"
+
+msgctxt "20110"
+msgid "あーわかるー"
+msgstr "I understand"
+
+msgctxt "20123"
+msgid "もう　いじわるねぇ"
+msgstr "I'm not messing around anymore"
+
+msgctxt "20142"
+msgid "えぇ最近仲良くしてます"
+msgstr "Yeah, I'm getting along recently"
+
+msgctxt "20165"
+msgid "あれいいよね"
+msgstr "That's good"
+
+msgctxt "20178"
+msgid "そろそろ帰ろうよ"
+msgstr "Let's go home soon"
+
+msgctxt "20195"
+msgid "それでどうしたの？"
+msgstr "So what happened?"
+
+msgctxt "20214"
+msgid "そんな時もあるって"
+msgstr "There are times like that"
+
+msgctxt "20233"
+msgid "今度遊びにおいでよ"
+msgstr "Come play next time"
+
+msgctxt "20252"
+msgid "寂しがってたよー"
+msgstr "I was lonely"
+
+msgctxt "20269"
+msgid "元気だった？"
+msgstr "How have you been?"
+
+msgctxt "20282"
+msgid "もうーしょうがないなぁ"
+msgstr "I can't help it anymore"
+
+msgctxt "20305"
+msgid "買ってくるの忘れてたわ……"
+msgstr "I forgot to buy it ..."
+
+msgctxt "20332"
+msgid "また来ようね"
+msgstr "Let's come again"
+
+msgctxt "20345"
+msgid "お腹すいたねー"
+msgstr "I'm hungry"
+
+msgctxt "20360"
+msgid "あれ　おいしそうだね"
+msgstr "That looks delicious"
+
+msgctxt "20381"
+msgid "それ似合うね"
+msgstr "It suits you"
+
+msgctxt "20394"
+msgid "そういうの困るね"
+msgstr "I'm in trouble like that"
+
+msgctxt "20411"
+msgid "あはは　なにそれー"
+msgstr "What is that?"
+
+msgctxt "20430"
+msgid "ここなんだけどさ"
+msgstr "I'm here"
+
+msgctxt "20447"
+msgid "ちょっと見てっていい？"
+msgstr "Can I take a look?"
+
+msgctxt "20470"
+msgid "ふざけるなよ"
+msgstr "Don't be silly"
+
+msgctxt "20483"
+msgid "やめとけって"
+msgstr "Stop it"
+
+msgctxt "20496"
+msgid "いろいろゴメンな"
+msgstr "I'm sorry"
+
+msgctxt "20513"
+msgid "自信持って　な？"
+msgstr "Are you confident?"
+
+msgctxt "20530"
+msgid "また喧嘩？"
+msgstr "Fight again?"
+
+msgctxt "20541"
+msgid "今日はついてたなぁ～"
+msgstr "I was on today ~"
+
+msgctxt "20562"
+msgid "ごちそうさまです！"
+msgstr "Thanks for the meal!"
+
+msgctxt "20581"
+msgid "まぁいいじゃん"
+msgstr "It's okay"
+
+msgctxt "20596"
+msgid "いやーたまらん"
+msgstr "No, I don't like it"
+
+msgctxt "20611"
+msgid "ごめん　忘れてた"
+msgstr "I'm sorry I forgot"
+
+msgctxt "20628"
+msgid "え　なになに？"
+msgstr "What?"
+
+msgctxt "20643"
+msgid "前に会った時はさぁ……"
+msgstr "When I met you before ..."
+
+msgctxt "20666"
+msgid "今度　もう一回勝負しろよー"
+msgstr "Let's play again this time!"
+
+msgctxt "20693"
+msgid "へぇ大変だなぁ"
+msgstr "It's hard"
+
+msgctxt "20708"
+msgid "暇だねぇ"
+msgstr "I'm free"
+
+msgctxt "20717"
+msgid "あぁ　奉公へ出したんですよ"
+msgstr "Ah, I sent it to the apprenticeship"
+
+msgctxt "20744"
+msgid "それ　お前の悪いクセだよ"
+msgstr "That's your bad habit"
+
+msgctxt "20769"
+msgid "まだ若いのに……"
+msgstr "I'm still young ..."
+
+msgctxt "20786"
+msgid "どうもどうも"
+msgstr "Thank you very much"
+
+msgctxt "20799"
+msgid "いやーまいった"
+msgstr "No"
+
+msgctxt "20814"
+msgid "取り返せると思ったのになぁ"
+msgstr "I thought I could get it back"
+
+msgctxt "20841"
+msgid "ここで食べてくか……"
+msgstr "Would you like to eat here ..."
+
+msgctxt "20862"
+msgid "細かい事気にすんなよ"
+msgstr "Don't worry about the details"
+
+msgctxt "20883"
+msgid "飲みすぎだな　お前"
+msgstr "You drank too much"
+
+msgctxt "20902"
+msgid "いい加減だなぁ"
+msgstr "It's sloppy"
+
+msgctxt "20917"
+msgid "この後　仕事？"
+msgstr "Work after this?"
+
+msgctxt "20932"
+msgid "お互い年とったねー"
+msgstr "We're both old"
+
+msgctxt "20951"
+msgid "あれが楽しみなんですわ"
+msgstr "I'm looking forward to that"
+
+msgctxt "20974"
+msgid "大丈夫でした？"
+msgstr "It was okay?"
+
+msgctxt "20989"
+msgid "勘弁してくださいよ"
+msgstr "Please forgive me"
+
+msgctxt "21008"
+msgid "おまえ　バカだなぁ～"
+msgstr "You're stupid ~"
+
+msgctxt "21029"
+msgid "そうは言ってもねぇ"
+msgstr "I can't say that"
+
+msgctxt "21048"
+msgid "最近　はやってるんですよ"
+msgstr "I'm doing it these days"
+
+msgctxt "21073"
+msgid "へぇ　じゃぁしばらく寂しねぇ"
+msgstr "I'm not lonely for a while"
+
+msgctxt "21102"
+msgid "もう頑張るしかないな"
+msgstr "I have no choice but to do my best"
+
+msgctxt "21123"
+msgid "お久しぶりです"
+msgstr "Long time no see"
+
+msgctxt "21138"
+msgid "最近面白いことあった？"
+msgstr "Have you had any interesting things lately?"
+
+msgctxt "21161"
+msgid "腹減った～"
+msgstr "I'm hungry ~"
+
+msgctxt "21172"
+msgid "それ好きだね～"
+msgstr "I like it ~"
+
+msgctxt "21187"
+msgid "へーなるほどねー"
+msgstr "I see"
+
+msgctxt "21204"
+msgid "昨日飲みすぎたなぁ"
+msgstr "I drank too much yesterday"
+
+msgctxt "21223"
+msgid "さっきの子　可愛かったなぁ"
+msgstr "The child I just mentioned was cute"
+
+msgctxt "21250"
+msgid "はい　任せてください"
+msgstr "Yes leave it to me"
+
+msgctxt "21271"
+msgid "うん　それで？"
+msgstr "Yeah then?"
+
+msgctxt "21286"
+msgid "ハハハ！"
+msgstr "Hahaha!"
+
+msgctxt "21295"
+msgid "いやいや　本気だって"
+msgstr "No, I'm serious"
+
+msgctxt "21316"
+msgid "またまたぁ"
+msgstr "See you again"
+
+msgctxt "21327"
+msgid "いいねぇそれ！"
+msgstr "Good it!"
+
+msgctxt "21342"
+msgid "はぁ……ついてないなぁ"
+msgstr "Hmm ... I don't have it"
+
+msgctxt "21365"
+msgid "あーまたすっちまった！"
+msgstr "Ah, it's gone again!"
+
+msgctxt "21388"
+msgid "奢ってくれるよな？"
+msgstr "Will you give me a favor?"
+
+msgctxt "21407"
+msgid "あー調子わりぃ"
+msgstr "Ah"
+
+msgctxt "21422"
+msgid "え　何だっけそれ?"
+msgstr "What's that?"
+
+msgctxt "21440"
+msgid "聞いてんのかよ　おい？"
+msgstr "Are you listening?"
+
+msgctxt "21463"
+msgid "あーゆーのグッとくるよな"
+msgstr "Ah, it's coming"
+
+msgctxt "21488"
+msgid "お世辞なのにさ―"
+msgstr "Even though it's flattering-"
+
+msgctxt "21505"
+msgid "あれ　イカサマだろ？"
+msgstr "That's crazy, isn't it?"
+
+msgctxt "21526"
+msgid "大丈夫　大丈夫！"
+msgstr "It's okay!"
+
+msgctxt "21543"
+msgid "ねぇねぇ"
+msgstr "Hey hey"
+
+msgctxt "21552"
+msgid "すごいわぁ！"
+msgstr "Wow!"
+
+msgctxt "21565"
+msgid "あれ　かわいい！"
+msgstr "That's cute!"
+
+msgctxt "21582"
+msgid "はぁ……もうやだ"
+msgstr "Hmm ... no more"
+
+msgctxt "21599"
+msgid "そうですねぇ"
+msgstr "Yeah"
+
+msgctxt "21612"
+msgid "ふふふっ"
+msgstr "Fufufu"
+
+msgctxt "21621"
+msgid "面白い話してよ～"
+msgstr "Tell me an interesting story ~"
+
+msgctxt "21638"
+msgid "話聞いてくれてありがとう"
+msgstr "Thank you for listening"
+
+msgctxt "21663"
+msgid "やーん　久しぶり～"
+msgstr "It's been a long time"
+
+msgctxt "21682"
+msgid "よかったねぇ！"
+msgstr "I'm glad!"
+
+msgctxt "21697"
+msgid "ちょっと待ってて"
+msgstr "Wait a minute"
+
+msgctxt "21714"
+msgid "ごちそうさまー"
+msgstr "Feast"
+
+msgctxt "21729"
+msgid "あーわかるー"
+msgstr "I understand"
+
+msgctxt "21742"
+msgid "もう　いじわるねぇ"
+msgstr "I'm not messing around anymore"
+
+msgctxt "21761"
+msgid "えぇ最近仲良くしてます"
+msgstr "Yeah, I'm getting along recently"
+
+msgctxt "21784"
+msgid "あれいいよね"
+msgstr "That's good"
+
+msgctxt "21797"
+msgid "そろそろ帰ろうよ"
+msgstr "Let's go home soon"
+
+msgctxt "21814"
+msgid "それでどうしたの？"
+msgstr "So what happened?"
+
+msgctxt "21833"
+msgid "そんな時もあるって"
+msgstr "There are times like that"
+
+msgctxt "21852"
+msgid "今度遊びにおいでよ"
+msgstr "Come play next time"
+
+msgctxt "21871"
+msgid "寂しがってたよー"
+msgstr "I was lonely"
+
+msgctxt "21888"
+msgid "元気だった？"
+msgstr "How have you been?"
+
+msgctxt "21901"
+msgid "もうーしょうがないなぁ"
+msgstr "I can't help it anymore"
+
+msgctxt "21924"
+msgid "買ってくるの忘れてたわ……"
+msgstr "I forgot to buy it ..."
+
+msgctxt "21951"
+msgid "また来ようね"
+msgstr "Let's come again"
+
+msgctxt "21964"
+msgid "お腹すいたねー"
+msgstr "I'm hungry"
+
+msgctxt "21979"
+msgid "あれ　おいしそうだね"
+msgstr "That looks delicious"
+
+msgctxt "22000"
+msgid "それ似合うね"
+msgstr "It suits you"
+
+msgctxt "22013"
+msgid "そういうの困るね"
+msgstr "I'm in trouble like that"
+
+msgctxt "22030"
+msgid "あはは　なにそれー"
+msgstr "What is that?"
+
+msgctxt "22049"
+msgid "ここなんだけどさ"
+msgstr "I'm here"
+
+msgctxt "22066"
+msgid "ちょっと見てっていい？"
+msgstr "Can I take a look?"
+
+msgctxt "22089"
+msgid "ふざけるなよ"
+msgstr "Don't be silly"
+
+msgctxt "22102"
+msgid "やめとけって"
+msgstr "Stop it"
+
+msgctxt "22115"
+msgid "いろいろゴメンな"
+msgstr "I'm sorry"
+
+msgctxt "22132"
+msgid "自信持って　な？"
+msgstr "Are you confident?"
+
+msgctxt "22149"
+msgid "また喧嘩？"
+msgstr "Fight again?"
+
+msgctxt "22160"
+msgid "今日はついてたなぁ～"
+msgstr "I was on today ~"
+
+msgctxt "22181"
+msgid "ごちそうさまです！"
+msgstr "Thanks for the meal!"
+
+msgctxt "22200"
+msgid "まぁいいじゃん"
+msgstr "It's okay"
+
+msgctxt "22215"
+msgid "いやーたまらん"
+msgstr "No, I don't like it"
+
+msgctxt "22230"
+msgid "ごめん　忘れてた"
+msgstr "I'm sorry I forgot"
+
+msgctxt "22247"
+msgid "え　なになに？"
+msgstr "What?"
+
+msgctxt "22262"
+msgid "前に会った時はさぁ……"
+msgstr "When I met you before ..."
+
+msgctxt "22285"
+msgid "今度　もう一回勝負しろよー"
+msgstr "Let's play again this time!"
+
+msgctxt "22312"
+msgid "へぇ大変だなぁ"
+msgstr "It's hard"
+
+msgctxt "22327"
+msgid "暇だねぇ"
+msgstr "I'm free"
+
+msgctxt "22336"
+msgid "あぁ　奉公へ出したんですよ"
+msgstr "Ah, I sent it to the apprenticeship"
+
+msgctxt "22363"
+msgid "それ　お前の悪いクセだよ"
+msgstr "That's your bad habit"
+
+msgctxt "22388"
+msgid "まだ若いのに……"
+msgstr "I'm still young ..."
+
+msgctxt "22405"
+msgid "どうもどうも"
+msgstr "Thank you very much"
+
+msgctxt "22418"
+msgid "いやーまいった"
+msgstr "No"
+
+msgctxt "22433"
+msgid "取り返せると思ったのになぁ"
+msgstr "I thought I could get it back"
+
+msgctxt "22460"
+msgid "ここで食べてくか……"
+msgstr "Would you like to eat here ..."
+
+msgctxt "22481"
+msgid "細かい事気にすんなよ"
+msgstr "Don't worry about the details"
+
+msgctxt "22502"
+msgid "飲みすぎだな　お前"
+msgstr "You drank too much"
+
+msgctxt "22521"
+msgid "いい加減だなぁ"
+msgstr "It's sloppy"
+
+msgctxt "22536"
+msgid "この後　仕事？"
+msgstr "Work after this?"
+
+msgctxt "22551"
+msgid "お互い年とったねー"
+msgstr "We're both old"
+
+msgctxt "22570"
+msgid "あれが楽しみなんですわ"
+msgstr "I'm looking forward to that"
+
+msgctxt "22593"
+msgid "大丈夫でした？"
+msgstr "It was okay?"
+
+msgctxt "22608"
+msgid "勘弁してくださいよ"
+msgstr "Please forgive me"
+
+msgctxt "22627"
+msgid "おまえ　バカだなぁ～"
+msgstr "You're stupid ~"
+
+msgctxt "22648"
+msgid "そうは言ってもねぇ"
+msgstr "I can't say that"
+
+msgctxt "22667"
+msgid "最近　はやってるんですよ"
+msgstr "I'm doing it these days"
+
+msgctxt "22692"
+msgid "へぇ　じゃぁしばらく寂しねぇ"
+msgstr "I'm not lonely for a while"
+
+msgctxt "22721"
+msgid "もう頑張るしかないな"
+msgstr "I have no choice but to do my best"
+
+msgctxt "22742"
+msgid "お久しぶりです"
+msgstr "Long time no see"
+
+msgctxt "22757"
+msgid "最近面白いことあった？"
+msgstr "Have you had any interesting things lately?"
+
+msgctxt "22780"
+msgid "腹減った～"
+msgstr "I'm hungry ~"
+
+msgctxt "22791"
+msgid "それ好きだね～"
+msgstr "I like it ~"
+
+msgctxt "22806"
+msgid "へーなるほどねー"
+msgstr "I see"
+
+msgctxt "22823"
+msgid "昨日飲みすぎたなぁ"
+msgstr "I drank too much yesterday"
+
+msgctxt "22842"
+msgid "さっきの子　可愛かったなぁ"
+msgstr "The child I just mentioned was cute"
+
+msgctxt "22869"
+msgid "はい　任せてください"
+msgstr "Yes leave it to me"
+
+msgctxt "22890"
+msgid "うん　それで？"
+msgstr "Yeah then?"
+
+msgctxt "22905"
+msgid "ハハハ！"
+msgstr "Hahaha!"
+
+msgctxt "22914"
+msgid "いやいや　本気だって"
+msgstr "No, I'm serious"
+
+msgctxt "22935"
+msgid "またまたぁ"
+msgstr "See you again"
+
+msgctxt "22946"
+msgid "いいねぇそれ！"
+msgstr "Good it!"
+
+msgctxt "22961"
+msgid "はぁ……ついてないなぁ"
+msgstr "Hmm ... I don't have it"
+
+msgctxt "22984"
+msgid "あーまたすっちまった！"
+msgstr "Ah, it's gone again!"
+
+msgctxt "23007"
+msgid "奢ってくれるよな？"
+msgstr "Will you give me a favor?"
+
+msgctxt "23026"
+msgid "あー調子わりぃ"
+msgstr "Ah"
+
+msgctxt "23041"
+msgid "え　何だっけそれ?"
+msgstr "What's that?"
+
+msgctxt "23059"
+msgid "聞いてんのかよ　おい？"
+msgstr "Are you listening?"
+
+msgctxt "23082"
+msgid "あーゆーのグッとくるよな"
+msgstr "Ah, it's coming"
+
+msgctxt "23107"
+msgid "お世辞なのにさ―"
+msgstr "Even though it's flattering-"
+
+msgctxt "23124"
+msgid "あれ　イカサマだろ？"
+msgstr "That's crazy, isn't it?"
+
+msgctxt "23145"
+msgid "大丈夫　大丈夫！"
+msgstr "It's okay!"
+
+msgctxt "23162"
+msgid "ねぇねぇ"
+msgstr "Hey hey"
+
+msgctxt "23171"
+msgid "すごいわぁ！"
+msgstr "Wow!"
+
+msgctxt "23184"
+msgid "あれ　かわいい！"
+msgstr "That's cute!"
+
+msgctxt "23201"
+msgid "はぁ……もうやだ"
+msgstr "Hmm ... no more"
+
+msgctxt "23218"
+msgid "そうですねぇ"
+msgstr "Yeah"
+
+msgctxt "23231"
+msgid "ふふふっ"
+msgstr "Fufufu"
+
+msgctxt "23240"
+msgid "面白い話してよ～"
+msgstr "Tell me an interesting story ~"
+
+msgctxt "23257"
+msgid "話聞いてくれてありがとう"
+msgstr "Thank you for listening"
+
+msgctxt "23282"
+msgid "やーん　久しぶり～"
+msgstr "It's been a long time"
+
+msgctxt "23301"
+msgid "よかったねぇ！"
+msgstr "I'm glad!"
+
+msgctxt "23316"
+msgid "ちょっと待ってて"
+msgstr "Wait a minute"
+
+msgctxt "23333"
+msgid "ごちそうさまー"
+msgstr "Feast"
+
+msgctxt "23348"
+msgid "あーわかるー"
+msgstr "I understand"
+
+msgctxt "23361"
+msgid "もう　いじわるねぇ"
+msgstr "I'm not messing around anymore"
+
+msgctxt "23380"
+msgid "えぇ最近仲良くしてます"
+msgstr "Yeah, I'm getting along recently"
+
+msgctxt "23403"
+msgid "あれいいよね"
+msgstr "That's good"
+
+msgctxt "23416"
+msgid "そろそろ帰ろうよ"
+msgstr "Let's go home soon"
+
+msgctxt "23433"
+msgid "それでどうしたの？"
+msgstr "So what happened?"
+
+msgctxt "23452"
+msgid "そんな時もあるって"
+msgstr "There are times like that"
+
+msgctxt "23471"
+msgid "今度遊びにおいでよ"
+msgstr "Come play next time"
+
+msgctxt "23490"
+msgid "寂しがってたよー"
+msgstr "I was lonely"
+
+msgctxt "23507"
+msgid "元気だった？"
+msgstr "How have you been?"
+
+msgctxt "23520"
+msgid "もうーしょうがないなぁ"
+msgstr "I can't help it anymore"
+
+msgctxt "23543"
+msgid "買ってくるの忘れてたわ……"
+msgstr "I forgot to buy it ..."
+
+msgctxt "23570"
+msgid "また来ようね"
+msgstr "Let's come again"
+
+msgctxt "23583"
+msgid "お腹すいたねー"
+msgstr "I'm hungry"
+
+msgctxt "23598"
+msgid "あれ　おいしそうだね"
+msgstr "That looks delicious"
+
+msgctxt "23619"
+msgid "それ似合うね"
+msgstr "It suits you"
+
+msgctxt "23632"
+msgid "そういうの困るね"
+msgstr "I'm in trouble like that"
+
+msgctxt "23649"
+msgid "あはは　なにそれー"
+msgstr "What is that?"
+
+msgctxt "23668"
+msgid "ホンマに？"
+msgstr "really?"
+
+msgctxt "23679"
+msgid "またまた～"
+msgstr "Again ~"
+
+msgctxt "23690"
+msgid "おおきに"
+msgstr "Big"
+
+msgctxt "23699"
+msgid "ほな　行こか"
+msgstr "Hona Ikoka"
+
+msgctxt "23712"
+msgid "癒されるわ"
+msgstr "I'll be healed"
+
+msgctxt "23723"
+msgid "それや！"
+msgstr "That's it!"
+
+msgctxt "23732"
+msgid "陽気やなぁ"
+msgstr "Cheerful"
+
+msgctxt "23743"
+msgid "繁盛してますなぁ"
+msgstr "It's prosperous"
+
+msgctxt "23760"
+msgid "良かったなぁ"
+msgstr "It was good"
+
+msgctxt "23773"
+msgid "それ　どこで買うたん？"
+msgstr "Where did you buy it?"
+
+msgctxt "23796"
+msgid "そろそろ帰らな"
+msgstr "It's about time to go home"
+
+msgctxt "23811"
+msgid "はぁ…"
+msgstr "Hmm ..."
+
+msgctxt "23818"
+msgid "ほな　また"
+msgstr "Honamata"
+
+msgctxt "23829"
+msgid "せやったんかぁ"
+msgstr "Did you do it?"
+
+msgctxt "23844"
+msgid "そうやなぁ"
+msgstr "Yeah"
+
+msgctxt "23855"
+msgid "せっかちやなぁ"
+msgstr "I'm impatient"
+
+msgctxt "23870"
+msgid "ふぅ"
+msgstr "Fu"
+
+msgctxt "23875"
+msgid "少し休もか？"
+msgstr "Do you have a little rest?"
+
+msgctxt "23888"
+msgid "ここで休んでいこか"
+msgstr "Can i rest here"
+
+msgctxt "23907"
+msgid "せわしないなぁ"
+msgstr "I'm not busy"
+
+msgctxt "23922"
+msgid "何か食べてこうや"
+msgstr "Let's eat something"
+
+msgctxt "23939"
+msgid "やかましいなぁ"
+msgstr "It's noisy"
+
+msgctxt "23954"
+msgid "気ぃつけてな"
+msgstr "Be careful"
+
+msgctxt "23967"
+msgid "なんやて！"
+msgstr "What!"
+
+msgctxt "23978"
+msgid "ほな　これもらうわ"
+msgstr "I'll get this"
+
+msgctxt "23997"
+msgid "えらいこっちゃ！"
+msgstr "Great!"
+
+msgctxt "24014"
+msgid "はよせんかい！"
+msgstr "Good morning!"
+
+msgctxt "24029"
+msgid "昔は良かったのう"
+msgstr "It used to be good"
+
+msgctxt "24046"
+msgid "あははっ"
+msgstr "Ahaha"
+
+msgctxt "24055"
+msgid "にぎやかやねぇ"
+msgstr "It's lively"
+
+msgctxt "24070"
+msgid "いややねぇ"
+msgstr "No no"
+
+msgctxt "24081"
+msgid "お世辞ばっかり"
+msgstr "Just flattery"
+
+msgctxt "24096"
+msgid "お茶でも飲んでいきましょうか"
+msgstr "Shall we drink tea?"
+
+msgctxt "24125"
+msgid "ほな　お先に"
+msgstr "First"
+
+msgctxt "24138"
+msgid "そろそろやね"
+msgstr "It's about time"
+
+msgctxt "24151"
+msgid "ごめんください"
+msgstr "Excuse me"
+
+msgctxt "24166"
+msgid "はれぼれする歌やったわぁ"
+msgstr "I did a screaming song"
+
+msgctxt "24191"
+msgid "そうやねぇ"
+msgstr "Yeah"
+
+msgctxt "24202"
+msgid "もう一軒いきはる？"
+msgstr "Do you have another house?"
+
+msgctxt "24221"
+msgid "一息つこか"
+msgstr "Take a break"
+
+msgctxt "24232"
+msgid "呆れてまうわ……"
+msgstr "I'm amazed ..."
+
+msgctxt "24249"
+msgid "それホンマですの？"
+msgstr "Is that true?"
+
+msgctxt "24268"
+msgid "ええ湯やったねぇ"
+msgstr "Yeah, I did hot water"
+
+msgctxt "24285"
+msgid "ほんまやねぇ"
+msgstr "Really"
+
+msgctxt "24298"
+msgid "今日はおごったるわ！"
+msgstr "It's a big deal today!"
+
+msgctxt "24319"
+msgid "元気ええなぁ！"
+msgstr "I'm fine!"
+
+msgctxt "24334"
+msgid "めでたいなぁ！"
+msgstr "Congratulations!"
+
+msgctxt "24349"
+msgid "あっはっはっは！"
+msgstr "Ahahahaha!"
+
+msgctxt "24366"
+msgid "しゃーないなぁ"
+msgstr "I don't know"
+
+msgctxt "24381"
+msgid "酒でも飲んでこか"
+msgstr "Do you drink alcohol?"
+
+msgctxt "24398"
+msgid "ちょっと寄ってこか"
+msgstr "Come a little closer"
+
+msgctxt "24417"
+msgid "旨かったなぁ"
+msgstr "It was delicious"
+
+msgctxt "24430"
+msgid "飯でも食うていこか"
+msgstr "Can I eat even rice?"
+
+msgctxt "24449"
+msgid "この辺りか？"
+msgstr "Is it around here?"
+
+msgctxt "24462"
+msgid "どこや"
+msgstr "Where"
+
+msgctxt "24469"
+msgid "歌いにいこか"
+msgstr "Come to sing"
+
+msgctxt "24482"
+msgid "ええ湯やったなぁ"
+msgstr "Yeah, I did hot water"
+
+msgctxt "24499"
+msgid "なんやねん"
+msgstr "What a hell"
+
+msgctxt "24510"
+msgid "やめときや"
+msgstr "When to stop"
+
+msgctxt "24521"
+msgid "もう一軒つきおうてや"
+msgstr "Another house"
+
+msgctxt "24542"
+msgid "せやった？"
+msgstr "Did you do it?"
+
+msgctxt "24553"
+msgid "それ　ええやん"
+msgstr "Yeah yeah"
+
+msgctxt "24568"
+msgid "土産でも買うてこか"
+msgstr "Can I buy souvenirs?"
+
+msgctxt "24587"
+msgid "どないしたんや？"
+msgstr "What did you do?"
+
+msgctxt "24604"
+msgid "もう一軒いこか！"
+msgstr "Another house!"
+
+msgctxt "24621"
+msgid "ええな！"
+msgstr "Yeah!"
+
+msgctxt "24630"
+msgid "少し休もか？"
+msgstr "Do you have a little rest?"
+
+msgctxt "24643"
+msgid "ここで休んでいこか"
+msgstr "Can i rest here"
+
+msgctxt "24662"
+msgid "せわしないなぁ"
+msgstr "I'm not busy"
+
+msgctxt "24677"
+msgid "何か食べてこうや"
+msgstr "Let's eat something"
+
+msgctxt "24694"
+msgid "やかましいなぁ"
+msgstr "It's noisy"
+
+msgctxt "24709"
+msgid "気ぃつけてな"
+msgstr "Be careful"
+
+msgctxt "24722"
+msgid "なんやて！"
+msgstr "What!"
+
+msgctxt "24733"
+msgid "ほな　これもらうわ"
+msgstr "I'll get this"
+
+msgctxt "24752"
+msgid "はよせんかい！"
+msgstr "Good morning!"
+
+msgctxt "24767"
+msgid "ほんま楽しいなぁ"
+msgstr "It's really fun"
+
+msgctxt "24784"
+msgid "楽しいなぁ"
+msgstr "It's fun"
+
+msgctxt "24795"
+msgid "少しくらいええやん"
+msgstr "A little yeah"
+
+msgctxt "24814"
+msgid "ちょっとだけやん"
+msgstr "Just a little"
+
+msgctxt "24831"
+msgid "ほんま笑いが止まらんわ～"
+msgstr "I can't stop laughing ~"
+
+msgctxt "24856"
+msgid "困ったなぁ……"
+msgstr "I'm in trouble ..."
+
+msgctxt "24871"
+msgid "今日は帰ろか"
+msgstr "Go home today"
+
+msgctxt "24884"
+msgid "ちょっと寄っていこかな"
+msgstr "I wonder if it's a little closer"
+
+msgctxt "24907"
+msgid "嫁はんにしばかれるわ……"
+msgstr "I'll be tied up by my bride ..."
+
+msgctxt "24932"
+msgid "それくらいええやん"
+msgstr "That much yeah"
+
+msgctxt "24951"
+msgid "この店か？"
+msgstr "Is this a store?"
+
+msgctxt "24962"
+msgid "旨いもん食わしたんでぇ"
+msgstr "I ate delicious food"
+
+msgctxt "24985"
+msgid "もう帰らんと"
+msgstr "I'm not going home anymore"
+
+msgctxt "24998"
+msgid "ええ店知っとるで"
+msgstr "Yeah, get to know the store"
+
+msgctxt "25015"
+msgid "今度連れてってや"
+msgstr "Take me next time"
+
+msgctxt "25032"
+msgid "どこの店やったかなぁ"
+msgstr "Where did you go?"
+
+msgctxt "25053"
+msgid "あそこの店はやめとき"
+msgstr "When you quit the store over there"
+
+msgctxt "25074"
+msgid "ん？　通りすぎたか？"
+msgstr "Hmm? Did you pass by?"
+
+msgctxt "25095"
+msgid "ええやないか"
+msgstr "Yeah"
+
+msgctxt "25108"
+msgid "少しだけやん"
+msgstr "Just a little"
+
+msgctxt "25121"
+msgid "今日は奢ったんで"
+msgstr "I'm hungry today"
+
+msgctxt "25138"
+msgid "久しぶりやなぁ"
+msgstr "It's been a long time"
+
+msgctxt "25153"
+msgid "何か食っていこか？"
+msgstr "Are you eating something?"
+
+msgctxt "25172"
+msgid "何か買うて帰ろうか"
+msgstr "Should i buy something and go home"
+
+msgctxt "25191"
+msgid "あかん　財布忘れたわ……"
+msgstr "I forgot my wallet ..."
+
+msgctxt "25216"
+msgid "どないしたんや？"
+msgstr "What did you do?"
+
+msgctxt "25233"
+msgid "おもろいなぁ"
+msgstr "It's interesting"
+
+msgctxt "25246"
+msgid "気前ええなぁ"
+msgstr "Generous"
+
+msgctxt "25259"
+msgid "まだ歩くんかい……"
+msgstr "Are you still walking ..."
+
+msgctxt "25278"
+msgid "世の中捨てたもんやないなぁ"
+msgstr "I don't want to throw it away in the world"
+
+msgctxt "25305"
+msgid "どこに行くんや"
+msgstr "Where are you going"
+
+msgctxt "25320"
+msgid "なにごとや？"
+msgstr "What?"
+
+msgctxt "25333"
+msgid "ほな　行こか"
+msgstr "Hona Ikoka"
+
+msgctxt "25346"
+msgid "やめとけや"
+msgstr "Stop it"
+
+msgctxt "25357"
+msgid "ええ加減にせえよ"
+msgstr "Yeah"
+
+msgctxt "25374"
+msgid "おもんないなぁ"
+msgstr "I don't know"
+
+msgctxt "25389"
+msgid "寝ぼけとんのか!?"
+msgstr "Is it sleepy !?"
+
+msgctxt "25406"
+msgid "何見とんねん"
+msgstr "What do you see"
+
+msgctxt "25419"
+msgid "おもろいことないかの"
+msgstr "Isn't it interesting?"
+
+msgctxt "25440"
+msgid "そっちはどないな具合や？"
+msgstr "How is it that way?"
+
+msgctxt "25465"
+msgid "この辺で落としたはずなんや……"
+msgstr "I should have dropped it around here ..."
+
+msgctxt "25496"
+msgid "ぼちぼちやわ"
+msgstr "Little by little"
+
+msgctxt "25509"
+msgid "ん？　財布拾ったで！"
+msgstr "Hmm? I picked up my wallet!"
+
+msgctxt "25530"
+msgid "どないせえっちゅうねん"
+msgstr "Don't worry"
+
+msgctxt "25553"
+msgid "それおもろいやん！"
+msgstr "That's funny!"
+
+msgctxt "25572"
+msgid "どないしてくれんねん"
+msgstr "Don't do it"
+
+msgctxt "25593"
+msgid "何か景気ええ話ししてみい"
+msgstr "Let's talk about something"
+
+msgctxt "25618"
+msgid "ここだけの話しやで"
+msgstr "Only here"
+
+msgctxt "25637"
+msgid "なるほど　そうゆうことか"
+msgstr "I see"
+
+msgctxt "25662"
+msgid "どうしろっちゅーねん"
+msgstr "What should I do?"
+
+msgctxt "25683"
+msgid "賭場でも行こか"
+msgstr "Do you go to the gambling house?"
+
+msgctxt "25698"
+msgid "賭場で一稼ぎするか"
+msgstr "Do you make a profit at the gambling house?"
+
+msgctxt "25717"
+msgid "有り金全部すってもた……"
+msgstr "I had all the money I had ..."
+
+msgctxt "25742"
+msgid "今日はぎょうさん稼いだわ"
+msgstr "I earned Gyo-san today"
+
+msgctxt "25767"
+msgid "お前の自慢話しは聞き飽きたわ"
+msgstr "I'm tired of hearing your bragging stories"
+
+msgctxt "25796"
+msgid "まぁ聞けや"
+msgstr "Well listen"
+
+msgctxt "25807"
+msgid "おいおい　それほんまか？"
+msgstr "Hey, is that true?"
+
+msgctxt "25832"
+msgid "怪しいなぁ"
+msgstr "I'm suspicious"
+
+msgctxt "25843"
+msgid "ウソやないで"
+msgstr "Don't lie"
+
+msgctxt "25856"
+msgid "まぁ一杯飲もや"
+msgstr "Well, a drink"
+
+msgctxt "25871"
+msgid "俺の才能が花開いてきたでぇ"
+msgstr "My talent has blossomed"
+
+msgctxt "25898"
+msgid "お前らにはマネできひんやろ"
+msgstr "You can imitate it"
+
+msgctxt "25925"
+msgid "わしは天才や！"
+msgstr "I'm a genius!"
+
+msgctxt "25940"
+msgid "景気ええ話しはないもんかのう"
+msgstr "There is no talk about the economy"
+
+msgctxt "25969"
+msgid "京に来てずいぶん経つなぁ"
+msgstr "It's been a long time since I came to Kyo"
+
+msgctxt "25994"
+msgid "ここや　この店や！"
+msgstr "Here and this store!"
+
+msgctxt "26013"
+msgid "さすが京は違うなぁ"
+msgstr "As expected, Kyo is different"
+
+msgctxt "26032"
+msgid "活気があるなぁ"
+msgstr "It's lively"
+
+msgctxt "26047"
+msgid "ええ景色やな"
+msgstr "Yeah, the scenery"
+
+msgctxt "26060"
+msgid "立派やなぁ"
+msgstr "It ’s fine."
+
+msgctxt "26071"
+msgid "いつか店出したいわ"
+msgstr "I want to open a store someday"
+
+msgctxt "26090"
+msgid "そういうことなんか!?"
+msgstr "Something like that !?"
+
+msgctxt "26111"
+msgid "その手があったな"
+msgstr "I had that hand"
+
+msgctxt "26128"
+msgid "それや　それ！"
+msgstr "That or that!"
+
+msgctxt "26143"
+msgid "ちょっ　驚かすなや！"
+msgstr "Don't be a little surprised!"
+
+msgctxt "26164"
+msgid "さっぱりしたわ"
+msgstr "It was refreshing"
+
+msgctxt "26179"
+msgid "それはないんとちゃうか？"
+msgstr "Isn't it?"
+
+msgctxt "26204"
+msgid "どんだけ腹減ってんねん"
+msgstr "I'm just hungry"
+
+msgctxt "26227"
+msgid "しゃーない　案内したるわ"
+msgstr "I'll show you around"
+
+msgctxt "26252"
+msgid "うちもこの辺に住みたいわ"
+msgstr "I want to live in this area too"
+
+msgctxt "26277"
+msgid "そんなええ話しがあるんやね"
+msgstr "There is such a story"
+
+msgctxt "26304"
+msgid "ちょっと聞いてや"
+msgstr "Just ask"
+
+msgctxt "26321"
+msgid "まぁまぁやな"
+msgstr "Okay"
+
+msgctxt "26334"
+msgid "あとで手伝ってや"
+msgstr "Help me later"
+
+msgctxt "26351"
+msgid "ほな　あとで行こうか"
+msgstr "Let's go later"
+
+msgctxt "26372"
+msgid "あかん！　用事があったんやった！"
+msgstr "Akan! I had something to do!"
+
+msgctxt "26405"
+msgid "その店は絶品なんやで"
+msgstr "The store is exquisite"
+
+msgctxt "26426"
+msgid "一緒に行くか？"
+msgstr "Would you like to go with me?"
+
+msgctxt "26441"
+msgid "そないな話しがあるもんか"
+msgstr "Is there a story that isn't right?"
+
+msgctxt "26466"
+msgid "いつか買うたるで"
+msgstr "I will buy it someday"
+
+msgctxt "26483"
+msgid "ホンマに？"
+msgstr "really?"
+
+msgctxt "26494"
+msgid "またまた～"
+msgstr "Again ~"
+
+msgctxt "26505"
+msgid "おおきに"
+msgstr "Big"
+
+msgctxt "26514"
+msgid "ほな　行こか"
+msgstr "Hona Ikoka"
+
+msgctxt "26527"
+msgid "癒されるわ"
+msgstr "I'll be healed"
+
+msgctxt "26538"
+msgid "それや！"
+msgstr "That's it!"
+
+msgctxt "26547"
+msgid "陽気やなぁ"
+msgstr "Cheerful"
+
+msgctxt "26558"
+msgid "繁盛してますなぁ"
+msgstr "It's prosperous"
+
+msgctxt "26575"
+msgid "良かったなぁ"
+msgstr "It was good"
+
+msgctxt "26588"
+msgid "それ　どこで買うたん？"
+msgstr "Where did you buy it?"
+
+msgctxt "26611"
+msgid "そろそろ帰らな"
+msgstr "It's about time to go home"
+
+msgctxt "26626"
+msgid "ほな　また"
+msgstr "Honamata"
+
+msgctxt "26637"
+msgid "せやったんかぁ"
+msgstr "Did you do it?"
+
+msgctxt "26652"
+msgid "そうやなぁ"
+msgstr "Yeah"
+
+msgctxt "26663"
+msgid "せっかちやなぁ"
+msgstr "I'm impatient"
+
+msgctxt "26678"
+msgid "ええやないですか"
+msgstr "Yeah not"
+
+msgctxt "26695"
+msgid "それええねぇ"
+msgstr "That's not right"
+
+msgctxt "26708"
+msgid "いけずやなぁ"
+msgstr "I don't like it"
+
+msgctxt "26721"
+msgid "明るいお人ですねぇ"
+msgstr "You're a bright person"
+
+msgctxt "26740"
+msgid "そうやねぇ"
+msgstr "Yeah"
+
+msgctxt "26751"
+msgid "縁起がええなぁ"
+msgstr "Good luck"
+
+msgctxt "26766"
+msgid "にぎやかな町やねぇ"
+msgstr "It's a busy town"
+
+msgctxt "26785"
+msgid "ええ天気やね"
+msgstr "Yeah the weather"
+
+msgctxt "26798"
+msgid "景気ええねぇ"
+msgstr "The economy is not good"
+
+msgctxt "26811"
+msgid "あんたばっかりやん"
+msgstr "You're the only one"
+
+msgctxt "26830"
+msgid "うちも買うて行こうかな"
+msgstr "I wonder if we should buy it too"
+
+msgctxt "26853"
+msgid "感動したわ"
+msgstr "I was impressed"
+
+msgctxt "26864"
+msgid "うちも欲しいわ"
+msgstr "I want you too"
+
+msgctxt "26879"
+msgid "いつもそうやん……"
+msgstr "Always so ..."
+
+msgctxt "26898"
+msgid "これ　どうにかしてや"
+msgstr "Somehow this"
+
+msgctxt "26919"
+msgid "はよ行かんと"
+msgstr "Let's go"
+
+msgctxt "26932"
+msgid "いややねぇ"
+msgstr "No no"
+
+msgctxt "26943"
+msgid "お世辞ばっかり"
+msgstr "Just flattery"
+
+msgctxt "26958"
+msgid "お茶でも飲んでいきましょうか"
+msgstr "Shall we drink tea?"
+
+msgctxt "26987"
+msgid "ほな　お先に"
+msgstr "First"
+
+msgctxt "27000"
+msgid "そろそろやね"
+msgstr "It's about time"
+
+msgctxt "27013"
+msgid "ごめんください"
+msgstr "Excuse me"
+
+msgctxt "27028"
+msgid "そうやねぇ"
+msgstr "Yeah"
+
+msgctxt "27039"
+msgid "もう一軒いきはる？"
+msgstr "Do you have another house?"
+
+msgctxt "27058"
+msgid "一息つこか"
+msgstr "Take a break"
+
+msgctxt "27069"
+msgid "呆れてまうわ……"
+msgstr "I'm amazed ..."
+
+msgctxt "27086"
+msgid "それホンマですの？"
+msgstr "Is that true?"
+
+msgctxt "27105"
+msgid "ええ湯やったねぇ"
+msgstr "Yeah, I did hot water"
+
+msgctxt "27122"
+msgid "ほんまやねぇ"
+msgstr "Really"
+
+msgctxt "27135"
+msgid "ほな　また今度"
+msgstr "Hona again this time"
+
+msgctxt "27150"
+msgid "さっきの店か？"
+msgstr "Is it the store just before?"
+
+msgctxt "27165"
+msgid "たまにはええですねぇ"
+msgstr "Sometimes yeah"
+
+msgctxt "27186"
+msgid "あとで落ち合おか"
+msgstr "Oka Oka later"
+
+msgctxt "27203"
+msgid "さっさとしぃや"
+msgstr "Quickly"
+
+msgctxt "27218"
+msgid "そなあほな"
+msgstr "Sona Ahona"
+
+msgctxt "27229"
+msgid "そないなこと言われても……"
+msgstr "Even if you say something wrong ..."
+
+msgctxt "27256"
+msgid "そうしましょか"
+msgstr "Is that so?"
+
+msgctxt "27271"
+msgid "あかん言うたやろうが"
+msgstr "I'll tell you"
+
+msgctxt "27292"
+msgid "この話しには続きがあるんやで"
+msgstr "There is a continuation of this story"
+
+msgctxt "27321"
+msgid "うちもあんな家に住みたいわ"
+msgstr "I want to live in such a house"
+
+msgctxt "27348"
+msgid "えらい立派な建物やなぁ"
+msgstr "It ’s a great building."
+
+msgctxt "27371"
+msgid "これ　最近買うたんよ"
+msgstr "I bought this recently"
+
+msgctxt "27392"
+msgid "優しいなぁ"
+msgstr "It's kind"
+
+msgctxt "27403"
+msgid "穏やかやなぁ"
+msgstr "It's calm"
+
+msgctxt "27416"
+msgid "落ち着くわ"
+msgstr "Calm down"
+
+msgctxt "27427"
+msgid "この道さっきも通らへんかったか？"
+msgstr "Did you not go through this road a while ago?"
+
+msgctxt "27460"
+msgid "近道して行こか"
+msgstr "Let's take a shortcut"
+
+msgctxt "27475"
+msgid "まさかとは思っとったけど"
+msgstr "I thought it wasn't"
+
+msgctxt "27500"
+msgid "やっと思い出したわ"
+msgstr "I finally remembered"
+
+msgctxt "27519"
+msgid "えらい綺麗な人やね"
+msgstr "A very beautiful person"
+
+msgctxt "27538"
+msgid "ホンマに？"
+msgstr "really?"
+
+msgctxt "27549"
+msgid "またまた～"
+msgstr "Again ~"
+
+msgctxt "27560"
+msgid "おおきに"
+msgstr "Big"
+
+msgctxt "27569"
+msgid "ほな　行こか"
+msgstr "Hona Ikoka"
+
+msgctxt "27582"
+msgid "癒されるわ"
+msgstr "I'll be healed"
+
+msgctxt "27593"
+msgid "それや"
+msgstr "Or"
+
+msgctxt "27600"
+msgid "陽気やなぁ"
+msgstr "Cheerful"
+
+msgctxt "27611"
+msgid "繁盛してますなぁ"
+msgstr "It's prosperous"
+
+msgctxt "27628"
+msgid "良かったなぁ"
+msgstr "It was good"
+
+msgctxt "27641"
+msgid "それ　どこで買うたん？"
+msgstr "Where did you buy it?"
+
+msgctxt "27664"
+msgid "そろそろ帰らな"
+msgstr "It's about time to go home"
+
+msgctxt "27679"
+msgid "はぁ…"
+msgstr "Hmm ..."
+
+msgctxt "27686"
+msgid "ほな　また"
+msgstr "Honamata"
+
+msgctxt "27697"
+msgid "せやったんかぁ"
+msgstr "Did you do it?"
+
+msgctxt "27712"
+msgid "そうやなぁ"
+msgstr "Yeah"
+
+msgctxt "27723"
+msgid "せっかちやなぁ"
+msgstr "I'm impatient"
+
+msgctxt "27738"
+msgid "せやな"
+msgstr "Sayana"
+
+msgctxt "27745"
+msgid "先に行ってんで！"
+msgstr "Go ahead!"
+
+msgctxt "27762"
+msgid "うちもまぜて"
+msgstr "Mix us"
+
+msgctxt "27775"
+msgid "遊びに行こうや！"
+msgstr "Let's go play!"
+
+msgctxt "27792"
+msgid "よっしゃ！"
+msgstr "Alright!"
+
+msgctxt "27803"
+msgid "まかしとき！"
+msgstr "When you make a mistake!"
+
+msgctxt "27816"
+msgid "はよしぃや"
+msgstr "Hayoshiya"
+
+msgctxt "27827"
+msgid "ちょっと待ち～"
+msgstr "Wait a minute ~"
+
+msgctxt "27842"
+msgid "おなかすいたなぁ"
+msgstr "I'm hungry"
+
+msgctxt "27859"
+msgid "ウソとちゃうもん！"
+msgstr "I'm lying!"
+
+msgctxt "27878"
+msgid "いくでぇ"
+msgstr "I'm going"
+
+msgctxt "27887"
+msgid "ホンマやで"
+msgstr "Honmadekka"
+
+msgctxt "27898"
+msgid "なぁ"
+msgstr "I see"
+
+msgctxt "27903"
+msgid "まって～"
+msgstr "Wait ~"
+
+msgctxt "27912"
+msgid "これ買うて～"
+msgstr "Buy this ~"
+
+msgctxt "27925"
+msgid "もう一回言うて"
+msgstr "Say it again"
+
+msgctxt "27940"
+msgid "そうなん？"
+msgstr "Is that so?"
+
+msgctxt "27951"
+msgid "うちもいれてよ"
+msgstr "Please put us in"
+
+msgctxt "27966"
+msgid "あれも欲しい～"
+msgstr "I want that too ~"
+
+msgctxt "27981"
+msgid "遊ばへん？"
+msgstr "Don't you play?"
+
+msgctxt "27992"
+msgid "あっち行こう"
+msgstr "Let's go over there"
+
+msgctxt "28005"
+msgid "少し休もうか？"
+msgstr "Do you want to take a break?"
+
+msgctxt "28020"
+msgid "そうだなぁ"
+msgstr "That's right"
+
+msgctxt "28031"
+msgid "じゃあ　行くか"
+msgstr "Then go"
+
+msgctxt "28046"
+msgid "はははっ！"
+msgstr "Hahaha!"
+
+msgctxt "28057"
+msgid "あいつ　どこに行った？"
+msgstr "Where did he go?"
+
+msgctxt "28080"
+msgid "なんやねん"
+msgstr "What a hell"
+
+msgctxt "28091"
+msgid "やめとけ"
+msgstr "Stop"
+
+msgctxt "28100"
+msgid "おいお前！　喧嘩売ってるんか！"
+msgstr "Hey you! Are you fighting and selling!"
+
+msgctxt "28131"
+msgid "刀の手入れを怠るなよ"
+msgstr "Don't neglect to take care of your sword"
+
+msgctxt "28152"
+msgid "ちょろいもんやでぇ"
+msgstr "Choroimon yade"
+
+msgctxt "28171"
+msgid "斬りまくってやるぜ"
+msgstr "I'll slash it"
+
+msgctxt "28190"
+msgid "腹が減って仕方ないわ"
+msgstr "I'm hungry"
+
+msgctxt "28211"
+msgid "その態度はなんだ！"
+msgstr "What is that attitude!"
+
+msgctxt "28230"
+msgid "文句あるんか！"
+msgstr "Do you have any complaints!"
+
+msgctxt "28245"
+msgid "何こっち見てるんや！"
+msgstr "What are you looking at here!"
+
+msgctxt "28266"
+msgid "体がウズウズするわ"
+msgstr "My body is sick"
+
+msgctxt "28285"
+msgid "もっと剣の腕を磨かなくては"
+msgstr "I have to improve my sword's arm"
+
+msgctxt "28312"
+msgid "もっと腕の立つ奴と戦いたい"
+msgstr "I want to fight a more skilled guy"
+
+msgctxt "28339"
+msgid "体が鈍ってしまうわ"
+msgstr "I'm getting dull"
+
+msgctxt "28358"
+msgid "気楽な奴らだ"
+msgstr "Easygoing guys"
+
+msgctxt "28371"
+msgid "お前達　気が緩んでるぞ！"
+msgstr "You guys are relaxed!"
+
+msgctxt "28396"
+msgid "あー　だるい……"
+msgstr "Ah ..."
+
+msgctxt "28413"
+msgid "血が騒ぐな"
+msgstr "Don't make a noise with blood"
+
+msgctxt "28424"
+msgid "お前ら　気を抜くなよ"
+msgstr "Don't let your guard down"
+
+msgctxt "28445"
+msgid "剣の腕じゃ負ける気がしないわ"
+msgstr "I don't feel like losing with my sword arm"
+
+msgctxt "28474"
+msgid "今度俺と勝負しようや"
+msgstr "Let's play against me next time"
+
+msgctxt "28495"
+msgid "訓練なんて面倒くせぇ"
+msgstr "Training is a hassle"
+
+msgctxt "28516"
+msgid "飯でも食うか"
+msgstr "Do you eat with rice?"
+
+msgctxt "28529"
+msgid "近くに茶屋があったな"
+msgstr "There was a teahouse nearby"
+
+msgctxt "28550"
+msgid "ん？　用でもあんのか？"
+msgstr "Hmm? Is it also for use?"
+
+msgctxt "28573"
+msgid "まだまだだな"
+msgstr "Still more"
+
+msgctxt "28586"
+msgid "馬鹿らしい"
+msgstr "Stupid"
+
+msgctxt "28597"
+msgid "屯所内で騒ぐな！"
+msgstr "Don't make a noise in the tunsho!"
+
+msgctxt "28614"
+msgid "気が滅入るわ……"
+msgstr "I'm depressed ..."
+
+msgctxt "28631"
+msgid "面倒だな"
+msgstr "It's a hassle"
+
+msgctxt "28640"
+msgid "賭場にでも行くか"
+msgstr "Do you go to the gambling house"
+
+msgctxt "28657"
+msgid "お前　酒を隠し持ってるだろ！"
+msgstr "You have a secret drink!"
+
+msgctxt "28686"
+msgid "グズグズするな！"
+msgstr "Don't mess up!"
+
+msgctxt "28703"
+msgid "馬鹿者が！"
+msgstr "A fool!"
+
+msgctxt "28714"
+msgid "くそっ　古傷が痛む……"
+msgstr "Damn old wounds hurt ..."
+
+msgctxt "28737"
+msgid "志は高く持て！"
+msgstr "Keep your ambition high!"
+
+msgctxt "28752"
+msgid "馬鹿にしやがって！"
+msgstr "Be stupid!"
+
+msgctxt "28771"
+msgid "生意気なやつだ"
+msgstr "Cheeky guy"
+
+msgctxt "28786"
+msgid "武士道？　古臭い事を"
+msgstr "Bushido? Old-fashioned things"
+
+msgctxt "28807"
+msgid "飲みに行くか"
+msgstr "Do you go drinking"
+
+msgctxt "28820"
+msgid "気楽なもんだな"
+msgstr "It's easy"
+
+msgctxt "28835"
+msgid "どけ　邪魔や"
+msgstr "Get in the way"
+
+msgctxt "28848"
+msgid "俺は持ってる男や"
+msgstr "I have a man"
+
+msgctxt "28865"
+msgid "それは命令か？"
+msgstr "Is it an instruction?"
+
+msgctxt "28880"
+msgid "命令なら仕方ないな"
+msgstr "It can't be helped if it's an order"
+
+msgctxt "28899"
+msgid "ん？　お前も飲むか？"
+msgstr "Hmm? Do you drink too?"
+
+msgctxt "28920"
+msgid "お前　故郷はどこだ？"
+msgstr "Where is your hometown?"
+
+msgctxt "28941"
+msgid "やかましいな"
+msgstr "Noisy"
+
+msgctxt "28954"
+msgid "休むとするか"
+msgstr "Do you want to rest"
+
+msgctxt "28967"
+msgid "俺は剣の腕がからっきしで……"
+msgstr "I have a sword arm ..."
+
+msgctxt "28996"
+msgid "故郷が懐かしいな"
+msgstr "I miss my hometown"
+
+msgctxt "29013"
+msgid "早く切り上げて飯にするぞ"
+msgstr "I'll round it up quickly and make it into rice"
+
+msgctxt "29038"
+msgid "真面目にやるだけ馬鹿らしい"
+msgstr "It's just stupid to do it seriously"
+
+msgctxt "29065"
+msgid "ん？　刃こぼれしてるぞ"
+msgstr "Hmm? The blade is spilling"
+
+msgctxt "29088"
+msgid "その程度の怪我で良かったな"
+msgstr "I'm glad I was injured to that extent"
+
+msgctxt "29115"
+msgid "次は俺の番だな"
+msgstr "Next is my turn"
+
+msgctxt "29130"
+msgid "のどが渇いた　少し休むか"
+msgstr "I'm thirsty"
+
+msgctxt "29155"
+msgid "疲れた……"
+msgstr "I'm exhausted……"
+
+msgctxt "29166"
+msgid "程々にしておけよ"
+msgstr "Keep it in moderation"
+
+msgctxt "29183"
+msgid "怪我の具合はどうだ？"
+msgstr "How are you injured?"
+
+msgctxt "29204"
+msgid "どないしたんや？"
+msgstr "What did you do?"
+
+msgctxt "29221"
+msgid "どんなもんだ！"
+msgstr "What is it!"
+
+msgctxt "29236"
+msgid "ええ加減な事ぬかすな！"
+msgstr "Yeah, don't be fooled!"
+
+msgctxt "29259"
+msgid "頼む　黙っといてくれ……"
+msgstr "Please keep quiet ..."
+
+msgctxt "29284"
+msgid "これは貸しやでぇ"
+msgstr "This is a loan"
+
+msgctxt "29301"
+msgid "ここだけの話だぞ"
+msgstr "It's a story only here"
+
+msgctxt "29318"
+msgid "俺にも酒くれや"
+msgstr "Give me a drink"
+
+msgctxt "29333"
+msgid "さすがだな"
+msgstr "Just as expected"
+
+msgctxt "29344"
+msgid "ちょっと相手をしてくれないか"
+msgstr "Can you give me a little partner"
+
+msgctxt "29373"
+msgid "刀振り回したくて仕方ないわ"
+msgstr "I can't help but want to swing my sword"
+
+msgctxt "29400"
+msgid "どっちが強いか試してみるか？"
+msgstr "Would you like to try which one is stronger?"
+
+msgctxt "29429"
+msgid "負けた方の奢りやで"
+msgstr "In the grace of the loser"
+
+msgctxt "29448"
+msgid "どうなってんだ"
+msgstr "What's going on"
+
+msgctxt "29463"
+msgid "酒が飲みたいぜ"
+msgstr "I want to drink alcohol"
+
+msgctxt "29478"
+msgid "小賢しい！"
+msgstr "Clever!"
+
+msgctxt "29489"
+msgid "上手く立ち振るまう事も重要だぜ"
+msgstr "It ’s also important to behave well."
+
+msgctxt "29520"
+msgid "見せ掛けだけだろ"
+msgstr "It's just a masquerade"
+
+msgctxt "29537"
+msgid "ん？　見ない顔だな"
+msgstr "Hmm? It's a face I don't see"
+
+msgctxt "29556"
+msgid "新入りか？"
+msgstr "Are you a newcomer?"
+
+msgctxt "29567"
+msgid "そこ退けや　わしの場所や"
+msgstr "Dismissal there and my place"
+
+msgctxt "29592"
+msgid "腕が鈍ってしまうぜ"
+msgstr "My arms are dull"
+
+msgctxt "29611"
+msgid "掃除頼まれてたんだった……"
+msgstr "I was asked to clean ..."
+
+msgctxt "29638"
+msgid "刀を振りとうてしゃーないわ"
+msgstr "I'm not swinging my sword"
+
+msgctxt "29665"
+msgid "お前ら！　見苦しいぞ！"
+msgstr "You guys! It's unsightly!"
+
+msgctxt "29688"
+msgid "実戦ではこうはいかんぞ！"
+msgstr "This is not the case in actual battles!"
+
+msgctxt "29713"
+msgid "これが訓練で良かったな"
+msgstr "I'm glad this was training"
+
+msgctxt "29736"
+msgid "訓練あるのみ"
+msgstr "Only with training"
+
+msgctxt "29749"
+msgid "よし　そろそろ始めるか"
+msgstr "Alright, is it about to start?"
+
+msgctxt "29772"
+msgid "手加減は無しだぞ"
+msgstr "There is no adjustment"
+
+msgctxt "29789"
+msgid "もう一本！"
+msgstr "Another one!"
+
+msgctxt "29805"
+msgid "あぁ……"
+msgstr "Ahh……"
+
+msgctxt "29814"
+msgid "はぁ……"
+msgstr "Hmm ..."
+
+msgctxt "29823"
+msgid "うぅ……"
+msgstr "Uh ..."
+
+msgctxt "29832"
+msgid "腹減った……"
+msgstr "hungry……"
+
+msgctxt "29845"
+msgid "金目のもん落ちてへんか……"
+msgstr "I don't know if the gold is falling ..."
+
+msgctxt "29872"
+msgid "苦しいなぁ……"
+msgstr "It's painful ..."
+
+msgctxt "29887"
+msgid "近寄んなや！"
+msgstr "I'm close!"
+
+msgctxt "29900"
+msgid "わしにも酒くれや……"
+msgstr "Give me a drink ..."
+
+msgctxt "29921"
+msgid "また負けた……"
+msgstr "I lost again ..."
+
+msgctxt "29936"
+msgid "負け続きや……"
+msgstr "Losing continuously ..."
+
+msgctxt "29951"
+msgid "もうアカン……"
+msgstr "Already Akan ……"
+
+msgctxt "29966"
+msgid "俺は悪ない……"
+msgstr "I'm not bad ..."
+
+msgctxt "29981"
+msgid "お前らのせいや！"
+msgstr "It ’s your fault!"
+
+msgctxt "29998"
+msgid "ん？　ゴミか……"
+msgstr "Hmm? Is it garbage ..."
+
+msgctxt "30015"
+msgid "金なくなってもうた……"
+msgstr "I'm out of money ..."
+
+msgctxt "30038"
+msgid "ふざけよって……"
+msgstr "Playfully ..."
+
+msgctxt "30055"
+msgid "裏切られた！"
+msgstr "Betrayed!"
+
+msgctxt "30068"
+msgid "どないなっとんねん！"
+msgstr "Don't miss it!"
+
+msgctxt "30089"
+msgid "酒でも飲みに行こうか"
+msgstr "Let's go drinking with sake"
+
+msgctxt "30110"
+msgid "もうどうにでもなれ……"
+msgstr "Do whatever you want ..."
+
+msgctxt "30133"
+msgid "もう終わりや……"
+msgstr "It's over ..."
+
+msgctxt "30150"
+msgid "気分　悪いわ……"
+msgstr "I feel sick ..."
+
+msgctxt "30167"
+msgid "こないなことになるなんて……"
+msgstr "I don't think it's going to happen ..."
+
+msgctxt "30196"
+msgid "もうどうでもええわ……"
+msgstr "I don't care anymore ..."
+
+msgctxt "30219"
+msgid "酒くれぇ……"
+msgstr "Give me a drink ..."
+
+msgctxt "30232"
+msgid "酒わけてくれぇ……"
+msgstr "Please share the sake ..."
+
+msgctxt "30251"
+msgid "やり返すしかないな！"
+msgstr "I have no choice but to start over!"
+
+msgctxt "30272"
+msgid "どないしよう……"
+msgstr "Let's not go ..."
+
+msgctxt "30289"
+msgid "責任とれや！"
+msgstr "Take responsibility!"
+
+msgctxt "30302"
+msgid "一文無しになってもうた……"
+msgstr "I've lost a sentence ..."
+
+msgctxt "30329"
+msgid "もう終いや……"
+msgstr "It's over ..."
+
+msgctxt "30344"
+msgid "なに見とんねん！"
+msgstr "What are you looking at?"
+
+msgctxt "30361"
+msgid "あっち行けや！"
+msgstr "Go over there!"
+
+msgctxt "30376"
+msgid "どないしよう……"
+msgstr "Let's not go ..."
+
+msgctxt "30393"
+msgid "どないしてくれんねん！"
+msgstr "Please don't do it!"
+
+msgctxt "30416"
+msgid "これ腐っとるやん！"
+msgstr "This is rotten!"
+
+msgctxt "30435"
+msgid "なに寝てんのや！"
+msgstr "What are you sleeping!"
+
+msgctxt "30452"
+msgid "なめとんのか！"
+msgstr "Is it licking!"
+
+msgctxt "30467"
+msgid "こんなもん食えるか！"
+msgstr "Can you eat this much!"
+
+msgctxt "30488"
+msgid "お前誰や？"
+msgstr "Who are you?"
+
+msgctxt "30499"
+msgid "どないしたらええんや……"
+msgstr "If you don't go, eh ..."
+
+msgctxt "30524"
+msgid "どうにでもなってまえ！"
+msgstr "Do whatever you want!"
+
+msgctxt "30547"
+msgid "あぁ明日が見えへん……"
+msgstr "Oh, I can't see tomorrow ..."
+
+msgctxt "30570"
+msgid "どうにかなってまうわ……"
+msgstr "I'll do something about it ..."
+
+msgctxt "30595"
+msgid "金あったらなぁ……"
+msgstr "I wish I had money ..."
+
+msgctxt "30614"
+msgid "金拾った！"
+msgstr "I picked up money!"
+
+msgctxt "30625"
+msgid "ふざけんな！"
+msgstr "Do not be silly!"
+
+msgctxt "30638"
+msgid "どうしろっちゅうねん"
+msgstr "What should I do?"
+
+msgctxt "30659"
+msgid "消えろや！"
+msgstr "Disappear!"
+
+msgctxt "30670"
+msgid "またお前か！"
+msgstr "Oh it's you again!"
+
+msgctxt "30683"
+msgid "昨日からなんも食ってへん……"
+msgstr "I haven't eaten anything since yesterday ..."
+
+msgctxt "30712"
+msgid "知るか！"
+msgstr "who knows!"
+
+msgctxt "30721"
+msgid "クソが！"
+msgstr "Shit!"
+
+msgctxt "30730"
+msgid "いつもこうや……"
+msgstr "Always like this ..."
+
+msgctxt "30747"
+msgid "あっちいけや！"
+msgstr "Over there!"
+
+msgctxt "30762"
+msgid "ん？　なんや石か……"
+msgstr "Hmm? What a stone ..."
+
+msgctxt "30783"
+msgid "酒欲しいねん～！"
+msgstr "I want sake!"
+
+msgctxt "30800"
+msgid "酒くれ！"
+msgstr "Give me a drink!"
+
+msgctxt "30809"
+msgid "せやから酒出せ！"
+msgstr "Sake from Saya!"
+
+msgctxt "30826"
+msgid "あほんだらが！"
+msgstr "Ahondara!"
+
+msgctxt "30841"
+msgid "あ～　眠い……"
+msgstr "Ah, I'm sleepy ..."
+
+msgctxt "30856"
+msgid "殴らんといて……"
+msgstr "Don't hit me ..."
+
+msgctxt "30873"
+msgid "気持ち悪う……"
+msgstr "I feel sick ..."
+
+msgctxt "30888"
+msgid "あ～　損した……　"
+msgstr "Oh, I lost ..."
+
+msgctxt "30907"
+msgid "金は裏切らんなぁ"
+msgstr "Money is not betrayed"
+
+msgctxt "30924"
+msgid "ボッタくられたで……"
+msgstr "I was bogged down ..."
+
+msgctxt "30945"
+msgid "堪忍してや……"
+msgstr "Be patient ..."
+
+msgctxt "30960"
+msgid "その酒よこせや"
+msgstr "That sake"
+
+msgctxt "30975"
+msgid "今日は負けや……"
+msgstr "I lost today ..."
+
+msgctxt "30992"
+msgid "運にも見放されてもうた……"
+msgstr "I was lucky enough to be abandoned ..."
+
+msgctxt "31019"
+msgid "明日からどないしよう……"
+msgstr "Let's not go back tomorrow ..."
+
+msgctxt "31044"
+msgid "まともな奴はおらんのか！"
+msgstr "Do you have a decent guy!"
+
+msgctxt "31069"
+msgid "まだや　まだ負けてへん……"
+msgstr "I still haven't lost ..."
+
+msgctxt "31096"
+msgid "これで最後や……"
+msgstr "This is the last ..."
+
+msgctxt "31113"
+msgid "退屈や……"
+msgstr "Boredom ..."
+
+msgctxt "31124"
+msgid "愚痴しかでえへん"
+msgstr "Only complaints"
+
+msgctxt "31141"
+msgid "なんや？　文句あんのか？"
+msgstr "What? Are you complaining?"
+
+msgctxt "31166"
+msgid "金盗まれてもうた……"
+msgstr "Money was stolen ..."
+
+msgctxt "31187"
+msgid "誰が盗んだんや！"
+msgstr "Who stole it!"
+
+msgctxt "31204"
+msgid "ボロボロやないかい！"
+msgstr "Isn't it tattered?"
+
+msgctxt "31225"
+msgid "昔は名の知れた侍やってんで"
+msgstr "I used to be a well-known samurai"
+
+msgctxt "31252"
+msgid "頭　痛いわ……"
+msgstr "I have a headache ..."
+
+msgctxt "31267"
+msgid "金使い過ぎた……"
+msgstr "I spent too much money ..."
+
+msgctxt "31284"
+msgid "あんな掛けるんやなかった……"
+msgstr "I didn't hang it like that ..."
+
+msgctxt "31313"
+msgid "俺の時間返せや！"
+msgstr "Give me back my time!"
+
+msgctxt "31330"
+msgid "俺の金返せや！"
+msgstr "Give me back my money!"
+
+msgctxt "31345"
+msgid "なんも言い返せへんのか!?"
+msgstr "Can't say anything back !?"
+
+msgctxt "31370"
+msgid "笑わせるわ"
+msgstr "I'll make you laugh"
+
+msgctxt "31381"
+msgid "ちょっと金貸せや"
+msgstr "A little money lender"
+
+msgctxt "31398"
+msgid "誰に向かって言うとんねん！"
+msgstr "Who are you talking to?"
+
+msgctxt "31425"
+msgid "喧嘩はやめとけや"
+msgstr "Stop fighting"
+
+msgctxt "31442"
+msgid "お前も来いや"
+msgstr "You don't come too"
+
+msgctxt "31455"
+msgid "一発逆転やで！"
+msgstr "One-shot reversal!"
+
+msgctxt "31470"
+msgid "ここにあった酒どこいった!?"
+msgstr "Where's the sake that was here !?"
+
+msgctxt "31497"
+msgid "またやられた！"
+msgstr "It was done again!"
+
+msgctxt "31512"
+msgid "しもた！"
+msgstr "Shimota!"
+
+msgctxt "31521"
+msgid "ふぅ"
+msgstr "Fu"
+
+msgctxt "31526"
+msgid "気前ええなぁ"
+msgstr "Generous"
+
+msgctxt "31539"
+msgid "まだ歩くんかい……"
+msgstr "Are you still walking ..."
+
+msgctxt "31558"
+msgid "世の中捨てたもんやないなぁ"
+msgstr "I don't want to throw it away in the world"
+
+msgctxt "31585"
+msgid "えらいこっちゃ！"
+msgstr "Great!"
+
+msgctxt "31602"
+msgid "どこに行くんや！"
+msgstr "Where are you going!"
+
+msgctxt "31619"
+msgid "なにごとや？"
+msgstr "What?"
+
+msgctxt "31632"
+msgid "少し休もうか？"
+msgstr "Do you want to take a break?"
+
+msgctxt "31647"
+msgid "そうやなぁ"
+msgstr "Yeah"
+
+msgctxt "31658"
+msgid "ほな　行こか"
+msgstr "Hona Ikoka"
+
+msgctxt "31671"
+msgid "どこや"
+msgstr "Where"
+
+msgctxt "31678"
+msgid "なめとるんか！"
+msgstr "Do you want to lick it!"
+
+msgctxt "31693"
+msgid "なんやねん"
+msgstr "What a hell"
+
+msgctxt "31704"
+msgid "やめとけや"
+msgstr "Stop it"
+
+msgctxt "31715"
+msgid "ええ加減にせえよ！"
+msgstr "Yeah, let's go!"
+
+msgctxt "31734"
+msgid "おもろいなぁ"
+msgstr "It's interesting"
+
+msgctxt "31747"
+msgid "おもんないなぁ"
+msgstr "I don't know"
+
+msgctxt "31762"
+msgid "喧嘩売ってんか!?"
+msgstr "Are you fighting !?"
+
+msgctxt "31779"
+msgid "じゃまや！"
+msgstr "Jamaya!"
+
+msgctxt "31790"
+msgid "どけや！"
+msgstr "Dokeya!"
+
+msgctxt "31799"
+msgid "ボケが！"
+msgstr "Bokeh!"
+
+msgctxt "31808"
+msgid "ふざけるなや！"
+msgstr "Don't be silly!"
+
+msgctxt "31823"
+msgid "寝ぼけとんのか!?"
+msgstr "Is it sleepy !?"
+
+msgctxt "31840"
+msgid "金も仕事ものうなったわ……"
+msgstr "Money and work groaned ..."
+
+msgctxt "31867"
+msgid "もっと酒持ってこんかい！"
+msgstr "Bring more sake!"
+
+msgctxt "31892"
+msgid "はよせんかい！"
+msgstr "Good morning!"
+
+msgctxt "31907"
+msgid "何見とんねん！"
+msgstr "What are you looking at?"
+
+msgctxt "31922"
+msgid "やっぱり酒は旨いのう"
+msgstr "After all sake is delicious"
+
+msgctxt "31943"
+msgid "おもろいことないかのう"
+msgstr "Isn't it interesting?"
+
+msgctxt "31966"
+msgid "仕事探さな……"
+msgstr "Looking for a job ..."
+
+msgctxt "31981"
+msgid "財布すられた！"
+msgstr "I got my wallet!"
+
+msgctxt "31996"
+msgid "お？　喧嘩か？"
+msgstr "What? Is it a quarrel?"
+
+msgctxt "32011"
+msgid "はよう酒持ってこんかい！"
+msgstr "Bring good morning sake!"
+
+msgctxt "32036"
+msgid "やかましい！"
+msgstr "Noisy!"
+
+msgctxt "32049"
+msgid "忙しくてたまらんわ"
+msgstr "I can't wait to be busy"
+
+msgctxt "32068"
+msgid "しゃーないなぁ"
+msgstr "I don't know"
+
+msgctxt "32083"
+msgid "そっちはどないな具合や？"
+msgstr "How is it that way?"
+
+msgctxt "32108"
+msgid "この辺で落としたはずなんや……"
+msgstr "I should have dropped it around here ..."
+
+msgctxt "32139"
+msgid "ぼちぼちやわ"
+msgstr "Little by little"
+
+msgctxt "32152"
+msgid "ん？　財布拾ったで！"
+msgstr "Hmm? I picked up my wallet!"
+
+msgctxt "32173"
+msgid "俺によこせや！"
+msgstr "Send me!"
+
+msgctxt "32188"
+msgid "最悪や……"
+msgstr "The worst ..."
+
+msgctxt "32199"
+msgid "どないせーちゅうねん"
+msgstr "Don't worry"
+
+msgctxt "32220"
+msgid "それおもろいやん！"
+msgstr "That's funny!"
+
+msgctxt "32239"
+msgid "金落ちてへんかなぁ"
+msgstr "I wonder if the money has fallen"
+
+msgctxt "32258"
+msgid "どないしてくれんねん！"
+msgstr "Please don't do it!"
+
+msgctxt "32281"
+msgid "お前も一杯付き合えや"
+msgstr "You can go out with a drink"
+
+msgctxt "32302"
+msgid "一杯だけ言うとるやろ！"
+msgstr "Just say one cup!"
+
+msgctxt "32325"
+msgid "昔は良かったのう"
+msgstr "It used to be good"
+
+msgctxt "32342"
+msgid "ん？　文句あるんかい！"
+msgstr "Hmm? Do you have any complaints?"
+
+msgctxt "32365"
+msgid "酒が不味くなるわ！"
+msgstr "The sake will be unpleasant!"
+
+msgctxt "32384"
+msgid "何か景気ええ話ししてみい"
+msgstr "Let's talk about something"
+
+msgctxt "32409"
+msgid "俺と一稼ぎせえへんか？"
+msgstr "Can't you make a profit with me?"
+
+msgctxt "32432"
+msgid "へへ　上手い話しがあるんやで"
+msgstr "I have a good story"
+
+msgctxt "32461"
+msgid "儲かる話しやで"
+msgstr "In a profitable story"
+
+msgctxt "32476"
+msgid "せこいこと言うなや"
+msgstr "Don't say anything"
+
+msgctxt "32495"
+msgid "なんやバカにしとんのか？"
+msgstr "What a fool?"
+
+msgctxt "32520"
+msgid "ちょろいもんやで"
+msgstr "Choroimonya de"
+
+msgctxt "32537"
+msgid "今にみとけや"
+msgstr "Mitokeya now"
+
+msgctxt "32550"
+msgid "怪しいなぁ"
+msgstr "I'm suspicious"
+
+msgctxt "32561"
+msgid "ここだけの話しやで"
+msgstr "Only here"
+
+msgctxt "32580"
+msgid "なるほど　そういうことか"
+msgstr "I see that kind of thing"
+
+msgctxt "32605"
+msgid "その話し　乗ったる！"
+msgstr "Get on that story!"
+
+msgctxt "32626"
+msgid "騙された……"
+msgstr "Was fooled……"
+
+msgctxt "32639"
+msgid "騙されるお前がアホなんや"
+msgstr "You're fooled"
+
+msgctxt "32664"
+msgid "どうしろっちゅーねん"
+msgstr "What should I do?"
+
+msgctxt "32685"
+msgid "もっと上手い話しがあるで"
+msgstr "I have a better story"
+
+msgctxt "32710"
+msgid "ほんまか!?"
+msgstr "Really !?"
+
+msgctxt "32721"
+msgid "稼ぐでぇ！"
+msgstr "Earn!"
+
+msgctxt "32732"
+msgid "世の中金が全てや"
+msgstr "All the money in the world"
+
+msgctxt "32749"
+msgid "賭場でも行こうか"
+msgstr "Let's go to the gambling house"
+
+msgctxt "32766"
+msgid "賭場で一稼ぎするか"
+msgstr "Do you make a profit at the gambling house?"
+
+msgctxt "32785"
+msgid "有り金全部すってもうた……"
+msgstr "I sang all the money I had ..."
+
+msgctxt "32812"
+msgid "今日はぎょうさん稼いだわ！"
+msgstr "I earned Gyo-san today!"
+
+msgctxt "32839"
+msgid "お前の自慢話しは聞き飽きたわ"
+msgstr "I'm tired of hearing your bragging stories"
+
+msgctxt "32868"
+msgid "まぁ聞けや"
+msgstr "Well listen"
+
+msgctxt "32879"
+msgid "おいおい　それほんまか？"
+msgstr "Hey, is that true?"
+
+msgctxt "32904"
+msgid "怪しいなぁ"
+msgstr "I'm suspicious"
+
+msgctxt "32915"
+msgid "ウソやないで"
+msgstr "Don't lie"
+
+msgctxt "32928"
+msgid "まぁ一杯飲もうや"
+msgstr "Well, let's have a drink"
+
+msgctxt "32945"
+msgid "俺の才能が花開いてきたでぇ"
+msgstr "My talent has blossomed"
+
+msgctxt "32972"
+msgid "お前らにはマネできへんやろ"
+msgstr "You can't imitate"
+
+msgctxt "32999"
+msgid "わしは天才じゃ！"
+msgstr "I'm a genius!"
+
+msgctxt "33016"
+msgid "ん？　夢か……"
+msgstr "Hmm? Is it a dream ..."
+
+msgctxt "33031"
+msgid "貧乏人は近づくなや！"
+msgstr "The poor don't get closer!"
+
+msgctxt "33052"
+msgid "景気ええ話しはないもんかのう"
+msgstr "There is no talk about the economy"
+
+msgctxt "33081"
+msgid "ホンマですか？"
+msgstr "Is it true?"
+
+msgctxt "33096"
+msgid "落ち着くなぁ"
+msgstr "Don't calm down"
+
+msgctxt "33109"
+msgid "ふぅ"
+msgstr "Fu"
+
+msgctxt "33114"
+msgid "どこに行こうか"
+msgstr "Where to go"
+
+msgctxt "33129"
+msgid "飯を食べに出よか"
+msgstr "Let's go out to eat"
+
+msgctxt "33146"
+msgid "少し休もうか？"
+msgstr "Do you want to take a break?"
+
+msgctxt "33161"
+msgid "そうやなぁ"
+msgstr "Yeah"
+
+msgctxt "33172"
+msgid "あははっ"
+msgstr "Ahaha"
+
+msgctxt "33181"
+msgid "お世辞ばっかり"
+msgstr "Just flattery"
+
+msgctxt "33196"
+msgid "よく眠れたわ"
+msgstr "I slept well"
+
+msgctxt "33209"
+msgid "そうねぇ"
+msgstr "let me see"
+
+msgctxt "33218"
+msgid "ほな　行こか"
+msgstr "Hona Ikoka"
+
+msgctxt "33231"
+msgid "あっはっはっは！"
+msgstr "Ahahahaha!"
+
+msgctxt "33248"
+msgid "どこや"
+msgstr "Where"
+
+msgctxt "33255"
+msgid "飯でも食いに行こうか"
+msgstr "Let's go eat with rice"
+
+msgctxt "33276"
+msgid "どこに出掛けようか"
+msgstr "Where to go"
+
+msgctxt "33295"
+msgid "どうしようか？"
+msgstr "What should I do?"
+
+msgctxt "33310"
+msgid "よく眠れたわ"
+msgstr "I slept well"
+
+msgctxt "33323"
+msgid "土産でも買うていこうか"
+msgstr "Should I buy souvenirs?"
+
+msgctxt "33346"
+msgid "どうしたんや？"
+msgstr "What's wrong?"
+
+msgctxt "33361"
+msgid "なんやねん"
+msgstr "What a hell"
+
+msgctxt "33372"
+msgid "やめとけや"
+msgstr "Stop it"
+
+msgctxt "33383"
+msgid "ええやないですか"
+msgstr "Yeah not"
+
+msgctxt "33400"
+msgid "ええ町やねえ"
+msgstr "Yeah town"
+
+msgctxt "33413"
+msgid "どないしました？"
+msgstr "Didn't you?"
+
+msgctxt "33430"
+msgid "何かあったん？"
+msgstr "What happened?"
+
+msgctxt "33445"
+msgid "はようせんと"
+msgstr "Good morning"
+
+msgctxt "33458"
+msgid "どうします？"
+msgstr "What do you do"
+
+msgctxt "33471"
+msgid "良かった"
+msgstr "Was good"
+
+msgctxt "33480"
+msgid "そろそろ帰らな"
+msgstr "It's about time to go home"
+
+msgctxt "33495"
+msgid "はよ行かんと"
+msgstr "Let's go"
+
+msgctxt "33508"
+msgid "はぁ…"
+msgstr "Hmm ..."
+
+msgctxt "33515"
+msgid "せやな"
+msgstr "Sayana"
+
+msgctxt "33522"
+msgid "あっちに犬おったで"
+msgstr "There was a dog over there"
+
+msgctxt "33541"
+msgid "追いかけてみようや！"
+msgstr "Let's chase!"
+
+msgctxt "33562"
+msgid "遅いで～"
+msgstr "It's late ~"
+
+msgctxt "33571"
+msgid "どこ行くんー"
+msgstr "Where are you going"
+
+msgctxt "33584"
+msgid "はよ行くでー"
+msgstr "Let's go"
+
+msgctxt "33597"
+msgid "ホンマやで"
+msgstr "Honmadekka"
+
+msgctxt "33608"
+msgid "なぁ"
+msgstr "I see"
+
+msgctxt "33613"
+msgid "もう一回言うて"
+msgstr "Say it again"
+
+msgctxt "33628"
+msgid "はよ行こ"
+msgstr "Hayoko"
+
+msgctxt "33637"
+msgid "どないしたん？"
+msgstr "What did you do?"
+
+msgctxt "33652"
+msgid "行かへんの？"
+msgstr "Are you going?"
+
+msgctxt "33665"
+msgid "どうもどうも"
+msgstr "Thank you very much"
+
+msgctxt "33678"
+msgid "ふぅ"
+msgstr "Fu"
+
+msgctxt "33683"
+msgid "へぇ大変やのう"
+msgstr "It ’s very difficult."
+
+msgctxt "33698"
+msgid "ふふふっ"
+msgstr "Fufufu"
+
+msgctxt "33707"
+msgid "あれえいでね"
+msgstr "That's it"
+
+msgctxt "33720"
+msgid "ここながやけんど"
+msgstr "Here Nagaya Kendo"
+
+msgctxt "33737"
+msgid "ちっくと見て行ってかまん？"
+msgstr "Can I take a quick look?"
+
+msgctxt "33764"
+msgid "ふざけんなや"
+msgstr "Foolish"
+
+msgctxt "33777"
+msgid "やめちょきって"
+msgstr "Stop it"
+
+msgctxt "33792"
+msgid "いろいろすまんねゃ"
+msgstr "I'm sorry for everything"
+
+msgctxt "33811"
+msgid "自信持ちや"
+msgstr "Confident"
+
+msgctxt "33822"
+msgid "また喧嘩？"
+msgstr "Fight again?"
+
+msgctxt "33833"
+msgid "今日はついちょったねゃ～"
+msgstr "I've been here today ~"
+
+msgctxt "33858"
+msgid "ごちそうさまです！"
+msgstr "Thanks for the meal!"
+
+msgctxt "33877"
+msgid "まぁええやん"
+msgstr "Well yeah"
+
+msgctxt "33890"
+msgid "いやーたまらんちや"
+msgstr "No, Tamaranchiya"
+
+msgctxt "33909"
+msgid "すまん　忘れちょった"
+msgstr "I'm sorry I forgot"
+
+msgctxt "33930"
+msgid "前に会うた時はよぅ……"
+msgstr "When I met you before ..."
+
+msgctxt "33953"
+msgid "今度　もう一回勝負せぇやー"
+msgstr "Let's play again this time"
+
+msgctxt "33980"
+msgid "へぇ大変やのう"
+msgstr "It ’s very difficult."
+
+msgctxt "33995"
+msgid "暇やのう"
+msgstr "Free time"
+
+msgctxt "34004"
+msgid "あぁ　奉行へ出したがよ"
+msgstr "Oh, I sent it to the magistrate"
+
+msgctxt "34027"
+msgid "それ　お前の悪いクセぜよ"
+msgstr "That's your bad habit"
+
+msgctxt "34052"
+msgid "まだ若いがやに……"
+msgstr "I'm still young ..."
+
+msgctxt "34071"
+msgid "いやーまいった"
+msgstr "No"
+
+msgctxt "34086"
+msgid "取り返せると思うたがやけどのぅ"
+msgstr "I think I can get it back, but I'm burned"
+
+msgctxt "34117"
+msgid "ここで食うてくか……"
+msgstr "Do you want to eat here ..."
+
+msgctxt "34138"
+msgid "細かい事気にすんなや"
+msgstr "I don't care about the details"
+
+msgctxt "34159"
+msgid "飲みすぎちや　お前"
+msgstr "Drink too much, you"
+
+msgctxt "34178"
+msgid "いい加減やのぅ"
+msgstr "It's sloppy"
+
+msgctxt "34193"
+msgid "お互い年くうたのぅ"
+msgstr "Each other's year"
+
+msgctxt "34212"
+msgid "あれが楽しみながやき"
+msgstr "I'm looking forward to that"
+
+msgctxt "34233"
+msgid "大丈夫やった？"
+msgstr "Did you do it?"
+
+msgctxt "34248"
+msgid "勘弁してつかあさい"
+msgstr "Please forgive me"
+
+msgctxt "34267"
+msgid "おまん　バカやねゃ～"
+msgstr "I'm sorry, I'm stupid ~"
+
+msgctxt "34288"
+msgid "そうは言うたちねゃ"
+msgstr "I have to say so"
+
+msgctxt "34307"
+msgid "最近　はやっちゅうがよ"
+msgstr "Recently"
+
+msgctxt "34330"
+msgid "ほんならいっとき寂しいねゃ"
+msgstr "I'm really lonely"
+
+msgctxt "34357"
+msgid "もう頑張るしかないねゃ"
+msgstr "I have no choice but to do my best"
+
+msgctxt "34380"
+msgid "久しぶりやにゃ"
+msgstr "It's been a long time"
+
+msgctxt "34395"
+msgid "最近面白いことあったかえ？"
+msgstr "Have you had any interesting things lately?"
+
+msgctxt "34422"
+msgid "腹減った～"
+msgstr "I'm hungry ~"
+
+msgctxt "34433"
+msgid "それ好きやねゃ～"
+msgstr "I don't like it ~"
+
+msgctxt "34450"
+msgid "へーそうやったがやー"
+msgstr "I did that"
+
+msgctxt "34471"
+msgid "昨日飲みすぎたねゃぁ"
+msgstr "I drank too much yesterday"
+
+msgctxt "34492"
+msgid "さっきの子　可愛かったねゃぁ"
+msgstr "The child I just mentioned was cute"
+
+msgctxt "34521"
+msgid "はい　任せちょいて"
+msgstr "Yes leave it to me"
+
+msgctxt "34540"
+msgid "うん　ほいで？"
+msgstr "Yeah?"
+
+msgctxt "34555"
+msgid "いやいや　本気やき"
+msgstr "No no serious"
+
+msgctxt "34574"
+msgid "またまたぁ"
+msgstr "See you again"
+
+msgctxt "34585"
+msgid "えいにゃあそれ！"
+msgstr "That's it!"
+
+msgctxt "34602"
+msgid "はぁ……ついちゃあせんねゃぁ"
+msgstr "Hmm ..."
+
+msgctxt "34631"
+msgid "奢ってくれるでね？"
+msgstr "Will you give me a favor?"
+
+msgctxt "34650"
+msgid "えっ　何やっけそれ?"
+msgstr "What the hell is that?"
+
+msgctxt "34670"
+msgid "聞きゆうがかや　おい？"
+msgstr "Are you sure you want to hear it?"
+
+msgctxt "34693"
+msgid "お世辞やのによー"
+msgstr "Compliment"
+
+msgctxt "34710"
+msgid "大丈夫　大丈夫！"
+msgstr "It's okay!"
+
+msgctxt "34727"
+msgid "ねぇねぇ"
+msgstr "Hey hey"
+
+msgctxt "34736"
+msgid "すごいわぁ！"
+msgstr "Wow!"
+
+msgctxt "34749"
+msgid "あれ　かわいい！"
+msgstr "That's cute!"
+
+msgctxt "34766"
+msgid "はぁ……もういやちや"
+msgstr "Hmm ..."
+
+msgctxt "34787"
+msgid "そうやねぇ"
+msgstr "Yeah"
+
+msgctxt "34798"
+msgid "ふふふっ"
+msgstr "Fufufu"
+
+msgctxt "34807"
+msgid "面白い話してや～"
+msgstr "Tell me an interesting story ~"
+
+msgctxt "34824"
+msgid "話聞いてくれておおきに"
+msgstr "Please listen to me"
+
+msgctxt "34847"
+msgid "よかったねぇ！"
+msgstr "I'm glad!"
+
+msgctxt "34862"
+msgid "ちょっと待っちょって"
+msgstr "Wait a minute"
+
+msgctxt "34883"
+msgid "もう　いじわるいがやきぃ"
+msgstr "I'm already messing around"
+
+msgctxt "34908"
+msgid "えぇ最近仲良うやりゆうき"
+msgstr "Yeah, I'm a good friend recently"
+
+msgctxt "34933"
+msgid "あれえいでね"
+msgstr "That's it"
+
+msgctxt "34946"
+msgid "ぼちぼち帰ろうや"
+msgstr "Let's go home little by little"
+
+msgctxt "34963"
+msgid "それでどうしたが？"
+msgstr "So what happened?"
+
+msgctxt "34982"
+msgid "そんな時もあるちや"
+msgstr "There are times like that"
+
+msgctxt "35001"
+msgid "今度遊びぃきぃや"
+msgstr "Play this time"
+
+msgctxt "35018"
+msgid "寂しがっちょったでー"
+msgstr "I was lonely"
+
+msgctxt "35039"
+msgid "元気やった？"
+msgstr "How are you doing"
+
+msgctxt "35052"
+msgid "もうーしょうがないねぇ"
+msgstr "It can't be helped anymore"
+
+msgctxt "35075"
+msgid "買うてくるがわすれちょったちや…"
+msgstr "I'll buy it, but I'll forget it ..."
+
+msgctxt "35108"
+msgid "また来ようね"
+msgstr "Let's come again"
+
+msgctxt "35121"
+msgid "お腹すいたちやー"
+msgstr "I'm hungry"
+
+msgctxt "35138"
+msgid "あれ　おいしそうちや"
+msgstr "That delicious sochiya"
+
+msgctxt "35159"
+msgid "それ似合うちゅうね"
+msgstr "It suits you"
+
+msgctxt "35178"
+msgid "そういうが困るちや"
+msgstr "Chiya who is in trouble with that"
+
+msgctxt "35197"
+msgid "えっ　何やっけそれ?"
+msgstr "What the hell is that?"
+
+msgctxt "35217"
+msgid "よかったねぇ！"
+msgstr "I'm glad!"
+
+msgctxt "35232"
+msgid "ちょっと待っちょって"
+msgstr "Wait a minute"

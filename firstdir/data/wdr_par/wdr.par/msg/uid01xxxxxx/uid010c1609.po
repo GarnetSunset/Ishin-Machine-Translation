@@ -1,0 +1,682 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "15200"
+msgid "犯人は……"
+msgstr "The criminal is ..."
+
+msgctxt "15211"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15212"
+msgid "東原！"
+msgstr "Higashihara!"
+
+msgctxt "15219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15220"
+msgid "西山！"
+msgstr "Xishan!"
+
+msgctxt "15227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15228"
+msgid "中川！"
+msgstr "Nakagawa!"
+
+msgctxt "15235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15236"
+msgid "南野！"
+msgstr "Minamino!"
+
+msgctxt "15243"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15244"
+msgid "北島！"
+msgstr "Kitajima!"
+
+msgctxt "15251"
+msgid "（この２人で本当に間違いないか……？）"
+msgstr "(Are these two really correct ...?)"
+
+msgctxt "15290"
+msgid "（……なんだか自信がなくなってきたな）"
+msgstr "(... I'm feeling less confident)"
+
+msgctxt "15329"
+msgid "……すまない、もう一度考え直させてくれ。"
+msgstr ""
+
+msgctxt "15370"
+msgid ""
+"……難しい事件だもんな。\n"
+"ま、ゆっくり考えてくれよ。"
+msgstr ""
+
+msgctxt "15423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15424"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15425"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15426"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15427"
+msgid "犯人はお前達、２人だ……！"
+msgstr "The criminals are you two ...!"
+
+msgctxt "15454"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15455"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15456"
+msgid "…………"
+msgstr ""
+
+msgctxt "15465"
+msgid "…………"
+msgstr ""
+
+msgctxt "15474"
+msgid "おい、２人とも！　どうなんだ……？"
+msgstr "Hey, both of us! What about that……?"
+
+msgctxt "15509"
+msgid ""
+"へっ、やっぱり咄嗟に口からでた出まかせじゃぁ\n"
+"すぐにばれちまうもんですねぃ。"
+msgstr ""
+"Well, after all, let's just let it come\n"
+"out of your mouth, so it'll be immediately\n"
+"noticed."
+
+msgctxt "15586"
+msgid "……あぁ。"
+msgstr ""
+
+msgctxt "15597"
+msgid ""
+"……！\n"
+"ということは……　お前らが犯人だったんだな！"
+msgstr ""
+
+msgctxt "15650"
+msgid ""
+"そ、そうだよ！　だって、あの大福……\n"
+"すんごぃおいしそうだったんだもんよ!!!!"
+msgstr ""
+"That's right! Because that Daifuku ... it\n"
+"looked so good !!!!"
+
+msgctxt "15727"
+msgid ""
+"あんな美味そうな大福……　見せられたら……\n"
+"我慢など……　できん……"
+msgstr ""
+"Daifuku that looks so delicious ... If you\n"
+"show me ... Patience ... I can't ..."
+
+msgctxt "15796"
+msgid "おいおい、お前らなぁ……"
+msgstr "Hey, you guys ..."
+
+msgctxt "15821"
+msgid ""
+"みんな、変なことに巻き込んじまってごめん！\n"
+"許してくれ！"
+msgstr ""
+"I'm sorry everyone got involved in something\n"
+"strange! Forgive me!"
+
+msgctxt "15878"
+msgid "すまない……"
+msgstr "I'm sorry ..."
+
+msgctxt "15891"
+msgid "……いいや、絶対に許さねぇ。"
+msgstr ""
+
+msgctxt "15920"
+msgid "えぇ、許せないっすね。"
+msgstr "Yeah, I can't forgive you."
+
+msgctxt "15943"
+msgid "西山……　中川……"
+msgstr "Nishiyama …… Nakagawa ……"
+
+msgctxt "15962"
+msgid ""
+"東原に南野よぉ。\n"
+"俺達は犯人だと疑われたことに対して\n"
+"怒ってるんじゃないんすよ。"
+msgstr ""
+"Minamino in Higashihara. We're not angry\n"
+"at being suspected of being the culprit."
+
+msgctxt "16043"
+msgid "じゃ、じゃあいったい何に怒っているんでぃ？"
+msgstr "So what are you angry about?"
+
+msgctxt "16086"
+msgid ""
+"そんなのもわかんないんですかぁ。僕達はねぇ、\n"
+"あなた達が、僕達に嘘をついたことが\n"
+"許せないんですよ！"
+msgstr ""
+"Don't you know that? We can't forgive you\n"
+"for lying to us!"
+
+msgctxt "16187"
+msgid "東原に南野よぉ、俺達は全員で五人組だろう？"
+msgstr "Minamino in Higashihara, are we all five?"
+
+msgctxt "16230"
+msgid ""
+"嬉しいとき、悲しいとき、辛いとき……\n"
+"大福が食べたくてしかたないとき、\n"
+"犯人だと疑われたとき……"
+msgstr ""
+"When I'm happy, when I'm sad, when I'm having\n"
+"a hard time ... When Daifuku has\n"
+"no choice but to eat, when I'm suspected\n"
+"of being the criminal ..."
+
+msgctxt "16327"
+msgid ""
+"どんなときでも、\n"
+"腹割って話し合って、手を差し伸べ合う……\n"
+"それが俺達の五人組じゃなかったのかよ!!"
+msgstr ""
+"At any time, I'm hungry, talking and reaching\n"
+"out ... Isn't it our five-member\n"
+"group !!"
+
+msgctxt "16426"
+msgid "西山……！"
+msgstr "Xishan...!"
+
+msgctxt "16437"
+msgid "すまない……　俺達が間違っていた……"
+msgstr "I'm sorry ... we were wrong ..."
+
+msgctxt "16474"
+msgid "わかってくれればいいんすよ。"
+msgstr "I hope you understand."
+
+msgctxt "16503"
+msgid ""
+"フフフ、じゃあこれからまた５人で\n"
+"仲良くやっていくってことで！\n"
+"大福でも食べにいきますか！"
+msgstr ""
+"Fufufu, then we're going to get along with\n"
+"each other again! Would you like to\n"
+"go eat in Daifuku?"
+
+msgctxt "16594"
+msgid ""
+"へへ、いいねぇ。\n"
+"もちろん、東原と南野の奢りだぞ！"
+msgstr ""
+"Hehe, nice. Of course, it's the grace of\n"
+"Higashihara and Minamino!"
+
+msgctxt "16645"
+msgid "おいおい！　そりゃないぜぃ！"
+msgstr "Hey! That's not it!"
+
+msgctxt "16674"
+msgid "ハハハハハ……"
+msgstr "Hahahahaha ……"
+
+msgctxt "16689"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16690"
+msgid ""
+"……あぁ！　いい感じの空気にのまれていたら\n"
+"あいつら全員いなくなってるじゃねえか！\n"
+"もうなんだか馬鹿らしくなっちまったよ……！"
+msgstr ""
+
+msgctxt "16817"
+msgid ""
+"いやー、それにしても\n"
+"あんたの推理力には感心したぜ！\n"
+"これ、手伝ってもらったお礼だ。受け取ってくれ。"
+msgstr ""
+"No, I was impressed with your reasoning\n"
+"power! This is a thank you for your help.\n"
+"Receive it."
+
+msgctxt "16918"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16919"
+msgid "「<Color:8>神殺しの札<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> God killing tag<Color:Default>\n"
+"I got"
+
+msgctxt "16968"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16969"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "16970"
+msgid ""
+"ってなわけで……　おーい、待ってくれー！\n"
+"俺も大福食いに行くー！　おーい！"
+msgstr ""
+"That's why ... Hey, wait! I'm going to eat\n"
+"Daifuku too! Hey!"
+
+msgctxt "17045"
+msgid "…………"
+msgstr ""
+
+msgctxt "17054"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17055"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17056"
+msgid "…………"
+msgstr ""
+
+msgctxt "17065"
+msgid "…………"
+msgstr ""
+
+msgctxt "17074"
+msgid ""
+"えーっと、その２人が犯人だとすると、\n"
+"５人の中で嘘つきが\n"
+"２人にならないような気がするんだが……"
+msgstr ""
+"Well, if those two are the culprit, I feel\n"
+"like the liar won't be two out of the\n"
+"five ..."
+
+msgctxt "17171"
+msgid "（……どうやら間違ってしまったようだ）"
+msgstr "(... Apparently I made a mistake)"
+
+msgctxt "17210"
+msgid ""
+"すまないけどよ。\n"
+"犯人が誰と誰なのか、最後にもう一度だけ\n"
+"ゆっくり考えてみてくれねえか？"
+msgstr ""
+"I'm sorry. Can you think slowly about who\n"
+"and who the criminal is at the end?"
+
+msgctxt "17299"
+msgid "……最後？"
+msgstr ""
+
+msgctxt "17310"
+msgid ""
+"いや、時間とらせて悪いからよ。\n"
+"次は多少矛盾があっても全面的にあんたの意見に\n"
+"従って犯人決めつけちまうから……　頼んだぜ。"
+msgstr ""
+"No, it's bad to take the time. Next time,\n"
+"even if there is some contradiction,\n"
+"I will decide the criminal according to\n"
+"your opinion entirely ... I asked."
+
+msgctxt "17433"
+msgid "…………"
+msgstr ""
+
+msgctxt "17442"
+msgid ""
+"あ、それと西山はたしか\n"
+"甘いものが大嫌いだった気がする。\n"
+"……犯人じゃないかもな。参考にしてくれ。"
+msgstr ""
+"Oh, and I think Nishiyama hated sweets.\n"
+"...... Maybe it's not the culprit. Please\n"
+"refer to it."
+
+msgctxt "17541"
+msgid "……わかった。"
+msgstr ""
+
+msgctxt "17556"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17557"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17558"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17559"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17560"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17561"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17562"
+msgid "…………"
+msgstr ""
+
+msgctxt "17571"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17572"
+msgid "なっ！　俺は犯人じゃねーぞ！"
+msgstr "Nah! I'm not the culprit!"
+
+msgctxt "17601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17602"
+msgid ""
+"俺は大福なんて食ってないっす！\n"
+"信じてください！"
+msgstr "I haven't eaten Daifuku! Believe please!"
+
+msgctxt "17651"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17652"
+msgid "…………"
+msgstr ""
+
+msgctxt "17661"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17662"
+msgid "あらら、僕が犯人なわけないじゃないですか……"
+msgstr "Oh, I'm not the culprit ..."
+
+msgctxt "17707"
+msgid ""
+"この方がお前ら２人を犯人と言っているんだ！\n"
+"もう多少矛盾があってもかまやしねぇ！\n"
+"しょっぴいてやるから先に奉行所に行ってろ！"
+msgstr ""
+"This person calls you two the culprit! I\n"
+"don't mind if there is some more contradiction!\n"
+"I'll do it for a while, so go\n"
+"to the magistrate's office first!"
+
+msgctxt "17832"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17833"
+msgid "…………"
+msgstr ""
+
+msgctxt "17842"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17843"
+msgid "くそ……　あんた、絶対恨んでやるからな！"
+msgstr "Damn ... you'll definitely have a grudge!"
+
+msgctxt "17884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17886"
+msgid "あんまりっすよ……"
+msgstr "Not much ..."
+
+msgctxt "17905"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17906"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17907"
+msgid "…………"
+msgstr ""
+
+msgctxt "17916"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17917"
+msgid "はぁ……　あなたにはがっかりです。"
+msgstr "Hmm ... I'm disappointed in you."
+
+msgctxt "17952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "17953"
+msgid "…………"
+msgstr ""
+
+msgctxt "17962"
+msgid ""
+"さて、犯人も決めつけたことだし。\n"
+"大福の恨み、きっちり晴らしてやるぜ！"
+msgstr ""
+"Well, the criminal has also decided. Daifuku's\n"
+"grudge, I'll clear it up!"
+
+msgctxt "18033"
+msgid ""
+"犯人探し、手伝ってくれてありがとうよ。\n"
+"……じゃあな！"
+msgstr ""
+"Thank you for finding the culprit and helping\n"
+"me. ……See you!"
+
+msgctxt "18088"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18089"
+msgid "（本当にあの２人が犯人だったのだろうか……）"
+msgstr "(Is those two really the culprit ...)"
+
+msgctxt "18134"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18135"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18136"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18137"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18138"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18139"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20148"
+msgid "Player"
+msgstr ""
+
+msgctxt "20155"
+msgid "間違いない"
+msgstr "no doubt"
+
+msgctxt "20166"
+msgid "考え直す"
+msgstr "Rethink"
+
+msgctxt "20175"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "20183"
+msgid "同心"
+msgstr "concentric"
+
+msgctxt "20188"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "20197"
+msgid "P_KRU_SS_stand_hannin_lp"
+msgstr ""
+
+msgctxt "20222"
+msgid "P_KRU_SS_stand_hannin_st"
+msgstr ""
+
+msgctxt "20247"
+msgid "東原"
+msgstr "Higashihara"
+
+msgctxt "20252"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "20274"
+msgid "P_KRU_SS_stand_hannin_en"
+msgstr ""
+
+msgctxt "20299"
+msgid "南野"
+msgstr "Minamino"
+
+msgctxt "20304"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "20316"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "20325"
+msgid "西山"
+msgstr "Xishan"
+
+msgctxt "20330"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "20343"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "20354"
+msgid "中川"
+msgstr "Nakagawa"
+
+msgctxt "20359"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "20370"
+msgid "北島"
+msgstr "Kitajima"
+
+msgctxt "20375"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "20386"
+msgid "kaiwabgm_sub_hartwarm_01"
+msgstr ""
+
+msgctxt "20411"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "20422"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "20433"
+msgid "五人組"
+msgstr "Group of five"
+
+msgctxt "20440"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "20450"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "20460"
+msgid "dummy"
+msgstr ""
+
+msgctxt "20466"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "20477"
+msgid "Talk_Call"
+msgstr ""

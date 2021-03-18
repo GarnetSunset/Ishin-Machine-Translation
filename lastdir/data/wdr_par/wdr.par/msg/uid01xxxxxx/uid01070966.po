@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2144"
+msgid "ほな、親を決めよか。"
+msgstr "Honestly, decide on a parent."
+
+msgctxt "2165"
+msgid "わしが親やな。"
+msgstr "I'm a parent."
+
+msgctxt "2180"
+msgid "（いくらで勝負する？）"
+msgstr "(How much will you play?)"
+
+msgctxt "2203"
+msgid "始めるで。"
+msgstr "Get started."
+
+msgctxt "2214"
+msgid "わしの番やな。"
+msgstr "It's my turn."
+
+msgctxt "2229"
+msgid "もう一回振るで。"
+msgstr "Shake it again."
+
+msgctxt "2246"
+msgid "精算や。"
+msgstr "Settlement and."
+
+msgctxt "2255"
+msgid "（お前が親）"
+msgstr "(You are the parent)"
+
+msgctxt "2268"
+msgid "親を交代するで。"
+msgstr "By changing parents."
+
+msgctxt "2285"
+msgid "（もう一丁？）"
+msgstr "(Another one?)"
+
+msgctxt "2300"
+msgid "（オケラ）"
+msgstr "(Mole cricket)"
+
+msgctxt "2311"
+msgid "（出直して）"
+msgstr "(Restart)"
+
+msgctxt "2324"
+msgid "親の即精算メッセージ。"
+msgstr "Parent's immediate settlement message."
+
+msgctxt "2347"
+msgid "親の奇の見は３になるんやったな。"
+msgstr "My parents' strange look is 3"
+
+msgctxt "2380"
+msgid "最初の子が出した奇の見は３になるんやったな。"
+msgstr "The strange look that the first child gave was 3."
+
+msgctxt "2425"
+msgid "奇の見は一つ前の子と同じ出目になるんやったな。"
+msgstr "The strange look is the same as the previous child."
+
+msgctxt "2472"
+msgid "親の偶の音は４になるんやったな。"
+msgstr "The sound of my parents' even number is 4."
+
+msgctxt "2505"
+msgid "偶の音は一つ後の子と同じ出目になるんやったな。"
+msgstr "The sound of the even was the same as the one after the next child."
+
+msgctxt "2552"
+msgid "最後の子が出した偶の音は４になるんやったな。"
+msgstr "The even sound that the last child made was 4."
+
+msgctxt "2597"
+msgid "偶の音は、後ろの子と同じ出目になるんやな。"
+msgstr "The sound of the even is the same as the child behind."
+
+msgctxt "2640"
+msgid "偶の音のあとに奇の見がでた。"
+msgstr "There was a strange look after the sound of the even."
+
+msgctxt "2669"
+msgid "ムサシや……！"
+msgstr "Musashi ...!"
+
+msgctxt "2688"
+msgid "冴島"
+msgstr "Saejima"

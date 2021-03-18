@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3292"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3293"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3294"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3295"
+msgid "ぐ……　くそが！"
+msgstr "Gu ... Damn!"
+
+msgctxt "3312"
+msgid "永倉……!?"
+msgstr "Nagakura ……!?"
+
+msgctxt "3323"
+msgid "さ、斎藤か……　油断したわ。"
+msgstr "Well, Saito ... I wasn't careful."
+
+msgctxt "3352"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3353"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3354"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3355"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3356"
+msgid "ぎゃふっ!!"
+msgstr "Gyafu !!"
+
+msgctxt "3367"
+msgid "よ、吉田稔麿や……！"
+msgstr "Yo, Minoru Yoshida ...!"
+
+msgctxt "3388"
+msgid ""
+"なるほど……\n"
+"こいつが京を焼こうとしてる親玉ってわけか。"
+msgstr ""
+"I see ... Isn't this the masterpiece who\n"
+"is trying to burn Kyo?"
+
+msgctxt "3445"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3446"
+msgid ""
+"永倉、下がってろ……\n"
+"こいつは俺が引き受けた。"
+msgstr "Nagakura, go down ... I took over this one."
+
+msgctxt "3493"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3494"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3495"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3496"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4576"
+msgid "0"
+msgstr ""
+
+msgctxt "4578"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "4600"
+msgid "P_MOV_run_stop"
+msgstr ""
+
+msgctxt "4615"
+msgid "永倉"
+msgstr "Nagakura"
+
+msgctxt "4620"
+msgid "saejima_06_020_01"
+msgstr ""
+
+msgctxt "4638"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "4643"
+msgid "kaiwabgm_kinpaku_05"
+msgstr ""
+
+msgctxt "4663"
+msgid "kiryu_06_020_01"
+msgstr ""
+
+msgctxt "4679"
+msgid "saejima_06_020_02"
+msgstr ""
+
+msgctxt "4697"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "4708"
+msgid "平隊士"
+msgstr "Ping team"
+
+msgctxt "4715"
+msgid "hira_c06_110_02"
+msgstr ""
+
+msgctxt "4731"
+msgid "saejima_06_020_03"
+msgstr ""
+
+msgctxt "4749"
+msgid "kiryu_06_020_02"
+msgstr ""
+
+msgctxt "4765"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "4776"
+msgid "kiryu_06_020_03"
+msgstr ""
+
+msgctxt "4792"
+msgid "TLK_SCN005"
+msgstr ""

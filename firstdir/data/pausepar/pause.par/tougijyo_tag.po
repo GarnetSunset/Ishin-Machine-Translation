@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "チーム・ザ・ドラゴン"
+msgstr "Team the dragon"
+
+msgctxt "NAME_1"
+msgid "チーム・ザ・ハヤブサ"
+msgstr "Team the falcon"
+
+msgctxt "NAME_2"
+msgid "チーム・ザ・タイガー"
+msgstr "Team the Tiger"
+
+msgctxt "NAME_3"
+msgid "チーム・ザ・クラッシャー"
+msgstr "Team the Crusher"
+
+msgctxt "NAME_4"
+msgid "ザ・サンクチュアリ"
+msgstr "The Sanctuary"
+
+msgctxt "NAME_5"
+msgid "エリート連合"
+msgstr "Elite Union"
+
+msgctxt "NAME_6"
+msgid "反逆力士会"
+msgstr "Rebellion Club"
+
+msgctxt "NAME_7"
+msgid "ヘル・インパルス"
+msgstr "Hell impulse"
+
+msgctxt "NAME_8"
+msgid "クールマッドキラーズ"
+msgstr "Cool Mad Killers"
+
+msgctxt "NAME_9"
+msgid "ブラック・ヒーローズ"
+msgstr "Black Heroes"
+
+msgctxt "NAME_10"
+msgid "真・双空拳"
+msgstr "True double empty fist"
+
+msgctxt "NAME_11"
+msgid "暴走超特急コンビ"
+msgstr "Runaway super express combination"
+
+msgctxt "NAME_12"
+msgid "神室愚連隊"
+msgstr "Kamuro Fools"
+
+msgctxt "NAME_13"
+msgid "イーサン＆アーサン"
+msgstr "Ethan & Arsan"
+
+msgctxt "NAME_14"
+msgid "殺戮魚雷ブラザーズ"
+msgstr "Killing Torpedo Brothers"
+
+msgctxt "NAME_15"
+msgid "マッハパンチャーズ"
+msgstr "Mach Punchers"
+
+msgctxt "ANOTHER_NAME_0"
+msgid "桐生一馬プレゼンツ"
+msgstr "Kazuma Kiryu Presents"
+
+msgctxt "ANOTHER_NAME_1"
+msgid "秋山駿プレゼンツ"
+msgstr "Shun Akiyama Presents"
+
+msgctxt "ANOTHER_NAME_2"
+msgid "冴島大河プレゼンツ"
+msgstr "Saejima Taiga Presents"
+
+msgctxt "ANOTHER_NAME_3"
+msgid "品田辰雄プレゼンツ"
+msgstr "Tatsuo Shinada Presents"
+
+msgctxt "ANOTHER_NAME_4"
+msgid "舞い戻った闘技場の殿堂"
+msgstr ""
+"The Hall of Fame that has returned to the\n"
+"arena"
+
+msgctxt "ANOTHER_NAME_5"
+msgid "選ばれし天才達"
+msgstr "Selected geniuses"
+
+msgctxt "ANOTHER_NAME_6"
+msgid "驚愕の張り手地獄"
+msgstr "Astonishing stretcher hell"
+
+msgctxt "ANOTHER_NAME_7"
+msgid "天地を揺るがす二人の悪魔"
+msgstr ""
+"Two demons that shake the heavens and the\n"
+"earth"
+
+msgctxt "ANOTHER_NAME_8"
+msgid "泣く子も黙る名門チーム"
+msgstr ""
+"A prestigious team that keeps the crying\n"
+"child silent"
+
+msgctxt "ANOTHER_NAME_9"
+msgid "黒く染まった英雄"
+msgstr "Hero dyed black"
+
+msgctxt "ANOTHER_NAME_10"
+msgid "神の手刀と悪魔の蹴り"
+msgstr "God's knife and devil's kick"
+
+msgctxt "ANOTHER_NAME_11"
+msgid "冥界への直通列車"
+msgstr "Direct train to the underworld"
+
+msgctxt "ANOTHER_NAME_12"
+msgid "手を組んだアイス&ファイヤー"
+msgstr "Ice & Fire with hands"
+
+msgctxt "ANOTHER_NAME_13"
+msgid "二倍で中国八千年"
+msgstr "Double で eight thousand years of China"
+
+msgctxt "ANOTHER_NAME_14"
+msgid "着弾率200%%"
+msgstr "Landing rate 200%"
+
+msgctxt "ANOTHER_NAME_15"
+msgid "結ばれた二つの拳"
+msgstr "Two tied fists"

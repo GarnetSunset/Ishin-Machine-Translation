@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5468"
+msgid "すまんが、卵を１つ分けてもらえないか？"
+msgstr "I'm sorry, could you split one egg?"
+
+msgctxt "5507"
+msgid "なんやいきなり？"
+msgstr "What a sudden?"
+
+msgctxt "5524"
+msgid "どうすんねん。　食べるんか？"
+msgstr "How are you? Do you eat"
+
+msgctxt "5553"
+msgid ""
+"あぁ、ばあさんが死ぬ前に一度食べたいと\n"
+"言うんで食わせてやりたいんだ。"
+msgstr ""
+"Ah, I want to eat it once before my grandmother\n"
+"dies, so I want to feed her."
+
+msgctxt "5624"
+msgid ""
+"へぇ。　まぁそないにしょっちゅう\n"
+"食べれるもんとちゃうからな。"
+msgstr "Hey. Well, I can eat it all the time."
+
+msgctxt "5687"
+msgid ""
+"そういう事なら、これ、持っていき。\n"
+"生みたてをゆで卵にしたやつや。　ウマイで～！"
+msgstr ""
+"If that's the case, take this with you.\n"
+"A freshly boiled egg. Umai ~!"
+
+msgctxt "5768"
+msgid "冥土の土産には申し分ないやろ～！"
+msgstr "It's perfect as a souvenir of the dark soil!"
+
+msgctxt "5801"
+msgid "「ゆで卵」を１つ手に入れた。"
+msgstr "I got one \"boiled egg\"."
+
+msgctxt "5830"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5831"
+msgid "すまないな。"
+msgstr "I'm sorry."
+
+msgctxt "5844"
+msgid "はよ、そのばあさんに持ってってやり。"
+msgstr "Well, take it to that old lady."
+
+msgctxt "5881"
+msgid ""
+"すまんが、\n"
+"また卵を１つ分けてもらえないか？"
+msgstr "I'm sorry, could you give me another egg?"
+
+msgctxt "5926"
+msgid "なんや？　今度は危篤のじいさんか？"
+msgstr "What? Is this a critical grandfather?"
+
+msgctxt "5961"
+msgid "いや、そうじゃないんだが……"
+msgstr "No, it's not ..."
+
+msgctxt "5990"
+msgid ""
+"かまわへんけど、そう何個も何個も\n"
+"タダでやるわけにはいかんで～。"
+msgstr "I don't care, but I can't do it for free."
+
+msgctxt "6055"
+msgid ""
+"卵は一応、高級品やさかいになぁ。\n"
+"１個５０００文でどうや？"
+msgstr ""
+"Eggs are high-class products. How about\n"
+"5000 sentences per piece?"
+
+msgctxt "6114"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6115"
+msgid "わかった。"
+msgstr "all right."
+
+msgctxt "6126"
+msgid "じゃぁ、５０００文で！"
+msgstr "Then, with 5000 sentences!"
+
+msgctxt "6149"
+msgid "「５０００文」支払った"
+msgstr "I paid \"5000 sentences\""
+
+msgctxt "6172"
+msgid "ほんなら、これ、約束の「ゆで卵」な。"
+msgstr "This is the promised \"boiled egg\"."
+
+msgctxt "6209"
+msgid "「ゆで卵」を１つ手に入れた"
+msgstr "I got one \"boiled egg\""
+
+msgctxt "6236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6237"
+msgid ""
+"……って、お金持ってないやないか！\n"
+"ちゃんと持ってきてや～。"
+msgstr ""
+
+msgctxt "6298"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6299"
+msgid ""
+"少し高いな……\n"
+"１個４０００文でどうだ？"
+msgstr ""
+"It's a little expensive ... How about 4000\n"
+"sentences per piece?"
+
+msgctxt "6340"
+msgid ""
+"うーん、しゃーない！\n"
+"じゃぁ４５００文でどうやっ！"
+msgstr "Hmmm, no! Then how about 4500 sentences!"
+
+msgctxt "6391"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6392"
+msgid "わかった。"
+msgstr "all right."
+
+msgctxt "6403"
+msgid "じゃぁ、４５００文で！"
+msgstr "Then, with 4500 sentences!"
+
+msgctxt "6426"
+msgid "「４５００文」支払った"
+msgstr "I paid \"4500 sentences\""
+
+msgctxt "6449"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6450"
+msgid ""
+"少し高いな……\n"
+"１個２５００文でどうだ？"
+msgstr ""
+"It's a little expensive ... How about 2500\n"
+"sentences per piece?"
+
+msgctxt "6491"
+msgid "じゃぁ、２５００文で！"
+msgstr "Then, with 2500 sentences!"
+
+msgctxt "6514"
+msgid "「２５００文」支払った"
+msgstr "I paid \"2500 sentences\""
+
+msgctxt "6537"
+msgid ""
+"少し高いな……\n"
+"１個３０００文でどうだ？"
+msgstr ""
+"It's a little expensive ... How about 3000\n"
+"sentences per piece?"
+
+msgctxt "6578"
+msgid ""
+"うーん、しゃーない！\n"
+"じゃぁ３５００文でどうやっ！"
+msgstr "Hmmm, no! Then how about 3500 sentences!"
+
+msgctxt "6629"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6630"
+msgid "わかった。"
+msgstr "all right."
+
+msgctxt "6641"
+msgid "じゃぁ、３５００文で！"
+msgstr "Then, with 3500 sentences!"
+
+msgctxt "6664"
+msgid "「３５００文」支払った"
+msgstr "I paid \"3500 sentences\""
+
+msgctxt "6687"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6688"
+msgid ""
+"少し高いな……\n"
+"１個２０００文でどうだ？"
+msgstr ""
+"It's a little expensive ... How about 2000\n"
+"sentences per piece?"
+
+msgctxt "6729"
+msgid "じゃぁ、２０００文で！"
+msgstr "Then, in 2000 sentences!"
+
+msgctxt "6752"
+msgid "「２０００文」支払った"
+msgstr "I paid \"2000 sentences\""
+
+msgctxt "6775"
+msgid ""
+"少し高いな……\n"
+"１個１０００文でどうだ？"
+msgstr ""
+"It's a little expensive ... How about 1000\n"
+"sentences per piece?"
+
+msgctxt "6816"
+msgid "じゃぁ、１０００文で！"
+msgstr "Then, with 1000 sentences!"
+
+msgctxt "6839"
+msgid "「１０００文」支払った"
+msgstr "I paid \"1000 sentences\""
+
+msgctxt "6862"
+msgid ""
+"少し高いな……\n"
+"１個５００文でどうだ？"
+msgstr ""
+"It's a little expensive ... How about 500\n"
+"sentences per piece?"
+
+msgctxt "6901"
+msgid ""
+"５００文やて!?　あんた卵をなんやと思てんねん!?\n"
+"ふざけんのもええ加減にせぇや!!"
+msgstr ""
+"500 sentences !? What do you think of your\n"
+"egg !?"
+
+msgctxt "6980"
+msgid ""
+"５０００文や！\n"
+"５０００文でしか売られへん。"
+msgstr "5000 sentences! Only sold for 5000 sentences."
+
+msgctxt "7080"
+msgid "桐生"
+msgstr "Kiryu"
+
+msgctxt "7085"
+msgid "飼い主"
+msgstr "Owner"
+
+msgctxt "7092"
+msgid "値切る"
+msgstr "haggle"
+
+msgctxt "7099"
+msgid "５０００文で購入"
+msgstr "Purchase for 5000 sentences"
+
+msgctxt "7116"
+msgid "４０００文！"
+msgstr "4,000 text!"
+
+msgctxt "7129"
+msgid "３０００文！"
+msgstr "3000 text!"
+
+msgctxt "7142"
+msgid "２０００文！"
+msgstr "2000 text!"
+
+msgctxt "7155"
+msgid "もっと値切る"
+msgstr "Cut more"
+
+msgctxt "7168"
+msgid "４５００文で購入"
+msgstr "Purchase for 4500 sentences"
+
+msgctxt "7185"
+msgid "２５００文！"
+msgstr "2500 text!"
+
+msgctxt "7198"
+msgid "３５００文で購入"
+msgstr "Purchase for 3500 sentences"
+
+msgctxt "7215"
+msgid "１０００文！"
+msgstr "1,000 text!"
+
+msgctxt "7228"
+msgid "５００文！"
+msgstr "500 texts!"

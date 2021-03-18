@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "4164"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4165"
+msgid ""
+"くーっ！　もうたまらんようなってきたわ。\n"
+"そろそろいくで。……準備はええな？"
+msgstr ""
+"Kuu! I'm starting to feel like it. It's\n"
+"about time. ...... Are you ready?"
+
+msgctxt "4242"
+msgid ""
+"一（はじめ）ちゃん、\n"
+"……準備はええな？"
+msgstr "Ichi (Hajime) -chan, are you ready?"
+
+msgctxt "4283"
+msgid "ちょっと待ってくれ。"
+msgstr "wait a moment."
+
+msgctxt "4304"
+msgid ""
+"一（はじめ）ちゃん、\n"
+"こっちは、はよう討ち入りしたくて\n"
+"ウズウズしとるんや。"
+msgstr ""
+"Ichi (Hajime) -chan, I'm sick of it because\n"
+"I want to get into it."
+
+msgctxt "4381"
+msgid ""
+"ここで、いつまでも待っとれんで。\n"
+"はよう、準備してや。"
+msgstr "Stay here forever. Good morning, get ready."
+
+msgctxt "4436"
+msgid "ああ。いつでもいける。"
+msgstr "Oh. You can go anytime."
+
+msgctxt "4459"
+msgid "よっしゃ、行くで！"
+msgstr "Alright, go!"
+
+msgctxt "4478"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4479"
+msgid "毎度おおきに!!　ご存知新選組やで！"
+msgstr "Every time it's big !! You know Shinsengumi!"
+
+msgctxt "4514"
+msgid "……今からぶっ殺しにいくでぇお前らぁ!!"
+msgstr "...... I'm going to kill you from now on!"
+
+msgctxt "4553"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4554"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4555"
+msgid ""
+"くーっ！　もうたまらんようなってきたわ。\n"
+"そろそろいくで。……準備はええな？"
+msgstr ""
+"Kuu! I'm starting to feel like it. It's\n"
+"about time. ...... Are you ready?"
+
+msgctxt "4632"
+msgid ""
+"一（はじめ）ちゃん、\n"
+"……準備はええな？"
+msgstr "Ichi (Hajime) -chan, are you ready?"
+
+msgctxt "4673"
+msgid "ちょっと待ってくれ。"
+msgstr "wait a moment."
+
+msgctxt "4694"
+msgid ""
+"一（はじめ）ちゃん、\n"
+"こっちは、はよう討ち入りしたくて\n"
+"ウズウズしとるんや。"
+msgstr ""
+"Ichi (Hajime) -chan, I'm sick of it because\n"
+"I want to get into it."
+
+msgctxt "4771"
+msgid ""
+"ここで、いつまでも待っとれんで。\n"
+"はよう、準備してや。"
+msgstr "Stay here forever. Good morning, get ready."
+
+msgctxt "4826"
+msgid "ああ。いつでもいける。"
+msgstr "Oh. You can go anytime."
+
+msgctxt "4849"
+msgid "よっしゃ、行くで！"
+msgstr "Alright, go!"
+
+msgctxt "4868"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4869"
+msgid "毎度おおきに!!　ご存知新選組やで！"
+msgstr "Every time it's big !! You know Shinsengumi!"
+
+msgctxt "4904"
+msgid "……今からぶっ殺しにいくでぇお前らぁ!!"
+msgstr "...... I'm going to kill you from now on!"
+
+msgctxt "4943"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5220"
+msgid "沖田"
+msgstr "Okita"
+
+msgctxt "5225"
+msgid "majima_c08_060_06b"
+msgstr ""
+
+msgctxt "5244"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5257"
+msgid "まだだ"
+msgstr "Still"
+
+msgctxt "5264"
+msgid "準備はできている"
+msgstr "Ready"
+
+msgctxt "5281"
+msgid "majima_adv_c08_060_003"
+msgstr ""
+
+msgctxt "5304"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "5326"
+msgid "M_BUS_TLK_stand_oki_en"
+msgstr ""
+
+msgctxt "5349"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "5354"
+msgid "kiryu_adv_c08_060_001"
+msgstr ""
+
+msgctxt "5376"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5384"
+msgid "majima_adv_c08_060_001"
+msgstr ""
+
+msgctxt "5407"
+msgid "majima_adv_c08_060_002"
+msgstr ""
+
+msgctxt "5430"
+msgid "M_BUS_TLK_stand_oki_lp"
+msgstr ""
+
+msgctxt "5453"
+msgid "M_BUS_TLK_stand_oki_st"
+msgstr ""
+
+msgctxt "5476"
+msgid "kiryu_c08_060_06"
+msgstr ""
+
+msgctxt "5493"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5502"
+msgid "majima_c08_060_08"
+msgstr ""
+
+msgctxt "5520"
+msgid "majima_c08_060_09"
+msgstr ""
+
+msgctxt "5538"
+msgid "majima_c08_060_09b"
+msgstr ""

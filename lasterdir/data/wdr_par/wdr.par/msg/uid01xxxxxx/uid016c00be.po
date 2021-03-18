@@ -1,0 +1,608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "11208"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11209"
+msgid "（ふむ……　いいお湯だな……）"
+msgstr "(Hmm ... good hot water ...)"
+
+msgctxt "11240"
+msgid "お湯加減はどう？　おじさん。"
+msgstr "How about hot water? Uncle or Mister."
+
+msgctxt "11269"
+msgid "ああ。素晴らしいぞ。"
+msgstr "Oh. It's wonderful."
+
+msgctxt "11290"
+msgid ""
+"おじさん、色々忙しいから、入れるときに\n"
+"きちんと疲れと汚れをとっておかないとね。\n"
+"……そうだ、またお背中でも流そうか？"
+msgstr ""
+"Uncle, I'm busy, so I have to get rid of\n"
+"tiredness and dirt when I put it in. ......\n"
+"Yes, will I let it flow on my back\n"
+"again?"
+
+msgctxt "11409"
+msgid "ああ。頼む。"
+msgstr "Oh. ask."
+
+msgctxt "11422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11424"
+msgid ""
+"ふぅ……　やはり、人に洗ってもらうと\n"
+"気持ちいいな。\n"
+"自分では全部は手が届かないからな……"
+msgstr ""
+"Hmm ... After all, it feels good to have\n"
+"people wash it. I can't reach everything\n"
+"myself ..."
+
+msgctxt "11515"
+msgid ""
+"よかった。\n"
+"おじさん、かゆいところとか、ある？"
+msgstr "Was good. Uncle, do you have an itchy place?"
+
+msgctxt "11562"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11563"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11564"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11565"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11566"
+msgid ""
+"もう十分だ。\n"
+"おかげできれいになった。\n"
+"ありがとうな、遥。"
+msgstr ""
+"It's enough. Thanks to you, it became beautiful.\n"
+"Thank you, Haruka."
+
+msgctxt "11625"
+msgid ""
+"ウフ、よかった。\n"
+"どういたしまして。"
+msgstr "Uhu, I'm glad. You are welcome."
+
+msgctxt "11662"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11663"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11664"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11665"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11666"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11667"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11668"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11669"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11670"
+msgid "（ふむ……　いいお湯だな……）"
+msgstr "(Hmm ... good hot water ...)"
+
+msgctxt "11701"
+msgid "お湯加減はどう？　おじさん。"
+msgstr "How about hot water? Uncle or Mister."
+
+msgctxt "11730"
+msgid "ああ。素晴らしいぞ。"
+msgstr "Oh. It's wonderful."
+
+msgctxt "11751"
+msgid ""
+"おじさん、色々忙しいから、入れるときに\n"
+"きちんと疲れと汚れをとっておかないとね。\n"
+"……そうだ、またお背中でも流そうか？"
+msgstr ""
+"Uncle, I'm busy, so I have to get rid of\n"
+"tiredness and dirt when I put it in. ......\n"
+"Yes, will I let it flow on my back\n"
+"again?"
+
+msgctxt "11870"
+msgid "ああ。頼む。"
+msgstr "Oh. ask."
+
+msgctxt "11883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11885"
+msgid ""
+"ふぅ……　やはり、人に洗ってもらうと\n"
+"気持ちいいな。\n"
+"自分では全部は手が届かないからな……"
+msgstr ""
+"Hmm ... After all, it feels good to have\n"
+"people wash it. I can't reach everything\n"
+"myself ..."
+
+msgctxt "11976"
+msgid ""
+"よかった。\n"
+"おじさん、かゆいところとか、ある？"
+msgstr "Was good. Uncle, do you have an itchy place?"
+
+msgctxt "12023"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12024"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12025"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12026"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12027"
+msgid ""
+"もう十分だ。\n"
+"おかげできれいになった。\n"
+"ありがとうな、遥。"
+msgstr ""
+"It's enough. Thanks to you, it became beautiful.\n"
+"Thank you, Haruka."
+
+msgctxt "12086"
+msgid ""
+"ウフ、よかった。\n"
+"どういたしまして。"
+msgstr "Uhu, I'm glad. You are welcome."
+
+msgctxt "12123"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12124"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12125"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12126"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12127"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12128"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12129"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12130"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12131"
+msgid "（ふむ……　いいお湯だな……）"
+msgstr "(Hmm ... good hot water ...)"
+
+msgctxt "12162"
+msgid "お湯加減はどう？　おじさん。"
+msgstr "How about hot water? Uncle or Mister."
+
+msgctxt "12191"
+msgid "ああ。素晴らしいぞ。"
+msgstr "Oh. It's wonderful."
+
+msgctxt "12212"
+msgid ""
+"おじさん、色々忙しいから、入れるときに\n"
+"きちんと疲れと汚れをとっておかないとね。\n"
+"……そうだ、お背中でも流そうか？"
+msgstr ""
+"Uncle, I'm busy, so I have to get rid of\n"
+"tiredness and dirt when I put it in. ......\n"
+"Yes, let's wash it on your back?"
+
+msgctxt "12327"
+msgid "ああ。頼む。"
+msgstr "Oh. ask."
+
+msgctxt "12340"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12341"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12342"
+msgid ""
+"ふぅ……　やはり、人に洗ってもらうと\n"
+"気持ちいいな。\n"
+"自分では全部は手が届かないからな……"
+msgstr ""
+"Hmm ... After all, it feels good to have\n"
+"people wash it. I can't reach everything\n"
+"myself ..."
+
+msgctxt "12433"
+msgid "はぁ……　それにしても、いい気分だ。"
+msgstr "Hmm ... Anyway, I feel good."
+
+msgctxt "12470"
+msgid ""
+"よかった……\n"
+"おじさん、背中大きいね……\n"
+"まるで、お父さんみたい……"
+msgstr ""
+"I'm glad ... Uncle, you have a big back\n"
+"... It's like a dad ..."
+
+msgctxt "12539"
+msgid "遥のお父さんの背中も、よく洗ってあげたのか？"
+msgstr "Did you wash Haruka's father's back well?"
+
+msgctxt "12584"
+msgid ""
+"うん。小さい頃は、よくお父さんと一緒に\n"
+"入ってたよ。"
+msgstr ""
+"Yup. When I was little, I used to go in\n"
+"with my dad."
+
+msgctxt "12637"
+msgid ""
+"背中を流してあげると、すごい喜んでくれて。\n"
+"ボソッと「ありがとう」って言ってくれたの。\n"
+"洗ってる私も嬉しくなっちゃって……"
+msgstr ""
+"Shed her back and she was very happy. He\n"
+"said \"Thank you\". I'm so happy that I'm\n"
+"washing ..."
+
+msgctxt "12760"
+msgid ""
+"……最近は全然背中を流してあげたりとか、\n"
+"しなかったけど。\n"
+"もっと流してあげればよかったかな……"
+msgstr ""
+"...... Recently, I didn't wash my back at\n"
+"all. I should have shed more ..."
+
+msgctxt "12857"
+msgid "……遥のお父さんは、どんな人だったんだ？"
+msgstr ""
+"...... What kind of person was Haruka's\n"
+"father?"
+
+msgctxt "12898"
+msgid ""
+"うーん……　いつも寡黙で、ぶっきらぼうで。\n"
+"でも、やさしい人だったよ。\n"
+"実は、おじさんに結構似てるんだ。"
+msgstr ""
+"Hmm ... Always quiet and blunt. But he was\n"
+"a kind person. Actually, it looks a\n"
+"lot like my uncle."
+
+msgctxt "13003"
+msgid "ほう。そうなのか。"
+msgstr "How. Is that so."
+
+msgctxt "13022"
+msgid ""
+"うん。小さい頃は、お父さんみたいな人と\n"
+"結婚する！　とか、よく言ってたなぁ。"
+msgstr ""
+"Yup. When I was little, I would marry someone\n"
+"like my dad! I used to say that."
+
+msgctxt "13099"
+msgid ""
+"遥のお父さんも、\n"
+"娘からそんな風に慕ってもらえるなら、\n"
+"きっと幸せだったんだろうな。"
+msgstr ""
+"Haruka's father would have been happy if\n"
+"his daughter loved him like that."
+
+msgctxt "13184"
+msgid "そ、そうかな……？"
+msgstr "Is that so ...?"
+
+msgctxt "13203"
+msgid ""
+"ああ、きっとそうさ。\n"
+"もちろん、もっと長く生きたかったという\n"
+"悔いはあるかもしれないが、な。"
+msgstr ""
+"Oh, surely. Of course, there may be regrets\n"
+"that I wanted to live longer, though."
+
+msgctxt "13296"
+msgid "…………"
+msgstr ""
+
+msgctxt "13305"
+msgid ""
+"だが、死んだ人はもう帰ってこない。\n"
+"俺達に出来ることは、その人たちの分まで\n"
+"必死に生きることだけだ。……だろ？"
+msgstr ""
+"But the dead aren't coming back anymore.\n"
+"All we can do is live desperately for\n"
+"those people. ...... Isn't it?"
+
+msgctxt "13416"
+msgid "……うん。そうだね。"
+msgstr "……Yup. Yeah."
+
+msgctxt "13437"
+msgid ""
+"私、お父さんやお母さんの分まで頑張る。\n"
+"頑張って、頑張って……\n"
+"うちの家みたいな、素敵な家庭を作るんだ。"
+msgstr ""
+"I will do my best for my father and mother.\n"
+"Good luck, good luck ... Make a nice\n"
+"home like ours."
+
+msgctxt "13542"
+msgid "……遥なら、きっと温かい家庭をつくれるさ。"
+msgstr "...... Haruka will surely make a warm home."
+
+msgctxt "13585"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13586"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13587"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13589"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13590"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13591"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13593"
+msgid "…………"
+msgstr ""
+
+msgctxt "13602"
+msgid "（……ふぅ、いいお湯だな。心が洗われるようだ）"
+msgstr ""
+"(... Huh, good hot water. It seems to wash\n"
+"my heart)"
+
+msgctxt "13649"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13650"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13651"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13652"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13653"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14332"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14338"
+msgid "haruka_furo1_d"
+msgstr ""
+
+msgctxt "14353"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "14358"
+msgid "遥"
+msgstr "remote"
+
+msgctxt "14361"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14370"
+msgid "m41002_al_senaka"
+msgstr ""
+
+msgctxt "14387"
+msgid "F_HAL_AL_senaka_kamae"
+msgstr ""
+
+msgctxt "14409"
+msgid "kiryu_bath_s01_008"
+msgstr ""
+
+msgctxt "14428"
+msgid "haruka_bath_s01_010"
+msgstr ""
+
+msgctxt "14448"
+msgid "kiryu_bath_s02_004"
+msgstr ""
+
+msgctxt "14467"
+msgid "P_KRU_AL_senaka_yes"
+msgstr ""
+
+msgctxt "14487"
+msgid "haruka_bath_s02_007"
+msgstr ""
+
+msgctxt "14507"
+msgid "F_HAL_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "14529"
+msgid "kiryu_bath_s01_017"
+msgstr ""
+
+msgctxt "14548"
+msgid "haruka_bath_s01_015"
+msgstr ""
+
+msgctxt "14568"
+msgid "kiryu_bath_s01_018"
+msgstr ""
+
+msgctxt "14587"
+msgid "P_KRU_AL_senaka_kansin"
+msgstr ""
+
+msgctxt "14610"
+msgid "kaiwabgm_hartwarm_03"
+msgstr ""
+
+msgctxt "14631"
+msgid "haruka_bath_s01_016"
+msgstr ""
+
+msgctxt "14651"
+msgid "haruka_bath_s01_017"
+msgstr ""
+
+msgctxt "14671"
+msgid "haruka_bath_s01_018"
+msgstr ""
+
+msgctxt "14691"
+msgid "kiryu_bath_s01_019"
+msgstr ""
+
+msgctxt "14710"
+msgid "haruka_bath_s01_019"
+msgstr ""
+
+msgctxt "14730"
+msgid "kiryu_bath_s01_020"
+msgstr ""
+
+msgctxt "14749"
+msgid "haruka_bath_s01_020"
+msgstr ""
+
+msgctxt "14769"
+msgid "kiryu_bath_s01_027"
+msgstr ""
+
+msgctxt "14788"
+msgid "haruka_bath_s01_028"
+msgstr ""
+
+msgctxt "14808"
+msgid "kiryu_bath_s01_028"
+msgstr ""
+
+msgctxt "14827"
+msgid "kiryu_bath_s01_029"
+msgstr ""
+
+msgctxt "14846"
+msgid "P_KRU_AL_senaka_no"
+msgstr ""
+
+msgctxt "14865"
+msgid "haruka_bath_s01_030"
+msgstr ""
+
+msgctxt "14885"
+msgid "haruka_bath_s01_031"
+msgstr ""
+
+msgctxt "14905"
+msgid "kiryu_bath_s01_030"
+msgstr ""

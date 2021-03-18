@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "11112"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11113"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11114"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11115"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11116"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11117"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11118"
+msgid "こんにちは。斎藤さん！"
+msgstr "Hello. Saito-san!"
+
+msgctxt "11141"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11142"
+msgid ""
+"あ！　……さ、斎藤さん。\n"
+"えへへへ……"
+msgstr "Ah! …… Well, Mr. Saito. Ehehehe ……"
+
+msgctxt "11181"
+msgid ""
+"あ！　……さ、斎藤さん。\n"
+"えへへへ……"
+msgstr "Ah! …… Well, Mr. Saito. Ehehehe ……"
+
+msgctxt "11220"
+msgid "よう。元気してたか？"
+msgstr "Yeah. How are you doing"
+
+msgctxt "11241"
+msgid ""
+"は！　はい！\n"
+"あの……　もしお時間あれば、少しお話しませんか？"
+msgstr ""
+"Ha! Okay! Um ... If you have time, why don't\n"
+"you talk a little?"
+
+msgctxt "11304"
+msgid "ああ。いいぞ。"
+msgstr "Oh. thumbs up."
+
+msgctxt "11319"
+msgid "やった！"
+msgstr "Hooray!"
+
+msgctxt "11328"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11329"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11330"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11331"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11332"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11333"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11334"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11335"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11336"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11337"
+msgid ""
+"ふぅ。楽しかった。\n"
+"すみません、お時間とっちゃって……"
+msgstr ""
+"Huh. was fun. I'm sorry, I'm sorry for the\n"
+"time ..."
+
+msgctxt "11392"
+msgid ""
+"いや。こっちもいい気分転換になった。\n"
+"ありがとな。"
+msgstr ""
+"Disagreeable. This was also a good change.\n"
+"Thank you."
+
+msgctxt "11443"
+msgid ""
+"い、いえ。へへへ……\n"
+"それじゃあ斎藤さん。また。"
+msgstr "No. Hehehe ... Then Mr. Saito. Also."
+
+msgctxt "11492"
+msgid "あ、斎藤さん……"
+msgstr "Oh, Mr. Saito ..."
+
+msgctxt "11509"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11510"
+msgid "薬だが、もう少し待っていてくれ。"
+msgstr "It's a medicine, but wait a little longer."
+
+msgctxt "11543"
+msgid ""
+"あ、はい……\n"
+"全然大丈夫ですよ。なんかすみません……"
+msgstr ""
+"Ah, yes ... it's okay at all. I'm sorry\n"
+"..."
+
+msgctxt "11596"
+msgid "薬を持ってきたぞ。"
+msgstr "I brought some medicine."
+
+msgctxt "11615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11616"
+msgid "ほら、飲むといい。"
+msgstr "You should drink it."
+
+msgctxt "11635"
+msgid "あ……　ありがとうございます。"
+msgstr "Oh, thank you."
+
+msgctxt "11666"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11667"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11668"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11669"
+msgid "どうだ？　効いたか？"
+msgstr "How is it? Did it work?"
+
+msgctxt "11690"
+msgid "はい！　おかげで、すごい元気になりました！"
+msgstr "Okay! Thanks to you, I'm really fine!"
+
+msgctxt "11733"
+msgid "あの……　本当にありがとうございました。"
+msgstr "Um ... Thank you very much."
+
+msgctxt "11774"
+msgid ""
+"なぁに。気にするな。\n"
+"お前が元気じゃないと、\n"
+"こっちも元気がなくなっちまうからな。"
+msgstr ""
+"What? dont 'worry. If you're not fine, you'll\n"
+"lose your energy."
+
+msgctxt "11857"
+msgid "斎藤さん……"
+msgstr "Mr. Saito ……"
+
+msgctxt "11870"
+msgid "じゃあな。体には気をつけろよ。"
+msgstr "See you. Watch out for your body."
+
+msgctxt "11901"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11902"
+msgid "すてき……"
+msgstr "Nice ……"
+
+msgctxt "11913"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11914"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11915"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11916"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11917"
+msgid "すまん、もう少し待ってくれ。"
+msgstr "I'm sorry, please wait a little longer."
+
+msgctxt "11946"
+msgid ""
+"あ、はい……\n"
+"全然大丈夫ですよ。なんかすみません……"
+msgstr ""
+"Ah, yes ... it's okay at all. I'm sorry\n"
+"..."
+
+msgctxt "11999"
+msgid "あ、斎藤さん……"
+msgstr "Oh, Mr. Saito ..."
+
+msgctxt "12016"
+msgid "ん？　どうした、いつもより元気がないようだが……"
+msgstr ""
+"Hmm? What's wrong, it seems that I'm less\n"
+"energetic than usual ..."
+
+msgctxt "12065"
+msgid ""
+"そ、そんなことないですよ。\n"
+"でも、ちょっと体調が悪くて……"
+msgstr ""
+"Well, that's not the case. But I'm a little\n"
+"sick ..."
+
+msgctxt "12124"
+msgid "そうか。薬でも飲んだ方がいいんじゃないか？"
+msgstr "Really. Isn't it better to take medicine?"
+
+msgctxt "12167"
+msgid ""
+"そ、そうですね。\n"
+"仕事が終わったら、買いに行こうかな……"
+msgstr ""
+"Well, that's right. After work, let's go\n"
+"buy ..."
+
+msgctxt "12224"
+msgid "仕事、もうすぐ終わるのか？"
+msgstr "Will the work be finished soon?"
+
+msgctxt "12251"
+msgid "いえ。まだ結構かかりそうです。"
+msgstr ""
+"House. It seems that it will still take\n"
+"quite a while."
+
+msgctxt "12282"
+msgid "そうか。なら、俺が薬を持ってきてやろう。"
+msgstr "Really. Then I'll bring you some medicine."
+
+msgctxt "12323"
+msgid "え？　いいんですか？"
+msgstr "e? Is that ok?"
+
+msgctxt "12344"
+msgid "そのくらい、お安い御用だ。"
+msgstr "That's how cheap it is."
+
+msgctxt "12371"
+msgid "す、すみません。よろしくお願いします……"
+msgstr "I'm sorry. Thank you……"
+
+msgctxt "12412"
+msgid ""
+"（体力回復する薬ならなんでもいいだろう。\n"
+"　もってきてやろう）"
+msgstr ""
+"(Any medicine that restores physical strength\n"
+"will do. I'll bring it.)"
+
+msgctxt "12475"
+msgid "あ！　斎藤さん。"
+msgstr "Ah! Mr. Saito."
+
+msgctxt "12492"
+msgid "よう。調子はどうだ。"
+msgstr "Yeah. How are you doing?"
+
+msgctxt "12513"
+msgid ""
+"はい！　相変わらず元気です。\n"
+"斎藤さんも、ご自愛くださいね。"
+msgstr ""
+"Okay! I'm fine as usual. Saito-san, please\n"
+"love yourself too."
+
+msgctxt "12574"
+msgid "ああ。それじゃあな。"
+msgstr "Oh. Well then."
+
+msgctxt "12595"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12596"
+msgid "あ、あの……"
+msgstr "Ah, that ..."
+
+msgctxt "12609"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12610"
+msgid "斎藤さんですよね？"
+msgstr "Saito-san, right?"
+
+msgctxt "12629"
+msgid "ああ。そうだが……"
+msgstr "Oh. That's right ..."
+
+msgctxt "12648"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12649"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12650"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12651"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12652"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12653"
+msgid ""
+"私、この神社で巫女をやってます、\n"
+"朱里（あかり）と申します。\n"
+"いつも神主さんがお世話になってます。"
+msgstr ""
+"My name is Akari and I am a shrine maiden\n"
+"at this shrine. The priest is always\n"
+"indebted."
+
+msgctxt "12752"
+msgid "いや、こちらこそ。"
+msgstr "No, this is it."
+
+msgctxt "12771"
+msgid ""
+"斎藤さんのお噂は、神主さんからかねがね……\n"
+"新選組をやられていたり、借金を引き受けたり、\n"
+"すごい方なんだそうですね。"
+msgstr ""
+"Mr. Saito's rumor is that he is a priest\n"
+"... He is a great person who has been\n"
+"in the Shinsengumi and has taken on debt."
+
+msgctxt "12888"
+msgid "……別にすごくなんかないさ。"
+msgstr "...... It's not really that great."
+
+msgctxt "12917"
+msgid ""
+"私なんかに用事なんかないと思いますけど……\n"
+"もしよければ、\n"
+"お暇なときにでも声かけてくださいね。"
+msgstr ""
+"I don't think I have anything to do, but\n"
+"... If you like, please talk to me even\n"
+"when you're free."
+
+msgctxt "13014"
+msgid "ああ。これからよろしくな、巫女の……"
+msgstr ""
+"Oh. Nice to meet you from now on, the shrine\n"
+"maiden ..."
+
+msgctxt "13051"
+msgid "朱里です。「あかり」と呼んでください。"
+msgstr "This is Syuri. Please call me \"Akari\"."
+
+msgctxt "13090"
+msgid "分かった。よろしくな、あかり。"
+msgstr "Do you get it. Nice to meet you, Akari."
+
+msgctxt "13121"
+msgid ""
+"「あかり」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「あかり」と交流してみましょう。"
+msgstr ""
+"A bond with \"Akari\" has sprung up. You can\n"
+"deepen your bond by interacting with\n"
+"each other and accumulating the bond gauge\n"
+"in the future. You can also check\n"
+"the status of the gauge in the \"Dedication\n"
+"Catalog\" in the pause menu. Let's actively\n"
+"interact with \"Akari\"."
+
+msgctxt "13330"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13331"
+msgid "こんにちは。"
+msgstr "Hello."
+
+msgctxt "15040"
+msgid "あかり"
+msgstr "light"
+
+msgctxt "15047"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "15058"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "15063"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "15072"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "15083"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "15094"
+msgid "dummy"
+msgstr ""
+
+msgctxt "15100"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "15110"
+msgid "L"
+msgstr ""
+
+msgctxt "15112"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "15123"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "15133"
+msgid "0"
+msgstr ""
+
+msgctxt "15135"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15143"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "15153"
+msgid "巫女"
+msgstr "Priestess"
+
+msgctxt "15158"
+msgid "あかりとの絆"
+msgstr "Bond with Akari"

@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "BUTTON_MARU_0"
+msgid "決定"
+msgstr "Decide"
+
+msgctxt "BUTTON_MARU_1"
+msgid "鼓"
+msgstr "drum"
+
+msgctxt "BUTTON_MARU_2"
+msgid ""
+"賭け点決定\n"
+"サイコロを投げる"
+msgstr "Throw a betting point decision dice"
+
+msgctxt "BUTTON_MARU_3"
+msgid "投入/竿を上げる/決定"
+msgstr "Input / Raise the rod / Decide"
+
+msgctxt "BUTTON_MARU_4"
+msgid "きつね"
+msgstr "Fox"
+
+msgctxt "BUTTON_MARU_5"
+msgid "割る"
+msgstr "Divide"
+
+msgctxt "BUTTON_MARU_6"
+msgid "盃を持ち上げる"
+msgstr "Lift the cup"
+
+msgctxt "BUTTON_MARU_7"
+msgid "パー"
+msgstr "Par"
+
+msgctxt "BUTTON_MARU_8"
+msgid "介抱ショット"
+msgstr "Care shot"
+
+msgctxt "BUTTON_MARU_9"
+msgid "隠れる/捕える/話す"
+msgstr "Hide / Catch / Speak"
+
+msgctxt "BUTTON_MARU_10"
+msgid "舞う（入力）"
+msgstr "Dance (input)"
+
+msgctxt "BUTTON_MARU_12"
+msgid "切る/注ぐ/返す/吹く"
+msgstr "Cut / Pour / Return / Blow"
+
+msgctxt "BUTTON_BATSU_0"
+msgid "キャンセル"
+msgstr "Cancel"
+
+msgctxt "BUTTON_BATSU_1"
+msgid "手拍子"
+msgstr "Clap"
+
+msgctxt "BUTTON_BATSU_2"
+msgid ""
+"キャンセル\n"
+"画面表示を閉じる"
+msgstr "Close the cancel screen display"
+
+msgctxt "BUTTON_BATSU_3"
+msgid "終了/戻る"
+msgstr "Exit / Back"
+
+msgctxt "BUTTON_BATSU_4"
+msgid "月見"
+msgstr "Yuejian"
+
+msgctxt "BUTTON_BATSU_5"
+msgid "やめる"
+msgstr "Stop"
+
+msgctxt "BUTTON_BATSU_6"
+msgid "盃を下げる"
+msgstr "Lower the cup"
+
+msgctxt "BUTTON_BATSU_7"
+msgid "チョキ"
+msgstr "Choki"
+
+msgctxt "BUTTON_BATSU_8"
+msgid "介抱ボム"
+msgstr "Care bomb"
+
+msgctxt "BUTTON_BATSU_9"
+msgid "ダッシュ"
+msgstr "dash"
+
+msgctxt "BUTTON_BATSU_10"
+msgid "舞う（入力）"
+msgstr "Dance (input)"
+
+msgctxt "BUTTON_BATSU_12"
+msgid "切る"
+msgstr "Cut"
+
+msgctxt "BUTTON_SANKAKU_0"
+msgid "遊び方説明"
+msgstr "How to play"
+
+msgctxt "BUTTON_SANKAKU_2"
+msgid "駒説明"
+msgstr "Piece description"
+
+msgctxt "BUTTON_SANKAKU_3"
+msgid "合いの手"
+msgstr "Matching hands"
+
+msgctxt "BUTTON_SANKAKU_4"
+msgid "アイテム使用画面表示"
+msgstr "Item usage screen display"
+
+msgctxt "BUTTON_SANKAKU_5"
+msgid "撒き餌"
+msgstr "Sprinkle bait"
+
+msgctxt "BUTTON_SANKAKU_6"
+msgid "天ぷら"
+msgstr "tempura"
+
+msgctxt "BUTTON_SANKAKU_7"
+msgid "心眼"
+msgstr "Mindful"
+
+msgctxt "BUTTON_SANKAKU_8"
+msgid "介抱ボム"
+msgstr "Care bomb"
+
+msgctxt "BUTTON_SANKAKU_9"
+msgid "舞う（入力）"
+msgstr "Dance (input)"
+
+msgctxt "BUTTON_SHIKAKU_0"
+msgid ""
+"アクションコマンドの\n"
+"表示・非表示"
+msgstr "Show / hide action commands"
+
+msgctxt "BUTTON_SHIKAKU_2"
+msgid "役一覧表示"
+msgstr "Role list display"
+
+msgctxt "BUTTON_SHIKAKU_3"
+msgid "待った"
+msgstr "waited"
+
+msgctxt "BUTTON_SHIKAKU_4"
+msgid "鈴"
+msgstr "bell"
+
+msgctxt "BUTTON_SHIKAKU_5"
+msgid "一振り三倍投げ"
+msgstr "One swing triple throw"
+
+msgctxt "BUTTON_SHIKAKU_6"
+msgid "出目履歴画面表示"
+msgstr "Roll history screen display"
+
+msgctxt "BUTTON_SHIKAKU_7"
+msgid "ヘルプ"
+msgstr "help"
+
+msgctxt "BUTTON_SHIKAKU_8"
+msgid "釣具選択"
+msgstr "Fishing tackle selection"
+
+msgctxt "BUTTON_SHIKAKU_9"
+msgid "たぬき"
+msgstr "Raccoon"
+
+msgctxt "BUTTON_SHIKAKU_10"
+msgid "グー"
+msgstr "Goo"
+
+msgctxt "BUTTON_SHIKAKU_11"
+msgid "介抱ショット"
+msgstr "Care shot"
+
+msgctxt "BUTTON_SHIKAKU_12"
+msgid "舞う（入力）"
+msgstr "Dance (input)"
+
+msgctxt "BUTTON_SHIKAKU_13"
+msgid "弾を斬る・撃つ"
+msgstr "Slash and shoot bullets"
+
+msgctxt "DEGITAL_KEY_0"
+msgid "牌の選択／項目の変更"
+msgstr "Select tiles / change items"
+
+msgctxt "DEGITAL_KEY_1"
+msgid "アクション選択"
+msgstr "Action selection"
+
+msgctxt "DEGITAL_KEY_2"
+msgid "カーソルの移動"
+msgstr "Move cursor"
+
+msgctxt "DEGITAL_KEY_3"
+msgid "将棋を指す手の移動"
+msgstr "Movement of the hand pointing to shogi"
+
+msgctxt "DEGITAL_KEY_5"
+msgid "ＢＥＴ額変更"
+msgstr "BET amount change"
+
+msgctxt "DEGITAL_KEY_6"
+msgid "龍馬移動"
+msgstr "Ryoma move"
+
+msgctxt "DEGITAL_KEY_7"
+msgid "舞う（入力）"
+msgstr "Dance (input)"
+
+msgctxt "DEGITAL_KEY_8"
+msgid "札の選択"
+msgstr "Tag selection"
+
+msgctxt "BUTTON_L1_0"
+msgid "捨て牌確認"
+msgstr "Confirmation of discarded tiles"
+
+msgctxt "BUTTON_L1_1"
+msgid "捨て牌確認"
+msgstr "Confirmation of discarded tiles"
+
+msgctxt "BUTTON_L1_2"
+msgid "超待った"
+msgstr "Waited super"
+
+msgctxt "BUTTON_L1_3"
+msgid "カメラの移動"
+msgstr "Camera movement"
+
+msgctxt "BUTTON_L1_4"
+msgid "おすすめ"
+msgstr "Recommended"
+
+msgctxt "BUTTON_R1_1"
+msgid "つぶやき"
+msgstr "Tweet"
+
+msgctxt "BUTTON_R1_2"
+msgid "カメラの移動"
+msgstr "Camera movement"
+
+msgctxt "BUTTON_R1_3"
+msgid "クライマックス演舞"
+msgstr "Climax performance"
+
+msgctxt "BUTTON_R2_1"
+msgid ""
+"名前／オンラインID\n"
+"表示切り替え"
+msgstr "Name / online ID display switching"
+
+msgctxt "STICK_L_0"
+msgid "牌の選択／項目の変更"
+msgstr "Select tiles / change items"
+
+msgctxt "STICK_L_1"
+msgid "アクション選択"
+msgstr "Action selection"
+
+msgctxt "STICK_L_2"
+msgid "カーソルの移動"
+msgstr "Move cursor"
+
+msgctxt "STICK_L_3"
+msgid "将棋を指す手の移動"
+msgstr "Movement of the hand pointing to shogi"
+
+msgctxt "STICK_L_5"
+msgid "ＢＥＴ額変更"
+msgstr "BET amount change"
+
+msgctxt "STICK_L_6"
+msgid "龍馬移動"
+msgstr "Ryoma move"
+
+msgctxt "STICK_L_7"
+msgid "移動"
+msgstr "mobile"
+
+msgctxt "STICK_L_8"
+msgid "舞う（入力）"
+msgstr "Dance (input)"
+
+msgctxt "STICK_L_9"
+msgid "札の選択"
+msgstr "Tag selection"
+
+msgctxt "STICK_R_0"
+msgid "カメラ移動"
+msgstr "Camera movement"
+
+msgctxt "STICK_R_1"
+msgid "舞う（入力）"
+msgstr "Dance (input)"
+
+msgctxt "SELECT_0"
+msgid "中断選択"
+msgstr "Suspend selection"
+
+msgctxt "SELECT_2"
+msgid "中断選択＝投了"
+msgstr "Suspension selection = end"
+
+msgctxt "SELECT_3"
+msgid ""
+"中断選択\n"
+"（勝負中使用禁止）"
+msgstr "Suspension selection (use prohibited during the game)"
+
+msgctxt "SELECT_4"
+msgid "マップ表示"
+msgstr "Map display"
+
+msgctxt "START_0"
+msgid "操作説明"
+msgstr "Operation explanation"
+
+msgctxt "TOUCH_0"
+msgid ""
+"牌や選択項目を\n"
+"タッチして選択決定"
+msgstr "Touch the tile or selection item to confirm the selection"
+
+msgctxt "TOUCH_1"
+msgid ""
+"名前／オンラインID\n"
+"タッチで表示切り替え"
+msgstr "Name / Online ID Touch to switch display"
+
+msgctxt "TOUCH_2"
+msgid ""
+"札や選択項目を\n"
+"タッチして選択決定"
+msgstr "Touch the tag or selection item to confirm the selection"
+
+msgctxt "TOUCH_3"
+msgid ""
+"駒の移動／選択項目を\n"
+"タッチして選択決定"
+msgstr "Move / touch the selection item to confirm the selection"

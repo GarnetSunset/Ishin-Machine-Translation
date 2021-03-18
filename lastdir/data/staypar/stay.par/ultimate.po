@@ -1,0 +1,535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "CATEGORY_0"
+msgid "乱戦闘技"
+msgstr "乱戦闘技"
+
+msgctxt "CATEGORY_1"
+msgid "試練闘技"
+msgstr "試練闘技"
+
+msgctxt "CATEGORY_2"
+msgid "疾走闘技"
+msgstr "疾走闘技"
+
+msgctxt "CATEGORY_3"
+msgid "究極闘技"
+msgstr "究極闘技"
+
+msgctxt "CATEGORY_EXP_0"
+msgid "様々な状況や条件で敵を全滅させることを目的としたミッションです。"
+msgstr "様々な状況や条件で敵を全滅させることを目的としたミッションです。"
+
+msgctxt "CATEGORY_EXP_1"
+msgid "特殊なクリア条件が設定されたミッションです。"
+msgstr "特殊なクリア条件が設定されたミッションです。"
+
+msgctxt "CATEGORY_EXP_2"
+msgid "様々な状況や条件でチェイスバトルを行うミッションです。"
+msgstr "様々な状況や条件でチェイスバトルを行うミッションです。"
+
+msgctxt "CATEGORY_EXP_3"
+msgid "強敵と立て続けに連戦を行うミッションです。"
+msgstr "強敵と立て続けに連戦を行うミッションです。"
+
+msgctxt "MENU_NAME_0"
+msgid "其の一"
+msgstr "Part 1"
+
+msgctxt "MENU_NAME_1"
+msgid "其の二"
+msgstr "Part 2"
+
+msgctxt "MENU_NAME_2"
+msgid "其の三"
+msgstr "Part 3"
+
+msgctxt "MENU_NAME_3"
+msgid "其の四"
+msgstr "Part 4"
+
+msgctxt "MENU_NAME_4"
+msgid "其の五"
+msgstr "Part 5"
+
+msgctxt "MENU_NAME_5"
+msgid "其の六"
+msgstr "Part 6"
+
+msgctxt "MENU_NAME_6"
+msgid "其の七"
+msgstr "Seven"
+
+msgctxt "MENU_NAME_7"
+msgid "其の八"
+msgstr "No. 8"
+
+msgctxt "MENU_NAME_8"
+msgid "其の九"
+msgstr "Part 9"
+
+msgctxt "MENU_NAME_9"
+msgid "其の十"
+msgstr "Part ten"
+
+msgctxt "NAME_0"
+msgid "乱戦闘技　其の一"
+msgstr "Random combat technique part 1"
+
+msgctxt "NAME_1"
+msgid "乱戦闘技　其の二"
+msgstr "Random combat technique part 2"
+
+msgctxt "NAME_2"
+msgid "乱戦闘技　其の三"
+msgstr "Random combat technique part 3"
+
+msgctxt "NAME_3"
+msgid "乱戦闘技　其の四"
+msgstr "Random combat technique No. 4"
+
+msgctxt "NAME_4"
+msgid "乱戦闘技　其の五"
+msgstr "Random combat technique No. 5"
+
+msgctxt "NAME_5"
+msgid "乱戦闘技　其の六"
+msgstr "Random combat technique No. 6"
+
+msgctxt "NAME_6"
+msgid "乱戦闘技　其の七"
+msgstr "Random combat technique No. 7"
+
+msgctxt "NAME_7"
+msgid "乱戦闘技　其の八"
+msgstr "Random combat technique No. 8"
+
+msgctxt "NAME_8"
+msgid "乱戦闘技　其の九"
+msgstr "Random combat technique No. 9"
+
+msgctxt "NAME_9"
+msgid "乱戦闘技　其の十"
+msgstr "Random combat technique No. 10"
+
+msgctxt "NAME_10"
+msgid "試練闘技　其の一"
+msgstr "Trial Fighting Part 1"
+
+msgctxt "NAME_11"
+msgid "試練闘技　其の二"
+msgstr "Trial Fighting Part 2"
+
+msgctxt "NAME_12"
+msgid "試練闘技　其の三"
+msgstr "Trial Fighting Part 3"
+
+msgctxt "NAME_13"
+msgid "試練闘技　其の四"
+msgstr "Trial Fighting Part 4"
+
+msgctxt "NAME_14"
+msgid "試練闘技　其の五"
+msgstr "Trial Fighting Part 5"
+
+msgctxt "NAME_15"
+msgid "試練闘技　其の六"
+msgstr "Trial Fighting Part 6"
+
+msgctxt "NAME_16"
+msgid "試練闘技　其の七"
+msgstr "Trial Fighting Part 7"
+
+msgctxt "NAME_17"
+msgid "試練闘技　其の八"
+msgstr "Trial Fighting Part 8"
+
+msgctxt "NAME_18"
+msgid "試練闘技　其の九"
+msgstr "Trial Fighting Part 9"
+
+msgctxt "NAME_19"
+msgid "試練闘技　其の十"
+msgstr "Trial Fighting Part 10"
+
+msgctxt "NAME_20"
+msgid "疾走闘技　其の一"
+msgstr "Sprinting fighting part 1"
+
+msgctxt "NAME_21"
+msgid "疾走闘技　其の二"
+msgstr "Sprinting fighting part 2"
+
+msgctxt "NAME_22"
+msgid "疾走闘技　其の三"
+msgstr "Sprinting fighting part 3"
+
+msgctxt "NAME_23"
+msgid "疾走闘技　其の四"
+msgstr "Sprinting Fighting Part 4"
+
+msgctxt "NAME_24"
+msgid "疾走闘技　其の五"
+msgstr "Sprinting Fighting Part 5"
+
+msgctxt "NAME_25"
+msgid "究極闘技　其の一"
+msgstr "Ultimate fighting part 1"
+
+msgctxt "NAME_26"
+msgid "究極闘技　其の二"
+msgstr "Ultimate fighting part 2"
+
+msgctxt "NAME_27"
+msgid "究極闘技　其の三"
+msgstr "Ultimate Fighting Part 3"
+
+msgctxt "NAME_28"
+msgid "究極闘技　其の四"
+msgstr "Ultimate Fighting Part 4"
+
+msgctxt "NAME_29"
+msgid "究極闘技　其の五"
+msgstr "Ultimate Fighting Part 5"
+
+msgctxt "EXPLANATION_0"
+msgid "制限時間内に敵を全滅せよ！"
+msgstr "Eliminate your enemies within the time limit!"
+
+msgctxt "EXPLANATION_1"
+msgid "格闘の型で制限時間内に敵を全滅せよ！"
+msgstr "Eliminate enemies within the time limit with a fighting style!"
+
+msgctxt "EXPLANATION_2"
+msgid "一刀の型で制限時間内に敵を全滅せよ！"
+msgstr "Eliminate enemies within the time limit with a single sword!"
+
+msgctxt "EXPLANATION_3"
+msgid "短銃の型で制限時間内に敵を全滅せよ！"
+msgstr "Eliminate enemies within the time limit with a pistol type!"
+
+msgctxt "EXPLANATION_4"
+msgid "乱舞の型で制限時間内に敵を全滅せよ！"
+msgstr ""
+"Eliminate the enemies within the time limit with the type of turbulence!"
+
+msgctxt "EXPLANATION_5"
+msgid "１５秒以内に敵を全滅せよ！"
+msgstr "Eliminate your enemies within 15 seconds!"
+
+msgctxt "EXPLANATION_6"
+msgid "制限時間内に高知城から脱出せよ！"
+msgstr "Escape from Kochi Castle within the time limit!"
+
+msgctxt "EXPLANATION_7"
+msgid ""
+"ヒートアクションのみで敵を全滅せよ！\n"
+"ただし同じヒートアクションではダメージを与えられない。"
+msgstr ""
+"Eliminate your enemies with just heat action! However, the same heat action "
+"does not do any damage."
+
+msgctxt "EXPLANATION_8"
+msgid "絶技のみを使用して敵を全滅せよ！"
+msgstr "Eliminate your enemies using only feats!"
+
+msgctxt "EXPLANATION_9"
+msgid "かかしを全て破壊せよ！"
+msgstr "Destroy all scarecrows!"
+
+msgctxt "EXPLANATION_10"
+msgid "９９連撃を達成せよ！"
+msgstr "Achieve 99 consecutive attacks!"
+
+msgctxt "EXPLANATION_11"
+msgid "肩書き「天下無双」を獲得せよ！"
+msgstr "Get the title \"Tenka Musou\"!"
+
+msgctxt "EXPLANATION_12"
+msgid "秋元を新選組から守れ！"
+msgstr "Protect Akimoto from the Shinsengumi!"
+
+msgctxt "EXPLANATION_13"
+msgid "大砲を使って１００人の敵を倒せ！"
+msgstr "Defeat 100 enemies with a cannon!"
+
+msgctxt "EXPLANATION_14"
+msgid ""
+"赤い忍者、黄色い忍者、青い忍者の順に敵を倒せ！\n"
+"ただしそれ以外の敵は傷つけるな！"
+msgstr ""
+"Defeat the enemies in the order of red ninja, yellow ninja, and blue ninja! "
+"But don't hurt other enemies!"
+
+msgctxt "EXPLANATION_15"
+msgid "落ちている武器のみで敵を全滅させろ！"
+msgstr "Eliminate the enemy with only the falling weapons!"
+
+msgctxt "EXPLANATION_16"
+msgid "敵を全滅せよ！"
+msgstr "Eliminate your enemies!"
+
+msgctxt "EXPLANATION_17"
+msgid "制限時間内に御所前まで疾走せよ！"
+msgstr "Run to the Imperial Palace within the time limit!"
+
+msgctxt "EXPLANATION_18"
+msgid ""
+"にわとりに接触しないよう逃げつつ\n"
+"卵を１０個集めろ！"
+msgstr "Collect 10 eggs while running away so as not to touch the chicken!"
+
+msgctxt "EXPLANATION_19"
+msgid ""
+"制限時間内に新選組から逃げ切り\n"
+"目的地へたどり着け！"
+msgstr ""
+"Escape from the Shinsengumi and reach your destination within the time "
+"limit!"
+
+msgctxt "EXPLANATION_20"
+msgid "見つからずに目的地までたどり着け！"
+msgstr "Get to your destination without being found!"
+
+msgctxt "EXPLANATION_21"
+msgid "究極将軍を捕まえろ！"
+msgstr "Catch the ultimate general!"
+
+msgctxt "EXPLANATION_22"
+msgid ""
+"２人の強敵と８人の敵を討ち倒せ！\n"
+"※ただし、一戦ごとに体力の２５％回復する"
+msgstr ""
+"Defeat 2 strong enemies and 8 enemies! * However, you will recover 25% of "
+"your physical strength in each battle."
+
+msgctxt "EXPLANATION_23"
+msgid ""
+"２人の強敵と英国兵１０名と熊を討ち倒せ！\n"
+"※ただし、一戦ごとに体力の２５％回復する"
+msgstr ""
+"Defeat 2 strong enemies, 10 British soldiers and a bear! * However, you will"
+" recover 25% of your physical strength in each battle."
+
+msgctxt "EXPLANATION_24"
+msgid ""
+"３人の強敵を討ち倒せ！\n"
+"※ただし、一戦ごとに体力の２５％回復する"
+msgstr ""
+"Defeat 3 powerful enemies! * However, you will recover 25% of your physical "
+"strength in each battle."
+
+msgctxt "EXPLANATION_25"
+msgid "８人の強敵を討ち倒せ！"
+msgstr "Defeat 8 powerful enemies!"
+
+msgctxt "LEVEL_DISP_0"
+msgid "最強龍馬"
+msgstr "The strongest Ryoma"
+
+msgctxt "LEVEL_DISP_1"
+msgid "最弱龍馬"
+msgstr "The weakest dragon horse"
+
+msgctxt "LEVEL_DISP_2"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "LEVEL_0"
+msgid "最強"
+msgstr "Strongest"
+
+msgctxt "LEVEL_1"
+msgid "最弱"
+msgstr "Weakest"
+
+msgctxt "ITEM_LEFT_RANK_0"
+msgid "最上"
+msgstr "Mogami"
+
+msgctxt "ITEM_LEFT_RANK_1"
+msgid "鈍"
+msgstr "blunt"
+
+msgctxt "ITEM_RIGHT_RANK_0"
+msgid "最上"
+msgstr "Mogami"
+
+msgctxt "ITEM_RIGHT_RANK_1"
+msgid "鈍"
+msgstr "blunt"
+
+msgctxt "ITEM_ARMOR_RANK_0"
+msgid "最上"
+msgstr "Mogami"
+
+msgctxt "ITEM_KOTE_RANK_0"
+msgid "最上"
+msgstr "Mogami"
+
+msgctxt "ITEM_HACHIMAKI_RANK_0"
+msgid "最上"
+msgstr "Mogami"
+
+msgctxt "CHAPTER_0"
+msgid "乱戦闘技"
+msgstr "Random combat technique"
+
+msgctxt "CHAPTER_1"
+msgid "試練闘技"
+msgstr "Trial fighting"
+
+msgctxt "CHAPTER_2"
+msgid "疾走闘技"
+msgstr "Sprinting fighting"
+
+msgctxt "CHAPTER_3"
+msgid "究極闘技その１"
+msgstr "Ultimate Fighting Part 1"
+
+msgctxt "CHAPTER_4"
+msgid "究極闘技その２"
+msgstr "Ultimate fighting part 2"
+
+msgctxt "CHAPTER_5"
+msgid "究極闘技その３"
+msgstr "Ultimate fighting part 3"
+
+msgctxt "CHAPTER_6"
+msgid "究極闘技その４"
+msgstr "Ultimate fighting part 4"
+
+msgctxt "CHAPTER_7"
+msgid "究極闘技その５"
+msgstr "Ultimate Fighting Part 5"
+
+msgctxt "SCENARIO_0"
+msgid "乱戦闘技その１"
+msgstr "Random combat technique 1"
+
+msgctxt "SCENARIO_1"
+msgid "乱戦闘技その２"
+msgstr "Random combat technique 2"
+
+msgctxt "SCENARIO_2"
+msgid "乱戦闘技その３"
+msgstr "Random combat technique 3"
+
+msgctxt "SCENARIO_3"
+msgid "乱戦闘技その４"
+msgstr "Random combat technique part 4"
+
+msgctxt "SCENARIO_4"
+msgid "乱戦闘技その５"
+msgstr "Random combat technique part 5"
+
+msgctxt "SCENARIO_5"
+msgid "乱戦闘技その６"
+msgstr "Random combat technique 6"
+
+msgctxt "SCENARIO_6"
+msgid "乱戦闘技その７"
+msgstr "Random combat technique 7"
+
+msgctxt "SCENARIO_7"
+msgid "乱戦闘技その８"
+msgstr "Random combat technique 8"
+
+msgctxt "SCENARIO_8"
+msgid "乱戦闘技その９"
+msgstr "Random combat technique part 9"
+
+msgctxt "SCENARIO_9"
+msgid "乱戦闘技その１０"
+msgstr "Random combat technique part 10"
+
+msgctxt "SCENARIO_10"
+msgid "試練闘技その１"
+msgstr "Trial Fighting Part 1"
+
+msgctxt "SCENARIO_11"
+msgid "試練闘技その２"
+msgstr "Trial Fighting Part 2"
+
+msgctxt "SCENARIO_12"
+msgid "試練闘技その３"
+msgstr "Trial Fighting Part 3"
+
+msgctxt "SCENARIO_13"
+msgid "試練闘技その４"
+msgstr "Trial Fighting Part 4"
+
+msgctxt "SCENARIO_14"
+msgid "試練闘技その５"
+msgstr "Trial Fighting Part 5"
+
+msgctxt "SCENARIO_15"
+msgid "試練闘技その６"
+msgstr "Trial Fighting Part 6"
+
+msgctxt "SCENARIO_16"
+msgid "試練闘技その７"
+msgstr "Trial Fighting Part 7"
+
+msgctxt "SCENARIO_17"
+msgid "試練闘技その８"
+msgstr "Trial Fighting Part 8"
+
+msgctxt "SCENARIO_18"
+msgid "試練闘技その９"
+msgstr "Trial Fighting Part 9"
+
+msgctxt "SCENARIO_19"
+msgid "試練闘技その１０"
+msgstr "Trial Fighting Part 10"
+
+msgctxt "SCENARIO_20"
+msgid "疾走闘技その１"
+msgstr "Sprinting combat part 1"
+
+msgctxt "SCENARIO_21"
+msgid "疾走闘技その２"
+msgstr "Sprinting combat part 2"
+
+msgctxt "SCENARIO_22"
+msgid "疾走闘技その３"
+msgstr "Sprinting combat part 3"
+
+msgctxt "SCENARIO_23"
+msgid "疾走闘技その４"
+msgstr "Sprinting combat part 4"
+
+msgctxt "SCENARIO_24"
+msgid "疾走闘技その５"
+msgstr "Sprinting Fighting Part 5"
+
+msgctxt "SCENARIO_25"
+msgid "究極闘技その１－１"
+msgstr "Ultimate Fighting Part 1-1"
+
+msgctxt "SCENARIO_26"
+msgid "究極闘技その２－１"
+msgstr "Ultimate Fighting Part 2-1"
+
+msgctxt "SCENARIO_27"
+msgid "究極闘技その３－１"
+msgstr "Ultimate Fighting Part 3-1"
+
+msgctxt "SCENARIO_28"
+msgid "究極闘技その４－１"
+msgstr "Ultimate Fighting Part 4-1"
+
+msgctxt "SCENARIO_29"
+msgid "究極闘技その５－１"
+msgstr "Ultimate Fighting Part 5-1"

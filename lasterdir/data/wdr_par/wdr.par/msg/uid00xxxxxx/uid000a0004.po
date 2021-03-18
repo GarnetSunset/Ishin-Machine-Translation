@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2828"
+msgid "ええやないか！"
+msgstr "Yeah!"
+
+msgctxt "2843"
+msgid ""
+"場も盛り上がっとることやし……\n"
+"一（はじめ）ちゃんも歌ってや？"
+msgstr ""
+"The place is also exciting ... Ichi (Hajime)\n"
+"-chan should sing too?"
+
+msgctxt "2906"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2907"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2908"
+msgid "なんや、ノリ悪いのぅ……"
+msgstr "What a bad feeling ..."
+
+msgctxt "2933"
+msgid "邪魔すんなや～。"
+msgstr "Don't get in the way."
+
+msgctxt "2950"
+msgid "…………"
+msgstr ""
+
+msgctxt "2959"
+msgid "イマイチぱっとせんかったのぅ。はぁ～……"
+msgstr "I didn't like it. Hmm ..."
+
+msgctxt "3000"
+msgid "さすがや。惚れ惚れしたで～。"
+msgstr "As expected. I fell in love with you ~."
+
+msgctxt "3029"
+msgid ""
+"場も盛り上がっとることやし……\n"
+"一（はじめ）ちゃんも歌ってや？"
+msgstr ""
+"The place is also exciting ... Ichi (Hajime)\n"
+"-chan should sing too?"
+
+msgctxt "3092"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3093"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3094"
+msgid "なんや、ノリ悪いのぅ……"
+msgstr "What a bad feeling ..."
+
+msgctxt "3119"
+msgid "なかなかよかったのぅ。次はもっと高み目指そうや。"
+msgstr ""
+"It was pretty good. Let's aim for higher\n"
+"next time."
+
+msgctxt "3168"
+msgid "へったくそやな～……"
+msgstr "It's awkward ..."
+
+msgctxt "3189"
+msgid "…………"
+msgstr ""
+
+msgctxt "3198"
+msgid "イマイチぱっとせんかったのぅ。はぁ～……"
+msgstr "I didn't like it. Hmm ..."
+
+msgctxt "3239"
+msgid "天女のような歌声やったで……！"
+msgstr "I sang like a celestial maiden ...!"
+
+msgctxt "3270"
+msgid ""
+"最高に盛り上がったな。\n"
+"また暇があったら遊ぼな～。"
+msgstr ""
+"It was really exciting. If you have free\n"
+"time, don't play."
+
+msgctxt "3388"
+msgid "沖田"
+msgstr "Okita"
+
+msgctxt "3393"
+msgid "majima_game_utagoe_06"
+msgstr ""
+
+msgctxt "3415"
+msgid "majima_game_utagoe_08"
+msgstr ""
+
+msgctxt "3437"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3446"
+msgid "歌う"
+msgstr "sing"
+
+msgctxt "3451"
+msgid "歌わない"
+msgstr "Don't sing"
+
+msgctxt "3460"
+msgid "majima_game_utagoe_03"
+msgstr ""
+
+msgctxt "3482"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3488"
+msgid "majima_game_utagoe_05"
+msgstr ""
+
+msgctxt "3510"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "3515"
+msgid "majima_game_utagoe_14"
+msgstr ""
+
+msgctxt "3537"
+msgid "majima_game_utagoe_07"
+msgstr ""
+
+msgctxt "3559"
+msgid "majima_game_utagoe_13"
+msgstr ""
+
+msgctxt "3581"
+msgid "majima_game_utagoe_09"
+msgstr ""
+
+msgctxt "3603"
+msgid "majima_game_utagoe_11"
+msgstr ""
+
+msgctxt "3625"
+msgid "majima_game_utagoe_12"
+msgstr ""

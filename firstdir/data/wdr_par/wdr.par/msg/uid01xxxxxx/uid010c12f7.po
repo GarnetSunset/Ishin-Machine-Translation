@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5564"
+msgid ""
+"かはっ……　つ、強ぇ……\n"
+"なんなんだ、こいつ……"
+msgstr "Kaha ... Tsu, strong ... What is this ..."
+
+msgctxt "5613"
+msgid ""
+"ちっ……　おい、こいつはヤメだ。\n"
+"襲うのは、他の奴にする。\n"
+"ちくしょうめ……！　ずらかるぞ！"
+msgstr ""
+"Hey ... Hey, this guy is bad. It's the other\n"
+"guy who attacks. Chikushome ……! It's\n"
+"hard!"
+
+msgctxt "5706"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5707"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5708"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5709"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5710"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5711"
+msgid ""
+"（除け者にされた奴らの巣窟、骸街か……\n"
+"　気を抜いていたら危ないな。\n"
+"　用心しなければ……）"
+msgstr ""
+"(The dens of those who were excluded, the\n"
+"skeleton ... It's dangerous if you're\n"
+"not careful. If you're not careful ...)"
+
+msgctxt "5804"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5805"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5806"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5807"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5808"
+msgid "へへへへ……"
+msgstr "To Hehehe……"
+
+msgctxt "5821"
+msgid "ぐへへへ……"
+msgstr "Guhehehe ……"
+
+msgctxt "5834"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5835"
+msgid ""
+"（骸街……\n"
+"　何度来ても気味が悪いところだ）"
+msgstr ""
+"(Skull street ... It's a creepy place no\n"
+"matter how many times you come)"
+
+msgctxt "5880"
+msgid "む……"
+msgstr "Mu ……"
+
+msgctxt "5887"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5888"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5889"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5890"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5891"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5892"
+msgid "おらあっ!!"
+msgstr "Look !!"
+
+msgctxt "5903"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5904"
+msgid "!!"
+msgstr ""
+
+msgctxt "5907"
+msgid "ぐぬぬぬぬ……！"
+msgstr "Gununununu ……!"
+
+msgctxt "5924"
+msgid "くっ……！"
+msgstr "Kuu ……!"
+
+msgctxt "5935"
+msgid "なんなんだ、貴様らは。"
+msgstr "What are you guys doing?"
+
+msgctxt "5958"
+msgid ""
+"骸街に出向いておいて、なんだ貴様らは？\n"
+"はねぇだろう。\n"
+"こんなこと、ここでは日常茶飯事だぜ。"
+msgstr ""
+"What are you guys going to the skeleton\n"
+"town? I don't know. This is a daily occurrence\n"
+"here."
+
+msgctxt "6051"
+msgid ""
+"そういうことだ。\n"
+"さっさと金を置いていけ。じゃないと……\n"
+"死ぬことになるぜ？　へへへ……"
+msgstr ""
+"That's how it is. Put the money down quickly.\n"
+"Otherwise ... you'll die, right?\n"
+"Hehehe ……"
+
+msgctxt "6140"
+msgid ""
+"きひひひひ……\n"
+"そうだそうだ。早く置いてってくれよ、金を。"
+msgstr ""
+"Kihihihihi ... That's right. Leave it early,\n"
+"money."
+
+msgctxt "6199"
+msgid ""
+"残念だが、お前らの期待には\n"
+"応えることはできない。"
+msgstr "Unfortunately, I can't live up to your expectations."
+
+msgctxt "6250"
+msgid "あ？　……なんだと？"
+msgstr "Ah? ……what?"
+
+msgctxt "6271"
+msgid ""
+"ほう。　……なら、殺してでも奪わせてもらうぜ。\n"
+"……おい！　こいつ、骸にしちまおうぜ！"
+msgstr ""
+"How. ...... Then, even if I kill you, I'll\n"
+"take it away. ……Hey! Let's make this\n"
+"a skeleton!"
+
+msgctxt "6358"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7244"
+msgid "息がくさい男"
+msgstr "Breathless man"
+
+msgctxt "7257"
+msgid "でかい男"
+msgstr "Big man"
+
+msgctxt "7266"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "7288"
+msgid "M_BUS_TLK_btl_aft_nw_01_en"
+msgstr ""
+
+msgctxt "7315"
+msgid "M_BUS_TLK_btl_aft_nw_02_en"
+msgstr ""
+
+msgctxt "7342"
+msgid "M_BUS_TLK_btl_aft_nw_04_en"
+msgstr ""
+
+msgctxt "7369"
+msgid "Player"
+msgstr ""
+
+msgctxt "7376"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7382"
+msgid "kaiwabgm_fuon_04"
+msgstr ""
+
+msgctxt "7399"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "7411"
+msgid "M_YKZ_SS_atk_lp"
+msgstr ""
+
+msgctxt "7427"
+msgid "小汚い男"
+msgstr "Dirty man"
+
+msgctxt "7436"
+msgid "M_YKZ_SS_tsubazeri_st"
+msgstr ""
+
+msgctxt "7458"
+msgid "M_YKZ_SS_tsubazeri_lp"
+msgstr ""
+
+msgctxt "7480"
+msgid "P_KRU_SS_tsubazeri_lp"
+msgstr ""
+
+msgctxt "7502"
+msgid "M_BIG_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "7524"
+msgid "P_WPE_stand_btl_lp"
+msgstr ""
+
+msgctxt "7543"
+msgid "E_KNS_WK_stand"
+msgstr ""
+
+msgctxt "7558"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "7569"
+msgid "M_OLD_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "7591"
+msgid "M_OLD_TLK_agura_to_stand"
+msgstr ""

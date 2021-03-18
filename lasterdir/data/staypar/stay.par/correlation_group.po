@@ -1,0 +1,416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "GROUP_0"
+msgid "　"
+msgstr "　"
+
+msgctxt "DIAGRAM_GROUP_0"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "DIAGRAM_GROUP_1"
+msgid "土佐藩"
+msgstr "Tosa domain"
+
+msgctxt "DIAGRAM_GROUP_2"
+msgid "覆面"
+msgstr "Mask"
+
+msgctxt "DIAGRAM_GROUP_3"
+msgid "長州藩"
+msgstr "Choshu clan"
+
+msgctxt "DIAGRAM_GROUP_4"
+msgid "薩摩藩"
+msgstr "Satsuma Domain"
+
+msgctxt "DIAGRAM_GROUP_5"
+msgid "中岡"
+msgstr "Nakaoka"
+
+msgctxt "DIAGRAM_GROUP_6"
+msgid "新選組"
+msgstr "Shinsengumi"
+
+msgctxt "DIAGRAM_GROUP_7"
+msgid "寺田屋"
+msgstr "Teradaya"
+
+msgctxt "DIAGRAM_GROUP_8"
+msgid "白装束の男"
+msgstr "Man in white costume"
+
+msgctxt "DIAGRAM_GROUP_9"
+msgid "幕府"
+msgstr "Shogunate"
+
+msgctxt "DIAGRAM_GROUP_10"
+msgid "京都見廻組"
+msgstr "Kyoto Mimawarigumi"
+
+msgctxt "DIAGRAM_GROUP_11"
+msgid "偽龍"
+msgstr "Pseudo-dragon"
+
+msgctxt "DIAGRAM_GROUP_12"
+msgid "幾松人"
+msgstr "Jisongren"
+
+msgctxt "DIAGRAM_GROUP_13"
+msgid "壬生浪士組"
+msgstr "Mibu Roushigumi"
+
+msgctxt "DIAGRAM_GROUP_14"
+msgid "御陵衛士"
+msgstr "Goryo Guardian"
+
+msgctxt "DIAGRAM_GROUP_15"
+msgid "武市"
+msgstr "Takeshi"
+
+msgctxt "EXPLANATION_0"
+msgid "[個人]"
+msgstr ""
+
+msgctxt "EXPLANATION_1"
+msgid ""
+"四国の南端に位置する雄藩。\n"
+"上級武士の「上士」、下級武士の「郷士」という\n"
+"厳しい身分差が存在する。"
+msgstr ""
+"The male clan located at the southern tip\n"
+"of Shikoku. There is a strict difference\n"
+"in status between the senior samurai\n"
+"\"superior\" and the junior samurai \"goushi\"."
+
+msgctxt "EXPLANATION_2"
+msgid "動乱の京の主導権を握る雄藩の一つ。"
+msgstr ""
+"One of the male feudal clan who holds the\n"
+"initiative of the turbulent Kyoto."
+
+msgctxt "EXPLANATION_3"
+msgid ""
+"京を震え上がらせる剣客集団。\n"
+"局長は近藤勇。副長は土方歳三。"
+msgstr ""
+"A group of swordsmen who make Kyoto tremble.\n"
+"The director is Isami Kondo. The deputy\n"
+"director is Toshizo Hijikata."
+
+msgctxt "EXPLANATION_4"
+msgid ""
+"京でも有数の船宿。\n"
+"女将はお登勢。"
+msgstr ""
+"One of the leading boat accommodations in\n"
+"Kyoto. The landlady is on the rise."
+
+msgctxt "EXPLANATION_5"
+msgid ""
+"日本を支配する最高権力機関。\n"
+"その長である将軍は徳川慶喜。"
+msgstr ""
+"The highest authority that controls Japan.\n"
+"The chief shogun is Yoshinobu Tokugawa."
+
+msgctxt "EXPLANATION_6"
+msgid ""
+"新選組と同じく、京の治安維持を任とする\n"
+"戦闘集団。"
+msgstr ""
+"Like the Shinsengumi, a fighting group responsible\n"
+"for maintaining the security\n"
+"of Kyoto."
+
+msgctxt "EXPLANATION_7"
+msgid ""
+"新選組の前身。\n"
+"筆頭局長は芹沢鴨。"
+msgstr ""
+"The predecessor of the Shinsengumi. The\n"
+"first director is Serizawa Kamo."
+
+msgctxt "EXPLANATION_8"
+msgid ""
+"伊東一派が新選組から離反して結成された集団。\n"
+"“もう一人の龍馬”とのつながりを持つ。"
+msgstr ""
+"A group formed by the Ito group away from\n"
+"the Shinsengumi. Has a connection with\n"
+"\"another Ryoma\"."
+
+msgctxt "ALIGN_0"
+msgid "LT"
+msgstr ""
+
+msgctxt "POSX_0"
+msgid "0"
+msgstr ""
+
+msgctxt "POSX_1"
+msgid "400"
+msgstr ""
+
+msgctxt "POSX_2"
+msgid "650"
+msgstr ""
+
+msgctxt "POSX_3"
+msgid "800"
+msgstr ""
+
+msgctxt "POSX_4"
+msgid "1000"
+msgstr ""
+
+msgctxt "POSX_5"
+msgid "-300"
+msgstr ""
+
+msgctxt "POSX_6"
+msgid "500"
+msgstr ""
+
+msgctxt "POSX_7"
+msgid "900"
+msgstr ""
+
+msgctxt "POSX_8"
+msgid "100"
+msgstr ""
+
+msgctxt "POSX_9"
+msgid "300"
+msgstr ""
+
+msgctxt "POSX_10"
+msgid "-700"
+msgstr ""
+
+msgctxt "POSX_11"
+msgid "-900"
+msgstr ""
+
+msgctxt "POSX_12"
+msgid "-1300"
+msgstr ""
+
+msgctxt "POSX_13"
+msgid "-1400"
+msgstr ""
+
+msgctxt "POSX_14"
+msgid "-2000"
+msgstr ""
+
+msgctxt "POSX_15"
+msgid "-650"
+msgstr ""
+
+msgctxt "POSX_16"
+msgid "-350"
+msgstr ""
+
+msgctxt "POSX_17"
+msgid "-450"
+msgstr ""
+
+msgctxt "POSX_18"
+msgid "1380"
+msgstr ""
+
+msgctxt "POSX_19"
+msgid "1400"
+msgstr ""
+
+msgctxt "POSX_20"
+msgid "1300"
+msgstr ""
+
+msgctxt "POSX_21"
+msgid "-1000"
+msgstr ""
+
+msgctxt "POSY_0"
+msgid "0"
+msgstr ""
+
+msgctxt "POSY_1"
+msgid "-100"
+msgstr ""
+
+msgctxt "POSY_2"
+msgid "190"
+msgstr ""
+
+msgctxt "POSY_3"
+msgid "500"
+msgstr ""
+
+msgctxt "POSY_4"
+msgid "-400"
+msgstr ""
+
+msgctxt "POSY_5"
+msgid "600"
+msgstr ""
+
+msgctxt "POSY_6"
+msgid "-120"
+msgstr ""
+
+msgctxt "POSY_7"
+msgid "-500"
+msgstr ""
+
+msgctxt "POSY_8"
+msgid "800"
+msgstr ""
+
+msgctxt "POSY_9"
+msgid "1150"
+msgstr ""
+
+msgctxt "POSY_10"
+msgid "850"
+msgstr ""
+
+msgctxt "POSY_11"
+msgid "-200"
+msgstr ""
+
+msgctxt "POSY_12"
+msgid "300"
+msgstr ""
+
+msgctxt "COLOR_RED_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "COLOR_RED_1"
+msgid "0"
+msgstr ""
+
+msgctxt "COLOR_RED_2"
+msgid "255"
+msgstr ""
+
+msgctxt "COLOR_RED_3"
+msgid "200"
+msgstr ""
+
+msgctxt "COLOR_RED_4"
+msgid "100"
+msgstr ""
+
+msgctxt "COLOR_RED_5"
+msgid "130"
+msgstr ""
+
+msgctxt "COLOR_RED_6"
+msgid "150"
+msgstr ""
+
+msgctxt "COLOR_GREEN_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "COLOR_GREEN_1"
+msgid "200"
+msgstr ""
+
+msgctxt "COLOR_GREEN_2"
+msgid "0"
+msgstr ""
+
+msgctxt "COLOR_GREEN_3"
+msgid "100"
+msgstr ""
+
+msgctxt "COLOR_GREEN_4"
+msgid "160"
+msgstr ""
+
+msgctxt "COLOR_GREEN_5"
+msgid "150"
+msgstr ""
+
+msgctxt "COLOR_BLUE_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "COLOR_BLUE_1"
+msgid "0"
+msgstr ""
+
+msgctxt "COLOR_BLUE_2"
+msgid "255"
+msgstr ""
+
+msgctxt "COLOR_BLUE_3"
+msgid "100"
+msgstr ""
+
+msgctxt "COLOR_BLUE_4"
+msgid "150"
+msgstr ""
+
+msgctxt "COLOR_BLUE_5"
+msgid "200"
+msgstr ""
+
+msgctxt "LAYOUT_0"
+msgid "1"
+msgstr ""
+
+msgctxt "LAYOUT_1"
+msgid "1,1"
+msgstr ""
+
+msgctxt "LAYOUT_2"
+msgid "1,2"
+msgstr ""
+
+msgctxt "LAYOUT_3"
+msgid "1,2,1"
+msgstr ""
+
+msgctxt "LAYOUT_4"
+msgid "1,1,1"
+msgstr ""
+
+msgctxt "LAYOUT_5"
+msgid "2,3,3,3,2"
+msgstr ""
+
+msgctxt "LAYOUT_6"
+msgid "1,2,3,3,3,2"
+msgstr ""
+
+msgctxt "LAYOUT_7"
+msgid "1,1,2,3,2,2"
+msgstr ""
+
+msgctxt "LAYOUT_8"
+msgid "1,2,3,3,2"
+msgstr ""
+
+msgctxt "LAYOUT_9"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "LAYOUT_10"
+msgid "3"
+msgstr ""

@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1748"
+msgid ""
+"う～む……\n"
+"この店に飾るのにふさわしい絵を探しているのだが……"
+msgstr ""
+"Hmm ... I'm looking for a picture suitable\n"
+"for decorating this store ..."
+
+msgctxt "1811"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1812"
+msgid ""
+"んんん!!　これだ!!　すばらしい!!\n"
+"その絵を５万で譲ってくれ！"
+msgstr ""
+"Hmm !! This is it !! Great !! Give me the\n"
+"picture for 50,000!"
+
+msgctxt "1873"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1874"
+msgid "いいだろう。"
+msgstr "All right."
+
+msgctxt "1887"
+msgid "よし！　ではコレで。"
+msgstr "Alright! Then with this."
+
+msgctxt "1908"
+msgid "ありがとよ。"
+msgstr "Thank you."
+
+msgctxt "1921"
+msgid "よし、８万円。８万円でどうだ？"
+msgstr "Alright, 80,000 yen. How about 80,000 yen?"
+
+msgctxt "1952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1953"
+msgid "ありがとよ。"
+msgstr "Thank you."
+
+msgctxt "1966"
+msgid "では１０万!!　１０万でどうだ!!"
+msgstr "Then 100,000 !! How about 100,000 !!"
+
+msgctxt "1997"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1998"
+msgid "ありがとよ。"
+msgstr "Thank you."
+
+msgctxt "2011"
+msgid "そうか……"
+msgstr "Really……"
+
+msgctxt "2022"
+msgid "う～む。"
+msgstr "Hmmm."
+
+msgctxt "2031"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2032"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2068"
+msgid "店長"
+msgstr "Store manager"
+
+msgctxt "2073"
+msgid "にんじんの上に立つネコの絵"
+msgstr "A picture of a cat standing on a carrot"
+
+msgctxt "2100"
+msgid "それ以外の絵"
+msgstr "Other pictures"
+
+msgctxt "2113"
+msgid "見せない"
+msgstr "Don't show"
+
+msgctxt "2122"
+msgid "何もない"
+msgstr "there is nothing"
+
+msgctxt "2131"
+msgid "YES"
+msgstr ""
+
+msgctxt "2135"
+msgid "NO"
+msgstr ""
+
+msgctxt "2138"
+msgid "龍馬"
+msgstr "Ryoma"

@@ -1,0 +1,648 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "9892"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9893"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9894"
+msgid ""
+"「一、有在の公卿諸侯及び天下の人材を\n"
+"　顧問に備へ官爵を賜ひ、\n"
+"　宜しく従来有名無実の官を除くべき事」"
+msgstr ""
+"\"First, we should give the princes and lords\n"
+"of the world and the human resources\n"
+"of the world as advisors to the princes,\n"
+"and excluding the formerly famous\n"
+"and innocent officials.\""
+
+msgctxt "9997"
+msgid "……俺たちが目指したものがここにある。"
+msgstr "...... Here is what we were aiming for."
+
+msgctxt "10036"
+msgid "そうだよな、親っさん……"
+msgstr "That's right, parents ..."
+
+msgctxt "10061"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10062"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10064"
+msgid "そ、それじゃ続けますけど……"
+msgstr "Well, then I'll continue ..."
+
+msgctxt "10093"
+msgid ""
+"この手紙には全部で７項目の国への要望が\n"
+"書かれてあります。"
+msgstr ""
+"This letter contains a total of 7 requests\n"
+"to the country."
+
+msgctxt "10152"
+msgid "国への要望？"
+msgstr "Request to the country?"
+
+msgctxt "10165"
+msgid ""
+"ええ、まず最初がさっき言った幕府の政権は\n"
+"朝廷に譲るということ。"
+msgstr ""
+"Yes, first of all, the administration of\n"
+"the shogunate that I mentioned earlier\n"
+"will be handed over to the imperial court."
+
+msgctxt "10230"
+msgid ""
+"その後は政権を持ったあとの朝廷への提案が\n"
+"続いています。"
+msgstr ""
+"After that, proposals to the imperial court\n"
+"after taking office continue."
+
+msgctxt "10287"
+msgid "どういう内容だ？"
+msgstr "What kind of content is it?"
+
+msgctxt "10304"
+msgid ""
+"ええ……　箇条書きですが、\n"
+"まず、議員というものを置いて話し合いで\n"
+"政治を決定すること。"
+msgstr ""
+"Yeah ... It's a bullet point, but first\n"
+"of all, a member of the Diet should be\n"
+"appointed to discuss and decide on politics."
+
+msgctxt "10393"
+msgid ""
+"異国との不平等条約を改定すること。\n"
+"国の憲法を制定すること。\n"
+"海軍を増強すること。"
+msgstr ""
+"To revise the unequal treaty with foreign\n"
+"countries. Enact a national constitution.\n"
+"Strengthen the Navy."
+
+msgctxt "10476"
+msgid ""
+"都を守る兵を組織すること。\n"
+"金銀を異国と同じ値段にすること。"
+msgstr ""
+"Organize soldiers to protect the city. Make\n"
+"gold and silver the same price as foreign\n"
+"countries."
+
+msgctxt "10537"
+msgid "以上、最初のと合わせて７つです。"
+msgstr ""
+"As mentioned above, there are seven in total\n"
+"including the first one."
+
+msgctxt "10570"
+msgid "要するに、新しい国づくりへの要望書ってところか。"
+msgstr ""
+"In short, is it a request for the creation\n"
+"of a new country?"
+
+msgctxt "10619"
+msgid ""
+"そしたら、ここに要望を書いたら\n"
+"徳川将軍が聞いてくれるいうことか？"
+msgstr ""
+"Then, if you write a request here, will\n"
+"General Tokugawa ask you?"
+
+msgctxt "10686"
+msgid ""
+"いや、聞くのは政権を返された後の朝廷って\n"
+"ことだろう。"
+msgstr ""
+"No, what I hear is the imperial court after\n"
+"the administration is returned."
+
+msgctxt "10741"
+msgid "将軍でも朝廷でもかまわんわ。"
+msgstr ""
+"It doesn't matter if you are a shogun or\n"
+"the imperial court."
+
+msgctxt "10770"
+msgid "ワシらもなんか書いたろやないか。"
+msgstr "Wouldn't we write something?"
+
+msgctxt "10803"
+msgid "なに？"
+msgstr "What?"
+
+msgctxt "10810"
+msgid "命がけでこの手紙、将軍に渡すのはワシらなんやで？"
+msgstr ""
+"Why don't you give this letter to the shogun\n"
+"at the risk of your life?"
+
+msgctxt "10859"
+msgid ""
+"ほんなら、\n"
+"「新選組の隊長に一生楽できる金を払うこと」\n"
+"ってのはどうや？"
+msgstr ""
+"How about \"paying the captain of the Shinsengumi\n"
+"for a lifetime\"?"
+
+msgctxt "10932"
+msgid "し、新選組の隊長!?"
+msgstr "And the captain of the Shinsengumi !?"
+
+msgctxt "10951"
+msgid "あなた方、そうなんですか!?"
+msgstr "You guys, is that so !?"
+
+msgctxt "10978"
+msgid ""
+"そや！　せやからお前、今言うたの手紙に\n"
+"書き足せや。"
+msgstr ""
+"Soya! From Saya, add to the letter you just\n"
+"said."
+
+msgctxt "11031"
+msgid "ひとつくらい足したってかまへんやろ。"
+msgstr "You can't just add one."
+
+msgctxt "11068"
+msgid "でも、人の手紙を勝手に書き足すなんて……"
+msgstr ""
+"But to add people's letters without permission\n"
+"..."
+
+msgctxt "11109"
+msgid ""
+"フッ、どうせ金をくれと書いたとこで将軍にも\n"
+"朝廷にも無視されるだけだ。"
+msgstr ""
+"Huh, the place where I wrote to give me\n"
+"money is just ignored by the general and\n"
+"the imperial court."
+
+msgctxt "11180"
+msgid "私もそうだと思います。"
+msgstr "I think so too."
+
+msgctxt "11203"
+msgid "お前は黙っとけや！"
+msgstr "You should keep quiet!"
+
+msgctxt "11222"
+msgid ""
+"ほな、一（はじめ）ちゃんやったら何を書く？\n"
+"こんな機会めったにないで？"
+msgstr ""
+"Honna, what would you write if you did Ichi\n"
+"(Hajime) -chan? Rarely do you have\n"
+"such an opportunity?"
+
+msgctxt "11293"
+msgid ""
+"国への要望なら……\n"
+"平等な世の中にしろ、とかな。"
+msgstr ""
+"If it's a request to the country ... I think\n"
+"it's an equal world."
+
+msgctxt "11342"
+msgid "あ？"
+msgstr "Ah?"
+
+msgctxt "11347"
+msgid ""
+"俺の故郷じゃ生まれた階級だけで\n"
+"人間扱いされなかった。"
+msgstr ""
+"In my hometown, I wasn't treated as a human\n"
+"because of the class I was born in."
+
+msgctxt "11402"
+msgid "階級に縛られつくした土地だったんでな。"
+msgstr "It was a land tied up by class."
+
+msgctxt "11441"
+msgid "土佐っちゅうことかいな？"
+msgstr "Is it Tosa?"
+
+msgctxt "11466"
+msgid "あほくさ、そりゃ武士の話やろが。"
+msgstr "Ahokusa, that's the story of the samurai."
+
+msgctxt "11499"
+msgid ""
+"局長も副長ももとは百姓やで？\n"
+"人間扱いされん連中なんぞ武士以外やったら\n"
+"山ほどおるわ。"
+msgstr ""
+"The director and deputy director were originally\n"
+"peasants? There are a lot of people\n"
+"who aren't treated as humans if they\n"
+"do anything other than samurai."
+
+msgctxt "11586"
+msgid "……ああ。あんたの言うとおりだ。"
+msgstr "……Oh. You're right."
+
+msgctxt "11619"
+msgid ""
+"せやけど平等な社会なんぞ、\n"
+"ワシらに一文の得もないやないか。"
+msgstr ""
+"It's a scald but equal society, I think\n"
+"we can't get a sentence."
+
+msgctxt "11680"
+msgid ""
+"俺にはある。\n"
+"それが実現すれば……　親っさんに胸はって\n"
+"あの世で顔を合わせることができる。"
+msgstr ""
+"I have it. If that happens ... I will be\n"
+"able to meet my parents in the world."
+
+msgctxt "11771"
+msgid "なんやそれ……"
+msgstr "Somehow that ..."
+
+msgctxt "11786"
+msgid ""
+"そこのあんた、今言ったこと、\n"
+"手紙に書き足してくれるか？"
+msgstr ""
+"Can you add to the letter what you just\n"
+"said?"
+
+msgctxt "11843"
+msgid "ど、どういう風にでしょう？"
+msgstr "How is it?"
+
+msgctxt "11870"
+msgid ""
+"どんなに身分が低かろうが階級を超えて\n"
+"人材と認められるように。"
+msgstr ""
+"No matter how low you are, you can be recognized\n"
+"as a human resource across classes."
+
+msgctxt "11933"
+msgid "武士だけではなく、町人も百姓も女も、誰もかもだ。"
+msgstr ""
+"Not only samurai, but also tradesmen, peasants,\n"
+"women, everyone."
+
+msgctxt "11982"
+msgid ""
+"そして身分が高く生まれただけの人間に\n"
+"好き勝手させないようにしろとな。"
+msgstr ""
+"And don't let people who are just born with\n"
+"high status do whatever they want."
+
+msgctxt "12053"
+msgid "な、なんですって……？"
+msgstr "What is it ...?"
+
+msgctxt "12076"
+msgid "ったく、今度はなんや？"
+msgstr "What the hell is this time?"
+
+msgctxt "12099"
+msgid "そ、それこそ私も望んだ日本の新しい時代です……"
+msgstr ""
+"Well, that is the new era of Japan that\n"
+"I also hoped for ..."
+
+msgctxt "12146"
+msgid ""
+"そうですよ！　だから今日まで私は京にいたんだ……\n"
+"新しい時代が今まさに京で作られていると聞いて！"
+msgstr ""
+"That's right! That's why I was in Kyo until\n"
+"today ... I heard that a new era is\n"
+"about to be made in Kyo!"
+
+msgctxt "12243"
+msgid ""
+"ですが……\n"
+"私は剣がからっきしで、志半ばこの船に……"
+msgstr ""
+"But ... I have a sword, and I'm half-hearted\n"
+"on this ship ..."
+
+msgctxt "12296"
+msgid "フッ、なら……　その志を書いてくれ。"
+msgstr "Huh, then ... Write down that aspiration."
+
+msgctxt "12333"
+msgid "文章は、あんたになら任せられそうだ。"
+msgstr "The text is likely to be left to you."
+
+msgctxt "12370"
+msgid "は……　はい！　喜んで！"
+msgstr "H ... yes! Willing!"
+
+msgctxt "12395"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "12396"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14540"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "14545"
+msgid "kiryu_11_040_01"
+msgstr ""
+
+msgctxt "14561"
+msgid "kiryu_11_040_01b"
+msgstr ""
+
+msgctxt "14578"
+msgid "C11095_KRU_B"
+msgstr ""
+
+msgctxt "14591"
+msgid "C11095_KRU_A_to_B"
+msgstr ""
+
+msgctxt "14609"
+msgid "kiryu_11_040_01c"
+msgstr ""
+
+msgctxt "14626"
+msgid "武士"
+msgstr "warrior"
+
+msgctxt "14631"
+msgid "bushi_c11_090_01"
+msgstr ""
+
+msgctxt "14648"
+msgid "bushi_c11_090_01b"
+msgstr ""
+
+msgctxt "14666"
+msgid "C11085_CHO_A"
+msgstr ""
+
+msgctxt "14679"
+msgid "C11085_CHO_A_tlk"
+msgstr ""
+
+msgctxt "14696"
+msgid "kiryu_c11_090_01"
+msgstr ""
+
+msgctxt "14713"
+msgid "bushi_c11_090_02"
+msgstr ""
+
+msgctxt "14730"
+msgid "bushi_c11_090_02b"
+msgstr ""
+
+msgctxt "14748"
+msgid "kiryu_c11_090_02"
+msgstr ""
+
+msgctxt "14765"
+msgid "C11085_KRU_A"
+msgstr ""
+
+msgctxt "14778"
+msgid "C11085_KRU_A_tlk"
+msgstr ""
+
+msgctxt "14795"
+msgid "bushi_c11_090_02ba"
+msgstr ""
+
+msgctxt "14814"
+msgid "bushi_c11_090_02bb"
+msgstr ""
+
+msgctxt "14833"
+msgid "bushi_c11_090_02bc"
+msgstr ""
+
+msgctxt "14852"
+msgid "bushi_c11_090_02bd"
+msgstr ""
+
+msgctxt "14871"
+msgid "kiryu_c11_090_04"
+msgstr ""
+
+msgctxt "14888"
+msgid "沖田"
+msgstr "Okita"
+
+msgctxt "14893"
+msgid "majima_c11_090_01"
+msgstr ""
+
+msgctxt "14911"
+msgid "C11085_OKI_A"
+msgstr ""
+
+msgctxt "14924"
+msgid "C11085_OKI_A_tlk"
+msgstr ""
+
+msgctxt "14941"
+msgid "kiryu_c11_090_05"
+msgstr ""
+
+msgctxt "14958"
+msgid "majima_c11_090_02"
+msgstr ""
+
+msgctxt "14976"
+msgid "majima_c11_090_02b"
+msgstr ""
+
+msgctxt "14995"
+msgid "kiryu_c11_090_06"
+msgstr ""
+
+msgctxt "15012"
+msgid "majima_c11_090_03"
+msgstr ""
+
+msgctxt "15030"
+msgid "majima_c11_090_03b"
+msgstr ""
+
+msgctxt "15049"
+msgid "bushi_c11_090_03"
+msgstr ""
+
+msgctxt "15066"
+msgid "bushi_c11_090_03b"
+msgstr ""
+
+msgctxt "15084"
+msgid "C11085_OKI_A_tlkB"
+msgstr ""
+
+msgctxt "15102"
+msgid "majima_c11_090_04"
+msgstr ""
+
+msgctxt "15120"
+msgid "majima_c11_090_04b"
+msgstr ""
+
+msgctxt "15139"
+msgid "bushi_c11_090_04"
+msgstr ""
+
+msgctxt "15156"
+msgid "C11085_CHO_A_tlkbig"
+msgstr ""
+
+msgctxt "15176"
+msgid "kiryu_c11_090_07"
+msgstr ""
+
+msgctxt "15193"
+msgid "bushi_c11_090_05"
+msgstr ""
+
+msgctxt "15210"
+msgid "majima_c11_090_05"
+msgstr ""
+
+msgctxt "15228"
+msgid "majima_c11_090_05b"
+msgstr ""
+
+msgctxt "15247"
+msgid "kiryu_c11_090_08"
+msgstr ""
+
+msgctxt "15264"
+msgid "majima_c11_090_06"
+msgstr ""
+
+msgctxt "15282"
+msgid "kiryu_c11_090_09"
+msgstr ""
+
+msgctxt "15299"
+msgid "kiryu_c11_090_09b"
+msgstr ""
+
+msgctxt "15317"
+msgid "majima_c11_090_07"
+msgstr ""
+
+msgctxt "15335"
+msgid "majima_c11_090_07b"
+msgstr ""
+
+msgctxt "15354"
+msgid "majima_c11_090_07c"
+msgstr ""
+
+msgctxt "15373"
+msgid "kiryu_c11_090_10"
+msgstr ""
+
+msgctxt "15390"
+msgid "majima_c11_090_08"
+msgstr ""
+
+msgctxt "15408"
+msgid "kiryu_c11_090_11"
+msgstr ""
+
+msgctxt "15425"
+msgid "majima_c11_090_09"
+msgstr ""
+
+msgctxt "15443"
+msgid "kiryu_c11_090_12"
+msgstr ""
+
+msgctxt "15460"
+msgid "bushi_c11_090_06"
+msgstr ""
+
+msgctxt "15477"
+msgid "kiryu_c11_090_13"
+msgstr ""
+
+msgctxt "15494"
+msgid "kiryu_c11_090_13b"
+msgstr ""
+
+msgctxt "15512"
+msgid "kiryu_c11_090_13c"
+msgstr ""
+
+msgctxt "15530"
+msgid "bushi_c11_090_07"
+msgstr ""
+
+msgctxt "15547"
+msgid "majima_c11_090_10"
+msgstr ""
+
+msgctxt "15565"
+msgid "bushi_c11_090_08"
+msgstr ""
+
+msgctxt "15582"
+msgid "bushi_c11_090_08b"
+msgstr ""
+
+msgctxt "15600"
+msgid "bushi_c11_090_08c"
+msgstr ""
+
+msgctxt "15618"
+msgid "kiryu_c11_090_14"
+msgstr ""
+
+msgctxt "15635"
+msgid "kiryu_c11_090_14b"
+msgstr ""
+
+msgctxt "15653"
+msgid "bushi_c11_090_09"
+msgstr ""

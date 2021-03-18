@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1296"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1297"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1298"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1299"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1300"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1301"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1302"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1303"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1304"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1305"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1306"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1307"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1308"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1316"
+msgid "稀引きやってまーす"
+msgstr "I'm doing a rare draw"

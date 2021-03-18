@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3692"
+msgid ""
+"邪魔するぞ。\n"
+"藤次郎というのはお前だな？"
+msgstr "I'll get in the way. Is Tojiro you?"
+
+msgctxt "3733"
+msgid "うぅ……"
+msgstr "Uh ..."
+
+msgctxt "3742"
+msgid "なんだお前は？"
+msgstr "What are you?"
+
+msgctxt "3757"
+msgid ""
+"もうこれ以上、忍盗に盗みをさせるんじゃない。\n"
+"その香は危険だ。\n"
+"いいから外に出ろ。"
+msgstr ""
+"Don't let the ninja steal anymore. The incense\n"
+"is dangerous. Get out because it's\n"
+"okay."
+
+msgctxt "3840"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3841"
+msgid "……うぅ。"
+msgstr ""
+
+msgctxt "3852"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3853"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3854"
+msgid ""
+"これがなければお春はすぐに死んでしまう。\n"
+"お前は俺たちからお春を奪いに来たのか！\n"
+"きっとそうに違いない！　ああああ！"
+msgstr ""
+"Without this, spring would die soon. Did\n"
+"you come to rob us of spring! It must\n"
+"be so! Ah ah!"
+
+msgctxt "3971"
+msgid "チッ、やはり話は通じないか……"
+msgstr "Chi, can't you understand the story ..."
+
+msgctxt "4002"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4003"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4004"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4005"
+msgid ""
+"緑忍、お春を探せ！\n"
+"連れ出して外の空気を吸わすんだ。"
+msgstr ""
+"Green Shinobu, look for spring! Take it\n"
+"out and breathe in the outside air."
+
+msgctxt "4058"
+msgid ""
+"わかりました！\n"
+"きっと離れの方に居るはずです！\n"
+"行ってきます。"
+msgstr ""
+"understood! I'm sure you're far away! I'm\n"
+"going."
+
+msgctxt "4121"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4122"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4123"
+msgid "……！"
+msgstr ""
+
+msgctxt "4130"
+msgid "お前らの相手は俺だ。"
+msgstr "Your opponent is me."
+
+msgctxt "4151"
+msgid "うあぁぁぁ！"
+msgstr "Wow!"
+
+msgctxt "4164"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4165"
+msgid "お兄ちゃん！"
+msgstr "brother!"
+
+msgctxt "4178"
+msgid ""
+"お春！　お前……\n"
+"動けるのか？"
+msgstr "Spring! You ... can you move?"
+
+msgctxt "4209"
+msgid ""
+"うん……\n"
+"だからもうやめて！"
+msgstr "Yeah ... so stop it!"
+
+msgctxt "4238"
+msgid ""
+"藤次郎様、目を覚ましてください。\n"
+"きっとあの医者からもらった香が悪いのです！"
+msgstr ""
+"Mr. Tojiro, please wake up. I'm sure the\n"
+"incense I got from that doctor is bad!"
+
+msgctxt "4315"
+msgid ""
+"うぅ……\n"
+"頭が痛い……"
+msgstr "Uh ... I have a headache ..."
+
+msgctxt "4338"
+msgid "お兄ちゃん！"
+msgstr "brother!"
+
+msgctxt "4351"
+msgid "藤次郎様！"
+msgstr "Mr. Tojiro!"
+
+msgctxt "4362"
+msgid ""
+"こいつら全員、橘組まで運ぶぞ。\n"
+"このままにはしておけない。"
+msgstr ""
+"All of these guys will carry it to the Tachibana\n"
+"group. I can't leave it like this."
+
+msgctxt "4421"
+msgid "わかりました！"
+msgstr "understood!"
+
+msgctxt "4436"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4936"
+msgid "Player"
+msgstr ""
+
+msgctxt "4943"
+msgid "藤次郎"
+msgstr "Tojiro"
+
+msgctxt "4950"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4959"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4968"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "4990"
+msgid "M_BUS_TLK_agura_to_stand"
+msgstr ""
+
+msgctxt "5015"
+msgid "ADV_M_BUS_STAND"
+msgstr ""
+
+msgctxt "5031"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5042"
+msgid "緑忍"
+msgstr "Green Shinobu"
+
+msgctxt "5047"
+msgid "お春"
+msgstr "Spring"
+
+msgctxt "5052"
+msgid "F_OLD_SS_shagami_cry_lp"
+msgstr ""
+
+msgctxt "5076"
+msgid "F_OLD_SS_shagami_cry_st"
+msgstr ""

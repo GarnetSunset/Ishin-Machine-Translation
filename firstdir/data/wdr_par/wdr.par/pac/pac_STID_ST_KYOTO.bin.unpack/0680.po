@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "932"
+msgid "ひっく……"
+msgstr "Hick ..."
+
+msgctxt "943"
+msgid "ぎゃはははは！"
+msgstr "Gyahahahaha!"
+
+msgctxt "958"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "959"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "960"
+msgid "<!empty>"
+msgstr ""

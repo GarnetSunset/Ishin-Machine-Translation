@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3421"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3423"
+msgid "あらまあ、お帰りやす。今日はお早いこと。"
+msgstr "Well, it's easy to go home. It's early today."
+
+msgctxt "3464"
+msgid "フッ、なんとでも言ってくれ。"
+msgstr "Huh, say anything."
+
+msgctxt "3493"
+msgid "それよりおりょう……　骸街を知っているか？"
+msgstr "More than that ... Do you know the skeleton?"
+
+msgctxt "3536"
+msgid "骸街？　あそこは無宿の巣窟や。"
+msgstr "Skeleton town? There is an innless den."
+
+msgctxt "3567"
+msgid "無宿の巣窟？"
+msgstr "An innless den?"
+
+msgctxt "3580"
+msgid "地元の人間どころかお役人もよう近づかん。"
+msgstr ""
+"Not only local people but also officials\n"
+"are approaching."
+
+msgctxt "3621"
+msgid "お尋ねもんやら無宿人の吹きだまり。"
+msgstr "Inquiries and snowdrifts of non-residents."
+
+msgctxt "3656"
+msgid ""
+"なんや、そこらじゅうに\n"
+"身ぐるみはがされた死体が転がっとるいう噂や。"
+msgstr ""
+"Rumor has it that the corpses that have\n"
+"been stripped of their clothes are rolling\n"
+"around."
+
+msgctxt "3725"
+msgid ""
+"今から案内を頼めるか？\n"
+"近くまででいい。"
+msgstr ""
+"Can you ask for guidance from now on? It's\n"
+"okay to be close."
+
+msgctxt "3766"
+msgid ""
+"あんた、話聞いとらんかった？\n"
+"あないな場所、誰も近づかん\n"
+"言うとるやないの！"
+msgstr ""
+"Didn't you hear the story? There's no place,\n"
+"nobody can approach me!"
+
+msgctxt "3843"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3844"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3845"
+msgid ""
+"おりょうちゃん、ええよ。\n"
+"俺が案内するわ。"
+msgstr "Oryo-chan, yeah. I will guide you."
+
+msgctxt "3888"
+msgid ""
+"どうせあそこは俺が舟出さな行かれへんし。\n"
+"なんやったら遠くから見て\n"
+"すぐ引き返せるさかい。"
+msgstr ""
+"Anyway, I didn't go there. What can I do\n"
+"to turn back immediately when viewed from\n"
+"a distance?"
+
+msgctxt "3979"
+msgid "ああ、頼む。"
+msgstr "Oh, ask."
+
+msgctxt "3992"
+msgid "もう……　うちは知らんよ。"
+msgstr "Already ... I don't know."
+
+msgctxt "4019"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4020"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4021"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4022"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4560"
+msgid "0"
+msgstr ""
+
+msgctxt "4562"
+msgid "M_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "4584"
+msgid "M_CHO_ACT_stand_atc_listen_en"
+msgstr ""
+
+msgctxt "4614"
+msgid "おりょう"
+msgstr "Oryo"
+
+msgctxt "4623"
+msgid "oryo_c02_150_01"
+msgstr ""
+
+msgctxt "4639"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "4644"
+msgid "kiryu_c02_150_01"
+msgstr ""
+
+msgctxt "4661"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "4683"
+msgid "P_KRU_TLK_stand_ase"
+msgstr ""
+
+msgctxt "4703"
+msgid "kiryu_c02_150_01b"
+msgstr ""
+
+msgctxt "4721"
+msgid "oryo_c02_150_02"
+msgstr ""
+
+msgctxt "4737"
+msgid "kiryu_c02_150_02"
+msgstr ""
+
+msgctxt "4754"
+msgid "oryo_c02_150_03"
+msgstr ""
+
+msgctxt "4770"
+msgid "oryo_c02_150_03b"
+msgstr ""
+
+msgctxt "4787"
+msgid "oryo_c02_150_03c"
+msgstr ""
+
+msgctxt "4804"
+msgid "kiryu_c02_150_03"
+msgstr ""
+
+msgctxt "4821"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4830"
+msgid "oryo_c02_150_04"
+msgstr ""
+
+msgctxt "4846"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4857"
+msgid "船頭"
+msgstr "Bow"
+
+msgctxt "4862"
+msgid "sendo_c02_150_01"
+msgstr ""
+
+msgctxt "4879"
+msgid "sendo_c02_150_01b"
+msgstr ""
+
+msgctxt "4897"
+msgid "kiryu_c02_150_04"
+msgstr ""
+
+msgctxt "4914"
+msgid "P_KRU_TLK_stand_yes"
+msgstr ""
+
+msgctxt "4934"
+msgid "oryo_c02_150_05"
+msgstr ""
+
+msgctxt "4950"
+msgid "F_CHO_TLK_seiza_kamae"
+msgstr ""
+
+msgctxt "4972"
+msgid "F_CHO_TLK_seiza_angry"
+msgstr ""
+
+msgctxt "4994"
+msgid "ADV_F_CHO_STAND"
+msgstr ""
+
+msgctxt "5010"
+msgid "F_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "5032"
+msgid "F_CHO_TLK_seiza_to_stand"
+msgstr ""

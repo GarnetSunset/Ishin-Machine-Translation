@@ -78,7 +78,6 @@ for fileName in poList:
         'Content-Transfer-Encoding': '8bit',
         }
         for entry in input_file:
-            iEnteredHere = False
             msgstr = str(entry.msgstr)
             translated_entry = polib.POEntry(
                     msgctxt=entry.msgctxt,
@@ -87,44 +86,9 @@ for fileName in poList:
                 )
             for entry_2 in input_file_2:
                 if str(entry.msgctxt) == str(entry_2.msgctxt):
-                    iEnteredHere = True
                     if str(entry_2.msgstr) == "":
                         print(str(entry_2.msgid))
                     msgstr = str(entry_2.msgstr)
-                    counter = 0
-                    try:
-                        while counter < len(str(entry_2.msgstr)):
-                            if len(str(entry_2.msgstr)) > counter:
-                                counter+=39
-                                mathTime = str(entry_2.msgstr)[counter:]
-                                soylent = mathTime.index(" ")
-                                msgstr = msgstr[:counter+soylent] + "\n" + msgstr[counter+soylent+1:]
-                    except:
-                        pass
-                    translated_entry = polib.POEntry(
-                    msgctxt=entry_2.msgctxt,
-                    msgid=entry_2.msgid,
-                    msgstr=msgstr
-                    )
-                if re.match(regex, str(entry_2.msgid)) and not any(x in str(entry_2.msgid) for x in matches) and not any(x in str(entry_2.msgctxt)+str(entry_2.msgid) for x in doneList) and iEnteredHere == True and str(entry_2.msgstr).strip() == "":
-                    #
-                    print(str(entry_2.msgstr).strip())
-                    doneList.append(str(entry_2.msgctxt)+str(entry_2.msgid))
-                    msgstr = translate_text("en", str(entry_2.msgid))
-                    msgstr = html.unescape(msgstr)
-                    if "<Sign" in str(entry_2.msgid):
-                        msgctxt=str(entry_2.msgctxt)
-                        substringButtons = str(entry_2.msgid).split("<Sign:",1)[1][0]
-                        msgstr.replace("<Sign >", "<Sign:"+substringButtons+">")
-                    try:
-                        while counter < len(str(msgstr)):
-                            if len(str(msgstr)) > counter:
-                                counter+=39
-                                mathTime = str(msgstr)[counter:]
-                                soylent = mathTime.index(" ")
-                                msgstr = msgstr[:counter+soylent] + "\n" + msgstr[counter+soylent+1:]
-                    except:
-                        pass
                     translated_entry = polib.POEntry(
                     msgctxt=entry_2.msgctxt,
                     msgid=entry_2.msgid,

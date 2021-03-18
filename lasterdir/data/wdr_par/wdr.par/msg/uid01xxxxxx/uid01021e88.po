@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3916"
+msgid "ぐおっ！"
+msgstr "Guo!"
+
+msgctxt "3925"
+msgid "ぐっ！"
+msgstr "Good!"
+
+msgctxt "3932"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3933"
+msgid "くそが……！"
+msgstr "Damn ...!"
+
+msgctxt "3946"
+msgid "ちょ、ま、まだやんの……？"
+msgstr "Hey, well, I haven't done it yet ...?"
+
+msgctxt "3973"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3974"
+msgid "な!?"
+msgstr "What !?"
+
+msgctxt "3979"
+msgid "!?"
+msgstr ""
+
+msgctxt "3982"
+msgid "お前ら、今日は飲むぞ!!"
+msgstr "You guys, I'll drink today !!"
+
+msgctxt "4005"
+msgid "は？"
+msgstr "What?"
+
+msgctxt "4010"
+msgid "あぁ？"
+msgstr "Ahh?"
+
+msgctxt "4017"
+msgid ""
+"俺が勝ったんだ。付き合ってもらうぜ……\n"
+"嫌とは言わせねえ……"
+msgstr ""
+"I won. I'll get you dating ... I can't say\n"
+"I don't like it ..."
+
+msgctxt "4078"
+msgid "あ～……　は、はい……　喜んで……"
+msgstr "Ah ... yes ... happily ..."
+
+msgctxt "4113"
+msgid "コイツ、絡み酒やったんか……"
+msgstr "Did you do this guy, entwined sake ..."
+
+msgctxt "4142"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4143"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4144"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4145"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4146"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4147"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4148"
+msgid "（さて、これからどうしようか……）"
+msgstr "(Well, what should I do from now on ...)"
+
+msgctxt "4183"
+msgid ""
+"（……洛内にでも行くか。\n"
+"　あそこなら飲み屋がいくらでもある）"
+msgstr ""
+"(... Would you like to go to Rakuchu? There\n"
+"are many bars there)"
+
+msgctxt "4246"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5208"
+msgid "西郷"
+msgstr "Saigo"
+
+msgctxt "5213"
+msgid "ryuji_09_055_01"
+msgstr ""
+
+msgctxt "5229"
+msgid "桂"
+msgstr "Gui"
+
+msgctxt "5232"
+msgid "akiyama_09_055_01"
+msgstr ""
+
+msgctxt "5250"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "5261"
+msgid "ryuji_09_055_02"
+msgstr ""
+
+msgctxt "5277"
+msgid "akiyama_09_055_02"
+msgstr ""
+
+msgctxt "5295"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "5306"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "5317"
+msgid "ryuji_09_055_03"
+msgstr ""
+
+msgctxt "5333"
+msgid "akiyama_09_055_03"
+msgstr ""
+
+msgctxt "5351"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "5356"
+msgid "kiryu_09_055_01"
+msgstr ""
+
+msgctxt "5372"
+msgid "kaiwabgm_apathy_01"
+msgstr ""
+
+msgctxt "5391"
+msgid "akiyama_09_055_04"
+msgstr ""
+
+msgctxt "5409"
+msgid "ryuji_09_055_04"
+msgstr ""
+
+msgctxt "5425"
+msgid "kiryu_09_055_02"
+msgstr ""
+
+msgctxt "5441"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "5452"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5458"
+msgid "akiyama_09_055_05"
+msgstr ""
+
+msgctxt "5476"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "5487"
+msgid "ryuji_09_055_05"
+msgstr ""
+
+msgctxt "5503"
+msgid "ADV_P_KRU_STAND"
+msgstr ""
+
+msgctxt "5519"
+msgid "Idle"
+msgstr ""

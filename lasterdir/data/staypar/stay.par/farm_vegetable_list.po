@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "苺"
+msgstr "strawberry"
+
+msgctxt "NAME_1"
+msgid "蕪"
+msgstr "Wu"
+
+msgctxt "NAME_2"
+msgid "南瓜"
+msgstr "pumpkin"
+
+msgctxt "NAME_3"
+msgid "きゃべつ"
+msgstr "Cabbage"
+
+msgctxt "NAME_4"
+msgid "胡瓜"
+msgstr "cucumber"
+
+msgctxt "NAME_5"
+msgid "ごぼう"
+msgstr "Burdock"
+
+msgctxt "NAME_6"
+msgid "さつま芋"
+msgstr "Sweet potato"
+
+msgctxt "NAME_7"
+msgid "里芋"
+msgstr "taro"
+
+msgctxt "NAME_8"
+msgid "じゃが芋"
+msgstr "potato"
+
+msgctxt "NAME_9"
+msgid "生姜"
+msgstr "ginger"
+
+msgctxt "NAME_10"
+msgid "そら豆"
+msgstr "Broad beans"
+
+msgctxt "NAME_11"
+msgid "大根"
+msgstr "Radish"
+
+msgctxt "NAME_12"
+msgid "玉葱"
+msgstr "onion"
+
+msgctxt "NAME_13"
+msgid "唐辛子"
+msgstr "Chili"
+
+msgctxt "NAME_14"
+msgid "とまと"
+msgstr "Tomato"
+
+msgctxt "NAME_15"
+msgid "茄子"
+msgstr "eggplant"
+
+msgctxt "NAME_16"
+msgid "人参"
+msgstr "Ginseng"
+
+msgctxt "NAME_17"
+msgid "にんにく"
+msgstr "Garlic"
+
+msgctxt "NAME_18"
+msgid "葱"
+msgstr "shallot"
+
+msgctxt "NAME_19"
+msgid "白菜"
+msgstr "Chinese cabbage"
+
+msgctxt "NAME_20"
+msgid "ほうれん草"
+msgstr "spinach"
+
+msgctxt "NAME_21"
+msgid "朝鮮人参"
+msgstr "Ginseng"
+
+msgctxt "MOT_ID_0"
+msgid "P_KRU_AL_get_veg_kyabetsu"
+msgstr ""
+
+msgctxt "MOT_ID_1"
+msgid "P_KRU_AL_get_veg_konsai"
+msgstr ""
+
+msgctxt "MOT_ID_2"
+msgid "P_KRU_AL_get_veg_kakine"
+msgstr ""
+
+msgctxt "BEFORE_ID_0"
+msgid "REDEV3510"
+msgstr ""
+
+msgctxt "BEFORE_ID_1"
+msgid "REDEV3520"
+msgstr ""
+
+msgctxt "BEFORE_ID_2"
+msgid "REDEV3530"
+msgstr ""
+
+msgctxt "BEFORE_ID_3"
+msgid "REDEV3540"
+msgstr ""
+
+msgctxt "BEFORE_ID_4"
+msgid "REDEV3550"
+msgstr ""
+
+msgctxt "BEFORE_ID_5"
+msgid "REDEV3560"
+msgstr ""
+
+msgctxt "BEFORE_ID_6"
+msgid "REDEV3570"
+msgstr ""
+
+msgctxt "BEFORE_ID_7"
+msgid "REDEV3580"
+msgstr ""
+
+msgctxt "BEFORE_ID_8"
+msgid "REDEV3590"
+msgstr ""
+
+msgctxt "BEFORE_ID_9"
+msgid "REDEV3600"
+msgstr ""
+
+msgctxt "BEFORE_ID_10"
+msgid "REDEV3610"
+msgstr ""
+
+msgctxt "BEFORE_ID_11"
+msgid "REDEV3620"
+msgstr ""
+
+msgctxt "BEFORE_ID_12"
+msgid "REDEV3630"
+msgstr ""
+
+msgctxt "BEFORE_ID_13"
+msgid "REDEV3640"
+msgstr ""
+
+msgctxt "BEFORE_ID_14"
+msgid "REDEV3650"
+msgstr ""
+
+msgctxt "BEFORE_ID_15"
+msgid "REDEV3660"
+msgstr ""
+
+msgctxt "BEFORE_ID_16"
+msgid "REDEV3670"
+msgstr ""
+
+msgctxt "BEFORE_ID_17"
+msgid "REDEV3680"
+msgstr ""
+
+msgctxt "BEFORE_ID_18"
+msgid "REDEV3690"
+msgstr ""
+
+msgctxt "BEFORE_ID_19"
+msgid "REDEV3700"
+msgstr ""
+
+msgctxt "BEFORE_ID_20"
+msgid "REDEV3710"
+msgstr ""
+
+msgctxt "BEFORE_ID_21"
+msgid "REDEV3720"
+msgstr ""
+
+msgctxt "AFTER_ID_0"
+msgid "REDEV3511"
+msgstr ""
+
+msgctxt "AFTER_ID_1"
+msgid "REDEV3521"
+msgstr ""
+
+msgctxt "AFTER_ID_2"
+msgid "REDEV3531"
+msgstr ""
+
+msgctxt "AFTER_ID_3"
+msgid "REDEV3541"
+msgstr ""
+
+msgctxt "AFTER_ID_4"
+msgid "REDEV3551"
+msgstr ""
+
+msgctxt "AFTER_ID_5"
+msgid "REDEV3561"
+msgstr ""
+
+msgctxt "AFTER_ID_6"
+msgid "REDEV3571"
+msgstr ""
+
+msgctxt "AFTER_ID_7"
+msgid "REDEV3581"
+msgstr ""
+
+msgctxt "AFTER_ID_8"
+msgid "REDEV3591"
+msgstr ""
+
+msgctxt "AFTER_ID_9"
+msgid "REDEV3601"
+msgstr ""
+
+msgctxt "AFTER_ID_10"
+msgid "REDEV3611"
+msgstr ""
+
+msgctxt "AFTER_ID_11"
+msgid "REDEV3621"
+msgstr ""
+
+msgctxt "AFTER_ID_12"
+msgid "REDEV3631"
+msgstr ""
+
+msgctxt "AFTER_ID_13"
+msgid "REDEV3641"
+msgstr ""
+
+msgctxt "AFTER_ID_14"
+msgid "REDEV3651"
+msgstr ""
+
+msgctxt "AFTER_ID_15"
+msgid "REDEV3661"
+msgstr ""
+
+msgctxt "AFTER_ID_16"
+msgid "REDEV3671"
+msgstr ""
+
+msgctxt "AFTER_ID_17"
+msgid "REDEV3681"
+msgstr ""
+
+msgctxt "AFTER_ID_18"
+msgid "REDEV3691"
+msgstr ""
+
+msgctxt "AFTER_ID_19"
+msgid "REDEV3701"
+msgstr ""
+
+msgctxt "AFTER_ID_20"
+msgid "REDEV3711"
+msgstr ""
+
+msgctxt "AFTER_ID_21"
+msgid "REDEV3721"
+msgstr ""

@@ -1,0 +1,4504 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "220080"
+msgid "タイトルループ"
+msgstr "Title loop"
+
+msgctxt "220095"
+msgid "CESA"
+msgstr ""
+
+msgctxt "220100"
+msgid "光過敏警告"
+msgstr "Light allergy warning"
+
+msgctxt "220111"
+msgid "フィクション"
+msgstr "fiction"
+
+msgctxt "220124"
+msgid "HDDチェック"
+msgstr ""
+
+msgctxt "220136"
+msgid "自動インストール"
+msgstr "Automatic installation"
+
+msgctxt "220153"
+msgid "システムデータロード"
+msgstr "System data load"
+
+msgctxt "220174"
+msgid "トロフィーインストール"
+msgstr "Trophy installation"
+
+msgctxt "220197"
+msgid "パッチ"
+msgstr "patch"
+
+msgctxt "220204"
+msgid "セガロゴ"
+msgstr "Sega logo"
+
+msgctxt "220213"
+msgid "龍が如くスタジオ"
+msgstr "Ryu ga Gotoku Studio"
+
+msgctxt "220230"
+msgid "DOLBY"
+msgstr ""
+
+msgctxt "220236"
+msgid "アドバタイズ"
+msgstr "Advertise"
+
+msgctxt "220249"
+msgid "advertise"
+msgstr ""
+
+msgctxt "220259"
+msgid "タイトル"
+msgstr "title"
+
+msgctxt "220268"
+msgid "タイトルループ(vita)"
+msgstr "Title loop (vita)"
+
+msgctxt "220289"
+msgid "CESA(vita)"
+msgstr ""
+
+msgctxt "220300"
+msgid "光過敏警告(vita)"
+msgstr "Light allergy warning (vita)"
+
+msgctxt "220317"
+msgid "ＶＩＴＡ版の説明"
+msgstr "Description of VITA version"
+
+msgctxt "220334"
+msgid "システムデータロード(vita)"
+msgstr "System data load (vita)"
+
+msgctxt "220361"
+msgid "ゲームデータロード(vita)"
+msgstr "Game data load (vita)"
+
+msgctxt "220386"
+msgid "セガロゴ(vita)"
+msgstr "Sega logo (vita)"
+
+msgctxt "220401"
+msgid "龍が如くスタジオ(vita)"
+msgstr "Ryu ga Gotoku Studio (vita)"
+
+msgctxt "220424"
+msgid "タイトル(vita)"
+msgstr "Title (vita)"
+
+msgctxt "220439"
+msgid "あらすじ_タイトル"
+msgstr "Synopsis_Title"
+
+msgctxt "220457"
+msgid "あらすじ_アナザーライフ"
+msgstr "Synopsis_Another Life"
+
+msgctxt "220481"
+msgid "あらすじ_バトルダンジョン"
+msgstr "Synopsis_Battle Dungeon"
+
+msgctxt "220507"
+msgid "あらすじ_バトルダンジョン_AL起動"
+msgstr "Synopsis_Battle Dungeon_AL launch"
+
+msgctxt "220540"
+msgid "あらすじ_ミニゲーム_AL起動"
+msgstr "Synopsis_Mini game_AL launch"
+
+msgctxt "220567"
+msgid "タイトルループ（商談会）"
+msgstr "Title loop (business meeting)"
+
+msgctxt "220592"
+msgid "タイトル(商談会)"
+msgstr "Title (business meeting)"
+
+msgctxt "220609"
+msgid "C01_030_cameback_Tosa(商談会)"
+msgstr ""
+
+msgctxt "220639"
+msgid "c01_030"
+msgstr ""
+
+msgctxt "220647"
+msgid "1-100_以蔵に戦いを挑まれる(商談会)"
+msgstr ""
+
+msgctxt "220682"
+msgid "c01_100"
+msgstr ""
+
+msgctxt "220690"
+msgid "C01_120_find_Fukumen_in_Jyogai(商談会)"
+msgstr ""
+
+msgctxt "220729"
+msgid "c01_120"
+msgstr ""
+
+msgctxt "220737"
+msgid "2-030_桂小五郎と出会う(商談会)"
+msgstr ""
+
+msgctxt "220768"
+msgid "c02_030"
+msgstr ""
+
+msgctxt "220776"
+msgid "2-080_西郷が名乗る(商談会)"
+msgstr ""
+
+msgctxt "220803"
+msgid "c02_080"
+msgstr ""
+
+msgctxt "220811"
+msgid "タイトルループ（体験会）"
+msgstr "Title loop (experience meeting)"
+
+msgctxt "220836"
+msgid "タイマー設定"
+msgstr "Timer setting"
+
+msgctxt "220849"
+msgid "ＨＤＤチェック"
+msgstr "HDD check"
+
+msgctxt "220864"
+msgid "DOLBYひょうじ"
+msgstr ""
+
+msgctxt "220878"
+msgid "発売告知"
+msgstr "Release announcement"
+
+msgctxt "220887"
+msgid "第一章"
+msgstr "Chapter One"
+
+msgctxt "220894"
+msgid "1-010_近江屋襲撃"
+msgstr ""
+
+msgctxt "220911"
+msgid "c01_010"
+msgstr ""
+
+msgctxt "220919"
+msgid "坂本龍馬を斬った男"
+msgstr "The man who killed Ryoma Sakamoto"
+
+msgctxt "220938"
+msgid "1-020_オープニング"
+msgstr ""
+
+msgctxt "220957"
+msgid "c01_020"
+msgstr ""
+
+msgctxt "220965"
+msgid "激動の時代"
+msgstr "A turbulent era"
+
+msgctxt "220976"
+msgid "章タイトル「土佐、脱藩」"
+msgstr "Chapter title \"Tosa, Dappan\""
+
+msgctxt "221001"
+msgid "C1-015_城下町を歩く"
+msgstr ""
+
+msgctxt "221021"
+msgid "1-030_土佐へ戻った龍馬"
+msgstr ""
+
+msgctxt "221044"
+msgid "一年ぶりの土佐"
+msgstr "Tosa for the first time in a year"
+
+msgctxt "221059"
+msgid "C1-020_苦しむ少女"
+msgstr ""
+
+msgctxt "221077"
+msgid "1-040_上士に刃向う"
+msgstr ""
+
+msgctxt "221096"
+msgid "c01_040"
+msgstr ""
+
+msgctxt "221104"
+msgid "上士と郷士"
+msgstr "Superior and local"
+
+msgctxt "221115"
+msgid "B1-010_上士たち"
+msgstr ""
+
+msgctxt "221131"
+msgid "土佐藩上士"
+msgstr "Sergeant Tosa"
+
+msgctxt "221142"
+msgid "c46020_btlst_1vs2_a"
+msgstr ""
+
+msgctxt "221162"
+msgid "p_stand_btl_st"
+msgstr ""
+
+msgctxt "221177"
+msgid "SUDE"
+msgstr ""
+
+msgctxt "221182"
+msgid "1-050_上士を打ち負かす"
+msgstr ""
+
+msgctxt "221205"
+msgid "c01_050"
+msgstr ""
+
+msgctxt "221213"
+msgid "抵抗の代償"
+msgstr "The price of resistance"
+
+msgctxt "221224"
+msgid "1-060_投獄される"
+msgstr ""
+
+msgctxt "221241"
+msgid "c01_060"
+msgstr ""
+
+msgctxt "221249"
+msgid "土佐藩参政　吉田東洋"
+msgstr "Tosa Domain Sansei Yoshida Toyo"
+
+msgctxt "221270"
+msgid "C1-030_東洋が脱獄を手助けする"
+msgstr ""
+
+msgctxt "221300"
+msgid "C1-040_食事へ行く"
+msgstr ""
+
+msgctxt "221318"
+msgid "B1-013_浪人１"
+msgstr ""
+
+msgctxt "221332"
+msgid "浪人"
+msgstr "Ronin"
+
+msgctxt "221337"
+msgid "c42050_efrd_f1b2l1r2"
+msgstr ""
+
+msgctxt "221358"
+msgid "C1-045_牽牛子塾へ向かう"
+msgstr ""
+
+msgctxt "221382"
+msgid "1-070_牽牛子塾で東洋と話す"
+msgstr ""
+
+msgctxt "221409"
+msgid "c01_070"
+msgstr ""
+
+msgctxt "221417"
+msgid "牽牛子塾"
+msgstr "Kengoshizuka Juku"
+
+msgctxt "221426"
+msgid "C1-050_牽牛子塾で東洋と話す（続き）"
+msgstr ""
+
+msgctxt "221462"
+msgid "C1-060_武市道場へ向かう"
+msgstr ""
+
+msgctxt "221486"
+msgid "B1-011_偽党員たち"
+msgstr ""
+
+msgctxt "221504"
+msgid "偽土佐勤王党員"
+msgstr "Fake Tosakino Party member"
+
+msgctxt "221519"
+msgid "c41200_pbrd_f1b2l1r1"
+msgstr ""
+
+msgctxt "221540"
+msgid "ITTOU"
+msgstr ""
+
+msgctxt "221546"
+msgid "C1-060_武市道場へ向かう（続き）"
+msgstr ""
+
+msgctxt "221578"
+msgid "1-090_武市道場を訪れる"
+msgstr ""
+
+msgctxt "221601"
+msgid "c01_090"
+msgstr ""
+
+msgctxt "221609"
+msgid "土佐勤王党盟主　武市半平太"
+msgstr "Tosa Qin Wang Party Leader Takechi Hanpeita"
+
+msgctxt "221636"
+msgid "C1-070_武市から銃を受け取る"
+msgstr ""
+
+msgctxt "221664"
+msgid "C1-080_時間をつぶす"
+msgstr ""
+
+msgctxt "221684"
+msgid "B1-012_浪人２"
+msgstr ""
+
+msgctxt "221698"
+msgid "c41300_pbru_f4b1l2r2"
+msgstr ""
+
+msgctxt "221719"
+msgid "C1-085_武市道場へ戻る"
+msgstr ""
+
+msgctxt "221741"
+msgid "1-100_以蔵に戦いを挑まれる"
+msgstr ""
+
+msgctxt "221768"
+msgid "岡田以蔵との対峙"
+msgstr "Confrontation with Okada Izo"
+
+msgctxt "221785"
+msgid "B1-020_岡田以蔵"
+msgstr ""
+
+msgctxt "221801"
+msgid "bbg_vs_izo1"
+msgstr ""
+
+msgctxt "221813"
+msgid "土佐勤王党　岡田以蔵"
+msgstr "Tosa Qin Wang Party Okada Izo"
+
+msgctxt "221834"
+msgid "siz"
+msgstr ""
+
+msgctxt "221838"
+msgid "c46100_btlst_1vs1_c"
+msgstr ""
+
+msgctxt "221858"
+msgid "C1-090_武市と高知城へ向かう"
+msgstr ""
+
+msgctxt "221886"
+msgid "C1-110_高知城を見上げる"
+msgstr ""
+
+msgctxt "221910"
+msgid "1-110_東洋が暗殺される"
+msgstr ""
+
+msgctxt "221933"
+msgid "c01_110"
+msgstr ""
+
+msgctxt "221941"
+msgid "吉田東洋、暗殺"
+msgstr "Yoshida Toyo, assassination"
+
+msgctxt "221956"
+msgid "B1-030_土佐藩士たち"
+msgstr ""
+
+msgctxt "221976"
+msgid "bbg_lng_escape"
+msgstr ""
+
+msgctxt "221991"
+msgid "城から脱出しろ"
+msgstr "Escape from the castle"
+
+msgctxt "222006"
+msgid "c42000_back_f1b1l1r1"
+msgstr ""
+
+msgctxt "222027"
+msgid "1-120_覆面の男と対峙する"
+msgstr ""
+
+msgctxt "222052"
+msgid "未知なる暗殺剣"
+msgstr "Unknown assassination sword"
+
+msgctxt "222067"
+msgid "B1-040_覆面の男"
+msgstr ""
+
+msgctxt "222083"
+msgid "bbg_vs_masked"
+msgstr ""
+
+msgctxt "222097"
+msgid "覆面の男"
+msgstr "Masked man"
+
+msgctxt "222106"
+msgid "sin"
+msgstr ""
+
+msgctxt "222110"
+msgid "c46110_btlst_1vs1_d"
+msgstr ""
+
+msgctxt "222130"
+msgid "1-130_武市が負傷する"
+msgstr ""
+
+msgctxt "222151"
+msgid "c01_130"
+msgstr ""
+
+msgctxt "222159"
+msgid "遂げられぬ復讐"
+msgstr "Unachievable revenge"
+
+msgctxt "222174"
+msgid "C1-120_覆面の男を取り逃がした後"
+msgstr ""
+
+msgctxt "222206"
+msgid "1-140_龍馬が脱藩を決意"
+msgstr ""
+
+msgctxt "222229"
+msgid "c01_140"
+msgstr ""
+
+msgctxt "222237"
+msgid "土佐、脱藩"
+msgstr "Tosa, Dappan"
+
+msgctxt "222248"
+msgid "セーブ"
+msgstr "save"
+
+msgctxt "222255"
+msgid "第二章"
+msgstr "Chapter two"
+
+msgctxt "222262"
+msgid "2-001_一章のあらすじ"
+msgstr ""
+
+msgctxt "222283"
+msgid "c02_001"
+msgstr ""
+
+msgctxt "222291"
+msgid "一章までの物語"
+msgstr "Story up to one chapter"
+
+msgctxt "222306"
+msgid "章タイトル「斎藤一という男」"
+msgstr "Chapter title \"A man named Saito Hajime\""
+
+msgctxt "222335"
+msgid "2-010_京都の情景"
+msgstr ""
+
+msgctxt "222352"
+msgid "c02_010"
+msgstr ""
+
+msgctxt "222360"
+msgid "c02_015"
+msgstr ""
+
+msgctxt "222368"
+msgid "船宿　寺田屋"
+msgstr "Funajuku Teradaya"
+
+msgctxt "222381"
+msgid "C2-010_お登勢と会話"
+msgstr ""
+
+msgctxt "222401"
+msgid "2-020_寺田屋を出る龍馬"
+msgstr ""
+
+msgctxt "222424"
+msgid "c02_020"
+msgstr ""
+
+msgctxt "222432"
+msgid "隠された素顔"
+msgstr "Hidden real face"
+
+msgctxt "222445"
+msgid "2-025_道場破り"
+msgstr ""
+
+msgctxt "222460"
+msgid "c02_025"
+msgstr ""
+
+msgctxt "222468"
+msgid "京の道場破り"
+msgstr "Dojo Yaburi in Kyoto"
+
+msgctxt "222481"
+msgid "C2-015_道場生らに取り囲まれる"
+msgstr ""
+
+msgctxt "222511"
+msgid "B2-010_道場の男たち"
+msgstr ""
+
+msgctxt "222531"
+msgid "道場の男たち"
+msgstr "Dojo men"
+
+msgctxt "222544"
+msgid "c41600_pbld_f1b2l1r1"
+msgstr ""
+
+msgctxt "222565"
+msgid "BOKUTOU"
+msgstr ""
+
+msgctxt "222573"
+msgid "C2-020_情報屋と会話"
+msgstr ""
+
+msgctxt "222593"
+msgid "C2-030_街を散策する"
+msgstr ""
+
+msgctxt "222613"
+msgid "B2-徳チュートリアルバトル"
+msgstr ""
+
+msgctxt "222639"
+msgid "不逞浪士"
+msgstr "Ronin"
+
+msgctxt "222648"
+msgid "c41350_pbru_f4b1l2r2"
+msgstr ""
+
+msgctxt "222669"
+msgid "C2-035_街を散策する（続き）"
+msgstr ""
+
+msgctxt "222697"
+msgid "d：C2-030_酒屋付近"
+msgstr ""
+
+msgctxt "222716"
+msgid "B2-020_不逞浪士たち"
+msgstr ""
+
+msgctxt "222736"
+msgid "c41500_pflu_f2b2l2r1"
+msgstr ""
+
+msgctxt "222757"
+msgid "p_stand_nml"
+msgstr ""
+
+msgctxt "222769"
+msgid "C2-050_街を散策する（続き）"
+msgstr ""
+
+msgctxt "222797"
+msgid "B2-030_チェイス：新選組"
+msgstr ""
+
+msgctxt "222821"
+msgid "逃げろ"
+msgstr "Run away"
+
+msgctxt "222828"
+msgid "チェイス題字"
+msgstr "Chase title"
+
+msgctxt "222841"
+msgid "2-030_桂小五郎と出会う"
+msgstr ""
+
+msgctxt "222864"
+msgid "勤王の志士　新堀松輔"
+msgstr "Qin Wang Shishi Shinbori Matsusuke"
+
+msgctxt "222885"
+msgid "C2-070_桂に情報屋を紹介される"
+msgstr ""
+
+msgctxt "222915"
+msgid "C2-090_番台と会話"
+msgstr ""
+
+msgctxt "222933"
+msgid "2-040_サイの風呂屋が登場"
+msgstr ""
+
+msgctxt "222958"
+msgid "c02_040"
+msgstr ""
+
+msgctxt "222966"
+msgid "サイの風呂屋"
+msgstr "Rhino bathhouse"
+
+msgctxt "222979"
+msgid "C2-100_サイの風呂屋と会話"
+msgstr ""
+
+msgctxt "223005"
+msgid "2-050_西郷が風呂に乱入"
+msgstr ""
+
+msgctxt "223028"
+msgid "c02_050"
+msgstr ""
+
+msgctxt "223036"
+msgid "双龍、激突"
+msgstr "Ssangyong, Jitu"
+
+msgctxt "223047"
+msgid "B2-040_巨漢の男"
+msgstr ""
+
+msgctxt "223063"
+msgid "bbg_vs_saigoh"
+msgstr ""
+
+msgctxt "223077"
+msgid "巨漢の男"
+msgstr "Giant man"
+
+msgctxt "223086"
+msgid "ssi"
+msgstr ""
+
+msgctxt "223090"
+msgid "c46150_btlst_1vs1_furo"
+msgstr ""
+
+msgctxt "223113"
+msgid "P_stand_btl_lp"
+msgstr ""
+
+msgctxt "223128"
+msgid "NAKED"
+msgstr ""
+
+msgctxt "223134"
+msgid "2-060_風呂屋に水をかけられる"
+msgstr ""
+
+msgctxt "223163"
+msgid "c02_060"
+msgstr ""
+
+msgctxt "223171"
+msgid "風呂屋の水入り"
+msgstr "Bathhouse with water"
+
+msgctxt "223186"
+msgid "2-070_芸者の舞"
+msgstr ""
+
+msgctxt "223201"
+msgid "c02_070"
+msgstr ""
+
+msgctxt "223209"
+msgid "祗園の夜"
+msgstr "Gion night"
+
+msgctxt "223218"
+msgid "C2-110_西郷の奢りで飲む"
+msgstr ""
+
+msgctxt "223242"
+msgid "2-080_西郷が名乗る"
+msgstr ""
+
+msgctxt "223261"
+msgid "その男、西郷吉之助"
+msgstr "That man, Saigo Yoshinosuke"
+
+msgctxt "223280"
+msgid "C2-120_寺田屋へ戻る"
+msgstr ""
+
+msgctxt "223300"
+msgid "C2-150_骸街へ出発する"
+msgstr ""
+
+msgctxt "223322"
+msgid "C2-160_小舟で骸街へ向かう"
+msgstr ""
+
+msgctxt "223348"
+msgid "C2-165_骸街で以蔵と会う"
+msgstr ""
+
+msgctxt "223372"
+msgid "ならず者"
+msgstr "Rogue"
+
+msgctxt "223381"
+msgid "B2-050_岡田以蔵"
+msgstr ""
+
+msgctxt "223397"
+msgid "c41660_pbld_f1b2l1r1"
+msgstr ""
+
+msgctxt "223418"
+msgid "P_WPE_stand_btl_lp"
+msgstr ""
+
+msgctxt "223437"
+msgid "C2-170_武市の居場所を聞く"
+msgstr ""
+
+msgctxt "223463"
+msgid "2-100_武市との再会"
+msgstr ""
+
+msgctxt "223482"
+msgid "c02_100"
+msgstr ""
+
+msgctxt "223490"
+msgid "骸街の再会"
+msgstr "Reunion of the skeleton"
+
+msgctxt "223501"
+msgid "C2-180_近況を報告し合う"
+msgstr ""
+
+msgctxt "223525"
+msgid "2-110_武市と決別する"
+msgstr ""
+
+msgctxt "223546"
+msgid "c02_110"
+msgstr ""
+
+msgctxt "223554"
+msgid "決別"
+msgstr "Farewell"
+
+msgctxt "223559"
+msgid "第三章"
+msgstr "third chapter"
+
+msgctxt "223566"
+msgid "3-001_二章のあらすじ"
+msgstr ""
+
+msgctxt "223587"
+msgid "c03_001"
+msgstr ""
+
+msgctxt "223595"
+msgid "二章までの物語"
+msgstr "Story up to Chapter 2"
+
+msgctxt "223610"
+msgid "章タイトル「壬生狼」"
+msgstr "Chapter title \"Issei Wolf\""
+
+msgctxt "223631"
+msgid "C3-005_新選組に入ると言い出す"
+msgstr ""
+
+msgctxt "223661"
+msgid "d：C03_020_新選組前"
+msgstr ""
+
+msgctxt "223681"
+msgid "3-020_入隊試験を受ける"
+msgstr ""
+
+msgctxt "223704"
+msgid "c03_020"
+msgstr ""
+
+msgctxt "223712"
+msgid "虎穴に入らずんば……"
+msgstr "If you don't enter the tiger hole ..."
+
+msgctxt "223733"
+msgid "B3-010_永倉新八"
+msgstr ""
+
+msgctxt "223749"
+msgid "新選組　二番隊隊長　永倉新八"
+msgstr "Shinsengumi 2nd Captain Shinpachi Nagakura"
+
+msgctxt "223778"
+msgid "sng"
+msgstr ""
+
+msgctxt "223782"
+msgid "c46000_btlst_1vs1_a"
+msgstr ""
+
+msgctxt "223802"
+msgid "3-030_沖田と土方が登場する"
+msgstr ""
+
+msgctxt "223829"
+msgid "c03_030"
+msgstr ""
+
+msgctxt "223837"
+msgid "天念理心流の使い手たち"
+msgstr "Tennen Rishin-ryu users"
+
+msgctxt "223860"
+msgid "C3-030_沖田について聞く"
+msgstr ""
+
+msgctxt "223884"
+msgid "C3-040_土方に対決を命ぜられる"
+msgstr ""
+
+msgctxt "223914"
+msgid "B3-020_白装束の男"
+msgstr ""
+
+msgctxt "223932"
+msgid "白装束の男"
+msgstr "Man in white costume"
+
+msgctxt "223943"
+msgid "sya"
+msgstr ""
+
+msgctxt "223947"
+msgid "c41650_pbld_f1b2l1r1"
+msgstr ""
+
+msgctxt "223968"
+msgid "3-050_山南敬助が粛清される"
+msgstr ""
+
+msgctxt "223995"
+msgid "c03_050"
+msgstr ""
+
+msgctxt "224003"
+msgid "新選組三番隊隊長　斎藤一"
+msgstr ""
+"Shinsengumi Third Division Captain Hajime\n"
+"Saito"
+
+msgctxt "224028"
+msgid "第四章"
+msgstr "Chapter Four"
+
+msgctxt "224035"
+msgid "4-001_三章のあらすじ"
+msgstr ""
+
+msgctxt "224056"
+msgid "c04_001"
+msgstr ""
+
+msgctxt "224064"
+msgid "三章までの物語"
+msgstr "Story up to Chapter 3"
+
+msgctxt "224079"
+msgid "章タイトル「共闘」"
+msgstr "Chapter title \"Co-op\""
+
+msgctxt "224098"
+msgid "4-010_緊急幹部会"
+msgstr ""
+
+msgctxt "224115"
+msgid "c04_010"
+msgstr ""
+
+msgctxt "224123"
+msgid "壬生狼の巣"
+msgstr "Wolf's Lair"
+
+msgctxt "224134"
+msgid "C4-005_緊急幹部会に沖田が来る"
+msgstr ""
+
+msgctxt "224164"
+msgid "4-015_隊士の間を歩く龍馬"
+msgstr ""
+
+msgctxt "224189"
+msgid "c04_015"
+msgstr ""
+
+msgctxt "224197"
+msgid "手厚い歓迎"
+msgstr "A generous welcome"
+
+msgctxt "224208"
+msgid "4-020_龍馬が幹部会へ加わる"
+msgstr ""
+
+msgctxt "224235"
+msgid "c04_020"
+msgstr ""
+
+msgctxt "224243"
+msgid "隊を脱するを許さず"
+msgstr "Do not allow to leave the corps"
+
+msgctxt "224262"
+msgid "C4-010_緊急幹部会後"
+msgstr ""
+
+msgctxt "224282"
+msgid "d：C4-030_別宅"
+msgstr ""
+
+msgctxt "224297"
+msgid "d：C4-040_寺田屋前"
+msgstr ""
+
+msgctxt "224316"
+msgid "遥_弁当_回数"
+msgstr "Haruka _ Bento _ Number of times"
+
+msgctxt "224329"
+msgid "d：C4-060_四条大橋"
+msgstr ""
+
+msgctxt "224348"
+msgid "C4-080_龍馬へ来客があったと聞く"
+msgstr ""
+
+msgctxt "224380"
+msgid "4-030_清水寺で中岡と出会う"
+msgstr ""
+
+msgctxt "224407"
+msgid "c04_030"
+msgstr ""
+
+msgctxt "224415"
+msgid "土佐から来た男"
+msgstr "A man from Tosa"
+
+msgctxt "224430"
+msgid "C4-100_中岡から事のあらましを聞く"
+msgstr ""
+
+msgctxt "224464"
+msgid "C4-110_勤王党員に襲われる"
+msgstr ""
+
+msgctxt "224490"
+msgid "B4-010_土佐勤王党"
+msgstr ""
+
+msgctxt "224508"
+msgid "包囲網を突破しろ"
+msgstr "Break through the siege"
+
+msgctxt "224525"
+msgid "C4-120_中岡と今後について話す"
+msgstr ""
+
+msgctxt "224555"
+msgid "第五章"
+msgstr "chapter Five"
+
+msgctxt "224562"
+msgid "5-001_四章のあらすじ"
+msgstr ""
+
+msgctxt "224583"
+msgid "c05_001"
+msgstr ""
+
+msgctxt "224591"
+msgid "四章までの物語"
+msgstr "Story up to Chapter 4"
+
+msgctxt "224606"
+msgid "章タイトル「鉄の掟」"
+msgstr "Chapter title \"Rules of Iron\""
+
+msgctxt "224627"
+msgid "5-010_新選組の羽織を着る"
+msgstr ""
+
+msgctxt "224652"
+msgid "c05_010"
+msgstr ""
+
+msgctxt "224660"
+msgid "浅葱色の坂本龍馬"
+msgstr "Asagi-iro Sakamoto Ryoma"
+
+msgctxt "224677"
+msgid "C5-010_屯所へ向かう"
+msgstr ""
+
+msgctxt "224697"
+msgid "d：C5-020_藤堂から仕事を教わる"
+msgstr ""
+
+msgctxt "224728"
+msgid "d：C5-030_説明終了"
+msgstr ""
+
+msgctxt "224747"
+msgid "5-020_山崎丞に出会う"
+msgstr ""
+
+msgctxt "224768"
+msgid "c05_020"
+msgstr ""
+
+msgctxt "224776"
+msgid "新選組の“目”"
+msgstr "Shinsengumi's \"eyes\""
+
+msgctxt "224791"
+msgid "C5-050_仕事の連絡を受ける"
+msgstr ""
+
+msgctxt "224817"
+msgid "d：C5-070_祇園入口"
+msgstr ""
+
+msgctxt "224836"
+msgid "C5-080_揚屋に侵入する"
+msgstr ""
+
+msgctxt "224858"
+msgid "B5-010_秋元"
+msgstr ""
+
+msgctxt "224870"
+msgid "bbg_vs_boss"
+msgstr ""
+
+msgctxt "224882"
+msgid "新選組脱走隊士　秋元"
+msgstr "Shinsengumi deserter Akimoto"
+
+msgctxt "224903"
+msgid "c42250_efld_f3b2l3r1"
+msgstr ""
+
+msgctxt "224924"
+msgid "C5-085_秋元を見逃そうとする"
+msgstr ""
+
+msgctxt "224952"
+msgid "5-030_秋元が粛清される"
+msgstr ""
+
+msgctxt "224975"
+msgid "c05_030"
+msgstr ""
+
+msgctxt "224983"
+msgid "狂った時代の申し子"
+msgstr "A child of a crazy era"
+
+msgctxt "225002"
+msgid "C5-090_屯所に報告へ戻る"
+msgstr ""
+
+msgctxt "225026"
+msgid "C5-100_以蔵捕獲のため出動する"
+msgstr ""
+
+msgctxt "225056"
+msgid "d：C5-110_壬生寺前"
+msgstr ""
+
+msgctxt "225075"
+msgid "B5-020_賭場の見張り"
+msgstr ""
+
+msgctxt "225095"
+msgid "賭場の見張り"
+msgstr "Lookout of the gambling house"
+
+msgctxt "225108"
+msgid "c42200_efld_f1b2l2r"
+msgstr ""
+
+msgctxt "225128"
+msgid "C5-122_賭場内に突入する"
+msgstr ""
+
+msgctxt "225152"
+msgid "5-040_以蔵に挑む"
+msgstr ""
+
+msgctxt "225169"
+msgid "c05_040"
+msgstr ""
+
+msgctxt "225177"
+msgid "人斬り以蔵"
+msgstr "Izo Izo"
+
+msgctxt "225188"
+msgid "B5-030_岡田以蔵"
+msgstr ""
+
+msgctxt "225204"
+msgid "5-050_以蔵が捕まる"
+msgstr ""
+
+msgctxt "225223"
+msgid "c05_050"
+msgstr ""
+
+msgctxt "225231"
+msgid "斎藤一への疑惑"
+msgstr "Suspicion of Saito Hajime"
+
+msgctxt "225246"
+msgid "C5-125_井上と会話"
+msgstr ""
+
+msgctxt "225264"
+msgid "C5-140_落ち込む龍馬"
+msgstr ""
+
+msgctxt "225284"
+msgid "第六章"
+msgstr "Chapter Six"
+
+msgctxt "225291"
+msgid "6-001_五章のあらすじ"
+msgstr ""
+
+msgctxt "225312"
+msgid "c06_001"
+msgstr ""
+
+msgctxt "225320"
+msgid "五章までの物語"
+msgstr "Story up to Chapter 5"
+
+msgctxt "225335"
+msgid "章タイトル「池田屋事件」"
+msgstr "Chapter title \"Ikedaya Incident\""
+
+msgctxt "225360"
+msgid "6-010_拷問される古高"
+msgstr ""
+
+msgctxt "225381"
+msgid "c06_010"
+msgstr ""
+
+msgctxt "225389"
+msgid "嵐の予感"
+msgstr "Premonition of a storm"
+
+msgctxt "225398"
+msgid "C6-010_会合襲撃の計画"
+msgstr ""
+
+msgctxt "225420"
+msgid "C6-020_寺田屋へ戻る"
+msgstr ""
+
+msgctxt "225440"
+msgid "C6-030_中岡がいるか尋ねる"
+msgstr ""
+
+msgctxt "225466"
+msgid "C6-040_御所放火の件を話す"
+msgstr ""
+
+msgctxt "225492"
+msgid "d：C6-050_松原と鴉を目撃する"
+msgstr ""
+
+msgctxt "225521"
+msgid "C6-060_会合場所が絞られる"
+msgstr ""
+
+msgctxt "225547"
+msgid "d：C6-070_屯所境内"
+msgstr ""
+
+msgctxt "225566"
+msgid "C6-090_吉田と桂の情報を得る"
+msgstr ""
+
+msgctxt "225594"
+msgid "C6-100_四国屋に向かう"
+msgstr ""
+
+msgctxt "225616"
+msgid "advbgm_kinpaku"
+msgstr ""
+
+msgctxt "225631"
+msgid "C6-110_四国屋ははずれ"
+msgstr ""
+
+msgctxt "225653"
+msgid "C6-120_池田屋に突入する"
+msgstr ""
+
+msgctxt "225677"
+msgid "B6-010_勤王の志士"
+msgstr ""
+
+msgctxt "225695"
+msgid "bbg_lng_ikedaya"
+msgstr ""
+
+msgctxt "225711"
+msgid "吉田稔麿を捜せ"
+msgstr "Search for Minoru Yoshida"
+
+msgctxt "225726"
+msgid "C6-130_吉田稔麿が現れる"
+msgstr ""
+
+msgctxt "225750"
+msgid "B6-020_吉田稔麿"
+msgstr ""
+
+msgctxt "225766"
+msgid "長州藩士　吉田稔麿"
+msgstr "Choshu Domain Minoru Yoshida"
+
+msgctxt "225785"
+msgid "sto"
+msgstr ""
+
+msgctxt "225789"
+msgid "c42060_efrd_f1b2l1r2"
+msgstr ""
+
+msgctxt "225810"
+msgid "C6-140_桂小五郎を探す"
+msgstr ""
+
+msgctxt "225832"
+msgid "B6-030_勤王の志士"
+msgstr ""
+
+msgctxt "225850"
+msgid "桂小五郎を捜せ"
+msgstr "Search for Kogoro Katsura"
+
+msgctxt "225865"
+msgid "c41250_pbru_f1b2l1r1"
+msgstr ""
+
+msgctxt "225886"
+msgid "6-040_桂小五郎と再会"
+msgstr ""
+
+msgctxt "225907"
+msgid "c06_040"
+msgstr ""
+
+msgctxt "225915"
+msgid "長州藩の舵取り役"
+msgstr "Steering role of the Choshu clan"
+
+msgctxt "225932"
+msgid "B6-040_桂小五郎"
+msgstr ""
+
+msgctxt "225948"
+msgid "長州藩士　桂小五郎"
+msgstr "Choshu Domain Shigeru Katsura Kogoro"
+
+msgctxt "225967"
+msgid "ska"
+msgstr ""
+
+msgctxt "225971"
+msgid "6-045_桂小五郎を逃がす"
+msgstr ""
+
+msgctxt "225994"
+msgid "c06_045"
+msgstr ""
+
+msgctxt "226002"
+msgid "逃げの小五郎"
+msgstr "Escape Kogoro"
+
+msgctxt "226015"
+msgid "6-050_松原が粛清される"
+msgstr ""
+
+msgctxt "226038"
+msgid "c06_050"
+msgstr ""
+
+msgctxt "226046"
+msgid "粛清の池田屋"
+msgstr "Purge Ikedaya"
+
+msgctxt "226059"
+msgid "第七章"
+msgstr "Chapter VII"
+
+msgctxt "226066"
+msgid "7-001_六章のあらすじ"
+msgstr ""
+
+msgctxt "226087"
+msgid "c07_001"
+msgstr ""
+
+msgctxt "226095"
+msgid "六章までの物語"
+msgstr "Story up to Chapter 6"
+
+msgctxt "226110"
+msgid "章タイトル「二人の龍馬」"
+msgstr "Chapter title \"Two Ryoma\""
+
+msgctxt "226135"
+msgid "C7-005_西郷と勝の会談"
+msgstr ""
+
+msgctxt "226157"
+msgid "C7-010_中岡と情報を共有"
+msgstr ""
+
+msgctxt "226181"
+msgid "C7-020_局長について聞く"
+msgstr ""
+
+msgctxt "226205"
+msgid "d：C7-050_試験会場付近"
+msgstr ""
+
+msgctxt "226228"
+msgid "C7-070_中岡に偽龍馬の件を相談"
+msgstr ""
+
+msgctxt "226258"
+msgid "B7-005_薩摩藩士たち"
+msgstr ""
+
+msgctxt "226278"
+msgid "薩摩藩士"
+msgstr "Satsuma Domain"
+
+msgctxt "226287"
+msgid "c46080_btlst_1vs3_a"
+msgstr ""
+
+msgctxt "226307"
+msgid "C7-075_門番を打ちのめす"
+msgstr ""
+
+msgctxt "226331"
+msgid "C7-080_西郷と面会"
+msgstr ""
+
+msgctxt "226349"
+msgid "C7-090_山崎より伝言を聞く"
+msgstr ""
+
+msgctxt "226375"
+msgid "7-040_近藤勇に出会う"
+msgstr ""
+
+msgctxt "226396"
+msgid "c07_040"
+msgstr ""
+
+msgctxt "226404"
+msgid "近藤勇現る"
+msgstr "Isami Kondo appears"
+
+msgctxt "226415"
+msgid "C7-110_近藤が野望を話す"
+msgstr ""
+
+msgctxt "226439"
+msgid "7-050_近藤勇と対峙する"
+msgstr ""
+
+msgctxt "226462"
+msgid "c07_050"
+msgstr ""
+
+msgctxt "226470"
+msgid "宗家の剣"
+msgstr "Soke's sword"
+
+msgctxt "226479"
+msgid "B7-010_近藤勇"
+msgstr ""
+
+msgctxt "226493"
+msgid "bbg_vs_kondou"
+msgstr ""
+
+msgctxt "226507"
+msgid "新選組　局長　近藤勇"
+msgstr "Isamu Kondo"
+
+msgctxt "226528"
+msgid "sko"
+msgstr ""
+
+msgctxt "226532"
+msgid "7-060_近藤は覆面の男ではない"
+msgstr ""
+
+msgctxt "226561"
+msgid "c07_060"
+msgstr ""
+
+msgctxt "226569"
+msgid "動き出す“影”"
+msgstr "\"Shadow\" that begins to move"
+
+msgctxt "226584"
+msgid "第八章"
+msgstr "chapter eight"
+
+msgctxt "226591"
+msgid "8-001_七章のあらすじ"
+msgstr ""
+
+msgctxt "226612"
+msgid "c08_001"
+msgstr ""
+
+msgctxt "226620"
+msgid "七章までの物語"
+msgstr "Story up to Chapter 7"
+
+msgctxt "226635"
+msgid "章タイトル「狂犬吠える」"
+msgstr "Chapter title \"Mad dog barking\""
+
+msgctxt "226660"
+msgid "8-010_沖田に目星を付ける"
+msgstr ""
+
+msgctxt "226685"
+msgid "c08_010"
+msgstr ""
+
+msgctxt "226693"
+msgid "次なる標的"
+msgstr "Next target"
+
+msgctxt "226704"
+msgid "C8-010_寺田屋から屯所へ"
+msgstr ""
+
+msgctxt "226728"
+msgid "C8-020_沖田に呼び出される"
+msgstr ""
+
+msgctxt "226754"
+msgid "C8-040_千石邸を襲う計画にのる"
+msgstr ""
+
+msgctxt "226784"
+msgid "C8-050_千石邸へ向かう"
+msgstr ""
+
+msgctxt "226806"
+msgid "d：C8-050_寺田屋_夜"
+msgstr ""
+
+msgctxt "226826"
+msgid "d：C8-060_千石邸付近"
+msgstr ""
+
+msgctxt "226847"
+msgid "B08-010_勤王の志士"
+msgstr ""
+
+msgctxt "226866"
+msgid "bbg_lng_strike"
+msgstr ""
+
+msgctxt "226881"
+msgid "千石虎之丞を捜せ"
+msgstr "Search for Sengoku Toranosuke"
+
+msgctxt "226898"
+msgid "c40500_bust_f3b2l2r2"
+msgstr ""
+
+msgctxt "226919"
+msgid "B08-010_勤王の志士２"
+msgstr ""
+
+msgctxt "226940"
+msgid "千石虎之丞を追え"
+msgstr "Chase Sengoku Toranosuke"
+
+msgctxt "226957"
+msgid "C8-070_千石が沖田に斬られる"
+msgstr ""
+
+msgctxt "226985"
+msgid "8-020_沖田が覆面の男だと自白"
+msgstr ""
+
+msgctxt "227014"
+msgid "c08_020"
+msgstr ""
+
+msgctxt "227022"
+msgid "新選組最強の男"
+msgstr "Shinsengumi strongest man"
+
+msgctxt "227037"
+msgid "B8-020_沖田総司"
+msgstr ""
+
+msgctxt "227053"
+msgid "bbg_vs_okita1"
+msgstr ""
+
+msgctxt "227067"
+msgid "新選組　一番隊隊長　沖田総司"
+msgstr "Shinsengumi Ichiban Captain Souji Okita"
+
+msgctxt "227096"
+msgid "sok"
+msgstr ""
+
+msgctxt "227100"
+msgid "h68020_vs_okita"
+msgstr ""
+
+msgctxt "227116"
+msgid "8-050_沖田は覆面の男ではない"
+msgstr ""
+
+msgctxt "227145"
+msgid "c08_050"
+msgstr ""
+
+msgctxt "227153"
+msgid "沖田総司との決着"
+msgstr "Settlement with Soji Okita"
+
+msgctxt "227170"
+msgid "C8-080_事の顛末を聞く"
+msgstr ""
+
+msgctxt "227192"
+msgid "C8-090_武市の訃報"
+msgstr ""
+
+msgctxt "227210"
+msgid "第九章"
+msgstr "Chapter nine"
+
+msgctxt "227217"
+msgid "9-001_八章のあらすじ"
+msgstr ""
+
+msgctxt "227238"
+msgid "c09_001"
+msgstr ""
+
+msgctxt "227246"
+msgid "八章までの物語"
+msgstr "Story up to Chapter 8"
+
+msgctxt "227261"
+msgid "章タイトル「喧嘩の花道」"
+msgstr "Chapter title \"Fighting Flower Road\""
+
+msgctxt "227286"
+msgid "C9-010_寺田屋へ急ぐ"
+msgstr ""
+
+msgctxt "227306"
+msgid "C9-015_中岡が土佐へ戻る"
+msgstr ""
+
+msgctxt "227330"
+msgid "9-030_酒びたりの龍馬"
+msgstr ""
+
+msgctxt "227351"
+msgid "c09_030"
+msgstr ""
+
+msgctxt "227359"
+msgid "失意の酒"
+msgstr "Disappointed sake"
+
+msgctxt "227368"
+msgid "C9-020_飲みに出かける"
+msgstr ""
+
+msgctxt "227390"
+msgid "C9-030_幾松に誘われる"
+msgstr ""
+
+msgctxt "227412"
+msgid "d：C9-045_松乃井前"
+msgstr ""
+
+msgctxt "227431"
+msgid "C9-045_桂と再会する"
+msgstr ""
+
+msgctxt "227451"
+msgid "9-050_桂、西郷と三つ巴になる"
+msgstr ""
+
+msgctxt "227480"
+msgid "c09_050"
+msgstr ""
+
+msgctxt "227488"
+msgid "三つ巴の戦い"
+msgstr "Three-way battle"
+
+msgctxt "227501"
+msgid "B9-010_西郷吉之助・桂小五郎"
+msgstr ""
+
+msgctxt "227529"
+msgid "bbg_vs_2men"
+msgstr ""
+
+msgctxt "227541"
+msgid "薩摩藩士　西郷吉之助　長州藩士　桂小五郎"
+msgstr ""
+"Satsuma Domain Yoshinosuke Saigo Choshu\n"
+"Domain Kogoro Katsura"
+
+msgctxt "227582"
+msgid "ssi,ska"
+msgstr ""
+
+msgctxt "227590"
+msgid "c46030_btlst_1vs2_b"
+msgstr ""
+
+msgctxt "227610"
+msgid "C9-047_龍馬が強引に飲みに誘う"
+msgstr ""
+
+msgctxt "227640"
+msgid "d：C9-050_和民前"
+msgstr ""
+
+msgctxt "227657"
+msgid "C9-060_龍馬が酔いつぶれる"
+msgstr ""
+
+msgctxt "227683"
+msgid "9-060_おりょうを抱き寄せる龍馬"
+msgstr ""
+
+msgctxt "227714"
+msgid "c09_060"
+msgstr ""
+
+msgctxt "227722"
+msgid "束の間の安らぎ"
+msgstr "Fleeting peace"
+
+msgctxt "227737"
+msgid "9-070_早朝から出かける龍馬"
+msgstr ""
+
+msgctxt "227764"
+msgid "c09_070"
+msgstr ""
+
+msgctxt "227772"
+msgid "灰色の朝"
+msgstr "Gray morning"
+
+msgctxt "227781"
+msgid "第十章"
+msgstr "chapter Ten"
+
+msgctxt "227788"
+msgid "10-001_九章のあらすじ"
+msgstr ""
+
+msgctxt "227810"
+msgid "c10_001"
+msgstr ""
+
+msgctxt "227818"
+msgid "九章までの物語"
+msgstr "Story up to Chapter 9"
+
+msgctxt "227833"
+msgid "章タイトル「正体」"
+msgstr "Chapter title \"Identity\""
+
+msgctxt "227852"
+msgid "10-010_川面に浮く井上の死体"
+msgstr ""
+
+msgctxt "227880"
+msgid "c10_010"
+msgstr ""
+
+msgctxt "227888"
+msgid "六番隊隊長の死"
+msgstr "Death of Captain Sixth"
+
+msgctxt "227903"
+msgid "C10-010_屯所へ向かう"
+msgstr ""
+
+msgctxt "227924"
+msgid "d：C10_020_壬生寺前"
+msgstr ""
+
+msgctxt "227944"
+msgid "C10-025_井上が死亡した事がわかる"
+msgstr ""
+
+msgctxt "227977"
+msgid "10-020_復讐に燃える沖田"
+msgstr ""
+
+msgctxt "228001"
+msgid "c10_020"
+msgstr ""
+
+msgctxt "228009"
+msgid "一番隊の暴走"
+msgstr "Runaway of the first corps"
+
+msgctxt "228022"
+msgid "C10-030_沖田を止めるよう指示される"
+msgstr ""
+
+msgctxt "228057"
+msgid "C10-035_遺体のあった現場へ向かう"
+msgstr ""
+
+msgctxt "228090"
+msgid "d：C10-040_船着き場付近"
+msgstr ""
+
+msgctxt "228114"
+msgid "d：C10-050_骸街入口"
+msgstr ""
+
+msgctxt "228134"
+msgid "10-030_襲いかかる沖田"
+msgstr ""
+
+msgctxt "228156"
+msgid "c10_030"
+msgstr ""
+
+msgctxt "228164"
+msgid "「覆面の男」の正体"
+msgstr "The identity of the \"masked man\""
+
+msgctxt "228183"
+msgid "B10-010_沖田総司"
+msgstr ""
+
+msgctxt "228200"
+msgid "bbg_vs_okita2"
+msgstr ""
+
+msgctxt "228214"
+msgid "c46140_btlst_1vs1_f"
+msgstr ""
+
+msgctxt "228234"
+msgid "C10-060_近藤が現れる"
+msgstr ""
+
+msgctxt "228255"
+msgid "C10-065_過去の話を始める"
+msgstr ""
+
+msgctxt "228280"
+msgid "10-040_源さんの正体"
+msgstr ""
+
+msgctxt "228300"
+msgid "c10_040"
+msgstr ""
+
+msgctxt "228308"
+msgid "芹沢鴨"
+msgstr "Serizawa Kamo"
+
+msgctxt "228315"
+msgid "C10-070_偽龍馬の情報を得る"
+msgstr ""
+
+msgctxt "228342"
+msgid "C10-080_沖田と寺田屋へ向かう"
+msgstr ""
+
+msgctxt "228371"
+msgid "d：C10-090_寺田付近"
+msgstr ""
+
+msgctxt "228391"
+msgid "C10-100_寺田屋裏口"
+msgstr ""
+
+msgctxt "228410"
+msgid "10-050_風呂場のおりょう"
+msgstr ""
+
+msgctxt "228434"
+msgid "c10_050"
+msgstr ""
+
+msgctxt "228442"
+msgid "寺田屋事件"
+msgstr "Teradaya Incident"
+
+msgctxt "228453"
+msgid "B10-020_勤王の志士"
+msgstr ""
+
+msgctxt "228472"
+msgid "坂本龍馬を捜せ"
+msgstr "Search for Ryoma Sakamoto"
+
+msgctxt "228487"
+msgid "C10-110_偽龍馬を発見する"
+msgstr ""
+
+msgctxt "228512"
+msgid "B10-030_ニセ坂本龍馬"
+msgstr ""
+
+msgctxt "228533"
+msgid "土佐藩郷士　坂本龍馬"
+msgstr "Tosa Domain Ryoma Sakamoto"
+
+msgctxt "228554"
+msgid "stk"
+msgstr ""
+
+msgctxt "228558"
+msgid "c41850_efcd_f2b1l1r1"
+msgstr ""
+
+msgctxt "228579"
+msgid "10-060_偽龍馬を捕り逃がす"
+msgstr ""
+
+msgctxt "228605"
+msgid "c10_060"
+msgstr ""
+
+msgctxt "228613"
+msgid "二人の坂本龍馬"
+msgstr "Two Ryoma Sakamoto"
+
+msgctxt "228628"
+msgid "C10-120_伊東らにやっかまれる"
+msgstr ""
+
+msgctxt "228657"
+msgid "C10-130_おりょうから話を聞く"
+msgstr ""
+
+msgctxt "228686"
+msgid "10-070_龍馬が本名を明かす"
+msgstr ""
+
+msgctxt "228712"
+msgid "c10_070"
+msgstr ""
+
+msgctxt "228720"
+msgid "告白"
+msgstr "Confession"
+
+msgctxt "228725"
+msgid "第十一章"
+msgstr "Chapter Eleven"
+
+msgctxt "228734"
+msgid "11-001_十章のあらすじ"
+msgstr ""
+
+msgctxt "228756"
+msgid "c11_001"
+msgstr ""
+
+msgctxt "228764"
+msgid "十章までの物語"
+msgstr "Story up to ten chapters"
+
+msgctxt "228779"
+msgid "章タイトル「大博打」"
+msgstr "Chapter title \"Gambling\""
+
+msgctxt "228800"
+msgid "11-010_近藤との密会"
+msgstr ""
+
+msgctxt "228820"
+msgid "c11_010"
+msgstr ""
+
+msgctxt "228828"
+msgid "討幕戦争の引き金"
+msgstr "Trigger the defeat war"
+
+msgctxt "228845"
+msgid "C11-010_大政奉還について"
+msgstr ""
+
+msgctxt "228870"
+msgid "C11-020_屯所へ戻る"
+msgstr ""
+
+msgctxt "228889"
+msgid "C11-030_山崎について会話"
+msgstr ""
+
+msgctxt "228914"
+msgid "C11-041_夕方になる"
+msgstr ""
+
+msgctxt "228933"
+msgid "C11-060_沖田と手を組む"
+msgstr ""
+
+msgctxt "228956"
+msgid "C11-070_寺田屋で休む"
+msgstr ""
+
+msgctxt "228977"
+msgid "C11-075_江戸に行く前夜"
+msgstr ""
+
+msgctxt "229000"
+msgid "C11-080_沖田と合流する"
+msgstr ""
+
+msgctxt "229023"
+msgid "11-030_船中八策"
+msgstr ""
+
+msgctxt "229039"
+msgid "c11_030"
+msgstr ""
+
+msgctxt "229047"
+msgid "徳川将軍への手紙"
+msgstr "Letter to General Tokugawa"
+
+msgctxt "229064"
+msgid "C11-090_船中八策（後半）"
+msgstr ""
+
+msgctxt "229089"
+msgid "C11-095_手紙を読み思いにふける"
+msgstr ""
+
+msgctxt "229120"
+msgid "11-050_江戸城に大砲を放つ"
+msgstr ""
+
+msgctxt "229146"
+msgid "c11_050"
+msgstr ""
+
+msgctxt "229154"
+msgid "江戸城、突入"
+msgstr "Edo Castle, rush"
+
+msgctxt "229167"
+msgid "B11-010_幕臣たち"
+msgstr ""
+
+msgctxt "229184"
+msgid "江戸幕府　幕臣"
+msgstr "Edo Shogunate Bakushin"
+
+msgctxt "229199"
+msgid "c46050_btlst_1vsmany_b"
+msgstr ""
+
+msgctxt "229222"
+msgid "ロングバトル汎用"
+msgstr "Long battle general purpose"
+
+msgctxt "229239"
+msgid "江戸城つり天井Hactタイマ-"
+msgstr "Edo Castle Fishing Ceiling Hact Timer-"
+
+msgctxt "229265"
+msgid "B11-010_幕臣たち２"
+msgstr ""
+
+msgctxt "229284"
+msgid "11-060_徳川慶喜と対峙する"
+msgstr ""
+
+msgctxt "229310"
+msgid "c11_060"
+msgstr ""
+
+msgctxt "229318"
+msgid "徳川将軍の玉座"
+msgstr "Throne of General Tokugawa"
+
+msgctxt "229333"
+msgid "B11-020_徳川慶喜"
+msgstr ""
+
+msgctxt "229350"
+msgid "bbg_vs_daigo"
+msgstr ""
+
+msgctxt "229363"
+msgid "江戸幕府第十五代征夷大将軍　徳川慶喜"
+msgstr ""
+"Yoshinobu Tokugawa, the 15th Shogun of the\n"
+"Edo Shogunate"
+
+msgctxt "229400"
+msgid "stg"
+msgstr ""
+
+msgctxt "229404"
+msgid "C11-100_慶喜に手紙を渡す"
+msgstr ""
+
+msgctxt "229429"
+msgid "11-070_大政奉還を決意する慶喜"
+msgstr ""
+
+msgctxt "229459"
+msgid "c11_070"
+msgstr ""
+
+msgctxt "229467"
+msgid "大政奉還"
+msgstr "Great government return"
+
+msgctxt "229476"
+msgid "11-090_武市と勝の悪だくみ"
+msgstr ""
+
+msgctxt "229502"
+msgid "c11_090"
+msgstr ""
+
+msgctxt "229510"
+msgid "止まらぬ陰謀"
+msgstr "Unstoppable conspiracy"
+
+msgctxt "229523"
+msgid "第十二章"
+msgstr "Chapter Twelve"
+
+msgctxt "229532"
+msgid "12-001_十一章のあらすじ"
+msgstr ""
+
+msgctxt "229556"
+msgid "c12_001"
+msgstr ""
+
+msgctxt "229564"
+msgid "十一章までの物語"
+msgstr "Story up to 11 chapters"
+
+msgctxt "229581"
+msgid "12-010_伊東が火を放つ"
+msgstr ""
+
+msgctxt "229603"
+msgid "c12_010"
+msgstr ""
+
+msgctxt "229611"
+msgid "伊東甲子太郎、蠢動"
+msgstr "Kashitaro Ito, swaying"
+
+msgctxt "229630"
+msgid "12-020_炎上する京都に到着"
+msgstr ""
+
+msgctxt "229656"
+msgid "c12_020"
+msgstr ""
+
+msgctxt "229664"
+msgid "京炎上"
+msgstr "Kyo-flaming"
+
+msgctxt "229671"
+msgid "C12-010_寺田屋へ向かう"
+msgstr ""
+
+msgctxt "229694"
+msgid "advbgm_kinpaku_fire"
+msgstr ""
+
+msgctxt "229714"
+msgid "C12-020_近藤を探しに行く"
+msgstr ""
+
+msgctxt "229739"
+msgid "d：C12_040_洛外南"
+msgstr ""
+
+msgctxt "229757"
+msgid "B12-010_京都見廻組"
+msgstr ""
+
+msgctxt "229776"
+msgid "京都見廻組　佐々木只三郎"
+msgstr "Kyoto Mimawarigumi Sasaki Taizaburo"
+
+msgctxt "229801"
+msgid "ssk"
+msgstr ""
+
+msgctxt "229805"
+msgid "c41800_efcd_f2b1l1r1"
+msgstr ""
+
+msgctxt "229826"
+msgid "C12-050_沖田と別れる"
+msgstr ""
+
+msgctxt "229847"
+msgid "d：C12_070_洛内"
+msgstr ""
+
+msgctxt "229863"
+msgid "B12-030_原田左之助"
+msgstr ""
+
+msgctxt "229882"
+msgid "新選組　十番隊隊長　原田左之助"
+msgstr ""
+"Shinsengumi Juth Division Captain Harada\n"
+"Sanonosuke"
+
+msgctxt "229913"
+msgid "shr"
+msgstr ""
+
+msgctxt "229917"
+msgid "12-030_原田を置いて立ち去る"
+msgstr ""
+
+msgctxt "229945"
+msgid "c12_030"
+msgstr ""
+
+msgctxt "229953"
+msgid "左之助の末路"
+msgstr "The end of Sanosuke"
+
+msgctxt "229966"
+msgid "C12-080_旭屋へ向かう"
+msgstr ""
+
+msgctxt "229987"
+msgid "12-040_近藤の死"
+msgstr ""
+
+msgctxt "230003"
+msgid "c12_040"
+msgstr ""
+
+msgctxt "230011"
+msgid "最期の策"
+msgstr "Last plan"
+
+msgctxt "230020"
+msgid "C12-100_御所へ向かう"
+msgstr ""
+
+msgctxt "230041"
+msgid "12-050_以蔵に挑まれる"
+msgstr ""
+
+msgctxt "230063"
+msgid "c12_050"
+msgstr ""
+
+msgctxt "230071"
+msgid "宿敵"
+msgstr "Old enemy"
+
+msgctxt "230076"
+msgid "B12-060_岡田以蔵"
+msgstr ""
+
+msgctxt "230093"
+msgid "bbg_vs_izo2"
+msgstr ""
+
+msgctxt "230105"
+msgid "h61250_vs_izo_gosho"
+msgstr ""
+
+msgctxt "230125"
+msgid "12-060_以蔵の死"
+msgstr ""
+
+msgctxt "230141"
+msgid "c12_060"
+msgstr ""
+
+msgctxt "230149"
+msgid "人斬り以蔵、死す"
+msgstr "Izo, dying"
+
+msgctxt "230166"
+msgid "12-065_鎮火した京の点描"
+msgstr ""
+
+msgctxt "230190"
+msgid "c12_065"
+msgstr ""
+
+msgctxt "230198"
+msgid "黒煙の朝"
+msgstr "Black smoke morning"
+
+msgctxt "230207"
+msgid "C12-110_新選組を去ろうとする"
+msgstr ""
+
+msgctxt "230236"
+msgid "C12-120_幹部会"
+msgstr ""
+
+msgctxt "230251"
+msgid "12-080_御陵衛士の裏切り"
+msgstr ""
+
+msgctxt "230275"
+msgid "c12_080"
+msgstr ""
+
+msgctxt "230283"
+msgid "裏切りの御陵衛士"
+msgstr "Betrayal Goryo"
+
+msgctxt "230300"
+msgid "第十三章"
+msgstr "Chapter Thirteen"
+
+msgctxt "230309"
+msgid "13-001_十二章のあらすじ"
+msgstr ""
+
+msgctxt "230333"
+msgid "c13_001"
+msgstr ""
+
+msgctxt "230341"
+msgid "十二章までの物語"
+msgstr "Story up to chapter twelve"
+
+msgctxt "230358"
+msgid "章タイトル「龍馬暗殺」"
+msgstr "Chapter title \"Assassination of Ryoma\""
+
+msgctxt "230381"
+msgid "13-010_藤堂が復帰"
+msgstr ""
+
+msgctxt "230399"
+msgid "c13_010"
+msgstr ""
+
+msgctxt "230407"
+msgid "新選組の真の敵"
+msgstr "Shinsengumi's true enemy"
+
+msgctxt "230422"
+msgid "C13-010_近藤の策について"
+msgstr ""
+
+msgctxt "230447"
+msgid "13-030_近江屋が提供される"
+msgstr ""
+
+msgctxt "230473"
+msgid "c13_030"
+msgstr ""
+
+msgctxt "230481"
+msgid "京に生きる者の願い"
+msgstr "Wishes of those who live in Kyo"
+
+msgctxt "230500"
+msgid "C13-015_偽坂本龍馬の写真"
+msgstr ""
+
+msgctxt "230525"
+msgid "C13-020_西郷の連絡を待つ"
+msgstr ""
+
+msgctxt "230550"
+msgid "13-040_平助の死"
+msgstr ""
+
+msgctxt "230566"
+msgid "c13_040"
+msgstr ""
+
+msgctxt "230574"
+msgid "藤堂平助の血"
+msgstr "Todo Heisuke's blood"
+
+msgctxt "230587"
+msgid "C13-025_幾松の店を目指す"
+msgstr ""
+
+msgctxt "230612"
+msgid "13-050_武田と会う"
+msgstr ""
+
+msgctxt "230630"
+msgid "c13_050"
+msgstr ""
+
+msgctxt "230638"
+msgid "御陵衛士　武田観柳斎"
+msgstr "Takeda Kanryusai"
+
+msgctxt "230659"
+msgid "C13-027_武田に挑む"
+msgstr ""
+
+msgctxt "230678"
+msgid "B13-020_武田観流斎"
+msgstr ""
+
+msgctxt "230697"
+msgid "std"
+msgstr ""
+
+msgctxt "230701"
+msgid "13-060_油小路事件偽装"
+msgstr ""
+
+msgctxt "230723"
+msgid "c13_060"
+msgstr ""
+
+msgctxt "230731"
+msgid "油小路にて"
+msgstr "At the oil alley"
+
+msgctxt "230742"
+msgid "C13-030_桂の連絡を待つ"
+msgstr ""
+
+msgctxt "230765"
+msgid "13-070_偽龍馬が姿を現す"
+msgstr ""
+
+msgctxt "230789"
+msgid "c13_070"
+msgstr ""
+
+msgctxt "230797"
+msgid "坂本龍馬、現る"
+msgstr "Ryoma Sakamoto appears"
+
+msgctxt "230812"
+msgid "13-080_近江屋襲撃"
+msgstr ""
+
+msgctxt "230830"
+msgid "c13_080"
+msgstr ""
+
+msgctxt "230838"
+msgid "近江屋事件"
+msgstr "Omiya Incident"
+
+msgctxt "230849"
+msgid "B13-030_勤王の志士"
+msgstr ""
+
+msgctxt "230868"
+msgid "bbg_lng_ohmiya"
+msgstr ""
+
+msgctxt "230883"
+msgid "13-090_武市が土佐で待つ"
+msgstr ""
+
+msgctxt "230907"
+msgid "c13_090"
+msgstr ""
+
+msgctxt "230915"
+msgid "龍馬暗殺"
+msgstr "Ryoma assassination"
+
+msgctxt "230924"
+msgid "最終章"
+msgstr "Final Chapter"
+
+msgctxt "230931"
+msgid "14-001_十三章のあらすじ"
+msgstr ""
+
+msgctxt "230955"
+msgid "c14_001"
+msgstr ""
+
+msgctxt "230963"
+msgid "十三章までの物語"
+msgstr "Story up to 13 chapters"
+
+msgctxt "230980"
+msgid "章タイトル「夜明け」"
+msgstr "Chapter title \"Dawn\""
+
+msgctxt "231001"
+msgid "14-010_近藤と藤堂の墓前"
+msgstr ""
+
+msgctxt "231025"
+msgid "c14_010"
+msgstr ""
+
+msgctxt "231033"
+msgid "弔いの墓前"
+msgstr "In front of the mourning grave"
+
+msgctxt "231044"
+msgid "C14-010_沖田がデートを勧める"
+msgstr ""
+
+msgctxt "231073"
+msgid "d：C14-020_デート開始前"
+msgstr ""
+
+msgctxt "231097"
+msgid "C14-020_デート開始"
+msgstr ""
+
+msgctxt "231116"
+msgid "d：C14-020_飲食後"
+msgstr ""
+
+msgctxt "231134"
+msgid "d：C14-020_歌声酒場前"
+msgstr ""
+
+msgctxt "231156"
+msgid "歌声酒場"
+msgstr "Singing bar"
+
+msgctxt "231165"
+msgid "C14-020_歌声酒場終了時"
+msgstr ""
+
+msgctxt "231188"
+msgid "d：C14-020_日舞教室前"
+msgstr ""
+
+msgctxt "231210"
+msgid "日本舞踊"
+msgstr "Japanese dance"
+
+msgctxt "231219"
+msgid "C14-020_日本舞踊終了時"
+msgstr ""
+
+msgctxt "231242"
+msgid "C14-020_清水寺"
+msgstr ""
+
+msgctxt "231257"
+msgid "C14-020_デート後"
+msgstr ""
+
+msgctxt "231274"
+msgid "d：C14-020_土佐へ立つ直前"
+msgstr ""
+
+msgctxt "231300"
+msgid "14-020_様変わりした土佐"
+msgstr ""
+
+msgctxt "231324"
+msgid "c14_020"
+msgstr ""
+
+msgctxt "231332"
+msgid "変貌の故郷"
+msgstr "Hometown of transformation"
+
+msgctxt "231343"
+msgid "14-030_敵は高知城にあり"
+msgstr ""
+
+msgctxt "231367"
+msgid "c14_030"
+msgstr ""
+
+msgctxt "231375"
+msgid "敵は高知城にあり"
+msgstr "The enemy is in Kochi Castle"
+
+msgctxt "231392"
+msgid "B14-010_土佐城下"
+msgstr ""
+
+msgctxt "231409"
+msgid "bbg_lng_tosa1"
+msgstr ""
+
+msgctxt "231423"
+msgid "高知城を目指せ"
+msgstr "Aim for Kochi Castle"
+
+msgctxt "231438"
+msgid "c46071_btlst_1vsmany_d"
+msgstr ""
+
+msgctxt "231461"
+msgid "C14-030_佐々木と対峙"
+msgstr ""
+
+msgctxt "231482"
+msgid "B14-012_佐々木只三郎"
+msgstr ""
+
+msgctxt "231503"
+msgid "c42100_efru_f1b2l1r2"
+msgstr ""
+
+msgctxt "231524"
+msgid "C14-040_永倉と別れる"
+msgstr ""
+
+msgctxt "231545"
+msgid "B14-013_佐々木後"
+msgstr ""
+
+msgctxt "231562"
+msgid "城内へ侵入しろ"
+msgstr "Invade the castle"
+
+msgctxt "231577"
+msgid "c46072_btlst_1vsmany_e"
+msgstr ""
+
+msgctxt "231600"
+msgid "B14-013_土佐城地下"
+msgstr ""
+
+msgctxt "231619"
+msgid "C14-050_伊東と対峙"
+msgstr ""
+
+msgctxt "231638"
+msgid "B14-014_伊東甲子太郎"
+msgstr ""
+
+msgctxt "231659"
+msgid "御陵衛士　伊東甲子太郎"
+msgstr "Kashitaro Ito"
+
+msgctxt "231682"
+msgid "sit"
+msgstr ""
+
+msgctxt "231686"
+msgid "c46070_btlst_1vsmany_c"
+msgstr ""
+
+msgctxt "231709"
+msgid "伊藤戦Hactタイマ-"
+msgstr "Battle Ito Hact Timer-"
+
+msgctxt "231727"
+msgid "C14-060_土方と別れる"
+msgstr ""
+
+msgctxt "231748"
+msgid "B14-015_伊東後"
+msgstr ""
+
+msgctxt "231763"
+msgid "bbg_lng_tosa2"
+msgstr ""
+
+msgctxt "231777"
+msgid "C14-070_グラバーと対峙"
+msgstr ""
+
+msgctxt "231800"
+msgid "B14-016_トマス・グラバー"
+msgstr ""
+
+msgctxt "231825"
+msgid "英国商人　トーマス・グラバー"
+msgstr "British Merchant Thomas Glover"
+
+msgctxt "231854"
+msgid "stm"
+msgstr ""
+
+msgctxt "231858"
+msgid "c42300_eflu_f1b2l2r1"
+msgstr ""
+
+msgctxt "231879"
+msgid "C14-080_沖田と別れる"
+msgstr ""
+
+msgctxt "231900"
+msgid "B14-017_グラバー後"
+msgstr ""
+
+msgctxt "231919"
+msgid "c42001_back_f1b1l1r1"
+msgstr ""
+
+msgctxt "231940"
+msgid "14-040_武市と対峙する"
+msgstr ""
+
+msgctxt "231962"
+msgid "c14_040"
+msgstr ""
+
+msgctxt "231970"
+msgid "敵として、兄弟として"
+msgstr "As an enemy, as a brother"
+
+msgctxt "231991"
+msgid "B14-020_武市半平太"
+msgstr ""
+
+msgctxt "232010"
+msgid "h61440_vs_takechi_kouchi"
+msgstr ""
+
+msgctxt "232035"
+msgid "14-050_日本の夜明け"
+msgstr ""
+
+msgctxt "232055"
+msgid "c14_050"
+msgstr ""
+
+msgctxt "232063"
+msgid "まだ見ぬ日本の兄弟たちへ"
+msgstr "To Japanese brothers I haven't seen yet"
+
+msgctxt "232088"
+msgid "スタッフロール"
+msgstr "stuffed roll"
+
+msgctxt "232103"
+msgid "staffroll"
+msgstr ""
+
+msgctxt "232113"
+msgid "14-060_エピローグ"
+msgstr ""
+
+msgctxt "232131"
+msgid "c14_060"
+msgstr ""
+
+msgctxt "232139"
+msgid "c14_062"
+msgstr ""
+
+msgctxt "232147"
+msgid "時を超えて"
+msgstr "Over time"
+
+msgctxt "232158"
+msgid "完"
+msgstr "Finish"
+
+msgctxt "232161"
+msgid "リザルトひょうじ"
+msgstr "Result Hyouji"
+
+msgctxt "232178"
+msgid "クリアデータ作成"
+msgstr "Clear data creation"
+
+msgctxt "232195"
+msgid "PADV"
+msgstr ""
+
+msgctxt "232200"
+msgid "プレミアムアドベンチャー"
+msgstr "Premium adventure"
+
+msgctxt "232225"
+msgid "d：屯所内アジトから"
+msgstr ""
+
+msgctxt "232245"
+msgid "d：龍馬の家から"
+msgstr ""
+
+msgctxt "232261"
+msgid "d：闘技場デバッグ用"
+msgstr ""
+
+msgctxt "232281"
+msgid "d：京都（洛外⇔洛内）"
+msgstr ""
+
+msgctxt "232303"
+msgid "d：京都（伏見⇔洛外）"
+msgstr ""
+
+msgctxt "232325"
+msgid "d：骸街"
+msgstr ""
+
+msgctxt "232333"
+msgid "d：京都（伏見⇔洛外）_夕"
+msgstr ""
+
+msgctxt "232358"
+msgid "d：京都（伏見⇔洛外）_夜"
+msgstr ""
+
+msgctxt "232383"
+msgid "サブストーリー"
+msgstr "Sub-story"
+
+msgctxt "232398"
+msgid "SUB_SS-02_バトル"
+msgstr ""
+
+msgctxt "232415"
+msgid "c41700_pblu_f4b1l2r2"
+msgstr ""
+
+msgctxt "232436"
+msgid "SUB_SS-03_バトル"
+msgstr ""
+
+msgctxt "232453"
+msgid "SUB_SS-04_バトル"
+msgstr ""
+
+msgctxt "232470"
+msgid "上士 （エンカウント）"
+msgstr "Encounter"
+
+msgctxt "232492"
+msgid "SUB_SS-05_バトル"
+msgstr ""
+
+msgctxt "232509"
+msgid "ガラの悪い男"
+msgstr "Bad guy"
+
+msgctxt "232522"
+msgid "SUB_SS-06_バトル"
+msgstr ""
+
+msgctxt "232539"
+msgid "SUB_SS-07_バトル"
+msgstr ""
+
+msgctxt "232556"
+msgid "SUB_SS-09_バトル"
+msgstr ""
+
+msgctxt "232573"
+msgid "SUB_SS-10_バトル"
+msgstr ""
+
+msgctxt "232590"
+msgid "SUB_SS-11_チェイス"
+msgstr ""
+
+msgctxt "232609"
+msgid "SUB_SS-13_チェイス_01"
+msgstr ""
+
+msgctxt "232631"
+msgid "SUB_SS-13_チェイス_02"
+msgstr ""
+
+msgctxt "232653"
+msgid "SUB_SS-14_バトル"
+msgstr ""
+
+msgctxt "232670"
+msgid "bbg_mjzk"
+msgstr ""
+
+msgctxt "232679"
+msgid "たちの悪い男"
+msgstr "Bad guy"
+
+msgctxt "232692"
+msgid "SUB_SS-15_バトル"
+msgstr ""
+
+msgctxt "232709"
+msgid "SUB_SS-16_チェイス"
+msgstr ""
+
+msgctxt "232728"
+msgid "SUB_SS-17_バトル"
+msgstr ""
+
+msgctxt "232745"
+msgid "SUB_SS-18_バトル"
+msgstr ""
+
+msgctxt "232762"
+msgid "SUB_SS-19_バトル"
+msgstr ""
+
+msgctxt "232779"
+msgid "SUB_SS-20_バトル"
+msgstr ""
+
+msgctxt "232796"
+msgid "SUB_SS-21_バトル"
+msgstr ""
+
+msgctxt "232813"
+msgid "たちの悪い熊"
+msgstr "Bad bear"
+
+msgctxt "232826"
+msgid "skm"
+msgstr ""
+
+msgctxt "232830"
+msgid "SUB_SS-22_バトル"
+msgstr ""
+
+msgctxt "232847"
+msgid "鎧武者"
+msgstr "Armor warrior"
+
+msgctxt "232854"
+msgid "SUB_SS-24_バトル_01"
+msgstr ""
+
+msgctxt "232874"
+msgid "謎の男"
+msgstr "Mysterious man"
+
+msgctxt "232881"
+msgid "c41400_pfld_f2b1l1r1"
+msgstr ""
+
+msgctxt "232902"
+msgid "SUB_SS-24_バトル_02"
+msgstr ""
+
+msgctxt "232922"
+msgid "SUB_SS-31_バトル"
+msgstr ""
+
+msgctxt "232939"
+msgid "勤王志士"
+msgstr "Qin Wang Shishi"
+
+msgctxt "232948"
+msgid "SUB_SS-32_バトル"
+msgstr ""
+
+msgctxt "232965"
+msgid "SUB_SS-33_バトル01"
+msgstr ""
+
+msgctxt "232984"
+msgid "SUB_SS-33_バトル02"
+msgstr ""
+
+msgctxt "233003"
+msgid "SUB_SS-34_チェイス"
+msgstr ""
+
+msgctxt "233022"
+msgid "チェイスバトル汎用"
+msgstr "Chase battle general purpose"
+
+msgctxt "233041"
+msgid "SUB_SS-34_バトル"
+msgstr ""
+
+msgctxt "233058"
+msgid "SUB_SS-37_バトル"
+msgstr ""
+
+msgctxt "233075"
+msgid "SUB_SS-38_バトル"
+msgstr ""
+
+msgctxt "233092"
+msgid "SUB_SS-39_バトル"
+msgstr ""
+
+msgctxt "233109"
+msgid "SUB_SS-40_バトル"
+msgstr ""
+
+msgctxt "233126"
+msgid "武士"
+msgstr "warrior"
+
+msgctxt "233131"
+msgid "c42700_eblu_f3b2l1r2"
+msgstr ""
+
+msgctxt "233152"
+msgid "SUB_SS-40_バトル_01"
+msgstr ""
+
+msgctxt "233172"
+msgid "南蛮人"
+msgstr "Southern Barbarian"
+
+msgctxt "233179"
+msgid "SUB_SS-40_バトル_02"
+msgstr ""
+
+msgctxt "233199"
+msgid "SUB_SS-40_バトル_03"
+msgstr ""
+
+msgctxt "233219"
+msgid "SUB_SS-41_バトル"
+msgstr ""
+
+msgctxt "233236"
+msgid "不逞浪士たち"
+msgstr "Ronin"
+
+msgctxt "233249"
+msgid "NAJIMI_SH-05_バトル"
+msgstr ""
+
+msgctxt "233269"
+msgid "c42500_ebru_f3b2l2r1"
+msgstr ""
+
+msgctxt "233290"
+msgid "NAJIMI_SH-08_バトル"
+msgstr ""
+
+msgctxt "233310"
+msgid "NAJIMI_SH-13_バトル"
+msgstr ""
+
+msgctxt "233330"
+msgid "野盗"
+msgstr "Wild thief"
+
+msgctxt "233335"
+msgid "NAJIMI_PS-01_バトル"
+msgstr ""
+
+msgctxt "233355"
+msgid "NAJIMI_PET-06_バトル"
+msgstr ""
+
+msgctxt "233376"
+msgid "SUB_SS-42_チェイス"
+msgstr ""
+
+msgctxt "233395"
+msgid "SUB_SS-43_チェイス"
+msgstr ""
+
+msgctxt "233414"
+msgid "チェイス周回カウンター"
+msgstr "Chase lap counter"
+
+msgctxt "233437"
+msgid "NAJIMI_SH-01_チェイス"
+msgstr ""
+
+msgctxt "233459"
+msgid "SUB_SS-44_チェイス"
+msgstr ""
+
+msgctxt "233478"
+msgid "NAJIMI_PET-02_バトル"
+msgstr ""
+
+msgctxt "233499"
+msgid "NAJIMI_PS-04_チェイス"
+msgstr ""
+
+msgctxt "233521"
+msgid "SUB_SS-20_駕籠護衛ミッション"
+msgstr ""
+
+msgctxt "233550"
+msgid "SUB_SS_-45_チェイス"
+msgstr ""
+
+msgctxt "233570"
+msgid "SUB_SS_-46_チェイス"
+msgstr ""
+
+msgctxt "233590"
+msgid "お尋ね者"
+msgstr "Inquirer"
+
+msgctxt "233599"
+msgid "1話（出会い）"
+msgstr ""
+
+msgctxt "233613"
+msgid "bbg_wtd"
+msgstr ""
+
+msgctxt "233621"
+msgid "天狗面の男"
+msgstr "Tengu-faced man"
+
+msgctxt "233632"
+msgid "Otazune_chase_4"
+msgstr ""
+
+msgctxt "233648"
+msgid "c40000_face_f3b2l2r2"
+msgstr ""
+
+msgctxt "233669"
+msgid "Otazune_chase_6"
+msgstr ""
+
+msgctxt "233685"
+msgid "Otazune_chase_10"
+msgstr ""
+
+msgctxt "233702"
+msgid "Otazune_chase_15"
+msgstr ""
+
+msgctxt "233719"
+msgid "２話（天狗１話）"
+msgstr "Chapter 2 (Tengu Chapter 1)"
+
+msgctxt "233736"
+msgid "３話（天狗ボス１回目）"
+msgstr "Episode 3 (1st Tengu Boss)"
+
+msgctxt "233759"
+msgid "鞍馬天狗　親分"
+msgstr "Kurama Tengu Boss"
+
+msgctxt "233774"
+msgid "５話（人斬り１話）"
+msgstr "5 episodes (1 episode of slashing people)"
+
+msgctxt "233793"
+msgid "７話（人斬り２話）"
+msgstr "7 episodes (2 episodes of slashing people)"
+
+msgctxt "233812"
+msgid "８話（人斬り３話護衛）"
+msgstr "Episode 8 (Slasher Episode 3 Escort)"
+
+msgctxt "233835"
+msgid "辻斬り侍"
+msgstr "Tsujigiri Samurai"
+
+msgctxt "233844"
+msgid "９話（人斬りボス）"
+msgstr "Episode 9 (Human Slasher Boss)"
+
+msgctxt "233863"
+msgid "刀剣一家　盟主"
+msgstr "Dao Shou Family Leader"
+
+msgctxt "233878"
+msgid "１１話（天狗２話）"
+msgstr "Chapter 11 (Tengu Chapter 2)"
+
+msgctxt "233897"
+msgid "１２話（忍盗ボス）"
+msgstr "Episode 12 (Shinobi Boss)"
+
+msgctxt "233916"
+msgid "義賊忍盗　頭領"
+msgstr "The leader of the thief and the thief"
+
+msgctxt "233931"
+msgid "１４話（天狗３話）"
+msgstr "Chapter 14 (Tengu Chapter 3)"
+
+msgctxt "233950"
+msgid "１６話（人斬り４話）"
+msgstr "16 episodes (4 episodes of slashing people)"
+
+msgctxt "233971"
+msgid "１７話（天狗ボス２回目）"
+msgstr "Episode 17 (Tengu Boss 2nd)"
+
+msgctxt "233996"
+msgid "１８話（阿久水戦）"
+msgstr "Episode 18 (Akumizu Battle)"
+
+msgctxt "234015"
+msgid "bbg_wtd_fixer"
+msgstr ""
+
+msgctxt "234029"
+msgid "稲原阿久水"
+msgstr "Inahara Akumizu"
+
+msgctxt "234040"
+msgid "７話（人斬り２－２話）"
+msgstr "Episode 7 (Human Slasher Episode 2-2)"
+
+msgctxt "234063"
+msgid "師匠バトル"
+msgstr "Master Battle"
+
+msgctxt "234074"
+msgid "ノーダメージバトル"
+msgstr "No damage battle"
+
+msgctxt "234093"
+msgid "bbg_training3"
+msgstr ""
+
+msgctxt "234107"
+msgid "TANJUU"
+msgstr ""
+
+msgctxt "234114"
+msgid "制限時間内バトル"
+msgstr "Battle within the time limit"
+
+msgctxt "234131"
+msgid "バトルタイマ"
+msgstr "Battle timer"
+
+msgctxt "234144"
+msgid "古牧絶技チュートリアル"
+msgstr "Komaki Zetsugi Tutorial"
+
+msgctxt "234167"
+msgid "bbg_training1"
+msgstr ""
+
+msgctxt "234181"
+msgid "古牧修行１"
+msgstr "Ancient Muxu Training 1"
+
+msgctxt "234192"
+msgid "古牧修行２"
+msgstr "Ancient Mu Cultivation 2"
+
+msgctxt "234203"
+msgid "古牧修行３"
+msgstr "Ancient Mu Cultivation 3"
+
+msgctxt "234214"
+msgid "古牧修行４"
+msgstr "Ancient Mu Cultivation 4"
+
+msgctxt "234225"
+msgid "古牧修行５"
+msgstr "Ancient Mu Cultivation 5"
+
+msgctxt "234236"
+msgid "古牧修行６"
+msgstr "Ancient Muxu Training 6"
+
+msgctxt "234247"
+msgid "古牧修行７ラスト"
+msgstr "Komaki training 7 last"
+
+msgctxt "234264"
+msgid "古牧　宗光"
+msgstr "Gu Mu Zongguang"
+
+msgctxt "234275"
+msgid "古牧修行８限界突破"
+msgstr "Komaki training 8 limit breakthrough"
+
+msgctxt "234294"
+msgid "吟柳修行１_一刀"
+msgstr "Yin Liu Cultivation 1_One Sword"
+
+msgctxt "234310"
+msgid "bbg_training2"
+msgstr ""
+
+msgctxt "234324"
+msgid "吟柳修行２_一刀"
+msgstr "Yin Liu Cultivation 2_One Sword"
+
+msgctxt "234340"
+msgid "吟柳修行３_一刀"
+msgstr "Yin Liu Cultivation 3_One Sword"
+
+msgctxt "234356"
+msgid "吟柳修行４_一刀"
+msgstr "Yin Liu Cultivation 4_One Sword"
+
+msgctxt "234372"
+msgid "吟柳修行５_一刀"
+msgstr "Yin Liu Xiu Xing 5_One Sword"
+
+msgctxt "234388"
+msgid "吟柳"
+msgstr "Gin Willow"
+
+msgctxt "234393"
+msgid "吟柳修行１_乱舞"
+msgstr "Gin Willow Training 1_ Ranwu"
+
+msgctxt "234409"
+msgid "RANBU"
+msgstr ""
+
+msgctxt "234415"
+msgid "吟柳修行２_乱舞"
+msgstr "Yin Liu Xiu Xing 2_Ran Wu"
+
+msgctxt "234431"
+msgid "吟柳修行３_乱舞"
+msgstr "Yin Liu Xiu Xing 3_ Ran Wu"
+
+msgctxt "234447"
+msgid "吟柳修行４_乱舞"
+msgstr "Ginliu Training 4_Ranwu"
+
+msgctxt "234463"
+msgid "吟柳修行５_乱舞"
+msgstr "Yin Liu Xiu Xing 5_ Ran Wu"
+
+msgctxt "234479"
+msgid "ウィリアム修行１"
+msgstr "William training 1"
+
+msgctxt "234496"
+msgid "ウィリアム修行２"
+msgstr "William training 2"
+
+msgctxt "234513"
+msgid "ウィリアム修行３"
+msgstr "William training 3"
+
+msgctxt "234530"
+msgid "ウィリアム修行４"
+msgstr "William training 4"
+
+msgctxt "234547"
+msgid "ウィリアム修行５"
+msgstr "William training 5"
+
+msgctxt "234564"
+msgid "ウィリアム絶技チュートリアル"
+msgstr "William Skill Tutorial"
+
+msgctxt "234593"
+msgid "吟柳絶技チュートリアル"
+msgstr "Ginyanagi Zetsugi Tutorial"
+
+msgctxt "234616"
+msgid "吟柳修行リザルトバトル１_刀"
+msgstr "Ginyanagi Training Result Battle 1_Sword"
+
+msgctxt "234644"
+msgid "吟柳修行リザルトバトル１_乱"
+msgstr "Ginyanagi Training Result Battle 1_Ran"
+
+msgctxt "234672"
+msgid "吟柳修行リザルトバトル２_刀"
+msgstr "Ginyanagi Training Result Battle 2_Sword"
+
+msgctxt "234700"
+msgid "吟柳修行リザルトバトル２_乱"
+msgstr "Ginyanagi Training Result Battle 2_Ran"
+
+msgctxt "234728"
+msgid "吟柳修行リザルトバトル４_刀"
+msgstr "Ginyanagi Training Result Battle 4_Sword"
+
+msgctxt "234756"
+msgid "吟柳修行リザルトバトル４_乱"
+msgstr "Ginyanagi Training Result Battle 4_Ran"
+
+msgctxt "234784"
+msgid "吟柳限界突破_一刀"
+msgstr "Yin Liu Boundary Breakthrough_One Sword"
+
+msgctxt "234802"
+msgid "吟柳限界突破_乱舞"
+msgstr "Ginyanagi limit breakthrough_Ranbu"
+
+msgctxt "234820"
+msgid "古牧格闘の型限界突破"
+msgstr "Breaking through the limit of Komaki fighting"
+
+msgctxt "234841"
+msgid "ウィリアム限界突破"
+msgstr "William limit breakthrough"
+
+msgctxt "234860"
+msgid "ウィリアム　ブラッドリー"
+msgstr "William Bradley"
+
+msgctxt "234885"
+msgid "繰り返しBTL"
+msgstr "Repeated BTL"
+
+msgctxt "234897"
+msgid "沖田総司"
+msgstr "Soji Okita"
+
+msgctxt "234906"
+msgid "永倉新八"
+msgstr "Nagakura Shinpachi"
+
+msgctxt "234915"
+msgid "土方歳三"
+msgstr "Toshizo Hijikata"
+
+msgctxt "234924"
+msgid "新選組副長　土方歳三"
+msgstr "Shinsengumi Deputy Chief Toshizo Hijikata"
+
+msgctxt "234945"
+msgid "一番隊バトル１"
+msgstr "Ichibantai Battle 1"
+
+msgctxt "234960"
+msgid "一番隊バトル１－１"
+msgstr "Ichibantai Battle 1-1"
+
+msgctxt "234979"
+msgid "新選組　一番隊隊士"
+msgstr "Shinsengumi Ichiban Squadron"
+
+msgctxt "234998"
+msgid "一番隊バトル１－２"
+msgstr "Ichibantai Battle 1-2"
+
+msgctxt "235017"
+msgid "一番隊バトル１－３"
+msgstr "Ichibantai Battle 1-3"
+
+msgctxt "235036"
+msgid "B2-骸街リンチバトル"
+msgstr ""
+
+msgctxt "235056"
+msgid "街のゴロツキ"
+msgstr "Gorotsuki in the city"
+
+msgctxt "235069"
+msgid "隊士バトル１"
+msgstr "Soldier Battle 1"
+
+msgctxt "235082"
+msgid "隊士バトル１－１"
+msgstr "Soldier Battle 1-1"
+
+msgctxt "235099"
+msgid "新選組"
+msgstr "Shinsengumi"
+
+msgctxt "235106"
+msgid "隊士バトル１－２"
+msgstr "Soldier Battle 1-2"
+
+msgctxt "235123"
+msgid "隊士バトル１－３"
+msgstr "Soldier Battle 1-3"
+
+msgctxt "235140"
+msgid "隊士バトル２"
+msgstr "Soldier Battle 2"
+
+msgctxt "235153"
+msgid "隊士バトル２－１"
+msgstr "Soldier Battle 2-1"
+
+msgctxt "235170"
+msgid "隊士バトル２－２"
+msgstr "Soldier Battle 2-2"
+
+msgctxt "235187"
+msgid "土佐エンカウント風バトル"
+msgstr "Tosa Encounter Style Battle"
+
+msgctxt "235212"
+msgid "土佐エンカウント風BTL"
+msgstr "Tosa Encounter Style BTL"
+
+msgctxt "235234"
+msgid "師匠デバッグ"
+msgstr "Master debug"
+
+msgctxt "235247"
+msgid "吟柳０話　絶技→霞の太刀→風流し　"
+msgstr ""
+"Ginyanagi Episode 0 Skill → Kasumi no Tachi\n"
+"→ Kazenagashi"
+
+msgctxt "235282"
+msgid "吟柳１話　閃の太刀・月見酒"
+msgstr ""
+"Ginyanagi Episode 1 Sen no Tachi, Tsukimi\n"
+"Sake"
+
+msgctxt "235309"
+msgid "吟柳１話　リザルトバトル前"
+msgstr "Ginyanagi Episode 1 Before the result battle"
+
+msgctxt "235336"
+msgid "吟柳２話　風見鶏・天狗影"
+msgstr ""
+"Ginyanagi Episode 2 Weathercock / Tengu\n"
+"Shadow"
+
+msgctxt "235361"
+msgid "吟柳３話　平之助バトル前"
+msgstr "Ginyanagi Episode 3 Before Hiranosuke Battle"
+
+msgctxt "235386"
+msgid "吟柳４話　枯葉乱れ"
+msgstr "Ginyanagi Episode 4 Dead Leaf Disturbance"
+
+msgctxt "235405"
+msgid "吟柳４話　陽炎流し（リザルトバトル）"
+msgstr "Ginyanagi Episode 4 Haze Flow (Result Battle)"
+
+msgctxt "235442"
+msgid "吟柳５話"
+msgstr "Yin Liu Chapter 5"
+
+msgctxt "235451"
+msgid "古牧１話（出会って絶技指南後）"
+msgstr ""
+"Komaki Episode 1 (after meeting and instructing\n"
+"the skill)"
+
+msgctxt "235482"
+msgid "ウィリアム１話（出会って絶技指南後）"
+msgstr ""
+"William Episode 1 (after meeting and instructing\n"
+"the skill)"
+
+msgctxt "235519"
+msgid "亜門バトル"
+msgstr "Amon Battle"
+
+msgctxt "235530"
+msgid "亜門"
+msgstr "Amon"
+
+msgctxt "235535"
+msgid "ska,sin"
+msgstr ""
+
+msgctxt "235543"
+msgid "一番隊バトル２"
+msgstr "Ichibantai Battle 2"
+
+msgctxt "235558"
+msgid "一番隊バトル２－１"
+msgstr "Ichibantai Battle 2-1"
+
+msgctxt "235577"
+msgid "一番隊バトル２－２"
+msgstr "Ichibantai Battle 2-2"
+
+msgctxt "235596"
+msgid "ミニゲーム"
+msgstr "Mini game"
+
+msgctxt "235607"
+msgid "チンチロリン"
+msgstr "Cee-loline"
+
+msgctxt "235620"
+msgid "丁半"
+msgstr "Ding Ban"
+
+msgctxt "235625"
+msgid "花札"
+msgstr "Hanafuda"
+
+msgctxt "235630"
+msgid "ポーカー"
+msgstr "poker"
+
+msgctxt "235639"
+msgid "ポーカー：パイナップル"
+msgstr "Poker: Pineapple"
+
+msgctxt "235662"
+msgid "ポーカー：オマハ"
+msgstr "Poker: Omaha"
+
+msgctxt "235679"
+msgid "将棋"
+msgstr "Shogi"
+
+msgctxt "235684"
+msgid "麻雀"
+msgstr "Mahjong"
+
+msgctxt "235689"
+msgid "麻雀_神室"
+msgstr "Mahjong_Kamimuro"
+
+msgctxt "235699"
+msgid "おいちょかぶ"
+msgstr "Oicho Kabu"
+
+msgctxt "235712"
+msgid "カラオケ"
+msgstr "karaoke"
+
+msgctxt "235721"
+msgid "競鶏"
+msgstr "Chicken race"
+
+msgctxt "235726"
+msgid "お座敷：飲酒"
+msgstr "Zashiki: Drinking"
+
+msgctxt "235739"
+msgid "お座敷：じゃんけん"
+msgstr "Zashiki: Rock-paper-scissors"
+
+msgctxt "235758"
+msgid "お座敷：じゃんけん(クリア後)"
+msgstr "Zashiki: Rock-paper-scissors (after clearing)"
+
+msgctxt "235787"
+msgid "お座敷：シューティング"
+msgstr "Zashiki: Shooting"
+
+msgctxt "235810"
+msgid "修行：案山子屋敷"
+msgstr "Training: Scarecrow Mansion"
+
+msgctxt "235827"
+msgid "其の一"
+msgstr "Part 1"
+
+msgctxt "235834"
+msgid "修行：隊士育成"
+msgstr "Training: Training of soldiers"
+
+msgctxt "235849"
+msgid "うどん"
+msgstr "Udon"
+
+msgctxt "235856"
+msgid "修行：大砲玉捌き"
+msgstr "Training: Cannon ball handling"
+
+msgctxt "235873"
+msgid "薪割り"
+msgstr "Chopping wood"
+
+msgctxt "235880"
+msgid "薪割り_土佐"
+msgstr "Wood chopping _ Tosa"
+
+msgctxt "235892"
+msgid "ババめくり"
+msgstr "Bubba turning"
+
+msgctxt "235903"
+msgid "闘技場バトル"
+msgstr "Arena battle"
+
+msgctxt "235916"
+msgid "bbg_arena_tour"
+msgstr ""
+
+msgctxt "235931"
+msgid "a30002_togijo_1st"
+msgstr ""
+
+msgctxt "235949"
+msgid "闘技場_百人斬り"
+msgstr "Arena_Hundred Swords"
+
+msgctxt "235965"
+msgid "百人斬り"
+msgstr "Hundred people slashing"
+
+msgctxt "235974"
+msgid "闘技場_頂点の座"
+msgstr "Arena_top seat"
+
+msgctxt "235990"
+msgid "bbg_arena_tour_final"
+msgstr ""
+
+msgctxt "236011"
+msgid "a30000_togijo"
+msgstr ""
+
+msgctxt "236025"
+msgid "闘技場_武器王座決定戦"
+msgstr "Arena_Weapon Championship"
+
+msgctxt "236047"
+msgid "闘技場_不定期開催_争奪戦"
+msgstr "Arena_irregularly held_competition battle"
+
+msgctxt "236072"
+msgid "ランダム"
+msgstr "random"
+
+msgctxt "236081"
+msgid "ランダムエンカウント"
+msgstr "Random encounter"
+
+msgctxt "236102"
+msgid "HIKITSUGI"
+msgstr ""
+
+msgctxt "236112"
+msgid "アナザーライフ"
+msgstr "Another life"
+
+msgctxt "236127"
+msgid "VITA用：龍馬の家"
+msgstr ""
+
+msgctxt "236144"
+msgid "料理"
+msgstr "cuisine"
+
+msgctxt "236149"
+msgid "川釣り(伏見)"
+msgstr "River fishing (Fushimi)"
+
+msgctxt "236162"
+msgid "川釣り(洛外)"
+msgstr "River fishing (Rakuchu)"
+
+msgctxt "236175"
+msgid "海釣り(磯)"
+msgstr "Sea fishing (iso)"
+
+msgctxt "236186"
+msgid "海釣り(沖)"
+msgstr "Sea fishing (offshore)"
+
+msgctxt "236197"
+msgid "ミニゲームセレクタ(vita)"
+msgstr "Mini game selector (vita)"
+
+msgctxt "236222"
+msgid "1st-ROM"
+msgstr ""
+
+msgctxt "236230"
+msgid "SCN2_010_おりょうに起こされる"
+msgstr ""
+
+msgctxt "236260"
+msgid "寺田屋から出かける"
+msgstr "Go out from Teradaya"
+
+msgctxt "236279"
+msgid "d：徳BTL付近"
+msgstr ""
+
+msgctxt "236292"
+msgid "徳チュートリアルBTL"
+msgstr "Virtue Tutorial BTL"
+
+msgctxt "236312"
+msgid "神主より徳Ｐ説明"
+msgstr "Explanation of virtue P from the priest"
+
+msgctxt "236329"
+msgid "d：道場付近"
+msgstr ""
+
+msgctxt "236341"
+msgid "道場生BTL"
+msgstr "Dojo BTL"
+
+msgctxt "236351"
+msgid "道場で情報屋と会う"
+msgstr "Meet an information store at the dojo"
+
+msgctxt "236370"
+msgid "d：酒屋付近"
+msgstr ""
+
+msgctxt "236382"
+msgid "浪人BTL"
+msgstr "Ronin BTL"
+
+msgctxt "236390"
+msgid "情報を集める"
+msgstr "Gather information"
+
+msgctxt "236403"
+msgid "逃亡チェイス"
+msgstr "Escape chase"
+
+msgctxt "236416"
+msgid "SCN2_020_桂小五郎との出会い"
+msgstr ""
+
+msgctxt "236444"
+msgid "サイの風呂屋へ向かう"
+msgstr "Head to Sai's bathhouse"
+
+msgctxt "236465"
+msgid "SCN2_030_サイの風呂屋との出会い"
+msgstr ""
+
+msgctxt "236497"
+msgid "謎の大男BTL"
+msgstr "Mysterious giant BTL"
+
+msgctxt "236509"
+msgid "隊士育成屯所"
+msgstr "Teammates training camp"
+
+msgctxt "236522"
+msgid "隊士育成メニュー"
+msgstr "Soldier training menu"
+
+msgctxt "236539"
+msgid "撮影用無限生成"
+msgstr "Unlimited generation for photography"
+
+msgctxt "236554"
+msgid "撮影用無限生成バトル"
+msgstr "Infinite generation battle for shooting"
+
+msgctxt "236575"
+msgid "撮影用無限生成バトル_骸街"
+msgstr ""
+"Infinite generation battle for shooting\n"
+"_ skeleton"
+
+msgctxt "236601"
+msgid "撮影用無限生成バトル_伏見"
+msgstr "Infinite generation battle for shooting_Fushimi"
+
+msgctxt "236627"
+msgid "隊士育成ダンジョン"
+msgstr "Soldier training dungeon"
+
+msgctxt "236646"
+msgid "洞窟01"
+msgstr "Cave 01"
+
+msgctxt "236653"
+msgid "洞窟02"
+msgstr "Cave 02"
+
+msgctxt "236660"
+msgid "洞窟03"
+msgstr "Cave 03"
+
+msgctxt "236667"
+msgid "洞窟04"
+msgstr "Cave 04"
+
+msgctxt "236674"
+msgid "洞窟05"
+msgstr "Cave 05"
+
+msgctxt "236681"
+msgid "洞窟06"
+msgstr "Cave 06"
+
+msgctxt "236688"
+msgid "洞窟07"
+msgstr "Cave 07"
+
+msgctxt "236695"
+msgid "洞窟08"
+msgstr "Cave 08"
+
+msgctxt "236702"
+msgid "洞窟09"
+msgstr "Cave 09"
+
+msgctxt "236709"
+msgid "洞窟10"
+msgstr "Cave 10"
+
+msgctxt "236716"
+msgid "義賊01"
+msgstr "Gentleman 01"
+
+msgctxt "236723"
+msgid "義賊"
+msgstr "Gentleman"
+
+msgctxt "236728"
+msgid "義賊02"
+msgstr "Gentleman 02"
+
+msgctxt "236735"
+msgid "義賊03"
+msgstr "Gentleman 03"
+
+msgctxt "236742"
+msgid "義賊04"
+msgstr "Gentleman 04"
+
+msgctxt "236749"
+msgid "義賊05"
+msgstr "Gentleman 05"
+
+msgctxt "236756"
+msgid "義賊06"
+msgstr "Gentleman 06"
+
+msgctxt "236763"
+msgid "義賊07"
+msgstr "Gentleman 07"
+
+msgctxt "236770"
+msgid "義賊08"
+msgstr "Gentleman 08"
+
+msgctxt "236777"
+msgid "義賊09"
+msgstr "Gentleman 09"
+
+msgctxt "236784"
+msgid "義賊10"
+msgstr "Gentleman 10"
+
+msgctxt "236791"
+msgid "豊臣01"
+msgstr "Toyotomi 01"
+
+msgctxt "236798"
+msgid "豊臣家残党"
+msgstr "Toyotomi clan remnants"
+
+msgctxt "236809"
+msgid "豊臣02"
+msgstr "Toyotomi 02"
+
+msgctxt "236816"
+msgid "豊臣03"
+msgstr "Toyotomi 03"
+
+msgctxt "236823"
+msgid "豊臣04"
+msgstr "Toyotomi 04"
+
+msgctxt "236830"
+msgid "豊臣05"
+msgstr "Toyotomi 05"
+
+msgctxt "236837"
+msgid "豊臣06"
+msgstr "Toyotomi 06"
+
+msgctxt "236844"
+msgid "豊臣07"
+msgstr "Toyotomi 07"
+
+msgctxt "236851"
+msgid "豊臣08"
+msgstr "Toyotomi 08"
+
+msgctxt "236858"
+msgid "豊臣09"
+msgstr "Toyotomi 09"
+
+msgctxt "236865"
+msgid "豊臣10"
+msgstr "Toyotomi 10"
+
+msgctxt "236872"
+msgid "豊臣11"
+msgstr "Toyotomi 11"
+
+msgctxt "236879"
+msgid "豊臣12"
+msgstr "Toyotomi 12"
+
+msgctxt "236886"
+msgid "豊臣13"
+msgstr "Toyotomi 13"
+
+msgctxt "236893"
+msgid "豊臣14"
+msgstr "Toyotomi 14"
+
+msgctxt "236900"
+msgid "豊臣15"
+msgstr "Toyotomi 15"
+
+msgctxt "236907"
+msgid "豊臣16"
+msgstr "Toyotomi 16"
+
+msgctxt "236914"
+msgid "豊臣17"
+msgstr "Toyotomi 17"
+
+msgctxt "236921"
+msgid "豊臣18"
+msgstr "Toyotomi 18"
+
+msgctxt "236928"
+msgid "豊臣19"
+msgstr "Toyotomi 19"
+
+msgctxt "236935"
+msgid "豊臣20"
+msgstr "Toyotomi 20"
+
+msgctxt "236942"
+msgid "ska,sin,stk,siz,stg"
+msgstr ""
+
+msgctxt "236962"
+msgid "疾走闘技"
+msgstr "Sprinting fighting"
+
+msgctxt "236971"
+msgid "疾走闘技その１"
+msgstr "Sprinting combat part 1"
+
+msgctxt "236986"
+msgid "疾走闘技1"
+msgstr "Sprinting Fighting 1"
+
+msgctxt "236996"
+msgid "バトル汎用タイマー"
+msgstr "Battle general purpose timer"
+
+msgctxt "237015"
+msgid "疾走闘技その２"
+msgstr "Sprinting combat part 2"
+
+msgctxt "237030"
+msgid "疾走闘技2"
+msgstr "Sprinting combat 2"
+
+msgctxt "237040"
+msgid "疾走闘技その３"
+msgstr "Sprinting combat part 3"
+
+msgctxt "237055"
+msgid "疾走闘技3"
+msgstr "Sprinting combat 3"
+
+msgctxt "237065"
+msgid "疾走闘技その４"
+msgstr "Sprinting combat part 4"
+
+msgctxt "237080"
+msgid "疾走闘技4"
+msgstr "Sprinting combat 4"
+
+msgctxt "237090"
+msgid "疾走闘技その５"
+msgstr "Sprinting Fighting Part 5"
+
+msgctxt "237105"
+msgid "疾走闘技5"
+msgstr "Sprinting Fighting 5"
+
+msgctxt "237115"
+msgid "究極闘技その１"
+msgstr "Ultimate Fighting Part 1"
+
+msgctxt "237130"
+msgid "究極闘技その１－１"
+msgstr "Ultimate Fighting Part 1-1"
+
+msgctxt "237149"
+msgid "究極闘技1"
+msgstr "Ultimate Fighting 1"
+
+msgctxt "237159"
+msgid "究極闘技その１－２"
+msgstr "Ultimate Fighting Part 1-2"
+
+msgctxt "237178"
+msgid "究極闘技その１－３"
+msgstr "Ultimate Fighting Part 1-3"
+
+msgctxt "237197"
+msgid "究極闘技その２"
+msgstr "Ultimate fighting part 2"
+
+msgctxt "237212"
+msgid "究極闘技その２－１"
+msgstr "Ultimate Fighting Part 2-1"
+
+msgctxt "237231"
+msgid "究極闘技2"
+msgstr "Ultimate Fighting 2"
+
+msgctxt "237241"
+msgid "究極闘技その２－２"
+msgstr "Ultimate Fighting Part 2-2"
+
+msgctxt "237260"
+msgid "究極闘技その２－３"
+msgstr "Ultimate Fighting Part 2-3"
+
+msgctxt "237279"
+msgid "究極闘技その３"
+msgstr "Ultimate fighting part 3"
+
+msgctxt "237294"
+msgid "究極闘技その３－１"
+msgstr "Ultimate Fighting Part 3-1"
+
+msgctxt "237313"
+msgid "究極闘技3"
+msgstr "Ultimate Fighting 3"
+
+msgctxt "237323"
+msgid "究極闘技その３－２"
+msgstr "Ultimate Fighting Part 3-2"
+
+msgctxt "237342"
+msgid "究極闘技その３－３"
+msgstr "Ultimate Fighting Part 3-3"
+
+msgctxt "237361"
+msgid "究極闘技その４"
+msgstr "Ultimate fighting part 4"
+
+msgctxt "237376"
+msgid "究極闘技その４－１"
+msgstr "Ultimate Fighting Part 4-1"
+
+msgctxt "237395"
+msgid "究極闘技4"
+msgstr "Ultimate Fighting 4"
+
+msgctxt "237405"
+msgid "究極闘技その４－２"
+msgstr "Ultimate Fighting Part 4-2"
+
+msgctxt "237424"
+msgid "bbg_dgn_boss"
+msgstr ""
+
+msgctxt "237437"
+msgid "究極闘技その４－３"
+msgstr "Ultimate Fighting Part 4-3"
+
+msgctxt "237456"
+msgid "究極闘技その５"
+msgstr "Ultimate Fighting Part 5"
+
+msgctxt "237471"
+msgid "究極闘技その５－１"
+msgstr "Ultimate Fighting Part 5-1"
+
+msgctxt "237490"
+msgid "究極闘技5"
+msgstr "Ultimate Fighting 5"
+
+msgctxt "237500"
+msgid "究極闘技その５－２"
+msgstr "Ultimate Fighting Part 5-2"
+
+msgctxt "237519"
+msgid "究極闘技その５－３"
+msgstr "Ultimate Fighting Part 5-3"
+
+msgctxt "237538"
+msgid "究極闘技その５－４"
+msgstr "Ultimate Fighting Part 5-4"
+
+msgctxt "237557"
+msgid "究極闘技その５－５"
+msgstr "Ultimate Fighting Part 5-5"
+
+msgctxt "237576"
+msgid "究極闘技その５－６"
+msgstr "Ultimate Fighting Part 5-6"
+
+msgctxt "237595"
+msgid "究極闘技その５－７"
+msgstr "Ultimate Fighting Part 5-7"
+
+msgctxt "237614"
+msgid "究極闘技その５－８"
+msgstr "Ultimate Fighting Part 5-8"
+
+msgctxt "237633"
+msgid "試練闘技"
+msgstr "Trial fighting"
+
+msgctxt "237642"
+msgid "試練闘技その１"
+msgstr "Trial Fighting Part 1"
+
+msgctxt "237657"
+msgid "試練闘技1"
+msgstr "Trial Fighting 1"
+
+msgctxt "237667"
+msgid "試練闘技その２"
+msgstr "Trial Fighting Part 2"
+
+msgctxt "237682"
+msgid "試練闘技2"
+msgstr "Trial Fighting 2"
+
+msgctxt "237692"
+msgid "試練闘技その３"
+msgstr "Trial Fighting Part 3"
+
+msgctxt "237707"
+msgid "試練闘技3"
+msgstr "Trial Fighting 3"
+
+msgctxt "237717"
+msgid "案山子_コース選択"
+msgstr "Scarecrow_Course selection"
+
+msgctxt "237735"
+msgid "試練闘技その４"
+msgstr "Trial Fighting Part 4"
+
+msgctxt "237750"
+msgid "試練闘技4"
+msgstr "Trial Fighting 4"
+
+msgctxt "237760"
+msgid "試練闘技その５"
+msgstr "Trial Fighting Part 5"
+
+msgctxt "237775"
+msgid "試練闘技5"
+msgstr "Trial Fighting 5"
+
+msgctxt "237785"
+msgid "試練闘技その６"
+msgstr "Trial Fighting Part 6"
+
+msgctxt "237800"
+msgid "試練闘技6"
+msgstr "Trial Fighting 6"
+
+msgctxt "237810"
+msgid "試練闘技その７"
+msgstr "Trial Fighting Part 7"
+
+msgctxt "237825"
+msgid "試練闘技7"
+msgstr "Trial Fighting 7"
+
+msgctxt "237835"
+msgid "試練闘技その８"
+msgstr "Trial Fighting Part 8"
+
+msgctxt "237850"
+msgid "試練闘技8"
+msgstr "Trial Fighting 8"
+
+msgctxt "237860"
+msgid "試練闘技その９"
+msgstr "Trial Fighting Part 9"
+
+msgctxt "237875"
+msgid "試練闘技9"
+msgstr "Trial Fighting 9"
+
+msgctxt "237885"
+msgid "試練闘技その１０"
+msgstr "Trial Fighting Part 10"
+
+msgctxt "237902"
+msgid "試練闘技10"
+msgstr "Trial Fighting 10"
+
+msgctxt "237913"
+msgid "乱戦闘技"
+msgstr "Random combat technique"
+
+msgctxt "237922"
+msgid "乱戦闘技その１"
+msgstr "Random combat technique 1"
+
+msgctxt "237937"
+msgid "乱戦闘技1"
+msgstr "Random combat technique 1"
+
+msgctxt "237947"
+msgid "究極闘技用タイマー"
+msgstr "Ultimate combat timer"
+
+msgctxt "237966"
+msgid "乱戦闘技その２"
+msgstr "Random combat technique 2"
+
+msgctxt "237981"
+msgid "乱戦闘技2"
+msgstr "Random combat technique 2"
+
+msgctxt "237991"
+msgid "乱戦闘技その３"
+msgstr "Random combat technique 3"
+
+msgctxt "238006"
+msgid "乱戦闘技3"
+msgstr "Random combat technique 3"
+
+msgctxt "238016"
+msgid "乱戦闘技その４"
+msgstr "Random combat technique part 4"
+
+msgctxt "238031"
+msgid "乱戦闘技4"
+msgstr "Random combat technique 4"
+
+msgctxt "238041"
+msgid "乱戦闘技その５"
+msgstr "Random combat technique part 5"
+
+msgctxt "238056"
+msgid "乱戦闘技5"
+msgstr "Random combat technique 5"
+
+msgctxt "238066"
+msgid "乱戦闘技その６"
+msgstr "Random combat technique 6"
+
+msgctxt "238081"
+msgid "乱戦闘技6"
+msgstr "Random combat technique 6"
+
+msgctxt "238091"
+msgid "乱戦闘技その７"
+msgstr "Random combat technique 7"
+
+msgctxt "238106"
+msgid "乱戦闘技7"
+msgstr "Random combat technique 7"
+
+msgctxt "238116"
+msgid "乱戦闘技その８"
+msgstr "Random combat technique 8"
+
+msgctxt "238131"
+msgid "乱戦闘技8"
+msgstr "Random combat technique 8"
+
+msgctxt "238141"
+msgid "乱戦闘技その９"
+msgstr "Random combat technique part 9"
+
+msgctxt "238156"
+msgid "乱戦闘技9"
+msgstr "Random combat technique 9"
+
+msgctxt "238166"
+msgid "乱戦闘技その１０"
+msgstr "Random combat technique part 10"
+
+msgctxt "238183"
+msgid "bbg_arena_tm"
+msgstr ""
+
+msgctxt "238196"
+msgid "乱戦闘技10"
+msgstr "Random combat technique 10"
+
+msgctxt "238207"
+msgid "test_longbtl"
+msgstr ""
+
+msgctxt "238220"
+msgid "test_long"
+msgstr ""
+
+msgctxt "238230"
+msgid "脱出しろ！"
+msgstr "Escape!"
+
+msgctxt "238241"
+msgid "テスト"
+msgstr "test"
+
+msgctxt "238248"
+msgid "てすとわんだらー部屋(しすてむ）"
+msgstr "Tesuto Wandara Room"
+
+msgctxt "238280"
+msgid "てすとわんだらー部屋(バトル)"
+msgstr "Tesuto Wandara Room (Battle)"
+
+msgctxt "238309"
+msgid "てすとわんだらー部屋（バトル_強化済）"
+msgstr "Tesuto Wandara Room (Battle_Strengthened)"
+
+msgctxt "238347"
+msgid "テストエンカウント部屋（ADV）"
+msgstr "Test Encounter Room (ADV)"
+
+msgctxt "238377"
+msgid "テストエンカウント部屋２（ADV）"
+msgstr "Test Encounter Room 2 (ADV)"
+
+msgctxt "238409"
+msgid "てすとチェイス"
+msgstr "Tesuto Chase"
+
+msgctxt "238424"
+msgid "てすとシームレスバトル（会話→バトル）"
+msgstr "Seamless battle (conversation → battle)"
+
+msgctxt "238463"
+msgid "てすとシームレスバトル01"
+msgstr "Tesuto Seamless Battle 01"
+
+msgctxt "238488"
+msgid "てすとシームレスバトル02"
+msgstr "Tesuto Seamless Battle 02"
+
+msgctxt "238513"
+msgid "てすとシームレスバトル03"
+msgstr "Tesuto Seamless Battle 03"
+
+msgctxt "238538"
+msgid "テスト_バトルチェイス"
+msgstr "Test_Battle Chase"
+
+msgctxt "238560"
+msgid "街のチンピラ"
+msgstr "City thugs"
+
+msgctxt "238573"
+msgid "てすとわんだらー部屋(自動生成)"
+msgstr "Tesuto Wandara Room (automatically generated)"
+
+msgctxt "238604"
+msgid "Ｃ会話テスト"
+msgstr "C conversation test"
+
+msgctxt "238617"
+msgid "VITAテストバトル"
+msgstr ""
+
+msgctxt "238634"
+msgid "テストロングバトル"
+msgstr "Test long battle"
+
+msgctxt "238653"
+msgid "テストロングバトルギミック"
+msgstr "Test long battle gimmick"
+
+msgctxt "238680"
+msgid "撮影用：龍馬の家"
+msgstr "For shooting: Ryoma's house"
+
+msgctxt "238697"
+msgid "テストバトル（京都）"
+msgstr "Test battle (Kyoto)"
+
+msgctxt "238718"
+msgid "体験会：Ver.A"
+msgstr "Experience meeting: Ver.A"
+
+msgctxt "238732"
+msgid "C2-011_道場へ向かう"
+msgstr ""
+
+msgctxt "238752"
+msgid "体験会：Ver.B"
+msgstr "Experience meeting: Ver.B"
+
+msgctxt "238766"
+msgid "骸街～洛外"
+msgstr "Skeleton Town-Rakuchu"

@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5208"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5209"
+msgid ""
+"もうドジを踏むんじゃないぞ。\n"
+"絶対に川に落ちるなよ。"
+msgstr ""
+"Don't step on it anymore. Never fall into\n"
+"the river."
+
+msgctxt "5262"
+msgid "ミャ、ミャア……"
+msgstr "Myaa, Myaa ……"
+
+msgctxt "5279"
+msgid "（うーむ、またすぐに汚れてそうだな……）"
+msgstr ""
+"(Hmm, it looks like it will get dirty soon\n"
+"...)"
+
+msgctxt "5320"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5321"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5322"
+msgid "もうドジを踏むんじゃないぞ。"
+msgstr "Don't step on it anymore."
+
+msgctxt "5351"
+msgid "ミャア。"
+msgstr "Myaa."
+
+msgctxt "5360"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5362"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5363"
+msgid "ミャア……"
+msgstr "Myaa ……"
+
+msgctxt "5374"
+msgid ""
+"（この猫、また川に落ちて汚れたようだな……\n"
+"　風呂屋で洗ってやろうか？）"
+msgstr ""
+"(This cat seems to have fallen into the\n"
+"river again and got dirty ... Should I\n"
+"wash it in the bathhouse?)"
+
+msgctxt "5447"
+msgid "ミャア……"
+msgstr "Myaa ……"
+
+msgctxt "5458"
+msgid ""
+"はぁ、何回泥まみれになれば気が済むんだお前は。\n"
+"そんな危ないところでくつろぐのを\n"
+"やめないからだぞ。"
+msgstr ""
+"Well, how many times do you feel like being\n"
+"covered in mud? Because I can't stop\n"
+"relaxing in such a dangerous place."
+
+msgctxt "5559"
+msgid "プルプル……"
+msgstr "Pull pull ……"
+
+msgctxt "5572"
+msgid ""
+"（……とは言え、このまま放ってはおけないな、\n"
+"　風呂屋で洗ってやろうか？）"
+msgstr ""
+"(... But I can't leave it as it is, should\n"
+"I wash it in the bathhouse?)"
+
+msgctxt "5647"
+msgid "（……今はそこまで面倒を見きれないな）"
+msgstr "(... I can't take care of that much now)"
+
+msgctxt "5686"
+msgid "ミャア……"
+msgstr "Myaa ……"
+
+msgctxt "5697"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5698"
+msgid "しかたない奴だ。……ちょっと来い。"
+msgstr ""
+"There is no choice but to do it. ......\n"
+"Come on."
+
+msgctxt "5733"
+msgid "ミャア。"
+msgstr "Myaa."
+
+msgctxt "5742"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5743"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5744"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5745"
+msgid "ミャア……"
+msgstr "Myaa ……"
+
+msgctxt "5756"
+msgid ""
+"（この猫、また川に落ちて汚れたようだな……\n"
+"　風呂屋で洗ってやろうか？）"
+msgstr ""
+"(This cat seems to have fallen into the\n"
+"river again and got dirty ... Should I\n"
+"wash it in the bathhouse?)"
+
+msgctxt "5829"
+msgid "ミャア……"
+msgstr "Myaa ……"
+
+msgctxt "5840"
+msgid ""
+"ん？　泥だらけじゃないか。\n"
+"お前、もしかしてまた川に落ちたのか？"
+msgstr ""
+"Hmm? Isn't it muddy? Did you fall into the\n"
+"river again?"
+
+msgctxt "5905"
+msgid "プルプル……"
+msgstr "Pull pull ……"
+
+msgctxt "5918"
+msgid ""
+"（……どこまでおっちょこちょいな猫なんだ。\n"
+"　しかたない。風呂屋で洗ってやろうか？）"
+msgstr ""
+"(... How sloppy the cat is. I can't help\n"
+"it. Should I wash it in the bathhouse?)"
+
+msgctxt "6003"
+msgid "（……今はそこまで面倒を見きれないな）"
+msgstr "(... I can't take care of that much now)"
+
+msgctxt "6042"
+msgid "ミャア……"
+msgstr "Myaa ……"
+
+msgctxt "6053"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6054"
+msgid "しかたない奴だ。……ちょっと来い。"
+msgstr ""
+"There is no choice but to do it. ......\n"
+"Come on."
+
+msgctxt "6089"
+msgid "ミャア。"
+msgstr "Myaa."
+
+msgctxt "6098"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6099"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6100"
+msgid "もうこれ以上、ドジを踏むんじゃないぞ。"
+msgstr "Don't step on it anymore."
+
+msgctxt "6139"
+msgid "ミャア！"
+msgstr "Myaa!"
+
+msgctxt "6148"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6149"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6150"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6151"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6444"
+msgid "Player"
+msgstr ""
+
+msgctxt "6451"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6460"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6466"
+msgid "綺麗になった猫"
+msgstr "Beautiful cat"
+
+msgctxt "6481"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6494"
+msgid "汚れた猫"
+msgstr "Dirty cat"
+
+msgctxt "6503"
+msgid "洗ってやる"
+msgstr "I'll wash it"
+
+msgctxt "6514"
+msgid "立ち去る"
+msgstr "Go away"
+
+msgctxt "6523"
+msgid "Talk_No"
+msgstr ""

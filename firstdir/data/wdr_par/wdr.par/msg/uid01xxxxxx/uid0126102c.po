@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1864"
+msgid ""
+"（この先が頭領のいる部屋のようだ。\n"
+"　このまま入るか？）"
+msgstr ""
+"(It looks like the room where the head is\n"
+"in the future. Will you enter as it is?)"
+
+msgctxt "1921"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1922"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1924"
+msgid ""
+"来たな！　徳川の飼い犬たちよ!!\n"
+"ここで死に絶え、朽ち果てるが良い！"
+msgstr ""
+"You're here! Tokugawa's dogs !! It's good\n"
+"to die here and decay!"
+
+msgctxt "1991"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1992"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1993"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1994"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1995"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1996"
+msgid "ぐふぅ!!"
+msgstr "Gufu !!"
+
+msgctxt "2005"
+msgid ""
+"我が組織が壊滅されようとも、\n"
+"豊臣は滅びぬ……"
+msgstr ""
+"Even if our organization is destroyed, Toyotomi\n"
+"will not be destroyed ..."
+
+msgctxt "2052"
+msgid ""
+"壬生狼よ……\n"
+"貴様たちはこれから豊臣の力を、\n"
+"身をもって知ることになろうぞ……"
+msgstr ""
+"I'm a wolf ... You guys will know the power\n"
+"of Toyotomi for yourself ..."
+
+msgctxt "2131"
+msgid "（任務は片付いた、屯所へ戻るか？）"
+msgstr ""
+"(The mission has been completed, will you\n"
+"return to the tunsho?)"
+
+msgctxt "2166"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2167"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2324"
+msgid "Player"
+msgstr ""
+
+msgctxt "2331"
+msgid "入る"
+msgstr "enter"
+
+msgctxt "2336"
+msgid "後にする"
+msgstr "Later"
+
+msgctxt "2345"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2351"
+msgid "義賊頭領"
+msgstr "Gentleman"
+
+msgctxt "2360"
+msgid "戻らない"
+msgstr "Dont return"
+
+msgctxt "2369"
+msgid "屯所に戻る"
+msgstr "Return to tunsho"

@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1096"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1097"
+msgid ""
+"あら、残念どすなぁ。\n"
+"またお声かけてくださいな。"
+msgstr "Oh, I'm sorry. Please speak to me again."
+
+msgctxt "1146"
+msgid "あら、斎藤はんも歌いにきたんどすか？"
+msgstr "Oh, did Han Saito come to sing too?"
+
+msgctxt "1183"
+msgid ""
+"うち、これから歌う予定なんどす。\n"
+"斎藤はんも、ご一緒しません？"
+msgstr ""
+"I'm planning to sing from now on. Saito\n"
+"Han, would you like to join us?"
+
+msgctxt "1246"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1247"
+msgid "あらまぁ。残念どす……"
+msgstr "Oh well. I'm sorry ..."
+
+msgctxt "1270"
+msgid "ふふふ。では、よろしゅうお願いします。"
+msgstr "Fufufu. Well then, thank you."
+
+msgctxt "1309"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1408"
+msgid "幾松"
+msgstr "Jisong"
+
+msgctxt "1413"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1419"
+msgid "iku_game_utagoe_00"
+msgstr ""
+
+msgctxt "1438"
+msgid "iku_game_utagoe_01"
+msgstr ""
+
+msgctxt "1457"
+msgid "はい"
+msgstr "Okay"
+
+msgctxt "1462"
+msgid "いいえ"
+msgstr "No"
+
+msgctxt "1469"
+msgid "iku_game_utagoe_03"
+msgstr ""
+
+msgctxt "1488"
+msgid "iku_game_utagoe_02"
+msgstr ""

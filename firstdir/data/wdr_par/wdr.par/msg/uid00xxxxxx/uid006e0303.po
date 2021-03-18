@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2212"
+msgid ""
+"おぉ、おぬし。御館様のために\n"
+"料理を作ってくれる気になったのか？"
+msgstr ""
+"Oh, you. Did you feel like cooking for the\n"
+"palace?"
+
+msgctxt "2277"
+msgid "……いや、料理を作る気はない。"
+msgstr ""
+
+msgctxt "2308"
+msgid ""
+"そうか……　おぬしが首を縦に振ってくれるまで\n"
+"わしは、ここで待っておるぞ。"
+msgstr ""
+"I see ... I'll be waiting here until you\n"
+"shake your head vertically."
+
+msgctxt "2383"
+msgid "…………"
+msgstr ""
+
+msgctxt "2392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2393"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2394"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2395"
+msgid "……しかたない。作ってやるよ。"
+msgstr ""
+
+msgctxt "2426"
+msgid "ま、まことか!?"
+msgstr "Well, really !?"
+
+msgctxt "2441"
+msgid "あぁ……"
+msgstr "Ahh……"
+
+msgctxt "2450"
+msgid ""
+"恩に切る……　それでは使いの者に連絡させ、\n"
+"御館様をお呼びしよう。"
+msgstr ""
+"Thank you ... Let's contact the messenger\n"
+"and call the palace."
+
+msgctxt "2517"
+msgid ""
+"わしらは御館様が到着されるまで、\n"
+"入念に料理の準備をするとしようぞ。"
+msgstr ""
+"Let's say we prepare the food carefully\n"
+"until the palace arrives."
+
+msgctxt "2586"
+msgid "早速、斎藤殿の家に参るとしようぞ！"
+msgstr "Let's go to Saito's house right away!"
+
+msgctxt "2621"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2622"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2623"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2624"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3020"
+msgid "猿吉"
+msgstr "Saruyoshi"
+
+msgctxt "3025"
+msgid "作る"
+msgstr "create"
+
+msgctxt "3030"
+msgid "断る"
+msgstr "turn down"
+
+msgctxt "3035"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "3040"
+msgid "0"
+msgstr ""
+
+msgctxt "3042"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3048"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "3061"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "3072"
+msgid "P_KRU_TLK_stand_ase"
+msgstr ""
+
+msgctxt "3092"
+msgid "Talk_Yes"
+msgstr ""

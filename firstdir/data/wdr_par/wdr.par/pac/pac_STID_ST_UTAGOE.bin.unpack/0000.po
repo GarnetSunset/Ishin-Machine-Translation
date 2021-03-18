@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1048"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1049"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1050"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1140"
+msgid "M_BUS_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "1162"
+msgid "majima_game_utagoe_00"
+msgstr ""

@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "CATEGORY_0"
+msgid "機能"
+msgstr ""
+
+msgctxt "CATEGORY_1"
+msgid "徳"
+msgstr ""
+
+msgctxt "CATEGORY_2"
+msgid "変換"
+msgstr ""
+
+msgctxt "CATEGORY_3"
+msgid "その他"
+msgstr ""
+
+msgctxt "CATEGORY_4"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "FUNCTION_NAME_0"
+msgid "ダッシュ機能UPLv1"
+msgstr "Dash function UPLv1"
+
+msgctxt "FUNCTION_NAME_1"
+msgid "ダッシュ機能UPLv2"
+msgstr "Dash function UPLv2"
+
+msgctxt "FUNCTION_NAME_2"
+msgid "ダッシュ機能UPLv3"
+msgstr "Dash function UPLv3"
+
+msgctxt "FUNCTION_NAME_3"
+msgid "ダッシュ機能UPLv4"
+msgstr "Dash function UPLv4"
+
+msgctxt "FUNCTION_NAME_4"
+msgid "ダッシュ機能UPLvMAX"
+msgstr "Dash function UPLvMAX"
+
+msgctxt "FUNCTION_NAME_5"
+msgid "アイテム所持数UPLv1"
+msgstr "Number of items possessed UPLv1"
+
+msgctxt "FUNCTION_NAME_6"
+msgid "アイテム所持数UPLv2"
+msgstr "Number of items possessed UPLv2"
+
+msgctxt "FUNCTION_NAME_7"
+msgid "アイテム所持数UPLv3"
+msgstr "Number of items possessed UPLv3"
+
+msgctxt "FUNCTION_NAME_8"
+msgid "アイテム所持数UPLv4"
+msgstr "Number of items possessed UPLv4"
+
+msgctxt "FUNCTION_NAME_9"
+msgid "アイテム所持数UPLvMAX"
+msgstr "Number of items possessed UPLvMAX"
+
+msgctxt "FUNCTION_NAME_10"
+msgid "所持武器数UPLv1"
+msgstr "Number of weapons held UPLv1"
+
+msgctxt "FUNCTION_NAME_11"
+msgid "所持武器数UPLv2"
+msgstr "Number of weapons held UPLv2"
+
+msgctxt "FUNCTION_NAME_12"
+msgid "所持武器数UPLv3"
+msgstr "Number of weapons held UPLv3"
+
+msgctxt "FUNCTION_NAME_13"
+msgid "所持武器数UPLv4"
+msgstr "Number of weapons held UPLv4"
+
+msgctxt "FUNCTION_NAME_14"
+msgid "所持武器数UPLvMAX"
+msgstr "Number of weapons held UPLvMAX"
+
+msgctxt "FUNCTION_NAME_15"
+msgid "徳ショップ開放"
+msgstr "Toku shop open"
+
+msgctxt "FUNCTION_NAME_16"
+msgid "徳ショップ発展Lv1"
+msgstr "Toku Shop Development Lv1"
+
+msgctxt "FUNCTION_NAME_17"
+msgid "徳ショップ発展Lv2"
+msgstr "Toku Shop Development Lv2"
+
+msgctxt "FUNCTION_NAME_18"
+msgid "徳ショップ発展Lv3"
+msgstr "Toku Shop Development Lv3"
+
+msgctxt "FUNCTION_NAME_19"
+msgid "徳ショップ発展Lv4"
+msgstr "Toku Shop Development Lv4"
+
+msgctxt "FUNCTION_NAME_20"
+msgid "徳ショップ発展LvMAX"
+msgstr "Toku Shop Development LvMAX"
+
+msgctxt "FUNCTION_NAME_21"
+msgid "「徳」取得率UPLv1"
+msgstr "\"Germany\" acquisition rate UPLv1"
+
+msgctxt "FUNCTION_NAME_22"
+msgid "「徳」取得率UPLv2"
+msgstr "\"Germany\" acquisition rate UPLv2"
+
+msgctxt "FUNCTION_NAME_23"
+msgid "「徳」取得率UPLv3"
+msgstr "\"Germany\" acquisition rate UPLv3"
+
+msgctxt "FUNCTION_NAME_24"
+msgid "「徳」取得率UPLv4"
+msgstr "\"German\" acquisition rate UPLv4"
+
+msgctxt "FUNCTION_NAME_25"
+msgid "「徳」取得率UPLvMAX"
+msgstr "\"Germany\" acquisition rate UPLvMAX"
+
+msgctxt "FUNCTION_NAME_26"
+msgid "満腹時の「徳」取得率UPLv1"
+msgstr "\"Virtue\" acquisition rate UPLv1 when full"
+
+msgctxt "FUNCTION_NAME_27"
+msgid "満腹時の「徳」取得率UPLv2"
+msgstr "\"Virtue\" acquisition rate UPLv2 when full"
+
+msgctxt "FUNCTION_NAME_28"
+msgid "満腹時の「徳」取得率UPLv3"
+msgstr "\"Virtue\" acquisition rate UPLv3 when full"
+
+msgctxt "FUNCTION_NAME_29"
+msgid "評判UP（洛内）"
+msgstr "Reputation UP (Rakuchu)"
+
+msgctxt "FUNCTION_NAME_30"
+msgid "評判UP（洛外）"
+msgstr "Reputation UP (Rakuchu)"
+
+msgctxt "FUNCTION_NAME_31"
+msgid "評判UP（骸街）"
+msgstr "Reputation UP (skeleton town)"
+
+msgctxt "FUNCTION_NAME_32"
+msgid "評判UP（伏見）"
+msgstr "Reputation UP (Fushimi)"
+
+msgctxt "FUNCTION_NAME_33"
+msgid "評判UP（祗園）"
+msgstr "Reputation UP (Gion)"
+
+msgctxt "FUNCTION_NAME_34"
+msgid "経験値変換"
+msgstr "Experience point conversion"
+
+msgctxt "FUNCTION_NAME_35"
+msgid "徳をお金に還元"
+msgstr "Return virtue to money"
+
+msgctxt "FUNCTION_NAME_36"
+msgid "設定資料集開放１"
+msgstr "Setting document collection open 1"
+
+msgctxt "FUNCTION_NAME_37"
+msgid "設定資料集開放２"
+msgstr "Setting document collection open 2"
+
+msgctxt "FUNCTION_NAME_38"
+msgid "設定資料集開放３"
+msgstr "Setting document collection open 3"
+
+msgctxt "FUNCTION_NAME_39"
+msgid "設定資料集開放４"
+msgstr "Setting document collection open 4"
+
+msgctxt "FUNCTION_NAME_40"
+msgid "設定資料集開放５"
+msgstr "Setting document collection open 5"
+
+msgctxt "FUNCTION_NAME_41"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "FUNCTION_DETAIL_0"
+msgid "ダッシュ時に疲れにくくなる、回復が早くなる等"
+msgstr ""
+"Less tired when dashing, faster recovery,\n"
+"etc."
+
+msgctxt "FUNCTION_DETAIL_1"
+msgid "アイテムの所持数がUPする"
+msgstr "Increases the number of items you have"
+
+msgctxt "FUNCTION_DETAIL_2"
+msgid "武器の所持数がUPする"
+msgstr "Increases the number of weapons possessed"
+
+msgctxt "FUNCTION_DETAIL_3"
+msgid "徳ポイントを使って物品が買える店がオープンする"
+msgstr ""
+"A store where you can buy goods using virtue\n"
+"points opens"
+
+msgctxt "FUNCTION_DETAIL_4"
+msgid "徳ショップの商品ラインナップが発展する"
+msgstr "The product lineup of the Toku shop develops"
+
+msgctxt "FUNCTION_DETAIL_5"
+msgid "「徳」ポイントの取得率がUPし、多くの徳をGETできるようになる"
+msgstr ""
+"The acquisition rate of \"virtue\" points\n"
+"will increase, and you will be able to\n"
+"get many virtues."
+
+msgctxt "FUNCTION_DETAIL_6"
+msgid "満腹時の飲食の際の「徳」取得率の減少をある程度抑える"
+msgstr ""
+"Suppress the decrease in the \"virtue\" acquisition\n"
+"rate when eating and drinking\n"
+"when full"
+
+msgctxt "FUNCTION_DETAIL_7"
+msgid "徳ポイントを使うことで桐生の評判を一定値UPする"
+msgstr ""
+"Increase Kiryu's reputation by a certain\n"
+"amount by using virtue points"
+
+msgctxt "FUNCTION_DETAIL_8"
+msgid "１０００「徳」ポイントを経験値3000に変換することが可能"
+msgstr ""
+"It is possible to convert 1000 \"virtue\"\n"
+"points to 3000 experience points."
+
+msgctxt "FUNCTION_DETAIL_9"
+msgid "徳500で一両を追加する"
+msgstr "Add one with Toku 500"
+
+msgctxt "FUNCTION_DETAIL_10"
+msgid "設定資料集を観ることができます"
+msgstr "You can see the setting document collection"
+
+msgctxt "FUNCTION_DETAIL_11"
+msgid "<!empty>"
+msgstr ""

@@ -1,0 +1,986 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "23764"
+msgid "ん？"
+msgstr "Hmm?"
+
+msgctxt "23769"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23770"
+msgid "おい、何かあったのか？"
+msgstr "Hey, what happened?"
+
+msgctxt "23793"
+msgid ""
+"えぇ、今からちょうどみんなで、\n"
+"この犬を処分しようとしてたのよ。"
+msgstr ""
+"Well, from now on, everyone was just trying\n"
+"to get rid of this dog."
+
+msgctxt "23858"
+msgid "処分だと？"
+msgstr "Is it disposal?"
+
+msgctxt "23869"
+msgid ""
+"こいつはもう、吠えなくなったはずだぞ。\n"
+"殺す必要なんてないはずだ。"
+msgstr ""
+"This guy shouldn't bark anymore. You shouldn't\n"
+"have to kill it."
+
+msgctxt "23936"
+msgid ""
+"たしかに前より吠えなくなったかもしれないけど……\n"
+"またいつ吠えだすかわからないじゃないの。"
+msgstr ""
+"It may be less barking than before, but\n"
+"... I don't know when it will start barking\n"
+"again."
+
+msgctxt "24027"
+msgid "大丈夫だ。もうこいつは吠えない。"
+msgstr "Should be fine. This guy doesn't bark anymore."
+
+msgctxt "24060"
+msgid ""
+"そんなこと、言いきれないでしょ。\n"
+"それに、もうみんなで決めたことだから。"
+msgstr ""
+"You can't say that. Besides, it's already\n"
+"decided by everyone."
+
+msgctxt "24133"
+msgid ""
+"……犬とはいえ、ひとつの命だ。\n"
+"もっと真剣に考えてやってくれないか？"
+msgstr ""
+"...... Although it is a dog, it is a life.\n"
+"Can you think more seriously?"
+
+msgctxt "24202"
+msgid ""
+"あなたもしつこいわねぇ。\n"
+"なら、あなたがこの犬、ひきとってよ。"
+msgstr ""
+"You're not too persistent. Then you should\n"
+"take this dog."
+
+msgctxt "24265"
+msgid "俺が？"
+msgstr "I?"
+
+msgctxt "24272"
+msgid ""
+"そうよ。私達はこの犬がいなくなればいいの。\n"
+"あなたが引き取ってくれるんなら、\n"
+"殺す手間もはぶけるわ。"
+msgstr ""
+"that's right. We wish this dog was gone.\n"
+"If you take it over, you'll save yourself\n"
+"the trouble of killing it."
+
+msgctxt "24373"
+msgid "…………"
+msgstr ""
+
+msgctxt "24382"
+msgid "くぅん……"
+msgstr "Kun ……"
+
+msgctxt "24393"
+msgid ""
+"どうするの？\n"
+"あんだけ偉そうなこと言って、自分で飼うのは\n"
+"いやなわけ？"
+msgstr ""
+"What to do? Why don't you keep it yourself,\n"
+"saying that it looks so great?"
+
+msgctxt "24464"
+msgid "……お前は、それでいいか？"
+msgstr "...... Is that all right for you?"
+
+msgctxt "24491"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24492"
+msgid "……ゥワン!!"
+msgstr "...... Uwan !!"
+
+msgctxt "24505"
+msgid ""
+"よし、決まりだ。\n"
+"……分かった。この犬は俺が引き取る。"
+msgstr ""
+"Alright, it's a rule. ……Do you get it. I\n"
+"will pick up this dog."
+
+msgctxt "24560"
+msgid ""
+"ふーん。こんな犬を引き取るなんて、\n"
+"変わった人だね。\n"
+"ま、こっちは助かるけど。じゃあね。"
+msgstr ""
+"Hmm. It's a strange person to take over\n"
+"such a dog. Well, this one helps. See ya."
+
+msgctxt "24649"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24650"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24651"
+msgid ""
+"これから、よろしくな。\n"
+"名前は……　そうだな……"
+msgstr ""
+"Nice to meet you from now on. The name is\n"
+"... that's right ..."
+
+msgctxt "24700"
+msgid "吠える犬に名前をつけてください。"
+msgstr "Give your barking dog a name."
+
+msgctxt "24733"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24734"
+msgid "%sがペットになりました。"
+msgstr "% s is now a pet."
+
+msgctxt "24759"
+msgid ""
+"よし。これからはお前も家族の一員だ。\n"
+"楽しくやろうな。"
+msgstr ""
+"Alright. From now on, you are also a member\n"
+"of the family. Let's have fun."
+
+msgctxt "24814"
+msgid "ワンッ！"
+msgstr "Wow!"
+
+msgctxt "24823"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24824"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24825"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24826"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24827"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24828"
+msgid "へっ！　へっ！　へっ！"
+msgstr "Hey! Hey! Hey!"
+
+msgctxt "24851"
+msgid "よしよし、これからもいい子にしてるんだぞ。"
+msgstr "Alright, I'll continue to be a good boy."
+
+msgctxt "24894"
+msgid "…………ワン。"
+msgstr "…………one."
+
+msgctxt "24909"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24910"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24911"
+msgid "…………"
+msgstr ""
+
+msgctxt "24920"
+msgid ""
+"ん？　お前、ずいぶん静かだな。\n"
+"まだ骨が残っているのか？"
+msgstr ""
+"Hmm? You're pretty quiet. Is there still\n"
+"bone left?"
+
+msgctxt "24977"
+msgid "クンクン。"
+msgstr "sniff."
+
+msgctxt "24988"
+msgid "（いや、もう骨は残っていないようだぞ……）"
+msgstr ""
+"(No, it looks like there are no bones left\n"
+"...)"
+
+msgctxt "25031"
+msgid "へっ！　へっ！　へっ！"
+msgstr "Hey! Hey! Hey!"
+
+msgctxt "25054"
+msgid ""
+"そうか……　俺が静かにしろと言ったのを\n"
+"わかってくれたのか。"
+msgstr ""
+"Yeah ... Did you understand that I told\n"
+"you to be quiet?"
+
+msgctxt "25115"
+msgid "…………ワン。"
+msgstr "…………one."
+
+msgctxt "25130"
+msgid "フッ、本当はいい子だったんだな。お前は。"
+msgstr "Huh, he was really a good boy. You are."
+
+msgctxt "25171"
+msgid "……へっ！　へっ！　へっ！"
+msgstr "...... Hey! Hey! Hey!"
+
+msgctxt "25198"
+msgid ""
+"よし、吠えなくなったご褒美に、\n"
+"お前の大好きなものをやろう。"
+msgstr ""
+"Alright, let's do what you love as a reward\n"
+"for not barking."
+
+msgctxt "25259"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25260"
+msgid "（……と思ったが今は骨を持っていなかった）"
+msgstr ""
+"(I thought ... but I didn't have any bones\n"
+"now)"
+
+msgctxt "25303"
+msgid "また今度持って来てやるからな。"
+msgstr "I'll bring it again next time."
+
+msgctxt "25334"
+msgid "ワンワン！"
+msgstr "Bow-wow!"
+
+msgctxt "25345"
+msgid ""
+"（持っている骨を\n"
+"　犬にご褒美としてやろうか？）"
+msgstr ""
+"(Would you like to reward your dog with\n"
+"your bones?)"
+
+msgctxt "25394"
+msgid ""
+"（……と思ったが、この骨は大事な骨だ。\n"
+"　やるわけにはいかないな）"
+msgstr ""
+"(I thought ... but this bone is an important\n"
+"bone. I can't do it.)"
+
+msgctxt "25461"
+msgid "また今度持って来てやるからな。"
+msgstr "I'll bring it again next time."
+
+msgctxt "25492"
+msgid "ワンワン！"
+msgstr "Bow-wow!"
+
+msgctxt "25503"
+msgid "ほら、お前の大好きな骨だぞ。"
+msgstr "You see, it's your favorite bone."
+
+msgctxt "25532"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25533"
+msgid "……！　ワン！"
+msgstr "……! one!"
+
+msgctxt "25548"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25549"
+msgid "欲しいか？"
+msgstr "Do you want"
+
+msgctxt "25560"
+msgid "ワン。"
+msgstr "one."
+
+msgctxt "25567"
+msgid ""
+"……こいつを咥えさせてやるから、\n"
+"これからもいい子にしてるんだぞ。"
+msgstr ""
+"...... I'll make him suck, so I'll continue\n"
+"to be a good boy."
+
+msgctxt "25634"
+msgid "ワウン！"
+msgstr "Wow!"
+
+msgctxt "25643"
+msgid "「<Color:8>骨<Color:Default>」をやった"
+msgstr "\"<Color:8> Bone<Color:Default> I did"
+
+msgctxt "25682"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25683"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25684"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25685"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25686"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25687"
+msgid "…………"
+msgstr ""
+
+msgctxt "25696"
+msgid ""
+"（よし。この調子なら\n"
+"　吠えるのを理由に、殺されることもないだろう）"
+msgstr ""
+"(Okay, you won't be killed because you bark\n"
+"at this rate)"
+
+msgctxt "25765"
+msgid "……よかったな。"
+msgstr "...... I'm glad."
+
+msgctxt "25782"
+msgid "へっ！　へっ！　へっ！"
+msgstr "Hey! Hey! Hey!"
+
+msgctxt "25805"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25806"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25807"
+msgid "…………"
+msgstr ""
+
+msgctxt "25816"
+msgid ""
+"骨の効果は絶大だな……\n"
+"そいつをやるから、静かにしているんだぞ。"
+msgstr ""
+"The effect of the bones is tremendous ...\n"
+"I'm doing it, so I'm quiet."
+
+msgctxt "25881"
+msgid "…………ワン。"
+msgstr "…………one."
+
+msgctxt "25896"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25897"
+msgid "ワンワン！"
+msgstr "Bow-wow!"
+
+msgctxt "25908"
+msgid ""
+"（ん？　前に与えた骨がなくなったのか。\n"
+"　また吠えるようになっているな）"
+msgstr ""
+"(Hmm? Did you lose the bone you gave before?\n"
+"You're barking again)"
+
+msgctxt "25981"
+msgid "ワンワン！"
+msgstr "Bow-wow!"
+
+msgctxt "25992"
+msgid ""
+"（このまま吠え続けるようであれば、\n"
+"　こいつは処分されてしまうんだったな……\n"
+"　骨をやれば、また静かになるのだろうか）"
+msgstr ""
+"(If you keep barking like this, this guy\n"
+"will be disposed of ... Will it be quiet\n"
+"again if you do bones?)"
+
+msgctxt "26111"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26112"
+msgid "ワンワン！"
+msgstr "Bow-wow!"
+
+msgctxt "26123"
+msgid ""
+"（ちょうど骨を持っている。\n"
+"　犬にやろうか……）"
+msgstr ""
+"(I just have a bone. Let's give it to a\n"
+"dog ...)"
+
+msgctxt "26172"
+msgid ""
+"（……骨をやっても、\n"
+"　根本的な解決にはならないかもしれないな）"
+msgstr "(... Bone may not be the ultimate solution)"
+
+msgctxt "26237"
+msgid "ワンワン！"
+msgstr "Bow-wow!"
+
+msgctxt "26248"
+msgid "おい、骨だぞ。"
+msgstr "Hey, it's a bone."
+
+msgctxt "26263"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26264"
+msgid "……！　ワンワン！"
+msgstr "……! Bow-wow!"
+
+msgctxt "26283"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26284"
+msgid "欲しいんだな？"
+msgstr "Do you want it?"
+
+msgctxt "26299"
+msgid "ワンワンワウン！"
+msgstr "One One Wow!"
+
+msgctxt "26316"
+msgid ""
+"……こいつを咥えさせてやるから、\n"
+"静かにしているんだぞ。"
+msgstr "...... I'll make him suck, so I'm quiet."
+
+msgctxt "26373"
+msgid "「<Color:8>骨<Color:Default>」をやった"
+msgstr "\"<Color:8> Bone<Color:Default> I did"
+
+msgctxt "26412"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26413"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26414"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26415"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26416"
+msgid "…………"
+msgstr ""
+
+msgctxt "26425"
+msgid ""
+"骨ひとつでここまで変わるか……\n"
+"ゲンキンな奴め。"
+msgstr "Will it change so much with just one bone?"
+
+msgctxt "26474"
+msgid "…………ワン。"
+msgstr "…………one."
+
+msgctxt "26489"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26490"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26491"
+msgid "…………"
+msgstr ""
+
+msgctxt "26500"
+msgid "（骨の効果は絶大だな……）"
+msgstr "(The effect of bones is enormous ...)"
+
+msgctxt "26527"
+msgid "そいつを咥えて、静かにしているんだぞ。"
+msgstr "I'm holding it and keeping it quiet."
+
+msgctxt "26566"
+msgid "…………ワン。"
+msgstr "…………one."
+
+msgctxt "26581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26582"
+msgid "ワンワンワンワン！"
+msgstr "One One One One!"
+
+msgctxt "26601"
+msgid ""
+"（この犬、このまま吠え続けるようであれば、\n"
+"　殺されてしまうんだったな……）"
+msgstr ""
+"(If this dog keeps barking like this, he'll\n"
+"be killed ...)"
+
+msgctxt "26678"
+msgid ""
+"（骨でも咥えさせたら、\n"
+"　静かになるかもしれないな）"
+msgstr "(If you hold the bones, it may be quiet)"
+
+msgctxt "26731"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26732"
+msgid "ワンワンワンワンワン！"
+msgstr "One One One One One!"
+
+msgctxt "26755"
+msgid ""
+"（ちょうど骨を持っているな。\n"
+"　やってみようか……）"
+msgstr "(I just have a bone. Let's try it ...)"
+
+msgctxt "26808"
+msgid ""
+"（……いや、骨をやることで\n"
+"　もっとうるさくなるかもしれない。やめておこう）"
+msgstr ""
+"(... No, it may be more noisy by doing bones.\n"
+"Let's stop)"
+
+msgctxt "26885"
+msgid "おい、こいつがなんだかわかるか？"
+msgstr "Hey, do you know what this is?"
+
+msgctxt "26918"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26919"
+msgid "……！　ワンワン！"
+msgstr "……! Bow-wow!"
+
+msgctxt "26938"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26939"
+msgid "よこせと言っているのか……？"
+msgstr "Are you saying \"Give me\" ...?"
+
+msgctxt "26968"
+msgid "ワンワンワウン！"
+msgstr "One One Wow!"
+
+msgctxt "26985"
+msgid ""
+"……ようし、こいつを咥えさせてやるから、\n"
+"少しは静かにするんだぞ。"
+msgstr ""
+"...... Well, I'll make him suck, so I'll\n"
+"be a little quieter."
+
+msgctxt "27052"
+msgid "「<Color:8>骨<Color:Default>」をやった"
+msgstr "\"<Color:8> Bone<Color:Default> I did"
+
+msgctxt "27091"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27092"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27093"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27094"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27095"
+msgid "…………"
+msgstr ""
+
+msgctxt "27104"
+msgid "（……まさか骨ひとつでこんなに静かになるとは）"
+msgstr ""
+"(... No way it would be so quiet with just\n"
+"one bone)"
+
+msgctxt "27151"
+msgid "…………ワン。"
+msgstr "…………one."
+
+msgctxt "27166"
+msgid ""
+"「吠え続ける犬」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「吠え続ける犬」と交流してみましょう。"
+msgstr ""
+"A bond with a \"dog that keeps barking\" has\n"
+"sprung up. You can deepen your bond\n"
+"by interacting with each other and accumulating\n"
+"the bond gauge in the future.\n"
+"You can also check the status of the gauge\n"
+"in the \"Dedication Catalog\" in the\n"
+"pause menu. Let's actively interact with\n"
+"\"dogs that keep barking\"."
+
+msgctxt "27387"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27388"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27389"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27390"
+msgid "ワン！　ワンワンワンワン！"
+msgstr "one! One One One One!"
+
+msgctxt "27417"
+msgid ""
+"（なんだこの犬は……\n"
+"　すごい勢いで吠えられているな）"
+msgstr ""
+"(What is this dog ... barking with great\n"
+"momentum)"
+
+msgctxt "27472"
+msgid "ワンワンワンワンワン！"
+msgstr "One One One One One!"
+
+msgctxt "27495"
+msgid "お、おい。"
+msgstr "Hey, hey."
+
+msgctxt "27506"
+msgid "ワンワンワンワンワン！"
+msgstr "One One One One One!"
+
+msgctxt "27529"
+msgid "うるさいぞ。おとなしくしろ。"
+msgstr "It's noisy. Be quiet."
+
+msgctxt "27558"
+msgid "ワンワンワンワンワン！"
+msgstr "One One One One One!"
+
+msgctxt "27581"
+msgid "…………"
+msgstr ""
+
+msgctxt "27590"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "27591"
+msgid ""
+"なに？\n"
+"あなた、その犬を静かにさせようとしてるの？\n"
+"無駄よ。無駄。"
+msgstr ""
+"What? Are you trying to keep the dog quiet?\n"
+"It's useless. Waste."
+
+msgctxt "27658"
+msgid ""
+"その犬ってば、昼でも夜でもお構いなしに\n"
+"吠え続けるんだから。"
+msgstr "The dog keeps barking day or night."
+
+msgctxt "27719"
+msgid "そうか。それは大変だな……"
+msgstr "Really. That's hard ..."
+
+msgctxt "27746"
+msgid ""
+"そうなのよ。\n"
+"その犬、野良のくせにここに居ついちゃって。\n"
+"ずっと吠えるでしょう？　迷惑してたのよねぇ。"
+msgstr ""
+"You are right. The dog, stray, stayed here.\n"
+"Will you bark all the time? It was\n"
+"a nuisance."
+
+msgctxt "27849"
+msgid "……でもそれも、もうしばらくの辛抱なんだけど。"
+msgstr "…… But that's been a while, though."
+
+msgctxt "27896"
+msgid "ん？　どういうことだ？"
+msgstr "Hmm? What does it mean?"
+
+msgctxt "27919"
+msgid ""
+"今度、ご近所さん達と一緒に\n"
+"この犬、処分することにしたのよ。"
+msgstr ""
+"This time, I decided to dispose of this\n"
+"dog with my neighbors."
+
+msgctxt "27980"
+msgid "処分？　……殺すってことか？"
+msgstr "disposal? ...... Do you mean to kill?"
+
+msgctxt "28009"
+msgid ""
+"そうよ。まぁ、しょうがないわよ。\n"
+"私達、この犬のせいでずっと寝不足なんだもの。"
+msgstr ""
+"that's right. Well, it can't be helped.\n"
+"We've been short of sleep because of this\n"
+"dog."
+
+msgctxt "28088"
+msgid ""
+"あんまりこの犬にちょっかいかけないでね。\n"
+"うるさいから。それじゃあ。"
+msgstr ""
+"Don't mess with this dog too much. Because\n"
+"it's noisy. Well then."
+
+msgctxt "28157"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28158"
+msgid "……おい、お前。"
+msgstr "...... Hey, you."
+
+msgctxt "28175"
+msgid "ワンワンワンワンワン！"
+msgstr "One One One One One!"
+
+msgctxt "28198"
+msgid "このまま吠えてばかりいると、殺されちまうぞ。"
+msgstr ""
+"If you keep barking like this, you will\n"
+"be killed."
+
+msgctxt "28243"
+msgid "ワンワンワンワンワン！"
+msgstr "One One One One One!"
+
+msgctxt "28266"
+msgid "……お前はそれでもいいのか？"
+msgstr "...... Is that all right for you?"
+
+msgctxt "28295"
+msgid "ワンワンワンワンワン！"
+msgstr "One One One One One!"
+
+msgctxt "28318"
+msgid ""
+"（うーむ、当たり前だが、\n"
+"　言っても聞いてくれそうにないな）"
+msgstr ""
+"(Hmm, it's natural, but I don't think he'll\n"
+"listen to me.)"
+
+msgctxt "28379"
+msgid ""
+"（こうなったら、物理的に口をふさぐしかないか。\n"
+"　長い間、犬の口をふさげるものが\n"
+"　あればいいんだが……）"
+msgstr ""
+"(If this happens, I have no choice but to\n"
+"physically block my mouth. I wish I had\n"
+"something to block my dog's mouth for\n"
+"a long time ...)"
+
+msgctxt "28486"
+msgid "（……試しに骨でも咥えさせておくか？）"
+msgstr "(... Do you want to try holding the bones?)"
+
+msgctxt "28525"
+msgid "ワンワンワンワンワン！"
+msgstr "One One One One One!"
+
+msgctxt "28548"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28549"
+msgid ""
+"（近くの質屋にでも探しにいってみるか。\n"
+"　……骨）"
+msgstr ""
+"(Would you like to go to a nearby pawn shop\n"
+"to find it? …… Bone)"
+
+msgctxt "28600"
+msgid ""
+"（ちょうど持っていることだし、やってみようか\n"
+"　……骨）"
+msgstr "(I just have it, let's try it ... bone)"
+
+msgctxt "28657"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "28658"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "31200"
+msgid "Player"
+msgstr ""
+
+msgctxt "31207"
+msgid "おばさん"
+msgstr "Aunt"
+
+msgctxt "31216"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "31227"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "31236"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "31247"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "31255"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "31266"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "31278"
+msgid "吠える犬"
+msgstr "Barking dog"
+
+msgctxt "31287"
+msgid "dummy"
+msgstr ""
+
+msgctxt "31293"
+msgid "骨をやる"
+msgstr "Do the bones"
+
+msgctxt "31302"
+msgid "やらない"
+msgstr "Don't do"
+
+msgctxt "31311"
+msgid "P_KRU_SS_stand_pet_esa_lp"
+msgstr ""
+
+msgctxt "31337"
+msgid "P_KRU_SS_stand_pet_esa_st"
+msgstr ""
+
+msgctxt "31363"
+msgid "A_DOG_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "31385"
+msgid "A_DOG_TLK_stand_ikaku_ed"
+msgstr ""
+
+msgctxt "31410"
+msgid "A_DOG_TLK_sitgrd_lp"
+msgstr ""
+
+msgctxt "31430"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "31452"
+msgid "P_KRU_SS_stand_pet_esa_en"
+msgstr ""
+
+msgctxt "31478"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "31483"
+msgid "吠え続ける犬との絆"
+msgstr "Bonds with dogs that keep barking"
+
+msgctxt "31502"
+msgid "A_DOG_TLK_stand_ikaku_lp"
+msgstr ""
+
+msgctxt "31527"
+msgid "Talk_Smile"
+msgstr ""

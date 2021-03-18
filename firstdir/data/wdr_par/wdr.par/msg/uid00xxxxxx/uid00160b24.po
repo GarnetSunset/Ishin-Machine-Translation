@@ -1,0 +1,3288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "87592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "87593"
+msgid "アンタがトメさんか？"
+msgstr "Are you Tome-san?"
+
+msgctxt "87614"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "87661"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "87708"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "87709"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "87710"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "87759"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "87760"
+msgid "アンタがお深さんか？"
+msgstr "Are you deep?"
+
+msgctxt "87781"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "87828"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "87875"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "87876"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "87877"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "87926"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "87927"
+msgid "アンタがヨシ子さんか？"
+msgstr "Are you Yoshiko-san?"
+
+msgctxt "87950"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "87997"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "88044"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88045"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88046"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "88095"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88096"
+msgid "アンタがキミさんか？"
+msgstr "Are you you?"
+
+msgctxt "88117"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "88164"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "88211"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88212"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88213"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "88262"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88263"
+msgid "アンタが妙さんか？"
+msgstr "Are you strange?"
+
+msgctxt "88282"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "88329"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "88376"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88377"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88378"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "88427"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88428"
+msgid "アンタが華さんか？"
+msgstr "Are you Hana?"
+
+msgctxt "88447"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "88494"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "88541"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88542"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88543"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "88592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88593"
+msgid "アンタが三吉か？"
+msgstr "Are you Miyoshi?"
+
+msgctxt "88610"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "88657"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "88704"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88705"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88706"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "88755"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88756"
+msgid "アンタが圭助か？"
+msgstr "Are you Keisuke?"
+
+msgctxt "88773"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "88820"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "88867"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88868"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88869"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "88918"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "88919"
+msgid "アンタが源之助か？"
+msgstr "Are you Gennosuke?"
+
+msgctxt "88938"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "88985"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "89032"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89033"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89034"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "89083"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89084"
+msgid "アンタが初太郎か？"
+msgstr "Are you Hatsutarou?"
+
+msgctxt "89103"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "89150"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "89197"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89198"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89199"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "89248"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89249"
+msgid "アンタが継右衛門か？"
+msgstr "Are you a successor?"
+
+msgctxt "89270"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "89317"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "89364"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89365"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89366"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "89415"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89416"
+msgid "アンタが雄之助か？"
+msgstr "Are you Yunosuke?"
+
+msgctxt "89435"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "89482"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "89529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89531"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "89580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89581"
+msgid "アンタが九蔵か？"
+msgstr "Are you Kyuzo?"
+
+msgctxt "89598"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "89645"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "89692"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89693"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89694"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "89743"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89744"
+msgid "アンタが団三郎か？"
+msgstr "Are you Dansaburo?"
+
+msgctxt "89763"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "89810"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "89857"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89858"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89859"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "89908"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "89909"
+msgid "アンタが定吉か？"
+msgstr "Are you Sadakichi?"
+
+msgctxt "89926"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "89973"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "90020"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90021"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90022"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "90071"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90072"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90073"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90074"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90075"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90076"
+msgid "「<Color:8>４０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 4000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "90125"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90126"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90127"
+msgid "「<Color:8>５０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 5000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "90176"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90177"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90178"
+msgid "「<Color:8>８０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 8000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "90227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90229"
+msgid "「<Color:8>７０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 7000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "90278"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90279"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90280"
+msgid "「<Color:8>１両<Color:Default>」をもらった"
+msgstr "\"<Color:8> 1 car<Color:Default> I got"
+
+msgctxt "90323"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90324"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90325"
+msgid "「<Color:8>６０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 6000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "90374"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90375"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90376"
+msgid "「<Color:8>８０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 8000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "90425"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90426"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90427"
+msgid "「<Color:8>８０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 8000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "90476"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90477"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90478"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90479"
+msgid "「<Color:8>６０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 6000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "90528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90530"
+msgid "「<Color:8>７５００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 7500 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "90579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90581"
+msgid "「<Color:8>１両２０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 2000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "90634"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90635"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90636"
+msgid "「<Color:8>１両<Color:Default>」をもらった"
+msgstr "\"<Color:8> 1 car<Color:Default> I got"
+
+msgctxt "90679"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90680"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90681"
+msgid "「<Color:8>１両５０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 5000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "90734"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90735"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90736"
+msgid "「<Color:8>９０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 9000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "90785"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90786"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90787"
+msgid "「<Color:8>１両２０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 2000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "90840"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90841"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90842"
+msgid "「<Color:8>１両２０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 2000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "90895"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90896"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90897"
+msgid "ああ、確かに渡したぞ。"
+msgstr "Oh, I did give it to you."
+
+msgctxt "90920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90921"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90922"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "90924"
+msgid "アンタがトメさんか？"
+msgstr "Are you Tome-san?"
+
+msgctxt "90945"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "90992"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "91039"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91040"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91041"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "91090"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91091"
+msgid "アンタがお深さんか？"
+msgstr "Are you deep?"
+
+msgctxt "91112"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "91159"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "91206"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91207"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91208"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "91257"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91258"
+msgid "アンタがヨシ子さんか？"
+msgstr "Are you Yoshiko-san?"
+
+msgctxt "91281"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "91328"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "91375"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91376"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91377"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "91426"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91427"
+msgid "アンタがキミさんか？"
+msgstr "Are you you?"
+
+msgctxt "91448"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "91495"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "91542"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91543"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91544"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "91593"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91594"
+msgid "アンタが妙さんか？"
+msgstr "Are you strange?"
+
+msgctxt "91613"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "91660"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "91707"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91708"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91709"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "91758"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91759"
+msgid "アンタが華さんか？"
+msgstr "Are you Hana?"
+
+msgctxt "91778"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "91825"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "91872"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91873"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91874"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "91923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "91924"
+msgid "アンタが三吉か？"
+msgstr "Are you Miyoshi?"
+
+msgctxt "91941"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "91988"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "92035"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92036"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92037"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "92086"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92087"
+msgid "アンタが圭助か？"
+msgstr "Are you Keisuke?"
+
+msgctxt "92104"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "92151"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "92198"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92199"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92200"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "92249"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92250"
+msgid "アンタが源之助か？"
+msgstr "Are you Gennosuke?"
+
+msgctxt "92269"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "92316"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "92363"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92364"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92365"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "92414"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92415"
+msgid "アンタが初太郎か？"
+msgstr "Are you Hatsutarou?"
+
+msgctxt "92434"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "92481"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "92528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92530"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "92579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92580"
+msgid "アンタが継右衛門か？"
+msgstr "Are you a successor?"
+
+msgctxt "92601"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "92648"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "92695"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92696"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92697"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "92746"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92747"
+msgid "アンタが雄之助か？"
+msgstr "Are you Yunosuke?"
+
+msgctxt "92766"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "92813"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "92860"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92861"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92862"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "92911"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "92912"
+msgid "アンタが九蔵か？"
+msgstr "Are you Kyuzo?"
+
+msgctxt "92929"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "92976"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "93023"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93024"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93025"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "93074"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93075"
+msgid "アンタが団三郎か？"
+msgstr "Are you Dansaburo?"
+
+msgctxt "93094"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "93141"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "93188"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93189"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93190"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "93239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93240"
+msgid "アンタが定吉か？"
+msgstr "Are you Sadakichi?"
+
+msgctxt "93257"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "93304"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "93351"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93352"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93353"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "93402"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93403"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93404"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93405"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93406"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93407"
+msgid "「<Color:8>４０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 4000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "93456"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93457"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93458"
+msgid "「<Color:8>５０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 5000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "93507"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93508"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93509"
+msgid "「<Color:8>８０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 8000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "93558"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93559"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93560"
+msgid "「<Color:8>７０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 7000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "93609"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93610"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93611"
+msgid "「<Color:8>１両<Color:Default>」をもらった"
+msgstr "\"<Color:8> 1 car<Color:Default> I got"
+
+msgctxt "93654"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93655"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93656"
+msgid "「<Color:8>６０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 6000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "93705"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93706"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93707"
+msgid "「<Color:8>８０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 8000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "93756"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93757"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93758"
+msgid "「<Color:8>８０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 8000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "93807"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93808"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93809"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93810"
+msgid "「<Color:8>６０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 6000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "93859"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93860"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93861"
+msgid "「<Color:8>７５００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 7500 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "93910"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93911"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93912"
+msgid "「<Color:8>１両２０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 2000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "93965"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93966"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "93967"
+msgid "「<Color:8>１両<Color:Default>」をもらった"
+msgstr "\"<Color:8> 1 car<Color:Default> I got"
+
+msgctxt "94010"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94011"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94012"
+msgid "「<Color:8>１両５０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 5000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "94065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94066"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94067"
+msgid "「<Color:8>９０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 9000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "94116"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94117"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94118"
+msgid "「<Color:8>１両２０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 2000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "94171"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94172"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94173"
+msgid "「<Color:8>１両２０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 2000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "94226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94228"
+msgid "ああ、確かに渡したぞ。"
+msgstr "Oh, I did give it to you."
+
+msgctxt "94251"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94252"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94253"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94254"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94255"
+msgid "アンタがトメさんか？"
+msgstr "Are you Tome-san?"
+
+msgctxt "94276"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "94323"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "94370"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94371"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94372"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "94421"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94422"
+msgid "アンタがお深さんか？"
+msgstr "Are you deep?"
+
+msgctxt "94443"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "94490"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "94537"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94538"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94539"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "94588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94589"
+msgid "アンタがヨシ子さんか？"
+msgstr "Are you Yoshiko-san?"
+
+msgctxt "94612"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "94659"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "94706"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94707"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94708"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "94757"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94758"
+msgid "アンタがキミさんか？"
+msgstr "Are you you?"
+
+msgctxt "94779"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "94826"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "94873"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94874"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94875"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "94924"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "94925"
+msgid "アンタが妙さんか？"
+msgstr "Are you strange?"
+
+msgctxt "94944"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "94991"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "95038"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95039"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95040"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "95089"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95090"
+msgid "アンタが華さんか？"
+msgstr "Are you Hana?"
+
+msgctxt "95109"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "95156"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "95203"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95204"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95205"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "95254"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95255"
+msgid "アンタが三吉か？"
+msgstr "Are you Miyoshi?"
+
+msgctxt "95272"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "95319"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "95366"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95367"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95368"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "95417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95418"
+msgid "アンタが圭助か？"
+msgstr "Are you Keisuke?"
+
+msgctxt "95435"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "95482"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "95529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95531"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "95580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95581"
+msgid "アンタが源之助か？"
+msgstr "Are you Gennosuke?"
+
+msgctxt "95600"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "95647"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "95694"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95695"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95696"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "95745"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95746"
+msgid "アンタが初太郎か？"
+msgstr "Are you Hatsutarou?"
+
+msgctxt "95765"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "95812"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "95859"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95860"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95861"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "95910"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "95911"
+msgid "アンタが継右衛門か？"
+msgstr "Are you a successor?"
+
+msgctxt "95932"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "95979"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "96026"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96027"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96028"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "96077"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96078"
+msgid "アンタが雄之助か？"
+msgstr "Are you Yunosuke?"
+
+msgctxt "96097"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "96144"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "96191"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96192"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96193"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "96242"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96243"
+msgid "アンタが九蔵か？"
+msgstr "Are you Kyuzo?"
+
+msgctxt "96260"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "96307"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "96354"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96355"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96356"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "96405"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96406"
+msgid "アンタが団三郎か？"
+msgstr "Are you Dansaburo?"
+
+msgctxt "96425"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "96472"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "96519"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96520"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96521"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "96570"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96571"
+msgid "アンタが定吉か？"
+msgstr "Are you Sadakichi?"
+
+msgctxt "96588"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "96635"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "96682"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96683"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96684"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "96733"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96734"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96735"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96736"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96737"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96738"
+msgid "「<Color:8>４０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 4000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "96787"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96788"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96789"
+msgid "「<Color:8>５０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 5000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "96838"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96839"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96840"
+msgid "「<Color:8>８０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 8000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "96889"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96890"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96891"
+msgid "「<Color:8>７０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 7000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "96940"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96942"
+msgid "「<Color:8>１両<Color:Default>」をもらった"
+msgstr "\"<Color:8> 1 car<Color:Default> I got"
+
+msgctxt "96985"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96986"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "96987"
+msgid "「<Color:8>６０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 6000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "97036"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97037"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97038"
+msgid "「<Color:8>８０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 8000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "97087"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97088"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97089"
+msgid "「<Color:8>８０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 8000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "97138"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97139"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97140"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97141"
+msgid "「<Color:8>６０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 6000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "97190"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97191"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97192"
+msgid "「<Color:8>７５００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 7500 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "97241"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97242"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97243"
+msgid "「<Color:8>１両２０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 2000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "97296"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97297"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97298"
+msgid "「<Color:8>１両<Color:Default>」をもらった"
+msgstr "\"<Color:8> 1 car<Color:Default> I got"
+
+msgctxt "97341"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97342"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97343"
+msgid "「<Color:8>１両５０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 5000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "97396"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97397"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97398"
+msgid "「<Color:8>９０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 9000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "97447"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97448"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97449"
+msgid "「<Color:8>１両２０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 2000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "97502"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97503"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97504"
+msgid "「<Color:8>１両２０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 2000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "97557"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97558"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97559"
+msgid "ああ、確かに渡したぞ。"
+msgstr "Oh, I did give it to you."
+
+msgctxt "97582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97584"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97585"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97586"
+msgid "アンタがトメさんか？"
+msgstr "Are you Tome-san?"
+
+msgctxt "97607"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "97654"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "97701"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97702"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97703"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "97752"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97753"
+msgid "アンタがお深さんか？"
+msgstr "Are you deep?"
+
+msgctxt "97774"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "97821"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "97868"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97869"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97870"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "97919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "97920"
+msgid "アンタがヨシ子さんか？"
+msgstr "Are you Yoshiko-san?"
+
+msgctxt "97943"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "97990"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "98037"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98038"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98039"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "98088"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98089"
+msgid "アンタがキミさんか？"
+msgstr "Are you you?"
+
+msgctxt "98110"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "98157"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "98204"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98205"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98206"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "98255"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98256"
+msgid "アンタが妙さんか？"
+msgstr "Are you strange?"
+
+msgctxt "98275"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "98322"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "98369"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98370"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98371"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "98420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98421"
+msgid "アンタが華さんか？"
+msgstr "Are you Hana?"
+
+msgctxt "98440"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "98487"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "98534"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98535"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98536"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "98585"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98586"
+msgid "アンタが三吉か？"
+msgstr "Are you Miyoshi?"
+
+msgctxt "98603"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "98650"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "98697"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98699"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "98748"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98749"
+msgid "アンタが圭助か？"
+msgstr "Are you Keisuke?"
+
+msgctxt "98766"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "98813"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "98860"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98861"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98862"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "98911"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "98912"
+msgid "アンタが源之助か？"
+msgstr "Are you Gennosuke?"
+
+msgctxt "98931"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "98978"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "99025"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99026"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99027"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "99076"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99077"
+msgid "アンタが初太郎か？"
+msgstr "Are you Hatsutarou?"
+
+msgctxt "99096"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "99143"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "99190"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99191"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99192"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "99241"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99242"
+msgid "アンタが継右衛門か？"
+msgstr "Are you a successor?"
+
+msgctxt "99263"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "99310"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "99357"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99358"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99359"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "99408"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99409"
+msgid "アンタが雄之助か？"
+msgstr "Are you Yunosuke?"
+
+msgctxt "99428"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "99475"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "99522"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99523"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99524"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "99573"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99574"
+msgid "アンタが九蔵か？"
+msgstr "Are you Kyuzo?"
+
+msgctxt "99591"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "99638"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "99685"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99686"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99687"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "99736"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99737"
+msgid "アンタが団三郎か？"
+msgstr "Are you Dansaburo?"
+
+msgctxt "99756"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "99803"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "99850"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99851"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99852"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "99901"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "99902"
+msgid "アンタが定吉か？"
+msgstr "Are you Sadakichi?"
+
+msgctxt "99919"
+msgid ""
+"アンタ宛ての荷物を持ってきた。\n"
+"確認してくれ。"
+msgstr "I brought my luggage to you. Please check."
+
+msgctxt "99966"
+msgid "「<Color:8>飛脚の荷物<Color:Default>」を渡した"
+msgstr ""
+"\"<Color:8> Hikyaku luggage<Color:Default>\n"
+"Passed"
+
+msgctxt "100013"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100014"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100015"
+msgid ""
+"ありがとう。\n"
+"これ代金です、受け取ってください。"
+msgstr ""
+"Thank you. This is the price, please receive\n"
+"it."
+
+msgctxt "100064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100066"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100067"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100068"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100069"
+msgid "「<Color:8>４０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 4000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "100118"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100119"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100120"
+msgid "「<Color:8>５０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 5000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "100169"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100170"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100171"
+msgid "「<Color:8>８０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 8000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "100220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100222"
+msgid "「<Color:8>７０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 7000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "100271"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100272"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100273"
+msgid "「<Color:8>１両<Color:Default>」をもらった"
+msgstr "\"<Color:8> 1 car<Color:Default> I got"
+
+msgctxt "100316"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100317"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100318"
+msgid "「<Color:8>６０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 6000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "100367"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100368"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100369"
+msgid "「<Color:8>８０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 8000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "100418"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100420"
+msgid "「<Color:8>８０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 8000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "100469"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100470"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100471"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100472"
+msgid "「<Color:8>６０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 6000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "100521"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100522"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100523"
+msgid "「<Color:8>７５００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 7500 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "100572"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100573"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100574"
+msgid "「<Color:8>１両２０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 2000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "100627"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100628"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100629"
+msgid "「<Color:8>１両<Color:Default>」をもらった"
+msgstr "\"<Color:8> 1 car<Color:Default> I got"
+
+msgctxt "100672"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100673"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100674"
+msgid "「<Color:8>１両５０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 5000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "100727"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100728"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100729"
+msgid "「<Color:8>９０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 9000 sentences<Color:Default>\n"
+"I got"
+
+msgctxt "100778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100779"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100780"
+msgid "「<Color:8>１両２０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 2000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "100833"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100834"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100835"
+msgid "「<Color:8>１両２０００文<Color:Default>」をもらった"
+msgstr ""
+"\"<Color:8> 2000 sentences per car<Color:Default>\n"
+"I got"
+
+msgctxt "100888"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100889"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100890"
+msgid "ああ、確かに渡したぞ。"
+msgstr "Oh, I did give it to you."
+
+msgctxt "100913"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100914"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100915"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "100992"
+msgid "Player"
+msgstr ""
+
+msgctxt "100999"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "101004"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "101014"
+msgid "トメ"
+msgstr "Tome"
+
+msgctxt "101019"
+msgid "お深"
+msgstr "Deep"
+
+msgctxt "101024"
+msgid "ヨシ子"
+msgstr "Yoshiko"
+
+msgctxt "101031"
+msgid "キミ"
+msgstr "you"
+
+msgctxt "101036"
+msgid "妙"
+msgstr "wonderful"
+
+msgctxt "101039"
+msgid "華"
+msgstr "China"
+
+msgctxt "101042"
+msgid "三吉"
+msgstr "Miyoshi"
+
+msgctxt "101047"
+msgid "圭助"
+msgstr "Keisuke"
+
+msgctxt "101052"
+msgid "源之助"
+msgstr "Gennosuke"
+
+msgctxt "101059"
+msgid "初太郎"
+msgstr "Hatsutarou"
+
+msgctxt "101066"
+msgid "継右衛門"
+msgstr "Tsugeemon"
+
+msgctxt "101075"
+msgid "雄之助"
+msgstr "Yunosuke"
+
+msgctxt "101082"
+msgid "九蔵"
+msgstr "Kyuzo"
+
+msgctxt "101087"
+msgid "団三郎"
+msgstr "Dansaburo"
+
+msgctxt "101094"
+msgid "定吉"
+msgstr "Seiki"
+
+msgctxt "101099"
+msgid "dummy"
+msgstr ""

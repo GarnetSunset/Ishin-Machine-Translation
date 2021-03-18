@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1668"
+msgid "タイプ選択。"
+msgstr "Type selection."
+
+msgctxt "1681"
+msgid "タフネスＺちょうだい。"
+msgstr "Give me toughness Z."
+
+msgctxt "1704"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1705"
+msgid "ありがとう。"
+msgstr "Thank you."
+
+msgctxt "1718"
+msgid "ありがとう。でもこれ違う。"
+msgstr "Thank you. But this is different."
+
+msgctxt "1745"
+msgid "けちんぼ。"
+msgstr "Kechinbo."
+
+msgctxt "1756"
+msgid "食い物下さい。"
+msgstr "Please eat."
+
+msgctxt "1771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1772"
+msgid "野菜下さい。"
+msgstr "Please give me vegetables."
+
+msgctxt "1785"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1786"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1787"
+msgid "わん！"
+msgstr "Wow!"
+
+msgctxt "1794"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1795"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1796"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1797"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1798"
+msgid "終了。"
+msgstr "Finished."
+
+msgctxt "1880"
+msgid "テスト"
+msgstr "test"
+
+msgctxt "1887"
+msgid "通常プレゼント"
+msgstr "Regular gift"
+
+msgctxt "1902"
+msgid "食糧プレゼント"
+msgstr "Food gifts"
+
+msgctxt "1917"
+msgid "野菜プレゼント"
+msgstr "Vegetable gift"
+
+msgctxt "1932"
+msgid "キャバプレゼント"
+msgstr "Kyaba present"
+
+msgctxt "1949"
+msgid "動物プレゼント"
+msgstr "Animal gifts"
+
+msgctxt "1964"
+msgid "アイテム貰う"
+msgstr "Get the item"
+
+msgctxt "1977"
+msgid "武器貰う"
+msgstr "Get a weapon"
+
+msgctxt "1986"
+msgid "防具貰う"
+msgstr "Get armor"
+
+msgctxt "1995"
+msgid "やめる"
+msgstr "Stop"
+
+msgctxt "2002"
+msgid "欲しがる人"
+msgstr "Who wants"
+
+msgctxt "2013"
+msgid "通常"
+msgstr "Normal"
+
+msgctxt "2018"
+msgid "V"
+msgstr ""
+
+msgctxt "2020"
+msgid "農作"
+msgstr "Farming"
+
+msgctxt "2025"
+msgid "嬢"
+msgstr "Miss"
+
+msgctxt "2028"
+msgid "Y"
+msgstr ""
+
+msgctxt "2030"
+msgid "動物の人"
+msgstr "Animal person"
+
+msgctxt "2039"
+msgid "D"
+msgstr ""

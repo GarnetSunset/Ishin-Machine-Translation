@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "IGNORE_WORD_0"
+msgid "徳川に傾く"
+msgstr "Lean to Tokugawa"
+
+msgctxt "IGNORE_WORD_1"
+msgid "大黒柱"
+msgstr "mainstay"
+
+msgctxt "IGNORE_WORD_2"
+msgid "禿げ"
+msgstr "Bald"
+
+msgctxt "IGNORE_WORD_3"
+msgid "地図指南"
+msgstr "Map instruction"
+
+msgctxt "IGNORE_WORD_4"
+msgid "出雲阿国"
+msgstr "Izumo no Okuni"
+
+msgctxt "IGNORE_WORD_5"
+msgid "最近江戸"
+msgstr "Recently Edo"
+
+msgctxt "IGNORE_WORD_6"
+msgid "近江屋"
+msgstr "Omiya"
+
+msgctxt "IGNORE_WORD_7"
+msgid "ツケテクダサイ"
+msgstr "Tsuketekudasai"
+
+msgctxt "IGNORE_WORD_8"
+msgid "伏見一番街"
+msgstr "Fushimi Ichibangai"

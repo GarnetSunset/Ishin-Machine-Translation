@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "モモ"
+msgstr "peach"
+
+msgctxt "NAME_1"
+msgid "モトヒヨコ"
+msgstr "Moto chick"
+
+msgctxt "NAME_2"
+msgid "タレシオ"
+msgstr "Taratio"
+
+msgctxt "NAME_3"
+msgid "ナカズトベズ"
+msgstr "Nakazutobezu"
+
+msgctxt "NAME_4"
+msgid "コヤハカイシン"
+msgstr "Koyahakaishin"
+
+msgctxt "NAME_5"
+msgid "アゲタテ"
+msgstr "Agetate"
+
+msgctxt "NAME_6"
+msgid "マサカノトサカ"
+msgstr "Masaka Notosaka"
+
+msgctxt "NAME_7"
+msgid "ジドリキドリ"
+msgstr "Jidori Kidori"
+
+msgctxt "NAME_8"
+msgid "シャモドキ"
+msgstr "Shamodoki"
+
+msgctxt "NAME_9"
+msgid "ササミドリ"
+msgstr "Sasamidori"
+
+msgctxt "NAME_10"
+msgid "チャモドキ"
+msgstr "Chamodoki"
+
+msgctxt "NAME_11"
+msgid "トサノトサカ"
+msgstr "Tosano Tosaka"
+
+msgctxt "NAME_12"
+msgid "テバサキオウ"
+msgstr "Tebasakiou"
+
+msgctxt "NAME_13"
+msgid "ケンタ"
+msgstr "Kentah"
+
+msgctxt "NAME_14"
+msgid "カチンコーチン"
+msgstr "Kachin Cochin"
+
+msgctxt "NAME_15"
+msgid "リトワニ"
+msgstr "Lito crocodile"
+
+msgctxt "NAME_16"
+msgid "アゲモノ"
+msgstr "Agemono"
+
+msgctxt "NAME_17"
+msgid "ムスカ"
+msgstr "Muska"
+
+msgctxt "NAME_18"
+msgid "コヤイリムスメ"
+msgstr "Koyairimusume"
+
+msgctxt "NAME_19"
+msgid "ハネフブキ"
+msgstr "Hanefubuki"
+
+msgctxt "NAME_20"
+msgid "オオトリトリ"
+msgstr "Otoritori"
+
+msgctxt "NAME_21"
+msgid "ケイオウ"
+msgstr "Keiou"
+
+msgctxt "NAME_22"
+msgid "ヨウケイザン"
+msgstr "You Keizan"
+
+msgctxt "NAME_23"
+msgid "サツマコッコ"
+msgstr "Satsuma Kokko"
+
+msgctxt "NAME_24"
+msgid "トブガゴトク"
+msgstr "Tobugagotoku"
+
+msgctxt "NAME_25"
+msgid "カケッコッコ"
+msgstr "Kakekkokko"
+
+msgctxt "NAME_26"
+msgid "テンカトリ"
+msgstr "Tenkatori"
+
+msgctxt "NAME_27"
+msgid "ネトリメトリ"
+msgstr "Netrimetry"
+
+msgctxt "NAME_28"
+msgid "コヤノカミ"
+msgstr "Koyanokami"
+
+msgctxt "NAME_29"
+msgid "オットリ"
+msgstr "Ottori"

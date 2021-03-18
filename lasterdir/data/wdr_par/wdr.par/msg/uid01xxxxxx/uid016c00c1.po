@@ -1,0 +1,1031 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "20160"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20161"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20162"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20163"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20164"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20165"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20166"
+msgid "（さて、そろそろ行くかな……）"
+msgstr ""
+"(Well, I wonder if it's about time to go\n"
+"...)"
+
+msgctxt "20197"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20198"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20199"
+msgid ""
+"ああ、遥。\n"
+"ちょっと出てくる。"
+msgstr "Oh, Haruka. Come out a little."
+
+msgctxt "20230"
+msgid "うん。今日は遅くなりそう？"
+msgstr "Yup. Is it going to be late today?"
+
+msgctxt "20257"
+msgid "どうだろうな。分からん。"
+msgstr "How is it? can not understand."
+
+msgctxt "20282"
+msgid ""
+"気をつけてね。\n"
+"おじさん、いつも妙なことに巻き込まれたり、\n"
+"変な人に絡まれたりするから……"
+msgstr ""
+"be careful. Uncle, I'm always involved in\n"
+"strange things and get entangled with\n"
+"strange people ..."
+
+msgctxt "20373"
+msgid ""
+"安心しろ。\n"
+"俺だってそう毎回巻き込まれてばかりいないさ。\n"
+"大丈夫だ。……多分な。"
+msgstr ""
+"do not worry. I'm not always involved. Should\n"
+"be fine. ...... Maybe."
+
+msgctxt "20454"
+msgid ""
+"フフッ。だといいけど。\n"
+"まぁ、おじさん色々忙しいからね。\n"
+"ごゆっくりどうぞ。"
+msgstr ""
+"Huhhh. I hope it is. Well, my uncle is busy.\n"
+"Please take your time."
+
+msgctxt "20531"
+msgid "いつもすまないな。"
+msgstr "I'm always sorry."
+
+msgctxt "20550"
+msgid "帰ってきたら、お風呂に入る？"
+msgstr "Will you take a bath when you come back?"
+
+msgctxt "20579"
+msgid "多分遅くなると思う。"
+msgstr "I think it will be late."
+
+msgctxt "20600"
+msgid ""
+"分かった。じゃあきっと疲れて帰ってくるよね。\n"
+"お風呂、ちゃんとわかしておくね。"
+msgstr ""
+"Do you get it. Then I'm sure you'll be tired\n"
+"and come home. I'll keep the bath\n"
+"clean."
+
+msgctxt "20679"
+msgid "ああ。助かる。"
+msgstr "Oh. It helps."
+
+msgctxt "20694"
+msgid ""
+"気をつけてね。\n"
+"おじさん、いつも妙なことに巻き込まれたり、\n"
+"変な人に絡まれたりするから……"
+msgstr ""
+"be careful. Uncle, I'm always involved in\n"
+"strange things and get entangled with\n"
+"strange people ..."
+
+msgctxt "20785"
+msgid ""
+"安心しろ。\n"
+"俺だってそう毎回巻き込まれてばかりいないさ。\n"
+"大丈夫だ。……多分な。"
+msgstr ""
+"do not worry. I'm not always involved. Should\n"
+"be fine. ...... Maybe."
+
+msgctxt "20866"
+msgid ""
+"フフッ。だといいけど。\n"
+"まぁ、おじさん色々忙しいからね。\n"
+"ごゆっくりどうぞ。"
+msgstr ""
+"Huhhh. I hope it is. Well, my uncle is busy.\n"
+"Please take your time."
+
+msgctxt "20943"
+msgid "いつもすまないな。"
+msgstr "I'm always sorry."
+
+msgctxt "20962"
+msgid ""
+"そんなに遅くならないと思う。\n"
+"すぐに帰るよ。"
+msgstr ""
+"I don't think it will be so late. I'll be\n"
+"back soon."
+
+msgctxt "21007"
+msgid ""
+"本当？\n"
+"じゃあ、お風呂とか準備しなくて平気かな？\n"
+"帰ってきたら、お風呂に入る？"
+msgstr ""
+"For real? Then, are you okay without preparing\n"
+"a bath? Will you take a bath when\n"
+"you come back?"
+
+msgctxt "21086"
+msgid "ああ。入りたいな。"
+msgstr "Oh. I want to enter."
+
+msgctxt "21105"
+msgid "分かった。じゃあちゃんと準備しとくね。"
+msgstr "Do you get it. Then I'll prepare properly."
+
+msgctxt "21144"
+msgid "助かる。"
+msgstr "It helps."
+
+msgctxt "21153"
+msgid "いや、入らなくてもいいかな……"
+msgstr "No, I don't have to enter ..."
+
+msgctxt "21184"
+msgid ""
+"そう？　うーん、でもおじさん、\n"
+"いつも何だかんだでへとへとになって\n"
+"帰ってくるから……　やっぱり準備しとくよ。"
+msgstr ""
+"so? Hmmm, but uncle, I'm always exhausted\n"
+"and come home for some reason ... I'll\n"
+"prepare after all."
+
+msgctxt "21295"
+msgid "そうか。悪いな。"
+msgstr "Really. sorry."
+
+msgctxt "21312"
+msgid ""
+"あ、あとおじさん。\n"
+"よかったら、これ……"
+msgstr "Oh, and uncle. If you like, this ..."
+
+msgctxt "21353"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21354"
+msgid "「<Color:8>遥のおむすび<Color:Default>」を受け取った"
+msgstr ""
+"\"<Color:8> Haruka's rice ball<Color:Default>\n"
+"Received"
+
+msgctxt "21407"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21408"
+msgid ""
+"ちょっと不恰好になっちゃったんだけど……\n"
+"もし口に合わなかったら、捨ててもいいから……"
+msgstr ""
+"It's a little clunky, but ... if it doesn't\n"
+"fit, you can throw it away ..."
+
+msgctxt "21495"
+msgid "いや、うまそうだ。ありがとうな。"
+msgstr "No, it looks good. Thanks."
+
+msgctxt "21528"
+msgid "え、えへへへ……"
+msgstr "Eh, eh ..."
+
+msgctxt "21545"
+msgid "……それじゃあ、行ってくる。"
+msgstr "...... Then, I'm going."
+
+msgctxt "21574"
+msgid "うん。いってらっしゃい、おじさん。"
+msgstr "Yup. Welcome, uncle."
+
+msgctxt "21609"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21610"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21611"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21612"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21613"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21614"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21617"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21618"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21619"
+msgid "（さて、そろそろ行くかな……）"
+msgstr ""
+"(Well, I wonder if it's about time to go\n"
+"...)"
+
+msgctxt "21650"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21651"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21652"
+msgid ""
+"ああ、遥。\n"
+"ちょっと出てくる。"
+msgstr "Oh, Haruka. Come out a little."
+
+msgctxt "21683"
+msgid "うん。今日は遅くなりそう？"
+msgstr "Yup. Is it going to be late today?"
+
+msgctxt "21710"
+msgid "どうだろうな。分からん。"
+msgstr "How is it? can not understand."
+
+msgctxt "21735"
+msgid ""
+"気をつけてね。\n"
+"おじさん、いつも妙なことに巻き込まれたり、\n"
+"変な人に絡まれたりするから……"
+msgstr ""
+"be careful. Uncle, I'm always involved in\n"
+"strange things and get entangled with\n"
+"strange people ..."
+
+msgctxt "21826"
+msgid ""
+"安心しろ。\n"
+"俺だってそう毎回巻き込まれてばかりいないさ。\n"
+"大丈夫だ。……多分な。"
+msgstr ""
+"do not worry. I'm not always involved. Should\n"
+"be fine. ...... Maybe."
+
+msgctxt "21907"
+msgid ""
+"フフッ。だといいけど。\n"
+"まぁ、おじさん色々忙しいからね。\n"
+"ごゆっくりどうぞ。"
+msgstr ""
+"Huhhh. I hope it is. Well, my uncle is busy.\n"
+"Please take your time."
+
+msgctxt "21984"
+msgid "いつもすまないな。"
+msgstr "I'm always sorry."
+
+msgctxt "22003"
+msgid "帰ってきたら、お風呂に入る？"
+msgstr "Will you take a bath when you come back?"
+
+msgctxt "22032"
+msgid "多分遅くなると思う。"
+msgstr "I think it will be late."
+
+msgctxt "22053"
+msgid ""
+"分かった。じゃあきっと疲れて帰ってくるよね。\n"
+"お風呂、ちゃんとわかしておくね。"
+msgstr ""
+"Do you get it. Then I'm sure you'll be tired\n"
+"and come home. I'll keep the bath\n"
+"clean."
+
+msgctxt "22132"
+msgid "ああ。助かる。"
+msgstr "Oh. It helps."
+
+msgctxt "22147"
+msgid ""
+"気をつけてね。\n"
+"おじさん、いつも妙なことに巻き込まれたり、\n"
+"変な人に絡まれたりするから……"
+msgstr ""
+"be careful. Uncle, I'm always involved in\n"
+"strange things and get entangled with\n"
+"strange people ..."
+
+msgctxt "22238"
+msgid ""
+"安心しろ。\n"
+"俺だってそう毎回巻き込まれてばかりいないさ。\n"
+"大丈夫だ。……多分な。"
+msgstr ""
+"do not worry. I'm not always involved. Should\n"
+"be fine. ...... Maybe."
+
+msgctxt "22319"
+msgid ""
+"フフッ。だといいけど。\n"
+"まぁ、おじさん色々忙しいからね。\n"
+"ごゆっくりどうぞ。"
+msgstr ""
+"Huhhh. I hope it is. Well, my uncle is busy.\n"
+"Please take your time."
+
+msgctxt "22396"
+msgid "いつもすまないな。"
+msgstr "I'm always sorry."
+
+msgctxt "22415"
+msgid ""
+"そんなに遅くならないと思う。\n"
+"すぐに帰るよ。"
+msgstr ""
+"I don't think it will be so late. I'll be\n"
+"back soon."
+
+msgctxt "22460"
+msgid ""
+"本当？\n"
+"じゃあ、お風呂とか準備しなくて平気かな？\n"
+"帰ってきたら、お風呂に入る？"
+msgstr ""
+"For real? Then, are you okay without preparing\n"
+"a bath? Will you take a bath when\n"
+"you come back?"
+
+msgctxt "22539"
+msgid "ああ。入りたいな。"
+msgstr "Oh. I want to enter."
+
+msgctxt "22558"
+msgid "分かった。じゃあちゃんと準備しとくね。"
+msgstr "Do you get it. Then I'll prepare properly."
+
+msgctxt "22597"
+msgid "助かる。"
+msgstr "It helps."
+
+msgctxt "22606"
+msgid "いや、入らなくてもいいかな……"
+msgstr "No, I don't have to enter ..."
+
+msgctxt "22637"
+msgid ""
+"そう？　うーん、でもおじさん、\n"
+"いつも何だかんだでへとへとになって\n"
+"帰ってくるから……　やっぱり準備しとくよ。"
+msgstr ""
+"so? Hmmm, but uncle, I'm always exhausted\n"
+"and come home for some reason ... I'll\n"
+"prepare after all."
+
+msgctxt "22748"
+msgid "そうか。悪いな。"
+msgstr "Really. sorry."
+
+msgctxt "22765"
+msgid ""
+"あ、あとおじさん。\n"
+"よかったら、これ……"
+msgstr "Oh, and uncle. If you like, this ..."
+
+msgctxt "22806"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22807"
+msgid "「<Color:8>遥のおむすび<Color:Default>」を受け取った"
+msgstr ""
+"\"<Color:8> Haruka's rice ball<Color:Default>\n"
+"Received"
+
+msgctxt "22860"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22861"
+msgid ""
+"ちょっと不恰好になっちゃったんだけど……\n"
+"もし口に合わなかったら、捨ててもいいから……"
+msgstr ""
+"It's a little clunky, but ... if it doesn't\n"
+"fit, you can throw it away ..."
+
+msgctxt "22948"
+msgid "いや、うまそうだ。ありがとうな。"
+msgstr "No, it looks good. Thanks."
+
+msgctxt "22981"
+msgid "え、えへへへ……"
+msgstr "Eh, eh ..."
+
+msgctxt "22998"
+msgid "……それじゃあ、行ってくる。"
+msgstr "...... Then, I'm going."
+
+msgctxt "23027"
+msgid "うん。いってらっしゃい、おじさん。"
+msgstr "Yup. Welcome, uncle."
+
+msgctxt "23062"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23066"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23067"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23068"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23070"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23071"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23072"
+msgid "（さて、そろそろ行くかな……）"
+msgstr ""
+"(Well, I wonder if it's about time to go\n"
+"...)"
+
+msgctxt "23103"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23104"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23105"
+msgid ""
+"ああ、遥。\n"
+"ちょっと出てくる。"
+msgstr "Oh, Haruka. Come out a little."
+
+msgctxt "23136"
+msgid "あ、はい。なにとぞ、お気をつけて。"
+msgstr "Oh, yes. What are you careful about?"
+
+msgctxt "23171"
+msgid "うーん……　固いな。"
+msgstr "Hmm ... it's hard."
+
+msgctxt "23192"
+msgid "え？　な、なにがです？"
+msgstr "e? What is it?"
+
+msgctxt "23215"
+msgid ""
+"遥の俺への態度だ。\n"
+"これから一緒に過ごすんだ。\n"
+"もっと気さくに接してくれてかまわない。"
+msgstr ""
+"Haruka's attitude toward me. I'm going to\n"
+"spend time together. It doesn't matter\n"
+"if you treat me more friendly."
+
+msgctxt "23302"
+msgid ""
+"は、はい。\n"
+"わ、分かりました。斎藤さん。"
+msgstr "Yes. I understand. Mr. Saito."
+
+msgctxt "23343"
+msgid ""
+"うーん、どうするか……\n"
+"ひとまずその「斎藤さん」という呼び方を\n"
+"変えてみるか。"
+msgstr ""
+"Well, what should I do ... Let's change\n"
+"the name \"Mr. Saito\" for the time being."
+
+msgctxt "23422"
+msgid ""
+"え？　は、はい。\n"
+"では……　なんて呼べばいいでしょう？"
+msgstr "e? Yes. Then ... what should I call?"
+
+msgctxt "23477"
+msgid "そうだな……"
+msgstr "That's right ..."
+
+msgctxt "23490"
+msgid "さっちゃん、なんてどうだ。"
+msgstr "How about Sacchan?"
+
+msgctxt "23517"
+msgid ""
+"さ、さっちゃん……\n"
+"うーん。距離感が近すぎるというか、\n"
+"友達気分すぎるような。"
+msgstr ""
+"Well, Sacchan ... Hmm. The sense of distance\n"
+"is too close, or it feels like a friend."
+
+msgctxt "23596"
+msgid ""
+"確かに、俺もそんな呼ばれ方はしたくないな。\n"
+"やめるか。それじゃあ……"
+msgstr ""
+"Certainly, I don't want to be called that\n"
+"way either. Do you want to stop? Well\n"
+"then……"
+
+msgctxt "23665"
+msgid "はじめちゃん、なんてどうだ。"
+msgstr "How about Hajime-chan?"
+
+msgctxt "23694"
+msgid ""
+"は、はじめちゃん……\n"
+"ちょっと、違和感を感じますね。\n"
+"逆に呼びにくいかも……"
+msgstr ""
+"Hajime-chan ... I feel a little strange.\n"
+"On the contrary, it may be difficult to\n"
+"call ..."
+
+msgctxt "23771"
+msgid ""
+"そうか。まぁ、確かにな……\n"
+"それじゃあ……"
+msgstr "Really. Well, surely ... then ..."
+
+msgctxt "23814"
+msgid ""
+"あだ名で呼ばれるのもいまいちピンとこないしな……\n"
+"となると……　おじさん、とかか？"
+msgstr ""
+"It doesn't seem like it's called by a nickname\n"
+"... When it comes to ... Uncle?"
+
+msgctxt "23897"
+msgid ""
+"おじさん……\n"
+"確かに、なんかすごくしっくりきます。\n"
+"なんでだろう……"
+msgstr ""
+"Uncle ... Certainly, it feels really good.\n"
+"I wonder why ..."
+
+msgctxt "23966"
+msgid ""
+"……まぁもともと、老け顔だからな。\n"
+"実際の年はまだ、おじさんというほどでもないが。"
+msgstr ""
+"...... Well, it's because I have an old\n"
+"face. The actual year isn't even uncle."
+
+msgctxt "24049"
+msgid ""
+"あ、ご、ごめんなさい。\n"
+"失礼でしたよね……"
+msgstr "Oh, I'm sorry. It was rude ..."
+
+msgctxt "24092"
+msgid ""
+"いや、言い出したのは俺だし、かまわん。\n"
+"お前が呼びやすければ、それでいい。\n"
+"どうだ、呼びやすいか？"
+msgstr ""
+"No, I'm the one who said it, I don't mind.\n"
+"If you can easily call it, that's fine.\n"
+"How easy is it to call?"
+
+msgctxt "24191"
+msgid "はい……　すごく呼びやすいです。"
+msgstr "Yes ... it's very easy to call."
+
+msgctxt "24224"
+msgid ""
+"なら、それでいい。\n"
+"これからはもっと打ち解けてくれ。\n"
+"じゃあ、行ってくる。"
+msgstr ""
+"Then that's fine. From now on, please be\n"
+"more open. Well then, let's go."
+
+msgctxt "24299"
+msgid "は、はい！"
+msgstr "Yes!"
+
+msgctxt "24310"
+msgid "はい、じゃない。「うん」でいいぞ。"
+msgstr "Yes, not. \"Yeah\" is fine."
+
+msgctxt "24345"
+msgid ""
+"う、うん……！\n"
+"行ってらっしゃい。おじさん……！"
+msgstr "No……! Welcome. Uncle or Mister……!"
+
+msgctxt "24394"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24395"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24396"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24397"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24398"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24399"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "25200"
+msgid "dummy"
+msgstr ""
+
+msgctxt "25206"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "25211"
+msgid "m41030_al_miokuri"
+msgstr ""
+
+msgctxt "25229"
+msgid "kiryu_door_s02_001"
+msgstr ""
+
+msgctxt "25248"
+msgid "遥"
+msgstr "remote"
+
+msgctxt "25251"
+msgid "haruka_door_s02_003"
+msgstr ""
+
+msgctxt "25271"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "25280"
+msgid "分からない"
+msgstr "I do not understand"
+
+msgctxt "25291"
+msgid "遅くなる"
+msgstr "Become slow"
+
+msgctxt "25300"
+msgid "すぐ帰る"
+msgstr "Go home soon"
+
+msgctxt "25309"
+msgid "kiryu_door_s02_002"
+msgstr ""
+
+msgctxt "25328"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "25339"
+msgid "haruka_door_s02_004"
+msgstr ""
+
+msgctxt "25359"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "25367"
+msgid "kiryu_door_s02_003"
+msgstr ""
+
+msgctxt "25386"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "25398"
+msgid "haruka_door_s02_005"
+msgstr ""
+
+msgctxt "25418"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "25429"
+msgid "kiryu_door_s02_004"
+msgstr ""
+
+msgctxt "25448"
+msgid "haruka_door_s02_006"
+msgstr ""
+
+msgctxt "25468"
+msgid "入る"
+msgstr "enter"
+
+msgctxt "25473"
+msgid "入らない"
+msgstr "Do not fit"
+
+msgctxt "25482"
+msgid "kiryu_door_s02_011"
+msgstr ""
+
+msgctxt "25501"
+msgid "haruka_door_s02_013"
+msgstr ""
+
+msgctxt "25521"
+msgid "kiryu_door_s02_012"
+msgstr ""
+
+msgctxt "25540"
+msgid "kiryu_door_s02_013"
+msgstr ""
+
+msgctxt "25559"
+msgid "haruka_door_s02_014"
+msgstr ""
+
+msgctxt "25579"
+msgid "kiryu_door_s02_005"
+msgstr ""
+
+msgctxt "25598"
+msgid "haruka_door_s02_007"
+msgstr ""
+
+msgctxt "25618"
+msgid "kiryu_door_s02_006"
+msgstr ""
+
+msgctxt "25637"
+msgid "kiryu_door_s02_007"
+msgstr ""
+
+msgctxt "25656"
+msgid "haruka_door_s02_008"
+msgstr ""
+
+msgctxt "25676"
+msgid "kiryu_door_s02_008"
+msgstr ""
+
+msgctxt "25695"
+msgid "haruka_door_s02_009"
+msgstr ""
+
+msgctxt "25715"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "25725"
+msgid "haruka_door_s02_010"
+msgstr ""
+
+msgctxt "25745"
+msgid "kiryu_door_s02_009"
+msgstr ""
+
+msgctxt "25764"
+msgid "haruka_door_s02_011"
+msgstr ""
+
+msgctxt "25784"
+msgid "kiryu_door_s02_010"
+msgstr ""
+
+msgctxt "25803"
+msgid "haruka_door_s02_012"
+msgstr ""
+
+msgctxt "25823"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "25833"
+msgid "m41000_al_miokuri"
+msgstr ""
+
+msgctxt "25851"
+msgid "kiryu_door_s01_001"
+msgstr ""
+
+msgctxt "25870"
+msgid "haruka_door_s01_003"
+msgstr ""
+
+msgctxt "25890"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "25901"
+msgid "kaiwabgm_apathy_01"
+msgstr ""
+
+msgctxt "25920"
+msgid "kiryu_door_s01_002"
+msgstr ""
+
+msgctxt "25939"
+msgid "haruka_door_s01_004"
+msgstr ""
+
+msgctxt "25959"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "25969"
+msgid "kiryu_door_s01_003"
+msgstr ""
+
+msgctxt "25988"
+msgid "haruka_door_s01_005"
+msgstr ""
+
+msgctxt "26008"
+msgid "kiryu_door_s01_004"
+msgstr ""
+
+msgctxt "26027"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "26038"
+msgid "haruka_door_s01_006"
+msgstr ""
+
+msgctxt "26058"
+msgid "kiryu_door_s01_005"
+msgstr ""
+
+msgctxt "26077"
+msgid "おじさん"
+msgstr "Uncle or Mister"
+
+msgctxt "26086"
+msgid "はじめちゃん"
+msgstr "Hajime-chan"
+
+msgctxt "26099"
+msgid "さっちゃん"
+msgstr "Satchan"
+
+msgctxt "26110"
+msgid "kiryu_door_s01_013"
+msgstr ""
+
+msgctxt "26129"
+msgid "haruka_door_s01_013"
+msgstr ""
+
+msgctxt "26149"
+msgid "kiryu_door_s01_014"
+msgstr ""
+
+msgctxt "26168"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "26181"
+msgid "kiryu_door_s01_011"
+msgstr ""
+
+msgctxt "26200"
+msgid "haruka_door_s01_012"
+msgstr ""
+
+msgctxt "26220"
+msgid "kiryu_door_s01_012"
+msgstr ""
+
+msgctxt "26239"
+msgid "kiryu_door_s01_006"
+msgstr ""
+
+msgctxt "26258"
+msgid "haruka_door_s01_007"
+msgstr ""
+
+msgctxt "26278"
+msgid "kiryu_door_s01_007"
+msgstr ""
+
+msgctxt "26297"
+msgid "haruka_door_s01_008"
+msgstr ""
+
+msgctxt "26317"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "26328"
+msgid "kiryu_door_s01_008"
+msgstr ""
+
+msgctxt "26347"
+msgid "haruka_door_s01_009"
+msgstr ""
+
+msgctxt "26367"
+msgid "kiryu_door_s01_009"
+msgstr ""
+
+msgctxt "26386"
+msgid "haruka_door_s01_010"
+msgstr ""
+
+msgctxt "26406"
+msgid "kiryu_door_s01_010"
+msgstr ""
+
+msgctxt "26425"
+msgid "haruka_door_s01_011"
+msgstr ""

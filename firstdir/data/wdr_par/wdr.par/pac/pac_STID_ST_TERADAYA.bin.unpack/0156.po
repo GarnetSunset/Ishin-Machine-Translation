@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1696"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1697"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1699"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1700"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1701"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1702"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1703"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1704"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1705"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1706"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1736"
+msgid "7e008270"
+msgstr ""
+
+msgctxt "1745"
+msgid "7e008090"
+msgstr ""
+
+msgctxt "1754"
+msgid "7e008020"
+msgstr ""
+
+msgctxt "1763"
+msgid "7e008040"
+msgstr ""
+
+msgctxt "1772"
+msgid "7e008060"
+msgstr ""
+
+msgctxt "1781"
+msgid "7e008030"
+msgstr ""
+
+msgctxt "1790"
+msgid "7e008240"
+msgstr ""

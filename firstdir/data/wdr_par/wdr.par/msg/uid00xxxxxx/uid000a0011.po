@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2904"
+msgid "なかなかやるやないか。"
+msgstr "Isn't it easy to do it?"
+
+msgctxt "2927"
+msgid "場も温まっとるし、お前も続けて１曲歌えや？"
+msgstr ""
+"The place warms up, and you can sing one\n"
+"song in a row?"
+
+msgctxt "2970"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2971"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2972"
+msgid ""
+"そうか……\n"
+"まぁ気が向いたら声かけてくれや。"
+msgstr ""
+"I see ... Well, if you feel like it, please\n"
+"call me."
+
+msgctxt "3017"
+msgid "正直、１人の方がよかったわ。"
+msgstr "To be honest, one person was better."
+
+msgctxt "3046"
+msgid "…………"
+msgstr ""
+
+msgctxt "3055"
+msgid "全然ウケんかったな。恥ずかしい思いをしたわ……"
+msgstr ""
+"I wasn't happy at all. I was embarrassed\n"
+"..."
+
+msgctxt "3102"
+msgid "大したもんや。才能あるな。"
+msgstr "It's a big deal. I'm talented."
+
+msgctxt "3129"
+msgid "場も温まっとるし、お前も続けて１曲歌えや？"
+msgstr ""
+"The place warms up, and you can sing one\n"
+"song in a row?"
+
+msgctxt "3172"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3173"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3174"
+msgid ""
+"そうか……\n"
+"まぁ気が向いたら声かけてくれや。"
+msgstr ""
+"I see ... Well, if you feel like it, please\n"
+"call me."
+
+msgctxt "3219"
+msgid "上手いやないか。よかったで。"
+msgstr "Isn't it good? It was good."
+
+msgctxt "3248"
+msgid ""
+"なかなかウケたみたいやな。\n"
+"次はもっと上手くやりたいのう。"
+msgstr ""
+"It looks like it was pretty cool. I want\n"
+"to do better next time."
+
+msgctxt "3307"
+msgid "耳障りとは、このことやな……"
+msgstr "This is what is jarring ..."
+
+msgctxt "3336"
+msgid "…………"
+msgstr ""
+
+msgctxt "3345"
+msgid "全然ウケんかったな。恥ずかしい思いをしたわ……"
+msgstr ""
+"I wasn't happy at all. I was embarrassed\n"
+"..."
+
+msgctxt "3392"
+msgid "胸の高鳴りが止まらんわ……！"
+msgstr "I can't stop the screaming of my chest ...!"
+
+msgctxt "3421"
+msgid "まさかこんなに盛り上がるとはな。またやろうや。"
+msgstr ""
+"I don't think it will be so exciting. Let's\n"
+"do it again."
+
+msgctxt "3532"
+msgid "永倉"
+msgstr "Nagakura"
+
+msgctxt "3537"
+msgid "saejima_game_utagoe_06"
+msgstr ""
+
+msgctxt "3560"
+msgid "saejima_game_utagoe_08"
+msgstr ""
+
+msgctxt "3583"
+msgid "歌う"
+msgstr "sing"
+
+msgctxt "3588"
+msgid "歌わない"
+msgstr "Don't sing"
+
+msgctxt "3597"
+msgid "saejima_game_utagoe_03"
+msgstr ""
+
+msgctxt "3620"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3626"
+msgid "saejima_game_utagoe_05"
+msgstr ""
+
+msgctxt "3649"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "3654"
+msgid "saejima_game_utagoe_14"
+msgstr ""
+
+msgctxt "3677"
+msgid "saejima_game_utagoe_07"
+msgstr ""
+
+msgctxt "3700"
+msgid "saejima_game_utagoe_10"
+msgstr ""
+
+msgctxt "3723"
+msgid "saejima_game_utagoe_13"
+msgstr ""
+
+msgctxt "3746"
+msgid "saejima_game_utagoe_09"
+msgstr ""
+
+msgctxt "3769"
+msgid "saejima_game_utagoe_11"
+msgstr ""
+
+msgctxt "3792"
+msgid "saejima_game_utagoe_12"
+msgstr ""

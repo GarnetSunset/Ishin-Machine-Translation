@@ -1,0 +1,345 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5192"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5193"
+msgid "ハァ……　ハァ……　貴様!!"
+msgstr "Huh ... Huh ... you !!"
+
+msgctxt "5220"
+msgid "…………"
+msgstr ""
+
+msgctxt "5229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5230"
+msgid "ぐは！"
+msgstr "Guha!"
+
+msgctxt "5237"
+msgid ""
+"あなたを斬ったところで徳川は滅びない。\n"
+"頭をすげかえて存続するだけだ。"
+msgstr ""
+"Tokugawa will not perish when you slash\n"
+"you. You just change your mind and survive."
+
+msgctxt "5308"
+msgid ""
+"今、それを倒すために勤王派が\n"
+"戦争の準備を始めている。"
+msgstr ""
+"Now, the Qin Wang faction is preparing for\n"
+"the war to defeat it."
+
+msgctxt "5363"
+msgid ""
+"ハァ……　ハァ……\n"
+"薩長同盟のことを言っているのか？"
+msgstr ""
+"Huh ... Huh ... Are you talking about the\n"
+"Satcho Alliance?"
+
+msgctxt "5416"
+msgid "そのことは御存知なんですね？"
+msgstr "Do you know that?"
+
+msgctxt "5445"
+msgid ""
+"当たり前だ。衰えたとはいえ、徳川の密偵は\n"
+"いたるところに潜り込んでいる……"
+msgstr ""
+"No wonder. Despite its decline, Tokugawa's\n"
+"spy are sneaking in everywhere ..."
+
+msgctxt "5520"
+msgid ""
+"今、その薩長と英国のグラバーって武器商人とを\n"
+"つなぐ、ある男がいます。"
+msgstr ""
+"Now, there is a man who connects the chief\n"
+"of the Satsuma with a British glover,\n"
+"a weapons merchant."
+
+msgctxt "5591"
+msgid ""
+"そいつは最新式の武器を船で運び、薩長を倒幕に\n"
+"焚きつけている。"
+msgstr ""
+"It carries state-of-the-art weapons by ship\n"
+"and burns Satsumacho to the defeat."
+
+msgctxt "5654"
+msgid ""
+"おそらく……　薩長の開戦準備は上様が\n"
+"考えているよりも進んでいます。"
+msgstr ""
+"Probably ... Satsuma's preparations for\n"
+"the start of the war are more advanced\n"
+"than he thinks."
+
+msgctxt "5723"
+msgid "もういつ火の手があがってもおかしくはない。"
+msgstr ""
+"It wouldn't be strange when the fire was\n"
+"raised."
+
+msgctxt "5766"
+msgid ""
+"……馬鹿な連中だ。\n"
+"今は、日本人同士で争っている場合じゃない。"
+msgstr ""
+
+msgctxt "5829"
+msgid "だが……　お前も薩長の一味なのか？"
+msgstr "But ... are you also a member of Satsumacho?"
+
+msgctxt "5864"
+msgid ""
+"俺は、日本人同士の戦争を避ける案を\n"
+"申し上げに参っただけです。"
+msgstr ""
+"I just came up with a plan to avoid a war\n"
+"between Japanese people."
+
+msgctxt "5927"
+msgid "戦争を避ける策……？"
+msgstr "Measures to avoid war ...?"
+
+msgctxt "5948"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5949"
+msgid "……これが？"
+msgstr ""
+
+msgctxt "5962"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5963"
+msgid "上様！"
+msgstr "emperor!"
+
+msgctxt "5970"
+msgid "こんな賊の言うことを聞く必要などありませんぞ！"
+msgstr "You don't have to listen to these thieves!"
+
+msgctxt "6017"
+msgid ""
+"……聞かなければこの男に斬られるだけだ。\n"
+"もちろん、お前もな。"
+msgstr ""
+
+msgctxt "6080"
+msgid "そ、そんな……"
+msgstr "Oh, that's ..."
+
+msgctxt "6095"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6096"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6097"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6098"
+msgid ""
+"おう。こっちは……\n"
+"済んだで、一（はじめ）ちゃん。\n"
+"ハァ……　ハァ……"
+msgstr ""
+"Let's go. This is ... I'm done, Ichi (Hajime)\n"
+"-chan. Huh ... Huh ..."
+
+msgctxt "6169"
+msgid "こっちももうすぐ済む。"
+msgstr "This will be done soon."
+
+msgctxt "6192"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6193"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7540"
+msgid "慶喜"
+msgstr "Yoshinobu"
+
+msgctxt "7545"
+msgid "nobu_c11_100_01"
+msgstr ""
+
+msgctxt "7561"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "7566"
+msgid "TLK_SCN002"
+msgstr ""
+
+msgctxt "7577"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "7588"
+msgid "nobu_c11_100_02"
+msgstr ""
+
+msgctxt "7604"
+msgid "kaiwabgm_adv_c11_100"
+msgstr ""
+
+msgctxt "7625"
+msgid "kiryu_c11_100_02"
+msgstr ""
+
+msgctxt "7642"
+msgid "TLK_SCN004"
+msgstr ""
+
+msgctxt "7653"
+msgid "kiryu_c11_100_02b"
+msgstr ""
+
+msgctxt "7671"
+msgid "nobu_c11_100_03"
+msgstr ""
+
+msgctxt "7687"
+msgid "kiryu_c11_100_03"
+msgstr ""
+
+msgctxt "7704"
+msgid "TLK_SCN006"
+msgstr ""
+
+msgctxt "7715"
+msgid "nobu_c11_100_04"
+msgstr ""
+
+msgctxt "7731"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "7742"
+msgid "kiryu_c11_100_04"
+msgstr ""
+
+msgctxt "7759"
+msgid "kiryu_c11_100_04b"
+msgstr ""
+
+msgctxt "7777"
+msgid "kiryu_c11_100_04c"
+msgstr ""
+
+msgctxt "7795"
+msgid "kiryu_c11_100_04d"
+msgstr ""
+
+msgctxt "7813"
+msgid "TLK_SCN008"
+msgstr ""
+
+msgctxt "7824"
+msgid "nobu_c11_100_05"
+msgstr ""
+
+msgctxt "7840"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "7851"
+msgid "nobu_c11_100_05b"
+msgstr ""
+
+msgctxt "7868"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "7879"
+msgid "kiryu_c11_100_05"
+msgstr ""
+
+msgctxt "7896"
+msgid "nobu_c11_100_06"
+msgstr ""
+
+msgctxt "7912"
+msgid "TLK_SCN010"
+msgstr ""
+
+msgctxt "7923"
+msgid "TLK_SCN009"
+msgstr ""
+
+msgctxt "7934"
+msgid "nobu_c11_100_07"
+msgstr ""
+
+msgctxt "7950"
+msgid "旗本"
+msgstr "Hatamoto"
+
+msgctxt "7955"
+msgid "hata_c11_100_01"
+msgstr ""
+
+msgctxt "7971"
+msgid "hata_c11_100_02"
+msgstr ""
+
+msgctxt "7987"
+msgid "nobu_c11_100_08"
+msgstr ""
+
+msgctxt "8003"
+msgid "hata_c11_100_03"
+msgstr ""
+
+msgctxt "8019"
+msgid "TLK_SCN011"
+msgstr ""
+
+msgctxt "8030"
+msgid "沖田"
+msgstr "Okita"
+
+msgctxt "8035"
+msgid "majima_c11_100_01"
+msgstr ""
+
+msgctxt "8053"
+msgid "TLK_SCN013"
+msgstr ""
+
+msgctxt "8064"
+msgid "dummy"
+msgstr ""
+
+msgctxt "8070"
+msgid "kiryu_c11_100_06"
+msgstr ""

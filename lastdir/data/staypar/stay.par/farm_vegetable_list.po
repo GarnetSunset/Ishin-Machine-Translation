@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "苺"
+msgstr "strawberry"
+
+msgctxt "NAME_1"
+msgid "蕪"
+msgstr "Wu"
+
+msgctxt "NAME_2"
+msgid "南瓜"
+msgstr "pumpkin"
+
+msgctxt "NAME_3"
+msgid "きゃべつ"
+msgstr "Cabbage"
+
+msgctxt "NAME_4"
+msgid "胡瓜"
+msgstr "cucumber"
+
+msgctxt "NAME_5"
+msgid "ごぼう"
+msgstr "Burdock"
+
+msgctxt "NAME_6"
+msgid "さつま芋"
+msgstr "Sweet potato"
+
+msgctxt "NAME_7"
+msgid "里芋"
+msgstr "taro"
+
+msgctxt "NAME_8"
+msgid "じゃが芋"
+msgstr "potato"
+
+msgctxt "NAME_9"
+msgid "生姜"
+msgstr "ginger"
+
+msgctxt "NAME_10"
+msgid "そら豆"
+msgstr "Broad beans"
+
+msgctxt "NAME_11"
+msgid "大根"
+msgstr "Radish"
+
+msgctxt "NAME_12"
+msgid "玉葱"
+msgstr "onion"
+
+msgctxt "NAME_13"
+msgid "唐辛子"
+msgstr "Chili"
+
+msgctxt "NAME_14"
+msgid "とまと"
+msgstr "Tomato"
+
+msgctxt "NAME_15"
+msgid "茄子"
+msgstr "eggplant"
+
+msgctxt "NAME_16"
+msgid "人参"
+msgstr "Ginseng"
+
+msgctxt "NAME_17"
+msgid "にんにく"
+msgstr "Garlic"
+
+msgctxt "NAME_18"
+msgid "葱"
+msgstr "shallot"
+
+msgctxt "NAME_19"
+msgid "白菜"
+msgstr "Chinese cabbage"
+
+msgctxt "NAME_20"
+msgid "ほうれん草"
+msgstr "spinach"
+
+msgctxt "NAME_21"
+msgid "朝鮮人参"
+msgstr "Ginseng"

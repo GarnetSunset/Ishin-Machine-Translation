@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1617"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1618"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1619"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1620"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1621"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1804"
+msgid "M_CHO_TLK_agura_kamae"
+msgstr ""

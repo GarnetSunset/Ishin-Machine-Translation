@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2848"
+msgid "yes。"
+msgstr ""
+
+msgctxt "2854"
+msgid "no。"
+msgstr ""
+
+msgctxt "2859"
+msgid "疑問。"
+msgstr "doubt."
+
+msgctxt "2866"
+msgid "お辞儀。"
+msgstr "bow."
+
+msgctxt "2875"
+msgid ""
+"嬉しい。\n"
+"（ラベルがない）"
+msgstr "happy. (No label)"
+
+msgctxt "2902"
+msgid "怒り。"
+msgstr "anger."
+
+msgctxt "2909"
+msgid "悲しい。"
+msgstr "sad."
+
+msgctxt "2918"
+msgid "驚き。"
+msgstr "surprise."
+
+msgctxt "2925"
+msgid "がっかり。"
+msgstr "Disappointed."
+
+msgctxt "2936"
+msgid "感心。"
+msgstr "Impressed."
+
+msgctxt "2943"
+msgid "笑う。"
+msgstr "laugh."
+
+msgctxt "2950"
+msgid "焦る。"
+msgstr "I'm impatient."
+
+msgctxt "2957"
+msgid "考える。"
+msgstr "Think."
+
+msgctxt "2966"
+msgid "お願いする。"
+msgstr "please."
+
+msgctxt "2979"
+msgid "呼びかける。"
+msgstr "Call."
+
+msgctxt "2992"
+msgid "案内正面。"
+msgstr "The front of the guide."
+
+msgctxt "3003"
+msgid "案内右。"
+msgstr "Guidance right."
+
+msgctxt "3012"
+msgid "案内左。"
+msgstr "Guidance left."
+
+msgctxt "3021"
+msgid "謝る。"
+msgstr "apologize."
+
+msgctxt "3028"
+msgid "物を渡す。物を受けとる。"
+msgstr "Hand over things. Receive things."
+
+msgctxt "3053"
+msgid ""
+"立ち→座り。\n"
+"※ActionTypeコメントアウト中。"
+msgstr ""
+"Standing → sitting. * Action Type is being\n"
+"commented out."
+
+msgctxt "3098"
+msgid ""
+"座り→立ち。\n"
+"※ActionTypeコメントアウト中。"
+msgstr ""
+"Sit → stand. * Action Type is being commented\n"
+"out."
+
+msgctxt "3143"
+msgid "歩く。"
+msgstr "walk."
+
+msgctxt "3150"
+msgid "走る。"
+msgstr "Run."
+
+msgctxt "3157"
+msgid "リセットして終了。"
+msgstr "Reset and exit."
+
+msgctxt "3176"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3288"
+msgid "動作確認さん"
+msgstr "Operation check"
+
+msgctxt "3301"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3310"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3318"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3329"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3340"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "3351"
+msgid "Talk_Sad"
+msgstr ""
+
+msgctxt "3360"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3370"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "3383"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "3395"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3406"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "3415"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "3426"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "3439"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "3449"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "3461"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "3473"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "3485"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "3496"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "3506"
+msgid "SitChair_st"
+msgstr ""
+
+msgctxt "3518"
+msgid "SitChair_ed"
+msgstr ""
+
+msgctxt "3530"
+msgid "0"
+msgstr ""

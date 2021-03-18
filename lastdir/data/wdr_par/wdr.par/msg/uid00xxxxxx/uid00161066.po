@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1729"
+msgid "……俺が用意したのは「<Color:8>きれいな毛皮<Color:Default>」を１０枚だ。"
+msgstr "...... I prepared \"<Color:8> Clean fur<Color:Default> \"Is 10 sheets."
+
+msgctxt "1802"
+msgid "「<Color:8>真珠<Color:Default>」を持って来てくれたら交換してやろう。"
+msgstr "\"<Color:8> pearl<Color:Default> If you bring me, I'll exchange it."
+
+msgctxt "1871"
+msgid "（どうするか……）"
+msgstr "(what to do……)"
+
+msgctxt "1890"
+msgid "いや、今はやめておこう。"
+msgstr "No, let's stop now."
+
+msgctxt "1915"
+msgid "そうか……"
+msgstr "Really……"
+
+msgctxt "1927"
+msgid ""
+"持ってないじゃないか！　お前、俺を騙そうとしたな!?\n"
+"次やったら、いくらお頭の友だとしても\n"
+"許さないからな！"
+msgstr ""
+"You don't have it! You tried to deceive me !? The next time I do it, I won't"
+" forgive you, no matter how much your friend is!"
+
+msgctxt "2035"
+msgid "「<Color:8>真珠<Color:Default>」を渡した"
+msgstr "\"<Color:8> pearl<Color:Default> Passed"
+
+msgctxt "2077"
+msgid "「<Color:8>きれいな毛皮<Color:Default>」を貰った"
+msgstr "\"<Color:8> Clean fur<Color:Default> I got"
+
+msgctxt "2127"
+msgid ""
+"……ああ、確かに貰った。\n"
+"また来てくれ。"
+msgstr "…… Oh, I did get it. Please come again."
+
+msgctxt "2284"
+msgid "疑い深い男"
+msgstr "Suspicious man"
+
+msgctxt "2302"
+msgid "真珠を渡す"
+msgstr "Hand over pearls"
+
+msgctxt "2313"
+msgid "やめておく"
+msgstr "Stop"

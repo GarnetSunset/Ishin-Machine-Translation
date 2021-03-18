@@ -1,0 +1,572 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "ID_0"
+msgid "rival0_hello"
+msgstr ""
+
+msgctxt "ID_1"
+msgid "rival0_goodbye"
+msgstr ""
+
+msgctxt "ID_2"
+msgid "rival0_start"
+msgstr ""
+
+msgctxt "ID_3"
+msgid "rival0_bet_hit"
+msgstr ""
+
+msgctxt "ID_4"
+msgid "rival0_bet_no_hit"
+msgstr ""
+
+msgctxt "ID_5"
+msgid "rival0_win"
+msgstr ""
+
+msgctxt "ID_6"
+msgid "rival0_lose"
+msgstr ""
+
+msgctxt "ID_7"
+msgid "rival0_dealer_throw"
+msgstr ""
+
+msgctxt "ID_8"
+msgid "rival0_no_bet"
+msgstr ""
+
+msgctxt "ID_9"
+msgid "rival0_bet"
+msgstr ""
+
+msgctxt "ID_10"
+msgid "rival0_bet_finish"
+msgstr ""
+
+msgctxt "ID_11"
+msgid "rival0_no_more_bet"
+msgstr ""
+
+msgctxt "ID_12"
+msgid "dealer_hello"
+msgstr ""
+
+msgctxt "ID_13"
+msgid "dealer_goodbye"
+msgstr ""
+
+msgctxt "ID_14"
+msgid "dealer_start"
+msgstr ""
+
+msgctxt "ID_15"
+msgid "dealer_win"
+msgstr ""
+
+msgctxt "ID_16"
+msgid "dealer_lose"
+msgstr ""
+
+msgctxt "ID_17"
+msgid "dealer_dealer_throw"
+msgstr ""
+
+msgctxt "ID_18"
+msgid "dealer_bet"
+msgstr ""
+
+msgctxt "ID_19"
+msgid "dealer_bet_finish"
+msgstr ""
+
+msgctxt "ID_20"
+msgid "Dealer_ThrowBall0"
+msgstr ""
+
+msgctxt "ID_21"
+msgid "Dealer_ThrowBall1"
+msgstr ""
+
+msgctxt "ID_22"
+msgid "Dealer_Kakehiki_for_winner"
+msgstr ""
+
+msgctxt "ID_23"
+msgid "Dealer_Kakehiki_for_loser"
+msgstr ""
+
+msgctxt "ID_24"
+msgid "rival1_hello"
+msgstr ""
+
+msgctxt "ID_25"
+msgid "rival1_goodbye"
+msgstr ""
+
+msgctxt "ID_26"
+msgid "rival1_start"
+msgstr ""
+
+msgctxt "ID_27"
+msgid "rival1_bet_hit"
+msgstr ""
+
+msgctxt "ID_28"
+msgid "rival1_bet_no_hit"
+msgstr ""
+
+msgctxt "ID_29"
+msgid "rival1_win"
+msgstr ""
+
+msgctxt "ID_30"
+msgid "rival1_lose"
+msgstr ""
+
+msgctxt "ID_31"
+msgid "rival1_dealer_throw"
+msgstr ""
+
+msgctxt "ID_32"
+msgid "rival1_no_bet"
+msgstr ""
+
+msgctxt "ID_33"
+msgid "rival1_bet"
+msgstr ""
+
+msgctxt "ID_34"
+msgid "rival1_bet_finish"
+msgstr ""
+
+msgctxt "ID_35"
+msgid "rival1_no_more_bet"
+msgstr ""
+
+msgctxt "ID_36"
+msgid "rival2_hello"
+msgstr ""
+
+msgctxt "ID_37"
+msgid "rival2_goodbye"
+msgstr ""
+
+msgctxt "ID_38"
+msgid "rival2_start"
+msgstr ""
+
+msgctxt "ID_39"
+msgid "rival2_bet_hit"
+msgstr ""
+
+msgctxt "ID_40"
+msgid "rival2_bet_no_hit"
+msgstr ""
+
+msgctxt "ID_41"
+msgid "rival2_win"
+msgstr ""
+
+msgctxt "ID_42"
+msgid "rival2_lose"
+msgstr ""
+
+msgctxt "ID_43"
+msgid "rival2_dealer_throw"
+msgstr ""
+
+msgctxt "ID_44"
+msgid "rival2_no_bet"
+msgstr ""
+
+msgctxt "ID_45"
+msgid "rival2_bet"
+msgstr ""
+
+msgctxt "ID_46"
+msgid "rival2_bet_finish"
+msgstr ""
+
+msgctxt "ID_47"
+msgid "rival2_no_more_bet"
+msgstr ""
+
+msgctxt "ID_48"
+msgid "tsubo_hello"
+msgstr ""
+
+msgctxt "ID_49"
+msgid "tsubo_goodbye"
+msgstr ""
+
+msgctxt "ID_50"
+msgid "tsubo_start"
+msgstr ""
+
+msgctxt "ID_51"
+msgid "tsubo_win"
+msgstr ""
+
+msgctxt "ID_52"
+msgid "tsubo_lose"
+msgstr ""
+
+msgctxt "ID_53"
+msgid "tsubo_dealer_throw"
+msgstr ""
+
+msgctxt "ID_54"
+msgid "tsubo_bet"
+msgstr ""
+
+msgctxt "ID_55"
+msgid "tsubo_bet_finish"
+msgstr ""
+
+msgctxt "ID_56"
+msgid "rival3_hello"
+msgstr ""
+
+msgctxt "ID_57"
+msgid "rival3_goodbye"
+msgstr ""
+
+msgctxt "ID_58"
+msgid "rival3_start"
+msgstr ""
+
+msgctxt "ID_59"
+msgid "rival3_bet_hit"
+msgstr ""
+
+msgctxt "ID_60"
+msgid "rival3_bet_no_hit"
+msgstr ""
+
+msgctxt "ID_61"
+msgid "rival3_win"
+msgstr ""
+
+msgctxt "ID_62"
+msgid "rival3_lose"
+msgstr ""
+
+msgctxt "ID_63"
+msgid "rival3_dealer_throw"
+msgstr ""
+
+msgctxt "ID_64"
+msgid "rival3_no_bet"
+msgstr ""
+
+msgctxt "ID_65"
+msgid "rival3_bet"
+msgstr ""
+
+msgctxt "ID_66"
+msgid "rival3_bet_finish"
+msgstr ""
+
+msgctxt "ID_67"
+msgid "rival3_no_more_bet"
+msgstr ""
+
+msgctxt "POPUP_0"
+msgid "よろしくね"
+msgstr "Nice to meet you"
+
+msgctxt "POPUP_1"
+msgid "お疲れ"
+msgstr "Tired"
+
+msgctxt "POPUP_2"
+msgid "頑張ります"
+msgstr "I will do my best"
+
+msgctxt "POPUP_3"
+msgid "当たり！"
+msgstr "Hit!"
+
+msgctxt "POPUP_4"
+msgid "あちゃー…"
+msgstr "Acha ..."
+
+msgctxt "POPUP_5"
+msgid "勝ちました"
+msgstr "Won"
+
+msgctxt "POPUP_6"
+msgid "負けました"
+msgstr "lost"
+
+msgctxt "POPUP_7"
+msgid "dealer_throw"
+msgstr ""
+
+msgctxt "POPUP_8"
+msgid "様子見"
+msgstr "Wait and see"
+
+msgctxt "POPUP_9"
+msgid "ここしかない！"
+msgstr "Only here!"
+
+msgctxt "POPUP_10"
+msgid "これで勝負だ！"
+msgstr "This is a game!"
+
+msgctxt "POPUP_11"
+msgid "no_more_bet"
+msgstr ""
+
+msgctxt "POPUP_12"
+msgid "よろしくお願いします。"
+msgstr "Thank you."
+
+msgctxt "POPUP_13"
+msgid "さようなら"
+msgstr "Goodbye"
+
+msgctxt "POPUP_14"
+msgid "ここです"
+msgstr "Here is"
+
+msgctxt "POPUP_15"
+msgid "これで行きます"
+msgstr "I will go with this"
+
+msgctxt "POPUP_16"
+msgid "いきますよ！"
+msgstr "I will go!"
+
+msgctxt "POPUP_17"
+msgid "はじめますよ！"
+msgstr "Let's get started!"
+
+msgctxt "POPUP_18"
+msgid "<!--Name-->さん、大きく賭けていますね"
+msgstr ""
+
+msgctxt "POPUP_19"
+msgid "<!--Name-->さん、まだまだこれからですよ"
+msgstr ""
+
+msgctxt "POPUP_20"
+msgid "よろしくっす"
+msgstr "Nice to meet you"
+
+msgctxt "POPUP_21"
+msgid "出直しっす"
+msgstr "Re-start"
+
+msgctxt "POPUP_22"
+msgid "頑張るっすよ！"
+msgstr "I'll do my best!"
+
+msgctxt "POPUP_23"
+msgid "おっ"
+msgstr "Oh"
+
+msgctxt "POPUP_24"
+msgid "あちゃー"
+msgstr "Acha"
+
+msgctxt "POPUP_25"
+msgid "勝ちっすよ！"
+msgstr "I'll win!"
+
+msgctxt "POPUP_26"
+msgid "負けっすね"
+msgstr "I'm losing"
+
+msgctxt "POPUP_27"
+msgid "うーん……"
+msgstr "Hmm ..."
+
+msgctxt "POPUP_28"
+msgid "ここっす！"
+msgstr "Here!"
+
+msgctxt "POPUP_29"
+msgid "これでいくっす"
+msgstr "I'm going with this"
+
+msgctxt "POPUP_30"
+msgid "始めようかの"
+msgstr "Let's get started"
+
+msgctxt "POPUP_31"
+msgid "さらばじゃ"
+msgstr "Farewell"
+
+msgctxt "POPUP_32"
+msgid "行くぞい"
+msgstr "Let's go"
+
+msgctxt "POPUP_33"
+msgid "ようし"
+msgstr "Adoption"
+
+msgctxt "POPUP_34"
+msgid "むむ……"
+msgstr "Hmm ..."
+
+msgctxt "POPUP_35"
+msgid "勝ちじゃ"
+msgstr "Win"
+
+msgctxt "POPUP_36"
+msgid "負けたわい"
+msgstr "I lost"
+
+msgctxt "POPUP_37"
+msgid "様子見じゃ"
+msgstr "Wait-and-see"
+
+msgctxt "POPUP_38"
+msgid "ここじゃ！"
+msgstr "Here!"
+
+msgctxt "POPUP_39"
+msgid "これで勝負じゃ"
+msgstr "This is a game"
+
+msgctxt "POPUP_40"
+msgid "始めるよ"
+msgstr "I'll start"
+
+msgctxt "POPUP_41"
+msgid "フンッ"
+msgstr "Hmm"
+
+msgctxt "POPUP_42"
+msgid "さぁ　いくよ"
+msgstr "Let's go"
+
+msgctxt "POPUP_43"
+msgid "こんなもんさ"
+msgstr "Such a monsa"
+
+msgctxt "POPUP_44"
+msgid "なんだい……"
+msgstr "What ..."
+
+msgctxt "POPUP_45"
+msgid "さて　賭けるよ"
+msgstr "Well bet"
+
+msgctxt "POPUP_46"
+msgid "勝負！"
+msgstr "Game!"
+
+msgctxt "POPUP_47"
+msgid "はじめよっぱ"
+msgstr "Hajime Yoppa"
+
+msgctxt "POPUP_48"
+msgid "もう帰る！"
+msgstr "I'm going home!"
+
+msgctxt "POPUP_49"
+msgid "行っくよー！"
+msgstr "Let's go!"
+
+msgctxt "POPUP_50"
+msgid "ウケる！"
+msgstr "I love you!"
+
+msgctxt "POPUP_51"
+msgid "ちぇっ"
+msgstr "Check"
+
+msgctxt "POPUP_52"
+msgid "やったぁ！"
+msgstr "I did it!"
+
+msgctxt "POPUP_53"
+msgid "ふぇぇ"
+msgstr "Feh"
+
+msgctxt "POPUP_54"
+msgid "ここは様子見ね"
+msgstr "Look here"
+
+msgctxt "POPUP_55"
+msgid "ここよっ！"
+msgstr "Here!"
+
+msgctxt "POPUP_56"
+msgid "こんな感じかな"
+msgstr "Is it like this?"
+
+msgctxt "SOUND_ID_0"
+msgid "voice::eID_roulette_voice_hello"
+msgstr ""
+
+msgctxt "SOUND_ID_1"
+msgid "voice::eID_roulette_voice_goodbye"
+msgstr ""
+
+msgctxt "SOUND_ID_2"
+msgid "voice::eID_roulette_voice_start"
+msgstr ""
+
+msgctxt "SOUND_ID_3"
+msgid "voice::eID_roulette_voice_bet_hit"
+msgstr ""
+
+msgctxt "SOUND_ID_4"
+msgid "voice::eID_roulette_voice_bet_no_hit"
+msgstr ""
+
+msgctxt "SOUND_ID_5"
+msgid "voice::eID_roulette_voice_win"
+msgstr ""
+
+msgctxt "SOUND_ID_6"
+msgid "voice::eID_roulette_voice_lose"
+msgstr ""
+
+msgctxt "SOUND_ID_7"
+msgid "voice::eID_roulette_voice_dealer_throw"
+msgstr ""
+
+msgctxt "SOUND_ID_8"
+msgid "voice::eID_roulette_voice_no_bet"
+msgstr ""
+
+msgctxt "SOUND_ID_9"
+msgid "voice::eID_roulette_voice_bet"
+msgstr ""
+
+msgctxt "SOUND_ID_10"
+msgid "voice::eID_roulette_voice_bet_finish"
+msgstr ""
+
+msgctxt "SOUND_ID_11"
+msgid "voice::eID_roulette_voice_no_more_bet"
+msgstr ""
+
+msgctxt "SOUND_ID_12"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "WAIT_FRAME_0"
+msgid "[0-90]"
+msgstr ""
+
+msgctxt "WAIT_FRAME_1"
+msgid "<!empty>"
+msgstr ""

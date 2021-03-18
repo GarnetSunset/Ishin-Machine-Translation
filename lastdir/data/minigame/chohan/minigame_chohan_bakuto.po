@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "MSG01_0"
+msgid "ぃよっしゃあ！"
+msgstr "Iyosha!"
+
+msgctxt "MSG01_1"
+msgid "よっしゃ！"
+msgstr "Alright!"
+
+msgctxt "MSG01_2"
+msgid "ふっ"
+msgstr "Whew"
+
+msgctxt "MSG01_3"
+msgid "おほほほ…"
+msgstr "Cheeks ..."
+
+msgctxt "MSG01_4"
+msgid "ふぉふぉふぉ…"
+msgstr "Fofofo ..."
+
+msgctxt "MSG01_5"
+msgid "やったぁ…"
+msgstr "I did ..."
+
+msgctxt "MSG01_6"
+msgid "ふふん"
+msgstr "Poop"
+
+msgctxt "MSG01_7"
+msgid "この調子で行くでぇ"
+msgstr "I'm going with this condition"
+
+msgctxt "MSG01_8"
+msgid "拙者の勝ちでござる"
+msgstr "I won't win"
+
+msgctxt "MSG01_9"
+msgid "おっしゃ、おっしゃ！"
+msgstr "You say, you say!"
+
+msgctxt "MSG01_10"
+msgid "ええぞ！　ええぞ！"
+msgstr "Yeah! Yeah!"
+
+msgctxt "MSG01_11"
+msgid "おっ！"
+msgstr "Oh!"
+
+msgctxt "MSG01_12"
+msgid "よっしゃ"
+msgstr "Yosha"
+
+msgctxt "MSG01_13"
+msgid "ええで～"
+msgstr "Yeah ~"
+
+msgctxt "MSG01_14"
+msgid "よっしゃ～！"
+msgstr "Alright!"
+
+msgctxt "MSG02_0"
+msgid "ぐあぁぁぁ…"
+msgstr "Guaaaa ..."
+
+msgctxt "MSG02_1"
+msgid "なぬっ！"
+msgstr "Nanu!"
+
+msgctxt "MSG02_2"
+msgid "むぅ…"
+msgstr "Muu ..."
+
+msgctxt "MSG02_3"
+msgid "キーッ！"
+msgstr "Kee!"
+
+msgctxt "MSG02_4"
+msgid "こりゃ、あかんわ"
+msgstr "This is Akanwa"
+
+msgctxt "MSG02_5"
+msgid "ダメかぁ…"
+msgstr "No ..."
+
+msgctxt "MSG02_6"
+msgid "なんやぁ…"
+msgstr "What ..."
+
+msgctxt "MSG02_7"
+msgid "ホゲ～"
+msgstr "Hoge ~"
+
+msgctxt "MSG02_8"
+msgid "うぬぅ～"
+msgstr "Unu ~"
+
+msgctxt "MSG02_9"
+msgid "しまった！"
+msgstr "Oops!"
+
+msgctxt "MSG02_10"
+msgid "しくじったわ～"
+msgstr "I messed up ~"
+
+msgctxt "MSG02_11"
+msgid "おっと…"
+msgstr "Oops ..."
+
+msgctxt "MSG02_12"
+msgid "なんや…"
+msgstr "What ..."
+
+msgctxt "MSG02_13"
+msgid "あかんわ…"
+msgstr "Akanwa ..."
+
+msgctxt "MSG02_14"
+msgid "あかん…"
+msgstr "Akan ..."
+
+msgctxt "MSG03_0"
+msgid "やるなぁ～"
+msgstr "I'll do it ~"
+
+msgctxt "MSG03_1"
+msgid "やりますなぁ！"
+msgstr "I'll do it!"
+
+msgctxt "MSG03_2"
+msgid "ほほぅ"
+msgstr "Cheeks"
+
+msgctxt "MSG03_3"
+msgid "惚れ惚れするわ～"
+msgstr "I'll fall in love with you ~"
+
+msgctxt "MSG03_4"
+msgid "どえらいこっちゃ！"
+msgstr "This is great!"
+
+msgctxt "MSG03_5"
+msgid "すごいなぁ…"
+msgstr "It's amazing ..."
+
+msgctxt "MSG03_6"
+msgid "あ～ぁ…"
+msgstr "Ah ..."
+
+msgctxt "MSG03_7"
+msgid "え～やん！"
+msgstr "Eh!"
+
+msgctxt "MSG03_8"
+msgid "アッパレでござる"
+msgstr "Appare"
+
+msgctxt "MSG03_9"
+msgid "やるやん！"
+msgstr "I'll do it!"
+
+msgctxt "MSG03_10"
+msgid "スゴイやないか！"
+msgstr "Isn't it amazing!"
+
+msgctxt "MSG03_11"
+msgid "やるねぇ"
+msgstr "I'll do it"
+
+msgctxt "MSG03_12"
+msgid "ほぅ…"
+msgstr "Hmm ..."
+
+msgctxt "MSG03_13"
+msgid "大したもんやなぁ"
+msgstr "It's a big deal"
+
+msgctxt "MSG03_14"
+msgid "ほぉ…"
+msgstr "Hmm ..."
+
+msgctxt "MSG04_0"
+msgid "なははははは"
+msgstr "Nahahahahaha"
+
+msgctxt "MSG04_1"
+msgid "おやおや…"
+msgstr "Aw…"
+
+msgctxt "MSG04_2"
+msgid "ふん…"
+msgstr "Hmm…"
+
+msgctxt "MSG04_3"
+msgid "あら、残念やったね"
+msgstr "Oh, sorry"
+
+msgctxt "MSG04_4"
+msgid "ツキに見放されたのう"
+msgstr "I was abandoned by Tsuki"
+
+msgctxt "MSG04_5"
+msgid "気を落とさずに…"
+msgstr "Don't be discouraged ..."
+
+msgctxt "MSG04_6"
+msgid "かっこ悪…"
+msgstr "Cool ..."
+
+msgctxt "MSG04_7"
+msgid "次がんばりや！"
+msgstr "Good luck next time!"
+
+msgctxt "MSG04_8"
+msgid "お主の負けでござる"
+msgstr "I'm sorry for the loss of the Lord"
+
+msgctxt "MSG04_9"
+msgid "こら、あかんわぁ"
+msgstr "Here, I don't know"
+
+msgctxt "MSG04_10"
+msgid "残念やったなぁ～"
+msgstr "I'm sorry I did it ~"
+
+msgctxt "MSG04_11"
+msgid "楽しまないと損だよ"
+msgstr "It's a loss if you don't enjoy it"
+
+msgctxt "MSG04_12"
+msgid "力みすぎやで"
+msgstr "With too much force"
+
+msgctxt "MSG04_13"
+msgid "ま、気にすんなや"
+msgstr "Well, don't worry"
+
+msgctxt "MSG04_14"
+msgid "気にすんなや"
+msgstr "I don't care"
+
+msgctxt "MSG05_0"
+msgid "丁じゃね？"
+msgstr "Isn't it?"
+
+msgctxt "MSG05_1"
+msgid "丁や！"
+msgstr "Choya!"
+
+msgctxt "MSG05_2"
+msgid "丁…"
+msgstr "Ding…"
+
+msgctxt "MSG05_3"
+msgid "丁！"
+msgstr "Ding!"
+
+msgctxt "MSG05_4"
+msgid "ちょう"
+msgstr "Butterfly"
+
+msgctxt "MSG05_5"
+msgid "ちょ…丁っ！"
+msgstr "Hey ... Ding!"
+
+msgctxt "MSG05_6"
+msgid "丁や"
+msgstr "Choya"
+
+msgctxt "MSG05_7"
+msgid "チョ～！"
+msgstr "Cho ~!"
+
+msgctxt "MSG05_8"
+msgid "ちょー！"
+msgstr "Hey!"
+
+msgctxt "MSG05_9"
+msgid "チョウ！"
+msgstr "Butterfly!"
+
+msgctxt "MSG06_0"
+msgid "半だろ？"
+msgstr "Half?"
+
+msgctxt "MSG06_1"
+msgid "半や！"
+msgstr "Half!"
+
+msgctxt "MSG06_2"
+msgid "半…"
+msgstr "half…"
+
+msgctxt "MSG06_3"
+msgid "半！"
+msgstr "half!"
+
+msgctxt "MSG06_4"
+msgid "はん"
+msgstr "Han"
+
+msgctxt "MSG06_5"
+msgid "は…半っ！"
+msgstr "Hmm ... half!"
+
+msgctxt "MSG06_6"
+msgid "半や"
+msgstr "Half"
+
+msgctxt "MSG06_7"
+msgid "ハ～ン！"
+msgstr "Hmm!"
+
+msgctxt "MSG06_8"
+msgid "はんっ！"
+msgstr "Hmm!"
+
+msgctxt "MSG06_9"
+msgid "ハン！"
+msgstr "Han!"

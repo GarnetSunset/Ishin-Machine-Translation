@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "316"
+msgid "－"
+msgstr "－"
+
+msgctxt "319"
+msgid "所持数"
+msgstr "The number of possession"
+
+msgctxt "326"
+msgid "（何も選んでいない……）"
+msgstr "(I haven't selected anything ...)"
+
+msgctxt "351"
+msgid "（手持ちが足りないようだな……）"
+msgstr "(It looks like you don't have enough ...)"
+
+msgctxt "384"
+msgid "おおきに。%sになります。"
+msgstr "Big. It becomes% s."
+
+msgctxt "409"
+msgid "（これ以上食べられないな……）"
+msgstr "(I can't eat any more ...)"
+
+msgctxt "440"
+msgid "（これ以上飲めないな……）"
+msgstr "(I can't drink any more ...)"
+
+msgctxt "467"
+msgid "御品書"
+msgstr "Imperial book"
+
+msgctxt "474"
+msgid "－"
+msgstr "－"
+
+msgctxt "477"
+msgid "注"
+msgstr "Note"
+
+msgctxt "480"
+msgid "（うむ、うまいな）"
+msgstr "(Um, good)"
+
+msgctxt "499"
+msgid "（いけるな）"
+msgstr "(Don't go)"
+
+msgctxt "512"
+msgid "（なかなかのものだな）"
+msgstr "(It's pretty good)"
+
+msgctxt "535"
+msgid "（うむ、なかなかだな）"
+msgstr "(Um, it's pretty good)"
+
+msgctxt "558"
+msgid "（これは、いいな）"
+msgstr "(This is nice)"
+
+msgctxt "577"
+msgid "（うまいものだな）"
+msgstr "(It's good)"
+
+msgctxt "596"
+msgid "（なかなか、いけるな）"
+msgstr "(Don't go)"
+
+msgctxt "619"
+msgid "（これは、なかなか……）"
+msgstr "(This is pretty ...)"
+
+msgctxt "644"
+msgid "（こいつは、うまいぞ）"
+msgstr "(This guy is good)"
+
+msgctxt "667"
+msgid "（ふむ、いけるな）"
+msgstr "(Hmm, don't go)"
+
+msgctxt "686"
+msgid "（う～ん……　イマイチだな……）"
+msgstr "(Hmm ... I'm not good ...)"
+
+msgctxt "719"
+msgid "agura"
+msgstr ""
+
+msgctxt "725"
+msgid ""
+"豆腐に味噌を付けて炙ったものです。\n"
+"焼き味噌の香ばしさでお酒が進みます。"
+msgstr ""
+"It is tofu with miso and roasted. Sake goes\n"
+"on with the aroma of grilled miso."
+
+msgctxt "797"
+msgid ""
+"京で多く食べられる魚です。\n"
+"細かく骨切りした身を、炭火で炙りました。\n"
+"香ばしく焼かれたふかふかの肉がたまりません。"
+msgstr ""
+"It is a fish that can be eaten a lot in\n"
+"Kyoto. The finely chopped meat was roasted\n"
+"over a charcoal fire. The savory roasted\n"
+"fluffy meat is irresistible."
+
+msgctxt "910"
+msgid ""
+"季節の野菜をぬか漬けにしたものです。\n"
+"お酒のつまみの定番ですね。"
+msgstr ""
+"It is made by pickling seasonal vegetables.\n"
+"It's a classic liquor snack."
+
+msgctxt "974"
+msgid ""
+"京で好んで食べられている料理です。\n"
+"昆布のだしが良く効いていて\n"
+"冷えた体に染み渡りますよ。"
+msgstr ""
+"It is a favorite dish in Kyoto. The soup\n"
+"stock of kelp works well and permeates\n"
+"the cold body."

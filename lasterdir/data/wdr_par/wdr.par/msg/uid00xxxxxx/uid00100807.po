@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3300"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3301"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3302"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3303"
+msgid "%s"
+msgstr ""
+
+msgctxt "3306"
+msgid "名前をつけようか……"
+msgstr "Let's give it a name ..."
+
+msgctxt "3327"
+msgid "よし、今からお前は「%s」だ。"
+msgstr "Alright, from now on you are \"% s\"."
+
+msgctxt "3356"
+msgid "ニャー！"
+msgstr "Meow!"
+
+msgctxt "3365"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3366"
+msgid "%s"
+msgstr ""
+
+msgctxt "3369"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3370"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3371"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3372"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3373"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3374"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3375"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3376"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3377"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3378"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3379"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3380"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3381"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3382"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3383"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3384"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3385"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3386"
+msgid "%s"
+msgstr ""
+
+msgctxt "3389"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3390"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3391"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3393"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3394"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3395"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3396"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3397"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3398"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3584"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3590"
+msgid "P_KRU_TLK_stand_pet_pose_lp"
+msgstr ""
+
+msgctxt "3618"
+msgid "P_KRU_TLK_stand_pet_pose_st"
+msgstr ""
+
+msgctxt "3646"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3651"
+msgid "置換_ペット猫：黒猫"
+msgstr "Replacement_Pet Cat: Black Cat"
+
+msgctxt "3671"
+msgid "世話をする"
+msgstr "take care"
+
+msgctxt "3682"
+msgid "名前を変える"
+msgstr "Change the name"
+
+msgctxt "3695"
+msgid "そっとしておく"
+msgstr "Leave it alone"
+
+msgctxt "3710"
+msgid "Player"
+msgstr ""
+
+msgctxt "3717"
+msgid "P_KRU_TLK_stand_pet_pose_shiji"
+msgstr ""
+
+msgctxt "3748"
+msgid "P_KRU_TLK_stand_pet_send_lp"
+msgstr ""
+
+msgctxt "3776"
+msgid "P_KRU_TLK_stand_pet_send_st"
+msgstr ""
+
+msgctxt "3804"
+msgid "A_CAT_TLK_sitgrd_sleep_lp"
+msgstr ""
+
+msgctxt "3830"
+msgid "A_CAT_TLK_stand_tlk_nml_02"
+msgstr ""
+
+msgctxt "3857"
+msgid "A_CAT_TLK_stand_nobi"
+msgstr ""
+
+msgctxt "3878"
+msgid "A_CAT_TLK_feel_good_lp"
+msgstr ""
+
+msgctxt "3901"
+msgid "A_CAT_TLK_feel_good_st"
+msgstr ""
+
+msgctxt "3924"
+msgid "0"
+msgstr ""

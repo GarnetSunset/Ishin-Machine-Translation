@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6432"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6433"
+msgid ""
+"まったく、いつもいつもお前は\n"
+"しかたのない奴だな。"
+msgstr ""
+"At all, you're always the one who can't\n"
+"help."
+
+msgctxt "6484"
+msgid "ミャア……"
+msgstr "Myaa ……"
+
+msgctxt "6495"
+msgid ""
+"お前はいつかそのおっちょこちょいで\n"
+"命を落とすぞ……　ちゃんと聞いているのか？"
+msgstr ""
+"You'll die someday from that mess ... Are\n"
+"you listening properly?"
+
+msgctxt "6574"
+msgid "ミャア。"
+msgstr "Myaa."
+
+msgctxt "6583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6584"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6585"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6586"
+msgid ""
+"……よし、こんなもんだろう。\n"
+"美人になったな。"
+msgstr ""
+"...... Okay, it's like this. I became a\n"
+"beautiful woman."
+
+msgctxt "6633"
+msgid "ミャアミャア。"
+msgstr "Mya Amya."
+
+msgctxt "6648"
+msgid ""
+"心なしか嬉しそうだな……\n"
+"これに懲りたら、もうあんな危ないところに\n"
+"居座るんじゃない。わかったか？"
+msgstr ""
+"I'm glad if I don't have a heart ... If\n"
+"I learn from this, I won't be in such a\n"
+"dangerous place anymore. Did you understand?"
+
+msgctxt "6747"
+msgid "ミャ……　ミャア。"
+msgstr "Myaa ... Myaa."
+
+msgctxt "6766"
+msgid "……自信がないようだな。"
+msgstr "...... I don't seem to be confident."
+
+msgctxt "6791"
+msgid ""
+"（こいつのおっちょこちょいは簡単に\n"
+"　なおるもんでもなさそうだ。\n"
+"　放っておいたら危険かもしれん。よし……）"
+msgstr ""
+"(It doesn't look like it's easy to get rid\n"
+"of this crap. It might be dangerous\n"
+"if you leave it alone. Okay ...)"
+
+msgctxt "6900"
+msgid ""
+"よし、今日からお前は俺の猫だ。\n"
+"うちで生活しろ。それなら危険もないだろう。\n"
+"……いいな？"
+msgstr ""
+"Alright, from today you are my cat. Live\n"
+"at home. Then there would be no danger.\n"
+"...... Is it okay?"
+
+msgctxt "6989"
+msgid "……ミャア！"
+msgstr "...... Myaa!"
+
+msgctxt "7002"
+msgid "いい返事だ。"
+msgstr "Good reply."
+
+msgctxt "7015"
+msgid "汚れた猫に名前をつけてください。"
+msgstr "Give your dirty cat a name."
+
+msgctxt "7048"
+msgid "%sがペットになりました。"
+msgstr "% s is now a pet."
+
+msgctxt "7073"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7074"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7075"
+msgid ""
+"……フッ、何度も洗っているからか慣れたもんだな。\n"
+"ずいぶんおとなしいじゃないか。"
+msgstr ""
+"…… Huh, I'm used to it because I've washed\n"
+"it many times. Isn't it quite quiet?"
+
+msgctxt "7156"
+msgid "ミャア。"
+msgstr "Myaa."
+
+msgctxt "7165"
+msgid "フフフ。……うんと綺麗にしてやるからな。"
+msgstr "Fufufu. ...... Yeah, I'll clean it up."
+
+msgctxt "7206"
+msgid "ミャアオ！"
+msgstr "Myao!"
+
+msgctxt "7217"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7218"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7219"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7220"
+msgid ""
+"……本当にお前はどうしようもない奴だな。\n"
+"綺麗にしてやるから大人しくしてろよ。"
+msgstr ""
+"...... You really can't help it. I'll clean\n"
+"it up so be quiet."
+
+msgctxt "7299"
+msgid "ミャア……"
+msgstr "Myaa ……"
+
+msgctxt "7310"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7311"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7312"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7313"
+msgid "よしよし、こんなもんだろう。"
+msgstr "Alright, it's like this."
+
+msgctxt "7342"
+msgid "ミャア。"
+msgstr "Myaa."
+
+msgctxt "7351"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7352"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7353"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7354"
+msgid "おとなしくしてろよ……"
+msgstr "Be quiet ..."
+
+msgctxt "7377"
+msgid "フシャーッ！"
+msgstr "Husher!"
+
+msgctxt "7390"
+msgid ""
+"おい、暴れるな。\n"
+"綺麗にしてやるから……　痛っ！"
+msgstr ""
+"Hey, don't rampage. I'll clean it up ...\n"
+"it hurts!"
+
+msgctxt "7439"
+msgid "ニャーゴ！"
+msgstr "Nyago!"
+
+msgctxt "7450"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7451"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7452"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7453"
+msgid "……よし、こんなもんだろう。"
+msgstr "...... Okay, it's like this."
+
+msgctxt "7482"
+msgid "ミャア。"
+msgstr "Myaa."
+
+msgctxt "7491"
+msgid ""
+"フッ、綺麗になった途端、\n"
+"おとなしくなりやがって。"
+msgstr ""
+"Huh, as soon as it became beautiful, it\n"
+"became quiet."
+
+msgctxt "7542"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7543"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8028"
+msgid "kaiwabgm_sub_comical"
+msgstr ""
+
+msgctxt "8049"
+msgid "Player"
+msgstr ""
+
+msgctxt "8056"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8064"
+msgid "汚れた猫"
+msgstr "Dirty cat"
+
+msgctxt "8073"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8082"
+msgid "綺麗になった猫"
+msgstr "Beautiful cat"
+
+msgctxt "8097"
+msgid "dummy"
+msgstr ""
+
+msgctxt "8103"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8114"
+msgid "Talk_Surp"
+msgstr ""

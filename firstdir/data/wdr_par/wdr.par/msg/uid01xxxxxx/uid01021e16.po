@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5576"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5577"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5578"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5579"
+msgid "沖田……"
+msgstr "Okita ……"
+
+msgctxt "5588"
+msgid ""
+"なんや局長とおもろいことしようとしてる\n"
+"らしいのぉ、一（はじめ）ちゃん……"
+msgstr ""
+"It seems that he is trying to do something\n"
+"interesting with the director, Ichi\n"
+"(Hajime) -chan ..."
+
+msgctxt "5663"
+msgid "なに？"
+msgstr "What?"
+
+msgctxt "5670"
+msgid "とぼけんなや。"
+msgstr "Toboken Naya."
+
+msgctxt "5685"
+msgid ""
+"水臭いでぇ？　おもろいこと独り占めしようったって\n"
+"そうはいかんわ。"
+msgstr ""
+"Does it smell like water? It doesn't matter\n"
+"if you try to monopolize something\n"
+"interesting."
+
+msgctxt "5752"
+msgid "…………"
+msgstr ""
+
+msgctxt "5761"
+msgid "ワシも一緒に行くで、江戸城。"
+msgstr "I'm going with you, Edo Castle."
+
+msgctxt "5790"
+msgid "２人で将軍様に殴りこみと行こうやないか。"
+msgstr "Let's hit the shogun with two people."
+
+msgctxt "5831"
+msgid "断ると言ったら？"
+msgstr "What if I say I refuse?"
+
+msgctxt "5848"
+msgid ""
+"そんときは……\n"
+"お前を斬って俺がおもろいこと独り占めや。"
+msgstr ""
+"At that time ... I'll cut you and I'll monopolize\n"
+"what's interesting."
+
+msgctxt "5905"
+msgid "殺されに行くようなもんなんだぜ？"
+msgstr "It's like going to be killed, right?"
+
+msgctxt "5938"
+msgid "せやからおもろい言うとるんやないか。"
+msgstr "Isn't it funny to say from Saya?"
+
+msgctxt "5975"
+msgid ""
+"それにもっとおもろいのは……\n"
+"これがうまくいけば例の「坂本龍馬」に\n"
+"ひと泡吹かせてやれるっちゅうことや。"
+msgstr ""
+"And what's even more interesting is ...\n"
+"If this goes well, I'll let the example\n"
+"\"Ryoma Sakamoto\" blow a bubble."
+
+msgctxt "6080"
+msgid "ああ……"
+msgstr "Oh……"
+
+msgctxt "6089"
+msgid ""
+"ワシらの敵は同じ……\n"
+"同じ目的を持っとる限り手ぇ貸したる。"
+msgstr ""
+"Our enemies are the same ... I'll lend you\n"
+"as long as you have the same purpose."
+
+msgctxt "6148"
+msgid "一番隊の隊長をタダで使えるっちゅうことやで？"
+msgstr ""
+"Is it possible to use the captain of the\n"
+"first unit for free?"
+
+msgctxt "6193"
+msgid "……わかった。"
+msgstr ""
+
+msgctxt "6208"
+msgid ""
+"だが出発は夜明けだ。\n"
+"目立たねえようにする必要がある。"
+msgstr ""
+"But the departure is dawn. You need to make\n"
+"it inconspicuous."
+
+msgctxt "6263"
+msgid ""
+"なるほど。ほな、今夜が京の最後の夜になるかも\n"
+"しれんっちゅうわけやな。"
+msgstr ""
+"I see. Hmmm, tonight may be the last night\n"
+"in Kyoto."
+
+msgctxt "6334"
+msgid "お互い夜明けまでお楽しみっちゅうわけや。"
+msgstr "Let's enjoy each other until dawn."
+
+msgctxt "6375"
+msgid ""
+"江戸城の将軍の寝床に押し込むんだ。\n"
+"人生最後の夜遊びかもしれねえ。"
+msgstr ""
+"Push it into the bed of the shogun of Edo\n"
+"Castle. It may be the last night out\n"
+"of my life."
+
+msgctxt "6442"
+msgid ""
+"上等や。\n"
+"新選組でため込んだ金、ひと晩で使ったるでぇ。"
+msgstr ""
+"Good and good. You can spend the money you\n"
+"saved in the Shinsengumi overnight."
+
+msgctxt "6497"
+msgid ""
+"せやけどお前は……\n"
+"寺田屋に別れの挨拶する女がおるんとちゃうか？"
+msgstr ""
+"But you are ... Is there a woman who says\n"
+"goodbye to Teradaya?"
+
+msgctxt "6562"
+msgid "…………"
+msgstr ""
+
+msgctxt "6571"
+msgid ""
+"あそこの女将、年増のわりにえらい色気が\n"
+"あるさかいなぁ。"
+msgstr ""
+"The landlady over there has a great sex\n"
+"appeal for her age."
+
+msgctxt "6628"
+msgid "いや、そっちじゃねえ。"
+msgstr "No, it's not over there."
+
+msgctxt "6651"
+msgid "あ？"
+msgstr "Ah?"
+
+msgctxt "6656"
+msgid "……なんでもねえよ。"
+msgstr ""
+
+msgctxt "6677"
+msgid "そしたら、夜明け……　ワシも寺田屋に行く。"
+msgstr "Then, at dawn ... I also go to Teradaya."
+
+msgctxt "6720"
+msgid ""
+"それまで一（はじめ）ちゃんも\n"
+"せいぜい楽しんどけや。"
+msgstr ""
+"Until then, Ichi (Hajime) -chan will enjoy\n"
+"it at best."
+
+msgctxt "6773"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6774"
+msgid ""
+"（夜明けに寺田屋に沖田が来ると言ってたな。\n"
+"　夜までに江戸に行く準備をするか）"
+msgstr ""
+"(You said that Okita will come to Teradaya\n"
+"at dawn. Are you ready to go to Edo\n"
+"by night?)"
+
+msgctxt "6853"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8148"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "8153"
+msgid "沖田"
+msgstr "Okita"
+
+msgctxt "8158"
+msgid "kiryu_c11_060_01"
+msgstr ""
+
+msgctxt "8175"
+msgid "majima_c11_060_01"
+msgstr ""
+
+msgctxt "8193"
+msgid "kiryu_c11_060_02"
+msgstr ""
+
+msgctxt "8210"
+msgid "majima_c11_060_02"
+msgstr ""
+
+msgctxt "8228"
+msgid "majima_c11_060_02b"
+msgstr ""
+
+msgctxt "8247"
+msgid "majima_c11_060_03"
+msgstr ""
+
+msgctxt "8265"
+msgid "majima_c11_060_03b"
+msgstr ""
+
+msgctxt "8284"
+msgid "kiryu_c11_060_04"
+msgstr ""
+
+msgctxt "8301"
+msgid "majima_c11_060_04"
+msgstr ""
+
+msgctxt "8319"
+msgid "kiryu_c11_060_05"
+msgstr ""
+
+msgctxt "8336"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8345"
+msgid "majima_c11_060_05"
+msgstr ""
+
+msgctxt "8363"
+msgid "majima_c11_060_05b"
+msgstr ""
+
+msgctxt "8382"
+msgid "kiryu_c11_060_06"
+msgstr ""
+
+msgctxt "8399"
+msgid "majima_c11_060_06"
+msgstr ""
+
+msgctxt "8417"
+msgid "majima_c11_060_06b"
+msgstr ""
+
+msgctxt "8436"
+msgid "kiryu_c11_060_07"
+msgstr ""
+
+msgctxt "8453"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8461"
+msgid "kiryu_c11_060_07b"
+msgstr ""
+
+msgctxt "8479"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "8491"
+msgid "majima_c11_060_07"
+msgstr ""
+
+msgctxt "8509"
+msgid "majima_c11_060_07b"
+msgstr ""
+
+msgctxt "8528"
+msgid "kiryu_c11_060_08"
+msgstr ""
+
+msgctxt "8545"
+msgid "majima_c11_060_08"
+msgstr ""
+
+msgctxt "8563"
+msgid "majima_c11_060_08b"
+msgstr ""
+
+msgctxt "8582"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "8593"
+msgid "majima_c11_060_09"
+msgstr ""
+
+msgctxt "8611"
+msgid "kiryu_c11_060_10"
+msgstr ""
+
+msgctxt "8628"
+msgid "majima_c11_060_10"
+msgstr ""
+
+msgctxt "8646"
+msgid "kiryu_c11_060_11"
+msgstr ""
+
+msgctxt "8663"
+msgid "majima_c11_060_11"
+msgstr ""
+
+msgctxt "8681"
+msgid "majima_c11_060_11b"
+msgstr ""
+
+msgctxt "8700"
+msgid "dummy"
+msgstr ""

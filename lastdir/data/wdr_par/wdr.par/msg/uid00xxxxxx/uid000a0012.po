@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2936"
+msgid "斎藤はん、なかなかお上手ですな～。"
+msgstr "Saito Han, you're pretty good at it ~."
+
+msgctxt "2971"
+msgid ""
+"場も盛りあがってますし……\n"
+"斎藤はんも一曲、いかがです？"
+msgstr "The place is also exciting ... How about one song by Han Saito?"
+
+msgctxt "3030"
+msgid "あらまぁ。残念どす……"
+msgstr "Oh well. I'm sorry ..."
+
+msgctxt "3053"
+msgid "斎藤はん、こういうのお苦手でしたか。すんまへん。"
+msgstr "Saito Han, were you not good at this kind of thing? I'm sorry."
+
+msgctxt "3111"
+msgid ""
+"厳しい反応ですわぁ……\n"
+"もっと精進せなあきまへんなぁ。"
+msgstr "It's a harsh reaction ... I don't want to work harder."
+
+msgctxt "3166"
+msgid "うち、感動しましたわ。"
+msgstr "I was impressed."
+
+msgctxt "3189"
+msgid ""
+"場も盛りあがってますし……\n"
+"斎藤はんも一曲、いかがです？"
+msgstr "The place is also exciting ... How about one song by Han Saito?"
+
+msgctxt "3248"
+msgid "あらまぁ。残念どす……"
+msgstr "Oh well. I'm sorry ..."
+
+msgctxt "3271"
+msgid "風情があって良かったですよ。"
+msgstr "It was nice to have a taste."
+
+msgctxt "3300"
+msgid "なかなか盛り上がりましたねぇ。お疲れ様でした。"
+msgstr "It was quite exciting. Thank you for your hard work."
+
+msgctxt "3347"
+msgid ""
+"すんまへん。\n"
+"うちが無茶言ったばっかりに、恥をかかせてしもうて。"
+msgstr "I'm sorry. Let's be ashamed just because we said unreasonably."
+
+msgctxt "3421"
+msgid ""
+"厳しい反応ですわぁ……\n"
+"もっと精進せなあきまへんなぁ。"
+msgstr "It's a harsh reaction ... I don't want to work harder."
+
+msgctxt "3476"
+msgid "こんなに胸に響く歌ははじめてどす……"
+msgstr "This is the first song that touches my heart ..."
+
+msgctxt "3513"
+msgid ""
+"まさかこんなに盛り上がるとは……\n"
+"またぜひ、ご一緒しましょう。"
+msgstr "No way it's so exciting ... Let's join us again."
+
+msgctxt "3704"
+msgid "幾松"
+msgstr "Jisong"
+
+msgctxt "3747"
+msgid "歌う"
+msgstr "sing"
+
+msgctxt "3752"
+msgid "歌わない"
+msgstr "Don't sing"
+
+msgctxt "3805"
+msgid "龍馬"
+msgstr "Ryoma"

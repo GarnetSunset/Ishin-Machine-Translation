@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2832"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2833"
+msgid "%s"
+msgstr ""
+
+msgctxt "2836"
+msgid "名前をつけようか……"
+msgstr "Let's give it a name ..."
+
+msgctxt "2857"
+msgid "よし、今からお前は「%s」だ。"
+msgstr "Alright, from now on you are \"% s\"."
+
+msgctxt "2886"
+msgid "わんわん！"
+msgstr "Wow!"
+
+msgctxt "2897"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2898"
+msgid "%s"
+msgstr ""
+
+msgctxt "2901"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2902"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2903"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2904"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2905"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2906"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2907"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2908"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2909"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2910"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2911"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2912"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2913"
+msgid "%s"
+msgstr ""
+
+msgctxt "2916"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2917"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2918"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2921"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2922"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2924"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2925"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3092"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3098"
+msgid "P_KRU_TLK_stand_pet_pose_lp"
+msgstr ""
+
+msgctxt "3126"
+msgid "P_KRU_TLK_stand_pet_pose_st"
+msgstr ""
+
+msgctxt "3154"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3159"
+msgid "置換_ペット犬"
+msgstr "Replacement_pet dog"
+
+msgctxt "3173"
+msgid "世話をする"
+msgstr "take care"
+
+msgctxt "3184"
+msgid "名前を変える"
+msgstr "Change the name"
+
+msgctxt "3197"
+msgid "そっとしておく"
+msgstr "Leave it alone"
+
+msgctxt "3212"
+msgid "Player"
+msgstr ""
+
+msgctxt "3219"
+msgid "P_KRU_TLK_stand_pet_pose_shiji"
+msgstr ""
+
+msgctxt "3250"
+msgid "P_KRU_TLK_stand_pet_send_lp"
+msgstr ""
+
+msgctxt "3278"
+msgid "P_KRU_TLK_stand_pet_send_st"
+msgstr ""
+
+msgctxt "3306"
+msgid "A_DOG_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "3328"
+msgid "A_DOG_TLK_stand_mimikaki"
+msgstr ""
+
+msgctxt "3353"
+msgid "A_DOG_TLK_stand_bakuten"
+msgstr ""
+
+msgctxt "3377"
+msgid "A_DOG_TLK_stand_ohuri"
+msgstr ""
+
+msgctxt "3399"
+msgid "0"
+msgstr ""

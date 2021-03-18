@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "CATEGORY_0"
+msgid "格闘"
+msgstr "格闘"
+
+msgctxt "CATEGORY_1"
+msgid "一刀"
+msgstr "一刀"
+
+msgctxt "CATEGORY_2"
+msgid "短銃"
+msgstr "短銃"
+
+msgctxt "CATEGORY_3"
+msgid "乱舞"
+msgstr "乱舞"
+
+msgctxt "NAME_0"
+msgid "壁面打撃の極み"
+msgstr "Extreme wall hitting"
+
+msgctxt "NAME_1"
+msgid "顔面痛打の極み"
+msgstr "Extreme facial pain"
+
+msgctxt "NAME_2"
+msgid "蹴り上げ追い討ちの極み"
+msgstr "The height of kicking up and revenge"
+
+msgctxt "NAME_3"
+msgid "踏み追い討ちの極み"
+msgstr "The height of trampling"
+
+msgctxt "NAME_4"
+msgid "連僕の極み"
+msgstr "Ren my extremity"
+
+msgctxt "NAME_5"
+msgid "砕き殴りの極み"
+msgstr "The height of crushing"
+
+msgctxt "NAME_6"
+msgid "重撃の極み"
+msgstr "Extreme of heavy hits"
+
+msgctxt "NAME_7"
+msgid "振り回しの極み"
+msgstr "The height of swinging"
+
+msgctxt "NAME_8"
+msgid "投げ落としの極み"
+msgstr "The height of throwing"
+
+msgctxt "NAME_9"
+msgid "棒術の極み"
+msgstr "The height of stick art"
+
+msgctxt "NAME_10"
+msgid "蹴り落としの極み"
+msgstr "The height of kicking"
+
+msgctxt "NAME_11"
+msgid "梅干しの極み"
+msgstr "The height of pickled plums"
+
+msgctxt "NAME_12"
+msgid "天秤棒振り回しの極み"
+msgstr "The extreme of swinging a balance pole"
+
+msgctxt "NAME_13"
+msgid "お熱の極み"
+msgstr "Extreme heat"
+
+msgctxt "NAME_14"
+msgid "蜜柑の極み"
+msgstr "The height of tangerine"
+
+msgctxt "NAME_15"
+msgid "後ろ掴み投げの極み"
+msgstr "The height of back grab throw"
+
+msgctxt "NAME_16"
+msgid "剛撃の極み"
+msgstr "Extreme of hard hit"
+
+msgctxt "NAME_17"
+msgid "土撃の極み"
+msgstr "Extreme of earth attack"
+
+msgctxt "NAME_18"
+msgid "怒龍の極み"
+msgstr "The height of the angry dragon"
+
+msgctxt "NAME_19"
+msgid "失敗転撃の極み"
+msgstr "The height of a failed turn"
+
+msgctxt "NAME_20"
+msgid "火縄封じの極み"
+msgstr "The extreme of fuselage"
+
+msgctxt "NAME_21"
+msgid "無刀転殺の極み"
+msgstr "The height of swordless murder"
+
+msgctxt "NAME_22"
+msgid "大撲打の極み"
+msgstr "The height of the big wrestling"
+
+msgctxt "NAME_23"
+msgid "無手返しの極み"
+msgstr "The extreme of untouched"
+
+msgctxt "NAME_24"
+msgid "武剣技　追い討ちの極み"
+msgstr "The height of martial arts revenge"
+
+msgctxt "NAME_25"
+msgid "剛剣　蝿啼かせ"
+msgstr "Rigid sword fly"
+
+msgctxt "NAME_26"
+msgid "剛剣　猿返し"
+msgstr "Hard sword monkey return"
+
+msgctxt "NAME_27"
+msgid "剛剣　風車"
+msgstr "Gang Kian Windmill"
+
+msgctxt "NAME_28"
+msgid "武剣技　一刀の極み"
+msgstr "The ultimate in martial arts"
+
+msgctxt "NAME_29"
+msgid "武剣技　一刀追撃の極み"
+msgstr "The height of martial arts one-sword pursuit"
+
+msgctxt "NAME_30"
+msgid "武剣技　ふっ飛ばしの極み"
+msgstr "The ultimate in martial arts"
+
+msgctxt "NAME_31"
+msgid "武剣技　壁突き込みの極み"
+msgstr "The height of martial arts wall thrust"
+
+msgctxt "NAME_32"
+msgid "武剣技　弾避けの極み"
+msgstr "The ultimate in avoiding martial arts bullets"
+
+msgctxt "NAME_33"
+msgid "武剣技　枯葉微塵"
+msgstr "Martial arts technique withered leaves and dust"
+
+msgctxt "NAME_34"
+msgid "武剣技　踏み込み一閃"
+msgstr "Martial arts stepping on"
+
+msgctxt "NAME_35"
+msgid "武剣技　空中回転斬り"
+msgstr "Martial arts aerial rotation sword"
+
+msgctxt "NAME_36"
+msgid "武剣技　微塵切りの極み"
+msgstr "The ultimate in martial arts"
+
+msgctxt "NAME_37"
+msgid "銃技　追い撃ちの極み"
+msgstr "Gun technique The ultimate in pursuit"
+
+msgctxt "NAME_38"
+msgid "銃技　滑り込みの極み"
+msgstr "Gun technique The extreme of slipping"
+
+msgctxt "NAME_39"
+msgid "銃技　離し撃ちの極み"
+msgstr "The ultimate in shooting away from guns"
+
+msgctxt "NAME_40"
+msgid "銃技　張り付け銃撃の極み"
+msgstr "Gun technique The extreme of sticking shooting"
+
+msgctxt "NAME_41"
+msgid "銃技　離し追い撃ちの極み"
+msgstr "The ultimate in pursuing a gun"
+
+msgctxt "NAME_42"
+msgid "銃技　叩き込みの極み"
+msgstr "The ultimate in gun technique"
+
+msgctxt "NAME_43"
+msgid "銃技　速射連撃の極み"
+msgstr "The ultimate in rapid fire"
+
+msgctxt "NAME_44"
+msgid "銃技　脇撃ちの極み"
+msgstr "The ultimate in shooting aside"
+
+msgctxt "NAME_45"
+msgid "銃技　寝起き銃撃の極み"
+msgstr "Gun technique The height of waking up shooting"
+
+msgctxt "NAME_46"
+msgid "銃技　放り投げの極み"
+msgstr "The ultimate in throwing guns"
+
+msgctxt "NAME_47"
+msgid "花火の極み"
+msgstr "The height of fireworks"
+
+msgctxt "NAME_48"
+msgid "乱舞技　追い討ちの極み"
+msgstr "Random dance"
+
+msgctxt "NAME_49"
+msgid "乱舞技　背面取りの極み"
+msgstr "Random technique"
+
+msgctxt "NAME_50"
+msgid "乱舞技　壁追い込みの極み"
+msgstr "Random technique The extreme of driving into the wall"
+
+msgctxt "NAME_51"
+msgid "乱舞技　鉄火連段"
+msgstr "Ranbu technique Iron fire continuous stage"
+
+msgctxt "NAME_52"
+msgid "乱舞技　突刺追撃の極み"
+msgstr "Random technique The extreme of piercing pursuit"
+
+msgctxt "NAME_53"
+msgid "乱舞技　総身回天落とし"
+msgstr "Ranbu Giten Kaiten Drop"
+
+msgctxt "NAME_54"
+msgid "乱舞技　憂い残し"
+msgstr "Ranbu technique"
+
+msgctxt "NAME_55"
+msgid "乱舞技　群衆散らし"
+msgstr "Random dance crowd scatter"
+
+msgctxt "NAME_56"
+msgid "乱舞技　撃刃の舞い"
+msgstr "Ranbu technique The dance of the shooting blade"
+
+msgctxt "NAME_57"
+msgid "乱舞技　陽炎流し"
+msgstr "Random dance heat haze sink"
+
+msgctxt "NAME_58"
+msgid "乱舞技　飛翔乱撃の極み"
+msgstr "Random technique The height of flying raid"
+
+msgctxt "NAME_59"
+msgid "乱舞技　絢爛豪華"
+msgstr "Gorgeous and luxurious flurry"

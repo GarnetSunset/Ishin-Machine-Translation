@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "YATOU_POPUP_0"
+msgid "待て！"
+msgstr "wait!"
+
+msgctxt "YATOU_POPUP_1"
+msgid "待てっ！"
+msgstr "Wait!"
+
+msgctxt "YATOU_POPUP_2"
+msgid "待てよ！"
+msgstr "Wait!"
+
+msgctxt "YATOU_POPUP_3"
+msgid "止まれ！"
+msgstr "stop!"
+
+msgctxt "YATOU_POPUP_4"
+msgid "逃げるな！"
+msgstr "Do not run away!"
+
+msgctxt "YATOU_POPUP_5"
+msgid "逃げる気か！"
+msgstr "Do you feel like running away!"
+
+msgctxt "MUHOUMONO_POPUP_0"
+msgid "待て！"
+msgstr "wait!"
+
+msgctxt "MUHOUMONO_POPUP_1"
+msgid "待てっ！"
+msgstr "Wait!"
+
+msgctxt "MUHOUMONO_POPUP_2"
+msgid "待てよ！"
+msgstr "Wait!"
+
+msgctxt "MUHOUMONO_POPUP_3"
+msgid "止まれ！"
+msgstr "stop!"
+
+msgctxt "MUHOUMONO_POPUP_4"
+msgid "逃げるな！"
+msgstr "Do not run away!"
+
+msgctxt "MUHOUMONO_POPUP_5"
+msgid "逃げる気か！"
+msgstr "Do you feel like running away!"
+
+msgctxt "NARAZUMONO_POPUP_0"
+msgid "待て！"
+msgstr "wait!"
+
+msgctxt "NARAZUMONO_POPUP_1"
+msgid "待てっ！"
+msgstr "Wait!"
+
+msgctxt "NARAZUMONO_POPUP_2"
+msgid "待てよ！"
+msgstr "Wait!"
+
+msgctxt "NARAZUMONO_POPUP_3"
+msgid "止まれ！"
+msgstr "stop!"
+
+msgctxt "NARAZUMONO_POPUP_4"
+msgid "逃げるな！"
+msgstr "Do not run away!"
+
+msgctxt "NARAZUMONO_POPUP_5"
+msgid "逃げる気か！"
+msgstr "Do you feel like running away!"
+
+msgctxt "OUGONSYU_POPUP_0"
+msgid "待て！"
+msgstr "wait!"
+
+msgctxt "OUGONSYU_POPUP_1"
+msgid "待てっ！"
+msgstr "Wait!"
+
+msgctxt "OUGONSYU_POPUP_2"
+msgid "待てよ！"
+msgstr "Wait!"
+
+msgctxt "OUGONSYU_POPUP_3"
+msgid "止まれ！"
+msgstr "stop!"
+
+msgctxt "OUGONSYU_POPUP_4"
+msgid "逃げるな！"
+msgstr "Do not run away!"
+
+msgctxt "OUGONSYU_POPUP_5"
+msgid "逃げる気か！"
+msgstr "Do you feel like running away!"
+
+msgctxt "GORYOUEIJI_POPUP_0"
+msgid "待て！"
+msgstr "wait!"
+
+msgctxt "GORYOUEIJI_POPUP_1"
+msgid "待てっ！"
+msgstr "Wait!"
+
+msgctxt "GORYOUEIJI_POPUP_2"
+msgid "待てよ！"
+msgstr "Wait!"
+
+msgctxt "GORYOUEIJI_POPUP_3"
+msgid "止まれ！"
+msgstr "stop!"
+
+msgctxt "GORYOUEIJI_POPUP_4"
+msgid "逃げるな！"
+msgstr "Do not run away!"
+
+msgctxt "GORYOUEIJI_POPUP_5"
+msgid "逃げる気か！"
+msgstr "Do you feel like running away!"
+
+msgctxt "SHINSENGUMI_POPUP_0"
+msgid "待て！"
+msgstr "wait!"
+
+msgctxt "SHINSENGUMI_POPUP_1"
+msgid "待てっ！"
+msgstr "Wait!"
+
+msgctxt "SHINSENGUMI_POPUP_2"
+msgid "待てよ！"
+msgstr "Wait!"
+
+msgctxt "SHINSENGUMI_POPUP_3"
+msgid "止まれ！"
+msgstr "stop!"
+
+msgctxt "SHINSENGUMI_POPUP_4"
+msgid "逃げるな！"
+msgstr "Do not run away!"
+
+msgctxt "SHINSENGUMI_POPUP_5"
+msgid "逃げる気か！"
+msgstr "Do you feel like running away!"
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_0"
+msgid "待て！"
+msgstr "wait!"
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_1"
+msgid "待てっ！"
+msgstr "Wait!"
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_2"
+msgid "待てよ！"
+msgstr "Wait!"
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_3"
+msgid "止まれ！"
+msgstr "stop!"
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_4"
+msgid "逃げるな！"
+msgstr "Do not run away!"
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_5"
+msgid "逃げる気か！"
+msgstr "Do you feel like running away!"
+
+msgctxt "BUSHI_POPUP_0"
+msgid "待て！"
+msgstr "wait!"
+
+msgctxt "BUSHI_POPUP_1"
+msgid "待てっ！"
+msgstr "Wait!"
+
+msgctxt "BUSHI_POPUP_2"
+msgid "待てよ！"
+msgstr "Wait!"
+
+msgctxt "BUSHI_POPUP_3"
+msgid "止まれ！"
+msgstr "stop!"
+
+msgctxt "BUSHI_POPUP_4"
+msgid "逃げるな！"
+msgstr "Do not run away!"
+
+msgctxt "BUSHI_POPUP_5"
+msgid "逃げる気か！"
+msgstr "Do you feel like running away!"

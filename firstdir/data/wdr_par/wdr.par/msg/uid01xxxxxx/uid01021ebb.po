@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2408"
+msgid "何をしますか？"
+msgstr "What are you doing?"
+
+msgctxt "2423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2424"
+msgid "昼まで休むとするか。"
+msgstr "Do you want to rest until noon?"
+
+msgctxt "2445"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2446"
+msgid "夕方まで休むとするか。"
+msgstr "Do you want to rest until the evening?"
+
+msgctxt "2469"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2470"
+msgid "夜まで休むとするか。"
+msgstr "Do you want to rest until night?"
+
+msgctxt "2491"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2492"
+msgid ""
+"（準備は整った……\n"
+"　出発まで休もう……）"
+msgstr "(Ready ... Let's rest until departure ...)"
+
+msgctxt "2535"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2536"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2537"
+msgid "しばらく休みますか？"
+msgstr "Do you want to rest for a while?"
+
+msgctxt "2558"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2559"
+msgid "翌朝まで休むとするか。"
+msgstr "Do you want to rest until the next morning?"
+
+msgctxt "2582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2583"
+msgid "夕方まで休むとするか。"
+msgstr "Do you want to rest until the evening?"
+
+msgctxt "2606"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2607"
+msgid "夜まで休むとするか。"
+msgstr "Do you want to rest until night?"
+
+msgctxt "2628"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2629"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2656"
+msgid "昼まで休む"
+msgstr "Rest until noon"
+
+msgctxt "2667"
+msgid "夕方まで休む"
+msgstr "Rest until evening"
+
+msgctxt "2680"
+msgid "夜まで休む"
+msgstr "Rest till night"
+
+msgctxt "2691"
+msgid "近江屋へ向かう"
+msgstr "Head to Omiya"
+
+msgctxt "2706"
+msgid "やめる"
+msgstr "Stop"
+
+msgctxt "2713"
+msgid "龍馬"
+msgstr "Ryoma"

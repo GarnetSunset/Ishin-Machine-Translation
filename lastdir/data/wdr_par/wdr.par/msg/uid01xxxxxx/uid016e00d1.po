@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1973"
+msgid "アカンで～　一（はじめ）ちゃ～ん。"
+msgstr "In Akan ~ Ichi (beginning) Cha ~ n."
+
+msgctxt "2008"
+msgid "一体、どうしたんだ？"
+msgstr "What's wrong with you?"
+
+msgctxt "2029"
+msgid "聞いたで……　例の賭場荒らしの連中の件。"
+msgstr "I heard ... The case of the cheating guys."
+
+msgctxt "2070"
+msgid "ワシをほっといて、骸街で散々暴れたらしいな……"
+msgstr "It seems that he left the eagle and went wild in the skeleton ..."
+
+msgctxt "2117"
+msgid ""
+"……何を言ってるんだ？\n"
+"あんたもあの場にいたじゃねえか。"
+msgstr "……What are you saying? You were there too, right?"
+
+msgctxt "2174"
+msgid ""
+"あ？　わけわからんこと言うやないか。\n"
+"お楽しみを独り占めしたかったんやろぉ？"
+msgstr "Ah? I don't know why. Did you want to have fun all to yourself?"
+
+msgctxt "2251"
+msgid ""
+"そしたら素直にそういうたらええやないか。\n"
+"ったく……　もうええわ。"
+msgstr "Then, wouldn't it be honest to do that? It ’s ... yeah."
+
+msgctxt "2319"
+msgid "うーん。よくわからねえな……"
+msgstr "Hmmm. I don't really understand ..."
+
+msgctxt "2800"
+msgid "沖田"
+msgstr "Okita"
+
+msgctxt "2851"
+msgid "龍馬"
+msgstr "Ryoma"

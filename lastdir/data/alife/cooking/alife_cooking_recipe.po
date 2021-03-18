@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "METHOD_0"
+msgid "切る"
+msgstr "Cut"
+
+msgctxt "METHOD_1"
+msgid "加熱"
+msgstr "heating"
+
+msgctxt "METHOD_2"
+msgid "調味"
+msgstr "Seasoning"
+
+msgctxt "METHOD_3"
+msgid "焼く"
+msgstr "Bake"
+
+msgctxt "INSTRUCTION_0"
+msgid "ぶつ切りにせよ！"
+msgstr "Cut it into pieces!"
+
+msgctxt "INSTRUCTION_1"
+msgid "もう１本、ぶつ切りにせよ！"
+msgstr "Cut another one into pieces!"
+
+msgctxt "INSTRUCTION_2"
+msgid "輪切りにせよ！"
+msgstr "Cut it into slices!"
+
+msgctxt "INSTRUCTION_3"
+msgid "もう１本、輪切りにせよ！"
+msgstr "Cut another one into slices!"
+
+msgctxt "INSTRUCTION_4"
+msgid "火力をキープせよ！"
+msgstr "Keep the firepower!"
+
+msgctxt "INSTRUCTION_5"
+msgid "調味料をぴったり注げ！"
+msgstr "Pour the seasoning exactly!"
+
+msgctxt "INSTRUCTION_6"
+msgid "良い焼き具合で返せ！"
+msgstr "Return it in good condition!"
+
+msgctxt "INSTRUCTION_7"
+msgid "調味料をちょっと入れろ！"
+msgstr "Add a little seasoning!"
+
+msgctxt "INSTRUCTION_8"
+msgid "もう１枚、焼き上げろ！"
+msgstr "Bake another one!"
+
+msgctxt "INSTRUCTION_9"
+msgid "一口大に切れ！"
+msgstr "Cut into bite-sized pieces!"
+
+msgctxt "INSTRUCTION_10"
+msgid "ささがきにしろ！"
+msgstr "Sasaki!"
+
+msgctxt "INSTRUCTION_11"
+msgid "スパッと半分に切れ！"
+msgstr "Cut in half quickly!"
+
+msgctxt "INSTRUCTION_12"
+msgid "もう１回！半分に切れ！"
+msgstr "One more time! Cut in half!"
+
+msgctxt "INSTRUCTION_13"
+msgid "最後！半分に切れ！"
+msgstr "last! Cut in half!"
+
+msgctxt "INSTRUCTION_14"
+msgid "細かく切れ！"
+msgstr "Cut into small pieces!"
+
+msgctxt "INSTRUCTION_15"
+msgid "小口切りにせよ！"
+msgstr "Cut it into small pieces!"
+
+msgctxt "INSTRUCTION_16"
+msgid "輪切りにしろ！"
+msgstr "Cut it into slices!"
+
+msgctxt "INSTRUCTION_17"
+msgid "引き続きキープせよ！"
+msgstr "Keep it!"
+
+msgctxt "INSTRUCTION_18"
+msgid "まだまだキープせよ！"
+msgstr "Keep it still!"
+
+msgctxt "INSTRUCTION_19"
+msgid "一定の厚さで切れ！"
+msgstr "Cut with a certain thickness!"
+
+msgctxt "INSTRUCTION_20"
+msgid "調味料を適量入れろ！"
+msgstr "Add an appropriate amount of seasoning!"
+
+msgctxt "INSTRUCTION_21"
+msgid "丁寧に切れ！"
+msgstr "Cut carefully!"
+
+msgctxt "INSTRUCTION_22"
+msgid "ぶつ切りにしろ！"
+msgstr "Cut it into pieces!"

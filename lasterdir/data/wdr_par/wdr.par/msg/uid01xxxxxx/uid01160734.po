@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6444"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6445"
+msgid "お前が、こいつらの頭か？"
+msgstr "Are you the head of these guys?"
+
+msgctxt "6470"
+msgid ""
+"いかにも。\n"
+"ワシは浄僧天狗頭領、浄僧だ。"
+msgstr "Really. I'm a Jyomon Tengu, a Jyomon."
+
+msgctxt "6511"
+msgid "（依頼書と同じだな……）"
+msgstr "(It's the same as the request form ...)"
+
+msgctxt "6536"
+msgid ""
+"子分どもが世話になったようじゃないか。\n"
+"浄僧天狗を舐められたままじゃおれんのでな。"
+msgstr ""
+"It seems that the children were taken care\n"
+"of. I'm sorry if I'm still licking the\n"
+"Jyomon Tengu."
+
+msgctxt "6619"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6620"
+msgid "おい、お前ら！"
+msgstr "Hey you guys!"
+
+msgctxt "6635"
+msgid "……！"
+msgstr "……！"
+
+msgctxt "6642"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6643"
+msgid ""
+"この人数相手ならば、太刀打ちできまい。\n"
+"やってしまえ！"
+msgstr ""
+"With this number of opponents, you can't\n"
+"compete. Do it!"
+
+msgctxt "6698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6699"
+msgid ""
+"ハァハァ……\n"
+"なんだコイツ、俺たちがやられただと!?"
+msgstr "Huh ... What the heck, we were killed !?"
+
+msgctxt "6750"
+msgid ""
+"ぐぬぬぬ。\n"
+"おい、お前たち！"
+msgstr "Gunununu. Hey you guys!"
+
+msgctxt "6779"
+msgid "はい、お頭！"
+msgstr "Yes, your head!"
+
+msgctxt "6792"
+msgid "こうなったら奥の手だ！"
+msgstr "If this happens, it's the back hand!"
+
+msgctxt "6815"
+msgid "……！"
+msgstr "……！"
+
+msgctxt "6822"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6823"
+msgid "逃げるぞ！"
+msgstr "I'll run away!"
+
+msgctxt "6834"
+msgid "ヒィィ！"
+msgstr "Hey!"
+
+msgctxt "6843"
+msgid "クソが！"
+msgstr "Shit!"
+
+msgctxt "6852"
+msgid "覚えてろよ！"
+msgstr "Remember!"
+
+msgctxt "6865"
+msgid "……あいつら、一体何がしたかったんだ？"
+msgstr "...... What on earth did they want to do?"
+
+msgctxt "6904"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6905"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6906"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6907"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6908"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6909"
+msgid "お頭ぁ……　これからどうするんで？"
+msgstr "Head ... What are you going to do now?"
+
+msgctxt "6944"
+msgid ""
+"俺たち武闘派の浄僧天狗がこのままで終われるか！\n"
+"このままアイツを、のさばらしてはおかねぇ！"
+msgstr ""
+"Will we, the warrior priest Tengu, end up\n"
+"like this? Don't let him go as it is!"
+
+msgctxt "7035"
+msgid ""
+"クソ！\n"
+"お前ら、何か考えろ！"
+msgstr "Shit! Think about something, you guys!"
+
+msgctxt "7064"
+msgid "う～ん……"
+msgstr "Hmm ..."
+
+msgctxt "7075"
+msgid "もう、別にトンずらでいいんじゃ……"
+msgstr "It's okay to have a ton shift ..."
+
+msgctxt "7110"
+msgid ""
+"バカヤロウ！\n"
+"舐められたままでいられるか！"
+msgstr "Stupid! Can you stay licked!"
+
+msgctxt "7153"
+msgid ""
+"お困りのようですね。\n"
+"私の話聞いてみませんか？"
+msgstr ""
+"Sounds like a problem. Would you like to\n"
+"hear my story?"
+
+msgctxt "7200"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7201"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7202"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7203"
+msgid "お頭、本当にあいつの言うことを信じるんで？"
+msgstr "Do you really believe what he says?"
+
+msgctxt "7246"
+msgid "そうですよ、絶対怪しいですぜ？"
+msgstr ""
+"That's right, it's absolutely suspicious,\n"
+"right?"
+
+msgctxt "7277"
+msgid ""
+"フッフッフ、俺だってあいつのことを\n"
+"完全に信じちゃあいないさ。"
+msgstr "Huff Huff, I don't completely believe him."
+
+msgctxt "7340"
+msgid ""
+"だが、ああいう輩は\n"
+"利用しないともったいないだろう？"
+msgstr "But isn't it a waste not to use such a person?"
+
+msgctxt "7393"
+msgid ""
+"胡散臭いようなら後ろから\n"
+"バサリとやっちまうだけよ。"
+msgstr ""
+"If it smells like scent, just slap it from\n"
+"behind."
+
+msgctxt "7446"
+msgid "なるほど……"
+msgstr "I see……"
+
+msgctxt "7459"
+msgid "お頭は相変わらず悪どいなぁ……"
+msgstr "My head is still bad ..."
+
+msgctxt "7490"
+msgid ""
+"ハッハッハ！\n"
+"これであの男をぶちのめすことができるわ！"
+msgstr "Ha ha ha! You can beat that guy with this!"
+
+msgctxt "7545"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7546"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8412"
+msgid "Player"
+msgstr ""
+
+msgctxt "8419"
+msgid "豪華な天狗面の大男"
+msgstr "Gorgeous tengu-faced giant"
+
+msgctxt "8438"
+msgid "dummy"
+msgstr ""
+
+msgctxt "8444"
+msgid "浄僧"
+msgstr "Pure monk"
+
+msgctxt "8449"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "8459"
+msgid "E_KNS_WK_stand"
+msgstr ""
+
+msgctxt "8474"
+msgid "E_ENC_KNS_WK_btlst_battou_D"
+msgstr ""
+
+msgctxt "8502"
+msgid "E_KNS_LW_stand"
+msgstr ""
+
+msgctxt "8517"
+msgid "E_ENC_KNS_LW_btlst_battou_D"
+msgstr ""
+
+msgctxt "8545"
+msgid "E_KNS_HS_stand"
+msgstr ""
+
+msgctxt "8560"
+msgid "E_ENC_KNS_HS_btlst_battou_C"
+msgstr ""
+
+msgctxt "8588"
+msgid "E_KNS_HI_stand"
+msgstr ""
+
+msgctxt "8603"
+msgid "E_ENC_KNS_HI_btlst_battou_C"
+msgstr ""
+
+msgctxt "8631"
+msgid "▼バトル"
+msgstr "▼ Battle"
+
+msgctxt "8640"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "8662"
+msgid "天狗面一同"
+msgstr "Tengu Noodles Together"
+
+msgctxt "8673"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "8683"
+msgid "kaiwabgm_apathy_01"
+msgstr ""
+
+msgctxt "8702"
+msgid "太郎坊"
+msgstr "Tarobo"
+
+msgctxt "8709"
+msgid "天狗面の浪人"
+msgstr "Tengu-faced Ronin"
+
+msgctxt "8722"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "8727"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "8738"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "8750"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8761"
+msgid "謎の男"
+msgstr "Mysterious man"
+
+msgctxt "8768"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8779"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8788"
+msgid "Talk_Think"
+msgstr ""

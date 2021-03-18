@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "POPUP_1"
+msgid "はぁ…はぁ…"
+msgstr "Hmm ... Hmm ..."
+
+msgctxt "POPUP_2"
+msgid "いてぇっ！"
+msgstr "Hey!"
+
+msgctxt "POPUP_3"
+msgid "待て！冴島！"
+msgstr "wait! Saejima!"
+
+msgctxt "POPUP_4"
+msgid "待ちなさい！"
+msgstr "Wait!"
+
+msgctxt "POPUP_5"
+msgid "くそっ…はぁ…"
+msgstr "Damn ... huh ..."
+
+msgctxt "POPUP_6"
+msgid "いってっ！"
+msgstr "Say it!"
+
+msgctxt "POPUP_7"
+msgid "おら！待ちゃー！"
+msgstr "Oh! Wait!"
+
+msgctxt "POPUP_8"
+msgid "サンタさん待って！"
+msgstr "Wait for Santa!"
+
+msgctxt "POPUP_9"
+msgid "サンタさ～ん！"
+msgstr "Santa Claus!"
+
+msgctxt "POPUP_10"
+msgid "わ～い！"
+msgstr "Wow!"
+
+msgctxt "POPUP_11"
+msgid "うおおおおおおっ！"
+msgstr "Uoooooooooooooooooooooooooooooooooooooooo!"
+
+msgctxt "POPUP_12"
+msgid "痛っ！"
+msgstr "ow!"
+
+msgctxt "POPUP_13"
+msgid "なんだよ～"
+msgstr "What is it ~"
+
+msgctxt "POPUP_14"
+msgid "痛い！"
+msgstr "painful!"
+
+msgctxt "POPUP_15"
+msgid "くそっ！"
+msgstr "Damn!"
+
+msgctxt "POPUP_16"
+msgid "うっ！"
+msgstr "Ugh!"
+
+msgctxt "POPUP_17"
+msgid "ぐっ！"
+msgstr "Good!"
+
+msgctxt "POPUP_18"
+msgid "くっ！"
+msgstr "Kuu!"
+
+msgctxt "POPUP_19"
+msgid "おい！待て！"
+msgstr "Hey! wait!"
+
+msgctxt "POPUP_20"
+msgid "はっ！"
+msgstr "Hah!"
+
+msgctxt "POPUP_21"
+msgid "よっと！"
+msgstr "Yacht!"
+
+msgctxt "POPUP_22"
+msgid "来いよ！"
+msgstr "come!"
+
+msgctxt "POPUP_23"
+msgid "がっ！"
+msgstr "Gat!"

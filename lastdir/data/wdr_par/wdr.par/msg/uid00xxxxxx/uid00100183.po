@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "916"
+msgid "飲食店タイプ選択。"
+msgstr "Restaurant type selection."
+
+msgctxt "936"
+msgid "テスト00。"
+msgstr "Test 00."
+
+msgctxt "947"
+msgid "テスト01。"
+msgstr "Test 01."
+
+msgctxt "958"
+msgid "テスト02。"
+msgstr "Test 02."
+
+msgctxt "971"
+msgid "テスト。"
+msgstr "test."
+
+msgctxt "980"
+msgid "飲食店終了。"
+msgstr "The restaurant is closed."
+
+msgctxt "1024"
+msgid "テスト飲食店主"
+msgstr "Test restaurant owner"
+
+msgctxt "1039"
+msgid "寿司三昧"
+msgstr "Sushi Zanmai"
+
+msgctxt "1048"
+msgid "バンタム"
+msgstr "bantam"
+
+msgctxt "1057"
+msgid "キャバ食"
+msgstr "Kyaba food"
+
+msgctxt "1066"
+msgid "メニュー探索"
+msgstr "Menu search"
+
+msgctxt "1079"
+msgid "やめる"
+msgstr "Stop"
+
+msgctxt "1086"
+msgid "テスト00"
+msgstr "Test 00"

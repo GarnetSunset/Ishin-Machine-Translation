@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "332"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "460"
+msgid "kiryu_c14_010_01"
+msgstr ""
+
+msgctxt "477"
+msgid "kaiwabgm_c14_010"
+msgstr ""
+
+msgctxt "494"
+msgid "P_KRU_TLK_seiza_kamae"
+msgstr ""

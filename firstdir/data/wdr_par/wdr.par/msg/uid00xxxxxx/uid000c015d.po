@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "6608"
+msgid ""
+"いらっしゃいませ。\n"
+"ご注文、お決まりでしょうか？\n"
+"ドリンクは何になさいますか？"
+msgstr ""
+"Welcome. Have you decided on your order?\n"
+"What would you like to drink?"
+
+msgctxt "6687"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6688"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6689"
+msgid "フードメニューはこちらです。"
+msgstr "The food menu is here."
+
+msgctxt "6718"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6719"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6720"
+msgid ""
+"ありがとうございます。\n"
+"お会計%sになります。"
+msgstr "thanks you. It will be the accounting% s."
+
+msgctxt "6765"
+msgid "ありがとうございました。"
+msgstr "Thank you very much."
+
+msgctxt "6790"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6791"
+msgid ""
+"ありがとうございます。\n"
+"お会計%sになります。"
+msgstr "thanks you. It will be the accounting% s."
+
+msgctxt "6836"
+msgid "ありがとうございました。"
+msgstr "Thank you very much."
+
+msgctxt "6861"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6862"
+msgid "（今は食う必要が無い……）"
+msgstr "(I don't have to eat now ...)"
+
+msgctxt "6889"
+msgid "（今は食う必要が無い……）"
+msgstr "(I don't have to eat now ...)"
+
+msgctxt "6916"
+msgid "（今は食う必要が無い……）"
+msgstr "(I don't have to eat now ...)"
+
+msgctxt "6943"
+msgid "（今は食う必要が無い……）"
+msgstr "(I don't have to eat now ...)"
+
+msgctxt "6970"
+msgid "（おなかいっぱいだった……）"
+msgstr "(I was full ...)"
+
+msgctxt "6999"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7000"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "7029"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "7058"
+msgid "すまん、ちょっと急用や……"
+msgstr "I'm sorry, a little urgent ..."
+
+msgctxt "7085"
+msgid "ごめん、急用思い出した……"
+msgstr ""
+"I'm sorry, I remembered the urgent need\n"
+"..."
+
+msgctxt "7112"
+msgid "ごめんなさい、ちょっと急用で……"
+msgstr "I'm sorry, a little urgent ..."
+
+msgctxt "7145"
+msgid ""
+"かしこまりました。\n"
+"またのご来店をお待ちしています。"
+msgstr ""
+"Understood. We look forward to seeing you\n"
+"again."
+
+msgctxt "7198"
+msgid "フードメニューはこちらです。"
+msgstr "The food menu is here."
+
+msgctxt "7227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7229"
+msgid ""
+"ありがとうございます。\n"
+"お会計%sになります。"
+msgstr "thanks you. It will be the accounting% s."
+
+msgctxt "7274"
+msgid "ありがとうございました。"
+msgstr "Thank you very much."
+
+msgctxt "7299"
+msgid ""
+"いらっしゃいませ。\n"
+"ご注文、お決まりでしょうか？\n"
+"ドリンクは何になさいますか？"
+msgstr ""
+"Welcome. Have you decided on your order?\n"
+"What would you like to drink?"
+
+msgctxt "7378"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7379"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7380"
+msgid "（ちょっと飲み過ぎている……）"
+msgstr "(I'm drinking too much ...)"
+
+msgctxt "7411"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7412"
+msgid "（腹も減ってはいない……）"
+msgstr "(I'm not hungry ...)"
+
+msgctxt "7439"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7440"
+msgid "フードメニューを見せてくれ。"
+msgstr "Show me the food menu."
+
+msgctxt "7469"
+msgid "フードメニューを見せてくれ。"
+msgstr "Show me the food menu."
+
+msgctxt "7498"
+msgid "フードメニューを見せてくれや。"
+msgstr "Show me the food menu."
+
+msgctxt "7529"
+msgid "フードメニューを見せて。"
+msgstr "Show me the food menu."
+
+msgctxt "7554"
+msgid "フードメニューを見せてください。"
+msgstr "Please show me the food menu."
+
+msgctxt "7587"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7589"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7590"
+msgid "フードメニューはこちらです。"
+msgstr "The food menu is here."
+
+msgctxt "7619"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7620"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7621"
+msgid ""
+"ありがとうございます。\n"
+"お会計%sになります。"
+msgstr "thanks you. It will be the accounting% s."
+
+msgctxt "7666"
+msgid "ありがとうございました。"
+msgstr "Thank you very much."
+
+msgctxt "7691"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7692"
+msgid ""
+"ありがとうございます。\n"
+"お会計%sになります。"
+msgstr "thanks you. It will be the accounting% s."
+
+msgctxt "7737"
+msgid "ありがとうございました。"
+msgstr "Thank you very much."
+
+msgctxt "7762"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7763"
+msgid "（今は食う必要が無い……）"
+msgstr "(I don't have to eat now ...)"
+
+msgctxt "7790"
+msgid "（今は食う必要が無い……）"
+msgstr "(I don't have to eat now ...)"
+
+msgctxt "7817"
+msgid "（今は食う必要が無い……）"
+msgstr "(I don't have to eat now ...)"
+
+msgctxt "7844"
+msgid "（今は食う必要が無い……）"
+msgstr "(I don't have to eat now ...)"
+
+msgctxt "7871"
+msgid "（おなかいっぱいだった……）"
+msgstr "(I was full ...)"
+
+msgctxt "7900"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7901"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "7930"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "7959"
+msgid "すまん、ちょっと急用や……"
+msgstr "I'm sorry, a little urgent ..."
+
+msgctxt "7986"
+msgid "ごめん、急用思い出した……"
+msgstr ""
+"I'm sorry, I remembered the urgent need\n"
+"..."
+
+msgctxt "8013"
+msgid "ごめんなさい、ちょっと急用で……"
+msgstr "I'm sorry, a little urgent ..."
+
+msgctxt "8046"
+msgid ""
+"かしこまりました。\n"
+"またのご来店をお待ちしています。"
+msgstr ""
+"Understood. We look forward to seeing you\n"
+"again."
+
+msgctxt "8099"
+msgid "フードメニューはこちらです。"
+msgstr "The food menu is here."
+
+msgctxt "8128"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8129"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8130"
+msgid ""
+"ありがとうございます。\n"
+"お会計%sになります。"
+msgstr "thanks you. It will be the accounting% s."
+
+msgctxt "8175"
+msgid "ありがとうございました。"
+msgstr "Thank you very much."
+
+msgctxt "8224"
+msgid "店員"
+msgstr "Clerk"
+
+msgctxt "8229"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8240"
+msgid "dummy"
+msgstr ""
+
+msgctxt "8246"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8255"
+msgid "Player"
+msgstr ""
+
+msgctxt "8262"
+msgid "Talk_No"
+msgstr ""

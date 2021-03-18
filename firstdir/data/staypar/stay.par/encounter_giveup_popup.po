@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "YATOU_POPUP_0"
+msgid "逃がした…"
+msgstr "I let it go ..."
+
+msgctxt "YATOU_POPUP_1"
+msgid "逃がしたか…"
+msgstr "Did you miss it ..."
+
+msgctxt "YATOU_POPUP_2"
+msgid "逃げられたか…"
+msgstr "Did you escape ..."
+
+msgctxt "YATOU_POPUP_3"
+msgid "逃げやがった…"
+msgstr "I ran away ..."
+
+msgctxt "YATOU_POPUP_4"
+msgid "逃がしちまった…"
+msgstr "I missed it ..."
+
+msgctxt "YATOU_POPUP_5"
+msgid "見逃したるわ…"
+msgstr "I missed it ..."
+
+msgctxt "YATOU_POPUP_6"
+msgid "見逃してやる…"
+msgstr "I'll miss it ..."
+
+msgctxt "YATOU_POPUP_7"
+msgid "見逃してやるよ…"
+msgstr "I'll miss it ..."
+
+msgctxt "MUHOUMONO_POPUP_0"
+msgid "逃がした…"
+msgstr "I let it go ..."
+
+msgctxt "MUHOUMONO_POPUP_1"
+msgid "逃がしたか…"
+msgstr "Did you miss it ..."
+
+msgctxt "MUHOUMONO_POPUP_2"
+msgid "逃げられたか…"
+msgstr "Did you escape ..."
+
+msgctxt "MUHOUMONO_POPUP_3"
+msgid "逃げやがった…"
+msgstr "I ran away ..."
+
+msgctxt "MUHOUMONO_POPUP_4"
+msgid "逃がしちまった…"
+msgstr "I missed it ..."
+
+msgctxt "MUHOUMONO_POPUP_5"
+msgid "見逃したるわ…"
+msgstr "I missed it ..."
+
+msgctxt "MUHOUMONO_POPUP_6"
+msgid "見逃してやる…"
+msgstr "I'll miss it ..."
+
+msgctxt "MUHOUMONO_POPUP_7"
+msgid "見逃してやるよ…"
+msgstr "I'll miss it ..."
+
+msgctxt "NARAZUMONO_POPUP_0"
+msgid "逃がした…"
+msgstr "I let it go ..."
+
+msgctxt "NARAZUMONO_POPUP_1"
+msgid "逃がしたか…"
+msgstr "Did you miss it ..."
+
+msgctxt "NARAZUMONO_POPUP_2"
+msgid "逃げられたか…"
+msgstr "Did you escape ..."
+
+msgctxt "NARAZUMONO_POPUP_3"
+msgid "逃げやがった…"
+msgstr "I ran away ..."
+
+msgctxt "NARAZUMONO_POPUP_4"
+msgid "逃がしちまった…"
+msgstr "I missed it ..."
+
+msgctxt "NARAZUMONO_POPUP_5"
+msgid "見逃したるわ…"
+msgstr "I missed it ..."
+
+msgctxt "NARAZUMONO_POPUP_6"
+msgid "見逃してやる…"
+msgstr "I'll miss it ..."
+
+msgctxt "NARAZUMONO_POPUP_7"
+msgid "見逃してやるよ…"
+msgstr "I'll miss it ..."
+
+msgctxt "OUGONSYU_POPUP_0"
+msgid "逃がした…"
+msgstr "I let it go ..."
+
+msgctxt "OUGONSYU_POPUP_1"
+msgid "逃がしたか…"
+msgstr "Did you miss it ..."
+
+msgctxt "OUGONSYU_POPUP_2"
+msgid "逃げられたか…"
+msgstr "Did you escape ..."
+
+msgctxt "OUGONSYU_POPUP_3"
+msgid "逃げやがった…"
+msgstr "I ran away ..."
+
+msgctxt "OUGONSYU_POPUP_4"
+msgid "逃がしちまった…"
+msgstr "I missed it ..."
+
+msgctxt "OUGONSYU_POPUP_5"
+msgid "見逃したるわ…"
+msgstr "I missed it ..."
+
+msgctxt "OUGONSYU_POPUP_6"
+msgid "見逃してやる…"
+msgstr "I'll miss it ..."
+
+msgctxt "OUGONSYU_POPUP_7"
+msgid "見逃してやるよ…"
+msgstr "I'll miss it ..."
+
+msgctxt "GORYOUEIJI_POPUP_0"
+msgid "逃がした…"
+msgstr "I let it go ..."
+
+msgctxt "GORYOUEIJI_POPUP_1"
+msgid "逃がしたか…"
+msgstr "Did you miss it ..."
+
+msgctxt "GORYOUEIJI_POPUP_2"
+msgid "逃げられたか…"
+msgstr "Did you escape ..."
+
+msgctxt "GORYOUEIJI_POPUP_3"
+msgid "逃げやがった…"
+msgstr "I ran away ..."
+
+msgctxt "GORYOUEIJI_POPUP_4"
+msgid "逃がしちまった…"
+msgstr "I missed it ..."
+
+msgctxt "GORYOUEIJI_POPUP_5"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_6"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "GORYOUEIJI_POPUP_7"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_0"
+msgid "逃がした…"
+msgstr "I let it go ..."
+
+msgctxt "SHINSENGUMI_POPUP_1"
+msgid "逃がしたか…"
+msgstr "Did you miss it ..."
+
+msgctxt "SHINSENGUMI_POPUP_2"
+msgid "逃げられたか…"
+msgstr "Did you escape ..."
+
+msgctxt "SHINSENGUMI_POPUP_3"
+msgid "逃げやがった…"
+msgstr "I ran away ..."
+
+msgctxt "SHINSENGUMI_POPUP_4"
+msgid "逃がしちまった…"
+msgstr "I missed it ..."
+
+msgctxt "SHINSENGUMI_POPUP_5"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_6"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SHINSENGUMI_POPUP_7"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_0"
+msgid "逃がした…"
+msgstr "I let it go ..."
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_1"
+msgid "逃がしたか…"
+msgstr "Did you miss it ..."
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_2"
+msgid "逃げられたか…"
+msgstr "Did you escape ..."
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_3"
+msgid "逃げやがった…"
+msgstr "I ran away ..."
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_4"
+msgid "逃がしちまった…"
+msgstr "I missed it ..."
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_5"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_6"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "KYOUTO_MIMAWARIGUMI_POPUP_7"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "BUSHI_POPUP_0"
+msgid "逃がした…"
+msgstr "I let it go ..."
+
+msgctxt "BUSHI_POPUP_1"
+msgid "逃がしたか…"
+msgstr "Did you miss it ..."
+
+msgctxt "BUSHI_POPUP_2"
+msgid "逃げられたか…"
+msgstr "Did you escape ..."
+
+msgctxt "BUSHI_POPUP_3"
+msgid "逃げやがった…"
+msgstr "I ran away ..."
+
+msgctxt "BUSHI_POPUP_4"
+msgid "逃がしちまった…"
+msgstr "I missed it ..."
+
+msgctxt "BUSHI_POPUP_5"
+msgid "見逃したるわ…"
+msgstr "I missed it ..."
+
+msgctxt "BUSHI_POPUP_6"
+msgid "見逃してやる…"
+msgstr "I'll miss it ..."
+
+msgctxt "BUSHI_POPUP_7"
+msgid "見逃してやるよ…"
+msgstr "I'll miss it ..."

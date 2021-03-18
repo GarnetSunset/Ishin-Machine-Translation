@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2845"
+msgid "く……苦しい～……"
+msgstr "It's painful ..."
+
+msgctxt "2864"
+msgid "どうした？　大丈夫か？"
+msgstr "what up? Are you okay?"
+
+msgctxt "2887"
+msgid ""
+"す……すんまへんけど、\n"
+"医者連れてきてくれへんか……？"
+msgstr "I'm sorry, but can you bring me a doctor ...?"
+
+msgctxt "2942"
+msgid "急に胸が苦しいなって……　う……　うううう……"
+msgstr "Suddenly my chest is painful ..."
+
+msgctxt "2989"
+msgid ""
+"（この辺りに医者なんているのか……？\n"
+"　聞いてまわるしかなさそうだな……）"
+msgstr "(Is there a doctor around here ...? I think I have to ask around ...)"
+
+msgctxt "3064"
+msgid "いいから医者をはよ！"
+msgstr "It ’s okay to see a doctor!"
+
+msgctxt "3085"
+msgid "う～ん……　う～ん……"
+msgstr "Hmm ... Hmm ..."
+
+msgctxt "3108"
+msgid ""
+"待たせたな。\n"
+"医者を連れてきたぞ。"
+msgstr "I kept you waiting. I brought a doctor."
+
+msgctxt "3143"
+msgid "め、面目ない……"
+msgstr "I'm not happy ..."
+
+msgctxt "3160"
+msgid "どれどれ……見せてみろ。"
+msgstr "Which one ... Show me."
+
+msgctxt "3185"
+msgid ""
+"……ふむ。　なるほどな。\n"
+"症状は分かった。"
+msgstr "……HM. got it. I understand the symptoms."
+
+msgctxt "3228"
+msgid "薬を作ってやるから待ってろ。"
+msgstr "I'll make medicine, so wait."
+
+msgctxt "3257"
+msgid "ほら、グッと一気に飲め。"
+msgstr "See, drink it all at once."
+
+msgctxt "3282"
+msgid "ごく……ごく……"
+msgstr "Very ... Very ..."
+
+msgctxt "3299"
+msgid "……どうだ？"
+msgstr "...... How is it?"
+
+msgctxt "3312"
+msgid ""
+"ううっ……あ、あれ？\n"
+"……嘘みたいに痛ないわ!!"
+msgstr "Ugh ... oh, that? ...... It doesn't hurt like a lie !!"
+
+msgctxt "3359"
+msgid "ふふふ……"
+msgstr "Fufufu ……"
+
+msgctxt "3370"
+msgid ""
+"す、凄い！　凄いわ、あんた！　感動した！\n"
+"助かったわ……！　ほんまおおきに!!"
+msgstr ""
+"It's amazing! It's amazing, you! be moved! I was saved ...! Really big !!"
+
+msgctxt "3447"
+msgid "これは治療費や。　取っといてや。"
+msgstr "This is the cost of treatment. Take it."
+
+msgctxt "3480"
+msgid ""
+"あんたにも世話になったな。\n"
+"これは感謝の気持ちや。受け取っといてや。"
+msgstr ""
+"I was taken care of by you too. This is a feeling of gratitude. Receive it."
+
+msgctxt "3549"
+msgid "５０００文、受け取った。"
+msgstr "I received 5000 sentences."
+
+msgctxt "3574"
+msgid ""
+"ほなな！　ほんまおおきに！\n"
+"ひゃっほーう！"
+msgstr "Honna! Really big! Hyahhh!"
+
+msgctxt "4020"
+msgid "病気の男"
+msgstr "Sick man"
+
+msgctxt "4029"
+msgid "桐生"
+msgstr "Kiryu"
+
+msgctxt "4034"
+msgid "医者"
+msgstr "doctor"

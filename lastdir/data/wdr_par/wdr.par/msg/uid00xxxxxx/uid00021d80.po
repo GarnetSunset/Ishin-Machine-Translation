@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "700"
+msgid ""
+"ちょっといいか。\n"
+"土佐勤王党の武市を知らないか？"
+msgstr "Is it a little good? Don't you know Takeshi of the Tosakinoto Party?"
+
+msgctxt "749"
+msgid "武市？　ああ、武市先生のことか。"
+msgstr "Takeshi? Oh, is it Mr. Takeichi?"
+
+msgctxt "782"
+msgid ""
+"それなら武市道場じゃろ。\n"
+"今の時間なら稽古しとるはずじゃ。"
+msgstr "Then it's Takeshi Dojo. I should practice at this time."
+
+msgctxt "841"
+msgid "武市道場？"
+msgstr "Takeshi Dojo?"
+
+msgctxt "852"
+msgid "ああ。町の北東にあるでかい屋敷じゃき。"
+msgstr "Oh. A huge mansion in the northeast of the town."
+
+msgctxt "891"
+msgid "わかった。すまないな。"
+msgstr "all right. I'm sorry."
+
+msgctxt "928"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "933"
+msgid "町人"
+msgstr "Tradesman"

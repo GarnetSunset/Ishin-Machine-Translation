@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "乙女な獅子丸"
+msgstr "Maiden Shishimaru"
+
+msgctxt "BLUFF_MESSAGE_0"
+msgid "あら、も～やだわ…"
+msgstr "Oh no ..."
+
+msgctxt "BLUFF_MESSAGE_1"
+msgid "ま～、しけてるわねぇ…"
+msgstr "Well, I'm sorry ..."
+
+msgctxt "BLUFF_MESSAGE_2"
+msgid "ま～、いいんじゃなくて…"
+msgstr "Well, it ’s not good ..."
+
+msgctxt "BLUFF_MESSAGE_3"
+msgid "私の人生はバラ色だわ～！"
+msgstr "My life is rosy!"
+
+msgctxt "GAME_MESSAGE_0"
+msgid "お手柔らかにね～！"
+msgstr "Be gentle!"
+
+msgctxt "GAME_MESSAGE_1"
+msgid "も～覚えておきなさいよ～！"
+msgstr "Also, remember!"
+
+msgctxt "RITIRE_MESSAGE_0"
+msgid "賭け点がも～ないわよ！"
+msgstr "There are no betting points!"
+
+msgctxt "RITIRE_MESSAGE_1"
+msgid "また一緒に遊びましょ～よ"
+msgstr "Let's play together again ~"

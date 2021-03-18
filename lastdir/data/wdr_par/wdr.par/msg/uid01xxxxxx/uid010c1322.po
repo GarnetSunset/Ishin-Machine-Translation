@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2824"
+msgid "（さすがに営業していないな……）"
+msgstr "(It's not open as expected ...)"
+
+msgctxt "2857"
+msgid "ここで一杯飲むか。"
+msgstr "Do you have a drink here?"
+
+msgctxt "2876"
+msgid ""
+"ええよ。\n"
+"せやけど、うちはお酒、そう簡単に酔わへんよ。"
+msgstr "sure. I'm sorry, but we don't get drunk so easily."
+
+msgctxt "2931"
+msgid ""
+"けしからん真似なんかでけへんから。\n"
+"アテがはずれたんとちゃう？"
+msgstr "It's because I'm imitating it. Did you miss it?"
+
+msgctxt "2994"
+msgid "……別に何もしねえよ。"
+msgstr "...... I can't do anything else."
+
+msgctxt "3017"
+msgid "ふふ……　冗談、冗談。"
+msgstr "Fufu …… Joke, joke."
+
+msgctxt "3043"
+msgid "お前ら、この店で飲むぞ。"
+msgstr "You guys will drink at this store."
+
+msgctxt "3068"
+msgid ""
+"ここか……\n"
+"まあええわ。"
+msgstr "Here ... well, yeah."
+
+msgctxt "3093"
+msgid ""
+"それじゃ、さっさと飲んで、\n"
+"はやいとこ、お開きにしましょうかね。"
+msgstr "Then, let's have a quick drink and open it up, fast cousin."
+
+msgctxt "3158"
+msgid "そうやな……"
+msgstr "Yeah ..."
+
+msgctxt "3173"
+msgid ""
+"（たしかこの店に、俺が接待する、\n"
+"　芸術家の神田という奴が来ているんだったな……）"
+msgstr ""
+"(I'm sure there's an artist named Kanda who I'm entertaining at this store "
+"...)"
+
+msgctxt "3256"
+msgid "（まだ心の準備ができていない……　やめておこう）"
+msgstr "(I'm not ready yet ... let's stop)"
+
+msgctxt "3305"
+msgid ""
+"（これ以上待たせるのもまずいな。\n"
+"　さっそく、中に入ろう）"
+msgstr "(It's not good to wait any longer. Let's get inside now)"
+
+msgctxt "3560"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "3581"
+msgid "おりょう"
+msgstr "Oryo"
+
+msgctxt "3655"
+msgid "西郷"
+msgstr "Saigo"
+
+msgctxt "3682"
+msgid "桂"
+msgstr "Gui"
+
+msgctxt "3738"
+msgid "接待しに入る"
+msgstr "Enter entertainment"
+
+msgctxt "3751"
+msgid "入らない"
+msgstr "Do not fit"

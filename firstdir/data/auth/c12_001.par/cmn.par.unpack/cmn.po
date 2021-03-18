@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "572"
+msgid "と西郷吉之助による「薩長同盟」は"
+msgstr "Saigo Yoshinosuke's \"Satcho Alliance\""
+
+msgctxt "2748"
+msgid "本龍馬”が暗躍し"
+msgstr "\"Hon Ryoma\" goes dark"
+
+msgctxt "3020"
+msgid "いう"
+msgstr "Say"
+
+msgctxt "6188"
+msgid "と西郷吉之助による「薩長同盟」は"
+msgstr "Saigo Yoshinosuke's \"Satcho Alliance\""
+
+msgctxt "8364"
+msgid "本龍馬”が暗躍し"
+msgstr "\"Hon Ryoma\" goes dark"
+
+msgctxt "8636"
+msgid "いう"
+msgstr "Say"
+
+msgctxt "11804"
+msgid "と西郷吉之助による「薩長同盟」は"
+msgstr "Saigo Yoshinosuke's \"Satcho Alliance\""
+
+msgctxt "13980"
+msgid "本龍馬”が暗躍し"
+msgstr "\"Hon Ryoma\" goes dark"
+
+msgctxt "14252"
+msgid "いう"
+msgstr "Say"
+
+msgctxt "17420"
+msgid "と西郷吉之助による「薩長同盟」は"
+msgstr "Saigo Yoshinosuke's \"Satcho Alliance\""
+
+msgctxt "19596"
+msgid "本龍馬”が暗躍し"
+msgstr "\"Hon Ryoma\" goes dark"
+
+msgctxt "19868"
+msgid "いう"
+msgstr "Say"
+
+msgctxt "23036"
+msgid "と西郷吉之助による「薩長同盟」は"
+msgstr "Saigo Yoshinosuke's \"Satcho Alliance\""
+
+msgctxt "25212"
+msgid "本龍馬”が暗躍し"
+msgstr "\"Hon Ryoma\" goes dark"
+
+msgctxt "25484"
+msgid "いう"
+msgstr "Say"

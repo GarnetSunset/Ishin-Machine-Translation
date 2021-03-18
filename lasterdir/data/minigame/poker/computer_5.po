@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "NAME_0"
+msgid "地味目な時郎長"
+msgstr "Sober Tokiroucho"
+
+msgctxt "CHARACTER_0"
+msgid "0"
+msgstr ""
+
+msgctxt "MONEY_0"
+msgid "7500"
+msgstr ""
+
+msgctxt "BLUFF_MESSAGE_0"
+msgid "これは負けるかな…"
+msgstr "I wonder if this will lose ..."
+
+msgctxt "BLUFF_MESSAGE_1"
+msgid "いまいち運が悪いな…"
+msgstr "I'm not so lucky ..."
+
+msgctxt "BLUFF_MESSAGE_2"
+msgid "勝てそうやな…"
+msgstr "I think I can win ..."
+
+msgctxt "BLUFF_MESSAGE_3"
+msgid "これは震えが止まらんな…"
+msgstr "This doesn't stop trembling ..."
+
+msgctxt "GAME_MESSAGE_0"
+msgid "よろしくな…"
+msgstr "nice to meet you…"
+
+msgctxt "GAME_MESSAGE_1"
+msgid "じゃあな…"
+msgstr "See you…"
+
+msgctxt "RITIRE_MESSAGE_0"
+msgid "お前はもう終わりだな…"
+msgstr "You're done ..."
+
+msgctxt "RITIRE_MESSAGE_1"
+msgid "また、会えたらええな…"
+msgstr "I wish I could meet again ..."

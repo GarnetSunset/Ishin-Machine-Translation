@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "ID_0"
+msgid "kiryu_attack1"
+msgstr ""
+
+msgctxt "ID_1"
+msgid "kiryu_attack2"
+msgstr ""
+
+msgctxt "ID_2"
+msgid "kiryu_pursuit"
+msgstr ""
+
+msgctxt "ID_3"
+msgid "kiryu_escape"
+msgstr ""
+
+msgctxt "ID_4"
+msgid "kiryu_jump"
+msgstr ""
+
+msgctxt "ID_5"
+msgid "kiryu_damage"
+msgstr ""
+
+msgctxt "ID_6"
+msgid "akiyama_attack1"
+msgstr ""
+
+msgctxt "ID_7"
+msgid "akiyama_attack2"
+msgstr ""
+
+msgctxt "ID_8"
+msgid "akiyama_pursuit"
+msgstr ""
+
+msgctxt "ID_9"
+msgid "akiyama_escape"
+msgstr ""
+
+msgctxt "ID_10"
+msgid "akiyama_jump"
+msgstr ""
+
+msgctxt "ID_11"
+msgid "akiyama_damage"
+msgstr ""
+
+msgctxt "ID_12"
+msgid "saejima_attack1"
+msgstr ""
+
+msgctxt "ID_13"
+msgid "saejima_attack2"
+msgstr ""
+
+msgctxt "ID_14"
+msgid "saejima_pursuit"
+msgstr ""
+
+msgctxt "ID_15"
+msgid "saejima_escape"
+msgstr ""
+
+msgctxt "ID_16"
+msgid "saejima_jump"
+msgstr ""
+
+msgctxt "ID_17"
+msgid "saejima_damage"
+msgstr ""
+
+msgctxt "ID_18"
+msgid "shinada_attack1"
+msgstr ""
+
+msgctxt "ID_19"
+msgid "shinada_attack2"
+msgstr ""
+
+msgctxt "ID_20"
+msgid "shinada_pursuit"
+msgstr ""
+
+msgctxt "ID_21"
+msgid "shinada_escape"
+msgstr ""
+
+msgctxt "ID_22"
+msgid "shinada_jump"
+msgstr ""
+
+msgctxt "ID_23"
+msgid "shinada_damage"
+msgstr ""
+
+msgctxt "ID_24"
+msgid "1_4_yahatasyatei_attack1"
+msgstr ""
+
+msgctxt "ID_25"
+msgid "1_4_yahatasyatei_attack2"
+msgstr ""
+
+msgctxt "ID_26"
+msgid "1_4_yahatasyatei_pursuit"
+msgstr ""
+
+msgctxt "ID_27"
+msgid "1_4_yahatasyatei_escape"
+msgstr ""
+
+msgctxt "ID_28"
+msgid "1_4_yahatasyatei_jump"
+msgstr ""
+
+msgctxt "ID_29"
+msgid "1_4_yahatasyatei_damage"
+msgstr ""
+
+msgctxt "ID_30"
+msgid "2_1_keimukan_attack1"
+msgstr ""
+
+msgctxt "ID_31"
+msgid "2_1_keimukan_attack2"
+msgstr ""
+
+msgctxt "ID_32"
+msgid "2_1_keimukan_pursuit"
+msgstr ""
+
+msgctxt "ID_33"
+msgid "2_1_keimukan_escape"
+msgstr ""
+
+msgctxt "ID_34"
+msgid "2_1_keimukan_jump"
+msgstr ""
+
+msgctxt "ID_35"
+msgid "2_1_keimukan_damage"
+msgstr ""
+
+msgctxt "ID_36"
+msgid "2_1_keimukan_02_attack1"
+msgstr ""
+
+msgctxt "ID_37"
+msgid "2_1_keimukan_02_attack2"
+msgstr ""
+
+msgctxt "ID_38"
+msgid "2_1_keimukan_02_pursuit"
+msgstr ""
+
+msgctxt "ID_39"
+msgid "2_1_keimukan_02_escape"
+msgstr ""
+
+msgctxt "ID_40"
+msgid "2_1_keimukan_02_jump"
+msgstr ""
+
+msgctxt "ID_41"
+msgid "2_1_keimukan_02_damage"
+msgstr ""
+
+msgctxt "ID_42"
+msgid "2_4_baba_damage"
+msgstr ""
+
+msgctxt "ID_43"
+msgid "4_2_otoko_attack1"
+msgstr ""
+
+msgctxt "ID_44"
+msgid "4_2_otoko_attack2"
+msgstr ""
+
+msgctxt "ID_45"
+msgid "4_2_otoko_pursuit"
+msgstr ""
+
+msgctxt "ID_46"
+msgid "4_2_otoko_escape"
+msgstr ""
+
+msgctxt "ID_47"
+msgid "4_2_otoko_jump"
+msgstr ""
+
+msgctxt "ID_48"
+msgid "4_2_otoko_damage"
+msgstr ""
+
+msgctxt "ID_49"
+msgid "4_3_forklift_attack1"
+msgstr ""
+
+msgctxt "ID_50"
+msgid "4_3_forklift_attack2"
+msgstr ""
+
+msgctxt "ID_51"
+msgid "4_3_forklift_pursuit"
+msgstr ""
+
+msgctxt "ID_52"
+msgid "4_3_forklift_escape"
+msgstr ""
+
+msgctxt "ID_53"
+msgid "4_3_forklift_jump"
+msgstr ""
+
+msgctxt "ID_54"
+msgid "4_3_forklift_damage"
+msgstr ""
+
+msgctxt "ID_55"
+msgid "sub_b06_01_attack1"
+msgstr ""
+
+msgctxt "ID_56"
+msgid "sub_b06_01_attack2"
+msgstr ""
+
+msgctxt "ID_57"
+msgid "sub_b06_01_pursuit"
+msgstr ""
+
+msgctxt "ID_58"
+msgid "sub_b06_01_escape"
+msgstr ""
+
+msgctxt "ID_59"
+msgid "sub_b06_01_jump"
+msgstr ""
+
+msgctxt "ID_60"
+msgid "sub_b06_01_damage"
+msgstr ""
+
+msgctxt "ID_61"
+msgid "sub_b06_02_attack1"
+msgstr ""
+
+msgctxt "ID_62"
+msgid "sub_b06_02_attack2"
+msgstr ""
+
+msgctxt "ID_63"
+msgid "sub_b06_02_pursuit"
+msgstr ""
+
+msgctxt "ID_64"
+msgid "sub_b06_02_escape"
+msgstr ""
+
+msgctxt "ID_65"
+msgid "sub_b06_02_jump"
+msgstr ""
+
+msgctxt "ID_66"
+msgid "sub_b06_02_damage"
+msgstr ""
+
+msgctxt "ID_67"
+msgid "sub_b06_03_attack1"
+msgstr ""
+
+msgctxt "ID_68"
+msgid "sub_b06_03_attack2"
+msgstr ""
+
+msgctxt "ID_69"
+msgid "sub_b06_03_pursuit"
+msgstr ""
+
+msgctxt "ID_70"
+msgid "sub_b06_03_escape"
+msgstr ""
+
+msgctxt "ID_71"
+msgid "sub_b06_03_jump"
+msgstr ""
+
+msgctxt "ID_72"
+msgid "sub_b06_03_damage"
+msgstr ""
+
+msgctxt "ID_73"
+msgid "sub_d04_attack1"
+msgstr ""
+
+msgctxt "ID_74"
+msgid "sub_d04_attack2"
+msgstr ""
+
+msgctxt "ID_75"
+msgid "sub_d04_pursuit"
+msgstr ""
+
+msgctxt "ID_76"
+msgid "sub_d04_escape"
+msgstr ""
+
+msgctxt "ID_77"
+msgid "sub_d04_jump"
+msgstr ""
+
+msgctxt "ID_78"
+msgid "sub_d04_damage"
+msgstr ""
+
+msgctxt "ID_79"
+msgid "sub_d07_01_attack1"
+msgstr ""
+
+msgctxt "ID_80"
+msgid "sub_d07_01_attack2"
+msgstr ""
+
+msgctxt "ID_81"
+msgid "sub_d07_01_pursuit"
+msgstr ""
+
+msgctxt "ID_82"
+msgid "sub_d07_01_escape"
+msgstr ""
+
+msgctxt "ID_83"
+msgid "sub_d07_01_jump"
+msgstr ""
+
+msgctxt "ID_84"
+msgid "sub_d07_01_damage"
+msgstr ""
+
+msgctxt "ID_85"
+msgid "sub_d07_02_attack1"
+msgstr ""
+
+msgctxt "ID_86"
+msgid "sub_d07_02_attack2"
+msgstr ""
+
+msgctxt "ID_87"
+msgid "sub_d07_02_follow"
+msgstr ""
+
+msgctxt "ID_88"
+msgid "sub_d07_02_escape"
+msgstr ""
+
+msgctxt "ID_89"
+msgid "sub_d07_02_jump"
+msgstr ""
+
+msgctxt "ID_90"
+msgid "sub_d07_02_damage"
+msgstr ""
+
+msgctxt "ID_91"
+msgid "sub_d15_attack1"
+msgstr ""
+
+msgctxt "ID_92"
+msgid "sub_d15_attack2"
+msgstr ""
+
+msgctxt "ID_93"
+msgid "sub_d15_pursuit"
+msgstr ""
+
+msgctxt "ID_94"
+msgid "sub_d15_escape"
+msgstr ""
+
+msgctxt "ID_95"
+msgid "sub_d15_jump"
+msgstr ""
+
+msgctxt "ID_96"
+msgid "sub_d15_damage"
+msgstr ""
+
+msgctxt "ID_97"
+msgid "sub_e02_attack1"
+msgstr ""
+
+msgctxt "ID_98"
+msgid "sub_e02_attack2"
+msgstr ""
+
+msgctxt "ID_99"
+msgid "sub_e02_pursuit"
+msgstr ""
+
+msgctxt "ID_100"
+msgid "sub_e02_escape"
+msgstr ""
+
+msgctxt "ID_101"
+msgid "sub_e02_jump"
+msgstr ""
+
+msgctxt "ID_102"
+msgid "sub_e02_damage"
+msgstr ""
+
+msgctxt "ID_103"
+msgid "sub_e11_attack1"
+msgstr ""
+
+msgctxt "ID_104"
+msgid "sub_e11_attack2"
+msgstr ""
+
+msgctxt "ID_105"
+msgid "sub_e11_pursuit"
+msgstr ""
+
+msgctxt "ID_106"
+msgid "sub_e11_escape"
+msgstr ""
+
+msgctxt "ID_107"
+msgid "sub_e11_jump"
+msgstr ""
+
+msgctxt "ID_108"
+msgid "sub_e11_damage"
+msgstr ""
+
+msgctxt "ID_109"
+msgid "sub_e12_attack1"
+msgstr ""
+
+msgctxt "ID_110"
+msgid "sub_e12_attack2"
+msgstr ""
+
+msgctxt "ID_111"
+msgid "sub_e12_pursuit"
+msgstr ""
+
+msgctxt "ID_112"
+msgid "sub_e12_escape"
+msgstr ""
+
+msgctxt "ID_113"
+msgid "sub_e12_jump"
+msgstr ""
+
+msgctxt "ID_114"
+msgid "sub_e12_damage"
+msgstr ""
+
+msgctxt "ID_115"
+msgid "sub_e14_attack1"
+msgstr ""
+
+msgctxt "ID_116"
+msgid "sub_e14_attack2"
+msgstr ""
+
+msgctxt "ID_117"
+msgid "sub_e14_pursuit"
+msgstr ""
+
+msgctxt "ID_118"
+msgid "sub_e14_escape"
+msgstr ""
+
+msgctxt "ID_119"
+msgid "sub_e14_jump"
+msgstr ""
+
+msgctxt "ID_120"
+msgid "sub_e14_damage"
+msgstr ""
+
+msgctxt "ID_121"
+msgid "sub_e15_escape"
+msgstr ""
+
+msgctxt "ID_122"
+msgid "tr21_attack1"
+msgstr ""
+
+msgctxt "ID_123"
+msgid "tr21_attack2"
+msgstr ""
+
+msgctxt "ID_124"
+msgid "tr21_pursuit"
+msgstr ""
+
+msgctxt "ID_125"
+msgid "tr21_escape"
+msgstr ""
+
+msgctxt "ID_126"
+msgid "tr21_jump"
+msgstr ""
+
+msgctxt "ID_127"
+msgid "tr21_damage"
+msgstr ""
+
+msgctxt "ID_128"
+msgid "test_pursuit_attack1"
+msgstr ""
+
+msgctxt "ID_129"
+msgid "test_pursuit_attack2"
+msgstr ""
+
+msgctxt "ID_130"
+msgid "test_pursuit_pursuit"
+msgstr ""
+
+msgctxt "ID_131"
+msgid "test_pursuit_escape"
+msgstr ""
+
+msgctxt "ID_132"
+msgid "test_pursuit_jump"
+msgstr ""
+
+msgctxt "ID_133"
+msgid "test_pursuit_damage"
+msgstr ""
+
+msgctxt "ID_134"
+msgid "test_escape_attack1"
+msgstr ""
+
+msgctxt "ID_135"
+msgid "test_escape_attack2"
+msgstr ""
+
+msgctxt "ID_136"
+msgid "test_escape_pursuit"
+msgstr ""
+
+msgctxt "ID_137"
+msgid "test_escape_escape"
+msgstr ""
+
+msgctxt "ID_138"
+msgid "test_escape_jump"
+msgstr ""
+
+msgctxt "ID_139"
+msgid "test_escape_damage"
+msgstr ""
+
+msgctxt "POPUP_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "POPUP_1"
+msgid "はぁ…はぁ…"
+msgstr "Hmm ... Hmm ..."
+
+msgctxt "POPUP_2"
+msgid "いてぇっ！"
+msgstr "Hey!"
+
+msgctxt "POPUP_3"
+msgid "待て！冴島！"
+msgstr "wait! Saejima!"
+
+msgctxt "POPUP_4"
+msgid "待ちなさい！"
+msgstr "Wait!"
+
+msgctxt "POPUP_5"
+msgid "くそっ…はぁ…"
+msgstr "Damn ... huh ..."
+
+msgctxt "POPUP_6"
+msgid "いってっ！"
+msgstr "Say it!"
+
+msgctxt "POPUP_7"
+msgid "おら！待ちゃー！"
+msgstr "Oh! Wait!"
+
+msgctxt "POPUP_8"
+msgid "サンタさん待って！"
+msgstr "Wait for Santa!"
+
+msgctxt "POPUP_9"
+msgid "サンタさ～ん！"
+msgstr "Santa Claus!"
+
+msgctxt "POPUP_10"
+msgid "わ～い！"
+msgstr "Wow!"
+
+msgctxt "POPUP_11"
+msgid "うおおおおおおっ！"
+msgstr "Uoooooooooooooooooooooooooooooooooooooooo!"
+
+msgctxt "POPUP_12"
+msgid "痛っ！"
+msgstr "ow!"
+
+msgctxt "POPUP_13"
+msgid "なんだよ～"
+msgstr "What is it ~"
+
+msgctxt "POPUP_14"
+msgid "痛い！"
+msgstr "painful!"
+
+msgctxt "POPUP_15"
+msgid "くそっ！"
+msgstr "Damn!"
+
+msgctxt "POPUP_16"
+msgid "うっ！"
+msgstr "Ugh!"
+
+msgctxt "POPUP_17"
+msgid "ぐっ！"
+msgstr "Good!"
+
+msgctxt "POPUP_18"
+msgid "くっ！"
+msgstr "Kuu!"
+
+msgctxt "POPUP_19"
+msgid "おい！待て！"
+msgstr "Hey! wait!"
+
+msgctxt "POPUP_20"
+msgid "はっ！"
+msgstr "Hah!"
+
+msgctxt "POPUP_21"
+msgid "よっと！"
+msgstr "Yacht!"
+
+msgctxt "POPUP_22"
+msgid "来いよ！"
+msgstr "come!"
+
+msgctxt "POPUP_23"
+msgid "がっ！"
+msgstr "Gat!"
+
+msgctxt "POPUP_24"
+msgid "attack1"
+msgstr ""
+
+msgctxt "POPUP_25"
+msgid "attack2"
+msgstr ""
+
+msgctxt "POPUP_26"
+msgid "pursuit"
+msgstr ""
+
+msgctxt "POPUP_27"
+msgid "escape"
+msgstr ""
+
+msgctxt "POPUP_28"
+msgid "jump"
+msgstr ""
+
+msgctxt "POPUP_29"
+msgid "damage"
+msgstr ""
+
+msgctxt "SOUND_ID_0"
+msgid "voice::eID_chaser_attack1"
+msgstr ""
+
+msgctxt "SOUND_ID_1"
+msgid "voice::eID_chaser_attack2"
+msgstr ""
+
+msgctxt "SOUND_ID_2"
+msgid "voice::eID_chaser_follow"
+msgstr ""
+
+msgctxt "SOUND_ID_3"
+msgid "voice::eID_chaser_escape"
+msgstr ""
+
+msgctxt "SOUND_ID_4"
+msgid "voice::eID_chaser_jump"
+msgstr ""
+
+msgctxt "SOUND_ID_5"
+msgid "voice::eID_chaser_damage"
+msgstr ""
+
+msgctxt "SOUND_ID_6"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "SOUND_ID_7"
+msgid "voice::eID_chaser_pursuit"
+msgstr ""

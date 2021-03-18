@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7065"
+msgid "チッ！　谷の奴、おっ始めおったな……!!"
+msgstr "Chi! The guy in the valley, you're starting ... !!"
+
+msgctxt "7104"
+msgid "我々も行くぞ。"
+msgstr "We will go too."
+
+msgctxt "7119"
+msgid "ああ。"
+msgstr "Oh."
+
+msgctxt "7133"
+msgid "チッ。来たのか。手前も賞金狙いってわけだ。"
+msgstr "Chit. Did you come? The front is also aimed at the prize money."
+
+msgctxt "7176"
+msgid "私が呼んだ。この戦力では心許ないからな。"
+msgstr "I called. I can't help with this strength."
+
+msgctxt "7217"
+msgid ""
+"あ？\n"
+"“無用の六番隊長”がなに抜かしとんねん。\n"
+"てめえなんざ足手まといにしかならんやろが。"
+msgstr ""
+"Ah? What is the \"useless sixth captain\" missing? It's just a matter of "
+"footsteps."
+
+msgctxt "7308"
+msgid "お前らの足を引っ張る気はない。"
+msgstr "I have no intention of pulling your legs."
+
+msgctxt "7339"
+msgid ""
+"ジジイは引っこんでろ言うとんねん！\n"
+"斎藤、お前もや。"
+msgstr "Jijii tells me to withdraw! Saito, you too."
+
+msgctxt "7393"
+msgid ""
+"うるせえな、鈴木。\n"
+"お前の出る幕もねえんだよ。\n"
+"……以蔵を獲んのは俺だけだ！"
+msgstr ""
+"Noisy, Suzuki. There's no curtain for you. ...... I'm the only one who got "
+"Izo!"
+
+msgctxt "7470"
+msgid "谷、てめえ!!"
+msgstr "Valley, hey !!"
+
+msgctxt "7484"
+msgid "あ？　何だあれ……"
+msgstr "Ah? What is that ..."
+
+msgctxt "7503"
+msgid "おいあれ、新選組じゃ……！"
+msgstr "Hey, Shinsengumi ...!"
+
+msgctxt "7531"
+msgid "なっ!?　速え！"
+msgstr "What !? Hurry up!"
+
+msgctxt "7547"
+msgid "おい！　まだ来るぞ！"
+msgstr "Hey! I'm still coming!"
+
+msgctxt "7569"
+msgid "新選組や！　どけぇ！"
+msgstr "Shinsengumi! Doke!"
+
+msgctxt "7590"
+msgid "くそ！　ナメんじゃねえ!!"
+msgstr "Fuck! It ’s not good !!"
+
+msgctxt "9059"
+msgid "鈴木"
+msgstr "Suzuki"
+
+msgctxt "9082"
+msgid "井上"
+msgstr "Inoue"
+
+msgctxt "9104"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "9137"
+msgid "谷"
+msgstr "Valley"
+
+msgctxt "9361"
+msgid "賭場の見張り"
+msgstr "Lookout of the gambling house"
+
+msgctxt "9394"
+msgid "賭場の用心棒"
+msgstr "Casino bouncer"

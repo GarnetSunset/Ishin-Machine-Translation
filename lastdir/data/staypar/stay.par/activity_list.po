@@ -1,0 +1,1391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "CATEGORY_0"
+msgid "アドベンチャー"
+msgstr "アドベンチャー"
+
+msgctxt "CATEGORY_1"
+msgid "アナザーライフ"
+msgstr "アナザーライフ"
+
+msgctxt "CATEGORY_2"
+msgid "交流（店舗）"
+msgstr "交流（店舗）"
+
+msgctxt "CATEGORY_3"
+msgid "交流（人物）"
+msgstr "交流（人物）"
+
+msgctxt "CATEGORY_4"
+msgid "バトル"
+msgstr "バトル"
+
+msgctxt "ACTIVITY_NAME_0"
+msgid "人に100回話しかける"
+msgstr "Talk to people 100 times"
+
+msgctxt "ACTIVITY_NAME_1"
+msgid "人に300回話しかける"
+msgstr "Talk to a person 300 times"
+
+msgctxt "ACTIVITY_NAME_2"
+msgid "人に500回話しかける"
+msgstr "Talk to a person 500 times"
+
+msgctxt "ACTIVITY_NAME_3"
+msgid "飲食店で20回食事をする"
+msgstr "Eat 20 times at a restaurant"
+
+msgctxt "ACTIVITY_NAME_4"
+msgid "飲食店で50回食事をする"
+msgstr "Eat 50 times at a restaurant"
+
+msgctxt "ACTIVITY_NAME_5"
+msgid "飲食店で100回食事をする"
+msgstr "Eat 100 times at a restaurant"
+
+msgctxt "ACTIVITY_NAME_6"
+msgid "飲食店で200回食事をする"
+msgstr "Eat 200 times at a restaurant"
+
+msgctxt "ACTIVITY_NAME_7"
+msgid "壺からアイテムを20個入手する"
+msgstr "Obtain 20 items from the jar"
+
+msgctxt "ACTIVITY_NAME_8"
+msgid "壺からアイテムを50個入手する"
+msgstr "Obtain 50 items from the jar"
+
+msgctxt "ACTIVITY_NAME_9"
+msgid "壺からアイテムを100個入手する"
+msgstr "Obtain 100 items from the jar"
+
+msgctxt "ACTIVITY_NAME_10"
+msgid "神社や地蔵を20回拝む"
+msgstr "Worship shrines and Jizo 20 times"
+
+msgctxt "ACTIVITY_NAME_11"
+msgid "神社や地蔵を50回拝む"
+msgstr "Worship shrines and Jizo 50 times"
+
+msgctxt "ACTIVITY_NAME_12"
+msgid "神社や地蔵を100回拝む"
+msgstr "Worship shrines and Jizo 100 times"
+
+msgctxt "ACTIVITY_NAME_13"
+msgid "プレイスポットで30回遊ぶ"
+msgstr "Play 30 times at the play spot"
+
+msgctxt "ACTIVITY_NAME_14"
+msgid "プレイスポットで100回遊ぶ"
+msgstr "Play 100 times at the play spot"
+
+msgctxt "ACTIVITY_NAME_15"
+msgid "プレイスポットで200回遊ぶ"
+msgstr "Play 200 times at the play spot"
+
+msgctxt "ACTIVITY_NAME_16"
+msgid "食事アイテムを30個食べる"
+msgstr "Eat 30 meal items"
+
+msgctxt "ACTIVITY_NAME_17"
+msgid "食事アイテムを100個食べる"
+msgstr "Eat 100 meal items"
+
+msgctxt "ACTIVITY_NAME_18"
+msgid "食事アイテムを200個食べる"
+msgstr "Eat 200 meal items"
+
+msgctxt "ACTIVITY_NAME_19"
+msgid "食事アイテムを400個食べる"
+msgstr "Eat 400 meal items"
+
+msgctxt "ACTIVITY_NAME_20"
+msgid "薬アイテムを20回使用する"
+msgstr "Use the medicine item 20 times"
+
+msgctxt "ACTIVITY_NAME_21"
+msgid "薬アイテムを50回使用する"
+msgstr "Use the medicine item 50 times"
+
+msgctxt "ACTIVITY_NAME_22"
+msgid "薬アイテムを100回使用する"
+msgstr "Use the medicine item 100 times"
+
+msgctxt "ACTIVITY_NAME_23"
+msgid "薬アイテムを200回使用する"
+msgstr "Use the medicine item 200 times"
+
+msgctxt "ACTIVITY_NAME_24"
+msgid "駕籠を使って20回移動する"
+msgstr "Move 20 times using the Kago"
+
+msgctxt "ACTIVITY_NAME_25"
+msgid "駕籠を使って50回移動する"
+msgstr "Move 50 times using Kago"
+
+msgctxt "ACTIVITY_NAME_26"
+msgid "駕籠を使って100回移動する"
+msgstr "Move 100 times using Kago"
+
+msgctxt "ACTIVITY_NAME_27"
+msgid "洛内での評判レベルを3にする"
+msgstr "Raise the reputation level in Rakuchu to 3"
+
+msgctxt "ACTIVITY_NAME_28"
+msgid "洛内での評判レベルを7にする"
+msgstr "Raise the reputation level in Rakuchu to 7"
+
+msgctxt "ACTIVITY_NAME_29"
+msgid "洛内での評判レベルをMAXにする"
+msgstr "Maximize the reputation level in Rakuchu"
+
+msgctxt "ACTIVITY_NAME_30"
+msgid "洛外での評判レベルを3にする"
+msgstr "Raise the reputation level in Rakuchu to 3"
+
+msgctxt "ACTIVITY_NAME_31"
+msgid "洛外での評判レベルを7にする"
+msgstr "Raise the reputation level in Rakuchu to 7"
+
+msgctxt "ACTIVITY_NAME_32"
+msgid "洛外での評判レベルをMAXにする"
+msgstr "Maximize the reputation level in Rakuchu"
+
+msgctxt "ACTIVITY_NAME_33"
+msgid "骸街での評判レベルを3にする"
+msgstr "Raise the reputation level in the skeleton to 3"
+
+msgctxt "ACTIVITY_NAME_34"
+msgid "骸街での評判レベルを7にする"
+msgstr "Raise the reputation level in the skeleton to 7"
+
+msgctxt "ACTIVITY_NAME_35"
+msgid "骸街での評判レベルをMAXにする"
+msgstr "Maximize the reputation level in the skeleton"
+
+msgctxt "ACTIVITY_NAME_36"
+msgid "伏見での評判レベルを3にする"
+msgstr "Set reputation level in Fushimi to 3"
+
+msgctxt "ACTIVITY_NAME_37"
+msgid "伏見での評判レベルを7にする"
+msgstr "Set reputation level in Fushimi to 7"
+
+msgctxt "ACTIVITY_NAME_38"
+msgid "伏見での評判レベルをMAXにする"
+msgstr "Maximize the reputation level in Fushimi"
+
+msgctxt "ACTIVITY_NAME_39"
+msgid "祗園での評判レベルを3にする"
+msgstr "Raise the reputation level in Gion to 3"
+
+msgctxt "ACTIVITY_NAME_40"
+msgid "祗園での評判レベルを7にする"
+msgstr "Raise the reputation level in Gion to 7"
+
+msgctxt "ACTIVITY_NAME_41"
+msgid "祗園での評判レベルをMAXにする"
+msgstr "Maximize the reputation level in Gion"
+
+msgctxt "ACTIVITY_NAME_42"
+msgid "お金を30両使う"
+msgstr "Spend 30 money"
+
+msgctxt "ACTIVITY_NAME_43"
+msgid "お金を100両使う"
+msgstr "Spend 100 money"
+
+msgctxt "ACTIVITY_NAME_44"
+msgid "お金を300両使う"
+msgstr "Spend 300 money"
+
+msgctxt "ACTIVITY_NAME_45"
+msgid "お金を500両使う"
+msgstr "Spend 500 money"
+
+msgctxt "ACTIVITY_NAME_46"
+msgid "自分の足で30km移動する"
+msgstr "Move 30km with your own feet"
+
+msgctxt "ACTIVITY_NAME_47"
+msgid "自分の足で100km移動する"
+msgstr "Move 100km with your own feet"
+
+msgctxt "ACTIVITY_NAME_48"
+msgid "自分の足で200km移動する"
+msgstr "Travel 200km with your own feet"
+
+msgctxt "ACTIVITY_NAME_49"
+msgid "ダッシュで5km移動する"
+msgstr "Travel 5km with a dash"
+
+msgctxt "ACTIVITY_NAME_50"
+msgid "ダッシュで20km移動する"
+msgstr "Travel 20km with a dash"
+
+msgctxt "ACTIVITY_NAME_51"
+msgid "ダッシュで50km移動する"
+msgstr "Travel 50km with a dash"
+
+msgctxt "ACTIVITY_NAME_52"
+msgid "井戸で20回水を汲む"
+msgstr "Fetch water 20 times in a well"
+
+msgctxt "ACTIVITY_NAME_53"
+msgid "井戸で50回水を汲む"
+msgstr "Fetch water 50 times in a well"
+
+msgctxt "ACTIVITY_NAME_54"
+msgid "井戸で100回水を汲む"
+msgstr "Fetch water 100 times in a well"
+
+msgctxt "ACTIVITY_NAME_55"
+msgid "請け負った荷物を10回届ける"
+msgstr "Deliver the contracted package 10 times"
+
+msgctxt "ACTIVITY_NAME_56"
+msgid "請け負った荷物を30回届ける"
+msgstr "Deliver the contracted luggage 30 times"
+
+msgctxt "ACTIVITY_NAME_57"
+msgid "請け負った荷物を50回届ける"
+msgstr "Deliver the contracted package 50 times"
+
+msgctxt "ACTIVITY_NAME_58"
+msgid "薪を100回割る"
+msgstr "Break firewood 100 times"
+
+msgctxt "ACTIVITY_NAME_59"
+msgid "薪を300回割る"
+msgstr "Break firewood 300 times"
+
+msgctxt "ACTIVITY_NAME_60"
+msgid "薪を1000回割る"
+msgstr "Break firewood 1000 times"
+
+msgctxt "ACTIVITY_NAME_61"
+msgid "農作物を50個収穫する"
+msgstr "Harvest 50 crops"
+
+msgctxt "ACTIVITY_NAME_62"
+msgid "農作物を200個収穫する"
+msgstr "Harvest 200 crops"
+
+msgctxt "ACTIVITY_NAME_63"
+msgid "農作物を500個収穫する"
+msgstr "Harvest 500 crops"
+
+msgctxt "ACTIVITY_NAME_64"
+msgid "農作物を1000個収穫する"
+msgstr "Harvest 1000 crops"
+
+msgctxt "ACTIVITY_NAME_65"
+msgid "農作物を1500個収穫する"
+msgstr "Harvest 1500 crops"
+
+msgctxt "ACTIVITY_NAME_66"
+msgid "朝鮮人参を50本収穫する"
+msgstr "Harvest 50 ginseng"
+
+msgctxt "ACTIVITY_NAME_67"
+msgid "きゃべつを100個収穫する"
+msgstr "Harvest 100 cabbage"
+
+msgctxt "ACTIVITY_NAME_68"
+msgid "里芋を100個収穫する"
+msgstr "Harvest 100 taro"
+
+msgctxt "ACTIVITY_NAME_69"
+msgid "とまとを100個収穫する"
+msgstr "Harvest 100 Tomato"
+
+msgctxt "ACTIVITY_NAME_70"
+msgid "いちごを100個収穫する"
+msgstr "Harvest 100 strawberries"
+
+msgctxt "ACTIVITY_NAME_71"
+msgid "料理を10回行う"
+msgstr "Cook 10 times"
+
+msgctxt "ACTIVITY_NAME_72"
+msgid "料理を30回行う"
+msgstr "Cook 30 times"
+
+msgctxt "ACTIVITY_NAME_73"
+msgid "料理を50回行う"
+msgstr "Cook 50 times"
+
+msgctxt "ACTIVITY_NAME_74"
+msgid "料理を100回行う"
+msgstr "Cook 100 times"
+
+msgctxt "ACTIVITY_NAME_75"
+msgid "料理を200回行う"
+msgstr "Cook 200 times"
+
+msgctxt "ACTIVITY_NAME_76"
+msgid "飼い犬と10回交流する"
+msgstr "Interact with your dog 10 times"
+
+msgctxt "ACTIVITY_NAME_77"
+msgid "飼い犬と30回交流する"
+msgstr "Interact with your dog 30 times"
+
+msgctxt "ACTIVITY_NAME_78"
+msgid "飼い犬と100回交流する"
+msgstr "Interact with your dog 100 times"
+
+msgctxt "ACTIVITY_NAME_79"
+msgid "飼い猫と10回交流する"
+msgstr "Interact with your cat 10 times"
+
+msgctxt "ACTIVITY_NAME_80"
+msgid "飼い猫と30回交流する"
+msgstr "Interact with your cat 30 times"
+
+msgctxt "ACTIVITY_NAME_81"
+msgid "飼い猫と100回交流する"
+msgstr "Interact with your cat 100 times"
+
+msgctxt "ACTIVITY_NAME_82"
+msgid "卵を10個収穫する"
+msgstr "Harvest 10 eggs"
+
+msgctxt "ACTIVITY_NAME_83"
+msgid "卵を30個収穫する"
+msgstr "Harvest 30 eggs"
+
+msgctxt "ACTIVITY_NAME_84"
+msgid "卵を100個収穫する"
+msgstr "Harvest 100 eggs"
+
+msgctxt "ACTIVITY_NAME_85"
+msgid "行商で取引を30件成立させる"
+msgstr "Close 30 transactions with a peddler"
+
+msgctxt "ACTIVITY_NAME_86"
+msgid "行商で取引を100件成立させる"
+msgstr "Complete 100 transactions with a peddler"
+
+msgctxt "ACTIVITY_NAME_87"
+msgid "行商で取引を200件成立させる"
+msgstr "Close 200 transactions with a peddler"
+
+msgctxt "ACTIVITY_NAME_88"
+msgid "魚を30匹釣る"
+msgstr "Catch 30 fish"
+
+msgctxt "ACTIVITY_NAME_89"
+msgid "魚を100匹釣る"
+msgstr "Catch 100 fish"
+
+msgctxt "ACTIVITY_NAME_90"
+msgid "魚を200匹釣る"
+msgstr "Catch 200 fish"
+
+msgctxt "ACTIVITY_NAME_91"
+msgid "マグロを10匹釣る"
+msgstr "Catch 10 tuna"
+
+msgctxt "ACTIVITY_NAME_92"
+msgid "大物のマグロを釣る"
+msgstr "Catch big tuna"
+
+msgctxt "ACTIVITY_NAME_93"
+msgid "布団での和みイベントを見る"
+msgstr "Watch a relaxing event on a futon"
+
+msgctxt "ACTIVITY_NAME_94"
+msgid "お風呂での和みイベントを見る"
+msgstr "Watch a relaxing event in the bath"
+
+msgctxt "ACTIVITY_NAME_95"
+msgid "居間での和みイベントを見る"
+msgstr "Watch a relaxing event in the living room"
+
+msgctxt "ACTIVITY_NAME_96"
+msgid "庭での和みイベントを見る"
+msgstr "Watch a relaxing event in the garden"
+
+msgctxt "ACTIVITY_NAME_97"
+msgid "歌まる屋の主人との絆"
+msgstr "Bonds with the owner of the singing shop"
+
+msgctxt "ACTIVITY_NAME_98"
+msgid "うまい屋うどんの主人との絆"
+msgstr "Bonds with the owner of Takoyaki Udon"
+
+msgctxt "ACTIVITY_NAME_99"
+msgid "にちぶ座の舞城先生との絆"
+msgstr "Bonds with Maijo-sensei in Nichibu-za"
+
+msgctxt "ACTIVITY_NAME_100"
+msgid "神主との絆"
+msgstr "Bond with the priest"
+
+msgctxt "ACTIVITY_NAME_101"
+msgid "あかりとの絆"
+msgstr "Bond with Akari"
+
+msgctxt "ACTIVITY_NAME_102"
+msgid "はなまるうどんの店員との絆"
+msgstr "Bonds with Hanamaru Udon clerk"
+
+msgctxt "ACTIVITY_NAME_103"
+msgid "遊女・杏南との絆"
+msgstr "Bonds with the prostitute Annan"
+
+msgctxt "ACTIVITY_NAME_104"
+msgid "雀荘の住人との絆"
+msgstr "Bonds with the residents of Jakuso"
+
+msgctxt "ACTIVITY_NAME_105"
+msgid "将棋屋の主人との絆"
+msgstr "Bond with the owner of Shogiya"
+
+msgctxt "ACTIVITY_NAME_106"
+msgid "賭場の壺振りとの絆"
+msgstr "Bond with the jar swing of the gambling house"
+
+msgctxt "ACTIVITY_NAME_107"
+msgid "競鶏場の受付との絆"
+msgstr "Bonds with the receptionist at the chicken race"
+
+msgctxt "ACTIVITY_NAME_108"
+msgid "万　一蔵屋の主人との絆"
+msgstr "Bond with the owner of the warehouse"
+
+msgctxt "ACTIVITY_NAME_109"
+msgid "すしざんまいの主人との絆"
+msgstr "Bonds with the master of Sushi Zanmai"
+
+msgctxt "ACTIVITY_NAME_110"
+msgid "居酒屋・福々屋の主人との絆"
+msgstr "Bonds with the owner of the izakaya / Fukufukuya"
+
+msgctxt "ACTIVITY_NAME_111"
+msgid "薬屋・越中堂の主人との絆"
+msgstr "Bonds with the owner of the drugstore Echinakado"
+
+msgctxt "ACTIVITY_NAME_112"
+msgid "宇治茶屋の女の子との絆"
+msgstr "Bonds with girls in Uji Chaya"
+
+msgctxt "ACTIVITY_NAME_113"
+msgid "どん・きほーての店員との絆"
+msgstr "Bonds with Don Quijote clerk"
+
+msgctxt "ACTIVITY_NAME_114"
+msgid "洛内　ゑびすやの主人との絆"
+msgstr "Bonds with Rakuchu Ebisuya's master"
+
+msgctxt "ACTIVITY_NAME_115"
+msgid "料亭・春日の女将との絆"
+msgstr "Bonds with the restaurant Kasuga's landlady"
+
+msgctxt "ACTIVITY_NAME_116"
+msgid "小料理屋・青葉の大将との絆"
+msgstr "Bonds with the small restaurant, Aoba's general"
+
+msgctxt "ACTIVITY_NAME_117"
+msgid "八百屋の主人との絆"
+msgstr "Bonds with the owner of the greengrocer"
+
+msgctxt "ACTIVITY_NAME_118"
+msgid "洛外の武器屋の主人との絆"
+msgstr "Bonds with the owner of Rakugai's Weapon Shop"
+
+msgctxt "ACTIVITY_NAME_119"
+msgid "駕籠屋との絆"
+msgstr "Bonds with Kagoya"
+
+msgctxt "ACTIVITY_NAME_120"
+msgid "百川の三兄弟との絆"
+msgstr "Bonds with the three brothers of Momagawa"
+
+msgctxt "ACTIVITY_NAME_121"
+msgid "卑屈な物乞いとの絆"
+msgstr "Bonds with subservient beggars"
+
+msgctxt "ACTIVITY_NAME_122"
+msgid "はらぺこ力士との絆"
+msgstr "Bonds with Harapeko wrestlers"
+
+msgctxt "ACTIVITY_NAME_123"
+msgid "革命料理人との絆"
+msgstr "Bonds with Revolutionary Cooks"
+
+msgctxt "ACTIVITY_NAME_124"
+msgid "愛に飢えた男との絆"
+msgstr "Bonds with a love-hungry man"
+
+msgctxt "ACTIVITY_NAME_125"
+msgid "刀に魅せられた男との絆"
+msgstr "Bond with a man fascinated by a sword"
+
+msgctxt "ACTIVITY_NAME_126"
+msgid "正義感ある怪我人との絆"
+msgstr "Bonds with injured people with a sense of justice"
+
+msgctxt "ACTIVITY_NAME_127"
+msgid "思い出せない男との絆"
+msgstr "Bonds with a man I can't remember"
+
+msgctxt "ACTIVITY_NAME_128"
+msgid "そそっかしい奥さんとの絆"
+msgstr "Bonds with a gentle wife"
+
+msgctxt "ACTIVITY_NAME_129"
+msgid "野菜大好き少年との絆"
+msgstr "Bonds with a boy who loves vegetables"
+
+msgctxt "ACTIVITY_NAME_130"
+msgid "崖っぷち釣り人との絆"
+msgstr "Bonds with cliff anglers"
+
+msgctxt "ACTIVITY_NAME_131"
+msgid "怪我したおばあちゃんとの絆"
+msgstr "Bonds with injured grandma"
+
+msgctxt "ACTIVITY_NAME_132"
+msgid "謎の商人との絆"
+msgstr "Bonds with a mysterious merchant"
+
+msgctxt "ACTIVITY_NAME_133"
+msgid "妖艶な奥様との絆"
+msgstr "Bond with a bewitching wife"
+
+msgctxt "ACTIVITY_NAME_134"
+msgid "がらくた少年との絆"
+msgstr "Bonds with a junk boy"
+
+msgctxt "ACTIVITY_NAME_135"
+msgid "ごみを集める男との絆"
+msgstr "Bonds with a man who collects garbage"
+
+msgctxt "ACTIVITY_NAME_136"
+msgid "薪割り爺さんとの絆"
+msgstr "Bond with the wood-splitting old man"
+
+msgctxt "ACTIVITY_NAME_137"
+msgid "方向音痴の飛脚との絆"
+msgstr "Bonds with Hikyaku"
+
+msgctxt "ACTIVITY_NAME_138"
+msgid "待ち続ける犬との絆"
+msgstr "Bonds with dogs that keep waiting"
+
+msgctxt "ACTIVITY_NAME_139"
+msgid "傷ついた犬との絆"
+msgstr "Bonds with injured dogs"
+
+msgctxt "ACTIVITY_NAME_140"
+msgid "吠え続ける犬との絆"
+msgstr "Bonds with dogs that keep barking"
+
+msgctxt "ACTIVITY_NAME_141"
+msgid "はらぺこな猫との絆"
+msgstr "Bonds with fluffy cats"
+
+msgctxt "ACTIVITY_NAME_142"
+msgid "汚れた猫との絆"
+msgstr "Bonds with dirty cats"
+
+msgctxt "ACTIVITY_NAME_143"
+msgid "招き猫との絆"
+msgstr "Bond with Maneki Neko"
+
+msgctxt "ACTIVITY_NAME_144"
+msgid "町で絡んでくる敵を100人撃破する"
+msgstr "Destroy 100 enemies involved in the town"
+
+msgctxt "ACTIVITY_NAME_145"
+msgid "町で絡んでくる敵を200人撃破する"
+msgstr "Destroy 200 enemies involved in the town"
+
+msgctxt "ACTIVITY_NAME_146"
+msgid "町で絡んでくる敵を300人撃破する"
+msgstr "Destroy 300 enemies involved in the town"
+
+msgctxt "ACTIVITY_NAME_147"
+msgid "町で絡んでくる敵を500人撃破する"
+msgstr "Destroy 500 enemies involved in the town"
+
+msgctxt "ACTIVITY_NAME_148"
+msgid "ダンジョンを10回制圧する"
+msgstr "Suppress the dungeon 10 times"
+
+msgctxt "ACTIVITY_NAME_149"
+msgid "ダンジョンを30回制圧する"
+msgstr "Suppress the dungeon 30 times"
+
+msgctxt "ACTIVITY_NAME_150"
+msgid "ダンジョンを100回制圧する"
+msgstr "Suppress the dungeon 100 times"
+
+msgctxt "ACTIVITY_NAME_151"
+msgid "黄金衆を10人撃破する"
+msgstr "Defeat 10 Golden People"
+
+msgctxt "ACTIVITY_NAME_152"
+msgid "黄金衆を30人撃破する"
+msgstr "Defeat 30 Golden People"
+
+msgctxt "ACTIVITY_NAME_153"
+msgid "黄金衆を50人撃破する"
+msgstr "Defeat 50 Golden People"
+
+msgctxt "ACTIVITY_NAME_154"
+msgid "トドメの一発を20回決める"
+msgstr "Decide one shot of Todome 20 times"
+
+msgctxt "ACTIVITY_NAME_155"
+msgid "トドメの一発を50回決める"
+msgstr "Decide one shot of Todome 50 times"
+
+msgctxt "ACTIVITY_NAME_156"
+msgid "トドメの一発を100回決める"
+msgstr "Decide one shot of Todome 100 times"
+
+msgctxt "ACTIVITY_NAME_157"
+msgid "バトル中に物を20個壊す"
+msgstr "Destroy 20 things during the battle"
+
+msgctxt "ACTIVITY_NAME_158"
+msgid "バトル中に物を50個壊す"
+msgstr "Destroy 50 things during the battle"
+
+msgctxt "ACTIVITY_NAME_159"
+msgid "バトル中に物を100個壊す"
+msgstr "Destroy 100 things during the battle"
+
+msgctxt "ACTIVITY_DETAIL_0"
+msgid "町の人々や動物に100回話しかけよう"
+msgstr "Talk to the townspeople and animals 100 times"
+
+msgctxt "ACTIVITY_DETAIL_1"
+msgid "町の人々や動物に300回話しかけよう"
+msgstr "Talk to the townspeople and animals 300 times"
+
+msgctxt "ACTIVITY_DETAIL_2"
+msgid "町の人々や動物に500回話しかけよう"
+msgstr "Talk to the townspeople and animals 500 times"
+
+msgctxt "ACTIVITY_DETAIL_3"
+msgid "飲食店で20回食事しよう"
+msgstr "Let's eat 20 times at a restaurant"
+
+msgctxt "ACTIVITY_DETAIL_4"
+msgid "飲食店で50回食事しよう"
+msgstr "Let's eat 50 times at a restaurant"
+
+msgctxt "ACTIVITY_DETAIL_5"
+msgid "飲食店で100回食事しよう"
+msgstr "Let's eat 100 times at a restaurant"
+
+msgctxt "ACTIVITY_DETAIL_6"
+msgid "飲食店で200回食事しよう"
+msgstr "Let's eat 200 times at a restaurant"
+
+msgctxt "ACTIVITY_DETAIL_7"
+msgid "壺からアイテムを20個入手しよう"
+msgstr "Get 20 items from the jar"
+
+msgctxt "ACTIVITY_DETAIL_8"
+msgid "壺からアイテムを50個入手しよう"
+msgstr "Get 50 items from the jar"
+
+msgctxt "ACTIVITY_DETAIL_9"
+msgid "壺からアイテムを100個入手しよう"
+msgstr "Get 100 items from the jar"
+
+msgctxt "ACTIVITY_DETAIL_10"
+msgid "神社や地蔵を20回拝もう"
+msgstr "Visit shrines and Jizo 20 times"
+
+msgctxt "ACTIVITY_DETAIL_11"
+msgid "神社や地蔵を50回拝もう"
+msgstr "Visit shrines and Jizo 50 times"
+
+msgctxt "ACTIVITY_DETAIL_12"
+msgid "神社や地蔵を100回拝もう"
+msgstr "Visit shrines and Jizo 100 times"
+
+msgctxt "ACTIVITY_DETAIL_13"
+msgid "プレイスポットで30回遊ぼう"
+msgstr "Play 30 times at the play spot"
+
+msgctxt "ACTIVITY_DETAIL_14"
+msgid "プレイスポットで100回遊ぼう"
+msgstr "Play 100 times at the play spot"
+
+msgctxt "ACTIVITY_DETAIL_15"
+msgid "プレイスポットで200回遊ぼう"
+msgstr "Play 200 times at the play spot"
+
+msgctxt "ACTIVITY_DETAIL_16"
+msgid "食事系アイテムを30個食べよう"
+msgstr "Eat 30 meal items"
+
+msgctxt "ACTIVITY_DETAIL_17"
+msgid "食事系アイテムを100個食べよう"
+msgstr "Eat 100 meal items"
+
+msgctxt "ACTIVITY_DETAIL_18"
+msgid "食事系アイテムを200個食べよう"
+msgstr "Eat 200 meal items"
+
+msgctxt "ACTIVITY_DETAIL_19"
+msgid "食事系アイテムを400個食べよう"
+msgstr "Eat 400 meal items"
+
+msgctxt "ACTIVITY_DETAIL_20"
+msgid "薬系アイテムを20回使用しよう"
+msgstr "Use medicinal items 20 times"
+
+msgctxt "ACTIVITY_DETAIL_21"
+msgid "薬系アイテムを50回使用しよう"
+msgstr "Use medicinal items 50 times"
+
+msgctxt "ACTIVITY_DETAIL_22"
+msgid "薬系アイテムを100回使用しよう"
+msgstr "Use medicinal items 100 times"
+
+msgctxt "ACTIVITY_DETAIL_23"
+msgid "薬系アイテムを200回使用しよう"
+msgstr "Use medicinal items 200 times"
+
+msgctxt "ACTIVITY_DETAIL_24"
+msgid "駕籠を使って20回移動しよう"
+msgstr "Let's move 20 times using Kago"
+
+msgctxt "ACTIVITY_DETAIL_25"
+msgid "駕籠を使って50回移動しよう"
+msgstr "Let's move 50 times using Kago"
+
+msgctxt "ACTIVITY_DETAIL_26"
+msgid "駕籠を使って100回移動しよう"
+msgstr "Let's move 100 times using Kago"
+
+msgctxt "ACTIVITY_DETAIL_27"
+msgid "洛内での評判レベルを3にしよう"
+msgstr "Let's set the reputation level in Rakuchu to 3"
+
+msgctxt "ACTIVITY_DETAIL_28"
+msgid "洛内での評判レベルを7にしよう"
+msgstr "Let's set the reputation level in Rakuchu to 7"
+
+msgctxt "ACTIVITY_DETAIL_29"
+msgid "洛内での評判レベルをMAXにしよう"
+msgstr "Let's maximize the reputation level in Rakuchu"
+
+msgctxt "ACTIVITY_DETAIL_30"
+msgid "洛外での評判レベルを3にしよう"
+msgstr "Let's set the reputation level in Rakuchu to 3"
+
+msgctxt "ACTIVITY_DETAIL_31"
+msgid "洛外での評判レベルを7にしよう"
+msgstr "Let's set the reputation level in Rakuchu to 7"
+
+msgctxt "ACTIVITY_DETAIL_32"
+msgid "洛外での評判レベルをMAXにしよう"
+msgstr "Let's maximize the reputation level in Rakuchu"
+
+msgctxt "ACTIVITY_DETAIL_33"
+msgid "骸街での評判レベルを3にしよう"
+msgstr "Let's raise the reputation level in the skeleton to 3"
+
+msgctxt "ACTIVITY_DETAIL_34"
+msgid "骸街での評判レベルを7にしよう"
+msgstr "Let's raise the reputation level in the skeleton to 7"
+
+msgctxt "ACTIVITY_DETAIL_35"
+msgid "骸街での評判レベルをMAXにしよう"
+msgstr "Let's maximize the reputation level in the skeleton"
+
+msgctxt "ACTIVITY_DETAIL_36"
+msgid "伏見での評判レベルを3にしよう"
+msgstr "Let's set the reputation level in Fushimi to 3"
+
+msgctxt "ACTIVITY_DETAIL_37"
+msgid "伏見での評判レベルを7にしよう"
+msgstr "Let's set the reputation level in Fushimi to 7"
+
+msgctxt "ACTIVITY_DETAIL_38"
+msgid "伏見での評判レベルをMAXにしよう"
+msgstr "Let's maximize the reputation level in Fushimi"
+
+msgctxt "ACTIVITY_DETAIL_39"
+msgid "祗園での評判レベルを3にしよう"
+msgstr "Let's raise the reputation level in Gion to 3"
+
+msgctxt "ACTIVITY_DETAIL_40"
+msgid "祗園での評判レベルを7にしよう"
+msgstr "Let's raise the reputation level in Gion to 7"
+
+msgctxt "ACTIVITY_DETAIL_41"
+msgid "祗園での評判レベルをMAXにしよう"
+msgstr "Let's maximize the reputation level in Gion"
+
+msgctxt "ACTIVITY_DETAIL_42"
+msgid "お金を30両使おう"
+msgstr "Let's spend 30 cars"
+
+msgctxt "ACTIVITY_DETAIL_43"
+msgid "お金を100両使おう"
+msgstr "Let's spend 100 money"
+
+msgctxt "ACTIVITY_DETAIL_44"
+msgid "お金を300両使おう"
+msgstr "Let's spend 300 money"
+
+msgctxt "ACTIVITY_DETAIL_45"
+msgid "お金を500両使おう"
+msgstr "Let's spend 500 money"
+
+msgctxt "ACTIVITY_DETAIL_46"
+msgid "自分の足で30km移動しよう"
+msgstr "Let's move 30km with your own feet"
+
+msgctxt "ACTIVITY_DETAIL_47"
+msgid "自分の足で100km移動しよう"
+msgstr "Let's move 100km with your own feet"
+
+msgctxt "ACTIVITY_DETAIL_48"
+msgid "自分の足で200km移動しよう"
+msgstr "Let's move 200km with your own feet"
+
+msgctxt "ACTIVITY_DETAIL_49"
+msgid "ダッシュで5km移動しよう"
+msgstr "Let's move 5km with a dash"
+
+msgctxt "ACTIVITY_DETAIL_50"
+msgid "ダッシュで20km移動しよう"
+msgstr "Let's move 20km with a dash"
+
+msgctxt "ACTIVITY_DETAIL_51"
+msgid "ダッシュで50km移動しよう"
+msgstr "Let's move 50km with a dash"
+
+msgctxt "ACTIVITY_DETAIL_52"
+msgid "井戸で20回水汲みをしよう"
+msgstr "Let's fetch water 20 times at the well"
+
+msgctxt "ACTIVITY_DETAIL_53"
+msgid "井戸で50回水汲みをしよう"
+msgstr "Let's fetch water 50 times at the well"
+
+msgctxt "ACTIVITY_DETAIL_54"
+msgid "井戸で100回水汲みをしよう"
+msgstr "Let's fetch water 100 times at the well"
+
+msgctxt "ACTIVITY_DETAIL_55"
+msgid "方向音痴の飛脚から請け負った荷物を10回届けよう"
+msgstr ""
+"Let's deliver the baggage undertaken from the directionless Hikyaku 10 times"
+
+msgctxt "ACTIVITY_DETAIL_56"
+msgid "方向音痴の飛脚から請け負った荷物を30回届けよう"
+msgstr ""
+"Let's deliver the baggage undertaken from Hikyaku with no sense of direction"
+" 30 times"
+
+msgctxt "ACTIVITY_DETAIL_57"
+msgid "方向音痴の飛脚から請け負った荷物を50回届けよう"
+msgstr ""
+"Let's deliver the baggage undertaken from Hikyaku with no sense of direction"
+" 50 times"
+
+msgctxt "ACTIVITY_DETAIL_58"
+msgid "薪割りで薪を100本割ろう"
+msgstr "Let's split 100 firewood by chopping firewood"
+
+msgctxt "ACTIVITY_DETAIL_59"
+msgid "薪割りで薪を300本割ろう"
+msgstr "Let's break 300 firewood by chopping firewood"
+
+msgctxt "ACTIVITY_DETAIL_60"
+msgid "薪割りで薪を1000本割ろう"
+msgstr "Let's break 1000 firewood by chopping firewood"
+
+msgctxt "ACTIVITY_DETAIL_61"
+msgid "別宅で農作物を50個収穫しよう"
+msgstr "Let's harvest 50 crops in a separate house"
+
+msgctxt "ACTIVITY_DETAIL_62"
+msgid "別宅で農作物を200個収穫しよう"
+msgstr "Let's harvest 200 crops in a separate house"
+
+msgctxt "ACTIVITY_DETAIL_63"
+msgid "別宅で農作物を500個収穫しよう"
+msgstr "Let's harvest 500 crops in a separate house"
+
+msgctxt "ACTIVITY_DETAIL_64"
+msgid "別宅で農作物を1000個収穫しよう"
+msgstr "Let's harvest 1000 crops in a separate house"
+
+msgctxt "ACTIVITY_DETAIL_65"
+msgid "別宅で農作物を1500個収穫しよう"
+msgstr "Let's harvest 1500 crops in a separate house"
+
+msgctxt "ACTIVITY_DETAIL_66"
+msgid "朝鮮人参を50本収穫しよう"
+msgstr "Let's harvest 50 ginseng"
+
+msgctxt "ACTIVITY_DETAIL_67"
+msgid "きゃべつを100個収穫しよう"
+msgstr "Let's harvest 100 cabbage"
+
+msgctxt "ACTIVITY_DETAIL_68"
+msgid "里芋を100個収穫しよう"
+msgstr "Let's harvest 100 taro"
+
+msgctxt "ACTIVITY_DETAIL_69"
+msgid "とまとを100個収穫しよう"
+msgstr "Let's harvest 100 Tomato"
+
+msgctxt "ACTIVITY_DETAIL_70"
+msgid "いちごを100個収穫しよう"
+msgstr "Let's harvest 100 strawberries"
+
+msgctxt "ACTIVITY_DETAIL_71"
+msgid "料理を累計10回行おう"
+msgstr "Let's cook a total of 10 times"
+
+msgctxt "ACTIVITY_DETAIL_72"
+msgid "料理を累計30回行おう"
+msgstr "Let's cook a total of 30 times"
+
+msgctxt "ACTIVITY_DETAIL_73"
+msgid "料理を累計50回行おう"
+msgstr "Let's cook a total of 50 times"
+
+msgctxt "ACTIVITY_DETAIL_74"
+msgid "料理を累計100回行おう"
+msgstr "Let's cook 100 times in total"
+
+msgctxt "ACTIVITY_DETAIL_75"
+msgid "料理を累計200回行おう"
+msgstr "Let's cook a total of 200 times"
+
+msgctxt "ACTIVITY_DETAIL_76"
+msgid "飼い犬と10回交流しよう"
+msgstr "Let's interact with your dog 10 times"
+
+msgctxt "ACTIVITY_DETAIL_77"
+msgid "飼い犬と30回交流しよう"
+msgstr "Let's interact with your dog 30 times"
+
+msgctxt "ACTIVITY_DETAIL_78"
+msgid "飼い犬と100回交流しよう"
+msgstr "Let's interact with your dog 100 times"
+
+msgctxt "ACTIVITY_DETAIL_79"
+msgid "飼い猫と10回交流しよう"
+msgstr "Let's interact with your cat 10 times"
+
+msgctxt "ACTIVITY_DETAIL_80"
+msgid "飼い猫と30回交流しよう"
+msgstr "Let's interact with your cat 30 times"
+
+msgctxt "ACTIVITY_DETAIL_81"
+msgid "飼い猫と100回交流しよう"
+msgstr "Let's interact with your cat 100 times"
+
+msgctxt "ACTIVITY_DETAIL_82"
+msgid "卵を10個収穫しよう"
+msgstr "Harvest 10 eggs"
+
+msgctxt "ACTIVITY_DETAIL_83"
+msgid "卵を30個収穫しよう"
+msgstr "Harvest 30 eggs"
+
+msgctxt "ACTIVITY_DETAIL_84"
+msgid "卵を100個収穫しよう"
+msgstr "Harvest 100 eggs"
+
+msgctxt "ACTIVITY_DETAIL_85"
+msgid "行商で注文取引を30回成立させよう"
+msgstr "Let's complete an order transaction 30 times with a peddler"
+
+msgctxt "ACTIVITY_DETAIL_86"
+msgid "行商で注文取引を100回成立させよう"
+msgstr "Complete 100 order transactions with a peddler"
+
+msgctxt "ACTIVITY_DETAIL_87"
+msgid "行商で注文取引を200回成立させよう"
+msgstr "Complete 200 order transactions with a peddler"
+
+msgctxt "ACTIVITY_DETAIL_88"
+msgid "魚を30匹釣ろう"
+msgstr "Let's catch 30 fish"
+
+msgctxt "ACTIVITY_DETAIL_89"
+msgid "魚を100匹釣ろう"
+msgstr "Let's catch 100 fish"
+
+msgctxt "ACTIVITY_DETAIL_90"
+msgid "魚を200匹釣ろう"
+msgstr "Let's catch 200 fish"
+
+msgctxt "ACTIVITY_DETAIL_91"
+msgid "マグロを10匹釣ろう"
+msgstr "Let's catch 10 tuna"
+
+msgctxt "ACTIVITY_DETAIL_92"
+msgid "大物のマグロを釣ろう"
+msgstr "Let's catch big tuna"
+
+msgctxt "ACTIVITY_DETAIL_93"
+msgid "遥との関係を深め、布団での和みイベントを見よう"
+msgstr ""
+"Let's deepen the relationship with Haruka and see a relaxing event with a "
+"futon"
+
+msgctxt "ACTIVITY_DETAIL_94"
+msgid "遥との関係を深め、お風呂での和みイベントを見よう"
+msgstr ""
+"Let's deepen the relationship with Haruka and see a relaxing event in the "
+"bath"
+
+msgctxt "ACTIVITY_DETAIL_95"
+msgid "遥との関係を深め、居間での和みイベントを見よう"
+msgstr ""
+"Deepen your relationship with Haruka and watch a relaxing event in the "
+"living room"
+
+msgctxt "ACTIVITY_DETAIL_96"
+msgid "遥と知り合い、庭での和みイベントを見よう"
+msgstr "Get acquainted with Haruka and watch a relaxing event in the garden"
+
+msgctxt "ACTIVITY_DETAIL_97"
+msgid "歌まる屋の主人と交流して絆を深めよう"
+msgstr "Let's interact with the owner of the singing shop and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_98"
+msgid "うまい屋うどんの主人と交流して絆を深めよう"
+msgstr "Let's interact with the owner of Takoyaki Udon and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_99"
+msgid "にちぶ座の舞城先生と交流して絆を深めよう"
+msgstr "Let's interact with Maijo-sensei of Nichibu-za and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_100"
+msgid "神社の神主と交流して絆を深めよう"
+msgstr "Let's interact with the priest of the shrine and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_101"
+msgid "神社の巫女・あかりと交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the shrine shrine maiden Akari"
+
+msgctxt "ACTIVITY_DETAIL_102"
+msgid "はなまるうどんの店員と交流して絆を深めよう"
+msgstr "Let's interact with the Hanamaru Udon clerk and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_103"
+msgid "遊女・杏南と交流して絆を深めよう"
+msgstr "Let's interact with the prostitute Annan and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_104"
+msgid "雀荘の住人と交流して絆を深めよう"
+msgstr "Let's interact with the residents of Jakuso and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_105"
+msgid "将棋屋の主人と交流して絆を深めよう"
+msgstr "Let's interact with the owner of the shogiya and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_106"
+msgid "賭場の壺振りと交流して絆を深めよう"
+msgstr ""
+"Let's interact with the jar swing of the gambling place and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_107"
+msgid "競鶏場の受付と交流して絆を深めよう"
+msgstr ""
+"Let's interact with the receptionist of the chicken race and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_108"
+msgid "万　一蔵屋の主人と交流して絆を深めよう"
+msgstr "Let's interact with the owner of the warehouse and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_109"
+msgid "すしざんまいの主人と交流して絆を深めよう"
+msgstr "Let's interact with the master of Sushi Zanmai and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_110"
+msgid "居酒屋・福々屋の主人と交流して絆を深めよう"
+msgstr ""
+"Let's interact with the owner of the izakaya / Fukufukuya and deepen the "
+"bond"
+
+msgctxt "ACTIVITY_DETAIL_111"
+msgid "薬屋・越中堂の主人と交流して絆を深めよう"
+msgstr ""
+"Let's interact with the owner of the drugstore Echinakado and deepen the "
+"bond"
+
+msgctxt "ACTIVITY_DETAIL_112"
+msgid "宇治茶屋の女の子と交流して絆を深めよう"
+msgstr "Let's interact with the girls in Uji Chaya and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_113"
+msgid "どん・きほーての店員と交流して絆を深めよう"
+msgstr "Let's deepen the bond by interacting with the Don Quijote clerk"
+
+msgctxt "ACTIVITY_DETAIL_114"
+msgid "洛内　ゑびすやの主人と交流して絆を深めよう"
+msgstr "Let's interact with the master of Rakuchu Ebisuya and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_115"
+msgid "料亭・春日の女将と交流して絆を深めよう"
+msgstr "Let's deepen the bond by interacting with the landlady Kasuga"
+
+msgctxt "ACTIVITY_DETAIL_116"
+msgid "小料理屋・青葉の大将と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the general of the small "
+"restaurant Aoba"
+
+msgctxt "ACTIVITY_DETAIL_117"
+msgid "八百屋の主人と交流して絆を深めよう"
+msgstr "Let's interact with the owner of the greengrocer and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_118"
+msgid "洛外の武器屋の主人と交流して絆を深めよう"
+msgstr ""
+"Let's interact with the owner of Rakugai's weapon shop and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_119"
+msgid "駕籠屋と交流して絆を深めよう"
+msgstr "Let's interact with Kagoya and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_120"
+msgid "百川の三兄弟と交流して絆を深めよう"
+msgstr ""
+"Let's interact with the three brothers of Momagawa and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_121"
+msgid "骸街で出会った、卑屈な物乞いと交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the subservient beggars we met in "
+"the skeleton"
+
+msgctxt "ACTIVITY_DETAIL_122"
+msgid "洛内の寺町通南で出会った、はらぺこ力士と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the Harapeko wrestlers I met in "
+"Rakuchu's Teramachi-dori."
+
+msgctxt "ACTIVITY_DETAIL_123"
+msgid "祗園で出会った、革命料理人と交流して絆を深めよう"
+msgstr ""
+"Let's interact with the revolutionary cooks we met in Gion and deepen our "
+"ties"
+
+msgctxt "ACTIVITY_DETAIL_124"
+msgid "洛内の寺町で出会った、愛に飢えた男と交流して絆を深めよう"
+msgstr ""
+"Let's interact with the love-hungry man I met in Rakuchu's Teramachi and "
+"deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_125"
+msgid "洛外の山王町で出会った、刀に魅せられた男と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the man who was fascinated by the "
+"sword that he met in Sannocho, Rakugai."
+
+msgctxt "ACTIVITY_DETAIL_126"
+msgid "洛外の梅小路町南で出会った、正義感ある怪我人と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the injured person with a sense of"
+" justice that I met in the south of Umekoji Town in Rakugai"
+
+msgctxt "ACTIVITY_DETAIL_127"
+msgid "清水寺に繋がる林道で出会った、思い出せない男と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the unforgettable man I met on the"
+" forest road leading to Kiyomizu Temple"
+
+msgctxt "ACTIVITY_DETAIL_128"
+msgid "洛内の烏丸通で出会った、そそっかしい奥さんと交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the gentle wife I met at Karasuma "
+"Dori in Rakuchu"
+
+msgctxt "ACTIVITY_DETAIL_129"
+msgid "屯所付近で出会った、野菜大好き少年と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the vegetable-loving boy I met "
+"near the tunsho"
+
+msgctxt "ACTIVITY_DETAIL_130"
+msgid "伏見の新町で出会った、崖っぷち釣り人と交流して絆を深めよう"
+msgstr ""
+"Let's interact with the cliff angler I met in Fushimi's Shinmachi and deepen"
+" the bond"
+
+msgctxt "ACTIVITY_DETAIL_131"
+msgid "洛内の神明町にいる、怪我したおばあちゃんと交流して絆を深めよう"
+msgstr ""
+"Let's interact with the injured grandmother in Rakuchu's Shinmei-cho and "
+"deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_132"
+msgid "洛外の梅小路町西で出会った、謎の商人と交流して絆を深めよう"
+msgstr ""
+"Let's interact with the mysterious merchant I met in the west of Umekoji "
+"Town in Rakugai and deepen the bond"
+
+msgctxt "ACTIVITY_DETAIL_133"
+msgid "祗園で出会った、妖艶な奥様と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the bewitching wife I met in Gion"
+
+msgctxt "ACTIVITY_DETAIL_134"
+msgid "伏見の蔵町で出会った、がらくた少年と交流して絆を深めよう"
+msgstr ""
+"Let's interact with the junk boy I met in Fushimi's Kuramachi and deepen the"
+" bond"
+
+msgctxt "ACTIVITY_DETAIL_135"
+msgid "骸街で出会った、ごみを集める男と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the man who collects garbage that "
+"I met in the skeleton town"
+
+msgctxt "ACTIVITY_DETAIL_136"
+msgid "伏見の屋敷町南で出会った、薪割り爺さんと交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the wood-splitting old man I met "
+"in the south of Fushimi's mansion town."
+
+msgctxt "ACTIVITY_DETAIL_137"
+msgid "伏見の新町で出会った、方向音痴の飛脚と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the hikyaku of the "
+"directionlessness that I met in Fushimi's Shinmachi"
+
+msgctxt "ACTIVITY_DETAIL_138"
+msgid "伏見の屋敷町で出会った、待ち続ける犬と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the waiting dog that I met in "
+"Fushimi's mansion town"
+
+msgctxt "ACTIVITY_DETAIL_139"
+msgid "骸街で出会った、傷ついた犬と交流して絆を深めよう"
+msgstr ""
+"Let's interact with the injured dog that we met in the skeleton and deepen "
+"the bond"
+
+msgctxt "ACTIVITY_DETAIL_140"
+msgid "洛内の寺町で出会った、吠え続ける犬と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the barking dog that I met in "
+"Rakuchu's Teramachi"
+
+msgctxt "ACTIVITY_DETAIL_141"
+msgid "洛外の梅小路町東で出会った、はらぺこな猫と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the harapeko cat that I met in the"
+" east of Umekoji Town in Rakugai"
+
+msgctxt "ACTIVITY_DETAIL_142"
+msgid "伏見の屋敷町南で出会った、汚れた猫と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the dirty cat that I met in the "
+"south of Fushimi's mansion town"
+
+msgctxt "ACTIVITY_DETAIL_143"
+msgid "洛内の烏丸通で出会った、招き猫と交流して絆を深めよう"
+msgstr ""
+"Let's deepen the bond by interacting with the beckoning cat that I met at "
+"Karasuma Dori in Rakuchu"
+
+msgctxt "ACTIVITY_DETAIL_144"
+msgid "町を歩いていると絡んでくる敵（エンカウント）を100人撃破しよう"
+msgstr "Destroy 100 encounters that get involved as you walk through the town"
+
+msgctxt "ACTIVITY_DETAIL_145"
+msgid "町を歩いていると絡んでくる敵（エンカウント）を200人撃破しよう"
+msgstr ""
+"Destroy 200 enemies (encounters) that are involved when walking in the town"
+
+msgctxt "ACTIVITY_DETAIL_146"
+msgid "町を歩いていると絡んでくる敵（エンカウント）を300人撃破しよう"
+msgstr ""
+"Destroy 300 enemies (encounters) that are involved when walking in the town"
+
+msgctxt "ACTIVITY_DETAIL_147"
+msgid "町を歩いていると絡んでくる敵（エンカウント）を500人撃破しよう"
+msgstr ""
+"Destroy 500 enemies (encounters) that are involved when walking in the town"
+
+msgctxt "ACTIVITY_DETAIL_148"
+msgid "バトルダンジョンを10回制圧しよう"
+msgstr "Dominate the battle dungeon 10 times"
+
+msgctxt "ACTIVITY_DETAIL_149"
+msgid "バトルダンジョンを30回制圧しよう"
+msgstr "Dominate the battle dungeon 30 times"
+
+msgctxt "ACTIVITY_DETAIL_150"
+msgid "バトルダンジョンを100回制圧しよう"
+msgstr "Dominate the battle dungeon 100 times"
+
+msgctxt "ACTIVITY_DETAIL_151"
+msgid "黄金衆を10人撃破しよう"
+msgstr "Defeat 10 Golden People"
+
+msgctxt "ACTIVITY_DETAIL_152"
+msgid "黄金衆を30人撃破しよう"
+msgstr "Defeat 30 Golden People"
+
+msgctxt "ACTIVITY_DETAIL_153"
+msgid "黄金衆を50人撃破しよう"
+msgstr "Defeat 50 Golden People"
+
+msgctxt "ACTIVITY_DETAIL_154"
+msgid "トドメの一発（ヒートアクション・絶技で最後の敵を倒す）を20回決めよう"
+msgstr ""
+"Let's decide 20 times of one shot of Todome (defeat the last enemy with heat"
+" action and skill)"
+
+msgctxt "ACTIVITY_DETAIL_155"
+msgid "トドメの一発（ヒートアクション・絶技で最後の敵を倒す）を50回決めよう"
+msgstr ""
+"Let's decide 50 times of one shot of Todome (defeat the last enemy with heat"
+" action and skill)"
+
+msgctxt "ACTIVITY_DETAIL_156"
+msgid "トドメの一発（ヒートアクション・絶技で最後の敵を倒す）を100回決めよう"
+msgstr ""
+"Let's decide 100 times of one shot of Todome (defeat the last enemy with "
+"heat action and skill)"
+
+msgctxt "ACTIVITY_DETAIL_157"
+msgid "バトル中に拾って武器としても使える物を20個壊そう"
+msgstr ""
+"Destroy 20 things that can be picked up during battle and used as weapons"
+
+msgctxt "ACTIVITY_DETAIL_158"
+msgid "バトル中に拾って武器としても使える物を50個壊そう"
+msgstr ""
+"Destroy 50 things that can be picked up during battle and used as weapons"
+
+msgctxt "ACTIVITY_DETAIL_159"
+msgid "バトル中に拾って武器としても使える物を100個壊そう"
+msgstr ""
+"Destroy 100 things that can be picked up during battle and used as weapons"

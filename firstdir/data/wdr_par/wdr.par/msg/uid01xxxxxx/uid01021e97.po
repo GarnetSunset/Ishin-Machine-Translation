@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1908"
+msgid "奢ってもらってすまないな。"
+msgstr "I'm sorry to have you treat me."
+
+msgctxt "1935"
+msgid ""
+"ハハ、いいんですよ。\n"
+"これくらい安いもんです。"
+msgstr "Haha, that's fine. It's so cheap."
+
+msgctxt "1982"
+msgid ""
+"今日のところは、ここで大人しゅう帰ったるわ。\n"
+"けど、次、会うたときは……　覚悟しとけや。"
+msgstr ""
+"For now, I'm going home here as an adult.\n"
+"But the next time I meet ... be prepared."
+
+msgctxt "2071"
+msgid "ま、それはお互い様ってことで。"
+msgstr "Well, it's like each other."
+
+msgctxt "2102"
+msgid ""
+"おい。\n"
+"まだ終わっちゃいねえぞ。"
+msgstr "Hey. It's not over yet."
+
+msgctxt "2135"
+msgid ""
+"はぁ？\n"
+"何やて？"
+msgstr "Huh? What?"
+
+msgctxt "2152"
+msgid ""
+"もう１軒行くぞ。\n"
+"付いてこい。"
+msgstr "I'll go to another one. Follow me."
+
+msgctxt "2183"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2184"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2185"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2186"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2187"
+msgid "（さて、次は……　祗園にでも行ってみるか）"
+msgstr ""
+"(Well, next time ... Would you like to go\n"
+"to Gion?)"
+
+msgctxt "2230"
+msgid ""
+"（柄じゃないが、憂さを晴らすには\n"
+"　ああいうところもいいのかもしれない……）"
+msgstr ""
+"(It's not a pattern, but that kind of place\n"
+"may be good for relieving anxiety ...)"
+
+msgctxt "2684"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "2689"
+msgid "kiryu_adv_c09_050_005"
+msgstr ""
+
+msgctxt "2711"
+msgid "桂"
+msgstr "Gui"
+
+msgctxt "2714"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "2726"
+msgid "akiyama_adv_c09_050_007"
+msgstr ""
+
+msgctxt "2750"
+msgid "西郷"
+msgstr "Saigo"
+
+msgctxt "2755"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2764"
+msgid "ryuji_adv_c09_050_009"
+msgstr ""
+
+msgctxt "2786"
+msgid "akiyama_adv_c09_050_008"
+msgstr ""
+
+msgctxt "2810"
+msgid "kiryu_adv_c09_050_006"
+msgstr ""
+
+msgctxt "2832"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2843"
+msgid "ryuji_adv_c09_050_010"
+msgstr ""
+
+msgctxt "2865"
+msgid "kiryu_adv_c09_050_007"
+msgstr ""
+
+msgctxt "2887"
+msgid "dummy"
+msgstr ""

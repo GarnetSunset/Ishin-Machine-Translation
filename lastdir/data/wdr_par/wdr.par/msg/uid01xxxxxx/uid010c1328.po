@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "748"
+msgid "今度はここに入ろう。"
+msgstr "Let's get in here this time."
+
+msgctxt "769"
+msgid "うん、わかった。"
+msgstr "OK, got it."
+
+msgctxt "787"
+msgid "（今はやめておこう……）"
+msgstr "(Let's stop now ...)"
+
+msgctxt "812"
+msgid "（早く酒を飲みにいくか……）"
+msgstr "(Would you like to go drinking soon ...)"
+
+msgctxt "841"
+msgid ""
+"（さすがにこの状況では\n"
+"　営業はしていない様だな……）"
+msgstr "(It seems that it is not open in this situation ...)"
+
+msgctxt "908"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "913"
+msgid "おりょう"
+msgstr "Oryo"

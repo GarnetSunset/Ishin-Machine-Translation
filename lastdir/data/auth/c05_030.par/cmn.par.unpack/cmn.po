@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "412"
+msgid "だ逃げるんなら気をつけて行け"
+msgstr "But if you run away, be careful"
+
+msgctxt "2316"
+msgid "ｽ？"
+msgstr "Su?"
+
+msgctxt "2588"
+msgid ""
+"\n"
+"新選組に不利益になることなどひとつもないはずだ！"
+msgstr "There should be no disadvantage to the Shinsengumi!"
+
+msgctxt "2860"
+msgid "　ちょっと違うなぁ"
+msgstr "It's a little different"
+
+msgctxt "4492"
+msgid "ｭれている　ってことです"
+msgstr "It means that it is"
+
+msgctxt "5036"
+msgid "くなればいい"
+msgstr "Just get better"
+
+msgctxt "5308"
+msgid "いや　今のはただのボヤきです"
+msgstr "No, now it ’s just a ghost"

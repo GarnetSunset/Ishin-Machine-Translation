@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "424"
+msgid "こら！　お前何をしている！"
+msgstr "Hey! What are you doing!"
+
+msgctxt "451"
+msgid "へっ!?　やべっ!!"
+msgstr "Hey !? Yabe !!"
+
+msgctxt "468"
+msgid "待てっ！　逃がさんぞ！"
+msgstr "Wait! Let's escape!"
+
+msgctxt "491"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "500"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "505"
+msgid "のぞき魔"
+msgstr "Peep demon"

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/18/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "532"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "533"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "534"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "535"
+msgid "いて！"
+msgstr "Be there!"
+
+msgctxt "542"
+msgid "おしまい。"
+msgstr "That's it."
+
+msgctxt "580"
+msgid "正義感ある怪我人の体力"
+msgstr ""
+"Physical strength of an injured person with\n"
+"a sense of justice"
+
+msgctxt "603"
+msgid "アイテムを渡す"
+msgstr "Pass the item"
+
+msgctxt "618"
+msgid "30ダメージ！"
+msgstr ""
+
+msgctxt "631"
+msgid "やめる"
+msgstr "Stop"
+
+msgctxt "638"
+msgid "N"
+msgstr ""
+
+msgctxt "640"
+msgid "dummy"
+msgstr ""
