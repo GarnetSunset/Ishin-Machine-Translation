@@ -23,14 +23,14 @@ credentials = service_account.Credentials.from_service_account_file(
 poList = []
 processes = []
 
-for root, dirs, files in os.walk("firstdir"):
+for root, dirs, files in os.walk("original"):
     for file in files:
         if file.endswith(".po"):
              poList.append(os.path.join(root, file))
-             Path(root.replace("firstdir\\", "lastdir\\")).mkdir(parents=True, exist_ok=True)
+             Path(root.replace("original\\", "translated\\")).mkdir(parents=True, exist_ok=True)
 
 try:
-    os.mkdir('lastDir')    
+    os.mkdir('translated')    
 except:
     pass
 
@@ -82,7 +82,7 @@ for fileName in poList:
     }
     for entry in input_file:
         if re.search(regex, str(entry.msgid)):
-            if realPath.isfile(fileName.replace("firstdir\\", "lastdir\\")) == False:
+            if realPath.isfile(fileName.replace("original\\", "translated\\")) == False:
                 if any(x in str(entry.msgid) for x in matches):
                     translated_entry = polib.POEntry(
                         msgctxt=entry.msgctxt,
@@ -132,10 +132,10 @@ for fileName in poList:
                 )
             output_file.append(translated_entry)
             c += 1
-    if realPath.isfile(fileName.replace("firstdir\\", "lastdir\\")) == False:
-        output_file.save(fileName.replace("firstdir\\", "lastdir\\"))
-        with open(fileName.replace("firstdir\\", "lastdir\\"), 'r', encoding="utf8") as fin:
+    if realPath.isfile(fileName.replace("original\\", "translated\\")) == False:
+        output_file.save(fileName.replace("original\\", "translated\\"))
+        with open(fileName.replace("original\\", "translated\\"), 'r', encoding="utf8") as fin:
             data = fin.read().splitlines(True)
-        with open(fileName.replace("firstdir\\", "lastdir\\"), 'w', encoding="utf8") as fout:
+        with open(fileName.replace("original\\", "translated\\"), 'w', encoding="utf8") as fout:
             fout.writelines(data[1:])
 
