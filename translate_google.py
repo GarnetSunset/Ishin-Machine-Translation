@@ -1,4 +1,4 @@
-# google version by gaernenent
+# GarnetSunset's PO File Translation Script
 import json
 import argparse
 import polib
@@ -14,28 +14,36 @@ from google.oauth2 import service_account
 import html
 from os import path as realPath
 
-newlineAuto = 39
-key_path = "keys.json"
+blacklist = ["TAG_", "DETAIL_EXPLAIN", "KIND_", "SHOP_ID", "UNIT_", "CATEGORY_" , "FINISH_FLAG", "PLAYER_", "TYPE_"] #msgctxts to ignore
+regex = u'[\u3000-\u303f\u3040-\u309f\u30a0-\u30ff\uff00-\uff9f\u4e00-\u9faf\u3400-\u4dbf]' #japanese characters
+newlineAuto = 39 #when to auto newline? google removes newlines :/
+key_path = "keys.json" #where are your google keys :D
+
+#metadata for your files
+yourMetadata = {
+    'Project-Id-Version': 'Ryū ga Gotoku Ishin!',
+    'Report-Msgid-Bugs-To': 'dummy@dummy.com',
+    'POT-Creation-Date': '3/14/2021',
+    'PO-Revision-Date': '',
+    'Last-Translator': '',
+    'Language-Team': '',
+    'Language': 'es-ES',
+    'MIME-Version': '1.0',
+    'Content-Type': 'text/plain; charset=UTF-8',
+    'Content-Transfer-Encoding': '8bit',
+    }
 
 credentials = service_account.Credentials.from_service_account_file(
     key_path, scopes=["https://www.googleapis.com/auth/cloud-platform"],
 )
 
 poList = []
-processes = []
-
 for root, dirs, files in os.walk("original"):
     for file in files:
         if file.endswith(".po"):
              poList.append(os.path.join(root, file))
              Path(root.replace("original\\", "translated\\")).mkdir(parents=True, exist_ok=True)
 
-matches = ["TAG_", "DETAIL_EXPLAIN", "KIND_", "SHOP_ID", "UNIT_", "CATEGORY_" , "FINISH_FLAG", "PLAYER_", "TYPE_"]
-regex = u'[\u3000-\u303f\u3040-\u309f\u30a0-\u30ff\uff00-\uff9f\u4e00-\u9faf\u3400-\u4dbf]'
-headers = {
-    'accept': 'application/json',
-    'Content-Type': 'application/x-www-form-urlencoded',
-}
 
 def translate_text(target, text):
     """Translates text into the target language.
@@ -57,30 +65,16 @@ def translate_text(target, text):
 
     return result["translatedText"]
     
-
-
-
 for fileName in poList:
     c=0
     input_file = polib.pofile(fileName)
     output_file = polib.POFile()
-    output_file.metadata = {
-    'Project-Id-Version': 'Ryū ga Gotoku Ishin!',
-    'Report-Msgid-Bugs-To': 'dummy@dummy.com',
-    'POT-Creation-Date': '3/14/2021',
-    'PO-Revision-Date': '',
-    'Last-Translator': '',
-    'Language-Team': '',
-    'Language': 'es-ES',
-    'MIME-Version': '1.0',
-    'Content-Type': 'text/plain; charset=UTF-8',
-    'Content-Transfer-Encoding': '8bit',
-    }
+    output_file.metadata = yourMetadata
     for entry in input_file:
         iwenthere = False
         if re.search(regex, str(entry.msgid)):
             if realPath.isfile(fileName.replace("original\\", "translated\\")) == False:
-                if any(x in str(entry.msgid) for x in matches):
+                if any(x in str(entry.msgid) for x in blacklist):
                     translated_entry = polib.POEntry(
                         msgctxt=entry.msgctxt,
                         msgid=entry.msgid,
@@ -123,7 +117,7 @@ for fileName in poList:
                 for entries in input_file_2:
                     if str(entries.msgctxt) == str(entry.msgctxt):
                         iwenthere = True
-                if iwenthere == False and not any(x in str(entry.msgid) for x in matches):
+                if iwenthere == False and not any(x in str(entry.msgid) for x in blacklist):
                     msgstr = translate_text("en", str(entry.msgid))
                     msgstr = html.unescape(msgstr)
                     counter = 0
