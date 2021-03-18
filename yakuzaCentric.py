@@ -1,4 +1,3 @@
-#automatic libretranslate script for yakuza games etc etc by garnetsunset
 import json
 import argparse
 import polib
@@ -33,26 +32,6 @@ headers = {
     'accept': 'application/json',
     'Content-Type': 'application/x-www-form-urlencoded',
 }
-
-def translate_text(target, text):
-    """Translates text into the target language.
-
-    Target must be an ISO 639-1 language code.
-    See https://g.co/cloud/translate/v2/translate-reference#supported_languages
-    """
-    import six
-    from google.cloud import translate_v2 as translate
-    target = "en"
-    translate_client = translate.Client(credentials=credentials)
-
-    if isinstance(text, six.binary_type):
-        text = text.decode("utf-8")
-
-    # Text can also be a sequence of strings, in which case this method
-    # will return a sequence of results for each text.
-    result = translate_client.translate(text, target_language=target)
-
-    return result["translatedText"]
 
 matches = ["TAG_", "DETAIL_EXPLAIN", "KIND_", "SHOP_ID", "UNIT_", "CATEGORY_" , "FINISH_FLAG", "PLAYER_", "TYPE_"]
 regex = u'[\u3000-\u303f\u3040-\u309f\u30a0-\u30ff\uff00-\uff9f\u4e00-\u9faf\u3400-\u4dbf]'
