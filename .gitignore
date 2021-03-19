@@ -8,6 +8,7 @@ __pycache__/
 
 keys.json
 cleaned/
+pkgsForUpdate/
 
 # Distribution / packaging
 .Python
