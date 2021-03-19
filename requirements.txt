@@ -1,0 +1,8 @@
+pycryptodomex
+cryptography
+requests
+aenum
+fastxor
+packaging
+ecdsa
+google-cloud-translate

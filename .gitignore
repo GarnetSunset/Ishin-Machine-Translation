@@ -9,6 +9,7 @@ __pycache__/
 keys.json
 cleaned/
 pkgsForUpdate/
+patch/*
 
 # Distribution / packaging
 .Python
