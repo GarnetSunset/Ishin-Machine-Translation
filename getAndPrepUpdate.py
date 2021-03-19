@@ -1,5 +1,4 @@
-import os, sys, requests
-import shutil
+import os, sys, requests,shutil,zipfile, io
 from distutils.dir_util import copy_tree
 
 if not os.path.exists("pkgsForUpdate"):
@@ -17,7 +16,11 @@ disc = ["http://b0.ww.np.dl.playstation.net/tppkg/np/BLJM61149/BLJM61149_T8/b2ee
 if os.path.exists("\pkgsForUpdate\PSN_get_pkg_info.py") == False:
     r = requests.get("https://raw.githubusercontent.com/windsurfer1122/PSN_get_pkg_info/master/PSN_get_pkg_info.py", allow_redirects=True)
     open("pkgsForUpdate/PSN_get_pkg_info.py", 'wb').write(r.content)
-    
+
+r = requests.get(scetool)
+z = zipfile.ZipFile(io.BytesIO(r.content))
+z.extractall("pkgsForUpdate")
+
 discOrDigital = input("Do you have the bluray version or digital version of Ishin?\nType \"B\" for BluRay, type \"D\" for Digital\n> ")
 
 if discOrDigital == "B":
@@ -40,4 +43,4 @@ for file in os.listdir("pkgsForUpdate"):
             directory_contents = os.listdir(os.getcwd()+"/pkgsForUpdate/update/")
             copy_tree(os.getcwd()+"/pkgsForUpdate/update/"+directory_contents[0], os.getcwd()+"/patch/")
             shutil.rmtree(os.getcwd()+"/pkgsForUpdate/update/"+directory_contents[0])   
-shutil.rmtree(os.getcwd()+"/pkgsForUpdate/update/")
+shutil.rmtree(os.getcwd()+"/pkgsForUpdate/")
