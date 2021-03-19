@@ -61,7 +61,7 @@ msgstr "Where"
 
 msgctxt "14055"
 msgid "なんやねん"
-msgstr "What a hell"
+msgstr "What the hell"
 
 msgctxt "14066"
 msgid "やめとけや"
