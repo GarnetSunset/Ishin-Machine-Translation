@@ -17,8 +17,8 @@ def write_string(data, offset, string):
         byte_string = string.encode("shift-jis").replace(b'\\n', b'\x0A')
         if len(byte_string) > max_len:
             print(f"Text is too long - offset: {offset}, translation: {string}, max length: {max_len}")
-        elif len(byte_string) <= 1:
-            print(f"Broken text - offset: {offset}, translation: {string}, max length: {max_len}")
+        #elif len(byte_string) <= 1:
+            #print(f"Broken text - offset: {offset}, translation: {string}, max length: {max_len}")
         else:
             struct.pack_into(f"{max_len}s", data, pos, byte_string)
     except(TypeError):
