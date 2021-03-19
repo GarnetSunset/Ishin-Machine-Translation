@@ -43,4 +43,11 @@ for file in os.listdir("pkgsForUpdate"):
             directory_contents = os.listdir(os.getcwd()+"/pkgsForUpdate/update/")
             copy_tree(os.getcwd()+"/pkgsForUpdate/update/"+directory_contents[0], os.getcwd()+"/patch/")
             shutil.rmtree(os.getcwd()+"/pkgsForUpdate/update/"+directory_contents[0])   
+#insert eboot decryption and modification
+copy_tree(os.getcwd()+"/mainDIR/", os.getcwd()+"/patch/")
+files_in_directory = os.listdir(os.getcwd()+"/patch/")
+filtered_files = [file for file in files_in_directory if file.endswith(".psd")]
+for file in filtered_files:
+	path_to_file = os.path.join(os.getcwd()+"/patch/", file)
+	os.remove(path_to_file)
 shutil.rmtree(os.getcwd()+"/pkgsForUpdate/")
