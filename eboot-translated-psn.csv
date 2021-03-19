@@ -1,4 +1,3 @@
-0x00e19cf8;
 0x00e19d14;Forward
 0x00e19d38;<Sign:D> Forward
 0x00e19d50;<Sign:C> Back
@@ -21,11 +20,11 @@
 0x00e19ea4;Dojo Fund
 0x00e19ebc;Possession P
 0x00e19ecc;Medal
-0x00e19edc;
+0x00e19edc;Possession ball
 0x00e19eec;Earn P
 0x00e19efc;Taxi Pt
 0x00e19f14;%2d points
-0x00e19f24;
+0x00e19f24;Rank
 0x00e19f30;Fukubiki ticket
 0x00e19f48;Gion
 0x00e19f50;Rakuchu
@@ -33,7 +32,6 @@
 0x00e19f60;Skeleton
 0x00e19f68;Fushimi
 0x00e19f70;Tosa
-0x00e19f94;
 0x00e19fa0;Virtue
 0x00e19fb0;Type
 0x00e19fc0;times
@@ -44,9 +42,8 @@
 0x00e1a00c;Ryoma Sakamoto
 0x00e1a024;Haruka Sawamura
 0x00e1a034;Saito
-0x00e1a058;
 0x00e1a060;Saito
-0x00e1a084;
+0x00e1a084;Mosquitoes
 0x00e1a0b0;Riku
 0x00e1a0c0;Kaguya
 0x00e1a0d0;faint
@@ -59,9 +56,9 @@
 0x00e1a138;Beans
 0x00e1a140;Hoeta
 0x00e1a148;Naotarou
-0x00e1a158;
+0x00e1a158;Daikichi
 0x00e1a168;Tuna
-0x00e1a170;
+0x00e1a170;Ochoko
 0x00e1a1a4;I don't have anything that can be used.
 0x00e1a1cc;What should I use?
 0x00e1a1e4;Can I really use it?
@@ -83,7 +80,7 @@
 0x00e1a330;Come on!
 0x00e1a340;Let's be careful ...
 0x00e1a350;Good luck!
-0x00e1a360;
+0x00e1a360;I'm not surprised
 0x00e1a370;It's a wait-and-see for the time being
 0x00e1a388;Can you decide early?
 0x00e1a3a0;It's perfect!
@@ -95,7 +92,7 @@
 0x00e1a418;Shit!
 0x00e1a428;I did it!
 0x00e1a438;Sorry ...
-0x00e1a448;
+0x00e1a448;Ue-n
 0x00e1a458;squeaky ... (tears)
 0x00e1a470;Surprise Peach Tree Sansho Tree
 0x00e1a488;It's hard!
@@ -111,33 +108,27 @@
 0x00e1a64c;.
 0x00e1a660;.
 0x00e1a670;?
-0x00e1a67c;
-0x00e1a684;
-0x00e1a6a0;
 0x00e1a6b4;.
-0x00e1a6bc;
 0x00e1a710;times
 0x00e1a7a8;…
-0x00e1a7d0;
 0x00e1a80c;hour
 0x00e1a814;hour
 0x00e1a818;…
 0x00e1a828;King Kazunoko
 0x00e1a838;Mu-san
 0x00e1a848;Akinako
-0x00e1a858;
+0x00e1a858;Deya Deya
 0x00e1a868;Colonel Saxon
 0x00e1a878;Machine gun subordinate
 0x00e1a888;Matsukov @ Gifu
-0x00e1a898;
+0x00e1a898;Deya mom
 0x00e1a8a8;Bercy
 0x00e1a8b8;South
-0x00e1a8c4;
+0x00e1a8c4;Nasty cherry blossoms 
 0x00e1a8cc;Harapeko weather
 0x00e1a8dc;Ashura Komachi
 0x00e1a8ec;Samurai Ondo
 0x00e1a8fc;Decorate your hometown with brocade
-0x00e1a930;
 0x00e1a938;God of excitement
 0x00e1a948;Our signboard man
 0x00e1a958;The man who changes the air
@@ -147,19 +138,14 @@
 0x00e1a9a4;Safe hand
 0x00e1a9b4;Passionately fit hands
 0x00e1a9cc;Sing
-0x00e1aa0c;
 0x00e1aa3c;?
 0x00e1aa5c;? ?? ?? ?? ??
-0x00e1aa78;
 0x00e1aa7c;Tuna
 0x00e1aa84;squid
 0x00e1aa8c;Flatfish
 0x00e1aa98;Onikasago
-0x00e1aab0;
 0x00e1aab4;Conger eel
 0x00e1aacc;Great white shark
-0x00e1aadc;c
-0x00e1aae0;
 0x00e1aae8;Japanese spider crab
 0x00e1aaf8;octopus
 0x00e1ab00;Umbrella
@@ -168,13 +154,10 @@
 0x00e1ab24;Carp
 0x00e1ab2c;Nishikigoi
 0x00e1ab3c;fish
-0x00e1ab40;
 0x00e1ab48;Rainbow trout
-0x00e1ab58;
-0x00e1ab9c;Q
-0x00e1aba4;Q
+0x00e1ab9c;Ask
+0x00e1aba4;Ask
 0x00e1abdc;Shino
-0x00e1abe8;
 0x00e1abf0;…
 0x00e1abf4;…
 0x00e1abfc;.
@@ -194,11 +177,7 @@
 0x00e1ac6c;.
 0x00e1ac74;.
 0x00e1ac78;.
-0x00e1ac80;
-0x00e1aca0;
 0x00e1acf4;End
-0x00e1ad0c;
-0x00e1ad10;
 0x00e1ad18;Beginner
 0x00e1ad20;Intermediate
 0x00e1ad28;Advanced
