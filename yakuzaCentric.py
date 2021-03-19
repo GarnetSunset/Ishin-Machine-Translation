@@ -28,10 +28,6 @@ for root, dirs, files in os.walk("original"):
              poList.append(os.path.join(root, file))
              Path(root.replace("original\\", "cleaned\\")).mkdir(parents=True, exist_ok=True)
 
-headers = {
-    'accept': 'application/json',
-    'Content-Type': 'application/x-www-form-urlencoded',
-}
 
 matches = ["TAG_", "DETAIL_EXPLAIN", "KIND_", "SHOP_ID", "UNIT_", "CATEGORY_" , "FINISH_FLAG", "PLAYER_", "TYPE_"]
 regex = u'[\u3000-\u303f\u3040-\u309f\u30a0-\u30ff\uff00-\uff9f\u4e00-\u9faf\u3400-\u4dbf]'
@@ -64,19 +60,14 @@ for fileName in poList:
                     msgstr=entry.msgstr
                 )
             for entry_2 in input_file_2:
-                if str(entry.msgctxt) == str(entry_2.msgctxt):
-                    if "<Sign" in str(entry.msgid):
-                        msgctxt=str(entry.msgctxt)
-                        substringButtons = str(entry.msgid).split("<Sign:",1)[1][0]
-                        msgstr.replace("<Sign >", "<Sign:"+substringButtons+">")
-                    if str(entry_2.msgstr) == "":
+                    if str(entry_2.msgstr) == str(entry.msgstr):
                         print(str(entry_2.msgid))
-                    msgstr = str(entry_2.msgstr)
-                    translated_entry = polib.POEntry(
-                    msgctxt=entry_2.msgctxt,
-                    msgid=entry_2.msgid,
-                    msgstr=msgstr
-                    )
+                        msgstr = str(entry_2.msgstr)
+                        translated_entry = polib.POEntry(
+                        msgctxt=entry_2.msgctxt,
+                        msgid=entry_2.msgid,
+                        msgstr=msgstr
+                        )
             output_file.append(translated_entry)
             output_file.save(fileName.replace("original\\", "cleaned\\"))
             with open(fileName.replace("original\\", "cleaned\\"), 'r', encoding="utf8") as fin:
