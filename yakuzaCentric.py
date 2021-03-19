@@ -12,7 +12,6 @@ import html
 from os import path as realPath
 
 poList = []
-processes = []
 
 for root, dirs, files in os.walk("original"):
     for file in files:
