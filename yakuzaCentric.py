@@ -7,17 +7,9 @@ import re
 import os, sys
 import requests
 import glob
-from google.cloud import translate
-from google.oauth2 import service_account
 from pathlib import Path
 import html
 from os import path as realPath
-
-key_path = "keys.json"
-
-credentials = service_account.Credentials.from_service_account_file(
-    key_path, scopes=["https://www.googleapis.com/auth/cloud-platform"],
-)
 
 poList = []
 processes = []
