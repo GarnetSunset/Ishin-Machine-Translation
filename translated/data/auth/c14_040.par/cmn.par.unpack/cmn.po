@@ -1,0 +1,510 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "357252"
+msgid "来たか"
+msgstr "Did you come"
+
+msgctxt "357396"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "357540"
+msgid "武市"
+msgstr "Takeshi"
+
+msgctxt "357684"
+msgid "ここを覚えてるか"
+msgstr "Do you remember here"
+
+msgctxt "357828"
+msgid "親っさんが死んだ場所だ"
+msgstr "It ’s the place where my parents died."
+
+msgctxt "357972"
+msgid "忘れるわけがない"
+msgstr "I can't forget"
+
+msgctxt "358116"
+msgid "この１年で土佐は変わった"
+msgstr "Tosa has changed in the last year"
+
+msgctxt "358260"
+msgid "だがここだけはあの日のままだ"
+msgstr "But only here is the same as that day"
+
+msgctxt "358404"
+msgid "俺がそうさせた"
+msgstr "I made it so"
+
+msgctxt "358548"
+msgid "あの日親っさんはな"
+msgstr "That day my parents"
+
+msgctxt "358692"
+msgid "俺ではなく"
+msgstr "Not me"
+
+msgctxt "358836"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "358980"
+msgid "お前に土佐勤王党を託すつもりだったんだ"
+msgstr ""
+"I was going to entrust you with the Tosakino\n"
+"Party"
+
+msgctxt "359124"
+msgid "何？"
+msgstr "what?"
+
+msgctxt "359268"
+msgid "気付いてなかったか"
+msgstr "Didn't notice"
+
+msgctxt "359412"
+msgid ""
+"お前はそういう奴だ\n"
+"昔っから"
+msgstr "You're that kind of guy for a long time"
+
+msgctxt "359556"
+msgid "人のために自分を投げ出せちまうくせに"
+msgstr "Even though I can throw myself out for others"
+
+msgctxt "359700"
+msgid "手前のこととなるとサッパリだ"
+msgstr "When it comes to the front, it's refreshing"
+
+msgctxt "359844"
+msgid "俺は"
+msgstr "I am"
+
+msgctxt "359988"
+msgid "お前のそういう甘さが許せなかった"
+msgstr "I couldn't forgive your sweetness"
+
+msgctxt "360132"
+msgid "そんなお前に土佐を託そうとした親っさんもな"
+msgstr "Some parents tried to entrust Tosa to you"
+
+msgctxt "360276"
+msgid "お前は勤王党の盟主でいたいがために"
+msgstr ""
+"Because you want to be the leader of the\n"
+"Qin Wang Party"
+
+msgctxt "360420"
+msgid "親っさんを殺したっていうのか"
+msgstr "Did you kill your parents?"
+
+msgctxt "360564"
+msgid "前にも言ったはずだ"
+msgstr "I should have said it before"
+
+msgctxt "360708"
+msgid "一介の郷士が土佐を……"
+msgstr "A villager takes Tosa ..."
+
+msgctxt "360852"
+msgid ""
+"ましてこの国を変えようと本気で想うなら\n"
+"手段になどこだわっていられない"
+msgstr ""
+"Moreover, if you really want to change this\n"
+"country, you can't stick to the means."
+
+msgctxt "360996"
+msgid "革命には血が必要なんだよ"
+msgstr "The revolution needs blood"
+
+msgctxt "361140"
+msgid ""
+"お前や親っさんのような甘いやり方じゃ\n"
+"世の中は変わらないんだ"
+msgstr ""
+"The world doesn't change in a sweet way\n"
+"like you and your parents"
+
+msgctxt "361284"
+msgid "だが親っさんの考えは変わらなかった"
+msgstr "But my parents' thoughts did not change"
+
+msgctxt "361428"
+msgid "だから俺は"
+msgstr "So I"
+
+msgctxt "361572"
+msgid "親っさんの意志を継ぐために"
+msgstr "To inherit the will of parents"
+
+msgctxt "361716"
+msgid "親っさんを殺したんだ"
+msgstr "I killed my parents"
+
+msgctxt "361860"
+msgid "意志を継ぐために殺すだと？"
+msgstr "Do you kill to inherit your will?"
+
+msgctxt "362004"
+msgid "そんなバカな話があるか！！"
+msgstr "Is there such a stupid story! !!"
+
+msgctxt "362148"
+msgid ""
+"親っさんの意志は\n"
+"土佐を変えろってことだ"
+msgstr "Parents' will is to change Tosa"
+
+msgctxt "362292"
+msgid "だが親っさんはその手段にこだわり過ぎた"
+msgstr ""
+"But parents were too particular about the\n"
+"means"
+
+msgctxt "362436"
+msgid "血を流さない方法に　な"
+msgstr "How to keep blood out"
+
+msgctxt "362580"
+msgid "だから"
+msgstr "So"
+
+msgctxt "362724"
+msgid "親っさんの意志を邪魔しているのは"
+msgstr "What is disturbing the will of parents"
+
+msgctxt "362868"
+msgid ""
+"他ならぬ親っさんの存在\n"
+"そのものだったんだよ"
+msgstr ""
+"It was none other than the very existence\n"
+"of a parent."
+
+msgctxt "363012"
+msgid ""
+"親っさんの目的を果たすために\n"
+"育てられてきた俺が"
+msgstr "I was raised to fulfill my parents' purpose"
+
+msgctxt "363156"
+msgid "その障害を排除するのは"
+msgstr "Eliminating that obstacle"
+
+msgctxt "363300"
+msgid "当然のことだろ？"
+msgstr "Naturally?"
+
+msgctxt "363444"
+msgid "武市"
+msgstr "Takeshi"
+
+msgctxt "363588"
+msgid "お前……"
+msgstr "you……"
+
+msgctxt "363732"
+msgid ""
+"こんなことを言っても\n"
+"お前に理解されないのは分かってる"
+msgstr ""
+"I know you can't understand me even if I\n"
+"say this"
+
+msgctxt "363876"
+msgid "お前は親っさんによく似ているからな"
+msgstr "Because you look a lot like your parents"
+
+msgctxt "364020"
+msgid "芹沢鴨に親っさんの暗殺を依頼した時から"
+msgstr ""
+"From the time I asked Serizawa Kamo to assassinate\n"
+"my parents"
+
+msgctxt "364164"
+msgid "俺はお前の名……"
+msgstr "I'm your name ..."
+
+msgctxt "364308"
+msgid "坂本龍馬の名を騙るようになった"
+msgstr "I came to deceive the name of Ryoma Sakamoto"
+
+msgctxt "364452"
+msgid "何故だかわかるか？"
+msgstr "Do you know why?"
+
+msgctxt "364596"
+msgid "俺とお前……"
+msgstr "Me and you ..."
+
+msgctxt "364740"
+msgid "どっちが正しいのか　ケリをつけるためさ"
+msgstr "Which one is right?"
+
+msgctxt "364884"
+msgid "俺は俺の信念を貫き"
+msgstr "I stick to my beliefs"
+
+msgctxt "365028"
+msgid "血で世界を変える道を行く"
+msgstr "Going the way to change the world with blood"
+
+msgctxt "365172"
+msgid ""
+"新選組にいれば\n"
+"いずれ“もう一人の龍馬”の噂は耳に入るだろう"
+msgstr ""
+"If you are in the Shinsengumi, you will\n"
+"hear rumors about \"another Ryoma\"."
+
+msgctxt "365316"
+msgid "お前なら何もしないわけはない"
+msgstr "You can't do anything"
+
+msgctxt "365460"
+msgid "坂本龍馬の名は"
+msgstr "The name of Ryoma Sakamoto is"
+
+msgctxt "365604"
+msgid "お前への挑戦状だったんだ"
+msgstr "It was a challenge to you"
+
+msgctxt "365748"
+msgid "挑戦状だと？"
+msgstr "Is it a challenge?"
+
+msgctxt "365892"
+msgid "坂本龍馬という人間は"
+msgstr "A person named Ryoma Sakamoto"
+
+msgctxt "366036"
+msgid ""
+"歴史を血で塗り替えた男として\n"
+"語り継がれるか"
+msgstr ""
+"Will it be handed down as a man who repainted\n"
+"history with blood?"
+
+msgctxt "366180"
+msgid "それとも"
+msgstr "Or"
+
+msgctxt "366324"
+msgid ""
+"吉田東洋と同じ道を歩んだ男として\n"
+"語り継がれるか"
+msgstr ""
+"Will it be handed down as a man who has\n"
+"followed the same path as Yoshida Toyo?"
+
+msgctxt "366468"
+msgid "俺とお前のこの１年は"
+msgstr "This year for me and you"
+
+msgctxt "366612"
+msgid ""
+"その決着をつけるための\n"
+"時間だったということだ"
+msgstr "It was time to settle that."
+
+msgctxt "366756"
+msgid "どちらにせよ"
+msgstr "anyway"
+
+msgctxt "366900"
+msgid "坂本龍馬は歴史を変えた男として名を刻む"
+msgstr ""
+"Ryoma Sakamoto makes a name for himself\n"
+"as a man who changed history"
+
+msgctxt "367044"
+msgid ""
+"親っさんの遺志を継いだことに\n"
+"変わりはないと思わないか？"
+msgstr ""
+"Don't you think it's the same as inheriting\n"
+"the wishes of your parents?"
+
+msgctxt "367188"
+msgid "馬鹿なこと言ってんじゃねえ"
+msgstr "Don't say stupid things"
+
+msgctxt "367332"
+msgid "そんな勝負に"
+msgstr "In such a game"
+
+msgctxt "367476"
+msgid "どんな意味があるっていうんだ"
+msgstr "What does that mean"
+
+msgctxt "367620"
+msgid ""
+"俺にとっちゃ\n"
+"それが何よりも重要だったんだ"
+msgstr ""
+"It was more important to me than anything\n"
+"else"
+
+msgctxt "367764"
+msgid "その為ならどんな手も使った"
+msgstr "I used any hand for that"
+
+msgctxt "367908"
+msgid "お前の動きは逐一報告させたよ"
+msgstr "I let you report your movements one by one"
+
+msgctxt "368052"
+msgid "新選組の山崎"
+msgstr "Shinsengumi Yamazaki"
+
+msgctxt "368196"
+msgid "それに"
+msgstr "in addition"
+
+msgctxt "368340"
+msgid "宿屋の女を使ってな"
+msgstr "Use the woman in the inn"
+
+msgctxt "368484"
+msgid "おりょうのことか"
+msgstr "Do you mean Oryo?"
+
+msgctxt "368628"
+msgid "全て上手くいっていた"
+msgstr "Everything went well"
+
+msgctxt "368772"
+msgid ""
+"お前が薩長の仲を\n"
+"取り持ったこともうまく利用して"
+msgstr ""
+"Make good use of your relationship with\n"
+"Satsuma"
+
+msgctxt "368916"
+msgid ""
+"この国に倒幕戦争を引き起こす寸前まで\n"
+"持っていくこともできた"
+msgstr ""
+"I was able to bring this country to the\n"
+"point of causing a defeat war"
+
+msgctxt "369060"
+msgid "だが"
+msgstr "But"
+
+msgctxt "369204"
+msgid "大政奉還まで成し遂げちまうとはな"
+msgstr "I don't want to achieve the Taisei Hokan"
+
+msgctxt "369348"
+msgid ""
+"あれには\n"
+"俺も奥の手を使わざるを得なかった"
+msgstr "I had to use my back hand for that"
+
+msgctxt "369492"
+msgid "それで"
+msgstr "So"
+
+msgctxt "369636"
+msgid "京へ火を"
+msgstr "Fire to Kyo"
+
+msgctxt "369780"
+msgid "ああ"
+msgstr "Oh"
+
+msgctxt "369924"
+msgid "だがそれすらお前は乗り越えやがった"
+msgstr "But even that you got over it"
+
+msgctxt "370068"
+msgid "まさか本気の以蔵すら倒すとはな"
+msgstr "No way to defeat even the serious Izo"
+
+msgctxt "370212"
+msgid "愛する女の裏切りさえ受け入れた"
+msgstr ""
+"I even accepted the betrayal of my beloved\n"
+"woman"
+
+msgctxt "370356"
+msgid "どこまで行っても変わらねえよ　お前は"
+msgstr "No matter how far you go, it doesn't change"
+
+msgctxt "370500"
+msgid "だからお前をここへ呼び出したのさ"
+msgstr "That's why I called you here"
+
+msgctxt "370644"
+msgid "俺とお前"
+msgstr "Me and you"
+
+msgctxt "370788"
+msgid "誰にも邪魔されず"
+msgstr "Undisturbed by anyone"
+
+msgctxt "370932"
+msgid "最後の決着をつけるためにな"
+msgstr "To make the final decision"
+
+msgctxt "371076"
+msgid "それで初めて……"
+msgstr "Then for the first time ..."
+
+msgctxt "371220"
+msgid "俺は俺の正しさを証明できる"
+msgstr "I can prove my correctness"
+
+msgctxt "371364"
+msgid "兄弟"
+msgstr "brothers"
+
+msgctxt "371508"
+msgid "兄弟か"
+msgstr "Brother"
+
+msgctxt "371652"
+msgid "懐かしい響きだ"
+msgstr "It sounds nostalgic"
+
+msgctxt "371796"
+msgid "その言葉を聞くと"
+msgstr "When you hear that word"
+
+msgctxt "371940"
+msgid "心の底から"
+msgstr "From the bottom of my heart"
+
+msgctxt "372084"
+msgid "熱いものがこみ上げてくる"
+msgstr "Hot things come up"
+
+msgctxt "372228"
+msgid "だが"
+msgstr "But"
+
+msgctxt "372372"
+msgid "もう戻ることなどできない"
+msgstr "I can't go back anymore"
+
+msgctxt "372516"
+msgid "坂本龍馬として生きた男は"
+msgstr "The man who lived as Ryoma Sakamoto"
+
+msgctxt "372660"
+msgid "２人いらない"
+msgstr "I don't need two people"

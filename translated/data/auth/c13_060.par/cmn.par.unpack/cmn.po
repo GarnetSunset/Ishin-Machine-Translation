@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "249784"
+msgid "お前ら"
+msgstr "You guys"
+
+msgctxt "249928"
+msgid "何してるんだ　沖田！"
+msgstr "What are you doing Okita!"
+
+msgctxt "250072"
+msgid "藤堂平助はここ“油小路”で新選組に襲われ"
+msgstr ""
+"Heisuke Todo is attacked by the Shinsengumi\n"
+"here at \"Aburanokoji\""
+
+msgctxt "250216"
+msgid "武田観柳斎と共に御陵衛士として……"
+msgstr "As a royal guard with Takeda Kanryusai ..."
+
+msgctxt "250360"
+msgid "死んだことにする"
+msgstr "Decide to be dead"
+
+msgctxt "250504"
+msgid "何だと？"
+msgstr "What did you say?"
+
+msgctxt "250648"
+msgid "どういうことなんだ"
+msgstr "What do you mean"
+
+msgctxt "250792"
+msgid "それが平助の遺言や"
+msgstr "That is Heisuke's will"
+
+msgctxt "250936"
+msgid "平助は……"
+msgstr "Heisuke is ..."
+
+msgctxt "251080"
+msgid ""
+"自分が新選組の間者やということを\n"
+"伊東に悟られんようにするため"
+msgstr "To make Ito aware that I am a Shinsengumi"
+
+msgctxt "251224"
+msgid "ここに遺体を運んでくれと"
+msgstr "Please bring the body here"
+
+msgctxt "251368"
+msgid "あいつは最期まで"
+msgstr "Until the end"
+
+msgctxt "251512"
+msgid "近藤さんから与えられた使命を守ったんや"
+msgstr "I kept the mission given by Mr. Kondo"
+
+msgctxt "251656"
+msgid "もう　後戻りはできひんで"
+msgstr "I can go back"
+
+msgctxt "251800"
+msgid "一（はじめ）ちゃん"
+msgstr "Ichi (beginning) -chan"
+
+msgctxt "251944"
+msgid "沖田……"
+msgstr "Okita ……"
+
+msgctxt "252088"
+msgid "坂本龍馬は一（はじめ）ちゃんに譲ったる"
+msgstr ""
+"Ryoma Sakamoto handed over to Ichi (Hajime)\n"
+"-chan"
+
+msgctxt "252232"
+msgid ""
+"せやけど\n"
+"万が一あんたが兄弟に情が移ったりした時は……"
+msgstr ""
+"But in the unlikely event that you change\n"
+"your mind to your brother ..."
+
+msgctxt "252376"
+msgid "躊躇なくワシが“二人の”坂本龍馬を　斬る"
+msgstr ""
+"Without hesitation, I slash \"two\" Ryoma\n"
+"Sakamoto"
+
+msgctxt "252520"
+msgid "それでええな？"
+msgstr "Is that so?"
+
+msgctxt "252664"
+msgid "ああ　明日の夜"
+msgstr "Oh tomorrow night"
+
+msgctxt "252808"
+msgid "全てに決着をつける"
+msgstr "Settle everything"
+
+msgctxt "252952"
+msgid "坂本龍馬の歴史は"
+msgstr "The history of Ryoma Sakamoto"
+
+msgctxt "253096"
+msgid "近江屋で終わらせる"
+msgstr "End at Omiya"
+
+msgctxt "253240"
+msgid "絶対に"
+msgstr "definitely"

@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "331172"
+msgid "沖田？"
+msgstr "Okita?"
+
+msgctxt "331316"
+msgid "何のつもりだ"
+msgstr "What are you going to do"
+
+msgctxt "331460"
+msgid "とぼけんなや　ネタはあがっとる"
+msgstr "Toboken Naya story is up"
+
+msgctxt "331604"
+msgid "何？"
+msgstr "what?"
+
+msgctxt "331748"
+msgid "お前が……"
+msgstr "you……"
+
+msgctxt "331892"
+msgid "源さん殺ったっちゅうことはなあ！！"
+msgstr "I never killed Gen-san! !!"
+
+msgctxt "332036"
+msgid "何で俺が井上を殺さなきゃならない！？"
+msgstr "Why should I kill Inoue! ??"
+
+msgctxt "332180"
+msgid ""
+"お前らは虚無僧を\n"
+"追ってたんじゃなかったのか？"
+msgstr "Didn't you follow the Komuso?"
+
+msgctxt "332324"
+msgid "ああ　追ってたわ"
+msgstr "I was chasing you"
+
+msgctxt "332468"
+msgid "せやけど　もう追う必要はあらへん"
+msgstr "I don't need to chase anymore"
+
+msgctxt "332612"
+msgid "なぜだ"
+msgstr "Why"
+
+msgctxt "332756"
+msgid "その虚無僧の正体はなぁ……"
+msgstr "What is the identity of the Komuso ..."
+
+msgctxt "332900"
+msgid "坂本龍馬っちゅう男やったからや！"
+msgstr ""
+"Ryoma Sakamoto I did it because I was a\n"
+"man!"
+
+msgctxt "333044"
+msgid "何だと？"
+msgstr "What did you say?"
+
+msgctxt "333188"
+msgid ""
+"勤王派の間じゃ\n"
+"有名な話らしいやないか"
+msgstr ""
+"It seems to be a famous story among the\n"
+"Qin Wang faction"
+
+msgctxt "333332"
+msgid "虚無僧のナリした坂本龍馬……"
+msgstr "Ryoma Sakamoto, a Komuso Nari ..."
+
+msgctxt "333476"
+msgid "最近京でウロついとるらしいのぉ"
+msgstr ""
+"It seems that I'm going to get rid of it\n"
+"in Kyoto recently"
+
+msgctxt "333620"
+msgid "その話　本当か？"
+msgstr "Is that story true?"
+
+msgctxt "333764"
+msgid ""
+"土佐や長州の浪人どもを\n"
+"締め上げたら白状しよった"
+msgstr ""
+"I confessed when I tightened up Tosa and\n"
+"the Ronin of Choshu"
+
+msgctxt "333908"
+msgid "それにお前やったら納得や"
+msgstr "And if you do it, you'll be convinced"
+
+msgctxt "334052"
+msgid ""
+"あの源さんかて\n"
+"殺られてもおかしない"
+msgstr "I don't mind if that source is killed"
+
+msgctxt "334196"
+msgid "待て　坂本龍馬は俺の他にもう１人いる"
+msgstr ""
+"Wait, there is another Ryoma Sakamoto besides\n"
+"me"
+
+msgctxt "334340"
+msgid "そのことはあんたも知っているはずだ"
+msgstr "You should know that too"
+
+msgctxt "334484"
+msgid "ああ　知っとる"
+msgstr "Oh get to know"
+
+msgctxt "334628"
+msgid "せやけど源さん殺す理由がお前にはある"
+msgstr "You have a reason to kill Gen-san"
+
+msgctxt "334772"
+msgid "理由？"
+msgstr "the reason?"
+
+msgctxt "334916"
+msgid "とぼけんなや"
+msgstr "Toboken Naya"
+
+msgctxt "335060"
+msgid "お前が殺したんやろ"
+msgstr "You killed me"
+
+msgctxt "335204"
+msgid "源さんが……"
+msgstr "Gen-san ..."
+
+msgctxt "335348"
+msgid "“覆面の男”やっちゅうことを知ってな！！"
+msgstr "Know that you're a \"masked man\"! !!"
+
+msgctxt "335492"
+msgid ""
+"本当なのか\n"
+"その話は"
+msgstr "Is that true?"
+
+msgctxt "335636"
+msgid "どこまでシラ切るつもりやお前！"
+msgstr "How far are you going to cut the shira?"
+
+msgctxt "335780"
+msgid "本当なのかって聞いてんだ　沖田！！"
+msgstr "I was asking if it was true Okita! !!"
+
+msgctxt "335924"
+msgid "答えてくれ　沖田"
+msgstr "Answer me Okita"
+
+msgctxt "336068"
+msgid "師の仇討つんは　弟子の務め……"
+msgstr ""
+"The teacher's katakiuchi is a disciple's\n"
+"duty ..."
+
+msgctxt "336212"
+msgid ""
+"真の理心流の奥義\n"
+"味わわせたるわ"
+msgstr ""
+"I let you taste the mystery of the true\n"
+"reasoning style"
+
+msgctxt "336356"
+msgid ""
+"真の理心流？\n"
+"何を言っているんだ"
+msgstr ""
+"Tennen Rishin-ryu? What are you talking\n"
+"about"
+
+msgctxt "336500"
+msgid "さあ構えろや　一（はじめ）ちゃん"
+msgstr "Come on, Ichi (Hajime) -chan"
+
+msgctxt "336644"
+msgid ""
+"アンタが追い続けてきた天念理心流\n"
+"“最後の謎”が目の前にある"
+msgstr ""
+"The \"last mystery\" of the Tennen Rishin-ryu\n"
+"that you have been chasing is right\n"
+"in front of you"
+
+msgctxt "336788"
+msgid ""
+"勝てば分かる\n"
+"という話だな"
+msgstr ""
+"It ’s a story that you can understand if\n"
+"you win."
+
+msgctxt "336932"
+msgid "来い　沖田"
+msgstr "Come Okita"
+
+msgctxt "337076"
+msgid "俺はお前に勝つ"
+msgstr "I will win you"
+
+msgctxt "337220"
+msgid "そして全ての謎を明かし……"
+msgstr "And reveal all the mysteries ..."
+
+msgctxt "337364"
+msgid "坂本龍馬としての人生を取り戻す"
+msgstr "Regaining life as Ryoma Sakamoto"
+
+msgctxt "337508"
+msgid "ええ気合や"
+msgstr "Yeah"
+
+msgctxt "337652"
+msgid "いくでぇ"
+msgstr "I'm going"
+
+msgctxt "337796"
+msgid "坂本龍馬ぁ！！！！"
+msgstr "Ryoma Sakamoto! !! !! !!"

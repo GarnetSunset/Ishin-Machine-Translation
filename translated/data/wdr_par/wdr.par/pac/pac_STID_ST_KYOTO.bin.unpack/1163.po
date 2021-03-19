@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3704"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3705"
+msgid "グルルルル……"
+msgstr "Gurululu ……"
+
+msgctxt "3720"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3721"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3722"
+msgid "…………"
+msgstr ""
+
+msgctxt "3731"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3732"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3733"
+msgid "ワンワンワン！"
+msgstr "One by one!"
+
+msgctxt "3748"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3749"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3750"
+msgid "ワン！　ワンワンワンワン！"
+msgstr "one! One One One One!"
+
+msgctxt "3777"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3778"
+msgid "ワン！　ワンワンワンワン！"
+msgstr "one! One One One One!"

@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "8412"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8413"
+msgid ""
+"あ、お客さん。\n"
+"お帰りなさい。"
+msgstr "Oh, the customer. welcome back."
+
+msgctxt "8444"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8445"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8446"
+msgid "（ふぅ……　ひどい目にあった）"
+msgstr "(Huh ... I had a terrible eye)"
+
+msgctxt "8477"
+msgid "あ、いた！"
+msgstr "Oh, there was!"
+
+msgctxt "8488"
+msgid "……！"
+msgstr "……！"
+
+msgctxt "8495"
+msgid "先ほどはすいませんでした！"
+msgstr "I'm sorry earlier!"
+
+msgctxt "8522"
+msgid "……えっ？"
+msgstr "……eh?"
+
+msgctxt "8533"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8534"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8535"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8536"
+msgid "……そうか、誤解が解けたんだな。"
+msgstr ""
+"...... Well, the misunderstanding has been\n"
+"resolved."
+
+msgctxt "8569"
+msgid ""
+"はい……　事情を聞きもせず、\n"
+"変態扱いしてしまい、すいませんでした。"
+msgstr ""
+"Yes ... I'm sorry I treated you as a metamorphosis\n"
+"without asking about the situation."
+
+msgctxt "8638"
+msgid "……あの着物泥棒はどうなったんだ？"
+msgstr "...... What happened to that kimono thief?"
+
+msgctxt "8673"
+msgid ""
+"はい、泥棒の奴はあの後、\n"
+"こそこそと逃げようとしてたらしいんで、\n"
+"あっし達の仲間が捕らえたそうです。"
+msgstr ""
+"Yes, the thief seems to have been trying\n"
+"to escape after that, and it seems that\n"
+"our friends caught him."
+
+msgctxt "8774"
+msgid ""
+"あなたに追い回されて疲れていたのか、\n"
+"すぐに捕まえることができたみたいですよ。"
+msgstr ""
+"Perhaps you were chased by you and tired,\n"
+"it seems that you were able to catch\n"
+"it immediately."
+
+msgctxt "8853"
+msgid "……そうか。"
+msgstr "……Really."
+
+msgctxt "8866"
+msgid ""
+"このところ着物泥棒の被害が多くて\n"
+"困ってたんですよ。"
+msgstr ""
+"Recently, I was in trouble because there\n"
+"was a lot of damage from kimono thieves."
+
+msgctxt "8919"
+msgid ""
+"うちの店でご迷惑をおかけしてしまったお詫びと\n"
+"犯人逮捕のお礼に、こちらを受け取ってください。"
+msgstr ""
+"Please receive this as an apology for the\n"
+"inconvenience caused at our store and\n"
+"as a thank you for the arrest of the criminal."
+
+msgctxt "9012"
+msgid "「<Color:8>水晶<Color:Default>」をもらった"
+msgstr "\"<Color:8> crystal<Color:Default> I got"
+
+msgctxt "9055"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9056"
+msgid ""
+"私たちからも、ご協力感謝します！\n"
+"……それでは！"
+msgstr "Thank you for your cooperation! ...... Then!"
+
+msgctxt "9105"
+msgid ""
+"（これからは例え風呂屋であっても\n"
+"　気を抜かないほうがよさそうだな……）"
+msgstr ""
+"(From now on, even if you're in a bathhouse,\n"
+"you shouldn't be distracted ...)"
+
+msgctxt "9178"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9179"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9180"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9181"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9182"
+msgid "いらっしゃいませ。"
+msgstr "Welcome."
+
+msgctxt "9201"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9202"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9203"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9204"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9205"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9206"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9207"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9208"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9209"
+msgid ""
+"（ふぅ……　やはり風呂はいい……\n"
+"　日ごろの疲れが癒えていくな……）"
+msgstr ""
+"(Hmm ... the bath is good ... don't heal\n"
+"your daily fatigue ...)"
+
+msgctxt "9278"
+msgid "（……さて、そろそろあがるか）"
+msgstr "(... Well, is it about to finish?)"
+
+msgctxt "9309"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9310"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9311"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9312"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9313"
+msgid "（風呂上がりの一杯は格別だな……）"
+msgstr "(A cup after the bath is exceptional ...)"
+
+msgctxt "9348"
+msgid "…………ん？"
+msgstr "…………Hmm?"
+
+msgctxt "9361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9362"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9363"
+msgid "（ないな……）"
+msgstr "(No ...)"
+
+msgctxt "9378"
+msgid "（俺の着物が……　ない!!）"
+msgstr "(I don't have my kimono ... !!)"
+
+msgctxt "9405"
+msgid "ポサッ！"
+msgstr "Poss!"
+
+msgctxt "9414"
+msgid "ん？"
+msgstr "Hmm?"
+
+msgctxt "9419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9421"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9423"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9424"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9425"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9426"
+msgid "今のは……　俺の着物！"
+msgstr "Now ... my kimono!"
+
+msgctxt "9449"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "9450"
+msgid "おい!!　待て!!"
+msgstr "Hey !! Wait !!"
+
+msgctxt "9465"
+msgid "お客さ～ん！　裸！　裸ー！"
+msgstr "Customers! naked! Naked!"
+
+msgctxt "9492"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "11140"
+msgid "番台"
+msgstr "Number stand"
+
+msgctxt "11145"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11156"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "11169"
+msgid "Player"
+msgstr ""
+
+msgctxt "11176"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11184"
+msgid "男の声"
+msgstr "Man's voice"
+
+msgctxt "11191"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11200"
+msgid "岡っ引き"
+msgstr "Okabiki"
+
+msgctxt "11209"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "11220"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "11231"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11237"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "11246"
+msgid "acsce0130"
+msgstr ""
+
+msgctxt "11256"
+msgid "P_KRU_TLK_stand_drink_ochoko"
+msgstr ""
+
+msgctxt "11285"
+msgid "ADV_P_KRU_STAND"
+msgstr ""
+
+msgctxt "11301"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "11323"
+msgid "kaiwabgm_comical"
+msgstr ""
+
+msgctxt "11340"
+msgid "何かが落ちた音"
+msgstr "The sound of something falling"
+
+msgctxt "11355"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "11365"
+msgid "P_KRU_SS_shagami_check_lp"
+msgstr ""
+
+msgctxt "11391"
+msgid "P_KRU_SS_shagami_check_st"
+msgstr ""
+
+msgctxt "11417"
+msgid "P_KRU_SS_shagami_check_en"
+msgstr ""
+
+msgctxt "11443"
+msgid "Talk_Angry"
+msgstr ""

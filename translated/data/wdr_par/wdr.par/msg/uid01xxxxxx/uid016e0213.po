@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "876"
+msgid "（……庭に関しては、ざっとこんなところか）"
+msgstr "(... Is this a rough place for the garden?)"
+
+msgctxt "919"
+msgid "よし、次は室内を確認してみるかな。"
+msgstr "Alright, next time I'll check the room."
+
+msgctxt "954"
+msgid ""
+"は、はい！\n"
+"どうぞ、こちらへ……"
+msgstr "Yes! Please go here ..."
+
+msgctxt "987"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "988"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "989"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "990"
+msgid "（さて、室内の設備を確認してみるか）"
+msgstr ""
+"(Well, do you want to check the equipment\n"
+"in the room?)"
+
+msgctxt "1136"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "1141"
+msgid "遥"
+msgstr "remote"
+
+msgctxt "1144"
+msgid "Talk_Yes"
+msgstr ""

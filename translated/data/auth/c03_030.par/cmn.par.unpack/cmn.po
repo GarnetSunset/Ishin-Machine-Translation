@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "882144"
+msgid "永倉さんと渡り合ってやがる"
+msgstr "I will cross over with Mr. Nagakura"
+
+msgctxt "882288"
+msgid "何モンだあいつぁ？"
+msgstr "What's that guy?"
+
+msgctxt "882432"
+msgid ""
+"俺の天念理心流の攻撃を受けても\n"
+"死なん奴がおるとはな"
+msgstr ""
+"I don't think there are any dead people\n"
+"even if they are attacked by my Tennen\n"
+"Rishin-ryu"
+
+msgctxt "882576"
+msgid ""
+"お前なら\n"
+"ここでも生き抜くかも知れへん"
+msgstr "You might survive here as well"
+
+msgctxt "882720"
+msgid "何を言ってる"
+msgstr "What are you saying"
+
+msgctxt "882864"
+msgid "合格や"
+msgstr "Pass or"
+
+msgctxt "883008"
+msgid "まだ一本取ってないが？"
+msgstr "Haven't you taken one yet?"
+
+msgctxt "883152"
+msgid ""
+"金や権力に釣られただけの\n"
+"半端な腕やったら無駄に死ぬだけや"
+msgstr ""
+"If you do a half-hearted arm just caught\n"
+"by money or power, you will die in vain"
+
+msgctxt "883296"
+msgid "せやけどお前はちゃう"
+msgstr "I'm sorry, but you're crazy"
+
+msgctxt "883440"
+msgid "新選組におっても　生き残るだけの力がある"
+msgstr ""
+"Even in the Shinsengumi, they have the power\n"
+"to survive"
+
+msgctxt "883584"
+msgid ""
+"それを見極めるために\n"
+"こんな荒っぽい入隊試験をしてるってわけか"
+msgstr ""
+"I wonder if I'm doing such a rough enlistment\n"
+"test to identify it"
+
+msgctxt "883728"
+msgid ""
+"新選組は強ないとアカンねや\n"
+"強う無い奴は遅かれ早かれ殺される"
+msgstr ""
+"If the Shinsengumi isn't strong, Akan and\n"
+"those who aren't strong will be killed\n"
+"sooner or later."
+
+msgctxt "883872"
+msgid ""
+"強い奴だけが生き残れる場所\n"
+"そういうとこなんや"
+msgstr "A place where only strong guys can survive"
+
+msgctxt "884016"
+msgid "で　俺の天念理心流はどうやったんや"
+msgstr "So how did my Tennen Rishin-ryu work?"
+
+msgctxt "884160"
+msgid "期待に応えることはできたんかい"
+msgstr "Did you meet your expectations?"
+
+msgctxt "884304"
+msgid "相当な腕前だな"
+msgstr "It's a considerable skill"
+
+msgctxt "884448"
+msgid ""
+"だが\n"
+"アンタの剣筋には殺意が無い"
+msgstr "But your sword muscle has no murderous intention"
+
+msgctxt "884592"
+msgid "俺が探していたもんじゃない"
+msgstr "It's not what I was looking for"
+
+msgctxt "884736"
+msgid "ん？"
+msgstr "Hmm?"
+
+msgctxt "884880"
+msgid "いや気にしないでくれ　独り言だ"
+msgstr "Don't worry, it's a single word"
+
+msgctxt "885024"
+msgid "新選組に入ったからには……"
+msgstr "Because I joined the Shinsengumi ..."
+
+msgctxt "885168"
+msgid ""
+"もっといろんな古参幹部連中に\n"
+"剣の稽古をつけてもらわないとな"
+msgstr ""
+"I have to ask more old executives to practice\n"
+"the sword."
+
+msgctxt "885312"
+msgid "名前は？"
+msgstr "Name is?"
+
+msgctxt "885456"
+msgid "斎藤一だ"
+msgstr "It's Saito Hajime"
+
+msgctxt "885600"
+msgid "斎藤か"
+msgstr "Saito?"
+
+msgctxt "885744"
+msgid "取って付けたような名前やな"
+msgstr "It ’s a name that looks like it ’s attached."
+
+msgctxt "885888"
+msgid "歓迎するで"
+msgstr "Welcome"
+
+msgctxt "886032"
+msgid "新選組はいつから青春活劇の舞台になったんや？"
+msgstr ""
+"When did the Shinsengumi become the stage\n"
+"for youth swashbucklers?"
+
+msgctxt "886176"
+msgid ""
+"甘いなぁ～　新八っちゃん\n"
+"アマアマや！"
+msgstr "It's sweet ~ Shinpachi-chan Amaama!"
+
+msgctxt "886320"
+msgid "総司！"
+msgstr "Souji!"
+
+msgctxt "886464"
+msgid "総司って　あの？"
+msgstr "Souji is that?"
+
+msgctxt "886608"
+msgid "せや　ワシが“あの”……"
+msgstr "Saya eagle is \"that\" ……"
+
+msgctxt "886752"
+msgid "一番隊隊長　沖田総司や"
+msgstr "Ichiban Captain Souji Okita"
+
+msgctxt "886896"
+msgid "聞いてた噂とずいぶん違うんだな"
+msgstr "It's very different from the rumors I heard"
+
+msgctxt "887040"
+msgid "あ？"
+msgstr "Ah?"
+
+msgctxt "887184"
+msgid "そのツラのどこが美少年だ"
+msgstr "Where is the beautiful boy in that vine"
+
+msgctxt "887328"
+msgid "ほう　今度の新入りは目ぇが悪いのぉ"
+msgstr "The newcomer is not good at this time."
+
+msgctxt "887472"
+msgid "試験はもっと厳しくせなぁあかんでぇ？"
+msgstr "The exam should be stricter, isn't it?"
+
+msgctxt "887616"
+msgid "そないなことしてたら全員死んでしまうやろ"
+msgstr "If you don't do that, everyone will die"
+
+msgctxt "887760"
+msgid ""
+"これは入隊試験なんや\n"
+"実力が分かればそれでええ"
+msgstr ""
+"This is an enlistment test, if you know\n"
+"what you are capable of"
+
+msgctxt "887904"
+msgid "そうかいなぁ　ホンマの実力ってのは……"
+msgstr "That's right, what is Honma's ability?"
+
+msgctxt "888048"
+msgid "もっと追い込んでから分かるもんちゃうか？"
+msgstr "Do you know after pushing more?"
+
+msgctxt "888192"
+msgid "それをやった結果が　その血の羽織やろ"
+msgstr ""
+"The result of doing that is that bloody\n"
+"haori"
+
+msgctxt "888336"
+msgid "俺には人を斬る趣味はない"
+msgstr "I don't have a hobby to kill people"
+
+msgctxt "888480"
+msgid "何をアホなことを抜かしとんのや"
+msgstr "What's stupid"
+
+msgctxt "888624"
+msgid "刀は人を斬るためにあるもんや"
+msgstr "There is a sword to kill people"
+
+msgctxt "888768"
+msgid "人が斬りとうて斬りとうてしゃぁない……"
+msgstr "People are slashing and slashing ..."
+
+msgctxt "888912"
+msgid "それが剣士の本音なんちゃうか？"
+msgstr "Is that the true intention of the swordfighter?"
+
+msgctxt "889056"
+msgid "俺は近藤局長の理想を実現したいだけや"
+msgstr ""
+"I just want to realize the ideal of Director\n"
+"Kondo"
+
+msgctxt "889200"
+msgid "そうか"
+msgstr "Really"
+
+msgctxt "889344"
+msgid "せやけど　こないな上物……"
+msgstr "It ’s a good thing that does n’t come."
+
+msgctxt "889488"
+msgid "ワシやったら絶対……"
+msgstr "Absolutely if I do it ..."
+
+msgctxt "889632"
+msgid "もっと追いつめるんやけどなぁ！！"
+msgstr "I'm gonna catch up more! !!"
+
+msgctxt "889776"
+msgid "ほぅ　やるやないか"
+msgstr "How do you do it?"
+
+msgctxt "889920"
+msgid "何をやっとるんや！　もう試験は終わったんやぞ！"
+msgstr "What are you going to do! The exam is over!"
+
+msgctxt "890064"
+msgid ""
+"ええやないか\n"
+"ちょっとや　ちょっと"
+msgstr "Yeah, hey, hey, hey"
+
+msgctxt "890208"
+msgid "兄ちゃん……"
+msgstr "Brother ……"
+
+msgctxt "890352"
+msgid "ワシの理心流は　一味ちゃうで"
+msgstr "The eagle's rationale is a gang"
+
+msgctxt "890496"
+msgid "そうか"
+msgstr "Really"
+
+msgctxt "890640"
+msgid "是非味わってみたいもんだな"
+msgstr "I definitely want to taste it"
+
+msgctxt "890784"
+msgid "アカン！　やめろ総司！！"
+msgstr "Akan! Stop Souji! !!"
+
+msgctxt "890928"
+msgid "ワシの勝ちやな"
+msgstr "The eagle wins"
+
+msgctxt "891072"
+msgid "引き分けや"
+msgstr "Draw"
+
+msgctxt "891216"
+msgid "あぁ？"
+msgstr "Ahh?"
+
+msgctxt "891360"
+msgid "お前……"
+msgstr "you……"
+
+msgctxt "891504"
+msgid "どうや　納得いったか総司"
+msgstr "Souji"
+
+msgctxt "891648"
+msgid "何モンや　こいつ"
+msgstr "What a mon"
+
+msgctxt "891792"
+msgid "そこまでだ"
+msgstr "That's it"
+
+msgctxt "891936"
+msgid "副長"
+msgstr "Deputy captain"
+
+msgctxt "892080"
+msgid "新選組副長の土方歳三と申します"
+msgstr ""
+"My name is Toshizo Hijikata, Deputy Chief\n"
+"of the Shinsengumi."
+
+msgctxt "892224"
+msgid "斎藤一さんですね"
+msgstr "It's Mr. Hajime Saito"
+
+msgctxt "892368"
+msgid "ああ"
+msgstr "Oh"
+
+msgctxt "892512"
+msgid ""
+"永倉との試験試合\n"
+"そしてこの狂犬とのやりとり……"
+msgstr ""
+"Test match with Nagakura and interaction\n"
+"with this mad dog ..."
+
+msgctxt "892656"
+msgid "一部始終拝見させていただきました"
+msgstr "I saw you from beginning to end"
+
+msgctxt "892800"
+msgid ""
+"そこであなたに\n"
+"折り入ってお話ししたいことがある"
+msgstr "So I have something to talk to you"
+
+msgctxt "892944"
+msgid "何だ"
+msgstr "What"
+
+msgctxt "893088"
+msgid "このような場所ではなんです"
+msgstr "In a place like this"
+
+msgctxt "893232"
+msgid ""
+"今晩　祗園の椿楼（つばきろう）という料亭で\n"
+"お会いしませんか？　２人きりで"
+msgstr ""
+"Would you like to meet us at a restaurant\n"
+"called Tsubakirou in Gion tonight? Alone"
+
+msgctxt "893376"
+msgid "分かった"
+msgstr "Do you get it"
+
+msgctxt "893520"
+msgid "それでは後ほど"
+msgstr "See you later"

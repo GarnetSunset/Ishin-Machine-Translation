@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "141696"
+msgid "俺の本当の名は"
+msgstr "My real name is"
+
+msgctxt "141840"
+msgid "“坂本龍馬”なんだ"
+msgstr "What is \"Ryoma Sakamoto\""
+
+msgctxt "141984"
+msgid "え　それって！"
+msgstr "That's it!"
+
+msgctxt "142128"
+msgid "一（はじめ）さんが　坂本龍馬？"
+msgstr "Is Mr. Ichi (beginning) Ryoma Sakamoto?"
+
+msgctxt "142272"
+msgid ""
+"でも　それやったら\n"
+"うちが会うた“坂本”さんは！？"
+msgstr ""
+"But if you do that, the one we meet, \"Sakamoto\"!\n"
+"??"
+
+msgctxt "142416"
+msgid "そいつは俺の名前を騙っている偽者だ"
+msgstr "It's a fake who is fooling my name"
+
+msgctxt "142560"
+msgid ""
+"俺の恩人を暗殺させた黒幕で\n"
+"口封じにその刺客を殺した"
+msgstr ""
+"I killed the thug in the mouth with a mastermind\n"
+"that assassinated my benefactor"
+
+msgctxt "142704"
+msgid ""
+"長崎ではイギリスの武器商人と\n"
+"つながっているらしい"
+msgstr ""
+"It seems that Nagasaki is connected to a\n"
+"British weapons merchant"
+
+msgctxt "142848"
+msgid "そして……"
+msgstr "And ..."
+
+msgctxt "142992"
+msgid ""
+"武市半平太と\n"
+"同じ火傷を背中に背負っていた"
+msgstr ""
+"He had the same burns on his back as Takechi\n"
+"Hanpeita."
+
+msgctxt "143136"
+msgid "でも　武市さんって……"
+msgstr "But Takeichi-san ..."
+
+msgctxt "143280"
+msgid "わからねえ"
+msgstr "I don't know"
+
+msgctxt "143424"
+msgid "兄弟は土佐で腹を切って死んだはずだ"
+msgstr "The brothers should have died in Tosa"
+
+msgctxt "143568"
+msgid "それに……"
+msgstr "in addition……"
+
+msgctxt "143712"
+msgid "あいつには親っさんを殺す理由もない"
+msgstr "He has no reason to kill his parents"
+
+msgctxt "143856"
+msgid "俺にももう……"
+msgstr "For me too ..."
+
+msgctxt "144000"
+msgid "何がどうなってんのか分からねえ……！"
+msgstr "I don't know what's going on ...!"
+
+msgctxt "144144"
+msgid "一（はじめ）さん"
+msgstr "Mr. Ichi (beginning)"
+
+msgctxt "144288"
+msgid "うちの会うた……"
+msgstr "We meet ..."
+
+msgctxt "144432"
+msgid "“坂本龍馬”に会いたい？"
+msgstr "Want to meet \"Ryoma Sakamoto\"?"
+
+msgctxt "144576"
+msgid "何？"
+msgstr "what?"
+
+msgctxt "144720"
+msgid "もし会いたいんやったら"
+msgstr "If you want to meet"
+
+msgctxt "144864"
+msgid ""
+"新選組の人でうちと同じように\n"
+"「坂本龍馬」とつながっている人がいるの"
+msgstr ""
+"There are people in the Shinsengumi who\n"
+"are connected to \"Ryoma Sakamoto\" like\n"
+"us."
+
+msgctxt "145008"
+msgid "その人を捕まえれば……"
+msgstr "If you catch that person ..."
+
+msgctxt "145152"
+msgid "もう一度“坂本龍馬”に会えるかも"
+msgstr "Maybe I can meet \"Ryoma Sakamoto\" again"
+
+msgctxt "145296"
+msgid "誰なんだ？"
+msgstr "Who are you?"
+
+msgctxt "145440"
+msgid "その人は……"
+msgstr "That person is ..."
+
+msgctxt "145584"
+msgid "監察役　山崎烝"
+msgstr "Inspector Yamazaki Hiro"
+
+msgctxt "145728"
+msgid "山崎烝"
+msgstr "Yamazaki Susumu"
+
+msgctxt "145872"
+msgid "あいつが……？"
+msgstr "that guy……?"

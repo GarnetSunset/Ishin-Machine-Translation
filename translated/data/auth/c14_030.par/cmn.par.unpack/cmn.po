@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "228316"
+msgid "全てはあの場所で始まった"
+msgstr "Everything started in that place"
+
+msgctxt "228460"
+msgid "俺は東洋の親っさんを失い"
+msgstr "I lost my oriental parent"
+
+msgctxt "228604"
+msgid "逃げるように土佐を出た"
+msgstr "I left Tosa to escape"
+
+msgctxt "228748"
+msgid ""
+"そして１年\n"
+"またここに戻ってきたっちゅうわけか"
+msgstr ""
+"And why did you come back here again for\n"
+"a year?"
+
+msgctxt "228892"
+msgid "運命っちゅうやつやな"
+msgstr "Destiny is always glossy"
+
+msgctxt "229036"
+msgid "きっと武市は"
+msgstr "I'm sure Takeshi"
+
+msgctxt "229180"
+msgid "高知城で待っている"
+msgstr "Waiting at Kochi Castle"
+
+msgctxt "229324"
+msgid "俺たちがやってくるのをな"
+msgstr "I hope we're coming"
+
+msgctxt "229468"
+msgid "差し向かう　心は清き　水鏡"
+msgstr "The heart I'm facing is a clean water mirror"
+
+msgctxt "229612"
+msgid ""
+"きっと君と武市は\n"
+"互いに見えているものが同じ……"
+msgstr ""
+"I'm sure you and Takeichi see the same thing\n"
+"..."
+
+msgctxt "229756"
+msgid "私と近藤さんのようなものなのだろう"
+msgstr "I think it's like me and Mr. Kondo"
+
+msgctxt "229900"
+msgid "だとしたら"
+msgstr "If so"
+
+msgctxt "230044"
+msgid "武市を止められるのは君しかいない"
+msgstr "Only you can stop Takeshi"
+
+msgctxt "230188"
+msgid "せやな"
+msgstr "Sayana"
+
+msgctxt "230332"
+msgid "お前しかおらん"
+msgstr "Only you"
+
+msgctxt "230476"
+msgid "この闘いに　終止符を打てんのは"
+msgstr "It ’s the end of this fight"
+
+msgctxt "230620"
+msgid "ああ"
+msgstr "Oh"
+
+msgctxt "230764"
+msgid "行くぞ"
+msgstr "let's go"
+
+msgctxt "230908"
+msgid "敵は"
+msgstr "The enemy is"
+
+msgctxt "231052"
+msgid "高知城にあり！！"
+msgstr "Located in Kochi Castle! !!"
+
+msgctxt "231196"
+msgid "おう！！"
+msgstr "Let's go! !!"

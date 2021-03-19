@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "377768"
+msgid "くそっ！！"
+msgstr "Damn! !!"
+
+msgctxt "377912"
+msgid ""
+"あ？\n"
+"おぉ　もう１匹来たか"
+msgstr "Ah? Oh, did another one come?"
+
+msgctxt "378056"
+msgid "今日は大漁だな　こりゃ後で掃除が大変だ"
+msgstr ""
+"It ’s a big catch today, so it ’s hard to\n"
+"clean it later."
+
+msgctxt "378200"
+msgid ""
+"終わりや\n"
+"早よ医者にかかった方がええ"
+msgstr "It ’s better to see a doctor sooner or later."
+
+msgctxt "378344"
+msgid "命は助かるやろ"
+msgstr "Life will be saved"
+
+msgctxt "378488"
+msgid "次は誰や"
+msgstr "Who's next"
+
+msgctxt "378632"
+msgid ""
+"野良犬とはよく言ったもんだな\n"
+"心配になってきたぜ"
+msgstr "I used to say stray dogs, but I'm worried"
+
+msgctxt "378776"
+msgid "半端な腕やから切り落としたまでや"
+msgstr "Until I cut it off from my odd arm"
+
+msgctxt "378920"
+msgid "あんたも心配なんやったら　帰った方がええ"
+msgstr "If you're worried, you should go home"
+
+msgctxt "379064"
+msgid "俺が心配してるのは"
+msgstr "I'm worried"
+
+msgctxt "379208"
+msgid "あんたを斬っちまうと不合格なのかってことだ"
+msgstr "I wonder if I would fail if I slashed you"
+
+msgctxt "379352"
+msgid "心配すな　そん時は文句なしで合格や"
+msgstr ""
+"Don't worry, you can pass without complaint\n"
+"at that time"
+
+msgctxt "379496"
+msgid "ついでに　二番隊隊長の席も譲ったる"
+msgstr ""
+"By the way, I also gave up the seat of the\n"
+"second captain"
+
+msgctxt "379640"
+msgid "二番隊隊長？"
+msgstr "Captain of the second division?"
+
+msgctxt "379784"
+msgid "俺の席や"
+msgstr "My seat"
+
+msgctxt "379928"
+msgid "新選組二番隊隊長　永倉新八"
+msgstr "Shinsengumi 2nd Captain Shinpachi Nagakura"
+
+msgctxt "380072"
+msgid "二番隊隊長の永倉……"
+msgstr "Nagakura, the second captain ..."
+
+msgctxt "380216"
+msgid ""
+"俺から一本取れば合格や\n"
+"武器は何使うても構わん"
+msgstr ""
+"If you take one from me, you can pass or\n"
+"use any weapon"
+
+msgctxt "380360"
+msgid ""
+"とにかく相手に勝てばええ\n"
+"流派も武器も関係なし"
+msgstr ""
+"Anyway, if you beat the opponent, it doesn't\n"
+"matter what school or weapon you have."
+
+msgctxt "380504"
+msgid "それが新選組っちゅうところや"
+msgstr "That's where the Shinsengumi is"
+
+msgctxt "380648"
+msgid "さあ　いつでもええ"
+msgstr "Come on anytime yeah"
+
+msgctxt "380792"
+msgid "かかってこい"
+msgstr "Bring it on"
+
+msgctxt "380936"
+msgid "その前にひとつ確認しておきたい"
+msgstr "I want to check one before that"
+
+msgctxt "381080"
+msgid "何や"
+msgstr "Somehow"
+
+msgctxt "381224"
+msgid "あんた　新選組にはもう長いのか？"
+msgstr "Is it long for your Shinsengumi?"
+
+msgctxt "381368"
+msgid "ああ　結成前からの付き合いや"
+msgstr "Oh, the relationship before the formation"
+
+msgctxt "381512"
+msgid "それがどないした"
+msgstr "It didn't go"
+
+msgctxt "381656"
+msgid "つまりアンタは新選組の古参幹部……"
+msgstr ""
+"In other words, you are a senior executive\n"
+"of the Shinsengumi ..."
+
+msgctxt "381800"
+msgid "「天念理心流」の使い手ってわけだな"
+msgstr "You're the user of \"Tennen Rishin-ryu\""
+
+msgctxt "381944"
+msgid ""
+"なんや　目的は新選組やのうて\n"
+"道場破りっちゅうことか"
+msgstr ""
+"What is the purpose of breaking the Shinsengumi\n"
+"and Noute Dojo?"
+
+msgctxt "382088"
+msgid ""
+"そんなことはない\n"
+"ただ確認したかっただけだ"
+msgstr "That's not the case I just wanted to confirm"
+
+msgctxt "382232"
+msgid "そうか"
+msgstr "Really"
+
+msgctxt "382376"
+msgid "試験なんぞで出す気はなかったが……"
+msgstr "I didn't intend to give it a test, but ..."
+
+msgctxt "382520"
+msgid "あんたには“こっち”の構えで相手したるわ"
+msgstr ""
+"I'm going to deal with you with a \"this\"\n"
+"attitude"
+
+msgctxt "382664"
+msgid "これが　天念理心流……"
+msgstr "This is Tennen Rishin-ryu ……"
+
+msgctxt "382808"
+msgid "覚悟はええな？"
+msgstr "Are you ready?"
+
+msgctxt "382952"
+msgid "ああ"
+msgstr "Oh"

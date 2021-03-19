@@ -1,0 +1,863 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "20744"
+msgid "つ……　強ぇ……"
+msgstr "One ... strong ..."
+
+msgctxt "20761"
+msgid ""
+"憂さ晴らししたいのなら、\n"
+"いつでも相手になってやるが……　どうする？"
+msgstr ""
+"If you want to get rid of your anxiety,\n"
+"I'll always be your partner ... what do\n"
+"you do?"
+
+msgctxt "20830"
+msgid "ヒッ！　も、もうしません！"
+msgstr "Hi! I won't do it anymore!"
+
+msgctxt "20857"
+msgid "お、お助けぇ！"
+msgstr "Oh, help me!"
+
+msgctxt "20872"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "20873"
+msgid "ワゥン、ワゥン……"
+msgstr "Wow, Wow ..."
+
+msgctxt "20892"
+msgid "大丈夫だ。もう怖くないからな。"
+msgstr "Should be fine. I'm not scared anymore."
+
+msgctxt "20923"
+msgid "…………"
+msgstr ""
+
+msgctxt "20932"
+msgid ""
+"（よっぽど怖かったんだな……\n"
+"　こいつをこのままここに置いていくのも\n"
+"　しのびない。よし……）"
+msgstr ""
+"(I was so scared ... I can't help leaving\n"
+"this guy here as it is. Okay ...)"
+
+msgctxt "21027"
+msgid "……なぁ。お前、うちの家にこないか？"
+msgstr ""
+"...... Nah. Would you like to come to our\n"
+"house?"
+
+msgctxt "21064"
+msgid "…………"
+msgstr ""
+
+msgctxt "21073"
+msgid ""
+"俺の家なら、\n"
+"もうお前をいじめる奴はいないぞ。\n"
+"……どうだ？"
+msgstr ""
+"At my house, no one is bullying you anymore.\n"
+"...... How is it?"
+
+msgctxt "21134"
+msgid "…………"
+msgstr ""
+
+msgctxt "21143"
+msgid "…………ワゥン！　ヘッ！　ヘッ！　ヘッ！"
+msgstr "………… Wow! Hey! Hey! Hey!"
+
+msgctxt "21184"
+msgid "フッ、いい返事だ。"
+msgstr "Huh, that's a good reply."
+
+msgctxt "21203"
+msgid "傷ついた犬に名前をつけてください。"
+msgstr "Give your injured dog a name."
+
+msgctxt "21238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21239"
+msgid ""
+"\n"
+"%sがペットになりました。"
+msgstr "% s is now a pet."
+
+msgctxt "21266"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21267"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21268"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21269"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "21270"
+msgid "（ん？　あれは……）"
+msgstr "(Hmm? That is ...)"
+
+msgctxt "21291"
+msgid "ほら、ほら！　もっと鳴け鳴け！"
+msgstr "Hey Hey! Squeal more!"
+
+msgctxt "21322"
+msgid "キャイン！　キャイン！"
+msgstr "Kyaeen! Kyaeen!"
+
+msgctxt "21345"
+msgid ""
+"ギャハハ！　おい、俺の方が\n"
+"もっとでかい声で鳴かせられたぞ。俺の勝ちだ。"
+msgstr "Gahaha! Hey, I was screaming louder. I won."
+
+msgctxt "21418"
+msgid "くそ！　まだまだ……！"
+msgstr "Fuck! not yet……!"
+
+msgctxt "21441"
+msgid "おい、やめろ。"
+msgstr "Hey, stop."
+
+msgctxt "21456"
+msgid "あぁ？　なんだお前？"
+msgstr "Ahh? What are you?"
+
+msgctxt "21477"
+msgid "……今までそいつを傷つけていたのはお前らか？"
+msgstr ""
+"...... Are you the one who hurt him until\n"
+"now?"
+
+msgctxt "21522"
+msgid ""
+"そうだけど、なんだ？\n"
+"こいつ、おっさんの犬じゃねえだろ。"
+msgstr ""
+"That's right, what is it? This guy isn't\n"
+"an old man's dog."
+
+msgctxt "21579"
+msgid ""
+"そうそう。\n"
+"俺達、ただ野良犬の駆除をしてるだけ。"
+msgstr ""
+"Oh yeah. We're just getting rid of stray\n"
+"dogs."
+
+msgctxt "21628"
+msgid ""
+"ま、憂さ晴らしも兼ねてるけどな。\n"
+"最近、税が高くてやってられないしよ。"
+msgstr ""
+"Well, it also serves as a relief. I can't\n"
+"do it because the tax is high these days."
+
+msgctxt "21699"
+msgid "……誰にも迷惑かけてないんだ。文句ねえだろ。"
+msgstr "... I don't bother anyone. You can't complain."
+
+msgctxt "21744"
+msgid ""
+"文句なら大有りだ。憂さ晴らしだか何だか知らんが、\n"
+"その犬に手ぇ出すことは、俺が許さねぇ。"
+msgstr ""
+"There are many complaints. I don't know\n"
+"if it's a relief, but I can't forgive the\n"
+"dog."
+
+msgctxt "21833"
+msgid ""
+"……あぁ？　いちいちうるせぇな。\n"
+"じゃあそうだ。おっさんで憂さ晴らししてやろうか？"
+msgstr ""
+"……Ahh? It's noisy every time. Then that's\n"
+"right. Would you like to be an old man?"
+
+msgctxt "21916"
+msgid "ギャハハ、そっちの方が楽しそうだな。"
+msgstr "Gahaha, that seems to be more fun."
+
+msgctxt "21953"
+msgid ""
+"……今の俺は、すこぶる機嫌が悪い。\n"
+"手加減できねぇから、そのつもりでいろ。"
+msgstr ""
+"...... I'm in a bad mood right now. I can't\n"
+"control it, so let's do that."
+
+msgctxt "22028"
+msgid ""
+"へっ。何言ってやがる！\n"
+"おい、やっちまうぞ！"
+msgstr "Hey. What do you say! Hey, let's do it!"
+
+msgctxt "22073"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22074"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22075"
+msgid "クゥン、クゥン……"
+msgstr "Kun, Kun ..."
+
+msgctxt "22094"
+msgid ""
+"（この犬に怪我をさせているのが\n"
+"　あの男達の仕業なら……　許せねぇな）"
+msgstr ""
+"(If it's the work of those guys that hurt\n"
+"this dog ... I can't forgive you)"
+
+msgctxt "22165"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22166"
+msgid "へへっ、いい憂さ晴らしになったろう？"
+msgstr "Hey, have you been a good relief?"
+
+msgctxt "22203"
+msgid ""
+"あぁ、毎度いい憂さ晴らしだ。\n"
+"むしゃくしゃした時は犬コロの世話になるに限るな。"
+msgstr ""
+"Ah, it's always a good relief. Don't just\n"
+"take care of your dog when you're messed\n"
+"up."
+
+msgctxt "22282"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22283"
+msgid "（……犬？　……世話？）"
+msgstr "(... dog? ... care?)"
+
+msgctxt "22308"
+msgid "……ん？"
+msgstr "……Hmm?"
+
+msgctxt "22317"
+msgid ""
+"おい、お前どうしたんだ!?\n"
+"何かあったのか？"
+msgstr "Hey, what happened to you !? What happened?"
+
+msgctxt "22360"
+msgid "クゥン……"
+msgstr "Kun ……"
+
+msgctxt "22371"
+msgid "（もしや、さっきの連中の仕業か……？）"
+msgstr "(Hello, is it the work of those guys ...?)"
+
+msgctxt "22410"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22411"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22412"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22413"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22414"
+msgid "よし、こんなもんだろう。"
+msgstr "Alright, it's like this."
+
+msgctxt "22439"
+msgid "クゥン、クゥン……"
+msgstr "Kun, Kun ..."
+
+msgctxt "22458"
+msgid ""
+"（この犬に怪我をさせているのが\n"
+"　さっきの男達の仕業なら……　許せねぇな）"
+msgstr ""
+"(If it was the work of the men who injured\n"
+"this dog ... I can't forgive you)"
+
+msgctxt "22533"
+msgid "クゥン……"
+msgstr "Kun ……"
+
+msgctxt "22544"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22545"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22546"
+msgid "ヘッ！　へッ！　ヘッ！"
+msgstr "Hey! Hey! Hey!"
+
+msgctxt "22569"
+msgid ""
+"また来てやるからな。\n"
+"それまでおとなしく待っているんだぞ。"
+msgstr ""
+"I'll come again. Until then, I'll be waiting\n"
+"quietly."
+
+msgctxt "22628"
+msgid "ヘッ！　へッ！　ヘッ！"
+msgstr "Hey! Hey! Hey!"
+
+msgctxt "22651"
+msgid ""
+"いい子にしてたか？\n"
+"ほら、怪我を見せてみろ。"
+msgstr ""
+"Did you make a good boy? Look, show me your\n"
+"injuries."
+
+msgctxt "22696"
+msgid ""
+"もうだいぶよさそうだな。\n"
+"しかし念のためだ、\n"
+"もう１度手当てしておくか……"
+msgstr ""
+"It looks pretty good already. But just in\n"
+"case, should I treat it again ..."
+
+msgctxt "22771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22772"
+msgid "（しかし今は手当てできそうなものを持っていない）"
+msgstr "(But now I don't have anything I can afford)"
+
+msgctxt "22821"
+msgid "ワゥン……"
+msgstr "Wow ..."
+
+msgctxt "22832"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22833"
+msgid "（……すまん、やはり今は我慢してくれ）"
+msgstr "(... I'm sorry, please bear with me now)"
+
+msgctxt "22872"
+msgid "ワゥン……"
+msgstr "Wow ..."
+
+msgctxt "22883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22884"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22885"
+msgid "もうすぐ治るからな……"
+msgstr "It will be cured soon ..."
+
+msgctxt "22908"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22909"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22910"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "22911"
+msgid ""
+"フッ、傷も完全にふさがったようだな。\n"
+"もうこれで大丈夫だ。\n"
+"しばらくしたらまた様子を見に来てやるからな。"
+msgstr ""
+"Huh, it seems that the scratches are completely\n"
+"closed. This is all right. I'll\n"
+"come back to see you after a while."
+
+msgctxt "23016"
+msgid "ヘッ！　へッ！　ヘッ！　ワゥン！"
+msgstr "Hey! Hey! Hey! Wow!"
+
+msgctxt "23049"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23050"
+msgid "ヘッ！　へッ！　ヘッ！"
+msgstr "Hey! Hey! Hey!"
+
+msgctxt "23073"
+msgid ""
+"また来てやるからな。\n"
+"それまでおとなしく待っているんだぞ。"
+msgstr ""
+"I'll come again. Until then, I'll be waiting\n"
+"quietly."
+
+msgctxt "23132"
+msgid "ワン！　ワォン！"
+msgstr "one! Wow!"
+
+msgctxt "23149"
+msgid ""
+"いい子にしてたか？\n"
+"怪我を見せてみろ。"
+msgstr "Did you make a good boy? Show me your injuries."
+
+msgctxt "23188"
+msgid ""
+"だいぶよくなってはきたが、\n"
+"まだ少し手当てが必要そうだな……"
+msgstr ""
+"It's getting better, but I think we still\n"
+"need some treatment ..."
+
+msgctxt "23249"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23250"
+msgid "（しかし今は手当てできそうなものを持っていない）"
+msgstr "(But now I don't have anything I can afford)"
+
+msgctxt "23299"
+msgid "ワゥン……"
+msgstr "Wow ..."
+
+msgctxt "23310"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23311"
+msgid "（……すまん、やはり今は我慢してくれ）"
+msgstr "(... I'm sorry, please bear with me now)"
+
+msgctxt "23350"
+msgid "ワゥン……"
+msgstr "Wow ..."
+
+msgctxt "23361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23362"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23363"
+msgid "いつもみたいにじっとしてろよ……"
+msgstr "Stay still as usual ..."
+
+msgctxt "23396"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23397"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23398"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23399"
+msgid ""
+"フッ、だいぶ元気になってきたじゃないか。\n"
+"もうしばらくの辛抱だぞ。"
+msgstr ""
+"Huh, I think I'm getting better. I'll be\n"
+"patient for a while."
+
+msgctxt "23466"
+msgid "ヘッ！　へッ！　ヘッ！"
+msgstr "Hey! Hey! Hey!"
+
+msgctxt "23489"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23490"
+msgid "ヘッ！　へッ！　ヘッ！"
+msgstr "Hey! Hey! Hey!"
+
+msgctxt "23513"
+msgid ""
+"また来てやるからな。\n"
+"それまでおとなしく待っているんだぞ。"
+msgstr ""
+"I'll come again. Until then, I'll be waiting\n"
+"quietly."
+
+msgctxt "23572"
+msgid "ワゥン……　ワゥン……"
+msgstr "Wow ... Wow ..."
+
+msgctxt "23595"
+msgid ""
+"いい子にしてたか？\n"
+"怪我を見せてみろ。"
+msgstr "Did you make a good boy? Show me your injuries."
+
+msgctxt "23634"
+msgid ""
+"どれどれ……\n"
+"まだもうしばらく手当てが必要そうだな……"
+msgstr ""
+"Which one ... I think I need more treatment\n"
+"for a while ..."
+
+msgctxt "23689"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23690"
+msgid "（しかし今は手当てできそうなものを持っていない）"
+msgstr "(But now I don't have anything I can afford)"
+
+msgctxt "23739"
+msgid "ワゥン……"
+msgstr "Wow ..."
+
+msgctxt "23750"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23751"
+msgid "（……すまん、やはり今は我慢してくれ）"
+msgstr "(... I'm sorry, please bear with me now)"
+
+msgctxt "23790"
+msgid "ワゥン……"
+msgstr "Wow ..."
+
+msgctxt "23801"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23802"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23803"
+msgid "怪我を治してやるからな。動くなよ……"
+msgstr "I'll heal my injuries. Don't move ..."
+
+msgctxt "23840"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23841"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23842"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23843"
+msgid "よし、これで少しはよくなっただろう。"
+msgstr "Alright, this should have improved a little."
+
+msgctxt "23880"
+msgid "ワォン！"
+msgstr "Wow!"
+
+msgctxt "23889"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23890"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "23891"
+msgid "ワゥン……　ワゥン……"
+msgstr "Wow ... Wow ..."
+
+msgctxt "23914"
+msgid ""
+"また来てやるからな。\n"
+"それまでおとなしく待っているんだぞ。"
+msgstr ""
+"I'll come again. Until then, I'll be waiting\n"
+"quietly."
+
+msgctxt "23973"
+msgid "…………"
+msgstr ""
+
+msgctxt "23982"
+msgid ""
+"ん？　お前、どうしたんだ？\n"
+"傷だらけじゃないか。"
+msgstr ""
+"Hmm? What's wrong with you? Isn't it full\n"
+"of scratches?"
+
+msgctxt "24031"
+msgid "ワゥン……"
+msgstr "Wow ..."
+
+msgctxt "24042"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24043"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24044"
+msgid ""
+"（どうやら野良犬のようだが、\n"
+"　ひどい怪我だ……\n"
+"　放っておくとまずそうだ）"
+msgstr ""
+"(It looks like a stray dog, but it's a terrible\n"
+"injury ... If you leave it alone,\n"
+"it's unlikely.)"
+
+msgctxt "24121"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24122"
+msgid "（しかし今は手当てできそうなものを持っていない）"
+msgstr "(But now I don't have anything I can afford)"
+
+msgctxt "24171"
+msgid "ワゥン……"
+msgstr "Wow ..."
+
+msgctxt "24182"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24183"
+msgid "（……すまん、やはり今は我慢してくれ）"
+msgstr "(... I'm sorry, please bear with me now)"
+
+msgctxt "24222"
+msgid "ワゥン……"
+msgstr "Wow ..."
+
+msgctxt "24233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24234"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24235"
+msgid ""
+"今から手当てをしてやるからな。\n"
+"動くなよ……"
+msgstr ""
+"I'll take care of you from now on. Don't\n"
+"move ..."
+
+msgctxt "24280"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24281"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24282"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24283"
+msgid "よし、これで少しはよくなるだろう。"
+msgstr "Alright, this should be a little better."
+
+msgctxt "24318"
+msgid "ワゥン、ワゥン。"
+msgstr "Wow, wow."
+
+msgctxt "24335"
+msgid "……少しは元気になったようだな。"
+msgstr ""
+"...... It seems that I'm feeling a little\n"
+"better."
+
+msgctxt "24368"
+msgid "ワゥン。"
+msgstr "Wow."
+
+msgctxt "24377"
+msgid ""
+"（だがしばらくは定期的に手当てが必要そうだ……\n"
+"　しかたない、また来るか）"
+msgstr ""
+"(But it seems that regular treatment is\n"
+"needed for a while ... I can't help it,\n"
+"will I come again?)"
+
+msgctxt "24452"
+msgid ""
+"「傷ついた犬」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「傷ついた犬」と交流してみましょう。"
+msgstr ""
+"A bond with the \"injured dog\" has sprung\n"
+"up. You can deepen your bond by interacting\n"
+"with each other and accumulating\n"
+"the bond gauge in the future. You can also\n"
+"check the status of the gauge in the\n"
+"\"Dedication Catalog\" in the pause menu.\n"
+"Let's actively interact with the \"injured\n"
+"dog\"."
+
+msgctxt "24669"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24670"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "24671"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "26768"
+msgid "粗暴な男"
+msgstr "Rough man"
+
+msgctxt "26777"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "26790"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "26795"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "26805"
+msgid "感じの悪い男"
+msgstr "Unpleasant man"
+
+msgctxt "26818"
+msgid "傷ついた犬"
+msgstr "Injured dog"
+
+msgctxt "26829"
+msgid "kaiwabgm_sub_hartwarm_01"
+msgstr ""
+
+msgctxt "26854"
+msgid "dummy"
+msgstr ""
+
+msgctxt "26860"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "26869"
+msgid "kaiwabgm_sub_fuon_04"
+msgstr ""
+
+msgctxt "26890"
+msgid "犬の鳴き声"
+msgstr "Dog bark"
+
+msgctxt "26901"
+msgid "Talk_Happy"
+msgstr ""
+
+msgctxt "26912"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "26923"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "26934"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "26942"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "26954"
+msgid "Player"
+msgstr ""
+
+msgctxt "26961"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "26983"
+msgid "P_KRU_SS_stand_pet_esa_en"
+msgstr ""
+
+msgctxt "27009"
+msgid "傷ついていた犬"
+msgstr "Injured dog"
+
+msgctxt "27024"
+msgid "P_KRU_SS_stand_pet_esa_lp"
+msgstr ""
+
+msgctxt "27050"
+msgid "P_KRU_SS_stand_pet_esa_st"
+msgstr ""
+
+msgctxt "27076"
+msgid "L"
+msgstr ""
+
+msgctxt "27078"
+msgid "傷ついた犬との絆"
+msgstr "Bonds with injured dogs"

@@ -1,0 +1,1072 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "848996"
+msgid "武市半平太"
+msgstr "Takechi Hanpeita"
+
+msgctxt "849140"
+msgid "覚悟！！！！"
+msgstr "Prepared! !! !! !!"
+
+msgctxt "849284"
+msgid "龍馬……"
+msgstr "Ryoma..."
+
+msgctxt "849428"
+msgid "だめだ！"
+msgstr "No!"
+
+msgctxt "849572"
+msgid "斬れ龍馬！"
+msgstr "Slash Ryoma!"
+
+msgctxt "849716"
+msgid ""
+"俺を斬って\n"
+"坂本龍馬という名を取り戻すんだ！"
+msgstr "Slash me and regain the name Ryoma Sakamoto!"
+
+msgctxt "849860"
+msgid "あんた"
+msgstr "You"
+
+msgctxt "850004"
+msgid "言ったじゃないか"
+msgstr "Didn't you say"
+
+msgctxt "850148"
+msgid "坂本龍馬は"
+msgstr "Ryoma Sakamoto"
+
+msgctxt "850292"
+msgid "近江屋で死んだと"
+msgstr "When he died at Omiya"
+
+msgctxt "850436"
+msgid "だがあれは"
+msgstr "Who is that"
+
+msgctxt "850580"
+msgid "どっちが正しいかなんて"
+msgstr "Which one is right"
+
+msgctxt "850724"
+msgid "俺はどうでもいい"
+msgstr "I don't care"
+
+msgctxt "850868"
+msgid "それより"
+msgstr "Than that"
+
+msgctxt "851012"
+msgid "俺にとっては"
+msgstr "For me"
+
+msgctxt "851156"
+msgid "親っさんや兄弟が大切なんだ"
+msgstr "Parents and siblings are important"
+
+msgctxt "851300"
+msgid "兄弟の言うとおりさ"
+msgstr "As my brother says"
+
+msgctxt "851444"
+msgid "俺はどこまで行っても"
+msgstr "No matter how far I go"
+
+msgctxt "851588"
+msgid "自分の手が届く世界しか守れねえ"
+msgstr ""
+"You can only protect the world that you\n"
+"can reach"
+
+msgctxt "851732"
+msgid "その程度の器の男だ"
+msgstr "It ’s a man with that kind of vessel."
+
+msgctxt "851876"
+msgid "その言葉を聞いて良くわかった"
+msgstr "I heard that word and understood it well"
+
+msgctxt "852020"
+msgid ""
+"むしろ俺の方が　時代を変えられるような\n"
+"器じゃないってことがな"
+msgstr ""
+"Rather, I'm not a vessel that can change\n"
+"the times"
+
+msgctxt "852164"
+msgid "俺は力でこの国を変えようとした"
+msgstr "I tried to change this country by force"
+
+msgctxt "852308"
+msgid "だが"
+msgstr "But"
+
+msgctxt "852452"
+msgid "序列や階級を打ち破ろうとしていた俺が"
+msgstr "I was trying to break the ranks and ranks"
+
+msgctxt "852596"
+msgid ""
+"いつの間にか\n"
+"序列と階級を利用し始めていた"
+msgstr ""
+"Before I knew it, I started using ranks\n"
+"and ranks"
+
+msgctxt "852740"
+msgid "そうなったら最後"
+msgstr "When that happens, the last"
+
+msgctxt "852884"
+msgid ""
+"もっと大きな権力に\n"
+"使われる立場になってしまった"
+msgstr ""
+"I'm in a position to be used for greater\n"
+"power"
+
+msgctxt "853028"
+msgid "今となっちゃ"
+msgstr "Now"
+
+msgctxt "853172"
+msgid "親っさんの気持ちが痛いほどわかる"
+msgstr ""
+"I can understand the feelings of my parents\n"
+"so painfully"
+
+msgctxt "853316"
+msgid "親っさんの"
+msgstr "Parent's"
+
+msgctxt "853460"
+msgid "気持ち？"
+msgstr "Feelings?"
+
+msgctxt "853604"
+msgid "ああ"
+msgstr "Oh"
+
+msgctxt "853748"
+msgid "時代を変えるには"
+msgstr "To change the times"
+
+msgctxt "853892"
+msgid ""
+"非情さよりも\n"
+"もっと大事なもんがあったってことさ"
+msgstr ""
+"There was something more important than\n"
+"ruthlessness"
+
+msgctxt "854036"
+msgid "大事なもん？"
+msgstr "Is it important?"
+
+msgctxt "854180"
+msgid "愛さ"
+msgstr "Love"
+
+msgctxt "854324"
+msgid "どんな苦しみがあろうと"
+msgstr "No matter what the suffering"
+
+msgctxt "854468"
+msgid ""
+"愛を最後まで捨てなかった人間だけが\n"
+"世界を変える"
+msgstr ""
+"Only humans who have not abandoned love\n"
+"will change the world"
+
+msgctxt "854612"
+msgid "１年前　土佐を抜ける時"
+msgstr "When leaving Tosa a year ago"
+
+msgctxt "854756"
+msgid "お前は無条件に俺を守るという道を選んだ"
+msgstr "You chose to protect me unconditionally"
+
+msgctxt "854900"
+msgid "非情な道を選んだはずの"
+msgstr "I should have chosen a ruthless path"
+
+msgctxt "855044"
+msgid "俺の心は揺れた"
+msgstr "My heart shook"
+
+msgctxt "855188"
+msgid "お前の愛の前では"
+msgstr "In front of your love"
+
+msgctxt "855332"
+msgid "知恵や策略は通用しない"
+msgstr "Wisdom and tricks don't work"
+
+msgctxt "855476"
+msgid "そう悟った"
+msgstr "I realized so"
+
+msgctxt "855620"
+msgid "あの時既に"
+msgstr "Already at that time"
+
+msgctxt "855764"
+msgid "俺は負けていたんだ"
+msgstr "I was losing"
+
+msgctxt "855908"
+msgid "そのことに気づくのが遅すぎたがな"
+msgstr "It was too late to notice that"
+
+msgctxt "856052"
+msgid "あんたにだって"
+msgstr "Even you"
+
+msgctxt "856196"
+msgid "愛はあるさ"
+msgstr "I have love"
+
+msgctxt "856340"
+msgid "桂に"
+msgstr "To Katsura"
+
+msgctxt "856484"
+msgid "もしものときは俺のことを頼むって"
+msgstr "In case of emergency, ask for me"
+
+msgctxt "856628"
+msgid "言ってくれてたんだろ？"
+msgstr "Did you tell me?"
+
+msgctxt "856772"
+msgid "ずっとあんたは俺を守ってくれていた"
+msgstr "You've been protecting me all the time"
+
+msgctxt "856916"
+msgid "ガキの頃からずっと"
+msgstr "Ever since I was a kid"
+
+msgctxt "857060"
+msgid "それがあんたの愛なんじゃないのか？"
+msgstr "Isn't that your love?"
+
+msgctxt "857204"
+msgid "兄弟"
+msgstr "brothers"
+
+msgctxt "857348"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "857492"
+msgid "兄弟も俺も　一度死んだ"
+msgstr "Both my brother and I died once"
+
+msgctxt "857636"
+msgid "武市半平太は土佐で"
+msgstr "Takechi Hanpeita is in Tosa"
+
+msgctxt "857780"
+msgid "坂本龍馬は　近江屋で死んだんだ"
+msgstr "Ryoma Sakamoto died at Omiya"
+
+msgctxt "857924"
+msgid "一度死んだ人間同士"
+msgstr "Humans who died once"
+
+msgctxt "858068"
+msgid "もうこれ以上"
+msgstr "No more"
+
+msgctxt "858212"
+msgid "血を流す必要はねえ"
+msgstr "You don't have to shed blood"
+
+msgctxt "858356"
+msgid "憎しみ合う必要もないんだ"
+msgstr "You don't have to hate each other"
+
+msgctxt "858500"
+msgid "だから俺は"
+msgstr "So I"
+
+msgctxt "858644"
+msgid "あんたを許す"
+msgstr "Forgive you"
+
+msgctxt "858788"
+msgid "あんたは俺の兄弟なんだ"
+msgstr "You are my brother"
+
+msgctxt "858932"
+msgid "武市半平太"
+msgstr "Takechi Hanpeita"
+
+msgctxt "859076"
+msgid "夜が明けるな"
+msgstr "Don't dawn"
+
+msgctxt "859220"
+msgid "ああ"
+msgstr "Oh"
+
+msgctxt "859364"
+msgid "兄弟"
+msgstr "brothers"
+
+msgctxt "859508"
+msgid "さあ　行くとするか"
+msgstr "Do you want to go"
+
+msgctxt "859652"
+msgid "テメエのケツくらいテメエで拭かなきゃ"
+msgstr ""
+"I have to wipe it with Temee as much as\n"
+"Temee's butt"
+
+msgctxt "859796"
+msgid "死んだ親っさんに顔向けできねぇからな"
+msgstr "I can't face my dead parents"
+
+msgctxt "859940"
+msgid "何をする気だ"
+msgstr "What are you going to do"
+
+msgctxt "860084"
+msgid "土佐をぶっ壊すんだよ"
+msgstr "I'm going to destroy Tosa"
+
+msgctxt "860228"
+msgid "この巨大な武器と化した土佐を"
+msgstr "Tosa who turned into this huge weapon"
+
+msgctxt "860372"
+msgid "山内容堂の手に渡す前にな"
+msgstr "Before handing it to Yamauchi Toyoshige"
+
+msgctxt "860516"
+msgid "どういうことなんだ"
+msgstr "What do you mean"
+
+msgctxt "860660"
+msgid "俺は"
+msgstr "I am"
+
+msgctxt "860804"
+msgid "お前が新選組に入った頃から"
+msgstr "From the time you joined the Shinsengumi"
+
+msgctxt "860948"
+msgid "容堂に使われるようになっていた"
+msgstr "It was supposed to be used for Toyoshige"
+
+msgctxt "861092"
+msgid ""
+"あの男は　俺や\n"
+"幕府の勝麟太郎を使い"
+msgstr ""
+"That man used me and Katsu Rintaro of the\n"
+"Shogunate"
+
+msgctxt "861236"
+msgid ""
+"イギリスから\n"
+"武器や兵器弾薬を仕入れさせてたんだ"
+msgstr ""
+"I had them buy weapons and ammunition from\n"
+"England"
+
+msgctxt "861380"
+msgid "全ては"
+msgstr "Everything"
+
+msgctxt "861524"
+msgid "ある計画のためにな"
+msgstr "For a plan"
+
+msgctxt "861668"
+msgid ""
+"この国に\n"
+"大戦争を起こすためか"
+msgstr "Is it to cause a great war in this country?"
+
+msgctxt "861812"
+msgid "いや違うんだ"
+msgstr "No"
+
+msgctxt "861956"
+msgid "山内容堂は"
+msgstr "Yamauchi Toyoshige"
+
+msgctxt "862100"
+msgid "この国を……！"
+msgstr "This country ...!"
+
+msgctxt "862244"
+msgid "龍馬！！"
+msgstr "Ryoma! !"
+
+msgctxt "862388"
+msgid "兄弟！？"
+msgstr "brothers! ?"
+
+msgctxt "862532"
+msgid "これだから郷士上がりは信用できんのだ"
+msgstr ""
+"That's why I can't trust the rise of the\n"
+"villagers."
+
+msgctxt "862676"
+msgid "容堂……！"
+msgstr "Rongtang...!"
+
+msgctxt "862820"
+msgid "武市よ"
+msgstr "Takeshi"
+
+msgctxt "862964"
+msgid ""
+"お前が裏切ることなど\n"
+"端から想定内のことだ"
+msgstr ""
+"It ’s just what you expected from the end,\n"
+"such as your betrayal."
+
+msgctxt "863108"
+msgid "お前の考えを見破れんようでは"
+msgstr "Let's not see through your thoughts"
+
+msgctxt "863252"
+msgid ""
+"この国の全員を「騙す」ことなど\n"
+"できないからなあ"
+msgstr "I can't \"trick\" everyone in this country."
+
+msgctxt "863396"
+msgid "騙すだと？"
+msgstr "Do you deceive?"
+
+msgctxt "863540"
+msgid "お前があの坂本龍馬か"
+msgstr "Are you Ryoma Sakamoto?"
+
+msgctxt "863684"
+msgid "いや　なかなかいい活躍だったぞ"
+msgstr "No, it was a pretty good success"
+
+msgctxt "863828"
+msgid ""
+"大政奉還\n"
+"あれは想定外のことだったが"
+msgstr "Taisei Hokan That was unexpected"
+
+msgctxt "863972"
+msgid "結果的には非常に助かった"
+msgstr "As a result, it was very helpful"
+
+msgctxt "864116"
+msgid ""
+"この国を傷モノにしないで\n"
+"済んだのだからなあ"
+msgstr "I didn't have to hurt this country."
+
+msgctxt "864260"
+msgid "何を言ってる"
+msgstr "What are you saying"
+
+msgctxt "864404"
+msgid "あいつは"
+msgstr "That guy"
+
+msgctxt "864548"
+msgid "この国を"
+msgstr "This country"
+
+msgctxt "864692"
+msgid "丸ごと売るつもりなんだ"
+msgstr "I'm going to sell the whole thing"
+
+msgctxt "864836"
+msgid "イギリスに……！"
+msgstr "In England ...!"
+
+msgctxt "864980"
+msgid "何だと！？"
+msgstr "What did you say! ??"
+
+msgctxt "865124"
+msgid "言葉が汚いぞ武市"
+msgstr "The words are dirty Takeshi"
+
+msgctxt "865268"
+msgid "教えただろう　売るのではない"
+msgstr "I told you not to sell"
+
+msgctxt "865412"
+msgid "イギリスの一部になるだけだ"
+msgstr "Just become part of the UK"
+
+msgctxt "865556"
+msgid "国としての体は守ったままでな"
+msgstr "Keep your body as a country"
+
+msgctxt "865700"
+msgid "同じことだ"
+msgstr "Same thing"
+
+msgctxt "865844"
+msgid "あんたが狙っているのは　国王……"
+msgstr "You are aiming for the king ..."
+
+msgctxt "865988"
+msgid "帝になって代わる　そういうことだろ！"
+msgstr "That's what it means to be the emperor!"
+
+msgctxt "866132"
+msgid "今後　この国ではワシ以外の万民は"
+msgstr ""
+"In the future, all people other than eagles\n"
+"will be in this country"
+
+msgctxt "866276"
+msgid "平等にクズとなる"
+msgstr "Equally scrap"
+
+msgctxt "866420"
+msgid ""
+"つまり　お前らのいう\n"
+"階級社会を壊してやろうというのだ"
+msgstr ""
+"In other words, I'm going to destroy the\n"
+"class society you call it."
+
+msgctxt "866564"
+msgid "貴様"
+msgstr "you"
+
+msgctxt "866708"
+msgid "ふざけるな！"
+msgstr "Do not be silly!"
+
+msgctxt "866852"
+msgid ""
+"近くイギリス艦隊を\n"
+"この土佐に招き入れる手はずだ"
+msgstr ""
+"I should be able to invite the British fleet\n"
+"to this Tosa soon"
+
+msgctxt "866996"
+msgid "成立したての京の新政権になす術はない"
+msgstr ""
+"There is no way for the new administration\n"
+"of Kyoto to be established"
+
+msgctxt "867140"
+msgid ""
+"日本は\n"
+"イギリスの植民地となろう"
+msgstr "Japan will become a British colony"
+
+msgctxt "867284"
+msgid ""
+"イギリス人というのは\n"
+"実に合理的でなあ"
+msgstr "The English are really rational"
+
+msgctxt "867428"
+msgid ""
+"自分たちの利権を最大限引き出せる日本人を\n"
+"ひそかに捜していた"
+msgstr ""
+"I was secretly looking for a Japanese who\n"
+"could maximize their interests"
+
+msgctxt "867572"
+msgid ""
+"強い権力を持ちながら\n"
+"国を売ることをも厭わない人間を"
+msgstr ""
+"A person who has strong power but is willing\n"
+"to sell the country"
+
+msgctxt "867716"
+msgid "それが"
+msgstr "that is"
+
+msgctxt "867860"
+msgid "このワシだ！"
+msgstr "This eagle!"
+
+msgctxt "868004"
+msgid "どうした？"
+msgstr "what up?"
+
+msgctxt "868148"
+msgid "お前もワシに跪くか？"
+msgstr "Do you also kneel on the eagle?"
+
+msgctxt "868292"
+msgid "今　土下座して請えば命は助けてやろう"
+msgstr ""
+"Let's save our lives if we sit down and\n"
+"ask"
+
+msgctxt "868436"
+msgid "雑兵の一人くらいにはしてやるぞ"
+msgstr "I'll do it to about one of the soldiers"
+
+msgctxt "868580"
+msgid "嫌か"
+msgstr "I hate it"
+
+msgctxt "868724"
+msgid "ならばこのワシ自ら"
+msgstr "Then this eagle himself"
+
+msgctxt "868868"
+msgid "死を与えてやろう"
+msgstr "I'll give you death"
+
+msgctxt "869012"
+msgid "おい！"
+msgstr "Hey!"
+
+msgctxt "869156"
+msgid "何してるんだ龍馬"
+msgstr "What are you doing Ryoma"
+
+msgctxt "869300"
+msgid "やめろ！"
+msgstr "Stop!"
+
+msgctxt "869444"
+msgid "龍馬！！"
+msgstr "Ryoma! !"
+
+msgctxt "869588"
+msgid "化け物が……！"
+msgstr "A monster ...!"
+
+msgctxt "869732"
+msgid "往生際が悪いぞ！！"
+msgstr "I have a bad life! !!"
+
+msgctxt "869876"
+msgid "よく目に焼き付けとけ"
+msgstr "Burn your eyes well"
+
+msgctxt "870020"
+msgid "これが"
+msgstr "This is"
+
+msgctxt "870164"
+msgid "国のため"
+msgstr "For the country"
+
+msgctxt "870308"
+msgid "愛のため"
+msgstr "For love"
+
+msgctxt "870452"
+msgid "闘った男たちの"
+msgstr "Of the men who fought"
+
+msgctxt "870596"
+msgid "生き様だ"
+msgstr "It's a way of life"
+
+msgctxt "870740"
+msgid "誰だ　貴様！？"
+msgstr "Who are you! ??"
+
+msgctxt "870884"
+msgid "往生せえや"
+msgstr "Get stuck"
+
+msgctxt "871028"
+msgid "ここがワレの死に場所や"
+msgstr "This is the place where cracks die"
+
+msgctxt "871172"
+msgid "安心しろ"
+msgstr "do not worry"
+
+msgctxt "871316"
+msgid "独りで逝けとは言わない"
+msgstr "Don't say you're gone alone"
+
+msgctxt "871460"
+msgid "私たちも地獄までお供しよう"
+msgstr "Let's bring us to hell"
+
+msgctxt "871604"
+msgid "頼む！　た　助けてくれ！！"
+msgstr "ask! Please help me! !!"
+
+msgctxt "871748"
+msgid "き　君には　この土佐……"
+msgstr "To you, this Tosa ……"
+
+msgctxt "871892"
+msgid ""
+"いや　四国全土を与えよう！\n"
+"だ　だから……"
+msgstr ""
+"No, let's give the whole of Shikoku! So\n"
+"..."
+
+msgctxt "872036"
+msgid "見逃してくれ！！"
+msgstr "Don't miss it! !!"
+
+msgctxt "872180"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "872324"
+msgid ""
+"わ　ワシの話を良く聞くんだ！\n"
+"坂本！"
+msgstr "Listen to my story! Sakamoto!"
+
+msgctxt "872468"
+msgid "坂本龍馬！！！！"
+msgstr "Ryoma Sakamoto! !! !! !!"
+
+msgctxt "872612"
+msgid "誰だそれは"
+msgstr "Who is it"
+
+msgctxt "872756"
+msgid "そんな名前の男"
+msgstr "A man with that name"
+
+msgctxt "872900"
+msgid "知らねえな"
+msgstr "I don't know"
+
+msgctxt "873044"
+msgid "え？"
+msgstr "e?"
+
+msgctxt "873188"
+msgid "や　やめろ！"
+msgstr "Stop it!"
+
+msgctxt "873332"
+msgid "ワシを殺せば　この国はどうなる！"
+msgstr ""
+"What happens to this country if I kill an\n"
+"eagle!"
+
+msgctxt "873476"
+msgid "鎖国で弱りきった"
+msgstr "Weakened in isolation"
+
+msgctxt "873620"
+msgid ""
+"世間知らずの日本を\n"
+"救えるのはワシだけだ！！"
+msgstr "Only I can save naive Japan! !!"
+
+msgctxt "873764"
+msgid "誰がてめえに"
+msgstr "Who"
+
+msgctxt "873908"
+msgid "この国のケツ拭いてくれって頼んだ"
+msgstr "I asked you to wipe the butt of this country"
+
+msgctxt "874052"
+msgid "この国の道を決めんのは"
+msgstr ""
+"It ’s the one who decides the way for this\n"
+"country"
+
+msgctxt "874196"
+msgid "お前でも俺でもねえ"
+msgstr "Neither you nor me"
+
+msgctxt "874340"
+msgid "ここにいる誰でもな"
+msgstr "Anyone here"
+
+msgctxt "874484"
+msgid ""
+"は　話にならない\n"
+"何悠長なことを言っているんだ！！"
+msgstr "What are you talking about? !!"
+
+msgctxt "874628"
+msgid ""
+"今　目の前に\n"
+"イギリスの艦隊が迫っているんだぞ！？"
+msgstr ""
+"The British fleet is just around the corner!\n"
+"??"
+
+msgctxt "874772"
+msgid ""
+"奴らとまともに闘って\n"
+"勝てるとでも思っているのか！？"
+msgstr ""
+"Do you think you can fight them and win!\n"
+"??"
+
+msgctxt "874916"
+msgid "さあな"
+msgstr "I do not know"
+
+msgctxt "875060"
+msgid "そんな事は"
+msgstr "Such a thing"
+
+msgctxt "875204"
+msgid "知ったこっちゃねえ"
+msgstr "I don't know"
+
+msgctxt "875348"
+msgid "ば　バカか！？"
+msgstr "Are you stupid! ??"
+
+msgctxt "875492"
+msgid ""
+"わ　ワシはお前ら郷士のような\n"
+"その日暮らしの連中とは違うのだ！"
+msgstr "I'm not like you guys who live that day!"
+
+msgctxt "875636"
+msgid ""
+"この国が生き残る道を\n"
+"誰よりも考えている！"
+msgstr ""
+"I'm thinking of a way for this country to\n"
+"survive more than anyone else!"
+
+msgctxt "875780"
+msgid "お前らは　ワシに従えばいいのだ！"
+msgstr "You guys should obey the eagle!"
+
+msgctxt "875924"
+msgid "そうだろ！！"
+msgstr "That's right! !!"
+
+msgctxt "876068"
+msgid "言いたい事はそれだけか"
+msgstr "Is that all I want to say"
+
+msgctxt "876212"
+msgid "あ……？"
+msgstr "Ah……?"
+
+msgctxt "876356"
+msgid "イギリスの艦隊がどうした"
+msgstr "What happened to the British fleet"
+
+msgctxt "876500"
+msgid "そんなんで日本は"
+msgstr "That's why Japan"
+
+msgctxt "876644"
+msgid "滅びる国じゃねえ"
+msgstr "It's not a perishing country"
+
+msgctxt "876788"
+msgid "お前はわかっちゃいない！"
+msgstr "I don't understand you!"
+
+msgctxt "876932"
+msgid "負けるのは目に見えているんだぞ！！"
+msgstr "You can see that you lose! !!"
+
+msgctxt "877076"
+msgid "いいや"
+msgstr "No"
+
+msgctxt "877220"
+msgid "たとえ今負けたとしても"
+msgstr "Even if I lose now"
+
+msgctxt "877364"
+msgid "日本は何度でも立ち上がるさ"
+msgstr "Japan will stand up again and again"
+
+msgctxt "877508"
+msgid "まだ見ぬ兄弟たちによってな"
+msgstr "By brothers I haven't seen yet"
+
+msgctxt "877652"
+msgid "何だと？"
+msgstr "What did you say?"
+
+msgctxt "877796"
+msgid "俺らは兄弟たちに伝えなきゃならねえんだ"
+msgstr "We have to tell our brothers"
+
+msgctxt "877940"
+msgid "この国に生きるものにとって"
+msgstr "For those who live in this country"
+
+msgctxt "878084"
+msgid "本当に必要なもんを"
+msgstr "What you really need"
+
+msgctxt "878228"
+msgid "この国には"
+msgstr "In this country"
+
+msgctxt "878372"
+msgid "まだ多くの血が流れるだろう"
+msgstr "There will still be a lot of blood"
+
+msgctxt "878516"
+msgid "しかし土佐を出て"
+msgstr "But leave Tosa"
+
+msgctxt "878660"
+msgid "京で生き"
+msgstr "Live in Kyo"
+
+msgctxt "878804"
+msgid "初めて分かった"
+msgstr "I understood for the first time"
+
+msgctxt "878948"
+msgid "近藤や桂に西郷"
+msgstr "Saigo to Kondo and Katsura"
+
+msgctxt "879092"
+msgid "それに"
+msgstr "in addition"
+
+msgctxt "879236"
+msgid "武市の兄弟"
+msgstr "Takeshi brothers"
+
+msgctxt "879380"
+msgid "皆"
+msgstr "all"
+
+msgctxt "879524"
+msgid ""
+"流れた血の先に\n"
+"何があるのかを知っている"
+msgstr "I know what's ahead of the shed blood"
+
+msgctxt "879668"
+msgid "な　何を言っている……！？"
+msgstr "What are you talking about ...! ??"
+
+msgctxt "879812"
+msgid "人間ってのは間違う"
+msgstr "Human beings are wrong"
+
+msgctxt "879956"
+msgid "間違ってばかりだ"
+msgstr "I'm just wrong"
+
+msgctxt "880100"
+msgid "でもな"
+msgstr "But"
+
+msgctxt "880244"
+msgid "それでも俺らは"
+msgstr "Still we"
+
+msgctxt "880388"
+msgid "進まなきゃならねえんだよ"
+msgstr "I have to move on"
+
+msgctxt "880532"
+msgid "この国の夜明けを信じてな"
+msgstr "Believe in the dawn of this country"
+
+msgctxt "880676"
+msgid "進むことを止めちまったら"
+msgstr "If you stop going"
+
+msgctxt "880820"
+msgid "託すべき未来もなくなっちまう"
+msgstr "The future to be entrusted is gone"
+
+msgctxt "880964"
+msgid "俺らの仕事は"
+msgstr "Our job is"
+
+msgctxt "881108"
+msgid "生きていける世の中を作ることじゃねえ"
+msgstr ""
+"It ’s not about creating a world where you\n"
+"can live."
+
+msgctxt "881252"
+msgid ""
+"生きていてよかったと思える\n"
+"国を作ることなんじゃねえのか！"
+msgstr ""
+"Isn't it to create a country that makes\n"
+"me happy to be alive?"
+
+msgctxt "881396"
+msgid "よ　よせぇ！"
+msgstr "Yeah!"
+
+msgctxt "881540"
+msgid "この国の未来は"
+msgstr "The future of this country"
+
+msgctxt "881684"
+msgid "今はまだ顔も見たこともねえ"
+msgstr "I haven't seen my face yet"
+
+msgctxt "881828"
+msgid "声を聞いたこともねえ兄弟たちが"
+msgstr "I never heard the voice, the brothers"
+
+msgctxt "881972"
+msgid "きっと作ってくれる"
+msgstr "I'm sure they will make it"
+
+msgctxt "882116"
+msgid "一緒にあの世で"
+msgstr "Together in the world"
+
+msgctxt "882260"
+msgid "日本の夜明けを見ようじゃねえか"
+msgstr "Let's see the dawn of Japan"
+
+msgctxt "882404"
+msgid "容堂さん"
+msgstr "Yodo"
+
+msgctxt "882548"
+msgid "や　やめるんだ　やめるんだ"
+msgstr "Stop it, stop it"
+
+msgctxt "882692"
+msgid "龍馬！！"
+msgstr "Ryoma! !"
+
+msgctxt "882836"
+msgid "日本の兄弟たちよ"
+msgstr "Japanese brothers"
+
+msgctxt "882980"
+msgid "また明日じゃ！！"
+msgstr "See you tomorrow! !!"

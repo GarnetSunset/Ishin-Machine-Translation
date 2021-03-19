@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "636"
+msgid "－"
+msgstr "－"
+
+msgctxt "639"
+msgid "所持数"
+msgstr "The number of possession"
+
+msgctxt "646"
+msgid "（何も選んでいない……）"
+msgstr "(I haven't selected anything ...)"
+
+msgctxt "671"
+msgid "（手持ちが足りないようだな……）"
+msgstr "(It looks like you don't have enough ...)"
+
+msgctxt "704"
+msgid "ありがとうございます。%sになります。"
+msgstr "thanks you. It becomes% s."
+
+msgctxt "741"
+msgid "（持ち物が一杯だな……）"
+msgstr "(I have a lot of belongings ...)"
+
+msgctxt "766"
+msgid "（売り切れのようだ……）"
+msgstr "(It looks like it's sold out ...)"
+
+msgctxt "791"
+msgid "（これは既に持っているな……）"
+msgstr "(I already have this ...)"
+
+msgctxt "822"
+msgid "所持品"
+msgstr "What to bring"
+
+msgctxt "829"
+msgid "詳細"
+msgstr "Details"
+
+msgctxt "834"
+msgid "商品"
+msgstr "Product"
+
+msgctxt "839"
+msgid "<Sign:1>前へ"
+msgstr "<Sign:1>Forward"
+
+msgctxt "852"
+msgid "<Sign:1>次へ %d/%d"
+msgstr "<Sign:1>Next% d /% d"
+
+msgctxt "871"
+msgid "－"
+msgstr "－"
+
+msgctxt "874"
+msgid "注"
+msgstr "Note"
+
+msgctxt "877"
+msgid "束刀"
+msgstr "Beam knife"
+
+msgctxt "882"
+msgid "無銘刀"
+msgstr "Wuming Knife"
+
+msgctxt "889"
+msgid "朽ちた剣"
+msgstr "Rotten sword"
+
+msgctxt "898"
+msgid "黒鉄丸"
+msgstr "Black iron circle"
+
+msgctxt "905"
+msgid "白刃丸"
+msgstr "Shiratamaru"
+
+msgctxt "912"
+msgid "錆びた征夷剣"
+msgstr "Rusted Shogun"
+
+msgctxt "925"
+msgid "大金槌"
+msgstr "Big mallet"
+
+msgctxt "932"
+msgid "天地砕き"
+msgstr "Top and bottom crush"
+
+msgctxt "941"
+msgid "革籠手"
+msgstr "Leather cage hand"
+
+msgctxt "948"
+msgid "木籠手"
+msgstr "Wooden gauntlet"
+
+msgctxt "955"
+msgid "鉄籠手"
+msgstr "Iron gauntlet"
+
+msgctxt "962"
+msgid "神樹籠手"
+msgstr "God tree gauntlet"
+
+msgctxt "971"
+msgid "鋼鉄籠手"
+msgstr "Steel gauntlet"
+
+msgctxt "980"
+msgid "烈風"
+msgstr "Gale"

@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "3080"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3081"
+msgid "……"
+msgstr ""
+
+msgctxt "3086"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3087"
+msgid "ここか……"
+msgstr "Here ..."
+
+msgctxt "3098"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3099"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3100"
+msgid "……ご用件は？"
+msgstr "...... What are your requirements?"
+
+msgctxt "3115"
+msgid "……入隊希望だ。"
+msgstr "...... I hope to join the army."
+
+msgctxt "3132"
+msgid ""
+"それはそれは。\n"
+"ようこそおいでくださいました。"
+msgstr "well well. Welcome to visit us."
+
+msgctxt "3179"
+msgid ""
+"この先を曲がったところで試験を行いますので。\n"
+"どうぞこのままお進みください。"
+msgstr ""
+"The test will be conducted at the end of\n"
+"the road. Please proceed as it is."
+
+msgctxt "3256"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3257"
+msgid ""
+"そうそう、その前に失礼ですが\n"
+"お住まいはどちらで？"
+msgstr ""
+"Oh yeah, excuse me before that, but where\n"
+"do you live?"
+
+msgctxt "3308"
+msgid ""
+"ここは腕さえ立てば\n"
+"素性を問わないと聞いたんだがな。"
+msgstr ""
+"I've heard that it doesn't matter what your\n"
+"background is as long as you have your\n"
+"arms."
+
+msgctxt "3361"
+msgid ""
+"そういう意味じゃありません。\n"
+"……アナタの死体の届け先を聞いて\n"
+"おきたいんです。"
+msgstr ""
+"It doesn't mean that. ...... I would like\n"
+"to know the destination of your corpse."
+
+msgctxt "3442"
+msgid "なんだと……？"
+msgstr "what……?"
+
+msgctxt "3457"
+msgid ""
+"なにぶん荒っぽい試験ですから。\n"
+"人死にが出るのも日常茶飯事でしてね。"
+msgstr ""
+"It's a rough test. It's a daily occurrence\n"
+"that people die."
+
+msgctxt "3526"
+msgid ""
+"なるほど……\n"
+"だが俺が死体になることはない。\n"
+"あんたの世話にゃならねえよ。"
+msgstr ""
+"I see ... but I'm never a corpse. I have\n"
+"to take care of you."
+
+msgctxt "3601"
+msgid ""
+"フッ、そうですか。\n"
+"それは失礼いたしました。"
+msgstr "Huh, is that so? Excuse me for that."
+
+msgctxt "3646"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3647"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4336"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "4341"
+msgid "kiryu_c03_020_02"
+msgstr ""
+
+msgctxt "4358"
+msgid "新選組隊士"
+msgstr "Shinsengumi"
+
+msgctxt "4369"
+msgid "taishi_a_c03_020_01"
+msgstr ""
+
+msgctxt "4389"
+msgid "kiryu_c03_020_04"
+msgstr ""
+
+msgctxt "4406"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4415"
+msgid "taishi_a_c03_020_02"
+msgstr ""
+
+msgctxt "4435"
+msgid "taishi_a_c03_020_02b"
+msgstr ""
+
+msgctxt "4456"
+msgid "taishi_a_c03_020_03"
+msgstr ""
+
+msgctxt "4476"
+msgid "kiryu_c03_020_05"
+msgstr ""
+
+msgctxt "4493"
+msgid "taishi_a_c03_020_04"
+msgstr ""
+
+msgctxt "4513"
+msgid "kiryu_c03_020_06"
+msgstr ""
+
+msgctxt "4530"
+msgid "taishi_a_c03_020_05"
+msgstr ""
+
+msgctxt "4550"
+msgid "kiryu_c03_020_07"
+msgstr ""
+
+msgctxt "4567"
+msgid "taishi_a_c03_020_06"
+msgstr ""
+
+msgctxt "4587"
+msgid "dummy"
+msgstr ""

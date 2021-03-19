@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "TITLE_0"
+msgid "かて飯"
+msgstr "Katemeshi"
+
+msgctxt "TITLE_1"
+msgid "手作り浅漬け"
+msgstr "Handmade lightly pickled"
+
+msgctxt "TITLE_2"
+msgid "料理なんでも３品"
+msgstr "3 dishes"
+
+msgctxt "TITLE_3"
+msgid "ほっこり味噌汁"
+msgstr "Loose miso soup"
+
+msgctxt "TITLE_4"
+msgid "元気おむすび"
+msgstr "Cheerful rice balls"
+
+msgctxt "TITLE_5"
+msgid "みなぎる味噌汁"
+msgstr "Minagiru miso soup"
+
+msgctxt "TITLE_6"
+msgid "料理なんでも４品"
+msgstr "4 dishes"
+
+msgctxt "TITLE_7"
+msgid "魚介たっぷり辛みそ鍋"
+msgstr "Spicy hot pot with plenty of seafood"
+
+msgctxt "TITLE_8"
+msgid "力持ち煮込み"
+msgstr "Powerful stew"
+
+msgctxt "TITLE_9"
+msgid "料理なんでも５品"
+msgstr "5 dishes"
+
+msgctxt "TITLE_10"
+msgid "根性ちらし寿司"
+msgstr "Gut Chirashizushi"
+
+msgctxt "TITLE_11"
+msgid "爽快香味かき揚げ"
+msgstr "Refreshing flavor kakiage"
+
+msgctxt "TITLE_12"
+msgid "鉄火煮"
+msgstr "Boiled iron"
+
+msgctxt "TITLE_13"
+msgid "すっきり野菜の和え物"
+msgstr "Refreshing vegetable sauce"
+
+msgctxt "TITLE_14"
+msgid "しっかり焼き魚"
+msgstr "Firmly grilled fish"
+
+msgctxt "TITLE_15"
+msgid "漁師のてっぽう焼き"
+msgstr "Fisherman's Teppo-yaki"
+
+msgctxt "TITLE_16"
+msgid "疲れ知らずの滋養鍋"
+msgstr "Tireless nourishing pot"
+
+msgctxt "TITLE_17"
+msgid "料理なんでも６品"
+msgstr "6 dishes"
+
+msgctxt "TITLE_18"
+msgid "幸せうどんの注文"
+msgstr "Order happy udon"
+
+msgctxt "TITLE_19"
+msgid "ちゃっかり加須底羅"
+msgstr "Kasu Sora"
+
+msgctxt "TITLE_20"
+msgid "料理なんでも１０品"
+msgstr "10 dishes"
+
+msgctxt "SPONSOR_0"
+msgid "伏見大工の棟梁"
+msgstr "Fushimi carpenter's builder"
+
+msgctxt "SPONSOR_1"
+msgid "火消しの小太郎"
+msgstr "Fire extinguisher Kotaro"
+
+msgctxt "SPONSOR_2"
+msgid "大食い五郎"
+msgstr "Gluttony Goro"
+
+msgctxt "SPONSOR_3"
+msgid "京都飛脚組合"
+msgstr "Kyoto Hikyaku Association"
+
+msgctxt "SPONSOR_4"
+msgid "庭師の勘助"
+msgstr "Gardener's help"
+
+msgctxt "SPONSOR_5"
+msgid "美食家ハンス"
+msgstr "Gourmet Hans"
+
+msgctxt "SPONSOR_6"
+msgid "猟師の平八郎"
+msgstr "Heihachiro, a hunter"
+
+msgctxt "SPONSOR_7"
+msgid "御智案部屋"
+msgstr "Gochi plan room"
+
+msgctxt "TRIGGER_0"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "TRIGGER_1"
+msgid "L1_1"
+msgstr ""
+
+msgctxt "TRIGGER_2"
+msgid "L1_2"
+msgstr ""
+
+msgctxt "TRIGGER_3"
+msgid "L2_3"
+msgstr ""
+
+msgctxt "TRIGGER_4"
+msgid "L3_3"
+msgstr ""
+
+msgctxt "TRIGGER_5"
+msgid "L4_3"
+msgstr ""
+
+msgctxt "TRIGGER_6"
+msgid "L5_3"
+msgstr ""
+
+msgctxt "TRIGGER_7"
+msgid "L6_3"
+msgstr ""
+
+msgctxt "TRIGGER_8"
+msgid "L7_3"
+msgstr ""
+
+msgctxt "TRIGGER_9"
+msgid "L8_5"
+msgstr ""
+
+msgctxt "TRIGGER_10"
+msgid "L8_7"
+msgstr ""

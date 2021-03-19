@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "448116"
+msgid "見つけたぜ！"
+msgstr "I found it!"
+
+msgctxt "448260"
+msgid "観念したのか？"
+msgstr "Did you think?"
+
+msgctxt "448404"
+msgid "てめえ……！"
+msgstr "Teme ...!"
+
+msgctxt "448548"
+msgid ""
+"ウソやろ！？\n"
+"谷がこうもあっさり……！"
+msgstr "Lie! ?? The valley is so light ...!"
+
+msgctxt "448692"
+msgid "ちくしょう！"
+msgstr "Let's go!"
+
+msgctxt "448836"
+msgid ""
+"谷をやっちまうとはのう\n"
+"噂通り大した腕や"
+msgstr "As rumored to go through the valley"
+
+msgctxt "448980"
+msgid ""
+"せやけどこいつの前じゃ\n"
+"剣の腕なんて関係ないやろ？"
+msgstr "Where and when does the sword's arm matter?"
+
+msgctxt "449124"
+msgid "余裕かましとるんやないぞ！！"
+msgstr "I can't afford it! !!"
+
+msgctxt "449268"
+msgid "ちくしょうっ！！"
+msgstr "Chikusho! !!"
+
+msgctxt "449412"
+msgid "アホな……"
+msgstr "Stupid ..."
+
+msgctxt "449556"
+msgid "これは……"
+msgstr "is this……"
+
+msgctxt "449700"
+msgid "谷三十郎に鈴木三樹三郎……"
+msgstr "Sanjuro Tani and Miki Saburo Suzuki ……"
+
+msgctxt "449844"
+msgid "新選組の隊長も所詮はこの程度"
+msgstr ""
+"After all, the captain of the Shinsengumi\n"
+"is about this level"
+
+msgctxt "449988"
+msgid "“最強の戦闘集団”などと聞いてあきれる"
+msgstr ""
+"I am amazed to hear that it is the \"strongest\n"
+"fighting group\""
+
+msgctxt "450132"
+msgid "今日は大収穫だ"
+msgstr "Today is a big harvest"
+
+msgctxt "450276"
+msgid ""
+"新選組の隊長を\n"
+"“４人”も始末できるんだからな"
+msgstr "You can get rid of \"4\" captains of the Shinsengumi."
+
+msgctxt "450420"
+msgid "こいつは俺がやる"
+msgstr "I'll do this"
+
+msgctxt "450564"
+msgid "バカを言うな同時に攻めるぞ"
+msgstr ""
+"Don't be stupid, I'll attack at the same\n"
+"time"
+
+msgctxt "450708"
+msgid "奴はこういう状況に相当慣れてる"
+msgstr "He's quite used to this situation"
+
+msgctxt "450852"
+msgid "それにアンタは年だ"
+msgstr "And you're a year"
+
+msgctxt "450996"
+msgid ""
+"以蔵の動きには\n"
+"さすがに付いて行けないだろう"
+msgstr ""
+"I will not be able to keep up with the movement\n"
+"of Izo"
+
+msgctxt "451140"
+msgid ""
+"あいつ相手に\n"
+"アンタをかばいながら戦う余裕はない"
+msgstr ""
+"I can't afford to fight while protecting\n"
+"you against him"
+
+msgctxt "451284"
+msgid "俺にやらせてくれ　頼む"
+msgstr "Let me do it"
+
+msgctxt "451428"
+msgid "いいだろう"
+msgstr "All right"
+
+msgctxt "451572"
+msgid "いいんですか？　お一人で"
+msgstr "Is that ok? Alone"
+
+msgctxt "451716"
+msgid "手柄は独り占めしたいんでな"
+msgstr "I want to monopolize the credit"
+
+msgctxt "451860"
+msgid "なるほど　では今のあなたは……"
+msgstr "I see, you are now ..."
+
+msgctxt "452004"
+msgid "新選組の斎藤一であると？"
+msgstr "Is it Saito Hajime of the Shinsengumi?"
+
+msgctxt "452148"
+msgid "ああ　そういうことだ"
+msgstr "Oh that's what it is"
+
+msgctxt "452292"
+msgid "これは願ってもない"
+msgstr "I can't hope for this"
+
+msgctxt "452436"
+msgid ""
+"新選組の隊長であれば\n"
+"私も斬らざるを得ません"
+msgstr ""
+"If you are the captain of the Shinsengumi,\n"
+"I have no choice but to slash"
+
+msgctxt "452580"
+msgid "武市先生にもご理解いただけるでしょう"
+msgstr "Takeichi sensei will understand"
+
+msgctxt "452724"
+msgid "今日は思い切りやれる"
+msgstr "I can take the plunge today"
+
+msgctxt "452868"
+msgid "来い……"
+msgstr "Come on ..."
+
+msgctxt "453012"
+msgid "以蔵！！"
+msgstr "Izo! !!"
+
+msgctxt "453156"
+msgid "いくぞ……"
+msgstr "let's go……"
+
+msgctxt "453300"
+msgid "斎藤一！！"
+msgstr "Saito Hajime! !!"

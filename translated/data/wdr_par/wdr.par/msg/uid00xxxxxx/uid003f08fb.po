@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "688"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "689"
+msgid ""
+"おいでやす。\n"
+"ええ酒入ってますよ。"
+msgstr "Come on. Yes, it contains sake."
+
+msgctxt "724"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "725"
+msgid "福引き券%d枚渡すで。"
+msgstr "Give me% d lucky tickets."
+
+msgctxt "746"
+msgid ""
+"おおきに！\n"
+"また、よろしゅう。"
+msgstr "Big! Also, thank you."
+
+msgctxt "777"
+msgid "次はなんか買うてってや。"
+msgstr "I'll buy something next time."
+
+msgctxt "816"
+msgid "店番"
+msgstr "Store number"
+
+msgctxt "821"
+msgid "店員"
+msgstr "Clerk"
+
+msgctxt "826"
+msgid "dummy"
+msgstr ""

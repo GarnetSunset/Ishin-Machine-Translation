@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "153260"
+msgid "藤堂！"
+msgstr "Todo!"
+
+msgctxt "153404"
+msgid "か　会合の件……"
+msgstr "Meeting matter ……"
+
+msgctxt "153548"
+msgid "桂さんは来ると……　幾松さんから……"
+msgstr "When Katsura comes ... From Ikumatsu ..."
+
+msgctxt "153692"
+msgid "藤堂　何があったんだ！"
+msgstr "Todo What happened!"
+
+msgctxt "153836"
+msgid "た　武田さんに　見られちゃって……"
+msgstr "I was seen by Mr. Takeda ..."
+
+msgctxt "153980"
+msgid "医者を呼んでくれ！"
+msgstr "Call a doctor!"
+
+msgctxt "154124"
+msgid "はい！"
+msgstr "Okay!"
+
+msgctxt "154268"
+msgid "そ　そんな　ことより"
+msgstr "Than that"
+
+msgctxt "154412"
+msgid "は　早く　武田さんの　口を塞がねえと……！"
+msgstr "Hey, don't close Mr. Takeda's mouth ...!"
+
+msgctxt "154556"
+msgid ""
+"そうはいかない\n"
+"今はお前の治療の方が先決だ"
+msgstr ""
+"That's not the case now, your treatment\n"
+"is the first choice"
+
+msgctxt "154700"
+msgid ""
+"中岡　あんたはすぐに新選組に行って\n"
+"土方に……"
+msgstr ""
+"Nakaoka You immediately went to the Shinsengumi\n"
+"and went to Hijikata ..."
+
+msgctxt "154844"
+msgid "急いで……"
+msgstr "Quickly……"
+
+msgctxt "154988"
+msgid ""
+"急いで！\n"
+"武田さんが伊東さんに報告する前に……"
+msgstr ""
+"Quickly! Before Mr. Takeda reports to Mr.\n"
+"Ito ..."
+
+msgctxt "155132"
+msgid "と　止めてください……！"
+msgstr "Please stop ...!"
+
+msgctxt "155276"
+msgid ""
+"でないと　俺……\n"
+"近藤さんに会わせる顔が……"
+msgstr ""
+"Otherwise I ... the face that makes me meet\n"
+"Mr. Kondo ..."
+
+msgctxt "155420"
+msgid "藤堂"
+msgstr "Todo"
+
+msgctxt "155564"
+msgid "武田さんは　幾松さんの店にいます"
+msgstr "Mr. Takeda is in Mr. Ikumatsu's shop"
+
+msgctxt "155708"
+msgid "早く！！"
+msgstr "quickly! !!"
+
+msgctxt "155852"
+msgid ""
+"分かった……！\n"
+"だからもう喋るな！"
+msgstr "Do you get it……! So don't talk anymore!"
+
+msgctxt "155996"
+msgid "よかった"
+msgstr "Was good"
+
+msgctxt "156140"
+msgid "死ぬ前に伝えられて"
+msgstr "Be told before you die"
+
+msgctxt "156284"
+msgid ""
+"何バカなことを言ってるんだ\n"
+"しっかりしろ藤堂！！"
+msgstr ""
+"What are you saying stupid? Firmly Todo!\n"
+"!!"
+
+msgctxt "156428"
+msgid "おりょう　藤堂を頼む！"
+msgstr "Ask for Oryo Todo!"
+
+msgctxt "156572"
+msgid "はい！"
+msgstr "Okay!"
+
+msgctxt "156716"
+msgid "中岡　俺は武田を追う"
+msgstr "Nakaoka I follow Takeda"
+
+msgctxt "156860"
+msgid "あんたは新選組に藤堂のことを知らせてくれ"
+msgstr "You let the Shinsengumi know about Todo"
+
+msgctxt "157004"
+msgid "分かった！"
+msgstr "Do you get it!"

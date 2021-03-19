@@ -1,0 +1,532 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "MISSION_ENUM_0"
+msgid "CAVE_01"
+msgstr ""
+
+msgctxt "MISSION_ENUM_1"
+msgid "CAVE_02"
+msgstr ""
+
+msgctxt "MISSION_ENUM_2"
+msgid "CAVE_03"
+msgstr ""
+
+msgctxt "MISSION_ENUM_3"
+msgid "CAVE_04"
+msgstr ""
+
+msgctxt "MISSION_ENUM_4"
+msgid "CAVE_05"
+msgstr ""
+
+msgctxt "MISSION_ENUM_5"
+msgid "CAVE_06"
+msgstr ""
+
+msgctxt "MISSION_ENUM_6"
+msgid "CAVE_07"
+msgstr ""
+
+msgctxt "MISSION_ENUM_7"
+msgid "CAVE_08"
+msgstr ""
+
+msgctxt "MISSION_ENUM_8"
+msgid "CAVE_09"
+msgstr ""
+
+msgctxt "MISSION_ENUM_9"
+msgid "CAVE_10"
+msgstr ""
+
+msgctxt "MISSION_ENUM_10"
+msgid "CAVE_GIZOKU_01"
+msgstr ""
+
+msgctxt "MISSION_ENUM_11"
+msgid "CAVE_GIZOKU_02"
+msgstr ""
+
+msgctxt "MISSION_ENUM_12"
+msgid "CAVE_GIZOKU_03"
+msgstr ""
+
+msgctxt "MISSION_ENUM_13"
+msgid "CAVE_GIZOKU_04"
+msgstr ""
+
+msgctxt "MISSION_ENUM_14"
+msgid "CAVE_GIZOKU_05"
+msgstr ""
+
+msgctxt "MISSION_ENUM_15"
+msgid "CAVE_GIZOKU_06"
+msgstr ""
+
+msgctxt "MISSION_ENUM_16"
+msgid "CAVE_GIZOKU_07"
+msgstr ""
+
+msgctxt "MISSION_ENUM_17"
+msgid "CAVE_GIZOKU_08"
+msgstr ""
+
+msgctxt "MISSION_ENUM_18"
+msgid "CAVE_GIZOKU_09"
+msgstr ""
+
+msgctxt "MISSION_ENUM_19"
+msgid "CAVE_GIZOKU_10"
+msgstr ""
+
+msgctxt "MISSION_ENUM_20"
+msgid "TOYOTOMI_01"
+msgstr ""
+
+msgctxt "MISSION_ENUM_21"
+msgid "TOYOTOMI_02"
+msgstr ""
+
+msgctxt "MISSION_ENUM_22"
+msgid "TOYOTOMI_03"
+msgstr ""
+
+msgctxt "MISSION_ENUM_23"
+msgid "TOYOTOMI_04"
+msgstr ""
+
+msgctxt "MISSION_ENUM_24"
+msgid "TOYOTOMI_05"
+msgstr ""
+
+msgctxt "MISSION_ENUM_25"
+msgid "TOYOTOMI_06"
+msgstr ""
+
+msgctxt "MISSION_ENUM_26"
+msgid "TOYOTOMI_07"
+msgstr ""
+
+msgctxt "MISSION_ENUM_27"
+msgid "TOYOTOMI_08"
+msgstr ""
+
+msgctxt "MISSION_ENUM_28"
+msgid "TOYOTOMI_09"
+msgstr ""
+
+msgctxt "MISSION_ENUM_29"
+msgid "TOYOTOMI_10"
+msgstr ""
+
+msgctxt "MISSION_ENUM_30"
+msgid "TOYOTOMI_11"
+msgstr ""
+
+msgctxt "MISSION_ENUM_31"
+msgid "TOYOTOMI_12"
+msgstr ""
+
+msgctxt "MISSION_ENUM_32"
+msgid "TOYOTOMI_13"
+msgstr ""
+
+msgctxt "MISSION_ENUM_33"
+msgid "TOYOTOMI_14"
+msgstr ""
+
+msgctxt "MISSION_ENUM_34"
+msgid "TOYOTOMI_15"
+msgstr ""
+
+msgctxt "MISSION_ENUM_35"
+msgid "TOYOTOMI_16"
+msgstr ""
+
+msgctxt "MISSION_ENUM_36"
+msgid "TOYOTOMI_17"
+msgstr ""
+
+msgctxt "MISSION_ENUM_37"
+msgid "TOYOTOMI_18"
+msgstr ""
+
+msgctxt "MISSION_ENUM_38"
+msgid "TOYOTOMI_19"
+msgstr ""
+
+msgctxt "MISSION_ENUM_39"
+msgid "TOYOTOMI_20"
+msgstr ""
+
+msgctxt "MISSION_NAME_0"
+msgid "刀部隊を倒せ"
+msgstr "Defeat the sword unit"
+
+msgctxt "MISSION_NAME_1"
+msgid "奪われた千両箱を奪還しろ１"
+msgstr "Recapture the robbed Senryo Box 1"
+
+msgctxt "MISSION_NAME_2"
+msgid "奪われた千両箱を奪還しろ２"
+msgstr "Recapture the stolen Senryo Box 2"
+
+msgctxt "MISSION_NAME_3"
+msgid "奪われた千両箱を奪還しろ３"
+msgstr "Recapture the robbed Senryo Box 3"
+
+msgctxt "MISSION_NAME_4"
+msgid "さらわれた村人を救出しろ"
+msgstr "Rescue the kidnapped villagers"
+
+msgctxt "MISSION_NAME_5"
+msgid "攻撃隊士実践訓練"
+msgstr "Attack Corps Practical Training"
+
+msgctxt "MISSION_NAME_6"
+msgid "守備隊士実践訓練"
+msgstr "Garrison practice training"
+
+msgctxt "MISSION_NAME_7"
+msgid "槍部隊を倒せ"
+msgstr "Defeat the spear unit"
+
+msgctxt "MISSION_NAME_8"
+msgid "銃部隊を倒せ"
+msgstr "Defeat the gun unit"
+
+msgctxt "MISSION_NAME_9"
+msgid "野盗の頭領を倒せ"
+msgstr "Defeat the bandit leader"
+
+msgctxt "MISSION_NAME_10"
+msgid "双璧を倒せ"
+msgstr "Defeat the two"
+
+msgctxt "MISSION_NAME_11"
+msgid "義賊の頭領を倒せ"
+msgstr "Defeat the head of the thief"
+
+msgctxt "MISSION_NAME_12"
+msgid "さらわれた要人を救出しろ１"
+msgstr "Rescue the kidnapped dignitaries 1"
+
+msgctxt "MISSION_NAME_13"
+msgid "さらわれた要人を救出しろ２"
+msgstr "Rescue the kidnapped dignitaries 2"
+
+msgctxt "MISSION_NAME_14"
+msgid "さらわれた要人を救出しろ３"
+msgstr "Rescue the kidnapped dignitaries 3"
+
+msgctxt "MISSION_NAME_15"
+msgid "衛生隊士実践訓練"
+msgstr "Hygiene technician practice training"
+
+msgctxt "MISSION_NAME_16"
+msgid "刀隊士限定任務"
+msgstr "Swordsmen limited mission"
+
+msgctxt "MISSION_NAME_17"
+msgid "槍隊士限定任務"
+msgstr "Gunsmen limited mission"
+
+msgctxt "MISSION_NAME_18"
+msgid "銃隊士限定任務"
+msgstr "Gunners limited mission"
+
+msgctxt "MISSION_NAME_19"
+msgid "豪腕坊部隊を倒せ"
+msgstr "Defeat the powerful army unit"
+
+msgctxt "MISSION_NAME_20"
+msgid "三人衆を倒せ"
+msgstr "Defeat the three people"
+
+msgctxt "MISSION_NAME_21"
+msgid "四天王を倒せ"
+msgstr "Defeat the four heavenly kings"
+
+msgctxt "MISSION_NAME_22"
+msgid "五虎将を倒せ"
+msgstr "Defeat the Five Tiger Generals"
+
+msgctxt "MISSION_NAME_23"
+msgid "豊臣秀武を倒せ"
+msgstr "Defeat Toyotomi Hidetake"
+
+msgctxt "MISSION_TEX_0"
+msgid "2d_jm_taishi_placeA_00.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_1"
+msgid "2d_jm_taishi_placeA_01.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_2"
+msgid "2d_jm_taishi_placeA_02.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_3"
+msgid "2d_jm_taishi_placeA_03.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_4"
+msgid "2d_jm_taishi_placeA_04.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_5"
+msgid "2d_jm_taishi_placeA_05.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_6"
+msgid "2d_jm_taishi_placeA_06.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_7"
+msgid "2d_jm_taishi_placeA_07.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_8"
+msgid "2d_jm_taishi_placeA_08.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_9"
+msgid "2d_jm_taishi_placeA_09.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_10"
+msgid "2d_jm_taishi_placeB_00.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_11"
+msgid "2d_jm_taishi_placeB_01.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_12"
+msgid "2d_jm_taishi_placeB_02.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_13"
+msgid "2d_jm_taishi_placeB_03.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_14"
+msgid "2d_jm_taishi_placeB_04.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_15"
+msgid "2d_jm_taishi_placeB_05.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_16"
+msgid "2d_jm_taishi_placeB_06.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_17"
+msgid "2d_jm_taishi_placeB_07.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_18"
+msgid "2d_jm_taishi_placeB_08.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_19"
+msgid "2d_jm_taishi_placeB_09.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_20"
+msgid "2d_jm_taishi_placeC_00.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_21"
+msgid "2d_jm_taishi_placeC_01.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_22"
+msgid "2d_jm_taishi_placeC_02.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_23"
+msgid "2d_jm_taishi_placeC_03.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_24"
+msgid "2d_jm_taishi_placeC_04.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_25"
+msgid "2d_jm_taishi_placeC_05.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_26"
+msgid "2d_jm_taishi_placeC_06.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_27"
+msgid "2d_jm_taishi_placeC_07.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_28"
+msgid "2d_jm_taishi_placeC_08.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_29"
+msgid "2d_jm_taishi_placeC_09.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_30"
+msgid "2d_jm_taishi_placeC_10.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_31"
+msgid "2d_jm_taishi_placeC_11.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_32"
+msgid "2d_jm_taishi_placeC_12.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_33"
+msgid "2d_jm_taishi_placeC_13.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_34"
+msgid "2d_jm_taishi_placeC_14.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_35"
+msgid "2d_jm_taishi_placeC_15.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_36"
+msgid "2d_jm_taishi_placeC_16.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_37"
+msgid "2d_jm_taishi_placeC_17.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_38"
+msgid "2d_jm_taishi_placeC_18.dds"
+msgstr ""
+
+msgctxt "MISSION_TEX_39"
+msgid "2d_jm_taishi_placeC_19.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_0"
+msgid "2d_jm_taishi_obj06.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_1"
+msgid "2d_jm_taishi_obj00.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_2"
+msgid "2d_jm_taishi_obj03.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_3"
+msgid "2d_jm_taishi_obj04.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_4"
+msgid "2d_jm_taishi_obj05.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_5"
+msgid "2d_jm_taishi_obj13.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_6"
+msgid "2d_jm_taishi_obj11.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_7"
+msgid "2d_jm_taishi_obj09.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_8"
+msgid "2d_jm_taishi_obj10.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_9"
+msgid "2d_jm_taishi_obj12.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_10"
+msgid "2d_jm_taishi_obj14.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_11"
+msgid "2d_jm_taishi_obj15.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_12"
+msgid "2d_jm_taishi_obj16.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_13"
+msgid "2d_jm_taishi_obj17.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_14"
+msgid "2d_jm_taishi_obj18.dds"
+msgstr ""
+
+msgctxt "OBJECT_TEX_15"
+msgid "2d_jm_taishi_obj19.dds"
+msgstr ""
+
+msgctxt "SORTIE_QUALIFY_0"
+msgid "攻撃"
+msgstr "attack"
+
+msgctxt "SORTIE_QUALIFY_1"
+msgid "守備"
+msgstr "Defensive"
+
+msgctxt "SORTIE_QUALIFY_2"
+msgid "攻撃"
+msgstr "attack"
+
+msgctxt "SORTIE_QUALIFY_3"
+msgid "守備"
+msgstr "Defensive"
+
+msgctxt "SORTIE_QUALIFY_4"
+msgid "攻撃"
+msgstr "attack"
+
+msgctxt "SORTIE_QUALIFY_5"
+msgid "守備"
+msgstr "Defensive"
+
+msgctxt "SORTIE_QUALIFY_6"
+msgid "癒"
+msgstr "Healing"
+
+msgctxt "SORTIE_QUALIFY_7"
+msgid "刀"
+msgstr "Knife"
+
+msgctxt "SORTIE_QUALIFY_8"
+msgid "槍"
+msgstr "gun"
+
+msgctxt "SORTIE_QUALIFY_9"
+msgid "銃"
+msgstr "gun"

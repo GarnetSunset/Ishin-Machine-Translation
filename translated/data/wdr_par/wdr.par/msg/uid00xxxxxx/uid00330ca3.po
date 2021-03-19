@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2208"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2209"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2210"
+msgid ""
+"外、えらいことになってますけど\n"
+"うちはまだ大丈夫やし、お客さんのために\n"
+"商売続けてますで。"
+msgstr ""
+"Outside, it's going to be great, but we're\n"
+"still okay, and we're still doing business\n"
+"for our customers."
+
+msgctxt "2301"
+msgid ""
+"いらっしゃいませ。\n"
+"今日はどないしましょか？"
+msgstr "Welcome. How are you going today?"
+
+msgctxt "2346"
+msgid "商品を見せてくれ。"
+msgstr "Show me the product."
+
+msgctxt "2365"
+msgid "かしこまりました。"
+msgstr "Understood."
+
+msgctxt "2384"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2385"
+msgid "お客さん、福引き券%d枚渡すよ。"
+msgstr ""
+"Customers, I'll give you% d of Fukubiki\n"
+"tickets."
+
+msgctxt "2416"
+msgid ""
+"おおきに！\n"
+"またおこしください。"
+msgstr "Big! Please wake up again."
+
+msgctxt "2449"
+msgid "またおこしください。"
+msgstr "Please wake up again."
+
+msgctxt "2470"
+msgid "持ち物を買い取ってくれ。"
+msgstr "Buy your belongings."
+
+msgctxt "2495"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr "Yes Yes, which one can you sell?"
+
+msgctxt "2534"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2535"
+msgid ""
+"おおきに！\n"
+"またおこしください。"
+msgstr "Big! Please wake up again."
+
+msgctxt "2568"
+msgid "装備品を買い取ってくれ。"
+msgstr "Buy the equipment."
+
+msgctxt "2593"
+msgid "はいはい、どちらを売って頂けますんで？"
+msgstr "Yes Yes, which one can you sell?"
+
+msgctxt "2632"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2633"
+msgid ""
+"おおきに！\n"
+"またおこしください。"
+msgstr "Big! Please wake up again."
+
+msgctxt "2696"
+msgid "質屋"
+msgstr "Pawn shop"
+
+msgctxt "2701"
+msgid "持ち物を売る"
+msgstr "Sell your belongings"
+
+msgctxt "2714"
+msgid "装備品を売る"
+msgstr "Sell equipment"
+
+msgctxt "2727"
+msgid "買い物をする"
+msgstr "to shop"
+
+msgctxt "2740"
+msgid "やめる"
+msgstr "Stop"
+
+msgctxt "2747"
+msgid "Player"
+msgstr ""
+
+msgctxt "2754"
+msgid "dummy"
+msgstr ""

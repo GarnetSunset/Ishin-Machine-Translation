@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "404"
+msgid "どういうこっちゃ……"
+msgstr "What kind of thing ..."
+
+msgctxt "548"
+msgid "そんな……"
+msgstr "Such ..."
+
+msgctxt "692"
+msgid "近藤さん……"
+msgstr "Mr. Kondo ……"
+
+msgctxt "836"
+msgid "間に合わなかったってのか？"
+msgstr "Did you miss it?"
+
+msgctxt "980"
+msgid ""
+"壬生狼め\n"
+"とうとうやりおった！"
+msgstr "I'm finally done with the Mibu Wolf!"
+
+msgctxt "1124"
+msgid "無茶苦茶にも程があるわ！"
+msgstr "There is a lot to be ridiculous!"
+
+msgctxt "1268"
+msgid ""
+"町に火ぃつけて回るなんて\n"
+"狂気の沙汰や！"
+msgstr "It's crazy to ignite the town and go around!"
+
+msgctxt "1412"
+msgid "あいつら一体何のつもりやねん"
+msgstr "What the hell are they going to do?"
+
+msgctxt "1556"
+msgid "おい　今の話　本当なのか！？"
+msgstr "Hey, what's the story right now? ??"
+
+msgctxt "1700"
+msgid "何ですかお侍はん！？"
+msgstr "What is a samurai! ??"
+
+msgctxt "1844"
+msgid "これが壬生狼……"
+msgstr "This is the Mibu wolf ..."
+
+msgctxt "1988"
+msgid "新選組の仕業だってのか！？"
+msgstr "Is it the work of the Shinsengumi? ??"
+
+msgctxt "2132"
+msgid ""
+"ああせや！！\n"
+"あの浅葱色の連中が方々で火ぃつけて回っとる！"
+msgstr ""
+"Oh no! !! Those Asagi-iro guys ignite and\n"
+"turn around!"
+
+msgctxt "2276"
+msgid ""
+"ウチも　こいつも\n"
+"皆見とるんや！！"
+msgstr "I always see everyone! !!"
+
+msgctxt "2420"
+msgid "くそっ！"
+msgstr "Damn!"
+
+msgctxt "2564"
+msgid "ちょっと！？"
+msgstr "A little! ??"
+
+msgctxt "2708"
+msgid "一（はじめ）ちゃんどこ行くんや！？"
+msgstr ""
+"Ichi (beginning) -chan, where are you going!\n"
+"??"

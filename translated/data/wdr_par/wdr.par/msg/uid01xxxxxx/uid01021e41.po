@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "7036"
+msgid ""
+"（あれは……　十番隊の奴らか？\n"
+"　ここで何をやってるんだ？）"
+msgstr ""
+"(That's ... the tenth corps? What are you\n"
+"doing here?)"
+
+msgctxt "7097"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7098"
+msgid ""
+"隊長、この辺の家の金目のモンは\n"
+"あらかた取り尽くしました。"
+msgstr ""
+"Captain, the gold medal of the house around\n"
+"here has been exhausted."
+
+msgctxt "7157"
+msgid ""
+"おう、じゃあここらも用済みだ。\n"
+"お前ら！　この辺の家も全部燃やしちまえ!!"
+msgstr ""
+"Oh, then I'm done with it. You guys! Burn\n"
+"all the houses around here !!"
+
+msgctxt "7230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7231"
+msgid "待て！"
+msgstr "wait!"
+
+msgctxt "7238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7239"
+msgid "……何だ、斎藤か。"
+msgstr "...... What is Saito?"
+
+msgctxt "7258"
+msgid ""
+"原田。\n"
+"お前、何をやってる。"
+msgstr "Harada. What are you doing"
+
+msgctxt "7287"
+msgid ""
+"“京へ火を放て”……　近藤局長からの命令だ。\n"
+"各隊長へ伝令があっただろうが。"
+msgstr ""
+"“Set fire to Kyo” …… It is an order from\n"
+"Director Kondo. There would have been\n"
+"a messenger to each captain."
+
+msgctxt "7364"
+msgid "……やはり、本当なのか。"
+msgstr "...... Is it true after all?"
+
+msgctxt "7389"
+msgid ""
+"フッ、いよいよ新選組が京の街を牛耳る時が\n"
+"来たってワケよ！"
+msgstr ""
+"Huh, it's finally time for the Shinsengumi\n"
+"to dominate the city of Kyoto!"
+
+msgctxt "7448"
+msgid ""
+"その野望の果てが、火事場泥棒か……\n"
+"どこまで腐ってやがる。"
+msgstr ""
+"The end of that ambition is a firefighting\n"
+"thief ... how far it rots."
+
+msgctxt "7507"
+msgid ""
+"どうせ燃えちまうんだ。\n"
+"灰にするより頂いちまった方が\n"
+"世のためってもんだろ。"
+msgstr ""
+"It will burn anyway. It's better for the\n"
+"world to get it than to make it ashes."
+
+msgctxt "7584"
+msgid "……"
+msgstr ""
+
+msgctxt "7589"
+msgid ""
+"なんだアンタ。\n"
+"壬生狼が今さら正義の味方気取りか？\n"
+"……文句があんなら、掛かってこいよ。"
+msgstr ""
+"What are you? Is the Mibu Wolf still a ally\n"
+"of justice? ...... If you have any\n"
+"complaints, please hang up."
+
+msgctxt "7678"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7679"
+msgid ""
+"フッ……　アンタとは一度やりあわなきゃならねぇ\n"
+"とは思ってた。"
+msgstr ""
+"Hmm ... I thought I had to deal with you\n"
+"once."
+
+msgctxt "7742"
+msgid ""
+"それにこの火事場だ。\n"
+"隊長を１人消すには都合もいい。"
+msgstr ""
+"And this is the fire place. It is also convenient\n"
+"to erase one captain."
+
+msgctxt "7795"
+msgid "どういう意味だ。"
+msgstr "What do you mean."
+
+msgctxt "7812"
+msgid ""
+"新参モンのアンタに、\n"
+"良いトコ持ってかれねぇで済む……ってコトだよ。"
+msgstr ""
+"You don't have to bring a good toco to you,\n"
+"a newcomer."
+
+msgctxt "7881"
+msgid "……お前、剣は使わないのか？"
+msgstr "...... Do you not use a sword?"
+
+msgctxt "7910"
+msgid ""
+"は？　実戦じゃコッチの方が相手に届く……\n"
+"剣なんざバカバカしくて使ってられるかっての。"
+msgstr ""
+"What? In the actual battle, Kochi reaches\n"
+"the opponent ... I wonder if the sword\n"
+"can be used because it's ridiculous."
+
+msgctxt "7997"
+msgid "どうやら、本物の剣を見たことがねえらしいな。"
+msgstr "Apparently, I've never seen a real sword."
+
+msgctxt "8042"
+msgid ""
+"フッ……　そうだったなぁ。\n"
+"確かアンタは理心流を追いかけて新選組に\n"
+"入ってきたんだったよなぁ。"
+msgstr ""
+"Hmm ... That's right. I'm sure you were\n"
+"chasing Rishin-ryu and joining the Shinsengumi."
+
+msgctxt "8137"
+msgid "ならひとつ良いことを教えといてやるよ……"
+msgstr "Then I'll teach you one good thing ..."
+
+msgctxt "8178"
+msgid "なんだ……"
+msgstr "what……"
+
+msgctxt "8189"
+msgid ""
+"試衛館出身で一番強ぇのは沖田でも永倉でも\n"
+"局長でもねえ……　俺だよ。"
+msgstr ""
+"The strongest person from the trial hall\n"
+"is Okita, Nagakura, or the director ...\n"
+"I am."
+
+msgctxt "8258"
+msgid "なぜそう言い切れる。"
+msgstr "Why can I say so?"
+
+msgctxt "8279"
+msgid "そりゃあなぁ……"
+msgstr "That's right ..."
+
+msgctxt "8296"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8297"
+msgid ""
+"勝つためなら何でもする。\n"
+"……流派や誇りを捨てることができる人間だからだ。"
+msgstr ""
+"I will do anything to win. ... because he\n"
+"is a person who can abandon his school\n"
+"and pride."
+
+msgctxt "8372"
+msgid "なるほどな。"
+msgstr "got it."
+
+msgctxt "8385"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8386"
+msgid ""
+"お前には剣がどうしてこの世にあるのか……\n"
+"その意味を体で教えてやる必要があるようだ。"
+msgstr ""
+"Why do you have a sword in this world ...\n"
+"It seems that you need to teach the meaning\n"
+"with your body."
+
+msgctxt "8471"
+msgid "ハッ……　それは是非、ご教授いただきたいねぇ。"
+msgstr "Hah ... I really want you to teach it."
+
+msgctxt "8518"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "8519"
+msgid "ふん。……行くぞぉ！　斎藤ォ!!"
+msgstr "Hmm. ...... Let's go! Saito !!"
+
+msgctxt "8550"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "10264"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "10269"
+msgid "dummy"
+msgstr ""
+
+msgctxt "10275"
+msgid "kaiwabgm_silent"
+msgstr ""
+
+msgctxt "10291"
+msgid "C12070_KRU_A"
+msgstr ""
+
+msgctxt "10304"
+msgid "Idle"
+msgstr ""
+
+msgctxt "10309"
+msgid "十番隊隊士"
+msgstr "Tenth Division Team Members"
+
+msgctxt "10320"
+msgid "taishi10_a_c12_070_01"
+msgstr ""
+
+msgctxt "10342"
+msgid "原田"
+msgstr "Harada"
+
+msgctxt "10347"
+msgid "harada_c12_070_01"
+msgstr ""
+
+msgctxt "10365"
+msgid "TLK_SCN001"
+msgstr ""
+
+msgctxt "10376"
+msgid "kiryu_c12_070_01"
+msgstr ""
+
+msgctxt "10393"
+msgid "TLK_SCN003"
+msgstr ""
+
+msgctxt "10404"
+msgid "TLK_SCN005"
+msgstr ""
+
+msgctxt "10415"
+msgid "harada_c12_070_02"
+msgstr ""
+
+msgctxt "10433"
+msgid "kiryu_c12_070_02"
+msgstr ""
+
+msgctxt "10450"
+msgid "harada_c12_070_03"
+msgstr ""
+
+msgctxt "10468"
+msgid "TLK_SCN007"
+msgstr ""
+
+msgctxt "10479"
+msgid "kiryu_c12_070_03"
+msgstr ""
+
+msgctxt "10496"
+msgid "harada_c12_070_04"
+msgstr ""
+
+msgctxt "10514"
+msgid "TLK_SCN009"
+msgstr ""
+
+msgctxt "10525"
+msgid "kiryu_c12_070_04"
+msgstr ""
+
+msgctxt "10542"
+msgid "harada_c12_070_05"
+msgstr ""
+
+msgctxt "10560"
+msgid "TLK_SCN011"
+msgstr ""
+
+msgctxt "10571"
+msgid "harada_c12_070_06"
+msgstr ""
+
+msgctxt "10589"
+msgid "TLK_SCN013"
+msgstr ""
+
+msgctxt "10600"
+msgid "kaiwabgm_kinpaku_01"
+msgstr ""
+
+msgctxt "10620"
+msgid "harada_c12_070_07"
+msgstr ""
+
+msgctxt "10638"
+msgid "TLK_SCN015"
+msgstr ""
+
+msgctxt "10649"
+msgid "harada_c12_070_07b"
+msgstr ""
+
+msgctxt "10668"
+msgid "kiryu_c12_070_06"
+msgstr ""
+
+msgctxt "10685"
+msgid "harada_c12_070_08"
+msgstr ""
+
+msgctxt "10703"
+msgid "TLK_SCN017"
+msgstr ""
+
+msgctxt "10714"
+msgid "kiryu_c12_070_07"
+msgstr ""
+
+msgctxt "10731"
+msgid "harada_c12_070_09"
+msgstr ""
+
+msgctxt "10749"
+msgid "TLK_SCN019"
+msgstr ""
+
+msgctxt "10760"
+msgid "kiryu_c12_070_08"
+msgstr ""
+
+msgctxt "10777"
+msgid "harada_c12_070_10"
+msgstr ""
+
+msgctxt "10795"
+msgid "TLK_SCN021"
+msgstr ""
+
+msgctxt "10806"
+msgid "harada_c12_070_10b"
+msgstr ""
+
+msgctxt "10825"
+msgid "kiryu_c12_070_09"
+msgstr ""
+
+msgctxt "10842"
+msgid "harada_c12_070_11"
+msgstr ""
+
+msgctxt "10860"
+msgid "TLK_SCN023"
+msgstr ""
+
+msgctxt "10871"
+msgid "kiryu_c12_070_10"
+msgstr ""
+
+msgctxt "10888"
+msgid "harada_c12_070_12"
+msgstr ""
+
+msgctxt "10906"
+msgid "TLK_SCN025"
+msgstr ""
+
+msgctxt "10917"
+msgid "harada_c12_070_13"
+msgstr ""
+
+msgctxt "10935"
+msgid "kiryu_c12_070_11"
+msgstr ""
+
+msgctxt "10952"
+msgid "kiryu_c12_070_12"
+msgstr ""
+
+msgctxt "10969"
+msgid "harada_c12_070_14"
+msgstr ""
+
+msgctxt "10987"
+msgid "TLK_SCN027"
+msgstr ""
+
+msgctxt "10998"
+msgid "harada_c12_070_15"
+msgstr ""
+
+msgctxt "11016"
+msgid "TLK_SCN029"
+msgstr ""

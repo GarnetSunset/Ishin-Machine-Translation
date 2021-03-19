@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "385344"
+msgid "誰ぜよ……　おまんは……？"
+msgstr "Who are you ... I'm sorry ...?"
+
+msgctxt "385488"
+msgid "不思議な話もあったもんやな"
+msgstr "There was also a mysterious story"
+
+msgctxt "385632"
+msgid "時代を動かすはずの男が　時代遅れの男に斬られ死ぬ"
+msgstr ""
+"A man who should move the times is killed\n"
+"by an outdated man and dies"
+
+msgctxt "385776"
+msgid "しかもこの世に存在しないはずの"
+msgstr "Moreover, it should not exist in this world"
+
+msgctxt "385920"
+msgid ""
+"“もう一人の自分”に\n"
+"斬られることになるんやからなあ"
+msgstr "I don't think I'll be cut by \"another self\""
+
+msgctxt "386064"
+msgid "なあ"
+msgstr "Hey"
+
+msgctxt "386208"
+msgid "坂本龍馬さんよ"
+msgstr "Ryoma Sakamoto"
+
+msgctxt "386352"
+msgid "これが……"
+msgstr "This is……"
+
+msgctxt "386496"
+msgid "もう一人の“坂本龍馬”　だと？"
+msgstr "Another \"Ryoma Sakamoto\"?"
+
+msgctxt "386640"
+msgid "ぐああ……！"
+msgstr "Gua ...!"
+
+msgctxt "386784"
+msgid "中岡！　大丈夫か！"
+msgstr "Nakaoka! Are you okay!"
+
+msgctxt "386928"
+msgid "全部　見抜かれていた"
+msgstr "Everything was spotted"
+
+msgctxt "387072"
+msgid ""
+"こっちの仕掛けた罠を\n"
+"逆手にとられた……！"
+msgstr ""
+"The trap I set up was taken in the wrong\n"
+"direction ...!"
+
+msgctxt "387216"
+msgid "何！？"
+msgstr "what! ??"
+
+msgctxt "387360"
+msgid "外は見廻組で包囲されてる"
+msgstr "The outside is surrounded by a patrol group"
+
+msgctxt "387504"
+msgid ""
+"西郷と桂は　何とか逃がしたが\n"
+"俺はこのザマだ"
+msgstr ""
+"Saigo and Katsura managed to escape, but\n"
+"I'm this Zama"
+
+msgctxt "387648"
+msgid "しっかりしろ中岡！"
+msgstr "Firmly Nakaoka!"
+
+msgctxt "387792"
+msgid "無駄だ"
+msgstr "it's useless"
+
+msgctxt "387936"
+msgid "やっぱり"
+msgstr "After all"
+
+msgctxt "388080"
+msgid "お前だったんだな"
+msgstr "I was you"
+
+msgctxt "388224"
+msgid "武市"
+msgstr "Takeshi"
+
+msgctxt "388368"
+msgid "久しぶりだな　龍馬"
+msgstr "It's been a long time Ryoma"
+
+msgctxt "388512"
+msgid "倒幕戦争を阻止する大政奉還"
+msgstr "Taisei Hokan to stop the fall war"
+
+msgctxt "388656"
+msgid "それに　帝暗殺計画の阻止"
+msgstr ""
+"And blocking the imperial assassination\n"
+"plan"
+
+msgctxt "388800"
+msgid "先回りしたはずが　全部お前に食い止められた"
+msgstr ""
+"I should have been ahead, but everything\n"
+"was stopped by you"
+
+msgctxt "388944"
+msgid "本当に凄い奴だよ　お前は"
+msgstr "You're a really great guy"
+
+msgctxt "389088"
+msgid "どうした"
+msgstr "what up"
+
+msgctxt "389232"
+msgid "言いたいことがたくさんあるんじゃないのか？"
+msgstr "Isn't there a lot to say?"
+
+msgctxt "389376"
+msgid "どうして俺が東洋の親っさんを殺させたのか"
+msgstr "Why did I kill my oriental parents"
+
+msgctxt "389520"
+msgid ""
+"どうしてその時俺は\n"
+"自らの名を坂本龍馬と名乗ったのか"
+msgstr ""
+"Why did I call myself Ryoma Sakamoto at\n"
+"that time?"
+
+msgctxt "389664"
+msgid "そして"
+msgstr "And"
+
+msgctxt "389808"
+msgid ""
+"どうして俺は武市半平太の名を捨て\n"
+"坂本龍馬という人間になったのか"
+msgstr ""
+"Why did I abandon Takechi Hanpeita's name\n"
+"and become a human named Ryoma Sakamoto?"
+
+msgctxt "389952"
+msgid "知りたいんじゃないのか　龍馬"
+msgstr "You don't want to know Ryoma"
+
+msgctxt "390096"
+msgid "その前に一つ教えてくれ"
+msgstr "Please tell me one before that"
+
+msgctxt "390240"
+msgid "何だ"
+msgstr "What"
+
+msgctxt "390384"
+msgid "本当によ"
+msgstr "Really"
+
+msgctxt "390528"
+msgid "今　俺の目の前にいるのは"
+msgstr "What's in front of me right now"
+
+msgctxt "390672"
+msgid "武市半平太なのかよ"
+msgstr "Is it Takechi Hanpeita?"
+
+msgctxt "390816"
+msgid "何だと？"
+msgstr "What did you say?"
+
+msgctxt "390960"
+msgid "あんた"
+msgstr "You"
+
+msgctxt "391104"
+msgid "鏡で自分の顔見てるか？"
+msgstr "Are you looking at your face in the mirror?"
+
+msgctxt "391248"
+msgid "一体何があったんだよ"
+msgstr "What the hell happened"
+
+msgctxt "391392"
+msgid "どうしたらそんなになっちまうんだよ兄弟！！"
+msgstr "How can I be that way, brothers! !!"
+
+msgctxt "391536"
+msgid "俺は今からあんたを斬る"
+msgstr "I will slash you from now on"
+
+msgctxt "391680"
+msgid ""
+"あんたが俺の名を騙っていると\n"
+"確信した時から決めていた"
+msgstr ""
+"I've decided since I was convinced that\n"
+"you were fooling my name"
+
+msgctxt "391824"
+msgid "だが　何なんだこの気持ちは"
+msgstr "But what is this feeling"
+
+msgctxt "391968"
+msgid "何でそんな姿で俺の前にやってきたんだよ……"
+msgstr ""
+"Why did you come in front of me like that\n"
+"..."
+
+msgctxt "392112"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "392256"
+msgid ""
+"見ただけで　俺にはあんたがどんな思いで\n"
+"ここにやって来たのかが全部分かっちまう"
+msgstr ""
+"Just by looking at it, I can understand\n"
+"all the feelings you had when you came\n"
+"here."
+
+msgctxt "392400"
+msgid "そんな自分が悔しい"
+msgstr "I feel sorry for myself"
+
+msgctxt "392544"
+msgid "俺ぁアンタが憎いんだ"
+msgstr "I hate you"
+
+msgctxt "392688"
+msgid "憎いまま斬らせてくれよ兄弟！"
+msgstr "Let me slash with hate, brothers!"
+
+msgctxt "392832"
+msgid "兄弟……！"
+msgstr "brothers……!"
+
+msgctxt "392976"
+msgid "今日ここ近江屋で　“坂本龍馬”という男は死んだ"
+msgstr ""
+"A man named \"Ryoma Sakamoto\" died here in\n"
+"Omiya today"
+
+msgctxt "393120"
+msgid "坂本龍馬の伝説は幕を閉じたんだ"
+msgstr ""
+"The legend of Ryoma Sakamoto has come to\n"
+"an end"
+
+msgctxt "393264"
+msgid "何言ってんだお前……！"
+msgstr "What are you talking about ...!"
+
+msgctxt "393408"
+msgid "残念だが　今お前に殺されるわけにはいかない"
+msgstr "I'm afraid I can't kill you right now"
+
+msgctxt "393552"
+msgid ""
+"お前には\n"
+"最後の仕事をしてもらう必要があるからな"
+msgstr "I need you to do the last job"
+
+msgctxt "393696"
+msgid "何訳のわかんねぇこと言ってんだ　おい！！"
+msgstr "I don't know what the reason is, hey! !!"
+
+msgctxt "393840"
+msgid "土佐で待つ"
+msgstr "Wait at Tosa"
+
+msgctxt "393984"
+msgid "全ては　そこで分かる"
+msgstr "Everything is understood there"
+
+msgctxt "394128"
+msgid "待てよおい！　待てっつってんだ！"
+msgstr "Wait, hey! I'm waiting!"
+
+msgctxt "394272"
+msgid "武市！！　武市！！！！"
+msgstr "Takeshi! !! Takeshi! !! !! !!"
+
+msgctxt "394416"
+msgid "一（はじめ）ちゃん！"
+msgstr "Ichi (beginning) -chan!"
+
+msgctxt "394560"
+msgid ""
+"急に御陵衛士も　見廻組の連中も姿を消した\n"
+"どないなっとるんや"
+msgstr ""
+"Suddenly, both the Imperial Guard and the\n"
+"Mimawarigumi disappeared."
+
+msgctxt "394704"
+msgid "中岡！"
+msgstr "Nakaoka!"
+
+msgctxt "394848"
+msgid "あれが　坂本龍馬？"
+msgstr "Is that Ryoma Sakamoto?"
+
+msgctxt "394992"
+msgid "「ほとぐらふ」の男やない　全くの別人や"
+msgstr ""
+"\"Hotogurafu\" man or not a completely different\n"
+"person"
+
+msgctxt "395136"
+msgid "おい一（はじめ）ちゃん　どういうことや"
+msgstr "Oiichi (Hajime) -chan What do you mean"
+
+msgctxt "395280"
+msgid "一体ここで何があったんや"
+msgstr "What happened here"
+
+msgctxt "395424"
+msgid "説明せえ　一（はじめ）ちゃん！"
+msgstr "Explain Ichi (Hajime) -chan!"
+
+msgctxt "395568"
+msgid "坂本龍馬は死んだ"
+msgstr "Ryoma Sakamoto is dead"
+
+msgctxt "395712"
+msgid "坂本龍馬という男は死んだんだ"
+msgstr "A man named Ryoma Sakamoto is dead"
+
+msgctxt "395856"
+msgid "今日この時間"
+msgstr "This time today"
+
+msgctxt "396000"
+msgid "この場所で"
+msgstr "At this place"

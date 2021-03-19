@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "185224"
+msgid "副長！"
+msgstr "Deputy captain!"
+
+msgctxt "185368"
+msgid ""
+"アンタだって新選組を使って\n"
+"のし上がりたいっつってただろ！？"
+msgstr ""
+"You've been using the Shinsengumi to get\n"
+"up! ??"
+
+msgctxt "185512"
+msgid "なあ　今すぐ俺を行かせて……"
+msgstr "Hey, let me go right now ..."
+
+msgctxt "185656"
+msgid ""
+"面白そうな話やな\n"
+"左之助"
+msgstr ""
+"Sanosuke Sagara, a story that seems to be\n"
+"interesting"
+
+msgctxt "185800"
+msgid "せやけどそれ……"
+msgstr "But that ..."
+
+msgctxt "185944"
+msgid "一番隊がやらせてもらうわ"
+msgstr "I'll let the first corps do it"
+
+msgctxt "186088"
+msgid "総司"
+msgstr "Souji"
+
+msgctxt "186232"
+msgid "文句あってもワシは止められへんで"
+msgstr "Even if I complain, I can't stop"
+
+msgctxt "186376"
+msgid "歳ちゃん"
+msgstr "Toshi-chan"
+
+msgctxt "186520"
+msgid "ちょ　ちょっと待ってくれよ沖田さん！"
+msgstr "Wait a minute, Mr. Okita!"
+
+msgctxt "186664"
+msgid ""
+"一番隊がやるのは構わねえ\n"
+"だけど　俺も一緒にやらせてくれ！！"
+msgstr ""
+"I don't mind what the first corps does,\n"
+"but let me do it together! !!"
+
+msgctxt "186808"
+msgid "俺とアンタで一緒に　源さんの仇を！"
+msgstr "Together with me, Gen-san's death!"
+
+msgctxt "186952"
+msgid "なあ？　いいだろ！？"
+msgstr "What? Good! ??"
+
+msgctxt "187096"
+msgid "安心せえ左之助ちゃん"
+msgstr "Rest assured, Sanosuke-chan"
+
+msgctxt "187240"
+msgid ""
+"誰もお前のことを\n"
+"幕府の“歩”やなんて思てへん"
+msgstr ""
+"Nobody thinks of you as the \"walk\" of the\n"
+"shogunate"
+
+msgctxt "187384"
+msgid "はあ？"
+msgstr "Huh?"
+
+msgctxt "187528"
+msgid "お前は"
+msgstr "You are"
+
+msgctxt "187672"
+msgid "新選組の“歩”や"
+msgstr "Shinsengumi's \"Ayumiya\""
+
+msgctxt "187816"
+msgid "そこんとこよう　覚えとくんやな"
+msgstr "Let's go there"
+
+msgctxt "187960"
+msgid "一番隊！"
+msgstr "Ichiban Squad!"
+
+msgctxt "188104"
+msgid "行くで"
+msgstr "Go"
+
+msgctxt "188248"
+msgid "はい！"
+msgstr "Okay!"

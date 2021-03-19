@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "5516"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5517"
+msgid "（何だ？　騒がしいな……）"
+msgstr "(What? It's noisy ...)"
+
+msgctxt "5544"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5545"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5546"
+msgid "ナンマンダブ、ナンマンダブ……"
+msgstr "Nanman Dub, Nanman Dub ……"
+
+msgctxt "5577"
+msgid "お役人はまだ来てへんの？"
+msgstr "Haven't the officials come yet?"
+
+msgctxt "5602"
+msgid "新選組がやったんとちゃうか？"
+msgstr "Did the Shinsengumi do it?"
+
+msgctxt "5631"
+msgid "それやったら近くにおるやろ。"
+msgstr "If you do that, you'll be nearby."
+
+msgctxt "5660"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5661"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5662"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5663"
+msgid "……！"
+msgstr "……！"
+
+msgctxt "5670"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5671"
+msgid ""
+"やっぱりそうぜよ！\n"
+"わしじゃ！　ほれ、土佐の島田弥平！"
+msgstr ""
+"After all it is! I am! Look, Yahei Shimada\n"
+"from Tosa!"
+
+msgctxt "5726"
+msgid "おんし、京に来ちょったがかえ！"
+msgstr "Oh, I came to Kyo!"
+
+msgctxt "5757"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5758"
+msgid "…………"
+msgstr ""
+
+msgctxt "5767"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5768"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5769"
+msgid ""
+"島田弥平は、口の軽い男じゃったき……\n"
+"面倒起こす前に始末する必要があったがです。"
+msgstr ""
+"Yahei Shimada was a light-mouthed man ...\n"
+"I had to get rid of it before I bothered\n"
+"him."
+
+msgctxt "5850"
+msgid ""
+"お前が島田を殺ったのか？\n"
+"……誰だ？"
+msgstr "Did you kill Shimada? ……Who?"
+
+msgctxt "5887"
+msgid ""
+"フッ……\n"
+"わしは敵じゃありませんよ、“龍馬”さん。"
+msgstr "Hmm ... I'm not an enemy, Mr. Ryoma."
+
+msgctxt "5938"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5940"
+msgid ""
+"あんたとやり合うつもりはないき。\n"
+"今夜、骸街（むくろがい）に来ていただけますか？"
+msgstr ""
+"I'm not going to deal with you. Would you\n"
+"please come to Mukurogai tonight?"
+
+msgctxt "6021"
+msgid "骸街？"
+msgstr "Skeleton Street?"
+
+msgctxt "6028"
+msgid "場所は寺田屋の人間に聞けばわかります。"
+msgstr ""
+"You can find out the location by asking\n"
+"a person at Teradaya."
+
+msgctxt "6067"
+msgid "……俺に何の用だ？"
+msgstr "...... What is it for me?"
+
+msgctxt "6086"
+msgid ""
+"来ればわかりますき……\n"
+"では。"
+msgstr "You'll know when you come ..."
+
+msgctxt "6117"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6118"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6119"
+msgid "（あの男、俺の名を知っていた……）"
+msgstr "(That man knew my name ...)"
+
+msgctxt "6154"
+msgid "（骸街に来いと言っていたな……）"
+msgstr ""
+"(You said you wanted to come to the skeleton\n"
+"...)"
+
+msgctxt "6187"
+msgid "（一度、寺田屋に戻って聞いてみるか）"
+msgstr ""
+"(Would you like to go back to Teradaya and\n"
+"ask?)"
+
+msgctxt "6224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "6227"
+msgid "（今日はもう寺田屋に戻って寝るか）"
+msgstr ""
+"(Do you want to go back to Teradaya and\n"
+"go to bed today?)"
+
+msgctxt "6262"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "7344"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "7349"
+msgid "近所の町人"
+msgstr "Neighborhood tradesman"
+
+msgctxt "7360"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7366"
+msgid "0"
+msgstr ""
+
+msgctxt "7368"
+msgid "kaiwabgm_fuon_05"
+msgstr ""
+
+msgctxt "7385"
+msgid "chonin1_c02_130_01"
+msgstr ""
+
+msgctxt "7404"
+msgid "通りがかりの町人"
+msgstr "Passing tradesman"
+
+msgctxt "7421"
+msgid "chonin3_c02_130_01"
+msgstr ""
+
+msgctxt "7440"
+msgid "駆け付けた町人"
+msgstr "The tradesman who rushed"
+
+msgctxt "7455"
+msgid "chonin4_c02_130_01"
+msgstr ""
+
+msgctxt "7474"
+msgid "近所の商人"
+msgstr "Neighborhood merchant"
+
+msgctxt "7485"
+msgid "chonin2_c02_130_02"
+msgstr ""
+
+msgctxt "7504"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "7526"
+msgid "kiryu_c02_130_01"
+msgstr ""
+
+msgctxt "7543"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "7553"
+msgid "土佐浪人"
+msgstr "Ronin Tosa"
+
+msgctxt "7562"
+msgid "2d_yk_C2-130"
+msgstr ""
+
+msgctxt "7575"
+msgid "yahei_c02_130_01"
+msgstr ""
+
+msgctxt "7592"
+msgid "yahei_c02_130_01b"
+msgstr ""
+
+msgctxt "7610"
+msgid "C02130_KRU_turn_lp"
+msgstr ""
+
+msgctxt "7629"
+msgid "C02130_KRU_turn_fast"
+msgstr ""
+
+msgctxt "7650"
+msgid "編笠の男"
+msgstr "Hen Kasa no Otoko"
+
+msgctxt "7659"
+msgid "izo_c02_130_01"
+msgstr ""
+
+msgctxt "7674"
+msgid "kiryu_c02_130_03"
+msgstr ""
+
+msgctxt "7691"
+msgid "izo_c02_130_02"
+msgstr ""
+
+msgctxt "7706"
+msgid "C02130_KRU_turn_ready_lp"
+msgstr ""
+
+msgctxt "7731"
+msgid "C02130_KRU_turn_ready"
+msgstr ""
+
+msgctxt "7753"
+msgid "izo_c02_130_03"
+msgstr ""
+
+msgctxt "7768"
+msgid "kiryu_c02_130_04"
+msgstr ""
+
+msgctxt "7785"
+msgid "izo_c02_130_04"
+msgstr ""
+
+msgctxt "7800"
+msgid "kiryu_c02_130_05"
+msgstr ""
+
+msgctxt "7817"
+msgid "izo_c02_130_05"
+msgstr ""
+
+msgctxt "7832"
+msgid "C02130_KRU_turn_en"
+msgstr ""
+
+msgctxt "7851"
+msgid "Player"
+msgstr ""

@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "182664"
+msgid "ま……　負けたのか"
+msgstr "Well ... did you lose?"
+
+msgctxt "182808"
+msgid "私は……"
+msgstr "I……"
+
+msgctxt "182952"
+msgid ""
+"結局　私は\n"
+"あの人にとって……"
+msgstr "After all, I'm for that person ..."
+
+msgctxt "183096"
+msgid "あなたの代わりにはなれなかったって事か"
+msgstr "I mean I couldn't replace you"
+
+msgctxt "183240"
+msgid "武市は……"
+msgstr "Takeshi is ..."
+
+msgctxt "183384"
+msgid "兄弟は　生きているんだな"
+msgstr "The brothers are alive"
+
+msgctxt "183528"
+msgid "あいつが"
+msgstr "that guy"
+
+msgctxt "183672"
+msgid "“もう一人の坂本龍馬”なんだな？"
+msgstr "What is \"another Ryoma Sakamoto\"?"
+
+msgctxt "183816"
+msgid "あの人は……"
+msgstr "That person……"
+
+msgctxt "183960"
+msgid "あなたを待ってます"
+msgstr "Waiting for you"
+
+msgctxt "184104"
+msgid "ずっと"
+msgstr "Forever"
+
+msgctxt "184248"
+msgid "武市さんは　もう……"
+msgstr "Takeichi-san is already ..."
+
+msgctxt "184392"
+msgid "戻れないところまで　来てしまった"
+msgstr "I've come to a point where I can't go back"
+
+msgctxt "184536"
+msgid "あの人を"
+msgstr "That person"
+
+msgctxt "184680"
+msgid "止められるのは"
+msgstr "Can be stopped"
+
+msgctxt "184824"
+msgid "あなた"
+msgstr "you"
+
+msgctxt "184968"
+msgid "だけ……！"
+msgstr "Only ...!"
+
+msgctxt "185112"
+msgid "以蔵！！"
+msgstr "Izo! !!"
+
+msgctxt "185256"
+msgid "私は"
+msgstr "I"
+
+msgctxt "185400"
+msgid "あの人の兄弟にはなれなかった"
+msgstr "I couldn't be that person's brother"
+
+msgctxt "185544"
+msgid "あなた　だけなんです"
+msgstr "Only you"
+
+msgctxt "185688"
+msgid ""
+"あの人の　全てを\n"
+"受け止められるのは……！"
+msgstr "I can accept all of that person ...!"
+
+msgctxt "185832"
+msgid "以蔵！"
+msgstr "Izo!"
+
+msgctxt "185976"
+msgid "しっかりしろ以蔵！"
+msgstr "Firmly Izo!"
+
+msgctxt "186120"
+msgid "武市さんは　京にいます"
+msgstr "Takeichi is in Kyo"
+
+msgctxt "186264"
+msgid "だから……"
+msgstr "So ..."
+
+msgctxt "186408"
+msgid "分かった"
+msgstr "Do you get it"
+
+msgctxt "186552"
+msgid "必ず俺が　あいつを止める！"
+msgstr "Be sure to stop him!"
+
+msgctxt "186696"
+msgid "よ……"
+msgstr "Yo ..."
+
+msgctxt "186840"
+msgid "よ　かっ　た……"
+msgstr "Was good……"
+
+msgctxt "186984"
+msgid "兄弟"
+msgstr "brothers"
+
+msgctxt "187128"
+msgid "お前の目には"
+msgstr "In your eyes"
+
+msgctxt "187272"
+msgid "この空が　どう映ってるんだ"
+msgstr "How does this sky look?"

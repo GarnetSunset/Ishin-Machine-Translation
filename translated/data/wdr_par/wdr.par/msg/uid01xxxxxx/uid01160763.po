@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "4620"
+msgid "泥棒ー！"
+msgstr "Thief!"
+
+msgctxt "4629"
+msgid "おい、どっちへ行った？"
+msgstr "Hey, which one did you go to?"
+
+msgctxt "4652"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4653"
+msgid "あっちへ！"
+msgstr "Over there!"
+
+msgctxt "4664"
+msgid "橘組の依頼書の奴だな。"
+msgstr "It's the Tachibana group's request form."
+
+msgctxt "4687"
+msgid "待て！"
+msgstr "wait!"
+
+msgctxt "4694"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4695"
+msgid "……逃がしたか。"
+msgstr "...... Did you miss it?"
+
+msgctxt "4712"
+msgid "少し時間を空けてからまた来よう。"
+msgstr "Let's come back after a while."
+
+msgctxt "4745"
+msgid "泥棒ー！"
+msgstr "Thief!"
+
+msgctxt "4754"
+msgid "おい、どっちへ行った？"
+msgstr "Hey, which one did you go to?"
+
+msgctxt "4777"
+msgid "あっちへ！"
+msgstr "Over there!"
+
+msgctxt "4788"
+msgid ""
+"橘組の依頼書の奴だな。\n"
+"次は逃がさない。　待て！"
+msgstr ""
+"It's the Tachibana group's request form.\n"
+"I won't let you go next time. wait!"
+
+msgctxt "4837"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4838"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4839"
+msgid "くそっ……"
+msgstr "Damn ..."
+
+msgctxt "4850"
+msgid "こいつは返してもらうぜ。"
+msgstr "I'll get this one back."
+
+msgctxt "4875"
+msgid "チッ……　ずらかるぞ！"
+msgstr "Chi ... It's hard!"
+
+msgctxt "4898"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4899"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "4900"
+msgid ""
+"おい待て！\n"
+"お前ら義賊の忍盗だろ？"
+msgstr "Wait a minute! You guys are thieves, right?"
+
+msgctxt "4935"
+msgid "……！"
+msgstr "……！"
+
+msgctxt "4942"
+msgid ""
+"お前らなんでこんなことをしている？\n"
+"元は義賊だったんだろう？"
+msgstr ""
+"Why are you guys doing this? Was it originally\n"
+"a thief?"
+
+msgctxt "5003"
+msgid ""
+"関係ねぇだろう！\n"
+"放っておいてくれ！"
+msgstr "It doesn't matter! Leave it alone!"
+
+msgctxt "5040"
+msgid "お前のような奴にはわからないだろうさ！"
+msgstr "A guy like you wouldn't know!"
+
+msgctxt "5079"
+msgid "俺たちは御頭についていくって決めたんだ。"
+msgstr "We decided to keep up with your head."
+
+msgctxt "5120"
+msgid ""
+"……町のみんなには本当に悪いと思ってる。\n"
+"だけど、他にどうしようもないんだ。"
+msgstr ""
+"... I think it's really bad for everyone\n"
+"in the town. But there's nothing else\n"
+"I can do about it."
+
+msgctxt "5197"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5198"
+msgid "……何か事情がありそうだな。"
+msgstr "...... There seems to be something wrong."
+
+msgctxt "5227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5228"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "5229"
+msgid ""
+"ありがとうございます！\n"
+"とても助かりました。"
+msgstr "Thank you! It was very helpful."
+
+msgctxt "5274"
+msgid ""
+"礼はいらない。\n"
+"だが、最近この辺で窃盗が多発している。\n"
+"気をつけろよ。"
+msgstr ""
+"I don't need gratitude. However, theft has\n"
+"been occurring frequently around here\n"
+"recently. Be careful."
+
+msgctxt "5345"
+msgid "ありがとうございました。"
+msgstr "Thank you very much."
+
+msgctxt "5370"
+msgid "（一度、橘組に戻ってお松に報告するか）"
+msgstr ""
+"(Would you like to go back to Tachibana\n"
+"and report to Matsu?)"
+
+msgctxt "6032"
+msgid "町娘"
+msgstr "Town girl"
+
+msgctxt "6037"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "6047"
+msgid "Player"
+msgstr ""
+
+msgctxt "6054"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6060"
+msgid "青忍筆頭"
+msgstr "Blue Shinobu first"
+
+msgctxt "6069"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "6079"
+msgid "M_YKZ_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "6101"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6112"
+msgid "青忍の部下"
+msgstr "Blue Shinobu's subordinates"
+
+msgctxt "6123"
+msgid "青忍"
+msgstr "Blue Shinobi"
+
+msgctxt "6128"
+msgid "Talk_Ojigi"
+msgstr ""

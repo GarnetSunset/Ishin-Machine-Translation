@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "139676"
+msgid "待て！"
+msgstr "wait!"
+
+msgctxt "139820"
+msgid "ちょっとくらいねぇのか"
+msgstr "Isn't it a little?"
+
+msgctxt "139964"
+msgid ""
+"俺の腕前はどうだったとか\n"
+"言い残すことはよ……？"
+msgstr "I can't say how my skill was ...?"
+
+msgctxt "140108"
+msgid "ない"
+msgstr "Absent"
+
+msgctxt "140252"
+msgid "何だよそれ……"
+msgstr "What's that ..."
+
+msgctxt "140396"
+msgid "坂本龍馬の歴史に"
+msgstr "In the history of Ryoma Sakamoto"
+
+msgctxt "140540"
+msgid "お前の名は　必要ない"
+msgstr "I don't need your name"
+
+msgctxt "140684"
+msgid "坂本　龍馬……！？"
+msgstr "Ryoma Sakamoto……! ??"
+
+msgctxt "140828"
+msgid "さらばだ"
+msgstr "Farewell"
+
+msgctxt "140972"
+msgid "ちょっと待て！"
+msgstr "wait a minute!"
+
+msgctxt "141116"
+msgid "助けてくれ！！　斎藤！！"
+msgstr "help me! !! Saito! !!"

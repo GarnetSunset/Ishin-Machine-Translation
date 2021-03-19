@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2196"
+msgid "よし、一枚目の手紙を配った。"
+msgstr "Alright, I handed out the first letter."
+
+msgctxt "2225"
+msgid "よし、二枚目の手紙を配った。"
+msgstr "Alright, I handed out the second letter."
+
+msgctxt "2254"
+msgid "よし、三枚目の手紙を配った。"
+msgstr "Alright, I handed out the third letter."
+
+msgctxt "2283"
+msgid "よし、四枚目の手紙を配った。"
+msgstr "Alright, I handed out the fourth letter."
+
+msgctxt "2312"
+msgid "よし、五枚目の手紙を配った。"
+msgstr "Alright, I handed out the fifth letter."
+
+msgctxt "2341"
+msgid "よし、六枚目の手紙を配った。"
+msgstr "Alright, I handed out the sixth letter."
+
+msgctxt "2370"
+msgid "よし、七枚目の手紙を配った。"
+msgstr "Alright, I handed out the seventh letter."
+
+msgctxt "2399"
+msgid "よし、八枚目の手紙を配った。"
+msgstr "Alright, I handed out the eighth letter."
+
+msgctxt "2428"
+msgid "よし、九枚目の手紙を配った。"
+msgstr "Alright, I handed out the ninth letter."
+
+msgctxt "2457"
+msgid "よし、十枚目の手紙を配った。"
+msgstr "Alright, I handed out the tenth letter."
+
+msgctxt "2486"
+msgid ""
+"よし、十一枚目の手紙を配った。\n"
+"次が最後だ。"
+msgstr ""
+"Alright, I handed out the eleventh letter.\n"
+"Next is the last."
+
+msgctxt "2536"
+msgid "Player"
+msgstr ""

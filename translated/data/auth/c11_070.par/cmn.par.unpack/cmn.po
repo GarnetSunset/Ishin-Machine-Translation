@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "161740"
+msgid "大政　奉還？"
+msgstr "Great government return?"
+
+msgctxt "161884"
+msgid ""
+"この俺に\n"
+"徳川３００年の幕を引けというのか？"
+msgstr ""
+"Do you want me to close the curtain of Tokugawa\n"
+"300 years?"
+
+msgctxt "162028"
+msgid "それを決めることができるのは"
+msgstr "You can decide that"
+
+msgctxt "162172"
+msgid "あなただけです"
+msgstr "Only you"
+
+msgctxt "162316"
+msgid "ここでの返事は御無用"
+msgstr "No reply here"
+
+msgctxt "162460"
+msgid ""
+"あなたがそれを読んだ時点で\n"
+"俺たちの用事はもう済みました"
+msgstr ""
+"By the time you read it, our errands are\n"
+"over"
+
+msgctxt "162604"
+msgid "「一　有在の公卿諸侯及び……」"
+msgstr "\"One existing lord and lord ...\""
+
+msgctxt "162748"
+msgid ""
+"「天下の人材を顧問に備へ\n"
+"官爵を賜ひ……」"
+msgstr ""
+"\"Give the prince to Bi with the human resources\n"
+"of the world as an adviser ...\""
+
+msgctxt "162892"
+msgid "「宜しく従来有名無実の官を除くべき事」"
+msgstr ""
+"\"Thank you for excluding the traditionally\n"
+"famous innocent officials\""
+
+msgctxt "163036"
+msgid "この国の階級社会を潰せば"
+msgstr "If you crush the class society of this country"
+
+msgctxt "163180"
+msgid "どんな混乱が起きると思う？"
+msgstr ""
+"What kind of confusion do you think will\n"
+"occur?"
+
+msgctxt "163324"
+msgid "混乱するのは"
+msgstr "It ’s confusing"
+
+msgctxt "163468"
+msgid ""
+"今まで階級社会にあぐらをかいてきた\n"
+"ほんの一握りの連中だけです"
+msgstr ""
+"Only a handful of people who have been cross-legged\n"
+"in class society so far"
+
+msgctxt "163612"
+msgid "なるほど"
+msgstr "I see"
+
+msgctxt "163756"
+msgid "確かにそうかもしれんな"
+msgstr "It may be true"
+
+msgctxt "163900"
+msgid "上様！？"
+msgstr "emperor! ??"
+
+msgctxt "164044"
+msgid "なりませんぞ　そんなことは！"
+msgstr "That's not true!"
+
+msgctxt "164188"
+msgid "どうか冷静なご判断を！"
+msgstr "Please make a calm judgment!"
+
+msgctxt "164332"
+msgid "その方　名をなんと申す？"
+msgstr "What do you call that name?"
+
+msgctxt "164476"
+msgid "土佐藩士"
+msgstr "Tosa Domain"
+
+msgctxt "164620"
+msgid "坂本龍馬"
+msgstr "Ryoma Sakamoto"
+
+msgctxt "164764"
+msgid "坂本龍馬……"
+msgstr "Ryoma Sakamoto……"
+
+msgctxt "164908"
+msgid "なあ一（はじめ）ちゃん"
+msgstr "Naaichi (Hajime) -chan"
+
+msgctxt "165052"
+msgid ""
+"ワシら　もしかして\n"
+"どえらいことやったんとちゃうか？"
+msgstr "I wonder if I did something great?"
+
+msgctxt "165196"
+msgid "さあな　ただ……"
+msgstr "Come on ..."
+
+msgctxt "165340"
+msgid "これで例の「坂本龍馬」が動き出すはずだ"
+msgstr "This should start the example \"Ryoma Sakamoto\""

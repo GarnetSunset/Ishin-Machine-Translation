@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "122292"
+msgid "一（はじめ）さん？"
+msgstr "Mr. Ichi (beginning)?"
+
+msgctxt "122436"
+msgid "……入るえ"
+msgstr "...... Enter"
+
+msgctxt "122580"
+msgid "ちょっと　飲みすぎちゃう？"
+msgstr "Do you drink too much?"
+
+msgctxt "122724"
+msgid ""
+"大事な人やったんやね\n"
+"その　武市さんって人"
+msgstr "I did an important person, Mr. Takeichi"
+
+msgctxt "122868"
+msgid "せやけど……"
+msgstr "Burns ..."
+
+msgctxt "123012"
+msgid "なあ　いくらなんでも飲みすぎやって"
+msgstr "I drank too much anything"
+
+msgctxt "123156"
+msgid "俺に構うな！"
+msgstr "Don't worry about me!"
+
+msgctxt "123300"
+msgid "あんまり　無理せんといて"
+msgstr "Don't overdo it"
+
+msgctxt "123444"
+msgid "くそ！"
+msgstr "Fuck!"

@@ -1,0 +1,556 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "13528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13531"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13532"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13533"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13534"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13535"
+msgid ""
+"やぁ、斎藤さん。\n"
+"相変わらず、いかついねぇ～。\n"
+"遥ちゃんとはその後、どうだい？"
+msgstr ""
+"Hi, Mr. Saito. As usual, it's not good.\n"
+"How about Haruka-chan after that?"
+
+msgctxt "13614"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13616"
+msgid "ああ。まぁ、仲良くやってる。"
+msgstr "Oh. Well, I'm getting along well."
+
+msgctxt "13645"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13646"
+msgid ""
+"そうかい、そうかい。\n"
+"いやはや、二人とも年頃だからねぇ……\n"
+"何かあるかもしれん、とか思ってしまってね……"
+msgstr ""
+"That's right, that's right. No, they're\n"
+"both around the age ... I wondered if there\n"
+"might be something ..."
+
+msgctxt "13751"
+msgid "何を言ってるんだ？"
+msgstr "What are you saying?"
+
+msgctxt "13770"
+msgid "ああ。こっちの話、こっちの話。ふへへへ……"
+msgstr "Oh. This story, this story. Fuhehe ..."
+
+msgctxt "13813"
+msgid "……変な奴だな。"
+msgstr "...... It's a strange guy."
+
+msgctxt "13830"
+msgid "…………"
+msgstr ""
+
+msgctxt "13839"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13840"
+msgid "……よし！"
+msgstr "...... Okay!"
+
+msgctxt "13851"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "13852"
+msgid ""
+"あ……　あの……\n"
+"斎藤さん……　ちょっといいですか？"
+msgstr ""
+"Ah ... that ... Saito-san ... is that a\n"
+"little good?"
+
+msgctxt "13905"
+msgid "ん？　なんだ？"
+msgstr "Hmm? what?"
+
+msgctxt "13920"
+msgid "こ、ここでは、ちょっと……"
+msgstr "Here, a little ..."
+
+msgctxt "13947"
+msgid "ん？　何？　何？　私に関係ある？"
+msgstr "Hmm? what? what? Is it related to me?"
+
+msgctxt "13980"
+msgid ""
+"……神主さんは関係ないです。\n"
+"斎藤さんだけ、お願いします。"
+msgstr ""
+"...... The priest is irrelevant. Only Mr.\n"
+"Saito, please."
+
+msgctxt "14039"
+msgid "…………"
+msgstr ""
+
+msgctxt "14048"
+msgid "あ、ああ。分かった。"
+msgstr "Ah, ah. Do you get it."
+
+msgctxt "14069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14070"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14071"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14072"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14073"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14074"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "14075"
+msgid "どうしたんだ？　改まって……"
+msgstr "What happened? Again ..."
+
+msgctxt "14104"
+msgid ""
+"あ、あの……\n"
+"急にこんなこと聞くのも、どうかと思うんですが……"
+msgstr ""
+"Ah, that ... I don't think you should suddenly\n"
+"hear this ..."
+
+msgctxt "14167"
+msgid ""
+"斎藤さんが、同居されてるっていう、\n"
+"遥さんって人と、斎藤さんは……\n"
+"ど、どういう関係なんですか!?"
+msgstr ""
+"Mr. Saito is living together, Mr. Haruka\n"
+"and Mr. Saito ... What kind of relationship\n"
+"do you have !?"
+
+msgctxt "14264"
+msgid "ど、どういう関係……？"
+msgstr "What kind of relationship ...?"
+
+msgctxt "14287"
+msgid ""
+"そうです！\n"
+"斎藤さんは、遥さんのことを……\n"
+"どう思ってるんですか？"
+msgstr ""
+"That's right! Saito-san, what do you think\n"
+"of Haruka-san?"
+
+msgctxt "14354"
+msgid "どうって……　そうだな……"
+msgstr "Why ... That's right ..."
+
+msgctxt "14381"
+msgid "俺は遥を……　愛しく思っているぞ。"
+msgstr "I love Haruka ..."
+
+msgctxt "14416"
+msgid "!!　……や、やっぱり、そうですか。"
+msgstr "!! …… After all, is that so?"
+
+msgctxt "14451"
+msgid ""
+"ああ。遥は大切な……　家族だ。\n"
+"愛しく思うのは当たり前だろう？"
+msgstr ""
+"Oh. Haruka is important ... a family. Isn't\n"
+"it natural to be dear?"
+
+msgctxt "14514"
+msgid "え？　家族？"
+msgstr "e? family?"
+
+msgctxt "14527"
+msgid "ああ。……何かおかしいか？"
+msgstr "Oh. ...... Is something wrong?"
+
+msgctxt "14554"
+msgid ""
+"い、いいえいいえ！\n"
+"ふ……　ふふふ。そっかそっか♪"
+msgstr "Yes, no no! hehehehe. I see ♪"
+
+msgctxt "14605"
+msgid ""
+"……？\n"
+"話ってのは、それだけか？"
+msgstr "……? Is that all you're talking about?"
+
+msgctxt "14638"
+msgid ""
+"え？　あ、はい！\n"
+"ふんふんふーん♪"
+msgstr "e? Oh, yes! Hmmmmmm ♪"
+
+msgctxt "14673"
+msgid "…………？"
+msgstr "…………？"
+
+msgctxt "14684"
+msgid "俺は遥を……　食べてしまいたいと思っている！"
+msgstr "I want to eat Haruka ...!"
+
+msgctxt "14729"
+msgid "!!　……た、食べちゃいたい、ですか？"
+msgstr "!! …… Do you want to eat it?"
+
+msgctxt "14766"
+msgid ""
+"ああ。遥は大切な……　家族だ。\n"
+"食べてしまいたいくらい可愛いと思うのは、\n"
+"当たり前だろう？"
+msgstr ""
+"Oh. Haruka is important ... a family. Isn't\n"
+"it natural to think that it's so cute\n"
+"that you want to eat it?"
+
+msgctxt "14857"
+msgid "え？　家族？"
+msgstr "e? family?"
+
+msgctxt "14870"
+msgid "ああ。……何かおかしいか？"
+msgstr "Oh. ...... Is something wrong?"
+
+msgctxt "14897"
+msgid ""
+"い、いいえいいえ！\n"
+"ふ……　ふふふ。そっかそっか♪"
+msgstr "Yes, no no! hehehehe. I see ♪"
+
+msgctxt "14948"
+msgid ""
+"……？\n"
+"話ってのは、それだけか？"
+msgstr "……? Is that all you're talking about?"
+
+msgctxt "14981"
+msgid ""
+"え？　あ、はい！\n"
+"ふんふんふーん♪"
+msgstr "e? Oh, yes! Hmmmmmm ♪"
+
+msgctxt "15016"
+msgid "…………？"
+msgstr "…………？"
+
+msgctxt "15027"
+msgid "俺は遥を……　家族だと思っている。"
+msgstr "I think Haruka is ... a family."
+
+msgctxt "15062"
+msgid "え？　家族？"
+msgstr "e? family?"
+
+msgctxt "15075"
+msgid "ああ。……何かおかしいか？"
+msgstr "Oh. ...... Is something wrong?"
+
+msgctxt "15102"
+msgid ""
+"い、いいえいいえ！\n"
+"ふ……　ふふふ。そっかそっか♪"
+msgstr "Yes, no no! hehehehe. I see ♪"
+
+msgctxt "15153"
+msgid ""
+"……？\n"
+"話ってのは、それだけか？"
+msgstr "……? Is that all you're talking about?"
+
+msgctxt "15186"
+msgid ""
+"え？　あ、はい！\n"
+"ふんふんふーん♪"
+msgstr "e? Oh, yes! Hmmmmmm ♪"
+
+msgctxt "15221"
+msgid "…………？"
+msgstr "…………？"
+
+msgctxt "15232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15233"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15234"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15236"
+msgid ""
+"あの……　今日は色々とすみませんでした。\n"
+"私、変なこと聞いちゃって。"
+msgstr ""
+"Um ... I'm sorry for everything today. I\n"
+"heard something strange."
+
+msgctxt "15305"
+msgid "いや。かまわんさ。"
+msgstr "Disagreeable. I don't care."
+
+msgctxt "15324"
+msgid ""
+"あの……　これはお詫びと言っては何なんですけど、\n"
+"どうぞ……"
+msgstr ""
+"Um ... What is this apology, but please\n"
+"..."
+
+msgctxt "15385"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15386"
+msgid "「<Color:8>あかりのおむすび<Color:Default>」を貰った。"
+msgstr ""
+"\"<Color:8> Akari's rice ball<Color:Default>\n"
+"I got it."
+
+msgctxt "15441"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15442"
+msgid "これは……"
+msgstr "is this……"
+
+msgctxt "15453"
+msgid ""
+"斎藤さんのために、作ったんです。\n"
+"料理はあまり得意じゃないんですけど……\n"
+"一生懸命、想いをこめて作ったので！"
+msgstr ""
+"I made it for Mr. Saito. I'm not very good\n"
+"at cooking, but ... I made it with all\n"
+"my thoughts!"
+
+msgctxt "15562"
+msgid "そうか。ありがたく頂戴する。"
+msgstr "Really. Thank you."
+
+msgctxt "15591"
+msgid "えへへへ……"
+msgstr "Ehehehe ……"
+
+msgctxt "15604"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15605"
+msgid ""
+"あ！　ちょっと、あかりちゃん！\n"
+"斎藤さんに何あげたの？　ねぇねぇ！"
+msgstr ""
+"Ah! Hey, Akari-chan! What did you give to\n"
+"Mr. Saito? Hey!"
+
+msgctxt "15672"
+msgid "秘密です。ふふふ……"
+msgstr "Is a secret. Fufufu ……"
+
+msgctxt "15693"
+msgid ""
+"秘密って……　教えてよ！\n"
+"ねぇねぇ！　何あげたの？"
+msgstr ""
+"The secret ... Tell me! Hey! What did you\n"
+"give"
+
+msgctxt "15744"
+msgid "だから秘密ですって……"
+msgstr "That's why it's a secret ..."
+
+msgctxt "15767"
+msgid ""
+"硬いこと言わないで教えてよー。\n"
+"ねぇねぇ。あかりちゃん。ねぇねぇ！"
+msgstr ""
+"Please tell me without saying anything hard.\n"
+"Hey. Akari-chan. Hey!"
+
+msgctxt "15834"
+msgid "うるさいっ！"
+msgstr "Noisy!"
+
+msgctxt "15847"
+msgid "ひいいっ！"
+msgstr "Good!"
+
+msgctxt "15858"
+msgid ""
+"斎藤さん。大切に食べてくださいね。\n"
+"それと……　これからも、\n"
+"たまには声をかけてもらえたら、うれしいです。"
+msgstr ""
+"Mr. Saito. Please eat carefully. And ...\n"
+"I'd be happy if you could continue to\n"
+"talk to me from time to time."
+
+msgctxt "15965"
+msgid "ああ。これからもよろしくな。"
+msgstr "Oh. I look forward to working with you."
+
+msgctxt "15994"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15995"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15996"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "15997"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "18208"
+msgid "神主"
+msgstr "Shinto priest"
+
+msgctxt "18213"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "18223"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "18228"
+msgid "0"
+msgstr ""
+
+msgctxt "18230"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "18239"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "18250"
+msgid "あかり"
+msgstr "light"
+
+msgctxt "18257"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "18266"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "18276"
+msgid "kaiwabgm_sub_apathy_01"
+msgstr ""
+
+msgctxt "18299"
+msgid "愛しく思っている"
+msgstr "I love you"
+
+msgctxt "18316"
+msgid "食べちゃいたいと思っている"
+msgstr "I want to eat"
+
+msgctxt "18343"
+msgid "家族だと思っている"
+msgstr "I think it's a family"
+
+msgctxt "18362"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "18373"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "18381"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "18392"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "18402"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "18414"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "18426"
+msgid "dummy"
+msgstr ""

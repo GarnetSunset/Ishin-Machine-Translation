@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "404"
+msgid "ご隠居されてから１年"
+msgstr "1 year since you retired"
+
+msgctxt "548"
+msgid "優雅なものですな"
+msgstr "It's graceful"
+
+msgctxt "692"
+msgid ""
+"あなたが内国事務総裁を\n"
+"辞任されてからというもの……"
+msgstr ""
+"Since you resigned as domestic secretary-general\n"
+"..."
+
+msgctxt "836"
+msgid ""
+"こっちは　政府の仕事を山ほど押し付けられて\n"
+"てんやわんやでね"
+msgstr "This is a lot of government work."
+
+msgctxt "980"
+msgid "なかなか　挨拶に伺えませんでした"
+msgstr "I couldn't quite come to the greeting"
+
+msgctxt "1124"
+msgid "あの坂本龍馬が果てた後"
+msgstr "After that Ryoma Sakamoto is dead"
+
+msgctxt "1268"
+msgid "あなたは"
+msgstr "do you"
+
+msgctxt "1412"
+msgid ""
+"軍事都市と化していた\n"
+"土佐の暴走を食い止め"
+msgstr ""
+"Stop the runaway of Tosa, which had become\n"
+"a military city"
+
+msgctxt "1556"
+msgid "日本の新しい国造りを陰で支えてくれた"
+msgstr ""
+"He supported Japan's new nation-building\n"
+"behind the scenes"
+
+msgctxt "1700"
+msgid ""
+"あなたは　坂本龍馬と並ぶ\n"
+"明治維新の功労者です"
+msgstr ""
+"You are a meritorious person of the Meiji\n"
+"Restoration along with Ryoma Sakamoto"
+
+msgctxt "1844"
+msgid "山内容堂先生"
+msgstr "Mr. Mountain Content Hall"
+
+msgctxt "1988"
+msgid "そうでした"
+msgstr "Was so"
+
+msgctxt "2132"
+msgid "もうその名を騙る必要もないんでしたよね？"
+msgstr ""
+"You didn't have to fool the name anymore,\n"
+"right?"
+
+msgctxt "2276"
+msgid ""
+"私も新堀に桂　木戸と\n"
+"名前をコロコロ変えてきましたけど"
+msgstr ""
+"I also changed the name to Katsura Kido\n"
+"in Shinbori."
+
+msgctxt "2420"
+msgid ""
+"あなたほど\n"
+"他人の人生を生きた人はいないでしょう"
+msgstr ""
+"No one has lived the life of another person\n"
+"as much as you"
+
+msgctxt "2564"
+msgid "名を変え　立場を変え"
+msgstr "Change name, change position"
+
+msgctxt "2708"
+msgid "いくら他人の人生を生きようと"
+msgstr ""
+"No matter how much you live the life of\n"
+"others"
+
+msgctxt "2852"
+msgid "酒の趣味だけは変わらないもんなんですね"
+msgstr "Only the hobby of sake does not change."
+
+msgctxt "2996"
+msgid "武市さん"
+msgstr "Takeichi"
+
+msgctxt "3140"
+msgid "あー……"
+msgstr "Ah……"
+
+msgctxt "3284"
+msgid "あーちくしょー！"
+msgstr "Ahhhhh!"
+
+msgctxt "3428"
+msgid "あーら　先生また失敗どすか？"
+msgstr "Ah-sensei, will you fail again?"
+
+msgctxt "3572"
+msgid "いつになったら書き終わることやら"
+msgstr "When will I finish writing"
+
+msgctxt "3716"
+msgid "んなこと言ったってしゃあないだろ"
+msgstr "You didn't say that"
+
+msgctxt "3860"
+msgid "２人分の人生を１つにまとめてんだ"
+msgstr "I'm putting together the lives of two people"
+
+msgctxt "4004"
+msgid "上手く綺麗に繋げろっつー方が難しいや"
+msgstr "It's difficult to connect well and neatly"
+
+msgctxt "4148"
+msgid "あら　また八つ当たりどすか？"
+msgstr "Oh, do you want to hit eight again?"
+
+msgctxt "4292"
+msgid "坂本はんの話を書きたいから"
+msgstr ""
+"Because I want to write the story of Han\n"
+"Sakamoto"
+
+msgctxt "4436"
+msgid "寺田屋の部屋をタダで貸せ言わはったのは"
+msgstr "I was told to rent a Teradaya room for free"
+
+msgctxt "4580"
+msgid "どこの誰だったか"
+msgstr "Who was where"
+
+msgctxt "4724"
+msgid "まぶしいなあ"
+msgstr "It's dazzling"
+
+msgctxt "4868"
+msgid "開けないでくれよ　集中できねえ"
+msgstr "Don't open it, you can't concentrate"
+
+msgctxt "5012"
+msgid "綺麗な日本晴れやねえ"
+msgstr "Beautiful Japan sunny"
+
+msgctxt "5156"
+msgid "今頃"
+msgstr "Around this time"
+
+msgctxt "5300"
+msgid "阿蘇も晴れとるんやろか"
+msgstr "Aso is also sunny"
+
+msgctxt "5444"
+msgid "あぁ"
+msgstr "Ahh"
+
+msgctxt "5588"
+msgid ""
+"そういや行ってんだっけか\n"
+"あいつらが"
+msgstr "I wonder if they went"
+
+msgctxt "5732"
+msgid "ええ"
+msgstr "Yeah"
+
+msgctxt "5876"
+msgid "結婚できひん代わりに"
+msgstr "Instead of getting married"
+
+msgctxt "6020"
+msgid "想い出だけは作りに行こうってなぁ"
+msgstr "Let's go make only memories"
+
+msgctxt "6164"
+msgid "きっとあの２人には"
+msgstr "I'm sure for those two"
+
+msgctxt "6308"
+msgid ""
+"この空が\n"
+"誰よりも綺麗に見えるんやろうねぇ"
+msgstr ""
+"This sky looks more beautiful than anyone\n"
+"else"
+
+msgctxt "6452"
+msgid "大丈夫か？"
+msgstr "Are you okay?"
+
+msgctxt "6596"
+msgid "うん"
+msgstr "Yup"
+
+msgctxt "6740"
+msgid "綺麗やね"
+msgstr "It's beautiful"
+
+msgctxt "6884"
+msgid "ああ"
+msgstr "Oh"
+
+msgctxt "7028"
+msgid ""
+"これからウチら　どれだけ一緒の景色\n"
+"見られるんやろ"
+msgstr ""
+"How much can we see the scenery together\n"
+"from now on?"
+
+msgctxt "7172"
+msgid "ずっとさ"
+msgstr "Forever"
+
+msgctxt "7316"
+msgid "ずっと……"
+msgstr "Forever ..."
+
+msgctxt "7460"
+msgid "なあ　お前"
+msgstr "Hey you"
+
+msgctxt "7604"
+msgid "将来やりたいことはあるのか？"
+msgstr ""
+"Is there anything you want to do in the\n"
+"future?"
+
+msgctxt "7748"
+msgid "お父さんのやってる仕事とかかなあ"
+msgstr "I wonder if the work that my father is doing"
+
+msgctxt "7892"
+msgid "本当にそれがお前のやりたいことなのか？"
+msgstr "Is that really what you want to do?"
+
+msgctxt "8036"
+msgid "分かんない"
+msgstr "I do not know"
+
+msgctxt "8180"
+msgid "まだ分からないか"
+msgstr "Don't know yet"
+
+msgctxt "8324"
+msgid ""
+"分からないうちは\n"
+"俺の背中を見てついてこい"
+msgstr "Look at my back and follow me before I know"
+
+msgctxt "8468"
+msgid ""
+"でもいつか　自分のやりたいこと\n"
+"自分の進むべき道がわかる日が来る"
+msgstr ""
+"But one day, the day will come when I will\n"
+"know what I want to do and the way I\n"
+"should go"
+
+msgctxt "8612"
+msgid "その時は　迷わずその道を進め"
+msgstr ""
+"At that time, proceed on that path without\n"
+"hesitation"
+
+msgctxt "8756"
+msgid "分かったか？"
+msgstr "Did you understand?"
+
+msgctxt "8900"
+msgid "うん"
+msgstr "Yup"
+
+msgctxt "9044"
+msgid "お父さんも昔そうしたの？"
+msgstr "Did your dad do that a long time ago?"
+
+msgctxt "9188"
+msgid "ああ　お父さんだけじゃない"
+msgstr "Oh dad isn't the only one"
+
+msgctxt "9332"
+msgid "この国の人間は"
+msgstr "The people in this country"
+
+msgctxt "9476"
+msgid ""
+"みんなあの人の背中に導かれて\n"
+"強く生きてきたんだからな"
+msgstr ""
+"Because everyone was guided by that person's\n"
+"back and lived strongly."

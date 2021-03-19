@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "1748"
+msgid "どの服に着替えますか？"
+msgstr "Which clothes do you change into?"
+
+msgctxt "1771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1772"
+msgid "普段着に着替えるか……"
+msgstr "Do you change into everyday clothes ..."
+
+msgctxt "1795"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1796"
+msgid "新選組の装いにするか……"
+msgstr ""
+"Do you want to dress up as a Shinsengumi\n"
+"..."
+
+msgctxt "1821"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1822"
+msgid "新選組～炎～の装いにするか……"
+msgstr "Do you want to dress up as Shinsengumi-flame?"
+
+msgctxt "1853"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1854"
+msgid "新選組～金～の装いにするか……"
+msgstr "Do you want to dress as Shinsengumi-Kim?"
+
+msgctxt "1885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1886"
+msgid "新選組～大漁～の装いにするか……"
+msgstr ""
+"Should I dress up as a Shinsengumi-big catch\n"
+"..."
+
+msgctxt "1919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1952"
+msgid "普段着"
+msgstr "Everyday wear"
+
+msgctxt "1959"
+msgid "新選組"
+msgstr "Shinsengumi"
+
+msgctxt "1966"
+msgid "新選組～ 炎 ～"
+msgstr "Shinsengumi~ Yan~"
+
+msgctxt "1981"
+msgid "新選組～ 金 ～"
+msgstr "Shinsengumi~ Jin~"
+
+msgctxt "1996"
+msgid "新選組～大漁～"
+msgstr "Shinsengumi-Big catch-"
+
+msgctxt "2011"
+msgid "やめる"
+msgstr "Stop"
+
+msgctxt "2018"
+msgid "龍馬"
+msgstr "Ryoma"

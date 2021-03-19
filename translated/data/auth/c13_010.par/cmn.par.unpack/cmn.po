@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "149404"
+msgid "さあて　これからどないするんや歳チャン"
+msgstr "Come on"
+
+msgctxt "149548"
+msgid "隊士のほとんどは伊東に付いて行った"
+msgstr "Most of the soldiers followed Ito"
+
+msgctxt "149692"
+msgid ""
+"こうなったらもう\n"
+"新選組としてできることはない"
+msgstr ""
+"If this happens, there is nothing that can\n"
+"be done as a Shinsengumi anymore"
+
+msgctxt "149836"
+msgid ""
+"しかしまさか\n"
+"あの平助までが俺らを裏切るとはなあ"
+msgstr ""
+"But I don't think even Heisuke betrayed\n"
+"us."
+
+msgctxt "149980"
+msgid "土方"
+msgstr "Earthwork"
+
+msgctxt "150124"
+msgid "ひとつ聞きたいことがある"
+msgstr "I have one question to ask"
+
+msgctxt "150268"
+msgid "何だ"
+msgstr "What"
+
+msgctxt "150412"
+msgid ""
+"近藤さんが\n"
+"あんたに残した“策”ってのは"
+msgstr ""
+"What is the \"measure\" that Mr. Kondo left\n"
+"for you?"
+
+msgctxt "150556"
+msgid ""
+"裏切り者をあぶり出した\n"
+"あの幹部会のことだったのか？"
+msgstr "Was it the presidium that exposed the traitor?"
+
+msgctxt "150700"
+msgid "そうだが"
+msgstr "That's right"
+
+msgctxt "150844"
+msgid ""
+"なんや　一（はじめ）ちゃん\n"
+"なんか気になるんか？"
+msgstr "Do you care about Ichi (Hajime) -chan?"
+
+msgctxt "150988"
+msgid "いや"
+msgstr "Disagreeable"
+
+msgctxt "151132"
+msgid ""
+"伊東はもともと\n"
+"野心を隠そうともしていなかった男だ"
+msgstr ""
+"Ito is a man who originally didn't try to\n"
+"hide his ambitions"
+
+msgctxt "151276"
+msgid "近藤さんなら伊東の裏切りくらい"
+msgstr "Kondo-san is about the betrayal of Ito"
+
+msgctxt "151420"
+msgid "とっくに見抜いていたんじゃねえかと思う"
+msgstr "I think I had already spotted it"
+
+msgctxt "151564"
+msgid "まあ　それはそうやが"
+msgstr "Well that's right"
+
+msgctxt "151708"
+msgid "近藤さんの“最期の策”ってのは"
+msgstr "What is Mr. Kondo's \"final measure\"?"
+
+msgctxt "151852"
+msgid "まだ他にあるんじゃないのか？"
+msgstr "Isn't there still another?"
+
+msgctxt "151996"
+msgid "どないやねん歳チャン"
+msgstr "Don't you think"
+
+msgctxt "152140"
+msgid ""
+"敵を欺くには身内からと思っていたが\n"
+"致し方ない"
+msgstr ""
+"I thought it was from my relatives to deceive\n"
+"the enemy, but I can't help it"
+
+msgctxt "152284"
+msgid "入れ"
+msgstr "Get in"
+
+msgctxt "152428"
+msgid "ちょっと早くないすか土方さん"
+msgstr "A little early, Mr. Hijikata"
+
+msgctxt "152572"
+msgid ""
+"もうちょっと\n"
+"引っ張ってくれてもよかったのに"
+msgstr "I wish I could pull it a little more"
+
+msgctxt "152716"
+msgid "平助"
+msgstr "Heisuke"
+
+msgctxt "152860"
+msgid "斎藤　いや坂本君の読み通りだ"
+msgstr "Saito No, it's exactly what Sakamoto read"
+
+msgctxt "153004"
+msgid "近藤さんの最期の策"
+msgstr "Mr. Kondo's final plan"
+
+msgctxt "153148"
+msgid "それは伊東を使い……"
+msgstr "It uses Ito ..."
+
+msgctxt "153292"
+msgid "“もう一人の坂本龍馬”をあぶり出すことにある"
+msgstr "To reveal \"another Ryoma Sakamoto\""
+
+msgctxt "153436"
+msgid "“もう一人の坂本龍馬”を？"
+msgstr "\"Another Ryoma Sakamoto\"?"
+
+msgctxt "153580"
+msgid "どういうことだ"
+msgstr "What does it mean"

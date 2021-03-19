@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "247916"
+msgid "お前は"
+msgstr "You are"
+
+msgctxt "248060"
+msgid "以蔵……！"
+msgstr "Izo ……!"
+
+msgctxt "248204"
+msgid "久しぶりです　筆頭"
+msgstr "It's been a long time"
+
+msgctxt "248348"
+msgid ""
+"お前が\n"
+"“もう一人の坂本龍馬”だったのか？"
+msgstr "Was you \"another Ryoma Sakamoto\"?"
+
+msgctxt "248492"
+msgid "その顔は　ほっとしたってところですね"
+msgstr "That face is a relief"
+
+msgctxt "248636"
+msgid "何？"
+msgstr "what?"
+
+msgctxt "248780"
+msgid ""
+"あなたはここに　武市先生が待っていると\n"
+"思っていたんじゃありませんか？"
+msgstr ""
+"Didn't you think that Professor Takeichi\n"
+"was waiting here?"
+
+msgctxt "248924"
+msgid "お前の目的はなんだ以蔵"
+msgstr "What is your purpose?"
+
+msgctxt "249068"
+msgid "どうして俺の名を騙りこんなことをしている"
+msgstr "Why are you doing this by deceiving my name"
+
+msgctxt "249212"
+msgid "どうして武市を裏切ったんだ"
+msgstr "Why did you betray Takeshi"
+
+msgctxt "249356"
+msgid "武市とお前の間には……"
+msgstr "Between Takeichi and you ..."
+
+msgctxt "249500"
+msgid "深い絆があったんじゃないのか！"
+msgstr "I think there was a deep bond!"
+
+msgctxt "249644"
+msgid "裏切った？"
+msgstr "betrayed?"
+
+msgctxt "249788"
+msgid "私が？"
+msgstr "I?"
+
+msgctxt "249932"
+msgid "ああそうだ！"
+msgstr "Oh yeah!"
+
+msgctxt "250076"
+msgid ""
+"新選組に捕まった後\n"
+"土佐に戻ったお前の自供が原因で……"
+msgstr ""
+"Due to your confession returning to Tosa\n"
+"after being caught by the Shinsengumi\n"
+"..."
+
+msgctxt "250220"
+msgid "武市は切腹させられた"
+msgstr "Takeshi was hungry"
+
+msgctxt "250364"
+msgid "だがあの時……"
+msgstr "But at that time ..."
+
+msgctxt "250508"
+msgid ""
+"新選組に捕まることも\n"
+"その後のことも全て……"
+msgstr ""
+"Everything after being caught by the Shinsengumi\n"
+"..."
+
+msgctxt "250652"
+msgid ""
+"最初からお前は見越した上で\n"
+"動いていたんじゃないのか！？"
+msgstr ""
+"I think you were moving in anticipation\n"
+"from the beginning! ??"
+
+msgctxt "250796"
+msgid ""
+"それじゃあなたは\n"
+"私が武市さんを山内容堂に売り……"
+msgstr ""
+"Then you sell Takeichi-san to Yamauchi Toyoshige\n"
+"..."
+
+msgctxt "250940"
+msgid "こんな計画を仕掛けたと"
+msgstr "I said that I made such a plan"
+
+msgctxt "251084"
+msgid "そう思ってるということですか？"
+msgstr "Do you think so?"
+
+msgctxt "251228"
+msgid "ああ"
+msgstr "Oh"
+
+msgctxt "251372"
+msgid "本当に？"
+msgstr "Really?"
+
+msgctxt "251516"
+msgid "何が言いたい！"
+msgstr "What do you want to say!"
+
+msgctxt "251660"
+msgid "あなたは嘘をついている"
+msgstr "You are lying"
+
+msgctxt "251804"
+msgid ""
+"心の底では武市さんが\n"
+"“もう一人の坂本龍馬”だと確信しながら……"
+msgstr ""
+"At the bottom of my heart, I'm convinced\n"
+"that Mr. Takeichi is \"another Ryoma Sakamoto\"\n"
+"..."
+
+msgctxt "251948"
+msgid "それでもなお"
+msgstr "Still, yet, furthermore"
+
+msgctxt "252092"
+msgid ""
+"武市さんがあなたを裏切ったという\n"
+"事実を認めたくない"
+msgstr ""
+"I don't want to admit the fact that Mr.\n"
+"Takeichi betrayed you"
+
+msgctxt "252236"
+msgid "そうなんでしょう？"
+msgstr "Is that so?"
+
+msgctxt "252380"
+msgid "あなたは怖がっている"
+msgstr "You are scared"
+
+msgctxt "252524"
+msgid "真実を知ることを"
+msgstr "To know the truth"
+
+msgctxt "252668"
+msgid "以蔵……"
+msgstr "Izo ……"
+
+msgctxt "252812"
+msgid "決着をつけましょう"
+msgstr "Let's settle"
+
+msgctxt "252956"
+msgid ""
+"私は斎藤一じゃない　本物の「坂本龍馬」と\n"
+"闘える日をずっと待っていた"
+msgstr ""
+"I've been waiting for the day when I can\n"
+"fight the real \"Ryoma Sakamoto\" who is\n"
+"not Saito Hajime"
+
+msgctxt "253100"
+msgid ""
+"私はこうして\n"
+"あなたと闘えればそれでよかった"
+msgstr "I wish I could fight you like this"
+
+msgctxt "253244"
+msgid "“もう一人の坂本龍馬”に命令され"
+msgstr "Ordered by \"another Ryoma Sakamoto\""
+
+msgctxt "253388"
+msgid ""
+"近藤勇を殺し\n"
+"こんな状況を作り出したのはそのためです"
+msgstr ""
+"That is why I killed Isami Kondo and created\n"
+"such a situation."
+
+msgctxt "253532"
+msgid "勝負をすれば"
+msgstr "If you play a game"
+
+msgctxt "253676"
+msgid "全てを認めるということか"
+msgstr "To admit everything"
+
+msgctxt "253820"
+msgid "ええ"
+msgstr "Yeah"
+
+msgctxt "253964"
+msgid "悪い条件ではないはずです"
+msgstr "Should not be bad conditions"
+
+msgctxt "254108"
+msgid "いいだろう"
+msgstr "All right"
+
+msgctxt "254252"
+msgid "これで終わりだ以蔵"
+msgstr "This is the end of Izo"
+
+msgctxt "254396"
+msgid "俺は"
+msgstr "I am"
+
+msgctxt "254540"
+msgid "人斬り以蔵としてのお前の人生に……"
+msgstr "In your life as Izo Izo ..."
+
+msgctxt "254684"
+msgid "終止符を打ってやる"
+msgstr "I'll put an end"
+
+msgctxt "254828"
+msgid "来い……！"
+msgstr "Come on ...!"
+
+msgctxt "254972"
+msgid "以蔵！！"
+msgstr "Izo! !!"
+
+msgctxt "255116"
+msgid "行くぞ"
+msgstr "let's go"
+
+msgctxt "255260"
+msgid "龍馬！！"
+msgstr "Ryoma! !"

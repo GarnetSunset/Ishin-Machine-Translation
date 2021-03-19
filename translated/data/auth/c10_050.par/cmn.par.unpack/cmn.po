@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "234060"
+msgid "どや？　誰かおるか？"
+msgstr "How? Is there anyone?"
+
+msgctxt "234204"
+msgid "誰？　誰かおるの？"
+msgstr "Who? Is there anyone?"
+
+msgctxt "234348"
+msgid "俺だ　おりょう"
+msgstr "I'm Oryo"
+
+msgctxt "234492"
+msgid ""
+"一（はじめ）さん？\n"
+"そんなとこで何してんの！？"
+msgstr ""
+"Mr. Ichi (beginning)? What are you doing\n"
+"in such a place! ??"
+
+msgctxt "234636"
+msgid "聞いてくれ"
+msgstr "Listen to me"
+
+msgctxt "234780"
+msgid "今この宿を新選組が囲んでいる"
+msgstr "Shinsengumi surrounds this inn now"
+
+msgctxt "234924"
+msgid "え？"
+msgstr "e?"
+
+msgctxt "235068"
+msgid "「坂本龍馬」って客が来ているな？"
+msgstr "Is there a customer called \"Ryoma Sakamoto\"?"
+
+msgctxt "235212"
+msgid "二階の客間か？"
+msgstr "Is it the guest room on the second floor?"
+
+msgctxt "235356"
+msgid "せやけど　何やの？"
+msgstr "But what is it?"
+
+msgctxt "235500"
+msgid "もうすぐ新選組がここへ突入してくる"
+msgstr "Shinsengumi is coming here soon"
+
+msgctxt "235644"
+msgid ""
+"お前は静かに女将さんたちを連れて\n"
+"寺田屋から逃げろ"
+msgstr ""
+"You should quietly take the landlady and\n"
+"escape from Teradaya"
+
+msgctxt "235788"
+msgid "坂本さんを　新選組が？"
+msgstr "Is Sakamoto-san a Shinsengumi?"
+
+msgctxt "235932"
+msgid "詳しい話は後だ　急げ"
+msgstr "I'll talk more about it later."
+
+msgctxt "236076"
+msgid "行ったようやな"
+msgstr "I think I went"
+
+msgctxt "236220"
+msgid "よし　そしたら行こうか一（はじめ）ちゃん"
+msgstr "Alright then let's go Kaichi (Hajime) -chan"
+
+msgctxt "236364"
+msgid "お逃げください！　坂本様！！"
+msgstr "Please run away! Mr. Sakamoto! !!"
+
+msgctxt "236508"
+msgid ""
+"新選組が来ます！\n"
+"早う　ここから逃げて！"
+msgstr ""
+"Shinsengumi is coming! Escape from here\n"
+"soon!"
+
+msgctxt "236652"
+msgid ""
+"あれはおりょうの声\n"
+"どういうことだ！？"
+msgstr "What does that mean? ??"
+
+msgctxt "236796"
+msgid "迷うてるヒマはない"
+msgstr "There is no time to get lost"
+
+msgctxt "236940"
+msgid "もう行くしかないで！"
+msgstr "I have no choice but to go!"
+
+msgctxt "237084"
+msgid "新選組じゃあ！"
+msgstr "Shinsengumi!"
+
+msgctxt "237228"
+msgid "踏み込んできよった！"
+msgstr "I've stepped in!"
+
+msgctxt "237372"
+msgid "オモロなってきたやないか"
+msgstr "Isn't it becoming omoro?"
+
+msgctxt "237516"
+msgid "行くで　一（はじめ）ちゃん！"
+msgstr "Let's go, Ichi (Hajime) -chan!"
+
+msgctxt "237660"
+msgid "ああ！"
+msgstr "Oh!"

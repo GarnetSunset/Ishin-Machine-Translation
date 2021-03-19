@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2996"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2997"
+msgid "一（はじめ）ちゃん。こっちや。"
+msgstr "Ichi (beginning) -chan. This one."
+
+msgctxt "3028"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3029"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3030"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3031"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3032"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3033"
+msgid "……屋敷の中の状況は？"
+msgstr ""
+"...... What is the situation inside the\n"
+"mansion?"
+
+msgctxt "3056"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3057"
+msgid ""
+"ああ、勤王派の志士たちは酒飲んで\n"
+"ドンチャン騒ぎや。"
+msgstr ""
+"Ah, the Qin Wang scholars drank and made\n"
+"a fuss about Donchan."
+
+msgctxt "3110"
+msgid ""
+"ヒヒ、これから踏み込まれるのも知らんと……\n"
+"アホな連中や。"
+msgstr ""
+"Baboon, I don't know if I'm going to step\n"
+"on ... stupid guys."
+
+msgctxt "3169"
+msgid "人数は？"
+msgstr "How many people?"
+
+msgctxt "3178"
+msgid ""
+"んなもん、どうでもええやろ。\n"
+"なんぼおってもワシらは押し込んで\n"
+"全員斬りまくるだけや。"
+msgstr ""
+"I don't care. No matter what, we just push\n"
+"it in and slash all of them."
+
+msgctxt "3265"
+msgid ""
+"新選組に入った甲斐があったな？\n"
+"一（はじめ）ちゃんも遠慮せんと好きなだけ斬れや。"
+msgstr ""
+"Was it worth joining the Shinsengumi? Ichi\n"
+"(Hajime) can cut as much as he wants\n"
+"without hesitation."
+
+msgctxt "3346"
+msgid ""
+"……あんたが新選組にいるのは\n"
+"いくらでも人が斬れるからってわけか？"
+msgstr ""
+"...... Is it because you can cut as many\n"
+"people as you like in the Shinsengumi?"
+
+msgctxt "3413"
+msgid "ヒヒ、他になにがあるっちゅうねん。"
+msgstr "Baboon, what else is there?"
+
+msgctxt "3448"
+msgid "さあな……"
+msgstr "I do not know……"
+
+msgctxt "3459"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "3460"
+msgid ""
+"（ここが千石邸か……\n"
+"　なるほど、大した構えだ）"
+msgstr ""
+"(Is this the Sengoku residence ... I see,\n"
+"it's a big deal)"
+
+msgctxt "3509"
+msgid ""
+"（討ち入りは夜だったな。\n"
+"　寺田屋で時間を潰すか）"
+msgstr ""
+"(The attack was at night. Do you want to\n"
+"kill time at Teradaya?)"
+
+msgctxt "3560"
+msgid ""
+"（討ち入りは夜だったな。\n"
+"　寺田屋で時間を潰すか）"
+msgstr ""
+"(The attack was at night. Do you want to\n"
+"kill time at Teradaya?)"
+
+msgctxt "4216"
+msgid "沖田"
+msgstr "Okita"
+
+msgctxt "4221"
+msgid "majima_c08_060_01b"
+msgstr ""
+
+msgctxt "4240"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "4262"
+msgid "M_BUS_TLK_stand_oki_en"
+msgstr ""
+
+msgctxt "4285"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "4290"
+msgid "kiryu_c08_060_01"
+msgstr ""
+
+msgctxt "4307"
+msgid "majima_c08_060_02b"
+msgstr ""
+
+msgctxt "4326"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4335"
+msgid "majima_c08_060_02bb"
+msgstr ""
+
+msgctxt "4355"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4366"
+msgid "kiryu_c08_060_02"
+msgstr ""
+
+msgctxt "4383"
+msgid "majima_c08_060_03b"
+msgstr ""
+
+msgctxt "4402"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4413"
+msgid "majima_c08_060_04bb"
+msgstr ""
+
+msgctxt "4433"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4444"
+msgid "kiryu_c08_060_03"
+msgstr ""
+
+msgctxt "4461"
+msgid "majima_c08_060_05b"
+msgstr ""
+
+msgctxt "4480"
+msgid "kiryu_c08_060_04"
+msgstr ""
+
+msgctxt "4497"
+msgid "Talk_No"
+msgstr ""

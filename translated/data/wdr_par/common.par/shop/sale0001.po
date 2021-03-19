@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "44"
+msgid "無料"
+msgstr "free"
+
+msgctxt "49"
+msgid "所持品"
+msgstr "What to bring"
+
+msgctxt "56"
+msgid "所持数"
+msgstr "The number of possession"
+
+msgctxt "63"
+msgid "（売れる物を持っていないな……）"
+msgstr "(I don't have anything to sell ...)"
+
+msgctxt "96"
+msgid "（何も選んでいない……）"
+msgstr "(I haven't selected anything ...)"
+
+msgctxt "121"
+msgid "詳細"
+msgstr "Details"
+
+msgctxt "126"
+msgid "<Sign:1>前へ"
+msgstr "<Sign:1>Forward"
+
+msgctxt "139"
+msgid "<Sign:1>次へ %d/%d"
+msgstr "<Sign:1>Next% d /% d"
+
+msgctxt "158"
+msgid "%sてとこですね。"
+msgstr "It's% s."
+
+msgctxt "175"
+msgid "こんな貴重なもの、よろしいのですか？"
+msgstr "Are you sure you want such a precious thing?"

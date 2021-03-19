@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "413176"
+msgid "来たな"
+msgstr "I'm here"
+
+msgctxt "413320"
+msgid "こちらへ"
+msgstr "This way"
+
+msgctxt "413464"
+msgid "総司"
+msgstr "Souji"
+
+msgctxt "413608"
+msgid "あぁ？"
+msgstr "Ahh?"
+
+msgctxt "413752"
+msgid "はいはい"
+msgstr "Yes yes"
+
+msgctxt "413896"
+msgid "揃ったな"
+msgstr "I got it"
+
+msgctxt "414040"
+msgid "皆"
+msgstr "all"
+
+msgctxt "414184"
+msgid "三番隊隊長就任の件は聞いているな？"
+msgstr ""
+"Have you heard about the appointment of\n"
+"the third captain?"
+
+msgctxt "414328"
+msgid "斎藤君"
+msgstr "Saito"
+
+msgctxt "414472"
+msgid ""
+"三番隊隊長の\n"
+"斎藤一です"
+msgstr ""
+"I ’m Hajime Saito, the captain of the third\n"
+"division."
+
+msgctxt "414616"
+msgid "以後　お見知りおきを"
+msgstr "After that, what you know"
+
+msgctxt "414760"
+msgid "三番隊隊長だ？"
+msgstr "Are you the captain of the third division?"
+
+msgctxt "414904"
+msgid ""
+"こいつ昨日入隊したばかりだって\n"
+"話じゃねえか"
+msgstr ""
+"Isn't it the story that this guy just joined\n"
+"the army yesterday?"
+
+msgctxt "415048"
+msgid ""
+"そんな奴に隊長の座\n"
+"任せちまっていいんですかね？"
+msgstr ""
+"Is it okay to leave the captain to such\n"
+"a guy?"
+
+msgctxt "415192"
+msgid "斎藤は俺と総司が立ち合うて実力を認めた"
+msgstr ""
+"Saito acknowledged his ability as I and\n"
+"Souji witnessed"
+
+msgctxt "415336"
+msgid "それやったら不足なんか　谷"
+msgstr ""
+"If you do that, there will be a shortage\n"
+"of valleys"
+
+msgctxt "415480"
+msgid "ずいぶん肩を持つじゃねえか永倉さんよ"
+msgstr "You have a lot of shoulders, Mr. Nagakura."
+
+msgctxt "415624"
+msgid "いくら貰ったんだ　あぁ？"
+msgstr "How much did you get?"
+
+msgctxt "415768"
+msgid "それとも女か？"
+msgstr "Or is it a woman?"
+
+msgctxt "415912"
+msgid "お前と一緒にすんなや下衆が"
+msgstr "With you"
+
+msgctxt "416056"
+msgid "へっ　相変わらず堅物だねえ"
+msgstr "Hey, it ’s still solid."
+
+msgctxt "416200"
+msgid "俺達は今をときめく新選組の隊長サマだぜ？"
+msgstr ""
+"We're the captains of the Shinsengumi, who\n"
+"are thrilling now, right?"
+
+msgctxt "416344"
+msgid "この立場を最大限利用しないでどうするんだよ？"
+msgstr ""
+"What do you do without making the most of\n"
+"this position?"
+
+msgctxt "416488"
+msgid "誰が三番隊隊長かなんてどうでもええわ"
+msgstr ""
+"I don't care who is the captain of the 3rd\n"
+"division"
+
+msgctxt "416632"
+msgid ""
+"要件済ませて\n"
+"さっさと切り上げてくれませんか？"
+msgstr ""
+"Will you complete the requirements and round\n"
+"up quickly?"
+
+msgctxt "416776"
+msgid "隊の訓練を控えとるんで"
+msgstr "Refrain from training the corps"
+
+msgctxt "416920"
+msgid "隊の訓練ねぇ　ははは！"
+msgstr "Corps training Hey haha!"
+
+msgctxt "417064"
+msgid "あ？"
+msgstr "Ah?"
+
+msgctxt "417208"
+msgid "何笑とんねん左之助"
+msgstr "What a laugh Sanosuke Sagara"
+
+msgctxt "417352"
+msgid "いやいや"
+msgstr "No no"
+
+msgctxt "417496"
+msgid "さすが光州流軍学を修めた武田さんだ"
+msgstr ""
+"As expected, Mr. Takeda who has completed\n"
+"Gwangju style military studies"
+
+msgctxt "417640"
+msgid "変わった訓練してらっしゃる"
+msgstr "You are training strangely"
+
+msgctxt "417784"
+msgid ""
+"この前もアンタんとこの隊士が\n"
+"愚痴ってましたよ"
+msgstr "Before this, you and this soldier were complaining"
+
+msgctxt "417928"
+msgid "隊長様の“愛”が怖いって"
+msgstr "I'm afraid of the captain's \"love\""
+
+msgctxt "418072"
+msgid "心もカラダも教育するんがワシの信条や"
+msgstr "I want to educate my mind and body"
+
+msgctxt "418216"
+msgid "一晩あれば　結構な教育ができる"
+msgstr "You can have a good education overnight"
+
+msgctxt "418360"
+msgid "なんなら己も味わってみるか？"
+msgstr "Why don't you try it yourself?"
+
+msgctxt "418504"
+msgid "幹部会だぞ"
+msgstr "It's an executive committee"
+
+msgctxt "418648"
+msgid "余計な口を開くな"
+msgstr "Don't open your mouth"
+
+msgctxt "418792"
+msgid ""
+"左之助　隊長のお前が\n"
+"そういう態度をとっているから"
+msgstr ""
+"Because you, Captain Sagara, have that kind\n"
+"of attitude"
+
+msgctxt "418936"
+msgid "十番隊は素行が悪いのだ"
+msgstr "The tenth corps is badly behaved"
+
+msgctxt "419080"
+msgid "口を慎め"
+msgstr "Moderate your mouth"
+
+msgctxt "419224"
+msgid "へいへい"
+msgstr "Hey hey"
+
+msgctxt "419368"
+msgid "新選組の小姑が"
+msgstr "Shinsengumi's mother-in-law"
+
+msgctxt "419512"
+msgid "斎藤君には明日から任務に就いてもらう"
+msgstr "Have Saito take on the mission from tomorrow"
+
+msgctxt "419656"
+msgid "松原君"
+msgstr "Mr. Matsubara"
+
+msgctxt "419800"
+msgid "その時に任務を一通り説明するように"
+msgstr "At that time, to explain the mission"
+
+msgctxt "419944"
+msgid "なぜ私が？"
+msgstr "Why i?"
+
+msgctxt "420088"
+msgid ""
+"隊長になって日が浅い者同士\n"
+"協力してやれ"
+msgstr ""
+"Become a captain and cooperate with those\n"
+"who are young"
+
+msgctxt "420232"
+msgid "失礼ながら副長"
+msgstr "Excuse me"
+
+msgctxt "420376"
+msgid ""
+"私もこの男がいきなり隊長というのは\n"
+"納得しておりません"
+msgstr ""
+"I'm not convinced that this man is suddenly\n"
+"the captain"
+
+msgctxt "420520"
+msgid ""
+"私がどれだけの苦労をして\n"
+"この座に就いたか……"
+msgstr "How hard did I get to this position ..."
+
+msgctxt "420664"
+msgid "松原君"
+msgstr "Mr. Matsubara"
+
+msgctxt "420808"
+msgid "私はお願いしてるのではない"
+msgstr "I'm not asking"
+
+msgctxt "420952"
+msgid "命令しているのだ"
+msgstr "I'm ordering"
+
+msgctxt "421096"
+msgid "くっ……"
+msgstr "Kuu ……"
+
+msgctxt "421240"
+msgid "ハイハイ！"
+msgstr "Hi hi!"
+
+msgctxt "421384"
+msgid "じゃあ俺が教えますよ"
+msgstr "Then I will teach you"
+
+msgctxt "421528"
+msgid "こう見えて　教えるのうまいんですよ俺"
+msgstr "It looks like this and I'm good at teaching"
+
+msgctxt "421672"
+msgid "いいでしょ？　土方さん"
+msgstr "Good idea? Hijikata"
+
+msgctxt "421816"
+msgid "藤堂……"
+msgstr "Todo ……"
+
+msgctxt "421960"
+msgid "日和見だお前は"
+msgstr "You're opportunistic"
+
+msgctxt "422104"
+msgid ""
+"あ　ひどいなぁ松原さん\n"
+"助け舟出したのに"
+msgstr ""
+"It's terrible, Mr. Matsubara, even though\n"
+"he helped out"
+
+msgctxt "422248"
+msgid "どうです土方さん"
+msgstr "How is it, Mr. Hijikata"
+
+msgctxt "422392"
+msgid ""
+"いいだろう\n"
+"では斎藤君の件は平助に任せる"
+msgstr "I'll leave Saito's case to Heisuke"
+
+msgctxt "422536"
+msgid "了解です"
+msgstr "Confirmed"
+
+msgctxt "422680"
+msgid "じゃあ　明日"
+msgstr "See you tomorrow"
+
+msgctxt "422824"
+msgid "それともう一件"
+msgstr "And another one"
+
+msgctxt "422968"
+msgid "先般　隊脱走の罪で身柄を捕えられていた"
+msgstr ""
+"I was recently arrested for escaping the\n"
+"corps"
+
+msgctxt "423112"
+msgid "総長兼三番隊隊長の山南敬助だが"
+msgstr ""
+"Yamanami Keisuke, the president and captain\n"
+"of the third division"
+
+msgctxt "423256"
+msgid "昨晩隊規に基づき"
+msgstr "Based on last night's corps regulations"
+
+msgctxt "423400"
+msgid "切腹に処した"
+msgstr "Seppuku"
+
+msgctxt "423544"
+msgid "切腹？"
+msgstr "Seppuku?"
+
+msgctxt "423688"
+msgid "ええ？"
+msgstr "Yeah?"
+
+msgctxt "423832"
+msgid "山南さん殺しちゃったんですか？"
+msgstr "Did you kill Yamanami-san?"
+
+msgctxt "423976"
+msgid "どういうことすか副長！"
+msgstr "What do you mean, Deputy Chief!"
+
+msgctxt "424120"
+msgid ""
+"山南さんは“俺ら”試衛館の\n"
+"仲間の一人だったじゃないすか"
+msgstr ""
+"Mr. Yamanami was one of the members of the\n"
+"\"we\" test center"
+
+msgctxt "424264"
+msgid "なのにどうして？"
+msgstr "But why?"
+
+msgctxt "424408"
+msgid ""
+"「俺ら」って　左之助さん\n"
+"試衛館出身じゃないじゃないですか"
+msgstr "Isn't \"we\" from Sanosuke-san's test center?"
+
+msgctxt "424552"
+msgid "いつから近藤派になったんですか？"
+msgstr "When did you become a Kondo school?"
+
+msgctxt "424696"
+msgid "うるせぇ！"
+msgstr "shut up!"
+
+msgctxt "424840"
+msgid ""
+"俺は何年も前に一度\n"
+"近藤さんの手ほどきを受けてんだ"
+msgstr ""
+"I was once taught by Mr. Kondo many years\n"
+"ago"
+
+msgctxt "424984"
+msgid "心は試衛館よ"
+msgstr "My heart is a test center"
+
+msgctxt "425128"
+msgid "とにかく"
+msgstr "Anyways"
+
+msgctxt "425272"
+msgid "隊を脱するを許さず"
+msgstr "Do not allow to leave the corps"
+
+msgctxt "425416"
+msgid "それが新選組の鉄の掟だ"
+msgstr "That is the rule of iron of the Shinsengumi"
+
+msgctxt "425560"
+msgid "山南はそれを承知した上で隊を離れた"
+msgstr "Yamanami left the corps knowing that"
+
+msgctxt "425704"
+msgid "だから殺したまでだ"
+msgstr "So until I killed"
+
+msgctxt "425848"
+msgid ""
+"一年前の芹沢鴨\n"
+"平山五郎　平間重助の粛清然り"
+msgstr ""
+"Serizawa Kamo Hirayama Goro a year ago Shigesuke\n"
+"Hirama's purge"
+
+msgctxt "425992"
+msgid "法度に例外はない"
+msgstr "There are no exceptions to the law"
+
+msgctxt "426136"
+msgid "裏切りは死"
+msgstr "Betrayal is death"
+
+msgctxt "426280"
+msgid "ここにいる皆も"
+msgstr "Everyone here"
+
+msgctxt "426424"
+msgid "肝に銘じておくことだな"
+msgstr "Keep in mind"
+
+msgctxt "426568"
+msgid "我々の働きに幕府も信頼を寄せている"
+msgstr "The Shogunate also trusts our work"
+
+msgctxt "426712"
+msgid "各隊"
+msgstr "Teams"
+
+msgctxt "426856"
+msgid "更なる働きを期待する"
+msgstr "Expect more work"
+
+msgctxt "427000"
+msgid "以上だ"
+msgstr "That's it"

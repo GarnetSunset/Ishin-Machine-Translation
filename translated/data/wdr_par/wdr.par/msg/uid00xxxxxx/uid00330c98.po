@@ -1,0 +1,2241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ryū ga Gotoku Ishin!\n"
+"Report-Msgid-Bugs-To: dummy@dummy.com\n"
+"POT-Creation-Date: 3/14/2021\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "50920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "50921"
+msgid "ここで一杯飲むか。"
+msgstr "Do you have a drink here?"
+
+msgctxt "50940"
+msgid ""
+"ええよ。\n"
+"せやけど、うちはお酒、そう簡単に酔わへんよ。"
+msgstr ""
+"sure. I'm sorry, but we don't get drunk\n"
+"so easily."
+
+msgctxt "50995"
+msgid ""
+"けしからん真似なんかでけへんから。\n"
+"アテがはずれたんとちゃう？"
+msgstr ""
+"It's because I'm imitating it. Did you miss\n"
+"it?"
+
+msgctxt "51058"
+msgid "……別に何もしねえよ。"
+msgstr "...... I can't do anything else."
+
+msgctxt "51081"
+msgid "ふふ……　冗談、冗談。"
+msgstr "Fufu …… Joke, joke."
+
+msgctxt "51104"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51105"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51106"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51107"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51108"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51109"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51110"
+msgid "さ、一杯どうぞ。"
+msgstr "Now, have a drink."
+
+msgctxt "51127"
+msgid "すまないな。　おりょうもどうだ？"
+msgstr "I'm sorry. How about you?"
+
+msgctxt "51160"
+msgid "じゃあお言葉に甘えて。"
+msgstr "Then be patient with your words."
+
+msgctxt "51183"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51184"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51185"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51186"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51187"
+msgid ""
+"あら、斎藤さん。\n"
+"今日は珍しくべっぴんさん連れてますやん。"
+msgstr ""
+"Oh, Mr. Saito. I'm rarely taking Beppin-san\n"
+"today."
+
+msgctxt "51246"
+msgid "まあな。"
+msgstr "Well."
+
+msgctxt "51255"
+msgid ""
+"しばらく京を離れることになった。\n"
+"色々、世話になったな。"
+msgstr ""
+"I will leave Kyoto for a while. I was taken\n"
+"care of in various ways."
+
+msgctxt "51312"
+msgid ""
+"そりゃ残念ですわ。\n"
+"　……なら、今日はせん別として\n"
+"好きなだけ飲んでや。"
+msgstr ""
+"That's a shame. ...... Then, drink as much\n"
+"as you like today as a farewell."
+
+msgctxt "51385"
+msgid "ん？　いいのか？"
+msgstr "Hmm? Is it okay?"
+
+msgctxt "51402"
+msgid ""
+"いいのいいのって。\n"
+"斎藤さんにはいつも世話になってるし。"
+msgstr ""
+"It ’s good. Saito-san is always indebted\n"
+"to me."
+
+msgctxt "51459"
+msgid ""
+"二人で存分に楽しんでや。\n"
+"ほな、ごゆっくり。"
+msgstr ""
+"Let's enjoy it together. Hon, take your\n"
+"time."
+
+msgctxt "51504"
+msgid "ふふ……　ちょっと、あの人、気前良すぎとちゃう？"
+msgstr "Fufu ... Hey, is that person too generous?"
+
+msgctxt "51553"
+msgid ""
+"フッ、おおかた、お前のまえでいいとこ\n"
+"見せたかったんだろう。"
+msgstr ""
+"Huh, most of the time, I guess I wanted\n"
+"to show you what I was good at."
+
+msgctxt "51614"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51615"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51617"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51618"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51619"
+msgid "ん……　少し酔いが回ってきたな。"
+msgstr "Hmm ... I'm getting a little sick."
+
+msgctxt "51652"
+msgid ""
+"一（はじめ）さん、ほんまにお酒好きなんやから。\n"
+"途中で眠たなっても知らんで。"
+msgstr ""
+"Mr. Ichi (beginning), I really like sake.\n"
+"Know if you fall asleep on the way."
+
+msgctxt "51729"
+msgid "（次は歌声酒場にでも行ってみるか）"
+msgstr ""
+"(Would you like to go to the singing bar\n"
+"next time?)"
+
+msgctxt "51764"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51765"
+msgid ""
+"おこしやす。\n"
+"なにお飲みになります？"
+msgstr ""
+"Easy to wake up. What would you like to\n"
+"drink?"
+
+msgctxt "51802"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51803"
+msgid "（手持ちがない……）"
+msgstr "(I don't have one ...)"
+
+msgctxt "51824"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "51853"
+msgid ""
+"そうですか。\n"
+"また寄ってってくださいね。"
+msgstr "Is that so. Please drop in again."
+
+msgctxt "51894"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51895"
+msgid "そちらの席にどうぞ。"
+msgstr "Please take that seat."
+
+msgctxt "51916"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51917"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51918"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51919"
+msgid "なにをお飲みになります？"
+msgstr "What would you like to drink?"
+
+msgctxt "51944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "51945"
+msgid ""
+"なに食べていかはりますか？\n"
+"ええもん用意してありますよ。"
+msgstr ""
+"What do you want to eat? Yes, I have prepared\n"
+"it."
+
+msgctxt "52002"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52003"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52004"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52005"
+msgid ""
+"なに食べていかはりますか？\n"
+"ええもん用意してありますよ。"
+msgstr ""
+"What do you want to eat? Yes, I have prepared\n"
+"it."
+
+msgctxt "52062"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52064"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "52093"
+msgid ""
+"そうですか。\n"
+"また寄ってってくださいね。"
+msgstr "Is that so. Please drop in again."
+
+msgctxt "52134"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52135"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52136"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52137"
+msgid "お代はこちらになります。"
+msgstr "Here is your bill."
+
+msgctxt "52162"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52163"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡ししますわ。"
+msgstr ""
+"Customers, we will give you% d of Fukubiki\n"
+"tickets."
+
+msgctxt "52204"
+msgid ""
+"どうもおおきに！\n"
+"また、よろしゅう。"
+msgstr "Thank you very much! Also, thank you."
+
+msgctxt "52241"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52242"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52243"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52244"
+msgid ""
+"どうもおおきに！\n"
+"また、よろしゅう。"
+msgstr "Thank you very much! Also, thank you."
+
+msgctxt "52281"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52282"
+msgid ""
+"いらっしゃいませ。\n"
+"お好きなお席へどうぞ。"
+msgstr "Welcome. Please go to your favorite seat."
+
+msgctxt "52325"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52326"
+msgid "おこしやす。"
+msgstr "Easy to wake up."
+
+msgctxt "52339"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52340"
+msgid "（手持ちがない……）"
+msgstr "(I don't have one ...)"
+
+msgctxt "52361"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "52390"
+msgid ""
+"そうですか。\n"
+"また寄ってってくださいね。"
+msgstr "Is that so. Please drop in again."
+
+msgctxt "52431"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52432"
+msgid "そちらの席にどうぞ。"
+msgstr "Please take that seat."
+
+msgctxt "52453"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52454"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52455"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52456"
+msgid "なにをお飲みになります？"
+msgstr "What would you like to drink?"
+
+msgctxt "52481"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52482"
+msgid ""
+"なに食べていかはりますか？\n"
+"ええもん用意してありますよ。"
+msgstr ""
+"What do you want to eat? Yes, I have prepared\n"
+"it."
+
+msgctxt "52539"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52540"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52541"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52542"
+msgid ""
+"なに食べていかはりますか？\n"
+"ええもん用意してありますよ。"
+msgstr ""
+"What do you want to eat? Yes, I have prepared\n"
+"it."
+
+msgctxt "52599"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52600"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52601"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "52630"
+msgid ""
+"そうですか。\n"
+"また寄ってってくださいね。"
+msgstr "Is that so. Please drop in again."
+
+msgctxt "52671"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52672"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52673"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52674"
+msgid "お代はこちらになります。"
+msgstr "Here is your bill."
+
+msgctxt "52699"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52700"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡ししますわ。"
+msgstr ""
+"Customers, we will give you% d of Fukubiki\n"
+"tickets."
+
+msgctxt "52741"
+msgid ""
+"どうもおおきに！\n"
+"また、よろしゅう。"
+msgstr "Thank you very much! Also, thank you."
+
+msgctxt "52778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52779"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52781"
+msgid ""
+"どうもおおきに！\n"
+"また、よろしゅう。"
+msgstr "Thank you very much! Also, thank you."
+
+msgctxt "52818"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52819"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52820"
+msgid "おい、調子はどうだ？"
+msgstr "Hey, how are you doing?"
+
+msgctxt "52841"
+msgid "…………"
+msgstr ""
+
+msgctxt "52850"
+msgid "（ん……　なんだか静かだな……）"
+msgstr "(Hmm ... it's kind of quiet ...)"
+
+msgctxt "52883"
+msgid ""
+"（この前、俺が酒を飲ませたときは\n"
+"　わんわんと泣いていたはずだが……）"
+msgstr ""
+"(The other day, when I gave him a drink,\n"
+"he should have been crying ...)"
+
+msgctxt "52954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "52955"
+msgid ""
+"……いやぁ、兄さんやないですか！\n"
+"来てくれたんですね！　わははは！"
+msgstr ""
+"...... No, isn't there an older brother!\n"
+"You came! Wahaha!"
+
+msgctxt "53022"
+msgid ""
+"お前、酔っぱらってるんじゃなかったのか？\n"
+"やけに……　楽しそうだが……"
+msgstr "Didn't you get drunk? It looks fun ..."
+
+msgctxt "53093"
+msgid ""
+"酔っぱらってませんて！　そんなことより！\n"
+"兄さん、一緒に飲みましょうや！　わははは！"
+msgstr ""
+"I'm not drunk! Than that! Brother, let's\n"
+"drink together! Wahaha!"
+
+msgctxt "53178"
+msgid ""
+"ん？　何かあったのか？　お前あれほど\n"
+"酒を飲まないようにしてたじゃないか。"
+msgstr ""
+"Hmm? Did something happen? You didn't drink\n"
+"as much as you did."
+
+msgctxt "53253"
+msgid ""
+"わはははは！　そんな昔のこと忘れましたぁ～！\n"
+"兄さんのいけずぅ～！"
+msgstr ""
+"Wahahaha! I forgot about such a long time\n"
+"ago! My brother's ikezu ~!"
+
+msgctxt "53320"
+msgid ""
+"（ん……？\n"
+"　ひょっとしてこの男、相当酔っているのか……？）"
+msgstr ""
+"(Hmm ...? Maybe this guy is pretty drunk\n"
+"...?)"
+
+msgctxt "53381"
+msgid "わははは！　わは……　あひゃひゃひゃひゃ！"
+msgstr "Wahaha! Wow ... Ahhhhhhhhh!"
+
+msgctxt "53424"
+msgid "（……なるほど、笑い上戸でもあるのか）"
+msgstr "(... I see, is it also a laughing Ueto?)"
+
+msgctxt "53463"
+msgid ""
+"……とりあえず水でも飲め。\n"
+"酔いを醒ますんだ。"
+msgstr ""
+"...... Drink with water for the time being.\n"
+"I get sick."
+
+msgctxt "53510"
+msgid ""
+"何言ってますのん！　水なんかより酒や！\n"
+"酒飲みましょう！　酒！"
+msgstr ""
+"What are you talking about! Sake rather\n"
+"than water! Let's drink! Liquor!"
+
+msgctxt "53573"
+msgid "いや、酒はだめだ……"
+msgstr "No, you can't drink ..."
+
+msgctxt "53594"
+msgid ""
+"……別にええやろ！　わしゃ店長や！\n"
+"うちの酒をいくら飲もうがわしの勝手やろがい！"
+msgstr ""
+"...... Yeah! Washa store manager! No matter\n"
+"how much we drink, it's selfish!"
+
+msgctxt "53675"
+msgid "（今度は怒り上戸か……？）"
+msgstr "(Is it angry Uedo this time ...?)"
+
+msgctxt "53702"
+msgid "いや、これ以上お前に飲ませるわけにはいかない。"
+msgstr "No, I can't give you any more."
+
+msgctxt "53749"
+msgid ""
+"うっ！　なんで酒飲ましてくれへんの！\n"
+"うっ……　うぅぅ……"
+msgstr ""
+"Ugh! Why don't you drink alcohol! Uh ...\n"
+"uh ..."
+
+msgctxt "53808"
+msgid "（泣き上戸に戻った……！）"
+msgstr "(I returned to crying Uedo ...!)"
+
+msgctxt "53835"
+msgid ""
+"ひっく、ひっく……\n"
+"兄さん、聞いてくださいよ……"
+msgstr "Hick, Hick ... Brother, please listen ..."
+
+msgctxt "53884"
+msgid "……な、なんだ？"
+msgstr "...... What is it?"
+
+msgctxt "53901"
+msgid ""
+"お、俺だって……\n"
+"好きで、酒に弱いわけやないんですよ……\n"
+"だって、しょうがないじゃないですか……"
+msgstr ""
+"Oh, even I ... I like it, and I can't say\n"
+"I'm vulnerable to alcohol ... Because\n"
+"it can't be helped ..."
+
+msgctxt "53998"
+msgid "（うーん、泣き上戸が本来の姿らしい……）"
+msgstr ""
+"(Hmm, crying Uedo seems to be the original\n"
+"figure ...)"
+
+msgctxt "54039"
+msgid ""
+"（怒り上戸になって暴れられても困る。\n"
+"　酔いが覚めるまでこの状態を維持させたいな……）"
+msgstr ""
+"(I don't want to get angry and rampage.\n"
+"I want to keep this state until I get sick\n"
+"...)"
+
+msgctxt "54126"
+msgid ""
+"うぅ……　や、やっぱり居酒屋の店長が\n"
+"酒弱かったらいけないんですかねぇ……？"
+msgstr ""
+"Uh ... I wonder if the manager of the izakaya\n"
+"should have a weak drink ...?"
+
+msgctxt "54203"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54204"
+msgid ""
+"酒が弱くてもいいじゃないか。お前はお前だろ？\n"
+"人間はみんな違う生き物だからこそおもしろいんだ。"
+msgstr ""
+"Isn't it okay if the liquor is weak? Are\n"
+"you you? It's interesting because all\n"
+"human beings are different creatures."
+
+msgctxt "54299"
+msgid ""
+"うっ……　に、兄さん！\n"
+"そんな優しいこと言ってくれておおきに……"
+msgstr ""
+"Uh ... and my brother! Please tell me such\n"
+"a kind thing ..."
+
+msgctxt "54364"
+msgid "（よし、泣きはしているが落ち着いたようだ……）"
+msgstr "(Okay, I'm crying, but it seems calm ...)"
+
+msgctxt "54411"
+msgid ""
+"いや、だめだろ。俺の時もそうだったが、\n"
+"今日みたいに客から酒を勧められたらどうするんだ？"
+msgstr ""
+"No, it's no good. As was the case with me,\n"
+"what would you do if a customer recommended\n"
+"you to drink like today?"
+
+msgctxt "54500"
+msgid ""
+"うっ……　そ、そうですよねぇ！\n"
+"酒が弱いくせに居酒屋経営なんて！　うぅ……"
+msgstr ""
+"Uh ... that's right! Even though the sake\n"
+"is weak, Izakaya management! Uh ..."
+
+msgctxt "54575"
+msgid "（し、しまった。少し刺激してしまったようだ……）"
+msgstr ""
+"(I've done it. It seems to have stimulated\n"
+"me a little ...)"
+
+msgctxt "54624"
+msgid "……はぁ、喉が渇いたな。"
+msgstr "…… Oh, I'm thirsty."
+
+msgctxt "54649"
+msgid "もう少しだけ、お酒飲んでみよかな……"
+msgstr ""
+"I wonder if I should drink a little more\n"
+"..."
+
+msgctxt "54686"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54687"
+msgid "それは絶対にだめだ！"
+msgstr "That's absolutely no good!"
+
+msgctxt "54708"
+msgid ""
+"そ……　そんな強く言わなくてもいいでしょ……\n"
+"うっうっ…………"
+msgstr ""
+"Well ... you don't have to say that strongly\n"
+"..."
+
+msgctxt "54771"
+msgid "（うーむ、つい声を張り上げてしまった……）"
+msgstr "(Hmm, I just raised my voice ...)"
+
+msgctxt "54814"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "54815"
+msgid "酒より水のほうがうまいぞ。"
+msgstr "Water is better than liquor."
+
+msgctxt "54842"
+msgid ""
+"えー、兄さん何言ってはるんですか。\n"
+"水なんて味しませんよ！"
+msgstr ""
+"Well, what are you talking about? I don't\n"
+"taste water!"
+
+msgctxt "54901"
+msgid ""
+"いやいや、そんなことはない。\n"
+"騙されたと思って、キュッっといってみろ。"
+msgstr ""
+"No, that's not the case. Think you've been\n"
+"fooled, and say squeak."
+
+msgctxt "54972"
+msgid "はいはい……　キュっとね……"
+msgstr "Yes Yes ..."
+
+msgctxt "55001"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55002"
+msgid "ゴキュッ！"
+msgstr "Gokyu!"
+
+msgctxt "55013"
+msgid ""
+"……えっ、あれ!?　うまい！\n"
+"水うまい！　ほんまや！　兄さん、すごいでこれ！"
+msgstr ""
+"...... Well, that !? Good! Water is good!\n"
+"Really! Brother, this is amazing!"
+
+msgctxt "55088"
+msgid "フッ、そうだろう？"
+msgstr "Huh, right?"
+
+msgctxt "55107"
+msgid ""
+"あ、水飲んだせいもあって、\n"
+"少し頭がしっかりしてきました……"
+msgstr ""
+"Oh, partly because I drank water, I got\n"
+"a little stronger ..."
+
+msgctxt "55168"
+msgid "（酔っ払いは扱いやすいな……）"
+msgstr "(Drunkness is easy to handle ...)"
+
+msgctxt "55199"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55200"
+msgid ""
+"うう……\n"
+"もうこんな店やめてやる……"
+msgstr "Uh ... I'm going to quit this store ..."
+
+msgctxt "55237"
+msgid "お、おい。落ち着け。"
+msgstr "Hey, hey. Calm down."
+
+msgctxt "55258"
+msgid ""
+"……これが落ち着いていられるかい!!\n"
+"間違いやったんや！\n"
+"俺なんて生まれてきたのが間違いやったんや！"
+msgstr ""
+"...... Can this be calm !! I made a mistake!\n"
+"I made a mistake when I was born!"
+
+msgctxt "55357"
+msgid ""
+"（うーむ、ひどいことになってしまった。\n"
+"　……こうなったら眠ってもらうしかないな）"
+msgstr ""
+"(Hmm, it's been terrible .... I have no\n"
+"choice but to sleep.)"
+
+msgctxt "55440"
+msgid "うぃ～……"
+msgstr "Wow ..."
+
+msgctxt "55451"
+msgid "ぐがーっ……　ぐがぁー……"
+msgstr "Guga ... Guga ..."
+
+msgctxt "55478"
+msgid "（……寝た）"
+msgstr "(……slept)"
+
+msgctxt "55491"
+msgid ""
+"（酔っ払い疲れたのか……？　うーむ。\n"
+"　このまま放っておくわけにもいかないな……）"
+msgstr ""
+"(Did you get drunk and tired ...? Hmm. I\n"
+"can't leave it as it is ...)"
+
+msgctxt "55574"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55575"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55576"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55577"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55578"
+msgid "……う～ん。"
+msgstr "...... Hmm."
+
+msgctxt "55591"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55592"
+msgid ""
+"ぼんやりとしか覚えてないんですが……\n"
+"最後のほうはだいぶ暴れまわってたような……"
+msgstr ""
+"I can only remember it vaguely ... but at\n"
+"the end it seems like it was rampaging\n"
+"..."
+
+msgctxt "55673"
+msgid ""
+"そうだな……\n"
+"結構大変だったが、俺にも責任はあるからな……"
+msgstr ""
+"That's right ... it was quite difficult,\n"
+"but I'm also responsible ..."
+
+msgctxt "55732"
+msgid ""
+"ぼんやりとしか覚えてないんですが……\n"
+"俺、兄さんに何か失礼なことしてました……？"
+msgstr ""
+"I only remember vaguely ... I was rude to\n"
+"my brother ...?"
+
+msgctxt "55813"
+msgid ""
+"いいや。おとなしいもんだったぞ。\n"
+"……最後のほうはずっと寝ながら泣いていたが。"
+msgstr ""
+"No. It was quiet. ...... I was crying while\n"
+"sleeping all the time towards the end."
+
+msgctxt "55892"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55893"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55894"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55895"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55896"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "55897"
+msgid ""
+"酒は確かにいいものだ……　しかしだからこそ、\n"
+"付き合い方にはじゅうぶん注意しないといけない。\n"
+"……お前もわかってると思うがな。"
+msgstr ""
+"Sake is certainly a good thing ... but that's\n"
+"why you have to be very careful about\n"
+"how you interact with it. ...... I\n"
+"think you know that too."
+
+msgctxt "56024"
+msgid "おっしゃるとおりです……"
+msgstr "You're right ..."
+
+msgctxt "56049"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56050"
+msgid ""
+"これ、ご迷惑をおかけしたお詫びです。\n"
+"受け取ってください。"
+msgstr ""
+"This is an apology for the inconvenience.\n"
+"Please receive it."
+
+msgctxt "56109"
+msgid "「<Color:8>どぶろく<Color:Default>」を手に入れた"
+msgstr "\"<Color:8> Doburoku<Color:Default> Got"
+
+msgctxt "56158"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56159"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56160"
+msgid ""
+"これ、ご迷惑をおかけしたお詫びです。\n"
+"受け取ってください。"
+msgstr ""
+"This is an apology for the inconvenience.\n"
+"Please receive it."
+
+msgctxt "56219"
+msgid "「<Color:8>灘の清酒<Color:Default>」を手に入れた"
+msgstr "\"<Color:8> Nada sake<Color:Default> Got"
+
+msgctxt "56268"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56269"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56270"
+msgid ""
+"この酒、客に出すものだろう。\n"
+"……いいのか？"
+msgstr ""
+"This sake will be served to customers. ......\n"
+"Is it okay?"
+
+msgctxt "56315"
+msgid ""
+"うぅ、もらってやってください。\n"
+"しばらくはあんまり酒に囲まれたくないんです……"
+msgstr ""
+"Uh, please get it. I don't want to be surrounded\n"
+"by sake for a while ..."
+
+msgctxt "56394"
+msgid "なるほど……　わかった。"
+msgstr "I see ... I understand."
+
+msgctxt "56419"
+msgid ""
+"その代わり……　やないですけど、\n"
+"うちの酒を減らすため、\n"
+"これからも兄さんにはご協力、お願いしまっせ。"
+msgstr ""
+"Instead ... I don't know, but please continue\n"
+"to cooperate with my brother in order\n"
+"to reduce our liquor."
+
+msgctxt "56522"
+msgid ""
+"フッ、わかった。また来てやるよ。\n"
+"まったく……　ちゃっかりしてやがるぜ。"
+msgstr ""
+"Huh, I understand. I'll come again. At all\n"
+"... I'm gonna do it."
+
+msgctxt "56595"
+msgid "まいど！　おおきに！"
+msgstr "Maido! Big!"
+
+msgctxt "56616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56617"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56618"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56619"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56620"
+msgid ""
+"すんまへん！　今、お酒が切れてもうて……\n"
+"また、たのんますわ。"
+msgstr ""
+"I'm sorry! I'm out of alcohol now ... I'll\n"
+"be back again."
+
+msgctxt "56683"
+msgid "（また今度きてみるか……）"
+msgstr "(Would you like to come again ...)"
+
+msgctxt "56710"
+msgid "おこしやす。"
+msgstr "Easy to wake up."
+
+msgctxt "56723"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56724"
+msgid "（手持ちがない……）"
+msgstr "(I don't have one ...)"
+
+msgctxt "56745"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "56774"
+msgid ""
+"そうですか。\n"
+"また寄ってってくださいね。"
+msgstr "Is that so. Please drop in again."
+
+msgctxt "56815"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56816"
+msgid "そちらの席にどうぞ。"
+msgstr "Please take that seat."
+
+msgctxt "56837"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56838"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56839"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56840"
+msgid "なにをお飲みになります？"
+msgstr "What would you like to drink?"
+
+msgctxt "56865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56866"
+msgid ""
+"なに食べていかはりますか？\n"
+"ええもん用意してありますよ。"
+msgstr ""
+"What do you want to eat? Yes, I have prepared\n"
+"it."
+
+msgctxt "56923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56924"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56925"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56926"
+msgid ""
+"なに食べていかはりますか？\n"
+"ええもん用意してありますよ。"
+msgstr ""
+"What do you want to eat? Yes, I have prepared\n"
+"it."
+
+msgctxt "56983"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56984"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "56985"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "57014"
+msgid ""
+"そうですか。\n"
+"また寄ってってくださいね。"
+msgstr "Is that so. Please drop in again."
+
+msgctxt "57055"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57056"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57057"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57058"
+msgid "お代はこちらになります。"
+msgstr "Here is your bill."
+
+msgctxt "57083"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57084"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡ししますわ。"
+msgstr ""
+"Customers, we will give you% d of Fukubiki\n"
+"tickets."
+
+msgctxt "57125"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57126"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57127"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57128"
+msgid ""
+"どうもおおきに！\n"
+"また、よろしゅう。"
+msgstr "Thank you very much! Also, thank you."
+
+msgctxt "57165"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57166"
+msgid ""
+"やっぱり、兄さんの飲みっぷりはえぇですな！\n"
+"見てるこっちが気持ちいいですわ。"
+msgstr ""
+"After all, my brother's drink is awesome!\n"
+"It feels good to see this."
+
+msgctxt "57243"
+msgid ""
+"フッ、毎度お前は口が上手いな。\n"
+"……店長も一杯どうだ？"
+msgstr ""
+"Huh, you're good at speaking every time.\n"
+"...... How about a cup of store manager?"
+
+msgctxt "57298"
+msgid "や、仕事中なんで……　お気持ちだけ。"
+msgstr "No, I'm at work ... just my feelings."
+
+msgctxt "57335"
+msgid ""
+"いいじゃないか。少しくらい。\n"
+"俺とは飲みたくないか？"
+msgstr ""
+"It's fine, is not it. A little. Don't you\n"
+"want to drink with me?"
+
+msgctxt "57388"
+msgid "そういうわけや……　ないんですけど……"
+msgstr "That's why ... I don't ..."
+
+msgctxt "57427"
+msgid ""
+"じゃあ決まりだ。\n"
+"ほら、客が勧めてるんだ。少しだけならいいだろ。"
+msgstr ""
+"Then it's a rule. You see, the customer\n"
+"recommends it. Only a little is fine."
+
+msgctxt "57492"
+msgid "……ほ、ほんなら少しだけ。"
+msgstr "...... Hmm, just a little."
+
+msgctxt "57519"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57520"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57521"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57522"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57523"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57524"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57526"
+msgid "ゴクッ。"
+msgstr "Goku."
+
+msgctxt "57535"
+msgid "フッ、飲めるじゃないか。"
+msgstr "Huh, you can drink it."
+
+msgctxt "57560"
+msgid "…………"
+msgstr ""
+
+msgctxt "57569"
+msgid "……？　どうした？"
+msgstr "……? what up?"
+
+msgctxt "57588"
+msgid ""
+"うっうっ……\n"
+"ひっく……"
+msgstr "Ugh ... Hick ..."
+
+msgctxt "57613"
+msgid "（な、泣いている……!?）"
+msgstr "(Well, crying ...!?)"
+
+msgctxt "57638"
+msgid ""
+"うぅっ……　そ、そんな強引に飲ませるなんて……\n"
+"に、兄さんひどすぎる……"
+msgstr ""
+"Hmm ... Well, it's too terrible for my brother\n"
+"to drink it forcibly ..."
+
+msgctxt "57711"
+msgid "お、おい。大丈夫か？"
+msgstr "Hey, hey. Are you okay?"
+
+msgctxt "57732"
+msgid ""
+"（この男、もしかして泣き上戸なのか？\n"
+"　本当にいるとは……　初めて見たな）"
+msgstr ""
+"(Is this guy crying, Uedo? Really ... I\n"
+"saw it for the first time)"
+
+msgctxt "57807"
+msgid "人でなしやぁ……"
+msgstr "No people ..."
+
+msgctxt "57824"
+msgid ""
+"わ、悪かった……\n"
+"ひとまず落ち着いて、水を飲め。な？"
+msgstr ""
+"Wow, it was bad ... Calm down and drink\n"
+"water. What?"
+
+msgctxt "57877"
+msgid "……ひっく。　……うっ。"
+msgstr "...... Scratch. ...... Uh."
+
+msgctxt "57902"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57903"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57904"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57905"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57906"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57907"
+msgid "……あいたた、頭が痛い。"
+msgstr "...... I have a headache."
+
+msgctxt "57932"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57933"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "57934"
+msgid "兄さん、迷惑かけてしまってほんますんまへん。"
+msgstr "Brother, I'm sorry for the inconvenience."
+
+msgctxt "57979"
+msgid ""
+"……いや、謝ることはない。\n"
+"無理に酒を勧めた俺が悪かったんだ。"
+msgstr ""
+"...... No, I don't apologize. I was bad\n"
+"at forcing him to drink."
+
+msgctxt "58042"
+msgid ""
+"はぁ……　情けない話ですわ。\n"
+"居酒屋の店長やってるのに酒に弱いやなんて……"
+msgstr ""
+"Hmm ... It's a pitiful story. Even though\n"
+"I'm the manager of an izakaya, I'm vulnerable\n"
+"to alcohol ..."
+
+msgctxt "58117"
+msgid ""
+"どうりで、今まで俺が酒を勧めても\n"
+"断っていたわけだ。"
+msgstr ""
+"No wonder, I've refused to recommend alcohol\n"
+"until now."
+
+msgctxt "58170"
+msgid "すんまへん……"
+msgstr "I'm sorry ..."
+
+msgctxt "58185"
+msgid ""
+"フッ、そんなに落ち込むな。俺も今度から\n"
+"酒を無理強いしないようにしないとな。"
+msgstr ""
+"Huh, don't be so depressed. I also have\n"
+"to try not to force alcohol from now on."
+
+msgctxt "58262"
+msgid ""
+"うぅ……　兄さん、おおきに。\n"
+"これに懲りず、また店に来てくださいね。"
+msgstr ""
+"Uh ... big brother. Please do not hesitate\n"
+"to come to the store again."
+
+msgctxt "58331"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58332"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58333"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58334"
+msgid "おこしやす。"
+msgstr "Easy to wake up."
+
+msgctxt "58347"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58348"
+msgid "（手持ちがない……）"
+msgstr "(I don't have one ...)"
+
+msgctxt "58369"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "58398"
+msgid ""
+"そうですか。\n"
+"また寄ってってくださいね。"
+msgstr "Is that so. Please drop in again."
+
+msgctxt "58439"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58440"
+msgid "そちらの席にどうぞ。"
+msgstr "Please take that seat."
+
+msgctxt "58461"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58462"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58463"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58464"
+msgid "なにをお飲みになります？"
+msgstr "What would you like to drink?"
+
+msgctxt "58489"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58490"
+msgid ""
+"なに食べていかはりますか？\n"
+"ええもん用意してありますよ。"
+msgstr ""
+"What do you want to eat? Yes, I have prepared\n"
+"it."
+
+msgctxt "58547"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58548"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58549"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58550"
+msgid ""
+"なに食べていかはりますか？\n"
+"ええもん用意してありますよ。"
+msgstr ""
+"What do you want to eat? Yes, I have prepared\n"
+"it."
+
+msgctxt "58607"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58608"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58609"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "58638"
+msgid ""
+"そうですか。\n"
+"また寄ってってくださいね。"
+msgstr "Is that so. Please drop in again."
+
+msgctxt "58679"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58680"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58681"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58682"
+msgid "お代はこちらになります。"
+msgstr "Here is your bill."
+
+msgctxt "58707"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58708"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡ししますわ。"
+msgstr ""
+"Customers, we will give you% d of Fukubiki\n"
+"tickets."
+
+msgctxt "58749"
+msgid ""
+"どうもおおきに！\n"
+"また、よろしゅう。"
+msgstr "Thank you very much! Also, thank you."
+
+msgctxt "58786"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58787"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58788"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58789"
+msgid ""
+"どうもおおきに！\n"
+"また、よろしゅう。"
+msgstr "Thank you very much! Also, thank you."
+
+msgctxt "58826"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58827"
+msgid "おこしやす。"
+msgstr "Easy to wake up."
+
+msgctxt "58840"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58841"
+msgid "（手持ちがない……）"
+msgstr "(I don't have one ...)"
+
+msgctxt "58862"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "58891"
+msgid ""
+"そうですか。\n"
+"また寄ってってくださいね。"
+msgstr "Is that so. Please drop in again."
+
+msgctxt "58932"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58933"
+msgid "そちらの席にどうぞ。"
+msgstr "Please take that seat."
+
+msgctxt "58954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58955"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58956"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58957"
+msgid "なにをお飲みになります？"
+msgstr "What would you like to drink?"
+
+msgctxt "58982"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "58983"
+msgid ""
+"なに食べていかはりますか？\n"
+"ええもん用意してありますよ。"
+msgstr ""
+"What do you want to eat? Yes, I have prepared\n"
+"it."
+
+msgctxt "59040"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59041"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59042"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59043"
+msgid ""
+"なに食べていかはりますか？\n"
+"ええもん用意してありますよ。"
+msgstr ""
+"What do you want to eat? Yes, I have prepared\n"
+"it."
+
+msgctxt "59100"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59101"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59102"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "59131"
+msgid ""
+"そうですか。\n"
+"また寄ってってくださいね。"
+msgstr "Is that so. Please drop in again."
+
+msgctxt "59172"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59173"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59174"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59175"
+msgid "お代はこちらになります。"
+msgstr "Here is your bill."
+
+msgctxt "59200"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59201"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡ししますわ。"
+msgstr ""
+"Customers, we will give you% d of Fukubiki\n"
+"tickets."
+
+msgctxt "59242"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59243"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59244"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59245"
+msgid ""
+"どうもおおきに！\n"
+"また、よろしゅう。"
+msgstr "Thank you very much! Also, thank you."
+
+msgctxt "59282"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59283"
+msgid ""
+"いやぁ、相変わらず兄さんの\n"
+"食べっぷり飲みっぷりは惚れ惚れしますなぁ。"
+msgstr ""
+"Well, as usual, I'm in love with my brother's\n"
+"eating and drinking."
+
+msgctxt "59354"
+msgid ""
+"そうやって人を天狗にさせて、\n"
+"注文を多くとる気だろう？"
+msgstr ""
+"Do you want to make people tengu and take\n"
+"a lot of orders?"
+
+msgctxt "59409"
+msgid ""
+"い、いえいえいえ！\n"
+"そんなめっそうもない！"
+msgstr "No, no, no! Not really!"
+
+msgctxt "59452"
+msgid "フッ、冗談だ。"
+msgstr "Huh, that's a joke."
+
+msgctxt "59467"
+msgid "ははは、兄さんも人が悪いなぁ……"
+msgstr "Haha, my brother is also bad ..."
+
+msgctxt "59500"
+msgid ""
+"それじゃあ、\n"
+"またいい飲みっぷり、見せに来てくださいね！"
+msgstr ""
+"Then, please come and see us again with\n"
+"a good drink!"
+
+msgctxt "59557"
+msgid "おこしやす。"
+msgstr "Easy to wake up."
+
+msgctxt "59570"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59571"
+msgid "（手持ちがない……）"
+msgstr "(I don't have one ...)"
+
+msgctxt "59592"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "59621"
+msgid ""
+"そうですか。\n"
+"また寄ってってくださいね。"
+msgstr "Is that so. Please drop in again."
+
+msgctxt "59662"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59663"
+msgid "そちらの席にどうぞ。"
+msgstr "Please take that seat."
+
+msgctxt "59684"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59685"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59686"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59687"
+msgid "なにをお飲みになります？"
+msgstr "What would you like to drink?"
+
+msgctxt "59712"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59713"
+msgid ""
+"なに食べていかはりますか？\n"
+"ええもん用意してありますよ。"
+msgstr ""
+"What do you want to eat? Yes, I have prepared\n"
+"it."
+
+msgctxt "59770"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59772"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59773"
+msgid ""
+"なに食べていかはりますか？\n"
+"ええもん用意してありますよ。"
+msgstr ""
+"What do you want to eat? Yes, I have prepared\n"
+"it."
+
+msgctxt "59830"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59831"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59832"
+msgid "すまない、ちょっと急用が……"
+msgstr "I'm sorry, I have a little urgent need ..."
+
+msgctxt "59861"
+msgid ""
+"そうですか。\n"
+"また寄ってってくださいね。"
+msgstr "Is that so. Please drop in again."
+
+msgctxt "59902"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59903"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59904"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59905"
+msgid "お代はこちらになります。"
+msgstr "Here is your bill."
+
+msgctxt "59930"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59931"
+msgid ""
+"お客さん、福引き券%d枚\n"
+"お渡ししますわ。"
+msgstr ""
+"Customers, we will give you% d of Fukubiki\n"
+"tickets."
+
+msgctxt "59972"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59973"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59974"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "59975"
+msgid ""
+"どうもおおきに！\n"
+"また、よろしゅう。"
+msgstr "Thank you very much! Also, thank you."
+
+msgctxt "60012"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "60013"
+msgid ""
+"兄さん。きてくれてありがとね。\n"
+"お近づきの印にこれどうぞ。"
+msgstr ""
+"Brother. Thank you for coming. Please use\n"
+"this as a sign of your approach."
+
+msgctxt "60072"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "60073"
+msgid "どぶろくを手に入れた。"
+msgstr "I got a doburoku."
+
+msgctxt "60096"
+msgid "店長、いいのか？"
+msgstr "Is the store manager okay?"
+
+msgctxt "60113"
+msgid ""
+"あぁ、いいんです、いいんです！\n"
+"お酒、お好きなんですねぇ。"
+msgstr "Oh, it ’s good, it ’s good! You like alcohol."
+
+msgctxt "60172"
+msgid "……まぁな。"
+msgstr "...... Well."
+
+msgctxt "60185"
+msgid ""
+"いやぁしかし……\n"
+"こっちまで一杯ひっかけたくなってきますわ。"
+msgstr "No, but ... I want to catch a drink here."
+
+msgctxt "60246"
+msgid "……ん？　なら店長も、一杯どうだ？"
+msgstr ""
+"……Hmm? Then how about a cup of the store\n"
+"manager?"
+
+msgctxt "60281"
+msgid ""
+"あ、いえいえ！　仕事中なんでそこまでは……\n"
+"お気持ちだけ、受け取らせていただきます。"
+msgstr ""
+"Oh no! Because I'm at work, that's it ...\n"
+"I'll just accept your feelings."
+
+msgctxt "60366"
+msgid "そうか、残念だな。"
+msgstr "Well, I'm sorry."
+
+msgctxt "60385"
+msgid "それじゃあ、また来てくださいね！"
+msgstr "Then please come again!"
+
+msgctxt "60418"
+msgid "フッ、そのうちな。"
+msgstr "Huh, of course."
+
+msgctxt "60437"
+msgid ""
+"「居酒屋・福々屋の主人」との絆が芽生えました。\n"
+"今後交流をし、絆ゲージをためることで、\n"
+"絆を深めることができます。\n"
+"ゲージの状況は、ポーズメニューの「精進目録」でも確認できます。\n"
+"\n"
+"積極的に「居酒屋・福々屋の主人」と交流してみましょう。"
+msgstr ""
+"A bond with \"the owner of the izakaya /\n"
+"Fukufukuya\" has sprung up. You can deepen\n"
+"your bond by interacting with each other\n"
+"and accumulating the bond gauge in\n"
+"the future. You can also check the status\n"
+"of the gauge in the \"Dedication Catalog\"\n"
+"in the pause menu. Let's actively\n"
+"interact with \"the owner of the izakaya\n"
+"/ Fukufukuya\"."
+
+msgctxt "64864"
+msgid "龍馬"
+msgstr "Ryoma"
+
+msgctxt "64869"
+msgid "ADV_F_CHO_STAND"
+msgstr ""
+
+msgctxt "64885"
+msgid "おりょう"
+msgstr "Oryo"
+
+msgctxt "64894"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "64903"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "64911"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "64922"
+msgid "ADV_F_CHO_BASE"
+msgstr ""
+
+msgctxt "64937"
+msgid "Idle"
+msgstr ""
+
+msgctxt "64942"
+msgid "TALK_sake_serve"
+msgstr ""
+
+msgctxt "64958"
+msgid "店長"
+msgstr "Store manager"
+
+msgctxt "64963"
+msgid "TALK_sake_tere"
+msgstr ""
+
+msgctxt "64978"
+msgid "TALK_sake_tlk"
+msgstr ""
+
+msgctxt "64992"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "65003"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "65012"
+msgid "Player"
+msgstr ""
+
+msgctxt "65019"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "65031"
+msgid "P_KRU_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "65053"
+msgid "dummy"
+msgstr ""
+
+msgctxt "65059"
+msgid "P_KRU_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "65081"
+msgid "kaiwabgm_apathy_01"
+msgstr ""
+
+msgctxt "65100"
+msgid "M_BUS_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "65122"
+msgid "acdev1020"
+msgstr ""
+
+msgctxt "65132"
+msgid "M_CHO_TLK_chair_kamae"
+msgstr ""
+
+msgctxt "65154"
+msgid "M_CHO_ACT_chair_drink_01"
+msgstr ""
+
+msgctxt "65179"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "65190"
+msgid "酒が弱くてもいい"
+msgstr "Alcohol can be weak"
+
+msgctxt "65207"
+msgid "だめだろ"
+msgstr "No"
+
+msgctxt "65216"
+msgid "絶対だめ！"
+msgstr "Absolutely no!"
+
+msgctxt "65227"
+msgid "酒より水のほうがうまいぞ"
+msgstr "Water is better than liquor"
+
+msgctxt "65252"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "65262"
+msgid "M_CHO_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "65284"
+msgid "M_CHO_TLK_stand_send"
+msgstr ""
+
+msgctxt "65305"
+msgid "P_KRU_TLK_stand_send"
+msgstr ""
+
+msgctxt "65326"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "65337"
+msgid "M_CHO_TLK_stand_sorry"
+msgstr ""
+
+msgctxt "65359"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "65370"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "65380"
+msgid "M_CHO_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "65403"
+msgid "M_SHP_TLK_stand_no"
+msgstr ""
+
+msgctxt "65422"
+msgid "P_KRU_TLK_stand_yes"
+msgstr ""
+
+msgctxt "65442"
+msgid "M_SHP_TLK_stand_yes"
+msgstr ""
+
+msgctxt "65462"
+msgid "P_KRU_TLK_chair_drink_yunomi"
+msgstr ""
+
+msgctxt "65491"
+msgid "kaiwabgm_apathy_04"
+msgstr ""
+
+msgctxt "65510"
+msgid "M_BUS_TLK_btl_aft_nw_01_lp"
+msgstr ""
+
+msgctxt "65537"
+msgid "kaiwabgm_apathy_03"
+msgstr ""
+
+msgctxt "65556"
+msgid "M_BUS_TLK_stand_kamae"
+msgstr ""
+
+msgctxt "65578"
+msgid "M_BUS_TLK_btl_aft_nw_01_en"
+msgstr ""
+
+msgctxt "65605"
+msgid "M_BUS_TLK_stand_sorry"
+msgstr ""
+
+msgctxt "65627"
+msgid "M_BUS_TLK_stand_gakkari"
+msgstr ""
+
+msgctxt "65651"
+msgid "M_SHP_TLK_stand_kansin"
+msgstr ""
+
+msgctxt "65674"
+msgid "M_SHP_TLK_stand_smile"
+msgstr ""
+
+msgctxt "65696"
+msgid "M_SHP_TLK_stand_call"
+msgstr ""
+
+msgctxt "65717"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "65727"
+msgid "M_SHP_TLK_stand_ojigi"
+msgstr ""
+
+msgctxt "65749"
+msgid "居酒屋・福々屋の主人との絆"
+msgstr "Bonds with the owner of the izakaya / Fukufukuya"
