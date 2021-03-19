@@ -59,4 +59,4 @@ filtered_files = [file for file in files_in_directory if file.endswith(".psd")]
 for file in filtered_files:
 	path_to_file = os.path.join(os.getcwd()+"/patch/", file)
 	os.remove(path_to_file)
-#shutil.rmtree(os.getcwd()+"/pkgsForUpdate/")
+shutil.rmtree(os.getcwd()+"/pkgsForUpdate/")
