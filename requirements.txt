@@ -6,3 +6,4 @@ fastxor
 packaging
 ecdsa
 google-cloud-translate
+pandas

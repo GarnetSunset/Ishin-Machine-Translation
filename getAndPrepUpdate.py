@@ -4,8 +4,6 @@ from distutils.dir_util import copy_tree
 if not os.path.exists("pkgsForUpdate"):
     os.makedirs("pkgsForUpdate")
 
-FNULL = open(os.devnull, 'w') 
-
 scetool = "https://cdn.discordapp.com/attachments/489871388879093780/822550726655213578/scetool.zip"
 decrypt = "https://cdn.discordapp.com/attachments/732351773687414825/822592241922867240/decrypt.zip"
 digital = ["http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0104-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0105-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0106-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0107-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0108-V0100-PE.pkg"]
@@ -48,11 +46,13 @@ files_in_directory = os.listdir(os.getcwd()+"/patch/")
 os.chdir("pkgsForUpdate")
 if discOrDigital == "B":
     os.system("scetool -d ../patch/USRDIR/EBOOT.BIN ../patch/USRDIR/EBOOT.BIN")
+    eboot_translator.replace_strings("../eboot-original-disc.csv","../patch/USRDIR/EBOOT.BIN")
 else:
     r = requests.get(decrypt)
     z = zipfile.ZipFile(io.BytesIO(r.content))
     z.extractall(".")
     os.system("decrypt_eboot.exe ../patch/USRDIR/EBOOT.BIN ../patch/USRDIR/EBOOT.BIN JP0177-NPJB00532_00-RYUISHINRETAIL00.rap")
+    eboot_translator.replace_strings("../eboot-original-psn.csv","../patch/USRDIR/EBOOT.BIN")
     
 os.chdir("..")
 filtered_files = [file for file in files_in_directory if file.endswith(".psd")]

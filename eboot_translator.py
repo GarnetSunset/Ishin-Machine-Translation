@@ -25,12 +25,12 @@ def write_string(data, offset, string):
             print(f"Wrong type - offset: {offset}, translation: {string}, max length: {max_len}")
 
 
-def replace_strings():
-    with open("EBOOT.elf", "rb") as f:
+def replace_strings(origfile,eboot):
+    with open(eboot, "rb") as f:
         data = bytearray(f.read())
 
     #csv file with text
-    original_text = 'ishin-eboot-text.csv'
+    original_text = origfile
     df = pd.read_csv(original_text, delimiter=';')
     offsets = df.iloc[:, 0]
     strings = df.iloc[:, 1]
@@ -38,12 +38,12 @@ def replace_strings():
     for o, s in zip(offsets, strings):
         write_string(data, int(o, 16), s)
     
-    with open("new_EBOOT.elf", "wb") as f:
+    with open(eboot, "wb") as f:
         f.write(data)
 
 
-def print_strings():
-    with open("EBOOT.elf", "rb") as f:
+def print_strings(eboot):
+    with open(eboot, "rb") as f:
         data = f.read()
 
     count = 0
