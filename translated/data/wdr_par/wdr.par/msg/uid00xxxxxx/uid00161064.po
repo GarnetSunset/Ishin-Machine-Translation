@@ -92,21 +92,21 @@ msgstr ""
 "me."
 
 msgctxt "2368"
-msgid "怖そうな男"
-msgstr "Scary man"
+msgid "弱そうな浪人"
+msgstr "Ronin who seems to be weak"
 
-msgctxt "2379"
+msgctxt "2381"
 msgid "Player"
 msgstr ""
 
-msgctxt "2386"
+msgctxt "2388"
 msgid "真珠を渡す"
 msgstr "Hand over pearls"
 
-msgctxt "2397"
+msgctxt "2399"
 msgid "やめておく"
 msgstr "Stop"
 
-msgctxt "2408"
+msgctxt "2410"
 msgid "Sync_Send"
 msgstr ""

@@ -24,8 +24,8 @@ msgstr ""
 "to stay there?"
 
 msgctxt "446"
-msgid "そういや俺と同じ四国屋組だっだな。"
-msgstr "No, it's the same Shikokuya group as me."
+msgid "そういや俺と同じ四国屋組だったな。"
+msgstr "No, it was the same Shikokuya group as me."
 
 msgctxt "481"
 msgid ""
