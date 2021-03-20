@@ -39,7 +39,6 @@ for file in os.listdir("pkgsForUpdate"):
             directory_contents = os.listdir(os.getcwd()+"/pkgsForUpdate/update/")
             copy_tree(os.getcwd()+"/pkgsForUpdate/update/"+directory_contents[0], os.getcwd()+"/patch/")
             shutil.rmtree(os.getcwd()+"/pkgsForUpdate/update/"+directory_contents[0])   
-#insert eboot decryption and modification
 
 copy_tree(os.getcwd()+"/mainDIR/", os.getcwd()+"/patch/")
 files_in_directory = os.listdir(os.getcwd()+"/patch/")
@@ -47,14 +46,14 @@ os.chdir("pkgsForUpdate")
 if discOrDigital == "B":
     os.system("scetool -d ../patch/USRDIR/EBOOT.BIN ../patch/USRDIR/EBOOT.BIN")
     shutil.copyfile("../patch/USRDIR/EBOOT.BIN","../patch/USRDIR/EBOOT_BKP.BIN")
-    eboot_translator.replace_strings("../eboot-translated-disc.csv","../patch/USRDIR/EBOOT.BIN",ignore_length=True)
+    eboot_translator.replace_strings("../eboot-translated-disc.csv","../patch/USRDIR/EBOOT.BIN",ignore_length=True,output="../patch/USRDIR/EBOOT.BIN")
 else:
     r = requests.get(decrypt)
     z = zipfile.ZipFile(io.BytesIO(r.content))
     z.extractall(".")
     os.system("decrypt_eboot.exe ../patch/USRDIR/EBOOT.BIN ../patch/USRDIR/EBOOT.BIN JP0177-NPJB00532_00-RYUISHINRETAIL00.rap")
     shutil.copyfile("../patch/USRDIR/EBOOT.BIN","../patch/USRDIR/EBOOT_BKP.BIN")
-    eboot_translator.replace_strings("../eboot-translated-psn.csv","../patch/USRDIR/EBOOT.BIN",ignore_length=True)
+    eboot_translator.replace_strings("../eboot-translated-psn.csv","../patch/USRDIR/EBOOT.BIN",ignore_length=True,output="../patch/USRDIR/EBOOT.BIN")
     
 os.chdir("..")
 filtered_files = [file for file in files_in_directory if file.endswith(".psd")]
