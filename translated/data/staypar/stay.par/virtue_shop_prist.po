@@ -13,19 +13,19 @@ msgstr ""
 
 msgctxt "CATEGORY_0"
 msgid "機能"
-msgstr "function"
+msgstr "機能"
 
 msgctxt "CATEGORY_1"
 msgid "徳"
-msgstr "German"
+msgstr "徳"
 
 msgctxt "CATEGORY_2"
 msgid "変換"
-msgstr "conversion"
+msgstr "変換"
 
 msgctxt "CATEGORY_3"
 msgid "その他"
-msgstr "Other"
+msgstr "その他"
 
 msgctxt "CATEGORY_4"
 msgid "<!empty>"

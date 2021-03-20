@@ -653,23 +653,23 @@ msgstr ""
 
 msgctxt "CATEGORY_0"
 msgid "アドベンチャー"
-msgstr "Adventure"
+msgstr "アドベンチャー"
 
 msgctxt "CATEGORY_1"
 msgid "アナザーライフ"
-msgstr "Another life"
+msgstr "アナザーライフ"
 
 msgctxt "CATEGORY_2"
 msgid "交流（店舗）"
-msgstr "Exchange (shop)"
+msgstr "交流（店舗）"
 
 msgctxt "CATEGORY_3"
 msgid "交流（人物）"
-msgstr "Communication"
+msgstr "交流（人物）"
 
 msgctxt "CATEGORY_4"
 msgid "バトル"
-msgstr "battle"
+msgstr "バトル"
 
 msgctxt "ACTIVITY_NAME_0"
 msgid "人に100回話しかける"

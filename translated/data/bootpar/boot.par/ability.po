@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "PLAYER_0"
 msgid "龍馬"
-msgstr "Ryoma"
+msgstr "龍馬"
 
 msgctxt "CATEGORY_0"
 msgid "基本操作"

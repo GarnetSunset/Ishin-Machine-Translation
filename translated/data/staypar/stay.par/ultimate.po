@@ -13,19 +13,19 @@ msgstr ""
 
 msgctxt "CATEGORY_0"
 msgid "乱戦闘技"
-msgstr "Random combat technique"
+msgstr "乱戦闘技"
 
 msgctxt "CATEGORY_1"
 msgid "試練闘技"
-msgstr "Trial fighting"
+msgstr "試練闘技"
 
 msgctxt "CATEGORY_2"
 msgid "疾走闘技"
-msgstr "Sprinting fighting"
+msgstr "疾走闘技"
 
 msgctxt "CATEGORY_3"
 msgid "究極闘技"
-msgstr "Ultimate fighting"
+msgstr "究極闘技"
 
 msgctxt "CATEGORY_EXP_0"
 msgid "様々な状況や条件で敵を全滅させることを目的としたミッションです。"

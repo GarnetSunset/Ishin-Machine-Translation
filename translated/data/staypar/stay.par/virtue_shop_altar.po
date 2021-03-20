@@ -13,27 +13,27 @@ msgstr ""
 
 msgctxt "CATEGORY_0"
 msgid "別宅"
-msgstr "Separate house"
+msgstr "別宅"
 
 msgctxt "CATEGORY_1"
 msgid "畑"
-msgstr "field"
+msgstr "畑"
 
 msgctxt "CATEGORY_2"
 msgid "釣り"
-msgstr "fishing"
+msgstr "釣り"
 
 msgctxt "CATEGORY_3"
 msgid "機能"
-msgstr "function"
+msgstr "機能"
 
 msgctxt "CATEGORY_4"
 msgid "徳"
-msgstr "German"
+msgstr "徳"
 
 msgctxt "CATEGORY_5"
 msgid "その他"
-msgstr "Other"
+msgstr "その他"
 
 msgctxt "FUNCTION_NAME_0"
 msgid "調理器具拡張「普通の台所」"

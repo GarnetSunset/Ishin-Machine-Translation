@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "CATEGORY_SHOU_0"
 msgid "第一章"
-msgstr "Chapter One"
+msgstr "第一章"
 
 msgctxt "CATEGORY_BU_0"
 msgid "第一部の登場人物"
-msgstr "Characters of the first part"
+msgstr "第一部の登場人物"
 
 msgctxt "BELONG_0"
 msgid "主人公"

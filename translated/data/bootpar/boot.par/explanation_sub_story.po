@@ -2259,15 +2259,15 @@ msgstr ""
 
 msgctxt "FINISH_FLAG_0"
 msgid "隠"
-msgstr "Hidden"
+msgstr "隠"
 
 msgctxt "FINISH_FLAG_1"
 msgid "未"
-msgstr "not"
+msgstr "未"
 
 msgctxt "FINISH_FLAG_2"
 msgid "完"
-msgstr "Finish"
+msgstr "完"
 
 msgctxt "FINISH_FLAG_3"
 msgid "<!empty>"

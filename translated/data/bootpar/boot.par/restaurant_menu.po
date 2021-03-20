@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "SHOP_ID_0"
 msgid "テスト00"
-msgstr "Test 00"
+msgstr "テスト00"
 
 msgctxt "SHOP_ID_1"
 msgid "テスト01"
-msgstr "Test 01"
+msgstr "テスト01"
 
 msgctxt "MENU_UID_0"
 msgid "uid361002ff"

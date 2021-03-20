@@ -13,27 +13,27 @@ msgstr ""
 
 msgctxt "CATEGORY_0"
 msgid "システム"
-msgstr "system"
+msgstr "システム"
 
 msgctxt "CATEGORY_1"
 msgid "アドベンチャー"
-msgstr "Adventure"
+msgstr "アドベンチャー"
 
 msgctxt "CATEGORY_2"
 msgid "バトル"
-msgstr "battle"
+msgstr "バトル"
 
 msgctxt "CATEGORY_3"
 msgid "チェイスバトル"
-msgstr "Chase battle"
+msgstr "チェイスバトル"
 
 msgctxt "CATEGORY_4"
 msgid "徳"
-msgstr "German"
+msgstr "徳"
 
 msgctxt "CATEGORY_5"
 msgid "アナザーライフ"
-msgstr "Another life"
+msgstr "アナザーライフ"
 
 msgctxt "CATEGORY_EXPLANATION_0"
 msgid "ゲームシステムに関する備忘録です。"
@@ -1701,19 +1701,19 @@ msgstr ""
 
 msgctxt "TYPE_0"
 msgid "必須"
-msgstr "have to"
+msgstr "必須"
 
 msgctxt "TYPE_1"
 msgid "ケア"
-msgstr "care"
+msgstr "ケア"
 
 msgctxt "TYPE_2"
 msgid "ミッション"
-msgstr "Mission"
+msgstr "ミッション"
 
 msgctxt "PLAYER_0"
 msgid "全員"
-msgstr "Everyone"
+msgstr "全員"
 
 msgctxt "PRIORITY_0"
 msgid "0"

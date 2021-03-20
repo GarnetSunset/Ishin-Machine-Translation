@@ -13,23 +13,23 @@ msgstr ""
 
 msgctxt "CATEGORY_0"
 msgid "十兵衛博士"
-msgstr "Dr. Jubei"
+msgstr "十兵衛博士"
 
 msgctxt "CATEGORY_1"
 msgid "新兵衛博士"
-msgstr "Dr. Shinbei"
+msgstr "新兵衛博士"
 
 msgctxt "CATEGORY_2"
 msgid "ウィリアム・ブラッドリー"
-msgstr "William Bradley"
+msgstr "ウィリアム・ブラッドリー"
 
 msgctxt "CATEGORY_3"
 msgid "古牧　宗光"
-msgstr "Gu Mu Zongguang"
+msgstr "古牧　宗光"
 
 msgctxt "CATEGORY_4"
 msgid "吟柳"
-msgstr "Gin Willow"
+msgstr "吟柳"
 
 msgctxt "NAME_0"
 msgid "かかし屋敷の基礎の間を４つクリア"

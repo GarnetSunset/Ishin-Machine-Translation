@@ -17,15 +17,15 @@ msgstr "Fighting"
 
 msgctxt "CATEGORY_1"
 msgid "一刀"
-msgstr "A knife"
+msgstr "一刀"
 
 msgctxt "CATEGORY_2"
 msgid "短銃"
-msgstr "Handgun"
+msgstr "短銃"
 
 msgctxt "CATEGORY_3"
 msgid "乱舞"
-msgstr "Ranbu"
+msgstr "乱舞"
 
 msgctxt "NAME_0"
 msgid "壁面打撃の極み"

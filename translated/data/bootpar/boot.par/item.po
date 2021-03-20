@@ -5719,7 +5719,7 @@ msgstr ""
 
 msgctxt "CATEGORY_RECOVER_1"
 msgid "○"
-msgstr ""
+msgstr "○"
 
 msgctxt "CATEGORY_EQUIP_0"
 msgid "<!empty>"
@@ -14755,7 +14755,7 @@ msgstr ""
 
 msgctxt "UNIT_0"
 msgid "個"
-msgstr "A"
+msgstr "個"
 
 msgctxt "UNIT_1"
 msgid "　"
@@ -14763,95 +14763,95 @@ msgstr "　"
 
 msgctxt "UNIT_2"
 msgid "錠"
-msgstr "Lock"
+msgstr "錠"
 
 msgctxt "UNIT_3"
 msgid "本"
-msgstr "this"
+msgstr "本"
 
 msgctxt "UNIT_4"
 msgid "枚"
-msgstr "Sheet"
+msgstr "枚"
 
 msgctxt "UNIT_5"
 msgid "匹"
-msgstr "Animal"
+msgstr "匹"
 
 msgctxt "UNIT_6"
 msgid "杯"
-msgstr "cup"
+msgstr "杯"
 
 msgctxt "UNIT_7"
 msgid "粒"
-msgstr "grain"
+msgstr "粒"
 
 msgctxt "UNIT_8"
 msgid "袋"
-msgstr "bag"
+msgstr "袋"
 
 msgctxt "UNIT_9"
 msgid "箱"
-msgstr "box"
+msgstr "箱"
 
 msgctxt "UNIT_10"
 msgid "束"
-msgstr "bundle"
+msgstr "束"
 
 msgctxt "UNIT_11"
 msgid "鞘"
-msgstr "sheath"
+msgstr "鞘"
 
 msgctxt "UNIT_12"
 msgid "皿"
-msgstr "dish"
+msgstr "皿"
 
 msgctxt "UNIT_13"
 msgid "食"
-msgstr "food"
+msgstr "食"
 
 msgctxt "UNIT_14"
 msgid "膳"
-msgstr "Set"
+msgstr "膳"
 
 msgctxt "UNIT_15"
 msgid "体"
-msgstr "body"
+msgstr "体"
 
 msgctxt "UNIT_16"
 msgid "回"
-msgstr "Times"
+msgstr "回"
 
 msgctxt "UNIT_17"
 msgid "振"
-msgstr "Vibrate"
+msgstr "振"
 
 msgctxt "UNIT_18"
 msgid "丁"
-msgstr "Ding"
+msgstr "丁"
 
 msgctxt "UNIT_19"
 msgid "門"
-msgstr "door"
+msgstr "門"
 
 msgctxt "UNIT_20"
 msgid "着"
-msgstr "With"
+msgstr "着"
 
 msgctxt "UNIT_21"
 msgid "発"
-msgstr "Departure"
+msgstr "発"
 
 msgctxt "UNIT_22"
 msgid "一式"
-msgstr "Set"
+msgstr "一式"
 
 msgctxt "UNIT_23"
 msgid "冊"
-msgstr "book"
+msgstr "冊"
 
 msgctxt "UNIT_24"
 msgid "<!empty>"
-msgstr ""
+msgstr "<!empty>"
 
 msgctxt "IMPORTANT_0"
 msgid "○"
