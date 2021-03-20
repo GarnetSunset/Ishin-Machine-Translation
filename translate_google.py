@@ -71,7 +71,7 @@ for fileName in poList:
     output_file.metadata = yourMetadata
     for entry in input_file:
         if re.search(regex, str(entry.msgid)):
-            if any(x in str(entry.msgid) for x in blacklist):
+            if any(x in str(entry.msgctxt) for x in blacklist):
                 translated_entry = polib.POEntry(
                     msgctxt=entry.msgctxt,
                     msgid=entry.msgid,
