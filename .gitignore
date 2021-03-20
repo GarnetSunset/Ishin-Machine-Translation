@@ -11,6 +11,7 @@ cleaned/
 pkgsForUpdate/
 patch/
 translated/data/bootpar/boot.par/kiyaku.po
+FIXUS.txt
 
 # Distribution / packaging
 .Python

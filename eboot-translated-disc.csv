@@ -1998,15 +1998,15 @@
 0x00e26744;Soldier list
 0x00e2675c;Soldier Overview
 0x00e26774;Spear
-0x00e2678c;Start the game from the beginning. <Color:5> "Ryu ga Gotoku Restoration! To take over the [n] data of the free app for PlayStation Vita, select the "downloaded" data from "Continue". <Color:Default>
-0x00e2684c;Start the game from the saved continuation.
+0x00e2678c;Start a new game. <Color:5> "Ryu ga Gotoku Restoration! To take over the [n] data of the free app for PlayStation Vita, select the "downloaded" data from "Continue". <Color:Default>
+0x00e2684c;Load a saved game.
 0x00e26874;"Ryu ga Gotoku Restoration! Share your progress with the free app for PlayStation Vita [n] or PlayStation 4 version.
 0x00e268dc;You can play 5 types of mini-games of Mahjong, Shogi, Koi-Koi, Oicho-Kabu, and Poker in network battles.
-0x00e2693c;[n] You can freely explore the world at the end of the Edo period regardless of the main story scenario.
-0x00e26984;This mode can only be challenged by those who have mastered the fight. [n] If you conquer all the battles, you will get a rare tool.
-0x00e269e4;You can check the information about the network.
-0x00e26a1c;You can appreciate the event scene that you have seen once.
-0x00e26a44;Various setting items can be changed. [n]
+0x00e2693c;Explore the game world without[n]following the main story.
+0x00e26984;A challenge mode for the best of fighters.
+0x00e269e4;View information about online features.
+0x00e26a1c;View previously seen story events.
+0x00e26a44;Adjust various settings.
 0x00e26a90;Save the save data on the PlayStation 3 side on the [n] network.
 0x00e26ad0;Save the save data on the PlayStation 4 side on the [n] network.
 0x00e26b10;Save the save data on the PlayStation Vita side on the [n] network.

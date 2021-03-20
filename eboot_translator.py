@@ -10,25 +10,29 @@ def write_string(data, offset, string, ignoreLength):
     i = 0
     while i < len(data[pos+end:]) and data[pos+end:][i] == 0:
         i += 1
-
+    text_file = open("FIXUS.txt", "w")
     max_len = end + i - 1
     try:
         byte_string = string.encode("shift_jisx0213").replace(b'[n]', b'\x0A')
         if len(byte_string) > max_len and ignoreLength == False:
             print(f"Text is too long - offset: {offset}, translation: {string}, max length: {max_len}")
+            text_file.write(f"Text is too long - offset: {offset}, translation: {string}, max length: {max_len}")
         #elif len(byte_string) <= 1:
             #print(f"Broken text - offset: {offset}, translation: {string}, max length: {max_len}")
         else:
-            print(string)
+            #print(string)
             struct.pack_into(f"{max_len}s", data, pos, byte_string)
     except(TypeError):
             print(f"Wrong type - offset: {offset}, translation: {string}, max length: {max_len}")
+            text_file.write(f"Wrong type - offset: {offset}, translation: {string}, max length: {max_len}")
     except(AttributeError):
             print(f"Wrong type - offset: {offset}, translation: {string}, max length: {max_len}")    
+            text_file.write(f"Wrong type - offset: {offset}, translation: {string}, max length: {max_len}")    
     except(UnicodeEncodeError):
             byte_string = string.encode("shift_jisx0213").replace(b'[n]', b'\x0A')
             if len(byte_string) < max_len:
                 struct.pack_into(f"{max_len}s", data, pos, byte_string)
+    text_file.close()
 
 
 def replace_strings(origfile,eboot,ignoreLength):

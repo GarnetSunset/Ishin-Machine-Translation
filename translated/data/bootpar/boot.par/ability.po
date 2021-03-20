@@ -17,31 +17,31 @@ msgstr "Ryoma"
 
 msgctxt "CATEGORY_0"
 msgid "基本操作"
-msgstr "Basic operation"
+msgstr "基本操作"
 
 msgctxt "CATEGORY_1"
 msgid "特殊技"
-msgstr "Special skills"
+msgstr "特殊技"
 
 msgctxt "CATEGORY_2"
 msgid "ヒートアクション"
-msgstr "Heat action"
+msgstr "ヒートアクション"
 
 msgctxt "CATEGORY_3"
 msgid "格闘の型"
-msgstr "Fighting type"
+msgstr "格闘の型"
 
 msgctxt "CATEGORY_4"
 msgid "一刀の型"
-msgstr "One sword type"
+msgstr "一刀の型"
 
 msgctxt "CATEGORY_5"
 msgid "短銃の型"
-msgstr "Handgun type"
+msgstr "短銃の型"
 
 msgctxt "CATEGORY_6"
 msgid "乱舞の型"
-msgstr "Ranbu type"
+msgstr "乱舞の型"
 
 msgctxt "SKILL_0"
 msgid "歩く／走る"
@@ -905,31 +905,31 @@ msgstr "Random technique The height of flying raid"
 
 msgctxt "TAG_0"
 msgid "基本操作"
-msgstr "Basic operation"
+msgstr "基本操作"
 
 msgctxt "TAG_1"
 msgid "特殊技"
-msgstr "Special skills"
+msgstr "特殊技"
 
 msgctxt "TAG_2"
 msgid "ヒートアクション"
-msgstr "Heat action"
+msgstr "ヒートアクション"
 
 msgctxt "TAG_3"
 msgid "格闘の型"
-msgstr "Fighting type"
+msgstr "格闘の型"
 
 msgctxt "TAG_4"
 msgid "一刀の型"
-msgstr "One sword type"
+msgstr "一刀の型"
 
 msgctxt "TAG_5"
 msgid "短銃の型"
-msgstr "Handgun type"
+msgstr "短銃の型"
 
 msgctxt "TAG_6"
 msgid "乱舞の型"
-msgstr "Ranbu type"
+msgstr "乱舞の型"
 
 msgctxt "LIMIT_BREAK_0"
 msgid "<!empty>"
