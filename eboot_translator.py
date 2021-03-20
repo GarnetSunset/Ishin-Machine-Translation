@@ -3,7 +3,7 @@ import sys
 import pandas as pd
 
 
-def write_string(data, offset, string):
+def write_string(data, offset, string, ignoreLength):
     pos = offset
     end = data[pos:].index(b'\x00')
 
@@ -14,7 +14,7 @@ def write_string(data, offset, string):
     max_len = end + i - 1
     try:
         byte_string = string.encode("shift-jis").replace(b'[n]', b'\x0A')
-        if len(byte_string) > max_len:
+        if len(byte_string) > max_len and ignoreLength == False:
             print(f"Text is too long - offset: {offset}, translation: {string}, max length: {max_len}")
         #elif len(byte_string) <= 1:
             #print(f"Broken text - offset: {offset}, translation: {string}, max length: {max_len}")
@@ -31,7 +31,7 @@ def write_string(data, offset, string):
                 struct.pack_into(f"{max_len}s", data, pos, byte_string)
 
 
-def replace_strings(origfile,eboot):
+def replace_strings(origfile,eboot,ignoreLength):
     with open(eboot, "rb") as f:
         data = bytearray(f.read())
 
@@ -42,7 +42,7 @@ def replace_strings(origfile,eboot):
     strings = df.iloc[:, 1]
 
     for o, s in zip(offsets, strings):
-        write_string(data, int(o, 16), s)
+        write_string(data, int(o, 16), s,ignoreLength)
     
     with open(eboot, "wb") as f:
         f.write(data)
