@@ -225,13 +225,13 @@
 0x00e1aef8;Character padding
 0x00e1af10;
 0x00e1af18;
-At 0x00e1af20;
+0x00e1af20;At 
 0x00e1af28;and
 0x00e1af30;
-To 0x00e1af38;
+0x00e1af38;To 
 0x00e1af40;
 0x00e1af48;
-To 0x00e1af50;
+0x00e1af50;To 
 0x00e1af58;also
 0x00e1af60;
 0x00e1af68;
@@ -437,7 +437,7 @@ To 0x00e1af50;
 0x00e1ba04;Shishi
 0x00e1ba0c;Samurai
 0x00e1ba14;Beautiful woman
-Like 0x00e1ba1c;
+0x00e1ba1c;Like 
 0x00e1ba24;Maiko
 0x00e1ba2c;Kappa
 0x00e1ba34;Geisha
@@ -526,7 +526,7 @@ Like 0x00e1ba1c;
 0x00e1c434;Chapter 13 Assassination of Ryoma
 0x00e1c44c;Final Chapter Dawn
 0x00e1c45c;Complete
-Got 0x00e1c4a0;%s
+0x00e1c4a0;Got %s
 0x00e1c4b8;lost%s
 0x00e1c4d0;Health recovered
 0x00e1c4e8;
@@ -1057,7 +1057,7 @@ Got 0x00e1c4a0;%s
 0x00e206f8;
 0x00e20718;
 0x00e20734;?
-At 0x00e20740;
+0x00e20740;At 
 0x00e20760;!
 0x00e20770;?
 0x00e20780;!
@@ -1076,7 +1076,7 @@ At 0x00e20740;
 0x00e2085c;!
 0x00e20874;!
 0x00e20880;
-At 0x00e20888;
+0x00e20888;At 
 0x00e20898;!
 0x00e208a4;~
 0x00e208b8;~
@@ -1103,7 +1103,7 @@ At 0x00e20888;
 0x00e20a0c;!
 0x00e20a10;?
 0x00e20a20;…
-At 0x00e20a24;
+0x00e20a24;At 
 0x00e20a28;!
 0x00e20a3c;
 0x00e20a48;…
@@ -1122,7 +1122,7 @@ At 0x00e20a24;
 0x00e20ae0;
 0x00e20af8;…
 0x00e20b00;…
-At 0x00e20b24;
+0x00e20b24;At 
 0x00e20b28;!
 0x00e20b34;…
 0x00e20b40;
@@ -1156,7 +1156,7 @@ At 0x00e20b24;
 0x00e20c88;!
 0x00e20c9c;
 0x00e20ca0;
-To 0x00e20ca4;
+0x00e20ca4;To 
 0x00e20cac;
 0x00e20cb0;
 0x00e20cb4;
@@ -1182,11 +1182,11 @@ To 0x00e20ca4;
 0x00e20de4;
 0x00e20df0;…
 0x00e20e04;…
-At 0x00e20e14;
+0x00e20e14;At 
 0x00e20e18;…
 0x00e20e24;!
 0x00e20e30;
-At 0x00e20e40;
+0x00e20e40;At 
 0x00e20e48;!
 0x00e20e50;
 0x00e20e54;?
@@ -1205,7 +1205,7 @@ At 0x00e20e40;
 0x00e20eec;
 0x00e20ef4;…
 0x00e20efc;…
-At 0x00e20f04;
+0x00e20f04;At 
 0x00e20f08;
 0x00e20f18;
 0x00e20f20;…
@@ -1222,14 +1222,14 @@ At 0x00e20f04;
 0x00e20fa0;!
 0x00e20fa4;
 0x00e20fb0;
-At 0x00e20fb4;
-At 0x00e20fbc;
+0x00e20fb4;At 
+0x00e20fbc;At 
 0x00e20fc0;
 0x00e20fc4;
-At 0x00e20fd4;
+0x00e20fd4;At 
 0x00e20fe0;
 0x00e20ff4;!
-At 0x00e21018;
+0x00e21018;At 
 0x00e21020;!
 0x00e21024;
 0x00e21044;
@@ -1575,12 +1575,12 @@ At 0x00e21018;
 0x00e23058;Parents are competing.
 0x00e23070;There are no points, so it will end.
 0x00e23090;Some participants have run out of betting points, so this game ends here.
-"0x00e23108;betting points%d points"
-"0x00e23118;Result%d points"
+0x00e23108;"betting points%d points"
+0x00e23118;"Result%d points"
 0x00e23138;Doshippin
 0x00e23148;Shiroku's escape
 0x00e23158;Tag type
-For 0x00e2317c;
+0x00e2317c;For 
 0x00e23184;Get off the game with Shiroku's escape.
 0x00e231ac;Earn the same amount of bets.
 0x00e231cc;I won twice the bet points because I won the shippin.
@@ -1659,7 +1659,7 @@ For 0x00e2317c;
 0x00e23ad4;Defense
 0x00e23ae4;Rarity
 0x00e23aec;Case
-You can check the reinforcement material of the selected armor with 0x00e23b00;.
+0x00e23b00;You can check the reinforcement material of the selected armor with .
 0x00e23b4c;Basic operation
 0x00e23b5c;Special skill
 0x00e23b64;Fighting type
@@ -1829,7 +1829,7 @@ You can check the reinforcement material of the selected armor with 0x00e23b00;.
 0x00e24d78;Handgun Soul Ball
 0x00e24d88;Soul of Ranbu
 0x00e24d98;Training Soul Ball
-Do you want to replace it with 0x00e24dc0;%s?
+0x00e24dc0;Do you want to replace it with %s?
 0x00e24de8;
 0x00e24df0;
 0x00e24df8;
@@ -1908,7 +1908,7 @@ Do you want to replace it with 0x00e24dc0;%s?
 0x00e25584;5 cars
 0x00e2558c;1 car
 0x00e25594;5000 sentences
-Use 0x00e255c4;%s to recruit troops.
+0x00e255c4;Use %s to recruit troops.
 0x00e255e4;No more troops can be owned.
 0x00e2560c;Please select a unit.
 0x00e25634;Please select a soldier.
