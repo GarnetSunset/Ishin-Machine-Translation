@@ -125,7 +125,7 @@ msgstr ""
 
 msgctxt "3572"
 msgid "勤王だってだけで俺らに殺されたり"
-msgstr "Even the Qin Wang was killed by us"
+msgstr "Even the Loyalist was killed by us"
 
 msgctxt "3716"
 msgid ""

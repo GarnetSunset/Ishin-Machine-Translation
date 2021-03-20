@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "404"
 msgid "“勤王”とは"
-msgstr "What is \"Qin Wang\"?"
+msgstr "What is \"Loyalist\"?"
 
 msgctxt "548"
 msgid "帝をこそ日本の主君と仰ぐことであり"
@@ -32,7 +32,7 @@ msgid ""
 "このため“勤王志士”たちは\n"
 "帝を擁する京に各地から集結し"
 msgstr ""
-"For this reason, \"Qin Wang Shishi\" gathered\n"
+"For this reason, \"Loyalist Shishi\" gathered\n"
 "from all over the country where the\n"
 "emperor is located."
 

@@ -117,7 +117,7 @@ msgid ""
 "勤王党に戻って\n"
 "俺と一緒に親っさんの志を引き継ぐんだ！"
 msgstr ""
-"Go back to the Qin Wang Party and take over\n"
+"Go back to the Loyalist Party and take over\n"
 "your parents' aspirations with me!"
 
 msgctxt "340296"

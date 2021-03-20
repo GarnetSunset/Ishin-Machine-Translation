@@ -325,7 +325,7 @@ msgid ""
 "沖田総司は浪士組一の剣豪として\n"
 "勤王志士達の間でも名が通ってる"
 msgstr ""
-"Soji Okita is well known among the Qin Wang\n"
+"Soji Okita is well known among the Loyalist\n"
 "swordsmen as the swordsman of the Roshigumi."
 
 msgctxt "951020"

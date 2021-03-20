@@ -45,7 +45,7 @@ msgctxt "198160"
 msgid "お前が勤王党の筆頭にふさわしい男じゃないと"
 msgstr ""
 "You must be the man who deserves the lead\n"
-"of the Qin Wang Party"
+"of the Loyalist Party"
 
 msgctxt "198304"
 msgid "お前"

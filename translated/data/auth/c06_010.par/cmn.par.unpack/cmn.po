@@ -17,7 +17,7 @@ msgstr "Stop it, stop it!"
 
 msgctxt "139180"
 msgid "勤王の志士ってのはみんな"
-msgstr "All the priests of Qin Wang"
+msgstr "All the priests of Loyalist"
 
 msgctxt "139324"
 msgid "イイ声で泣くなぁ"

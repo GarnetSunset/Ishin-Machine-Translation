@@ -103,7 +103,7 @@ msgctxt "360276"
 msgid "お前は勤王党の盟主でいたいがために"
 msgstr ""
 "Because you want to be the leader of the\n"
-"Qin Wang Party"
+"Loyalist Party"
 
 msgctxt "360420"
 msgid "親っさんを殺したっていうのか"

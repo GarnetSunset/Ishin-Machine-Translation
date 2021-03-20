@@ -132,7 +132,7 @@ msgid ""
 "兄弟も勤王党も\n"
 "親っさんの死とは無関係ってことだ"
 msgstr ""
-"Both the brothers and the Qin Wang party\n"
+"Both the brothers and the Loyalist party\n"
 "have nothing to do with the death of their\n"
 "parents."
 

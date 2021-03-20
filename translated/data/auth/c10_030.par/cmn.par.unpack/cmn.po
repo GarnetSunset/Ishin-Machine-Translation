@@ -77,7 +77,7 @@ msgid ""
 "有名な話らしいやないか"
 msgstr ""
 "It seems to be a famous story among the\n"
-"Qin Wang faction"
+"Loyalist faction"
 
 msgctxt "333332"
 msgid "虚無僧のナリした坂本龍馬……"

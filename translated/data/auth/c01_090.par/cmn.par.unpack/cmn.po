@@ -49,7 +49,7 @@ msgstr "It's Ryoma Sakamoto"
 
 msgctxt "191388"
 msgid "これが　土佐勤王党か……"
-msgstr "Is this the Tosa Qin Wang Party ..."
+msgstr "Is this the Tosa Loyalist Party ..."
 
 msgctxt "191532"
 msgid ""
