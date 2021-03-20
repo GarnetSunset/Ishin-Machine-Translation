@@ -2837,55 +2837,55 @@ msgstr ""
 
 msgctxt "KIND_0"
 msgid "通常"
-msgstr "Normal"
+msgstr "通常"
 
 msgctxt "KIND_1"
 msgid "農作"
-msgstr "Farming"
+msgstr "農作"
 
 msgctxt "KIND_2"
 msgid "魚"
-msgstr "fish"
+msgstr "魚"
 
 msgctxt "KIND_3"
 msgid "武器(剣)"
-msgstr "Weapon (sword)"
+msgstr "武器(剣)"
 
 msgctxt "KIND_4"
 msgid "武器(特)"
-msgstr "Weapons (special)"
+msgstr "武器(特)"
 
 msgctxt "KIND_5"
 msgid "武器(銃)"
-msgstr "Weapon (gun)"
+msgstr "武器(銃)"
 
 msgctxt "KIND_6"
 msgid "防具(腕)"
-msgstr "Armor (arm)"
+msgstr "防具(腕)"
 
 msgctxt "KIND_7"
 msgid "防具(胴)"
-msgstr "Armor (body)"
+msgstr "防具(胴)"
 
 msgctxt "KIND_8"
 msgid "防具(頭)"
-msgstr "Armor (head)"
+msgstr "防具(頭)"
 
 msgctxt "KIND_9"
 msgid "武器(弾)"
-msgstr "Weapon (bullet)"
+msgstr "武器(弾)"
 
 msgctxt "KIND_10"
 msgid "重要"
-msgstr "important"
+msgstr "重要"
 
 msgctxt "KIND_11"
 msgid "特殊"
-msgstr "special"
+msgstr "特殊"
 
 msgctxt "KIND_12"
 msgid "素材"
-msgstr "Material"
+msgstr "素材"
 
 msgctxt "NAME_0"
 msgid "　"
