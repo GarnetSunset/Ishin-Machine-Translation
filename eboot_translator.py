@@ -37,18 +37,22 @@ def write_string(data, offset, string, ignore_length):
     text_file.close()
 
 
-def replace_strings(text, eboot, ignore_length, output):
+def replace_strings(text, eboot, ignore_length, output, version):
     with open(eboot, "rb") as f:
         data = bytearray(f.read())
 
     if os.path.exists('FIXUS.txt'): #deletes old log if it exists
         os.remove('FIXUS.txt')
 
-    #csv file with text
-    translated_text = text
-    df = pd.read_csv(translated_text, delimiter=';')
-    offsets = df.iloc[:, 0]
-    strings = df.iloc[:, 1]
+    #loads xlsx file with text
+    df = pd.read_excel(text,sheet_name='Sheet1', usecols="A:D")
+    
+    if version == 'disc':
+        offsets = df['Disc offset'].tolist()
+    else:
+        offsets = df['PSN offset'].tolist()
+
+    strings = df['Translation'].tolist()
 
     for o, s in zip(offsets, strings):
         write_string(data, int(o, 16), s, ignore_length)
@@ -81,8 +85,9 @@ def print_strings(eboot):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("input",  help='Eboot file (EBOOT.elf)', type=str)
-    parser.add_argument("text", help="Pick a csv file containing text and offsets.", type=str)
+    parser.add_argument("text", help="Pick a xlsx file containing text and offsets.", type=str)
     parser.add_argument("output", help="Output eboot name.", type=str)
+    parser.add_argument("version", help="Game version. Valid choices are 'PSN' and 'Disc'", type=str)
 
     parser.add_argument("-il,", "--ignorelength", help="Ignores length.") #why does this even exist?
     args = parser.parse_args()
@@ -91,8 +96,12 @@ def main():
         ignore_length = True
     else:
         ignore_length = False
-        
-    replace_strings(args.text, args.input, ignore_length, args.output)
+
+    if args.version.lower() not in ['psn', 'disc']:
+        print('Incorrect version.')
+        quit()
+
+    replace_strings(args.text, args.input, ignore_length, args.output, args.version.lower())
 
 
 if __name__ == "__main__":
