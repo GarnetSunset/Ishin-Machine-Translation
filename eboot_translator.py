@@ -17,8 +17,8 @@ def write_string(data, offset, string, ignoreLength):
         if len(byte_string) > max_len and ignoreLength == False:
             print(f"Text is too long - offset: {offset}, translation: {string}, max length: {max_len}")
             text_file.write(f"Text is too long - offset: {offset}, translation: {string}, max length: {max_len}")
-        #elif len(byte_string) <= 1:
-            #print(f"Broken text - offset: {offset}, translation: {string}, max length: {max_len}")
+        elif len(byte_string) = 0:
+            print(f"Text missing - offset: {offset}, translation: {string}, max length: {max_len}")
         else:
             #print(string)
             struct.pack_into(f"{max_len}s", data, pos, byte_string)
