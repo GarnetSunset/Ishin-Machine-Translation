@@ -29,7 +29,7 @@ msgstr "(It looks like you don't have enough ...)"
 
 msgctxt "352"
 msgid "どうも。%sになります。"
-msgstr "Thanks. It becomes% s."
+msgstr "Thanks. It becomes %s."
 
 msgctxt "375"
 msgid "（これ以上食べられないな……）"

@@ -15,7 +15,7 @@ msgctxt "676"
 msgid ""
 "いらっしゃい。\n"
 "こんなんどないや？"
-msgstr "welcome. Isn't it like this?"
+msgstr "Welcome. Isn't it like this?"
 
 msgctxt "711"
 msgid "<!empty>"
@@ -23,7 +23,7 @@ msgstr ""
 
 msgctxt "712"
 msgid "福引き券%d枚、渡すで。"
-msgstr "Give me% d of lucky tickets."
+msgstr "Give me %d of lucky tickets."
 
 msgctxt "735"
 msgid ""

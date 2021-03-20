@@ -253,7 +253,7 @@ msgstr ""
 
 msgctxt "19062"
 msgid "%sがペットになりました。"
-msgstr "% s is now a pet."
+msgstr "%s is now a pet."
 
 msgctxt "19087"
 msgid "俺がお前を支えてやる。さぁ、家に帰るぞ。"

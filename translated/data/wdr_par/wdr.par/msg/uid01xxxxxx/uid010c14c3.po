@@ -122,7 +122,7 @@ msgstr "Give the beckoning cat a name."
 
 msgctxt "7616"
 msgid "%sがペットになりました。"
-msgstr "% s is now a pet."
+msgstr "%s is now a pet."
 
 msgctxt "7641"
 msgid "<!empty>"

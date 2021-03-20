@@ -292,11 +292,11 @@ msgid ""
 "%sちゃんにってこれ貰ったよ。"
 msgstr ""
 "Ah! Oh yeah, I got this from my business\n"
-"partner's husband for% s."
+"partner's husband for %s."
 
 msgctxt "9433"
 msgid "「<Color:8>%s<Color:Default>」を受け取った。"
-msgstr "\"<Color:8> % s<Color:Default> Was received."
+msgstr "<Color:8>%s<Color:Default> was received."
 
 msgctxt "9478"
 msgid "<!empty>"

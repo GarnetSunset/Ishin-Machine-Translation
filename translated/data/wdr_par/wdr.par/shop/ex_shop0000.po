@@ -61,7 +61,7 @@ msgstr "<Sign:1>Forward"
 
 msgctxt "1061"
 msgid "<Sign:1>次へ %d/%d"
-msgstr "<Sign:1>Next% d /% d"
+msgstr "<Sign:1>Next %d/%d"
 
 msgctxt "1080"
 msgid "－"

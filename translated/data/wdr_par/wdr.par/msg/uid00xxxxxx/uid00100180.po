@@ -21,7 +21,7 @@ msgstr "It is B."
 
 msgctxt "642"
 msgid "%sです。"
-msgstr "% s."
+msgstr "It is %s."
 
 msgctxt "651"
 msgid "Ａです。"
@@ -29,7 +29,7 @@ msgstr "It is A."
 
 msgctxt "660"
 msgid "%sです。"
-msgstr "% s."
+msgstr "It is %s."
 
 msgctxt "669"
 msgid "Ｂです。"

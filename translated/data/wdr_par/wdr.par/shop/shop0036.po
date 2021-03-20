@@ -29,7 +29,7 @@ msgstr "(It looks like you don't have enough ...)"
 
 msgctxt "384"
 msgid "まいどおおきに。%sです。"
-msgstr "Maido big. % s."
+msgstr "Maido big. %s."
 
 msgctxt "409"
 msgid "（持ち物が一杯だな……）"
@@ -61,7 +61,7 @@ msgstr "<Sign:1>Forward"
 
 msgctxt "520"
 msgid "<Sign:1>次へ %d/%d"
-msgstr "<Sign:1>Next% d /% d"
+msgstr "<Sign:1>Next %d/%d"
 
 msgctxt "539"
 msgid "－"

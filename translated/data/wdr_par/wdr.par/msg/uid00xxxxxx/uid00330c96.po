@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "14564"
 msgid "福引き券%d枚お渡しします。"
-msgstr "We will give you% d of lucky tickets."
+msgstr "We will give you %d of lucky tickets."
 
 msgctxt "14591"
 msgid ""
@@ -71,7 +71,7 @@ msgstr ""
 
 msgctxt "14788"
 msgid "福引き券%d枚お渡しします。"
-msgstr "We will give you% d of lucky tickets."
+msgstr "We will give you %d of lucky tickets."
 
 msgctxt "14815"
 msgid ""
@@ -232,7 +232,7 @@ msgstr "Understood."
 
 msgctxt "15753"
 msgid "福引き券%d枚渡します。"
-msgstr "We will give you% d of lucky tickets."
+msgstr "We will give you %d of lucky tickets."
 
 msgctxt "15776"
 msgid ""
@@ -278,7 +278,7 @@ msgstr ""
 
 msgctxt "15976"
 msgid "福引き券%d枚渡します。"
-msgstr "We will give you% d of lucky tickets."
+msgstr "We will give you %d of lucky tickets."
 
 msgctxt "15999"
 msgid ""
@@ -326,7 +326,7 @@ msgstr ""
 
 msgctxt "16258"
 msgid "福引き券%d枚渡します。"
-msgstr "We will give you% d of lucky tickets."
+msgstr "We will give you %d of lucky tickets."
 
 msgctxt "16281"
 msgid ""
@@ -459,7 +459,7 @@ msgstr ""
 
 msgctxt "17202"
 msgid "福引き券%d枚お渡しします。"
-msgstr "We will give you% d of lucky tickets."
+msgstr "We will give you %d of lucky tickets."
 
 msgctxt "17229"
 msgid ""
@@ -505,7 +505,7 @@ msgstr ""
 
 msgctxt "17459"
 msgid "福引き券%d枚お渡しします。"
-msgstr "We will give you% d of lucky tickets."
+msgstr "We will give you %d of lucky tickets."
 
 msgctxt "17486"
 msgid ""

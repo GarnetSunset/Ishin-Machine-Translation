@@ -41,11 +41,11 @@ msgstr "<Sign:1>Forward"
 
 msgctxt "139"
 msgid "<Sign:1>次へ %d/%d"
-msgstr "<Sign:1>Next% d /% d"
+msgstr "<Sign:1>Next %d/%d"
 
 msgctxt "158"
 msgid "%sてとこですね。"
-msgstr "It's% s."
+msgstr "It's %s."
 
 msgctxt "175"
 msgid "貴重なものも交じってますけど、よろしいですか？"

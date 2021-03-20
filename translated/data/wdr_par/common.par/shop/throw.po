@@ -41,4 +41,4 @@ msgstr ""
 
 msgctxt "3016"
 msgid "%s を捨てました"
-msgstr "Discarded% s"
+msgstr "Discarded %s"

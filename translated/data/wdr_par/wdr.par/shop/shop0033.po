@@ -17,7 +17,7 @@ msgstr "－"
 
 msgctxt "415"
 msgid "所持数"
-msgstr "The number of possession"
+msgstr "The number of possessions"
 
 msgctxt "422"
 msgid "（何も選んでいない……）"
@@ -29,7 +29,7 @@ msgstr "(It looks like you don't have enough ...)"
 
 msgctxt "480"
 msgid "ありがとうございます。%sでございます。"
-msgstr "thanks you. This is% s."
+msgstr "Thanks you. This is %s."
 
 msgctxt "519"
 msgid "（持ち物が一杯だな……）"
@@ -61,7 +61,7 @@ msgstr "<Sign:1>Forward"
 
 msgctxt "630"
 msgid "<Sign:1>次へ %d/%d"
-msgstr "<Sign:1>Next% d /% d"
+msgstr "<Sign:1>Next %d/%d"
 
 msgctxt "649"
 msgid "－"

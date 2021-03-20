@@ -57,11 +57,11 @@ msgid ""
 "%sちゃんにってこれ貰ったどすえ。"
 msgstr ""
 "Ah! Oh yeah, I got this from my business\n"
-"partner's husband,% s-chan."
+"partner's husband, %s-chan."
 
 msgctxt "1772"
 msgid "「<Color:8>%s<Color:Default>」を受け取った。"
-msgstr "\"<Color:8> % s<Color:Default> Was received."
+msgstr "<Color:8>%s<Color:Default> was received."
 
 msgctxt "1817"
 msgid "<!empty>"

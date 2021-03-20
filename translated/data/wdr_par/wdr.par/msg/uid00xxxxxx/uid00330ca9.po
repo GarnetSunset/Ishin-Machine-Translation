@@ -29,7 +29,7 @@ msgstr "Here it is. How would you like it?"
 
 msgctxt "12887"
 msgid "福引き券%d枚お渡しします。"
-msgstr "We will give you% d of lucky tickets."
+msgstr "We will give you %d of lucky tickets."
 
 msgctxt "12914"
 msgid ""
@@ -59,7 +59,7 @@ msgstr "Here it is. How would you like it?"
 
 msgctxt "13111"
 msgid "福引き券%d枚お渡しします。"
-msgstr "We will give you% d of lucky tickets."
+msgstr "We will give you %d of lucky tickets."
 
 msgctxt "13138"
 msgid ""
@@ -204,7 +204,7 @@ msgstr "thanks you. How would you like it?"
 
 msgctxt "14253"
 msgid "福引き券%d枚お渡しします。"
-msgstr "We will give you% d of lucky tickets."
+msgstr "We will give you %d of lucky tickets."
 
 msgctxt "14280"
 msgid ""
@@ -234,7 +234,7 @@ msgstr ""
 
 msgctxt "14465"
 msgid "福引き券%d枚お渡しします。"
-msgstr "We will give you% d of lucky tickets."
+msgstr "We will give you %d of lucky tickets."
 
 msgctxt "14492"
 msgid ""
@@ -272,7 +272,7 @@ msgstr ""
 
 msgctxt "14719"
 msgid "福引き券%d枚お渡しします。"
-msgstr "We will give you% d of lucky tickets."
+msgstr "We will give you %d of lucky tickets."
 
 msgctxt "14746"
 msgid ""

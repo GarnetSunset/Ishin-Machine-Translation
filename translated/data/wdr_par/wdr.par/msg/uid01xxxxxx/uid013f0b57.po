@@ -17,7 +17,7 @@ msgid ""
 "うちはええもんしか扱ってないで。\n"
 "見てってや。"
 msgstr ""
-"welcome. We only deal with yeah. Look at\n"
+"Welcome. We only deal with yeah. Look at\n"
 "it."
 
 msgctxt "771"
@@ -26,7 +26,7 @@ msgstr ""
 
 msgctxt "772"
 msgid "福引き券%d枚、渡すで。"
-msgstr "Give me% d of lucky tickets."
+msgstr "Give me %d of lucky tickets."
 
 msgctxt "795"
 msgid ""

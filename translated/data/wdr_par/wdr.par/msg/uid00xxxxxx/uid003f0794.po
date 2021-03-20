@@ -140,7 +140,7 @@ msgid ""
 "お客さん、福引き券%d枚\n"
 "お渡ししますわ。"
 msgstr ""
-"Customers, we will give you% d of Fukubiki\n"
+"Customers, we will give you %d of Fukubiki\n"
 "tickets."
 
 msgctxt "4082"

@@ -15,7 +15,7 @@ msgctxt "1032"
 msgid ""
 "もしもし、%sさん？\n"
 "ひなたですけどー。"
-msgstr "Hello,% s? It's Hinata."
+msgstr "Hello, %s? It's Hinata."
 
 msgctxt "1071"
 msgid ""

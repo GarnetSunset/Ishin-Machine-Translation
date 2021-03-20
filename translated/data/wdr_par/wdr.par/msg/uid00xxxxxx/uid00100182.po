@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "1120"
 msgid "福引券を%d枚入手。"
-msgstr "Get% d of Fukubiki tickets."
+msgstr "Get %d of Fukubiki tickets."
 
 msgctxt "1139"
 msgid "<!empty>"

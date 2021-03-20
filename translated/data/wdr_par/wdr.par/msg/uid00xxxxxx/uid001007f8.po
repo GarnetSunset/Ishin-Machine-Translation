@@ -25,7 +25,7 @@ msgstr "Let's give it a name ..."
 
 msgctxt "2729"
 msgid "よし、今からお前は「%s」だ。"
-msgstr "Alright, from now on you are \"% s\"."
+msgstr "Alright, from now on you are \"%s"\."
 
 msgctxt "2758"
 msgid "わんわん！"

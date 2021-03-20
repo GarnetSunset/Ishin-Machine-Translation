@@ -37,7 +37,7 @@ msgctxt "733"
 msgid ""
 "お客さん、福引き券%d枚\n"
 "お渡しします。"
-msgstr "Customers will be given% d of lucky tickets."
+msgstr "Customers will be given %d of lucky tickets."
 
 msgctxt "772"
 msgid ""

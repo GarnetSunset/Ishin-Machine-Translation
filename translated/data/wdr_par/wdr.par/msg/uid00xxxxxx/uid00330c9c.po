@@ -128,7 +128,7 @@ msgstr ""
 msgctxt "4036"
 msgid "お客さん、福引き券%d枚差し上げます。"
 msgstr ""
-"Customers, we will give you% d of lucky\n"
+"Customers, we will give you %d of lucky\n"
 "tickets."
 
 msgctxt "4073"

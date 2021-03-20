@@ -50,7 +50,7 @@ msgstr ""
 msgctxt "2385"
 msgid "お客さん、福引き券%d枚渡すよ。"
 msgstr ""
-"Customers, I'll give you% d of Fukubiki\n"
+"Customers, I'll give you %d of Fukubiki\n"
 "tickets."
 
 msgctxt "2416"

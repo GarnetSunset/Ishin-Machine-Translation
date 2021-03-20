@@ -21,11 +21,11 @@ msgstr ""
 
 msgctxt "678"
 msgid "（%sの足元に何か落ちている）"
-msgstr "(Something has fallen at the feet of% s)"
+msgstr "(Something has fallen at the feet of %s)"
 
 msgctxt "707"
 msgid "「<Color:8>%s<Color:Default>」を拾った"
-msgstr "\"<Color:8> % s<Color:Default> I picked up"
+msgstr "I picked up <Color:8>%s<Color:Default>"
 
 msgctxt "746"
 msgid "<!empty>"

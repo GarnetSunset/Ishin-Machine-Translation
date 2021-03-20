@@ -166,7 +166,7 @@ msgstr ""
 
 msgctxt "24734"
 msgid "%sがペットになりました。"
-msgstr "% s is now a pet."
+msgstr "%s is now a pet."
 
 msgctxt "24759"
 msgid ""

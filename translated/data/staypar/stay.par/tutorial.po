@@ -361,7 +361,7 @@ msgstr ""
 
 msgctxt "NUM_DISP_1"
 msgid "あと%2d回"
-msgstr "Another% 2d times"
+msgstr "%2d more times"
 
 msgctxt "DISP_ENEMY_GAUGE_0"
 msgid "<!empty>"

@@ -29,7 +29,7 @@ msgstr "(It looks like you don't have enough ...)"
 
 msgctxt "384"
 msgid "ほんますいません。%sや。"
-msgstr "I'm really sorry. % s and."
+msgstr "I'm really sorry.  %s and."
 
 msgctxt "409"
 msgid "（これ以上食べられないな……）"

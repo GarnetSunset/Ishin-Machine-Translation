@@ -29,4 +29,4 @@ msgstr "Can I really send it to the warehouse?"
 
 msgctxt "2926"
 msgid "%s を倉庫に送りました"
-msgstr "% S was sent to the warehouse"
+msgstr "%s was sent to the warehouse"

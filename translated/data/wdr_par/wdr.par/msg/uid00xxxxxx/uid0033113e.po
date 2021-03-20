@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "1988"
 msgid "福引き券%d枚渡すで。"
-msgstr "Give me% d lucky tickets."
+msgstr "Give me %d lucky tickets."
 
 msgctxt "2009"
 msgid ""
@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "2163"
 msgid "福引き券%d枚渡すで。"
-msgstr "Give me% d lucky tickets."
+msgstr "Give me %d lucky tickets."
 
 msgctxt "2184"
 msgid ""
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "2360"
 msgid "福引き券%d枚渡すで。"
-msgstr "Give me% d lucky tickets."
+msgstr "Give me %d lucky tickets."
 
 msgctxt "2381"
 msgid ""

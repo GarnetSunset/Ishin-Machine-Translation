@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "31742"
 msgid "福引き券%d枚渡すぜ。"
-msgstr "I'll give you% d lucky tickets."
+msgstr "I'll give you %d lucky tickets."
 
 msgctxt "31763"
 msgid "ありがとよ……　また来てくれ。"
@@ -61,7 +61,7 @@ msgstr ""
 
 msgctxt "31934"
 msgid "福引き券%d枚渡すぜ。"
-msgstr "I'll give you% d lucky tickets."
+msgstr "I'll give you %d lucky tickets."
 
 msgctxt "31955"
 msgid "ありがとよ……　また来てくれ。"
@@ -93,7 +93,7 @@ msgstr ""
 
 msgctxt "32126"
 msgid "福引き券%d枚渡すぜ。"
-msgstr "I'll give you% d lucky tickets."
+msgstr "I'll give you %d lucky tickets."
 
 msgctxt "32147"
 msgid ""
@@ -376,7 +376,7 @@ msgstr ""
 
 msgctxt "34401"
 msgid "福引き券%d枚渡すぜ。"
-msgstr "I'll give you% d lucky tickets."
+msgstr "I'll give you %d lucky tickets."
 
 msgctxt "34422"
 msgid ""
@@ -653,7 +653,7 @@ msgstr ""
 
 msgctxt "36563"
 msgid "福引き券%d枚渡すぜ。"
-msgstr "I'll give you% d lucky tickets."
+msgstr "I'll give you %d lucky tickets."
 
 msgctxt "36584"
 msgid "ありがとよ……　また来てくれ。"
@@ -685,7 +685,7 @@ msgstr ""
 
 msgctxt "36755"
 msgid "福引き券%d枚渡すぜ。"
-msgstr "I'll give you% d lucky tickets."
+msgstr "I'll give you %d lucky tickets."
 
 msgctxt "36776"
 msgid ""
@@ -881,7 +881,7 @@ msgstr ""
 
 msgctxt "38204"
 msgid "福引き券%d枚渡すぜ。"
-msgstr "I'll give you% d lucky tickets."
+msgstr "I'll give you %d lucky tickets."
 
 msgctxt "38225"
 msgid ""
@@ -1070,7 +1070,7 @@ msgstr ""
 
 msgctxt "39481"
 msgid "福引き券%d枚渡すぜ。"
-msgstr "I'll give you% d lucky tickets."
+msgstr "I'll give you %d lucky tickets."
 
 msgctxt "39502"
 msgid "ありがとよ……　また来てくれ。"
@@ -1110,7 +1110,7 @@ msgstr ""
 
 msgctxt "39693"
 msgid "福引き券%d枚受け取った"
-msgstr "Received% d lucky tickets"
+msgstr "Received %d lucky tickets"
 
 msgctxt "39716"
 msgid "……お客さん、あんた本物だな。"
