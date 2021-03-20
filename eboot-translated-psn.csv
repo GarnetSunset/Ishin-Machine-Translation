@@ -743,7 +743,7 @@
 0x00e1e464;Baba
 0x00e1e474;Thank you for playing today. [n] Get reward bets!
 0x00e1e4cc;Choose your favorite tag and flip it over. [n] If you turn over Baba, the game ends there.
-0x00e1e52c;Since it was a "%s" tag,%d points are added. [n] Please select the next tag.
+0x00e1e52c;Since it was a "%s" tag, %d points are added. [n] Please select the next tag.
 0x00e1e56c;I suddenly turned over Baba! [n] Unfortunately, the game ends with the first one.
 0x00e1e5bc;I'm sorry. [n] I flipped over Baba, so the game ends here.
 0x00e1e5f4;Congratulations! [n] I finished without turning over Baba until the end!
@@ -1566,8 +1566,8 @@
 0x00e230d8;Parents are competing.
 0x00e230f0;There are no points, so it will end.
 0x00e23110;Some participants have run out of betting points, so this game ends here.
-0x00e23188;"betting points%d points"
-0x00e23198;"Result%d points"
+0x00e23188;"betting points %d points"
+0x00e23198;"Result %d points"
 0x00e231b8;Doshippin
 0x00e231c8;Shiroku's escape
 0x00e231d8;Tag type
@@ -1922,7 +1922,7 @@
 0x00e259cc;View dispatch information
 0x00e259ec;Start strengthening synthesis
 0x00e25a04;Do you want to start enhanced synthesis?
-0x00e25a2c;You can also select <Color:5>%d people <Color:Default>.
+0x00e25a2c;You can also select <Color:5>%d people<Color:Default>.
 0x00e25a74;List of soldiers
 0x00e25a8c;Select the soldier you want to see more details on.
 0x00e25abc;.
@@ -1989,9 +1989,9 @@
 0x00e267c4;List of soldiers
 0x00e267dc;Officer Overview
 0x00e267f4;Spear
-0x00e2680c;Start a new game. <Color:5> "Ryu ga Gotoku Restoration! To take over the [n] data of the free app for PlayStation Vita, select the "downloaded"[n]data from "Continue". <Color:Default>
+0x00e2680c;Start a new game. <Color:5>"Ryu ga Gotoku Restoration!" To take over the [n] data of the free app for PlayStation Vita, select the "downloaded"[n]data from "Continue".<Color:Default>
 0x00e268cc;Load a saved game.
-0x00e268f4;"Ryu ga Gotoku Restoration! Share your progress with the free app for PlayStation Vita [n] or PlayStation 4 version.
+0x00e268f4;"Ryu ga Gotoku Restoration!" Share your progress with the free app for PlayStation Vita [n] or PlayStation 4 version.
 0x00e2695c;You can play 5 types of mini-games of Mahjong, Shogi, Koi-Koi, Oicho-Kabu, and Poker in network battles.
 0x00e269bc;Explore the game world without[n]following the main story.
 0x00e26a04;A challenge mode for the best of fighters.
@@ -2096,7 +2096,7 @@
 0x00e28100;Buy with money
 0x00e2811c;If you have a bet point, [n] exchange it for various giveaways or money.
 0x00e28164;If you have money, [n] exchange it for various giveaways or betting points.
-0x00e281b4;Download save data from the server and share the progress between [n] PlayStation 3 or PlayStation 4 and [n] PlayStation Vita. [n] Please sign in to [n] "PSN" with the same online ID for uploading and downloading. [n] [n] <Color:5> When you save the save data downloaded from the server, the progress and clear status of the [n] story will be overwritten with that of the [n] downloaded save data. Even after clearing the [n] [n] game, if the save data downloaded from the [n] server is in the state before the [n] game is cleared, the story progress and [n] clear status will return to the past. Please be careful about the old and new save data because it will be redone.
+0x00e281b4;Download save data from the server and share the progress between [n] PlayStation 3 or PlayStation 4 and [n] PlayStation Vita. [n] Please sign in to [n] "PSN" with the same online ID for uploading and downloading. [n] [n] <Color:5>When you save the save data downloaded from the server, the progress and clear status of the [n] story will be overwritten with that of the [n] downloaded save data. Even after clearing the [n] [n] game, if the save data downloaded from the [n] server is in the state before the [n] game is cleared, the story progress and [n] clear status will return to the past. Please be careful about the old and new save data because it will be redone.
 0x00e283fc;Upload the save data to the server and share the progress between [n] PlayStation 3 or PlayStation 4 and [n] PlayStation Vita. [n] Please sign in to [n] "PSN" with the same online ID for uploading and downloading.
 0x00e284d4;Total play time
 0x00e284e4;Level
