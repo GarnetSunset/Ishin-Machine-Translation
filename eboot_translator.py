@@ -3,49 +3,43 @@ import argparse
 import os
 import pandas as pd
 
-def write_string(data, offset, string, ignore_length):
+def write_string(data, offset, string, ignore_length, df, count):
     pos = offset
     end = data[pos:].index(b'\x00')
 
     i = 0
     while i < len(data[pos+end:]) and data[pos+end:][i] == 0:
         i += 1
-    text_file = open("FIXUS.txt", "a")
 
     max_len = end + i - 1
     try:
         byte_string = string.encode("shift_jisx0213").replace(b'[n]', b'\x0A')
         if len(byte_string) > max_len and not ignore_length:
             print(f"Text is too long - offset: {hex(offset)}, translation: {string}, max length: {max_len}")
-            text_file.write(f"Text is too long - offset: {hex(offset)}, translation: {string}, max length: {max_len} \n")
+            df.loc[count, 'Notes'] = f'Text is too long, max length: {max_len}'
         elif len(byte_string) == 0:
             print(f"Text missing - offset: {hex(offset)}, translation: {string}, max length: {max_len}")
-            text_file.write(f"Text missing - offset: {hex(offset)}, translation: {string}, max length: {max_len} \n")
+            df.loc[count, 'Notes'] = f'Text is missing. Max length: {max_len}'
         else:
-            #print(string)
             struct.pack_into(f"{max_len}s", data, pos, byte_string)
     except(TypeError):
         print(f"Wrong type - offset: {hex(offset)}, translation: {string}, max length: {max_len}")
-        text_file.write(f"Wrong type - offset: {hex(offset)}, translation: {string}, max length: {max_len} \n")
+        df.loc[count, 'Notes'] = f'Wrong type. Max length: {max_len}'
     except(AttributeError):
         print(f"Wrong type - offset: {hex(offset)}, translation: {string}, max length: {max_len}")    
-        text_file.write(f"Wrong type - offset: {hex(offset)}, translation: {string}, max length: {max_len} \n")    
+        df.loc[count, 'Notes'] = f'Wrong type. Max length: {max_len}' 
     except(UnicodeEncodeError):
         byte_string = string.encode("shift_jisx0213").replace(b'[n]', b'\x0A')
         if len(byte_string) < max_len:
             struct.pack_into(f"{max_len}s", data, pos, byte_string)
-    text_file.close()
 
 
 def replace_strings(text, eboot, ignore_length, output, version):
     with open(eboot, "rb") as f:
         data = bytearray(f.read())
 
-    if os.path.exists('FIXUS.txt'): #deletes old log if it exists
-        os.remove('FIXUS.txt')
-
     #loads xlsx file with text
-    df = pd.read_excel(text,sheet_name='Sheet1', usecols="A:D")
+    df = pd.read_excel(text,sheet_name='Sheet1')
     
     if version == 'disc':
         offsets = df['Disc offset'].tolist()
@@ -54,12 +48,22 @@ def replace_strings(text, eboot, ignore_length, output, version):
 
     strings = df['Translation'].tolist()
 
+    if 'Notes' in df.columns: #deletes column if it exists already
+        df.drop('Notes', inplace=True, axis=1)
+
+    df["Notes"] = ""
+
+    count = 0
     for o, s in zip(offsets, strings):
-        write_string(data, int(o, 16), s, ignore_length)
+        write_string(data, int(o, 16), s, ignore_length, df, count)
+        count +=1
     
     with open(output, "wb") as f:
         f.write(data)
-
+    try:
+        df.to_excel(text)
+    except(PermissionError):
+        df.to_excel(text + '_new.xlsx')
 
 def print_strings(eboot):
     with open(eboot, "rb") as f:
@@ -89,7 +93,7 @@ def main():
     parser.add_argument("output", help="Output eboot name.", type=str)
     parser.add_argument("version", help="Game version. Valid choices are 'PSN' and 'Disc'", type=str)
 
-    parser.add_argument("-il,", "--ignorelength", help="Ignores length.") #why does this even exist?
+    parser.add_argument("-il,", "--ignorelength", help="Ignores length. WARNING: Longer strings will be cut off. Only use this for testing!")
     args = parser.parse_args()
 
     if args.ignorelength:
