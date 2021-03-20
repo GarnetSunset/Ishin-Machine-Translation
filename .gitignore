@@ -9,7 +9,8 @@ __pycache__/
 keys.json
 cleaned/
 pkgsForUpdate/
-patch/*
+patch/
+translated/data/bootpar/boot.par/kiyaku.po
 
 # Distribution / packaging
 .Python
