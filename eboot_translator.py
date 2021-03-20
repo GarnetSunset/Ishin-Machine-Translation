@@ -13,7 +13,7 @@ def write_string(data, offset, string, ignoreLength):
 
     max_len = end + i - 1
     try:
-        byte_string = string.encode("shift-jis").replace(b'[n]', b'\x0A')
+        byte_string = string.encode("shift_jisx0213").replace(b'[n]', b'\x0A')
         if len(byte_string) > max_len and ignoreLength == False:
             print(f"Text is too long - offset: {offset}, translation: {string}, max length: {max_len}")
         #elif len(byte_string) <= 1:
