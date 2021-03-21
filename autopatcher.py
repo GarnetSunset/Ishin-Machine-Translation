@@ -46,14 +46,14 @@ os.chdir("pkgsForUpdate")
 if discOrDigital == "B":
     os.system("scetool -d ../patch/USRDIR/EBOOT.BIN ../patch/USRDIR/EBOOT_DECR.BIN")
     shutil.copyfile("../patch/USRDIR/EBOOT.BIN","../patch/USRDIR/EBOOT_BKP.BIN")
-    eboot_translator.replace_strings("../ishin_translation.xlsx","../patch/USRDIR/EBOOT_DECR.BIN",ignore_length=True,output="../patch/USRDIR/EBOOT.BIN",version="Disc")
+    eboot_translator.replace_strings("../ishin_translation.xlsx","../patch/USRDIR/EBOOT_DECR.BIN",ignore_length=False,output="../patch/USRDIR/EBOOT.BIN",version="Disc")
 else:
     r = requests.get(decrypt)
     z = zipfile.ZipFile(io.BytesIO(r.content))
     z.extractall(".")
     os.system("decrypt_eboot.exe ../patch/USRDIR/EBOOT.BIN ../patch/USRDIR/EBOOT_DECR.BIN JP0177-NPJB00532_00-RYUISHINRETAIL00.rap")
     shutil.copyfile("../patch/USRDIR/EBOOT.BIN","../patch/USRDIR/EBOOT_BKP.BIN")
-    eboot_translator.replace_strings("../ishin_translation.xlsx","../patch/USRDIR/EBOOT_DECR.BIN",ignore_length=True,output="../patch/USRDIR/EBOOT.BIN",version="PSN")
+    eboot_translator.replace_strings("../ishin_translation.xlsx","../patch/USRDIR/EBOOT_DECR.BIN",ignore_length=False,output="../patch/USRDIR/EBOOT.BIN",version="PSN")
     
 os.chdir("..")
 filtered_files = [file for file in files_in_directory if file.endswith(".psd")]
