@@ -338,7 +338,7 @@ msgid ""
 "おうよ！　俺らは勤王の志士だ。\n"
 "幕府滅亡の恐るべき陰謀を密談してたんだよ！"
 msgstr ""
-"Sure! We are the priests of Qin Wang. I\n"
+"Sure! We are the priests of Loyalist. I\n"
 "was talking about the horrific plot of\n"
 "the destruction of the Shogunate!"
 

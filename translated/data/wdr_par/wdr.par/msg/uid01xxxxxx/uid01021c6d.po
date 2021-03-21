@@ -206,7 +206,7 @@ msgctxt "9808"
 msgid "親御さん、勤王派の活動家やったらしくてなあ。"
 msgstr ""
 "Parents, I think I'm an activist of the\n"
-"Qin Wang school."
+"Loyalist school."
 
 msgctxt "9853"
 msgid ""

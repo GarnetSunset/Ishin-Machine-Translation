@@ -44,7 +44,7 @@ msgid ""
 "今、それを倒すために勤王派が\n"
 "戦争の準備を始めている。"
 msgstr ""
-"Now, the Qin Wang faction is preparing for\n"
+"Now, the Loyalist faction is preparing for\n"
 "the war to defeat it."
 
 msgctxt "5363"

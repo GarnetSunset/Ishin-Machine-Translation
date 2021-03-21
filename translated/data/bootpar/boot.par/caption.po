@@ -33,7 +33,7 @@ msgstr "Chase the masked man"
 
 msgctxt "NAME_5"
 msgid "勤王志士"
-msgstr "Qin Wang Shishi"
+msgstr "Loyalist Shishi"
 
 msgctxt "NAME_6"
 msgid "包囲網を突破しろ"
@@ -41,11 +41,11 @@ msgstr "Break through the siege"
 
 msgctxt "NAME_7"
 msgid "土佐勤王党"
-msgstr "Tosa Qin Wang Party"
+msgstr "Tosa Loyalist Party"
 
 msgctxt "NAME_8"
 msgid "土佐勤王党員"
-msgstr "Tosa Qin Wang Party member"
+msgstr "Tosa Loyalist Party member"
 
 msgctxt "NAME_9"
 msgid "吉田稔麿を探せ"
@@ -93,7 +93,7 @@ msgstr "Fake Tosakino Party member"
 
 msgctxt "NAME_20"
 msgid "土佐勤王党　岡田以蔵"
-msgstr "Tosa Qin Wang Party Okada Izo"
+msgstr "Tosa Loyalist Party Okada Izo"
 
 msgctxt "NAME_21"
 msgid "土佐藩士"
@@ -137,7 +137,7 @@ msgstr "Lookout of the gambling house"
 
 msgctxt "NAME_31"
 msgid "勤王の志士"
-msgstr "Qin Wang Shishi"
+msgstr "Loyalist Shishi"
 
 msgctxt "NAME_32"
 msgid "長州藩士　桂小五郎"
@@ -187,7 +187,7 @@ msgstr "Takeda Kanryusai"
 
 msgctxt "NAME_42"
 msgid "土佐勤王党盟主　武市半平太"
-msgstr "Tosa Qin Wang Party Leader Takechi Hanpeita"
+msgstr "Tosa Loyalist Party Leader Takechi Hanpeita"
 
 msgctxt "NAME_43"
 msgid "野盗"
@@ -317,11 +317,11 @@ msgstr "New sengumi tenth team members"
 
 msgctxt "NAME_74"
 msgid "勤王志士"
-msgstr "Qin Wang Shishi"
+msgstr "Loyalist Shishi"
 
 msgctxt "NAME_75"
 msgid "土佐勤王党員"
-msgstr "Tosa Qin Wang Party member"
+msgstr "Tosa Loyalist Party member"
 
 msgctxt "NAME_76"
 msgid "乱戦闘技1"

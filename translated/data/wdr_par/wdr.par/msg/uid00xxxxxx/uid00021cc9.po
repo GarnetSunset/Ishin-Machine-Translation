@@ -33,7 +33,7 @@ msgid ""
 "勤王志士どもと一緒に殺っちまうかもしんねぇ。"
 msgstr ""
 "Don't rush to stand in front of me. I don't\n"
-"think I'll kill him with the Qin Wang\n"
+"think I'll kill him with the Loyalist\n"
 "scholars."
 
 msgctxt "558"

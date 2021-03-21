@@ -130,7 +130,7 @@ msgid ""
 "山ほど群がってきてますからね。"
 msgstr ""
 "I see. …… But in Kyo, there are a lot of\n"
-"scholars of Qin Wang now."
+"scholars of Loyalist now."
 
 msgctxt "5493"
 msgid ""

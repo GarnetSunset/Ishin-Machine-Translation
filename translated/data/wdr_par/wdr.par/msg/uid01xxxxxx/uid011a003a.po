@@ -49,7 +49,7 @@ msgid ""
 msgstr ""
 "Tosa, who is trying to reform Tosa's fierce\n"
 "class society, has joined hands with\n"
-"the Tosa Qin Wang Party, whose ally is\n"
+"the Tosa Loyalist Party, whose ally is\n"
 "Takechi Hanpeita."
 
 msgctxt "2310"

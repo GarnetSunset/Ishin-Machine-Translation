@@ -13,7 +13,7 @@ def write_string(data, offset, string, ignore_length, df, count):
 
     max_len = end + i - 1
     try:
-        byte_string = string.encode("shift_jisx0213").replace(b'[n]', b'\x0A')
+        byte_string = string.rstrip().encode("shift_jisx0213").replace(b'[n]', b'\x0A')
         if len(byte_string) > max_len and not ignore_length:
             print(f"Text is too long - offset: {hex(offset)}, translation: {string}, max length: {max_len}")
             df.loc[count, 'Notes'] = f'Text is too long, max length: {max_len}'

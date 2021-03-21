@@ -381,7 +381,7 @@ msgstr ""
 
 msgctxt "221609"
 msgid "土佐勤王党盟主　武市半平太"
-msgstr "Tosa Qin Wang Party Leader Takechi Hanpeita"
+msgstr "Tosa Loyalist Party Leader Takechi Hanpeita"
 
 msgctxt "221636"
 msgid "C1-070_武市から銃を受け取る"
@@ -421,7 +421,7 @@ msgstr ""
 
 msgctxt "221813"
 msgid "土佐勤王党　岡田以蔵"
-msgstr "Tosa Qin Wang Party Okada Izo"
+msgstr "Tosa Loyalist Party Okada Izo"
 
 msgctxt "221834"
 msgid "siz"
@@ -675,7 +675,7 @@ msgstr "2-030_ Meet Kogoro Katsura"
 
 msgctxt "222864"
 msgid "勤王の志士　新堀松輔"
-msgstr "Qin Wang Shishi Shinbori Matsusuke"
+msgstr "Loyalist Shishi Shinbori Matsusuke"
 
 msgctxt "222885"
 msgid "C2-070_桂に情報屋を紹介される"
@@ -1061,7 +1061,7 @@ msgstr ""
 
 msgctxt "224490"
 msgid "B4-010_土佐勤王党"
-msgstr "B4-010_ Tosa Qin Wang Party"
+msgstr "B4-010_ Tosa Loyalist Party"
 
 msgctxt "224508"
 msgid "包囲網を突破しろ"
@@ -1319,7 +1319,7 @@ msgstr "C6-120_ Rush into Ikedaya"
 
 msgctxt "225677"
 msgid "B6-010_勤王の志士"
-msgstr "B6-010_ Shishi of Qin Wang"
+msgstr "B6-010_ Shishi of Loyalist"
 
 msgctxt "225695"
 msgid "bbg_lng_ikedaya"
@@ -1355,7 +1355,7 @@ msgstr "C6-140_ Find Kogoro Katsura"
 
 msgctxt "225832"
 msgid "B6-030_勤王の志士"
-msgstr "B6-030_ Shishi of Qin Wang"
+msgstr "B6-030_ Shishi of Loyalist"
 
 msgctxt "225850"
 msgid "桂小五郎を捜せ"
@@ -1591,7 +1591,7 @@ msgstr "d: C8-060_near Sengoku House"
 
 msgctxt "226847"
 msgid "B08-010_勤王の志士"
-msgstr "B08-010_ Shishi of Qin Wang"
+msgstr "B08-010_ Shishi of Loyalist"
 
 msgctxt "226866"
 msgid "bbg_lng_strike"
@@ -1607,7 +1607,7 @@ msgstr ""
 
 msgctxt "226919"
 msgid "B08-010_勤王の志士２"
-msgstr "B08-010_ Qin Wang Shishi 2"
+msgstr "B08-010_ Loyalist Shishi 2"
 
 msgctxt "226940"
 msgid "千石虎之丞を追え"
@@ -1945,7 +1945,7 @@ msgstr "Teradaya Incident"
 
 msgctxt "228453"
 msgid "B10-020_勤王の志士"
-msgstr "B10-020_ Shishi of Qin Wang"
+msgstr "B10-020_ Shishi of Loyalist"
 
 msgctxt "228472"
 msgid "坂本龍馬を捜せ"
@@ -2517,7 +2517,7 @@ msgstr "Omiya Incident"
 
 msgctxt "230849"
 msgid "B13-030_勤王の志士"
-msgstr "B13-030_ Shishi of Qin Wang"
+msgstr "B13-030_ Shishi of Loyalist"
 
 msgctxt "230868"
 msgid "bbg_lng_ohmiya"
@@ -3009,7 +3009,7 @@ msgstr "SUB_SS-31_ Battle"
 
 msgctxt "232939"
 msgid "勤王志士"
-msgstr "Qin Wang Shishi"
+msgstr "Loyalist Shishi"
 
 msgctxt "232948"
 msgid "SUB_SS-32_バトル"

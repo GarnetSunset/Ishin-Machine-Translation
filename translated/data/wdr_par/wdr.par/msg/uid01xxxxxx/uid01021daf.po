@@ -54,7 +54,7 @@ msgid ""
 "ああ、勤王派の志士たちは酒飲んで\n"
 "ドンチャン騒ぎや。"
 msgstr ""
-"Ah, the Qin Wang scholars drank and made\n"
+"Ah, the Loyalist scholars drank and made\n"
 "a fuss about Donchan."
 
 msgctxt "3110"

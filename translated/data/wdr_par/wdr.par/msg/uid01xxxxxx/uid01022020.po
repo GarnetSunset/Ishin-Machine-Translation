@@ -22,7 +22,7 @@ msgid ""
 "刀を取って抵抗しています！"
 msgstr ""
 "This is the deputy director! 40 Ikedaya\n"
-"Qin Wang Shishi! I'm taking a sword and\n"
+"Loyalist Shishi! I'm taking a sword and\n"
 "resisting!"
 
 msgctxt "2766"

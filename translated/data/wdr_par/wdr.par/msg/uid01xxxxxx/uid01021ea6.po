@@ -226,7 +226,7 @@ msgid ""
 "一気に叩く腹なんだろう。"
 msgstr ""
 "I'm sure his aim is to use the power of\n"
-"the Qin Wang Party to hit the place where\n"
+"the Loyalist Party to hit the place where\n"
 "Satsuma and the Shogunate are fighting\n"
 "and exhausted each other at once."
 

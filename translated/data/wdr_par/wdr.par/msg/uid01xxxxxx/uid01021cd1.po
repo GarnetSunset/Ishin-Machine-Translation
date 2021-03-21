@@ -210,7 +210,7 @@ msgid ""
 "休んでおくのも仕事のうちだろう。\n"
 "……失礼する。"
 msgstr ""
-"Tonight, I'm going to kill 40 Qin Wang Shishi.\n"
+"Tonight, I'm going to kill 40 Loyalist Shishi.\n"
 "Resting may be part of the job.\n"
 "...... Excuse me."
 

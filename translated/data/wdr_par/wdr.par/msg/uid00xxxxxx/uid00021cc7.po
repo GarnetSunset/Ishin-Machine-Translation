@@ -33,7 +33,7 @@ msgid ""
 "君にできるならな。"
 msgstr ""
 "All you have to do is cut off all the members,\n"
-"including the Qin Wang Shishi. I\n"
+"including the Loyalist Shishi. I\n"
 "wish you could."
 
 msgctxt "726"

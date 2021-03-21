@@ -86,7 +86,7 @@ msgid ""
 "美味しいネタ、放っておくはずがねえだろう。"
 msgstr ""
 "The captain of the 3rd division shouldn't\n"
-"leave the big guys of the Qin Wang faction\n"
+"leave the big guys of the Loyalist faction\n"
 "and their brothers as delicious stories."
 
 msgctxt "6432"

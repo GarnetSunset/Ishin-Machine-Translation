@@ -254,7 +254,7 @@ msgid ""
 "監察の調べで２か所に候補が絞られた。"
 msgstr ""
 "Although it is the meeting place for the\n"
-"Qin Wang scholars, the candidates were\n"
+"Loyalist scholars, the candidates were\n"
 "narrowed down to two places according\n"
 "to the inspection by the inspector general."
 

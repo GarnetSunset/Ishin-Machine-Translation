@@ -468,7 +468,7 @@ msgstr ""
 "People who were active with political ideas\n"
 "during this period. In most cases,\n"
 "it refers to a person who is engaged in\n"
-"the activities of Qin Wang."
+"the activities of Loyalist."
 
 msgctxt "EXPLANATION_14"
 msgid "剣術などの武芸の技術や作法などを教えること。"

@@ -97,7 +97,7 @@ msgid ""
 "っちゅうことや。"
 msgstr ""
 "Sengoku is a dangerous person who contributes\n"
-"to the Qin Wang faction behind the\n"
+"to the Loyalist faction behind the\n"
 "scenes."
 
 msgctxt "7815"

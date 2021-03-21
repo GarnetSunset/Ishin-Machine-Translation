@@ -79,7 +79,7 @@ msgid ""
 "天下国家のために、命がけで\n"
 "幕府と戦ってるんだろが！"
 msgstr ""
-"shut up! We are the priests of Qin Wang,\n"
+"shut up! We are the priests of Loyalist,\n"
 "right? I wonder if I'm fighting the Shogunate\n"
 "for the sake of the nation!"
 

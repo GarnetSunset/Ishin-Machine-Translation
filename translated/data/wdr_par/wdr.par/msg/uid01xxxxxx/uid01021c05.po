@@ -62,7 +62,7 @@ msgid ""
 msgstr ""
 "Oh yeah. I'm Matsusuke Shinbori from the\n"
 "Choshu clan. Even this is a \"Shishi of\n"
-"Qin Wang\"."
+"Loyalist\"."
 
 msgctxt "10321"
 msgid ""

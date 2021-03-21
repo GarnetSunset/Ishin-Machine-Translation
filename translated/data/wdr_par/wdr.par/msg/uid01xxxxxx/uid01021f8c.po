@@ -50,7 +50,7 @@ msgid ""
 "情報屋だってことは知ってんだ。"
 msgstr ""
 "Hmm, I know you're an information store\n"
-"hanging out with the Qin Wang faction."
+"hanging out with the Loyalist faction."
 
 msgctxt "2092"
 msgid "お前、何か知ってるんじゃないのか……？"

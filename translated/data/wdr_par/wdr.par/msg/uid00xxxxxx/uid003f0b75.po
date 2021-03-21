@@ -16,7 +16,7 @@ msgid ""
 "勤王志士どもは追いつめられとる。\n"
 "帝をさらおうなんて言い出すくらいや。"
 msgstr ""
-"The Qin Wang scholars are cornered. I even\n"
+"The Loyalist scholars are cornered. I even\n"
 "told him to kidnap the emperor."
 
 msgctxt "851"

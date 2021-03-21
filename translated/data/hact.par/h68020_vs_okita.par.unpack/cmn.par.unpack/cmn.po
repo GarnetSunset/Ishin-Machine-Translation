@@ -29,7 +29,7 @@ msgstr "I can't find out about you"
 
 msgctxt "223528"
 msgid "土佐勤王党筆頭"
-msgstr "Tosa Qin Wang Party Leader"
+msgstr "Tosa Loyalist Party Leader"
 
 msgctxt "223672"
 msgid "坂本龍馬ちゃん"

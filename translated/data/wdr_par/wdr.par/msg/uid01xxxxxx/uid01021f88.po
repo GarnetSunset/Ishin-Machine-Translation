@@ -113,7 +113,7 @@ msgstr "Ryoma"
 
 msgctxt "2648"
 msgid "勤王志士"
-msgstr "Qin Wang Shishi"
+msgstr "Loyalist Shishi"
 
 msgctxt "2657"
 msgid "Talk_Yes"

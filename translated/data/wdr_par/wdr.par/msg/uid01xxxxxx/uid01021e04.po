@@ -59,7 +59,7 @@ msgid ""
 "バラバラだった勤王の二大勢力が倒幕に向けて\n"
 "秘密同盟を組んだんだ。"
 msgstr ""
-"The two disjointed Qin Wangs formed a secret\n"
+"The two disjointed Loyalists formed a secret\n"
 "alliance for the defeat."
 
 msgctxt "15390"
