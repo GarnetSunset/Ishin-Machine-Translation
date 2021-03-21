@@ -41,11 +41,14 @@ def replace_strings(text, eboot, ignore_length, output, version):
     #loads xlsx file with text
     df = pd.read_excel(text,sheet_name='Sheet1')
     
-    if version == 'disc':
+    if version.lower() == 'disc':
         offsets = df['Disc offset'].tolist()
-    else:
+    elif version.lower() == 'psn':
         offsets = df['PSN offset'].tolist()
-
+    else:
+        print("Incorrect input")
+        import sys
+        sys.exit()
     strings = df['Translation'].tolist()
 
     if 'Notes' in df.columns: #deletes column if it exists already
