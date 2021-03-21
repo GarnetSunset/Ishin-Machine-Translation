@@ -29,6 +29,7 @@ def write_string(data, offset, string, ignore_length, df, count):
         print(f"Wrong type - offset: {hex(offset)}, translation: {string}, max length: {max_len}")    
         df.loc[count, 'Notes'] = f'Wrong type. Max length: {max_len}' 
     except(UnicodeEncodeError):
+        print(offset)
         byte_string = string.encode("shift_jisx0213").replace(b'[n]', b'\x0A')
         if len(byte_string) < max_len:
             struct.pack_into(f"{max_len}s", data, pos, byte_string)
