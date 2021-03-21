@@ -1,6 +1,5 @@
 import struct
 import argparse
-import os
 import pandas as pd
 
 def write_string(data, offset, string, ignore_length, df, count):
@@ -48,8 +47,8 @@ def replace_strings(text, eboot, ignore_length, output, version):
         offsets = df['PSN offset'].tolist()
     else:
         print("Incorrect input")
-        import sys
-        sys.exit()
+        quit()
+
     strings = df['Translation'].tolist()
 
     if 'Notes' in df.columns: #deletes column if it exists already
@@ -111,7 +110,7 @@ def main():
         print('Incorrect version.')
         quit()
 
-    replace_strings(args.text, args.input, ignore_length, args.output, args.version.lower())
+    replace_strings(args.text, args.input, ignore_length, args.output, args.version())
 
 
 if __name__ == "__main__":
