@@ -53,7 +53,9 @@ def replace_strings(text, eboot, ignore_length, output, version):
 
     if 'Notes' in df.columns: #deletes column if it exists already
         df.drop('Notes', inplace=True, axis=1)
-
+    
+    print(version.lower())
+    
     df["Notes"] = ""
 
     count = 0
