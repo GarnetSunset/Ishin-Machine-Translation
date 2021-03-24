@@ -22,7 +22,7 @@ autoupdate.py will create a patched and encrypted eboot, use resigner to build a
 
 Foas for doing obvious fixes
 
-Ryuhachii and psp from the Yakuza Modding server and cat-three for help with UI elements
+Ryuhachii, psp, quintilisart and cat-three for help with UI elements
 
 zarroboogs for helping extract text from eboot
 
