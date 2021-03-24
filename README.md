@@ -4,3 +4,5 @@
 ## psp in the Yakuza Modding server and cat-three (my friend!) for help with UI elements :)
 ## zarroboogs for helping extract text from eboot
 ## SutandoTsukai181's eboot script with heavy modifications from Timo654 and Myself
+
+# The Digital Version is recommended as it allows changes to the AUTH folder with a patch, whereas Disc version doesn't
