@@ -18,7 +18,7 @@ Kaplas80 for their amazing tool that allowed us to create this
 ## How to use:
 
 ### REQUIREMENTS!
-## pip install -r requirements.txt
+# pip install -r requirements.txt
 
 ## autoupdate
 autoupdate.py will create a patched and encrypted eboot, use resigner to build a new pkg!
