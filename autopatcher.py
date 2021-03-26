@@ -47,6 +47,7 @@ if discOrDigital == "B":
     shutil.copyfile("../patch/USRDIR/EBOOT.BIN","../patch/USRDIR/EBOOT_BKP.BIN")
     eboot_translator.replace_strings("../ishin_translation.xlsx","../patch/USRDIR/EBOOT_DECR.BIN",ignore_length=False,output="../patch/USRDIR/EBOOT_Translated.BIN",version="Disc")
     os.system("scetool.exe -v --sce-type=SELF --skip-sections=TRUE --key-revision=01 --self-auth-id=1010000001000003 --self-app-version=0001000000000000 --self-add-shdrs=TRUE --self-vendor-id=01000002 --self-type=NPDRM --self-fw-version=0003004000000000 --np-license-type=FREE --np-content-id=NPJB00532 --np-app-type=EXEC --np-real-fname=EBOOT.BIN --encrypt ../patch/USRDIR/EBOOT_Translated.BIN ../patch/USRDIR/EBOOT.BIN")
+    shutil.move("../patch/PARAM.SFO_B", "../patch/PARAM.SFO")
     if os.path.isfile("../patch/JP0177-NPJB00532_00-RYUISHINRETAIL00.pkg"):
         os.remove("../patch/JP0177-NPJB00532_00-RYUISHINRETAIL00.pkg")
     text_file = open("package.conf", "wt")
@@ -58,6 +59,7 @@ else:
     shutil.copyfile("../patch/USRDIR/EBOOT.BIN","../patch/USRDIR/EBOOT_BKP.BIN")
     eboot_translator.replace_strings("../ishin_translation.xlsx","../patch/USRDIR/EBOOT_DECR.BIN",ignore_length=False,output="../patch/USRDIR/EBOOT_Translated.BIN",version="PSN")
     os.system("scetool.exe -v --sce-type=SELF --skip-sections=TRUE --key-revision=01 --self-auth-id=1010000001000003 --self-app-version=0001000000000000 --self-add-shdrs=TRUE --self-vendor-id=01000002 --self-type=NPDRM --self-fw-version=0003004000000000 --np-license-type=FREE --np-content-id=BLJM61149 --np-app-type=EXEC --np-real-fname=EBOOT.BIN --encrypt ../patch/USRDIR/EBOOT_Translated.BIN ../patch/USRDIR/EBOOT.BIN")
+    shutil.move("../patch/PARAM.SFO_D", "../patch/PARAM.SFO")
     if os.path.isfile("../patch/JP0177-NPJB00532_00-RYUISHINRETAIL00.pkg"):
         os.remove("../patch/JP0177-NPJB00532_00-RYUISHINRETAIL00.pkg")
     text_file = open("package.conf", "wt")
