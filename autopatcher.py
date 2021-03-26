@@ -3,6 +3,8 @@ from distutils.dir_util import copy_tree
 
 if not os.path.exists("pkgsForUpdate"):
     os.makedirs("pkgsForUpdate")
+if os.path.exists("patch"):
+    shutil.rmtree(os.getcwd()+"/patch/")
 
 scetool = "https://cdn.discordapp.com/attachments/732351773687414825/824632561245356062/pkgsForUpdate.zip"
 digital = ["http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0104-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0105-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0106-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0107-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0108-V0100-PE.pkg"]
@@ -50,9 +52,9 @@ if discOrDigital == "B":
     shutil.move("../patch/PARAM.SFO_B", "../patch/PARAM.SFO")
     if os.path.isfile("../patch/JP0177-NPJB00532_00-RYUISHINRETAIL00.pkg"):
         os.remove("../patch/JP0177-NPJB00532_00-RYUISHINRETAIL00.pkg")
-    text_file = open("package.conf", "wt")
+    text_file = open("../patch/package.conf", "wt")
     packageconf = "Content-ID = JP0177-BLJM61149_00-GAMEVER0108WEEK8-A0108-V0100-PE\nk_licensee = 0x00000000000000000000000000000000\nDRM_Type = Free\nContent_Type = GameData\nPackageVersion = 01.69"
-    text_file.write("../patch/"+packageconf)
+    text_file.write(packageconf)
     text_file.close()
 else:
     os.system("decrypt_eboot.exe ../patch/USRDIR/EBOOT.BIN ../patch/USRDIR/EBOOT_DECR.BIN JP0177-NPJB00532_00-RYUISHINRETAIL00.rap")
@@ -62,9 +64,9 @@ else:
     shutil.move("../patch/PARAM.SFO_D", "../patch/PARAM.SFO")
     if os.path.isfile("../patch/JP0177-NPJB00532_00-RYUISHINRETAIL00.pkg"):
         os.remove("../patch/JP0177-NPJB00532_00-RYUISHINRETAIL00.pkg")
-    text_file = open("package.conf", "wt")
+    text_file = open("../patch/package.conf", "wt")
     packageconf = "Content-ID = JP0177-NPJB00532_00-RYUISHINRETAIL00\nk_licensee = 0x00000000000000000000000000000000\nDRM_Type = Free\nContent_Type = GameExec\nPackageVersion = 01.69"
-    text_file.write("../patch/"+packageconf)
+    text_file.write(packageconf)
     text_file.close()
 
 os.chdir("../patch/")
@@ -79,3 +81,4 @@ for file in filtered_files:
 	os.remove(path_to_file)
 os.remove(os.getcwd()+"/patch/make_package_npdrm_retail.exe")
 shutil.rmtree(os.getcwd()+"/pkgsForUpdate/")
+
