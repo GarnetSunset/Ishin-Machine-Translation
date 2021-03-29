@@ -17,8 +17,6 @@ MsLow for a bunch of nutty stuff!
 
 # The Digital Version is recommended as it allows changes to the AUTH folder with a patch, whereas Disc version doesn't
 
-## Untested on hardware!!!
-
 ## How to use:
 
 ### REQUIREMENTS!
