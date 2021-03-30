@@ -7,3 +7,4 @@ packaging
 ecdsa
 google-cloud-translate
 pandas
+openpxl
