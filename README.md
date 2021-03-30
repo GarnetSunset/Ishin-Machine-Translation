@@ -20,6 +20,7 @@ MsLow for a bunch of nutty stuff!
 ## How to use:
 
 ### REQUIREMENTS!
+Visual C++ Build Tools https://go.microsoft.com/fwlink/?LinkId=691126
 # pip install -r requirements.txt
 
 ## autoupdate
