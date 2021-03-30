@@ -13,7 +13,7 @@ Kaplas80 for their amazing tool that allowed us to create this
 
 KHHSubs for Trophy translations
 
-MsLow for a bunch of nutty stuff!
+MsLow for his help working Timo though files!
 
 # The Digital Version is recommended as it allows changes to the AUTH folder with a patch, whereas Disc version doesn't
 
