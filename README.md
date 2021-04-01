@@ -11,6 +11,8 @@ SutandoTsukai181's eboot script with heavy modifications from Timo654 and Myself
 
 Kaplas80 for their amazing tool that allowed us to create this
 
+OnoMichio (REAL!!!!) for Karaoke Translations
+
 KHHSubs for Trophy translations
 
 # The Digital Version is recommended as it allows changes to the AUTH folder with a patch, whereas Disc version doesn't
