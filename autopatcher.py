@@ -17,7 +17,7 @@ r = requests.get(scetool)
 z = zipfile.ZipFile(io.BytesIO(r.content))
 z.extractall("pkgsForUpdate")
 
-discOrDigital = input("Do you have the bluray version or digital version of Ishin?\nType \"B\" for BluRay, type \"D\" for Digital\n> ")
+discOrDigital = input("Do you have the bluray, digital, or PS4 version of Ishin?\nType \"B\" for BluRay, type \"D\" for Digital, type \"P\" for PS4\n> ")
 
 if discOrDigital == "B":
     for url in disc:
@@ -56,7 +56,7 @@ if discOrDigital == "B":
     packageconf = "Content-ID = JP0177-BLJM61149_00-GAMEVER0108WEEK8-A0108-V0100-PE\nk_licensee = 0x00000000000000000000000000000000\nDRM_Type = Free\nContent_Type = GameData\nPackageVersion = 01.69"
     text_file.write(packageconf)
     text_file.close()
-else:
+if discOrDigital == "D":
     os.system("decrypt_eboot.exe ../patch/USRDIR/EBOOT.BIN ../patch/USRDIR/EBOOT_DECR.BIN JP0177-NPJB00532_00-RYUISHINRETAIL00.rap")
     shutil.copyfile("../patch/USRDIR/EBOOT.BIN","../patch/USRDIR/EBOOT_BKP.BIN")
     eboot_translator.replace_strings("../ishin_translation.xlsx","../patch/USRDIR/EBOOT_DECR.BIN",ignore_length=False,output="../patch/USRDIR/EBOOT_Translated.BIN",version="PSN")
@@ -68,6 +68,8 @@ else:
     packageconf = "Content-ID = JP0177-NPJB00532_00-RYUISHINRETAIL00\nk_licensee = 0x00000000000000000000000000000000\nDRM_Type = Free\nContent_Type = GameExec\nPackageVersion = 01.69"
     text_file.write(packageconf)
     text_file.close()
+if discOrDigital == "P":
+    print("illdoitlater")
 
 os.chdir("../patch/")
 if os.path.exists("USRDIR/data/"):
