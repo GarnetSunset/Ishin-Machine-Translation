@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<livearea style="a5" format-ver="01.00" content-rev="1">
+  <livearea-background>
+    <image>livearea_bg.png</image>
+  </livearea-background>
+  <gate>
+    <startup-image>livearea_gate.png</startup-image>
+  </gate>
+  <frame id="frame4">
+  </frame>
+  <frame id="frame5">
+    <liveitem>
+      <image>livearea_frame4.png</image>
+      <target>http://ryu-ga-gotoku.com/ishin/</target>
+      <text>
+        <str>Yakuza Ishin! Official site</str>
+      </text>
+    </liveitem>
+  </frame>
+</livearea>
