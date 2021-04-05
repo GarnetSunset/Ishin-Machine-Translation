@@ -47,6 +47,8 @@ def replace_strings(text, eboot, ignore_length, output, version):
         offsets = df['PSN offset'].tolist()
     elif version.lower() == 'ps4':
         offsets = df['PS4 offset'].tolist()
+    elif version.lower() == 'vita':
+        offsets = df['Vita offset'].tolist()
     else:
         print("Incorrect input")
         quit()
@@ -62,9 +64,11 @@ def replace_strings(text, eboot, ignore_length, output, version):
 
     count = 0
     for o, s in zip(offsets, strings):
-        write_string(data, int(o, 16), s, ignore_length, df, count)
-        count +=1
-    
+        try:
+            write_string(data, int(o, 16), s, ignore_length, df, count)
+            count +=1
+        except:
+            print("Non Existant")
     with open(output, "wb") as f:
         f.write(data)
     try:
@@ -108,7 +112,7 @@ def main():
     else:
         ignore_length = False
 
-    if args.version.lower() not in ['psn', 'disc', 'ps4']:
+    if args.version.lower() not in ['psn', 'disc', 'ps4', 'vita']:
         print('Incorrect version.')
         quit()
 
