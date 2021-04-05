@@ -6,14 +6,23 @@ if not os.path.exists("pkgsForUpdate"):
 if os.path.exists("patch"):
     shutil.rmtree(os.getcwd()+"/patch/")
 
-scetool = "https://cdn.discordapp.com/attachments/732351773687414825/824632561245356062/pkgsForUpdate.zip"
-digital = ["http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0104-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0105-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0106-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0107-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/NPJB00532/NPJB00532_T7/24b46000c027864a/JP0177-NPJB00532_00-RYUISHINRETAIL00-A0108-V0100-PE.pkg"]
-disc = ["http://b0.ww.np.dl.playstation.net/tppkg/np/BLJM61149/BLJM61149_T8/b2eeb24f08b90ce1/JP0177-BLJM61149_00-GAMEVER0104WEEK4-A0104-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/BLJM61149/BLJM61149_T8/b2eeb24f08b90ce1/JP0177-BLJM61149_00-GAMEVER0105WEEK5-A0105-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/BLJM61149/BLJM61149_T8/b2eeb24f08b90ce1/JP0177-BLJM61149_00-GAMEVER0106WEEK6-A0106-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/BLJM61149/BLJM61149_T8/b2eeb24f08b90ce1/JP0177-BLJM61149_00-GAMEVER0107WEEK7-A0107-V0100-PE.pkg","http://b0.ww.np.dl.playstation.net/tppkg/np/BLJM61149/BLJM61149_T8/b2eeb24f08b90ce1/JP0177-BLJM61149_00-GAMEVER0108WEEK8-A0108-V0100-PE.pkg"]
+digitalPS3 = "https://a0.ww.np.dl.playstation.net/tpl/np/NPJB00532/NPJB00532-ver.xml"
+response = requests.get(digitalPS3, verify=False)
+data = xmltodict.parse(response.content)
+digital = []
+for item in data["titlepatch"]["tag"]["package"]:
+    digital.append(item["@url"])
+discPS3 = "https://a0.ww.np.dl.playstation.net/tpl/np/BLJM61149/BLJM61149-ver.xml"
+response = requests.get(digitalPS3, verify=False)
+data = xmltodict.parse(response.content)
+disc = []
+for item in data["titlepatch"]["tag"]["package"]:
+    disc.append(item["@url"])
 
 r = requests.get("https://raw.githubusercontent.com/windsurfer1122/PSN_get_pkg_info/master/PSN_get_pkg_info.py", allow_redirects=True)
 open("pkgsForUpdate/PSN_get_pkg_info.py", 'wb').write(r.content)
 
-r = requests.get(scetool)
+r = requests.get("https://cdn.discordapp.com/attachments/732351773687414825/824632561245356062/pkgsForUpdate.zip")
 z = zipfile.ZipFile(io.BytesIO(r.content))
 z.extractall("pkgsForUpdate")
 
