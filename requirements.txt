@@ -9,3 +9,5 @@ google-cloud-translate
 pandas
 openpxl
 rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
+pandas
+xmltodict
