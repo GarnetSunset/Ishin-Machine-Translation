@@ -1,4 +1,4 @@
-import os, sys, requests,shutil,zipfile, io, eboot_translator
+import os, sys, requests,shutil,zipfile, io, eboot_translator, xmltodict
 from distutils.dir_util import copy_tree
 
 if not os.path.exists("pkgsForUpdate"):
