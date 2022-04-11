@@ -237,7 +237,7 @@ msgstr "Morita"
 
 msgctxt "338"
 msgid "原"
-msgstr "original"
+msgstr "original_text"
 
 msgctxt "342"
 msgid "柴田"

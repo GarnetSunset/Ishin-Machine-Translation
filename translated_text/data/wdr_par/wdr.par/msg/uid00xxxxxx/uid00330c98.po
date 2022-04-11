@@ -669,7 +669,7 @@ msgstr ""
 msgctxt "53998"
 msgid "（うーん、泣き上戸が本来の姿らしい……）"
 msgstr ""
-"(Hmm, crying Uedo seems to be the original\n"
+"(Hmm, crying Uedo seems to be the original_text\n"
 "figure ...)"
 
 msgctxt "54039"

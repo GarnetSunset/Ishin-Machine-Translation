@@ -147,7 +147,7 @@ msgid ""
 msgstr ""
 "Since it is fried for each order, you can\n"
 "enjoy the hot flavor at any time. Please\n"
-"enjoy the original taste of the ingredients."
+"enjoy the original_text taste of the ingredients."
 
 msgctxt "1326"
 msgid ""

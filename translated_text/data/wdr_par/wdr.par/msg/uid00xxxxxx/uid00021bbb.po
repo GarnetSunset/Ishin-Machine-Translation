@@ -29,7 +29,7 @@ msgstr "TURNBODY。"
 
 msgctxt "1916"
 msgid "元の配置へ戻す。"
-msgstr "Return to the original arrangement."
+msgstr "Return to the original_text arrangement."
 
 msgctxt "1933"
 msgid "TURNBODY（一瞬）。"

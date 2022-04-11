@@ -13,7 +13,8 @@ cleaned/
 pkgsForUpdate/
 patch/
 export/
-translated/data/bootpar/boot.par/kiyaku.po
+.idea/
+translated_text/data/bootpar/boot.par/kiyaku.po
 FIXUS.txt
 
 # Distribution / packaging

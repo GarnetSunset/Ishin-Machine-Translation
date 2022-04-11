@@ -413,7 +413,7 @@ msgid ""
 "……正しくは“元”、だがな。"
 msgstr ""
 "It is an attendant of Toyo Yoshida. ......\n"
-"Correctly, \"original\", though."
+"Correctly, \"original_text\", though."
 
 msgctxt "22672"
 msgid "東洋様には、返しきれねえご恩がある。"

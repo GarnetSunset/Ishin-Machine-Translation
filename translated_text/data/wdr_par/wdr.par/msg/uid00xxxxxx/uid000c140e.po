@@ -1166,7 +1166,7 @@ msgstr ""
 "Ah, the chewy noodles are soaked with a\n"
 "light soup stock, and the tempura that\n"
 "is added so as not to spoil the elegance\n"
-"further enhances the original taste of\n"
+"further enhances the original_text taste of\n"
 "udon ..."
 
 msgctxt "45742"

@@ -5,11 +5,11 @@ import polib
 
 poList = []
 
-for root, dirs, files in os.walk("original"):
+for root, dirs, files in os.walk("original_text"):
     for file in files:
         if file.endswith(".po"):
             poList.append(os.path.join(root, file))
-            Path(root.replace("original\\", "cleaned\\")).mkdir(parents=True, exist_ok=True)
+            Path(root.replace("original_text\\", "cleaned\\")).mkdir(parents=True, exist_ok=True)
 
 matches = ["TAG_", "DETAIL_EXPLAIN", "KIND_", "SHOP_ID", "UNIT_", "CATEGORY_", "FINISH_FLAG", "PLAYER_", "TYPE_"]
 regex = u'[\u3000-\u303f\u3040-\u309f\u30a0-\u30ff\uff00-\uff9f\u4e00-\u9faf\u3400-\u4dbf]'
@@ -20,7 +20,7 @@ for fileName in poList:
     if "kiyaku.po" not in fileName:
         print(fileName)
         input_file = polib.pofile(fileName)
-        input_file_2 = polib.pofile(fileName.replace("original\\", "translated\\"))
+        input_file_2 = polib.pofile(fileName.replace("original_text\\", "translated_text\\"))
         output_file = polib.POFile()
         output_file.metadata = {
             'Project-Id-Version': 'Ryū ga Gotoku Ishin!',
@@ -51,8 +51,8 @@ for fileName in poList:
                         msgstr=msgstr
                     )
             output_file.append(translated_entry)
-            output_file.save(fileName.replace("original\\", "cleaned\\"))
-            with open(fileName.replace("original\\", "cleaned\\"), 'r', encoding="utf8") as fin:
+            output_file.save(fileName.replace("original_text\\", "cleaned\\"))
+            with open(fileName.replace("original_text\\", "cleaned\\"), 'r', encoding="utf8") as fin:
                 data = fin.read().splitlines(True)
-            with open(fileName.replace("original\\", "cleaned\\"), 'w', encoding="utf8") as fout:
+            with open(fileName.replace("original_text\\", "cleaned\\"), 'w', encoding="utf8") as fout:
                 fout.writelines(data[1:])

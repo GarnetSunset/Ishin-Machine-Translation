@@ -32,11 +32,11 @@ credentials = service_account.Credentials.from_service_account_file(
 )
 
 poList = []
-for root, dirs, files in os.walk("original"):
+for root, dirs, files in os.walk("original_text"):
     for file in files:
         if file.endswith(".po"):
             poList.append(os.path.join(root, file))
-            Path(root.replace("original\\", "translated\\")).mkdir(parents=True, exist_ok=True)
+            Path(root.replace("original_text\\", "translated_text\\")).mkdir(parents=True, exist_ok=True)
 
 
 def translate_text(target, text):
@@ -103,8 +103,8 @@ for fileName in poList:
                 msgstr=entry.msgstr
             )
         output_file.append(translated_entry)
-    output_file.save(fileName.replace("original\\", "translated\\"))
-    with open(fileName.replace("original\\", "translated\\"), 'r', encoding="utf8") as fin:
+    output_file.save(fileName.replace("original_text\\", "translated_text\\"))
+    with open(fileName.replace("original_text\\", "translated_text\\"), 'r', encoding="utf8") as fin:
         data = fin.read().splitlines(True)
-    with open(fileName.replace("original\\", "translated\\"), 'w', encoding="utf8") as fout:
+    with open(fileName.replace("original_text\\", "translated_text\\"), 'w', encoding="utf8") as fout:
         fout.writelines(data[1:])

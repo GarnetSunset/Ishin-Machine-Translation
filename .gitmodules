@@ -1,3 +1,6 @@
 [submodule "eboot_string_patcher"]
 	path = eboot_string_patcher
 	url = https://github.com/SutandoTsukai181/eboot_string_patcher
+[submodule "tools/eboot_string_patcher"]
+	path = tools/eboot_string_patcher
+	url = https://github.com/SutandoTsukai181/eboot_string_patcher

@@ -292,7 +292,7 @@ msgid ""
 "（剣術本来の美しさか……\n"
 "　時間があったら覗いてみるか）"
 msgstr ""
-"(Is it the original beauty of swordsmanship\n"
+"(Is it the original_text beauty of swordsmanship\n"
 "... Do you want to take a peek if you\n"
 "have time?)"
 
