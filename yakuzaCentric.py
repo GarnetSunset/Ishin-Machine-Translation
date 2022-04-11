@@ -5,7 +5,7 @@ import polib
 
 poList = []
 
-for root, dirs, files in os.walk("original_text"):
+for root, dirs, files in os.walk("translation_data/original_text"):
     for file in files:
         if file.endswith(".po"):
             poList.append(os.path.join(root, file))
