@@ -1,6 +1,5 @@
-import pfp, xml
-from xml.dom.minidom import parse
-import xml.dom.minidom
+import pfp
+
 
 def ebootParse(file):
     template = """
@@ -16,10 +15,11 @@ def ebootParse(file):
     """
 
     parsed_tlv = pfp.parse(
-        template        = template,
-        data_file       = file
+        template=template,
+        data_file=file
     )
-    
+
+
 template = """
 uint align( uint v, uint a ) { return ( v + ( a - 1 ) ) & ~( a - 1 ); }
 void falign( uint a ) { FSeek( align( FTell(), a ) ); }
@@ -33,7 +33,7 @@ str data[3000];
 """
 
 domD = pfp.parse(
-    template        = template,
-    data_file       = "patch/USRDIR/EBOOT_DECR.BIN"
+    template=template,
+    data_file="patch/USRDIR/EBOOT_DECR.BIN"
 )
 print(domD._pfp__show(include_offset=True))

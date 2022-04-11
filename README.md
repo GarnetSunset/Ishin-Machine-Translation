@@ -1,7 +1,8 @@
 # Ishin-Machine-Translation
+
 Myself and @Timo654 made a machine translated and super sketchy translation of Yakuza: Ishin
 
-Foas is doing obvious fixes  
+Foas is doing obvious fixes
 
 Ryuhachii, quintilisart, MsLow, psp and cat-three for help with UI elements
 
@@ -20,11 +21,15 @@ KHHSubs for Trophy translations
 ## How to use:
 
 ### REQUIREMENTS!
+
 Visual C++ Build Tools https://go.microsoft.com/fwlink/?LinkId=691126
+
 ### pip install -r requirements.txt
 
 ## autoupdate
+
 autoupdate.py will create a patched and encrypted eboot, use resigner to build a new pkg!
 
 ## translate_google
+
 Will translate all text in original (po files)

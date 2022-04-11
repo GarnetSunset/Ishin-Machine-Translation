@@ -1,13 +1,15 @@
-import struct
 import argparse
+import struct
+
 import pandas as pd
+
 
 def write_string(data, offset, string, ignore_length, df, count):
     pos = offset
     end = data[pos:].index(b'\x00')
 
     i = 0
-    while i < len(data[pos+end:]) and data[pos+end:][i] == 0:
+    while i < len(data[pos + end:]) and data[pos + end:][i] == 0:
         i += 1
 
     max_len = end + i - 1
@@ -25,8 +27,8 @@ def write_string(data, offset, string, ignore_length, df, count):
         print(f"Wrong type - offset: {hex(offset)}, translation: {string}, max length: {max_len}")
         df.loc[count, 'Notes'] = f'Wrong type. Max length: {max_len}'
     except(AttributeError):
-        print(f"Wrong type - offset: {hex(offset)}, translation: {string}, max length: {max_len}")    
-        df.loc[count, 'Notes'] = f'Wrong type. Max length: {max_len}' 
+        print(f"Wrong type - offset: {hex(offset)}, translation: {string}, max length: {max_len}")
+        df.loc[count, 'Notes'] = f'Wrong type. Max length: {max_len}'
     except(UnicodeEncodeError):
         print(offset)
         byte_string = string.encode("shift_jisx0213").replace(b'[n]', b'\x0A')
@@ -38,9 +40,9 @@ def replace_strings(text, eboot, ignore_length, output, version):
     with open(eboot, "rb") as f:
         data = bytearray(f.read())
 
-    #loads xlsx file with text
-    df = pd.read_excel(text,sheet_name='Sheet1')
-    
+    # loads xlsx file with text
+    df = pd.read_excel(text, sheet_name='Sheet1')
+
     if version.lower() == 'disc':
         offsets = df['Disc offset'].tolist()
     elif version.lower() == 'psn':
@@ -55,18 +57,18 @@ def replace_strings(text, eboot, ignore_length, output, version):
 
     strings = df['Translation'].tolist()
 
-    if 'Notes' in df.columns: #deletes column if it exists already
+    if 'Notes' in df.columns:  # deletes column if it exists already
         df.drop('Notes', inplace=True, axis=1)
-    
+
     print(version.lower())
-    
+
     df["Notes"] = ""
 
     count = 0
     for o, s in zip(offsets, strings):
         try:
             write_string(data, int(o, 16), s, ignore_length, df, count)
-            count +=1
+            count += 1
         except:
             print("Non Existant")
     with open(output, "wb") as f:
@@ -75,6 +77,7 @@ def replace_strings(text, eboot, ignore_length, output, version):
         df.to_excel(text, index=False)
     except(PermissionError):
         df.to_excel(text + '_new.xlsx', index=False)
+
 
 def print_strings(eboot):
     with open(eboot, "rb") as f:
@@ -86,12 +89,12 @@ def print_strings(eboot):
         end = data[pos:].index(b'\x00')
 
         i = 0
-        while i < len(data[pos+end:]) and data[pos+end:][i] == 0:
+        while i < len(data[pos + end:]) and data[pos + end:][i] == 0:
             i += 1
 
         max_len = end + i
 
-        print(f"str: '{data[pos:pos+end].decode('shift-jis')}', max_len: {max_len}")
+        print(f"str: '{data[pos:pos + end].decode('shift-jis')}', max_len: {max_len}")
 
         pos += max_len
         count += 1
@@ -99,12 +102,13 @@ def print_strings(eboot):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("input",  help='Eboot file (EBOOT.elf)', type=str)
+    parser.add_argument("input", help='Eboot file (EBOOT.elf)', type=str)
     parser.add_argument("text", help="Pick a xlsx file containing text and offsets.", type=str)
     parser.add_argument("output", help="Output eboot name.", type=str)
     parser.add_argument("version", help="Game version. Valid choices are 'PSN' and 'Disc'", type=str)
 
-    parser.add_argument("-il,", "--ignorelength", help="Ignores length. WARNING: Longer strings will be cut off. Only use this for testing!")
+    parser.add_argument("-il,", "--ignorelength",
+                        help="Ignores length. WARNING: Longer strings will be cut off. Only use this for testing!")
     args = parser.parse_args()
 
     if args.ignorelength:

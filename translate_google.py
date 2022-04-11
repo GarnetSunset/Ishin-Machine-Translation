@@ -1,25 +1,19 @@
 # GarnetSunset's PO File Translation Script
-import json
-import argparse
-import polib
-import time
-import datetime
-import re
-import os, sys
-import requests
-import glob
-from pathlib import Path
-from google.cloud import translate
-from google.oauth2 import service_account
 import html
-from os import path as realPath
+import os
+import re
+from pathlib import Path
 
-blacklist = ["TAG_", "DETAIL_EXPLAIN", "KIND_", "SHOP_ID", "UNIT_", "CATEGORY_" , "FINISH_FLAG", "PLAYER_", "TYPE_"] #msgctxts to ignore
-regex = u'[\u3000-\u303f\u3040-\u309f\u30a0-\u30ff\uff00-\uff9f\u4e00-\u9faf\u3400-\u4dbf]' #japanese characters
-newlineAuto = 39 #when to auto newline? google removes newlines :/
-key_path = "keys.json" #where are your google keys :D
+import polib
+from google.oauth2 import service_account
 
-#metadata for your files
+blacklist = ["TAG_", "DETAIL_EXPLAIN", "KIND_", "SHOP_ID", "UNIT_", "CATEGORY_", "FINISH_FLAG", "PLAYER_",
+             "TYPE_"]  # msgctxts to ignore
+regex = u'[\u3000-\u303f\u3040-\u309f\u30a0-\u30ff\uff00-\uff9f\u4e00-\u9faf\u3400-\u4dbf]'  # japanese characters
+newlineAuto = 39  # when to auto newline? google removes newlines :/
+key_path = "keys.json"  # where are your google keys :D
+
+# metadata for your files
 yourMetadata = {
     'Project-Id-Version': 'Ryū ga Gotoku Ishin!',
     'Report-Msgid-Bugs-To': 'dummy@dummy.com',
@@ -31,7 +25,7 @@ yourMetadata = {
     'MIME-Version': '1.0',
     'Content-Type': 'text/plain; charset=UTF-8',
     'Content-Transfer-Encoding': '8bit',
-    }
+}
 
 credentials = service_account.Credentials.from_service_account_file(
     key_path, scopes=["https://www.googleapis.com/auth/cloud-platform"],
@@ -41,8 +35,8 @@ poList = []
 for root, dirs, files in os.walk("original"):
     for file in files:
         if file.endswith(".po"):
-             poList.append(os.path.join(root, file))
-             Path(root.replace("original\\", "translated\\")).mkdir(parents=True, exist_ok=True)
+            poList.append(os.path.join(root, file))
+            Path(root.replace("original\\", "translated\\")).mkdir(parents=True, exist_ok=True)
 
 
 def translate_text(target, text):
@@ -64,7 +58,8 @@ def translate_text(target, text):
     result = translate_client.translate(text, target_language=target)
 
     return result["translatedText"]
-    
+
+
 for fileName in poList:
     input_file = polib.pofile(fileName)
     output_file = polib.POFile()
@@ -76,7 +71,7 @@ for fileName in poList:
                     msgctxt=entry.msgctxt,
                     msgid=entry.msgid,
                     msgstr=entry.msgid
-                    )
+                )
             elif str(entry.msgid) or re.search("^\s*$", (entry.msgid)):
                 msgstr = translate_text("en", str(entry.msgid))
                 msgstr = html.unescape(msgstr)
@@ -84,24 +79,24 @@ for fileName in poList:
                 try:
                     while counter < len(str(msgstr)):
                         if len(str(msgstr)) > counter:
-                            counter+=newlineAuto
+                            counter += newlineAuto
                             mathTime = str(msgstr)[counter:]
                             soylent = mathTime.index(" ")
-                            msgstr = msgstr[:counter+soylent] + "\n" + msgstr[counter+soylent+1:]
+                            msgstr = msgstr[:counter + soylent] + "\n" + msgstr[counter + soylent + 1:]
                 except:
                     pass
                 translated_entry = polib.POEntry(
                     msgctxt=entry.msgctxt,
                     msgid=entry.msgid,
                     msgstr=msgstr
-                    )
+                )
             else:
                 translated_entry = polib.POEntry(
                     msgctxt=entry.msgctxt,
                     msgid=entry.msgid,
                     msgstr=entry.msgid
-                    )
-        else:    
+                )
+        else:
             translated_entry = polib.POEntry(
                 msgctxt=entry.msgctxt,
                 msgid=entry.msgid,
@@ -113,4 +108,3 @@ for fileName in poList:
         data = fin.read().splitlines(True)
     with open(fileName.replace("original\\", "translated\\"), 'w', encoding="utf8") as fout:
         fout.writelines(data[1:])
-
