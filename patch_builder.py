@@ -16,6 +16,8 @@ try:
     os.makedirs(os.path.dirname("temp/"))
 except:
     pass
+if os.path.exists("patch/"):
+    shutil.rmtree("patch/")
 
 if not os.path.exists(os.path.dirname("tools/raps/")):
     try:
@@ -83,8 +85,6 @@ for file in os.listdir("temp"):
             )
 
 copy_tree("metadata/PS3DIGORDISC/", "patch/")
-files_in_directory = os.listdir("patch/")
-
 os.chdir("tools")
 os.system("scetool -d ../patch/USRDIR/EBOOT.BIN ../patch/USRDIR/EBOOT.elf")
 os.chdir("..")
@@ -95,7 +95,7 @@ if phys_or_dig == "B":
         "patch/USRDIR/EBOOT.elf patch/USRDIR/EBOOT_trans.bin"
     )
     os.system(
-        f"tools/scetool -v --sce-type=SELF --skip-sections=TRUE --key-revision=01 --self-auth-id=1010000001000003 "
+        f"tools\\scetool -v --sce-type=SELF --skip-sections=TRUE --key-revision=01 --self-auth-id=1010000001000003 "
         "--self-app-version=0001000000000000 --self-add-shdrs=TRUE --self-vendor-id=01000002 --self-type=NPDRM "
         "--self-fw-version=0003004000000000 --np-license-type=FREE --np-content-id=BLJM61149 --np-app-type=EXEC "
         "--np-real-fname=EBOOT.BIN --encrypt patch/USRDIR/EBOOT_trans.BIN patch/USRDIR/EBOOT.BIN"
@@ -104,7 +104,7 @@ if phys_or_dig == "B":
         the_file.write(
             "Content-ID = JP0177-BLJM61149_00-GAMEVER0108WEEK8\nk_licensee = "
             "0x00000000000000000000000000000000\nDRM_Type = Free\nContent_Type = GameExec\nPackageVersion = "
-            "01.69 "
+            "01.08 "
         )
 
 if phys_or_dig == "D":
@@ -113,7 +113,7 @@ if phys_or_dig == "D":
         "patch/USRDIR/EBOOT.elf patch/USRDIR/EBOOT_trans.bin"
     )
     os.system(
-        "tools\scetool -v --sce-type=SELF --skip-sections=TRUE --key-revision=01 --self-auth-id=1010000001000003 "
+        "tools\\scetool -v --sce-type=SELF --skip-sections=TRUE --key-revision=01 --self-auth-id=1010000001000003 "
         "--self-app-version=0001000000000000 --self-add-shdrs=TRUE --self-vendor-id=01000002 --self-type=NPDRM "
         "--self-fw-version=0003004000000000 --np-license-type=FREE --np-content-id=NPJB00532 --np-app-type=EXEC "
         "--np-real-fname=EBOOT.BIN --encrypt patch/USRDIR/EBOOT_trans.BIN patch/USRDIR/EBOOT.BIN"
@@ -122,10 +122,8 @@ if phys_or_dig == "D":
         the_file.write(
             "Content-ID = JP0177-NPJB00532_00-RYUISHINRETAIL00\nk_licensee = "
             "0x00000000000000000000000000000000\nDRM_Type = Free\nContent_Type = GameExec\nPackageVersion = "
-            "01.69 "
+            "01.08 "
         )
 
 shutil.move(f"patch/PARAM.SFO_{phys_or_dig}", "patch/PARAM.SFO")
-if os.path.exists("patch/USRDIR/data/"):
-    shutil.rmtree("patch/USRDIR/data/")
 os.system("tools\\make_package_npdrm_retail.exe patch\\package.conf patch")
