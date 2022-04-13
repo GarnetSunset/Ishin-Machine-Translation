@@ -5,12 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
+*.pkg
 
 lextab.py
 yacctab.py
 keys.json
 cleaned/
-pkgsForUpdate/
+temp/
 patch/
 export/
 .idea/
@@ -138,3 +139,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/tools/data/
+/tools/raps/

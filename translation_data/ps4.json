@@ -1,0 +1,6744 @@
+{
+    "strings": [
+        {
+            "text": "Forward",
+            "address": "0x00da3bd6"
+        },
+        {
+            "text": "Next: <Sign:D>",
+            "address": "0x00da3be0"
+        },
+        {
+            "text": "<Sign:C> Back",
+            "address": "0x00da3bed"
+        },
+        {
+            "text": "<Sign:D> OK <Sign:C> Back",
+            "address": "0x00da3bfa"
+        },
+        {
+            "text": "\u6587",
+            "address": "0x00da3c14"
+        },
+        {
+            "text": "\u6587",
+            "address": "0x00da3c17"
+        },
+        {
+            "text": "Many",
+            "address": "0x00da3c1d"
+        },
+        {
+            "text": "Tip",
+            "address": "0x00da3c20"
+        },
+        {
+            "text": "Bill",
+            "address": "0x00da3c23"
+        },
+        {
+            "text": "Pcs",
+            "address": "0x00da3c26"
+        },
+        {
+            "text": "Go",
+            "address": "0x00da3c2c"
+        },
+        {
+            "text": "Money",
+            "address": "0x00da3c32"
+        },
+        {
+            "text": "Chip",
+            "address": "0x00da3c39"
+        },
+        {
+            "text": "You twist",
+            "address": "0x00da3c40"
+        },
+        {
+            "text": "Used Pt",
+            "address": "0x00da3c49"
+        },
+        {
+            "text": "\u95d8\u7389",
+            "address": "0x00da3c50"
+        },
+        {
+            "text": "Fund",
+            "address": "0x00da3c55"
+        },
+        {
+            "text": "Dojo funds",
+            "address": "0x00da3c5a"
+        },
+        {
+            "text": "\uff30 held",
+            "address": "0x00da3c63"
+        },
+        {
+            "text": "Medal",
+            "address": "0x00da3c6a"
+        },
+        {
+            "text": "Weight",
+            "address": "0x00da3c71"
+        },
+        {
+            "text": "\uff30 get",
+            "address": "0x00da3c78"
+        },
+        {
+            "text": "Taxi Pt",
+            "address": "0x00da3c7f"
+        },
+        {
+            "text": "%2d pts",
+            "address": "0x00da3c8a"
+        },
+        {
+            "text": "Lucky Draw",
+            "address": "0x00da3c91"
+        },
+        {
+            "text": "Gion",
+            "address": "0x00da3c9a"
+        },
+        {
+            "text": "Kyoto",
+            "address": "0x00da3c9f"
+        },
+        {
+            "text": "Kyoto",
+            "address": "0x00da3ca4"
+        },
+        {
+            "text": "Mukuro",
+            "address": "0x00da3ca9"
+        },
+        {
+            "text": "Fushimi",
+            "address": "0x00da3cae"
+        },
+        {
+            "text": "Tosa",
+            "address": "0x00da3cb3"
+        },
+        {
+            "text": "\u5fb3",
+            "address": "0x00da3cb8"
+        },
+        {
+            "text": "type",
+            "address": "0x00da3cbb"
+        },
+        {
+            "text": "x",
+            "address": "0x00da3cc0"
+        },
+        {
+            "text": "Saito",
+            "address": "0x00da3cc3"
+        },
+        {
+            "text": "Ryoma",
+            "address": "0x00da3cc8"
+        },
+        {
+            "text": "Haruka",
+            "address": "0x00da3ccd"
+        },
+        {
+            "text": "Hajime",
+            "address": "0x00da3cd0"
+        },
+        {
+            "text": "Ryoma S.",
+            "address": "0x00da3cd7"
+        },
+        {
+            "text": "Haruka",
+            "address": "0x00da3ce0"
+        },
+        {
+            "text": "Saito",
+            "address": "0x00da3ce7"
+        },
+        {
+            "text": "Saito",
+            "address": "0x00da3cf0"
+        },
+        {
+            "text": "Land",
+            "address": "0x00da3d05"
+        },
+        {
+            "text": "Kaguya",
+            "address": "0x00da3d0a"
+        },
+        {
+            "text": "Honoka",
+            "address": "0x00da3d11"
+        },
+        {
+            "text": "Shion",
+            "address": "0x00da3d18"
+        },
+        {
+            "text": "Sakurazaki",
+            "address": "0x00da3d1d"
+        },
+        {
+            "text": "Sunny",
+            "address": "0x00da3d28"
+        },
+        {
+            "text": "Apricot",
+            "address": "0x00da3d2f"
+        },
+        {
+            "text": "Dog",
+            "address": "0x00da3d34"
+        },
+        {
+            "text": "Cat",
+            "address": "0x00da3d39"
+        },
+        {
+            "text": "The pea",
+            "address": "0x00da3d3e"
+        },
+        {
+            "text": "Helmet",
+            "address": "0x00da3d43"
+        },
+        {
+            "text": "Naotarou",
+            "address": "0x00da3d4a"
+        },
+        {
+            "text": "Daikichi",
+            "address": "0x00da3d55"
+        },
+        {
+            "text": "Tuna",
+            "address": "0x00da3d5e"
+        },
+        {
+            "text": "Blown inside",
+            "address": "0x00da3d65"
+        },
+        {
+            "text": "Used ones do not have.",
+            "address": "0x00da3d6e"
+        },
+        {
+            "text": "What do I use?",
+            "address": "0x00da3d87"
+        },
+        {
+            "text": "You sure ya wanna to use it?",
+            "address": "0x00da3d96"
+        },
+        {
+            "text": "Stakes",
+            "address": "0x00da3daf"
+        },
+        {
+            "text": "Dividend",
+            "address": "0x00da3db6"
+        },
+        {
+            "text": "payment",
+            "address": "0x00da3dbd"
+        },
+        {
+            "text": "Best regards.",
+            "address": "0x00da3dc2"
+        },
+        {
+            "text": "Don't hurt me.",
+            "address": "0x00da3dcb"
+        },
+        {
+            "text": "Let's win!",
+            "address": "0x00da3dd8"
+        },
+        {
+            "text": "Suddenly one pair!",
+            "address": "0x00da3de7"
+        },
+        {
+            "text": "Also I met",
+            "address": "0x00da3dfa"
+        },
+        {
+            "text": "Howdy",
+            "address": "0x00da3e07"
+        },
+        {
+            "text": "Good fortune to you",
+            "address": "0x00da3e14"
+        },
+        {
+            "text": "Th-This is\u2026! ?",
+            "address": "0x00da3e2b"
+        },
+        {
+            "text": "It's This win confirmed",
+            "address": "0x00da3e3c"
+        },
+        {
+            "text": "We can't win",
+            "address": "0x00da3e4f"
+        },
+        {
+            "text": "We gotta go",
+            "address": "0x00da3e62"
+        },
+        {
+            "text": "Bad luck...",
+            "address": "0x00da3e79"
+        },
+        {
+            "text": "Come, come!",
+            "address": "0x00da3e88"
+        },
+        {
+            "text": "Be careful",
+            "address": "0x00da3e93"
+        },
+        {
+            "text": "Luck is good!",
+            "address": "0x00da3ea2"
+        },
+        {
+            "text": "Uninspiring",
+            "address": "0x00da3eaf"
+        },
+        {
+            "text": "Wait and see",
+            "address": "0x00da3ebe"
+        },
+        {
+            "text": "Decide quickly",
+            "address": "0x00da3ed3"
+        },
+        {
+            "text": "Do you bluff!",
+            "address": "0x00da3ee8"
+        },
+        {
+            "text": "Leave early!",
+            "address": "0x00da3efb"
+        },
+        {
+            "text": "A little in trouble ...",
+            "address": "0x00da3f08"
+        },
+        {
+            "text": "Running away is good",
+            "address": "0x00da3f19"
+        },
+        {
+            "text": "Holy shit!",
+            "address": "0x00da3f2a"
+        },
+        {
+            "text": "How nice!",
+            "address": "0x00da3f35"
+        },
+        {
+            "text": "Damn!",
+            "address": "0x00da3f3e"
+        },
+        {
+            "text": "Hooray~!",
+            "address": "0x00da3f47"
+        },
+        {
+            "text": "Remorse\u2026..",
+            "address": "0x00da3f52"
+        },
+        {
+            "text": "Planted -",
+            "address": "0x00da3f5d"
+        },
+        {
+            "text": "Griping ... (tears)",
+            "address": "0x00da3f66"
+        },
+        {
+            "text": "Prickly ash tree",
+            "address": "0x00da3f77"
+        },
+        {
+            "text": "It is tough!",
+            "address": "0x00da3f8a"
+        },
+        {
+            "text": "Akimahengana!",
+            "address": "0x00da3f97"
+        },
+        {
+            "text": "Helluva PECO is in!",
+            "address": "0x00da3fa8"
+        },
+        {
+            "text": "I think I'll go now",
+            "address": "0x00da3fbb"
+        },
+        {
+            "text": "Role could be!",
+            "address": "0x00da3fce"
+        },
+        {
+            "text": "I got the part, kinda..",
+            "address": "0x00da3fdb"
+        },
+        {
+            "text": "I got a strong role!",
+            "address": "0x00da3ff0"
+        },
+        {
+            "text": "Not aligned at all ...",
+            "address": "0x00da4001"
+        },
+        {
+            "text": "in high spirits",
+            "address": "0x00da4012"
+        },
+        {
+            "text": "The wrong choice ...",
+            "address": "0x00da401d"
+        },
+        {
+            "text": "Times",
+            "address": "0x00da3cc0"
+        },
+        {
+            "text": "King Kazunoko",
+            "address": "0x00da402e"
+        },
+        {
+            "text": "Stuffy's",
+            "address": "0x00da403d"
+        },
+        {
+            "text": "Akinako",
+            "address": "0x00da4046"
+        },
+        {
+            "text": "In Yade Ya",
+            "address": "0x00da404f"
+        },
+        {
+            "text": "Saxon Colonel",
+            "address": "0x00da4058"
+        },
+        {
+            "text": "Machine Gun",
+            "address": "0x00da4065"
+        },
+        {
+            "text": "Matsukov ",
+            "address": "0x00da4074"
+        },
+        {
+            "text": "In and Mom",
+            "address": "0x00da4083"
+        },
+        {
+            "text": "Bashi",
+            "address": "0x00da408c"
+        },
+        {
+            "text": "South",
+            "address": "0x00da4095"
+        },
+        {
+            "text": "Italian",
+            "address": "0x00da4098"
+        },
+        {
+            "text": "Hungry weather",
+            "address": "0x00da409f"
+        },
+        {
+            "text": "Ashura Komachi",
+            "address": "0x00da40ac"
+        },
+        {
+            "text": "Samurai Ondo",
+            "address": "0x00da40b7"
+        },
+        {
+            "text": "Honor one's hometown",
+            "address": "0x00da40c4"
+        },
+        {
+            "text": "God raised",
+            "address": "0x00da40d7"
+        },
+        {
+            "text": "Our signature",
+            "address": "0x00da40e2"
+        },
+        {
+            "text": "Air changer",
+            "address": "0x00da40ef"
+        },
+        {
+            "text": "Jug bastard",
+            "address": "0x00da40fe"
+        },
+        {
+            "text": "Awful",
+            "address": "0x00da4109"
+        },
+        {
+            "text": "Untried",
+            "address": "0x00da410e"
+        },
+        {
+            "text": "Backup",
+            "address": "0x00da4115"
+        },
+        {
+            "text": "Passionate backup",
+            "address": "0x00da4124"
+        },
+        {
+            "text": "Sing",
+            "address": "0x00da4135"
+        },
+        {
+            "text": "?",
+            "address": "0x00da6ae6"
+        },
+        {
+            "text": "? ? ? ? ?",
+            "address": "0x00da413a"
+        },
+        {
+            "text": "Tuna",
+            "address": "0x00da414c"
+        },
+        {
+            "text": "squid",
+            "address": "0x00da4153"
+        },
+        {
+            "text": "Flounder",
+            "address": "0x00da4158"
+        },
+        {
+            "text": "Onikasago",
+            "address": "0x00da415f"
+        },
+        {
+            "text": "eel",
+            "address": "0x00da4173"
+        },
+        {
+            "text": "Great Shark",
+            "address": "0x00da417f"
+        },
+        {
+            "text": "Takaashigani",
+            "address": "0x00da4193"
+        },
+        {
+            "text": "Octopus",
+            "address": "0x00da41a0"
+        },
+        {
+            "text": "Porcupine fish",
+            "address": "0x00da41a7"
+        },
+        {
+            "text": "Crucian",
+            "address": "0x00da41b4"
+        },
+        {
+            "text": "Koi",
+            "address": "0x00da41b9"
+        },
+        {
+            "text": "Koi",
+            "address": "0x00da41be"
+        },
+        {
+            "text": "Rainbow trout",
+            "address": "0x00da41d0"
+        },
+        {
+            "text": "End",
+            "address": "0x00da41d9"
+        },
+        {
+            "text": "Child",
+            "address": "0x00da41de"
+        },
+        {
+            "text": "Adult",
+            "address": "0x00da41e3"
+        },
+        {
+            "text": "Senior",
+            "address": "0x00da41e8"
+        },
+        {
+            "text": "\u3067",
+            "address": "0x00da4203"
+        },
+        {
+            "text": "\u3082",
+            "address": "0x00da4218"
+        },
+        {
+            "text": "\u3082",
+            "address": "0x00da4218"
+        },
+        {
+            "text": "\uff1f",
+            "address": "0x00da6ae6"
+        },
+        {
+            "text": "\u3082",
+            "address": "0x00da4218"
+        },
+        {
+            "text": "\u3082",
+            "address": "0x00da4218"
+        },
+        {
+            "text": "\uff1f",
+            "address": "0x00da6ae6"
+        },
+        {
+            "text": "\u70b9",
+            "address": "0x00da3c20"
+        },
+        {
+            "text": "\u6587\u5b57\u8a70\u3081",
+            "address": "0x00da41f4"
+        },
+        {
+            "text": "\u304b",
+            "address": "0x00da41fd"
+        },
+        {
+            "text": "\u304c",
+            "address": "0x00da4200"
+        },
+        {
+            "text": "\u3067",
+            "address": "0x00da4203"
+        },
+        {
+            "text": "\u3068",
+            "address": "0x00da4206"
+        },
+        {
+            "text": "\u306a",
+            "address": "0x00da4209"
+        },
+        {
+            "text": "\u306b",
+            "address": "0x00da420c"
+        },
+        {
+            "text": "\u306e",
+            "address": "0x00da420f"
+        },
+        {
+            "text": "\u306f",
+            "address": "0x00da4212"
+        },
+        {
+            "text": "\u3078",
+            "address": "0x00da4215"
+        },
+        {
+            "text": "\u3082",
+            "address": "0x00da4218"
+        },
+        {
+            "text": "\u3084",
+            "address": "0x00da421b"
+        },
+        {
+            "text": "\u3092",
+            "address": "0x00da421e"
+        },
+        {
+            "text": "\u7d44",
+            "address": "0x00da4221"
+        },
+        {
+            "text": "\u98a8",
+            "address": "0x00da4224"
+        },
+        {
+            "text": "\u6d41",
+            "address": "0x00da4227"
+        },
+        {
+            "text": "\u30dd\u30fc\u30ab\u30fc",
+            "address": "0x00da422a"
+        },
+        {
+            "text": "\u7570\u56fd",
+            "address": "0x00da4233"
+        },
+        {
+            "text": "Bluff",
+            "address": "0x00da4238"
+        },
+        {
+            "text": "club",
+            "address": "0x00da423f"
+        },
+        {
+            "text": "Diamond",
+            "address": "0x00da4246"
+        },
+        {
+            "text": "spade",
+            "address": "0x00da424d"
+        },
+        {
+            "text": "heart",
+            "address": "0x00da4256"
+        },
+        {
+            "text": "Nopea",
+            "address": "0x00da425d"
+        },
+        {
+            "text": "One pair",
+            "address": "0x00da4266"
+        },
+        {
+            "text": "Two Pairs",
+            "address": "0x00da426f"
+        },
+        {
+            "text": "3 card",
+            "address": "0x00da4278"
+        },
+        {
+            "text": "straight",
+            "address": "0x00da4281"
+        },
+        {
+            "text": "flash",
+            "address": "0x00da428c"
+        },
+        {
+            "text": "Full house",
+            "address": "0x00da4297"
+        },
+        {
+            "text": "4 card",
+            "address": "0x00da42a2"
+        },
+        {
+            "text": "Royal",
+            "address": "0x00da42ab"
+        },
+        {
+            "text": "pawn",
+            "address": "0x00da42b4"
+        },
+        {
+            "text": "Night",
+            "address": "0x00da42bb"
+        },
+        {
+            "text": "Bishop",
+            "address": "0x00da42c2"
+        },
+        {
+            "text": "Luke",
+            "address": "0x00da42cd"
+        },
+        {
+            "text": "Jack",
+            "address": "0x00da42d4"
+        },
+        {
+            "text": "Queen",
+            "address": "0x00da42dd"
+        },
+        {
+            "text": "King",
+            "address": "0x00da42e6"
+        },
+        {
+            "text": "Ace",
+            "address": "0x00da42ed"
+        },
+        {
+            "text": "The Joker",
+            "address": "0x00da42f4"
+        },
+        {
+            "text": "Poker King",
+            "address": "0x00da42ff"
+        },
+        {
+            "text": "Mahjong",
+            "address": "0x00da430a"
+        },
+        {
+            "text": "east",
+            "address": "0x00da430f"
+        },
+        {
+            "text": "West",
+            "address": "0x00da4312"
+        },
+        {
+            "text": "North",
+            "address": "0x00da4315"
+        },
+        {
+            "text": "Qi",
+            "address": "0x00da4318"
+        },
+        {
+            "text": "Pont",
+            "address": "0x00da431d"
+        },
+        {
+            "text": "Kang",
+            "address": "0x00da4322"
+        },
+        {
+            "text": "Man's",
+            "address": "0x00da4327"
+        },
+        {
+            "text": "Pins",
+            "address": "0x00da432e"
+        },
+        {
+            "text": "P & ID",
+            "address": "0x00da4335"
+        },
+        {
+            "text": "3w tile",
+            "address": "0x00da433c"
+        },
+        {
+            "text": "4w tile",
+            "address": "0x00da4343"
+        },
+        {
+            "text": "reach",
+            "address": "0x00da434a"
+        },
+        {
+            "text": "Tsumo",
+            "address": "0x00da4351"
+        },
+        {
+            "text": "Ron",
+            "address": "0x00da4356"
+        },
+        {
+            "text": "Soldier",
+            "address": "0x00da435b"
+        },
+        {
+            "text": "King",
+            "address": "0x00da4360"
+        },
+        {
+            "text": "Supremo",
+            "address": "0x00da4365"
+        },
+        {
+            "text": "Emperor",
+            "address": "0x00da436a"
+        },
+        {
+            "text": "Dynast",
+            "address": "0x00da436f"
+        },
+        {
+            "text": "Suzumeokami",
+            "address": "0x00da4374"
+        },
+        {
+            "text": "Suzumesho",
+            "address": "0x00da4379"
+        },
+        {
+            "text": "Suzumeo",
+            "address": "0x00da437e"
+        },
+        {
+            "text": "Sparrow dragon",
+            "address": "0x00da4383"
+        },
+        {
+            "text": "Sparrow God",
+            "address": "0x00da4388"
+        },
+        {
+            "text": "Koi-Koi",
+            "address": "0x00da438d"
+        },
+        {
+            "text": "Floral playing cards",
+            "address": "0x00da4396"
+        },
+        {
+            "text": "Lend",
+            "address": "0x00da439b"
+        },
+        {
+            "text": "Tan",
+            "address": "0x00da43a0"
+        },
+        {
+            "text": "Tane",
+            "address": "0x00da43a5"
+        },
+        {
+            "text": "Hanami wine",
+            "address": "0x00da43aa"
+        },
+        {
+            "text": "Tsukimi Sake",
+            "address": "0x00da43b1"
+        },
+        {
+            "text": "Blue short",
+            "address": "0x00da43b8"
+        },
+        {
+            "text": "Akatan",
+            "address": "0x00da43bd"
+        },
+        {
+            "text": "Inoshikacho",
+            "address": "0x00da43c2"
+        },
+        {
+            "text": "Sanko",
+            "address": "0x00da43c9"
+        },
+        {
+            "text": "With food",
+            "address": "0x00da43ce"
+        },
+        {
+            "text": "Hand four",
+            "address": "0x00da43d3"
+        },
+        {
+            "text": "Rain four light",
+            "address": "0x00da43d8"
+        },
+        {
+            "text": "Four light",
+            "address": "0x00da43df"
+        },
+        {
+            "text": "Five light",
+            "address": "0x00da43e4"
+        },
+        {
+            "text": "Just the beginning",
+            "address": "0x00da43e9"
+        },
+        {
+            "text": "Introduction two-stage",
+            "address": "0x00da43f0"
+        },
+        {
+            "text": "The third stage",
+            "address": "0x00da43f7"
+        },
+        {
+            "text": "Makushita",
+            "address": "0x00da43fe"
+        },
+        {
+            "text": "Junior grade sumo wrestler",
+            "address": "0x00da4403"
+        },
+        {
+            "text": "Frontal",
+            "address": "0x00da4408"
+        },
+        {
+            "text": "Komusubi",
+            "address": "0x00da440d"
+        },
+        {
+            "text": "Sumo junior champion",
+            "address": "0x00da4412"
+        },
+        {
+            "text": "Ozeki",
+            "address": "0x00da4417"
+        },
+        {
+            "text": "Sumo grand champion",
+            "address": "0x00da441c"
+        },
+        {
+            "text": "Kabufuda",
+            "address": "0x00da4421"
+        },
+        {
+            "text": "Moss game",
+            "address": "0x00da4426"
+        },
+        {
+            "text": "Why did I lose?",
+            "address": "0x00da442f"
+        },
+        {
+            "text": "pig",
+            "address": "0x00da443a"
+        },
+        {
+            "text": "pin",
+            "address": "0x00da443f"
+        },
+        {
+            "text": "Nisou",
+            "address": "0x00da4444"
+        },
+        {
+            "text": "Santa",
+            "address": "0x00da444b"
+        },
+        {
+            "text": "Yotsuya",
+            "address": "0x00da4452"
+        },
+        {
+            "text": "Moss",
+            "address": "0x00da4459"
+        },
+        {
+            "text": "Six law codes",
+            "address": "0x00da445e"
+        },
+        {
+            "text": "Naki",
+            "address": "0x00da4467"
+        },
+        {
+            "text": "Oicho",
+            "address": "0x00da446c"
+        },
+        {
+            "text": "Cub",
+            "address": "0x00da4475"
+        },
+        {
+            "text": "Shippin",
+            "address": "0x00da447a"
+        },
+        {
+            "text": "Kuppin",
+            "address": "0x00da4483"
+        },
+        {
+            "text": "Arashi",
+            "address": "0x00da448c"
+        },
+        {
+            "text": "Stock entertainer",
+            "address": "0x00da4493"
+        },
+        {
+            "text": "Stock keeper",
+            "address": "0x00da449a"
+        },
+        {
+            "text": "Ltd. Guru",
+            "address": "0x00da44a1"
+        },
+        {
+            "text": "Ltd. Iron Man",
+            "address": "0x00da44a8"
+        },
+        {
+            "text": "Stock superman",
+            "address": "0x00da44af"
+        },
+        {
+            "text": "Shareholder",
+            "address": "0x00da44b6"
+        },
+        {
+            "text": "Kabusho",
+            "address": "0x00da44bb"
+        },
+        {
+            "text": "Kabuo",
+            "address": "0x00da44c0"
+        },
+        {
+            "text": "Ltd. dragon",
+            "address": "0x00da44c5"
+        },
+        {
+            "text": "Ltd. God",
+            "address": "0x00da44ca"
+        },
+        {
+            "text": "Japanese chess",
+            "address": "0x00da44cf"
+        },
+        {
+            "text": "First move",
+            "address": "0x00da44d4"
+        },
+        {
+            "text": "Iron",
+            "address": "0x00da44d9"
+        },
+        {
+            "text": "Stay rook",
+            "address": "0x00da44de"
+        },
+        {
+            "text": "Pretend rook",
+            "address": "0x00da44e5"
+        },
+        {
+            "text": "enclosure",
+            "address": "0x00da44ee"
+        },
+        {
+            "text": "Checkmate",
+            "address": "0x00da44f3"
+        },
+        {
+            "text": "Resign",
+            "address": "0x00da44f8"
+        },
+        {
+            "text": "Checkmate",
+            "address": "0x00da44fd"
+        },
+        {
+            "text": "Made pieces",
+            "address": "0x00da4502"
+        },
+        {
+            "text": "Gold",
+            "address": "0x00da4509"
+        },
+        {
+            "text": "Naruka",
+            "address": "0x00da450e"
+        },
+        {
+            "text": "Seikei",
+            "address": "0x00da4513"
+        },
+        {
+            "text": "Narugin",
+            "address": "0x00da4518"
+        },
+        {
+            "text": "Ryoma",
+            "address": "0x00da451d"
+        },
+        {
+            "text": "Ryuo",
+            "address": "0x00da4522"
+        },
+        {
+            "text": "Step",
+            "address": "0x00da4527"
+        },
+        {
+            "text": "Kyosha",
+            "address": "0x00da452a"
+        },
+        {
+            "text": "Keima",
+            "address": "0x00da452f"
+        },
+        {
+            "text": "Chanting",
+            "address": "0x00da4534"
+        },
+        {
+            "text": "KimuSusumu",
+            "address": "0x00da4539"
+        },
+        {
+            "text": "Cuckoo",
+            "address": "0x00da453e"
+        },
+        {
+            "text": "Rook",
+            "address": "0x00da4543"
+        },
+        {
+            "text": "Gyokusho",
+            "address": "0x00da4548"
+        },
+        {
+            "text": "king",
+            "address": "0x00da454d"
+        },
+        {
+            "text": "Shogi King",
+            "address": "0x00da4552"
+        },
+        {
+            "text": "joy",
+            "address": "0x00da4559"
+        },
+        {
+            "text": "small",
+            "address": "0x00da455e"
+        },
+        {
+            "text": "mouse",
+            "address": "0x00da4565"
+        },
+        {
+            "text": "Neighborhood",
+            "address": "0x00da456c"
+        },
+        {
+            "text": "Poverty",
+            "address": "0x00da4571"
+        },
+        {
+            "text": "Millionaire",
+            "address": "0x00da4576"
+        },
+        {
+            "text": "Millionaire",
+            "address": "0x00da457b"
+        },
+        {
+            "text": "anger",
+            "address": "0x00da4582"
+        },
+        {
+            "text": "big",
+            "address": "0x00da4587"
+        },
+        {
+            "text": "Cow",
+            "address": "0x00da458e"
+        },
+        {
+            "text": "Restoration",
+            "address": "0x00da4591"
+        },
+        {
+            "text": "Pity",
+            "address": "0x00da4596"
+        },
+        {
+            "text": "fat",
+            "address": "0x00da459b"
+        },
+        {
+            "text": "tiger",
+            "address": "0x00da45a2"
+        },
+        {
+            "text": "Came back",
+            "address": "0x00da45a5"
+        },
+        {
+            "text": "pleasant",
+            "address": "0x00da45b0"
+        },
+        {
+            "text": "Infertile",
+            "address": "0x00da45b7"
+        },
+        {
+            "text": "Rabbits",
+            "address": "0x00da45be"
+        },
+        {
+            "text": "Easy",
+            "address": "0x00da45c5"
+        },
+        {
+            "text": "flashy",
+            "address": "0x00da45ce"
+        },
+        {
+            "text": "Dragon",
+            "address": "0x00da45d3"
+        },
+        {
+            "text": "sorrow",
+            "address": "0x00da45d6"
+        },
+        {
+            "text": "sober",
+            "address": "0x00da45dd"
+        },
+        {
+            "text": "snake",
+            "address": "0x00da45e2"
+        },
+        {
+            "text": "Laughter",
+            "address": "0x00da45e5"
+        },
+        {
+            "text": "suspicious",
+            "address": "0x00da45ea"
+        },
+        {
+            "text": "Horse",
+            "address": "0x00da45f1"
+        },
+        {
+            "text": "Cried",
+            "address": "0x00da45f4"
+        },
+        {
+            "text": "Fashionable",
+            "address": "0x00da45fb"
+        },
+        {
+            "text": "sheep",
+            "address": "0x00da4604"
+        },
+        {
+            "text": "surprise",
+            "address": "0x00da4607"
+        },
+        {
+            "text": "Refreshing",
+            "address": "0x00da460c"
+        },
+        {
+            "text": "monkey",
+            "address": "0x00da4615"
+        },
+        {
+            "text": "Pleasantly thrilling",
+            "address": "0x00da4618"
+        },
+        {
+            "text": "it's beautiful",
+            "address": "0x00da4621"
+        },
+        {
+            "text": "I was surprised",
+            "address": "0x00da4628"
+        },
+        {
+            "text": "bird",
+            "address": "0x00da4631"
+        },
+        {
+            "text": "Edo",
+            "address": "0x00da4634"
+        },
+        {
+            "text": "crybaby",
+            "address": "0x00da4639"
+        },
+        {
+            "text": "fresh",
+            "address": "0x00da4640"
+        },
+        {
+            "text": "dog",
+            "address": "0x00da4645"
+        },
+        {
+            "text": "\u8840\u3068\u6c57\u3068\u6d99",
+            "address": "0x00da4648"
+        },
+        {
+            "text": "\u6012\u308a\u3093\u574a",
+            "address": "0x00da4653"
+        },
+        {
+            "text": "\u4e00\u767a\u9006\u8ee2",
+            "address": "0x00da465c"
+        },
+        {
+            "text": "\u732a",
+            "address": "0x00da4665"
+        },
+        {
+            "text": "\u767e\u6226\u932c\u78e8",
+            "address": "0x00da4668"
+        },
+        {
+            "text": "\u66b4\u308c\u3093\u574a",
+            "address": "0x00da4671"
+        },
+        {
+            "text": "\u5b8c\u5168\u7121\u6b20",
+            "address": "0x00da467a"
+        },
+        {
+            "text": "Newbie",
+            "address": "0x00da4683"
+        },
+        {
+            "text": "Man",
+            "address": "0x00da4688"
+        },
+        {
+            "text": "woman",
+            "address": "0x00da468b"
+        },
+        {
+            "text": "Cat",
+            "address": "0x00da468e"
+        },
+        {
+            "text": "Kid",
+            "address": "0x00da4691"
+        },
+        {
+            "text": "Girl",
+            "address": "0x00da4696"
+        },
+        {
+            "text": "Dog",
+            "address": "0x00da469d"
+        },
+        {
+            "text": "Common Practice",
+            "address": "0x00da46a0"
+        },
+        {
+            "text": "Lady",
+            "address": "0x00da46a9"
+        },
+        {
+            "text": "Fox",
+            "address": "0x00da46b0"
+        },
+        {
+            "text": "Merchant",
+            "address": "0x00da46b3"
+        },
+        {
+            "text": "Merchant",
+            "address": "0x00da46b8"
+        },
+        {
+            "text": "Crow",
+            "address": "0x00da46bd"
+        },
+        {
+            "text": "Artisan",
+            "address": "0x00da46c0"
+        },
+        {
+            "text": "Monk",
+            "address": "0x00da46c5"
+        },
+        {
+            "text": "Wolf",
+            "address": "0x00da46ca"
+        },
+        {
+            "text": "Ronin",
+            "address": "0x00da46cd"
+        },
+        {
+            "text": "Servant",
+            "address": "0x00da46d2"
+        },
+        {
+            "text": "hawk",
+            "address": "0x00da46d7"
+        },
+        {
+            "text": "Patriot",
+            "address": "0x00da46da"
+        },
+        {
+            "text": "Samurai",
+            "address": "0x00da46df"
+        },
+        {
+            "text": "Beauty",
+            "address": "0x00da46e4"
+        },
+        {
+            "text": "as",
+            "address": "0x00da46e9"
+        },
+        {
+            "text": "Maiko",
+            "address": "0x00da46ee"
+        },
+        {
+            "text": "Kappa",
+            "address": "0x00da46f3"
+        },
+        {
+            "text": "geisha",
+            "address": "0x00da46f8"
+        },
+        {
+            "text": "Geisha",
+            "address": "0x00da46fd"
+        },
+        {
+            "text": "Entry",
+            "address": "0x00da4702"
+        },
+        {
+            "text": "Hime",
+            "address": "0x00da4709"
+        },
+        {
+            "text": "demon",
+            "address": "0x00da470c"
+        },
+        {
+            "text": "Ninja",
+            "address": "0x00da470f"
+        },
+        {
+            "text": "samurai",
+            "address": "0x00da4714"
+        },
+        {
+            "text": "Lord",
+            "address": "0x00da4717"
+        },
+        {
+            "text": "Shogun",
+            "address": "0x00da471c"
+        },
+        {
+            "text": "10Class",
+            "address": "0x00da4721"
+        },
+        {
+            "text": "9 Class",
+            "address": "0x00da4726"
+        },
+        {
+            "text": "8 Class",
+            "address": "0x00da472b"
+        },
+        {
+            "text": "7 Class",
+            "address": "0x00da4730"
+        },
+        {
+            "text": "6 Class",
+            "address": "0x00da4735"
+        },
+        {
+            "text": "5 Class",
+            "address": "0x00da473a"
+        },
+        {
+            "text": "4 Class",
+            "address": "0x00da473f"
+        },
+        {
+            "text": "3 Class",
+            "address": "0x00da4744"
+        },
+        {
+            "text": "2 Class",
+            "address": "0x00da4749"
+        },
+        {
+            "text": "1 Class",
+            "address": "0x00da474e"
+        },
+        {
+            "text": "The first stage",
+            "address": "0x00da4753"
+        },
+        {
+            "text": "Two-stage",
+            "address": "0x00da4758"
+        },
+        {
+            "text": "Three-stage",
+            "address": "0x00da475d"
+        },
+        {
+            "text": "4-dan",
+            "address": "0x00da4762"
+        },
+        {
+            "text": "Fifth rank",
+            "address": "0x00da4767"
+        },
+        {
+            "text": "6th dan",
+            "address": "0x00da476c"
+        },
+        {
+            "text": "Seven-stage",
+            "address": "0x00da4771"
+        },
+        {
+            "text": "8th Dan",
+            "address": "0x00da4776"
+        },
+        {
+            "text": "Kudan",
+            "address": "0x00da477b"
+        },
+        {
+            "text": "top Rank",
+            "address": "0x00da4780"
+        },
+        {
+            "text": "Since it is now looking for the opponent, please wait for a while.",
+            "address": "0x00da4787"
+        },
+        {
+            "text": "Find the opponent",
+            "address": "0x00da47ba"
+        },
+        {
+            "text": "Continue to wait in this state",
+            "address": "0x00da47cd"
+        },
+        {
+            "text": "Play in another game",
+            "address": "0x00da47e0"
+        },
+        {
+            "text": "Choose the next remote station",
+            "address": "0x00da47f3"
+        },
+        {
+            "text": "Choose the next opponent",
+            "address": "0x00da4802"
+        },
+        {
+            "text": "Communication error has occurred. To return to the [n] the main menu screen.",
+            "address": "0x00da4811"
+        },
+        {
+            "text": "Nickname has not been entered. To return to the [n] the main menu screen.",
+            "address": "0x00da484b"
+        },
+        {
+            "text": "Nickname is incorrect. To return to the [n] the main menu screen.",
+            "address": "0x00da488d"
+        },
+        {
+            "text": "It has been disconnected from the host. [N] Please wait for a while.",
+            "address": "0x00da48c7"
+        },
+        {
+            "text": "Ranking is waiting to receive. [N] Please wait for a while.",
+            "address": "0x00da48f9"
+        },
+        {
+            "text": "It failed in the ranking of the reception. To return to the [n] betting point selection screen.",
+            "address": "0x00da492b"
+        },
+        {
+            "text": "nickname",
+            "address": "0x00da4967"
+        },
+        {
+            "text": "Because it was not signed in to return to the [n] the main menu screen.",
+            "address": "0x00da4974"
+        },
+        {
+            "text": "Because it was not signed up to return to the [n] the main menu screen.",
+            "address": "0x00da49ae"
+        },
+        {
+            "text": "You have been signed out from the \"PSN\". You can not play in the [n] Toba mini game. To return to the [n] the main menu screen.",
+            "address": "0x00da49ea"
+        },
+        {
+            "text": "It is a communication waiting with other users. [N] Please wait for a while.",
+            "address": "0x00da4a48"
+        },
+        {
+            "text": "Failed to room of creation. [N] Check the communication situation.",
+            "address": "0x00da4a80"
+        },
+        {
+            "text": "It failed in the ranking of the reception. Close the [n] ranking screen.",
+            "address": "0x00da4ab8"
+        },
+        {
+            "text": "Waiting for his turn of the other player.",
+            "address": "0x00da4af4"
+        },
+        {
+            "text": "Shiba inu",
+            "address": "0x00da4b1c"
+        },
+        {
+            "text": "Black Shiba",
+            "address": "0x00da4b21"
+        },
+        {
+            "text": "Shiroshiba",
+            "address": "0x00da4b26"
+        },
+        {
+            "text": "Tortoiseshell cat",
+            "address": "0x00da4b2b"
+        },
+        {
+            "text": "Black cat",
+            "address": "0x00da4b30"
+        },
+        {
+            "text": "White cat",
+            "address": "0x00da4b35"
+        },
+        {
+            "text": "Please give it a name",
+            "address": "0x00da4b3a"
+        },
+        {
+            "text": "Are you sure you want to exchange?",
+            "address": "0x00da4b4d"
+        },
+        {
+            "text": "It has been replaced",
+            "address": "0x00da4b5c"
+        },
+        {
+            "text": "It does not have the things that can be passed",
+            "address": "0x00da4b65"
+        },
+        {
+            "text": "(Do not seem to do not have enough virtue ...)",
+            "address": "0x00da4b84"
+        },
+        {
+            "text": "standard",
+            "address": "0x00da4ba1"
+        },
+        {
+            "text": "Gold Mai",
+            "address": "0x00da4ba6"
+        },
+        {
+            "text": "New construction style",
+            "address": "0x00da4bad"
+        },
+        {
+            "text": "I love flowers",
+            "address": "0x00da4bb4"
+        },
+        {
+            "text": "Interior D",
+            "address": "0x00da4bbb"
+        },
+        {
+            "text": "Interior E",
+            "address": "0x00da4bc1"
+        },
+        {
+            "text": "That's menu that does not make it's now in the kitchen. [N] the kitchen is ...... I hope to be able to extension",
+            "address": "0x00da4bc7"
+        },
+        {
+            "text": "It's still a menu that does not make right now. Or extended to the kitchen to [n] \"universal kitchen\", I hope to be able to or taught a [n] how to make cooking to someone ......",
+            "address": "0x00da4c09"
+        },
+        {
+            "text": "Material is not enough.",
+            "address": "0x00da4c82"
+        },
+        {
+            "text": "Please choose a destination. You can select the top and bottom of the left stick.",
+            "address": "0x00da4c98"
+        },
+        {
+            "text": "CH1 Tosa, Dappan",
+            "address": "0x00da4cd3"
+        },
+        {
+            "text": "CH2 A Man Called Saito",
+            "address": "0x00da4ce6"
+        },
+        {
+            "text": "CH3 Mibu wolf",
+            "address": "0x00da4cfd"
+        },
+        {
+            "text": "CH4 Joint Fight",
+            "address": "0x00da4d0c"
+        },
+        {
+            "text": "CH5 Iron Law",
+            "address": "0x00da4d19"
+        },
+        {
+            "text": "CH6 Ikedaya Incident",
+            "address": "0x00da4d28"
+        },
+        {
+            "text": "CH7 The Two Ryoma",
+            "address": "0x00da4d3b"
+        },
+        {
+            "text": "CH8 Mad Dog Barking",
+            "address": "0x00da4d4e"
+        },
+        {
+            "text": "CH9 Noisy Flower Road",
+            "address": "0x00da4d61"
+        },
+        {
+            "text": "CH10 Identity",
+            "address": "0x00da4d74"
+        },
+        {
+            "text": "CH11 Great Gambling ",
+            "address": "0x00da4d81"
+        },
+        {
+            "text": "CH12 Kyoto in flames",
+            "address": "0x00da4d92"
+        },
+        {
+            "text": "CH13 His Assassination",
+            "address": "0x00da4da3"
+        },
+        {
+            "text": "Finale: Dawn",
+            "address": "0x00da4db6"
+        },
+        {
+            "text": "% S got the",
+            "address": "0x00da4dc5"
+        },
+        {
+            "text": "Lost%s",
+            "address": "0x00da4dd4"
+        },
+        {
+            "text": "Health restored",
+            "address": "0x00da4ddf"
+        },
+        {
+            "text": "It was",
+            "address": "0x00da9f21"
+        },
+        {
+            "text": "EXP: %s",
+            "address": "0x00da4dee"
+        },
+        {
+            "text": "Equipment",
+            "address": "0x00da4dfa"
+        },
+        {
+            "text": "Belongings is full",
+            "address": "0x00da4dff"
+        },
+        {
+            "text": "Edo Man'yu in",
+            "address": "0x00da4e14"
+        },
+        {
+            "text": "Free carefree or search. [N] to go to the place you want to go, trying to do what you want.",
+            "address": "0x00da4e1f"
+        },
+        {
+            "text": "Free carefree search Shiyoka. [N] to go to the place you want to go, trying to do what you want.",
+            "address": "0x00da4e61"
+        },
+        {
+            "text": "Free carefree search Shiyotto. Go to the [n] I want to go places, trying to do what you want to do.",
+            "address": "0x00da4ea3"
+        },
+        {
+            "text": "Clear data",
+            "address": "0x00da4fb4"
+        },
+        {
+            "text": "sell",
+            "address": "0x00da4fc1"
+        },
+        {
+            "text": "eat",
+            "address": "0x00da4fc6"
+        },
+        {
+            "text": "Replace",
+            "address": "0x00da4fcd"
+        },
+        {
+            "text": "Enlargement",
+            "address": "0x00da4fd4"
+        },
+        {
+            "text": "Reduction",
+            "address": "0x00da4fd9"
+        },
+        {
+            "text": "use",
+            "address": "0x00da4fde"
+        },
+        {
+            "text": "throw away",
+            "address": "0x00da4fe3"
+        },
+        {
+            "text": "Confirm",
+            "address": "0x00da4fea"
+        },
+        {
+            "text": "to see",
+            "address": "0x00da4fef"
+        },
+        {
+            "text": "Valuables",
+            "address": "0x00da4ff4"
+        },
+        {
+            "text": "Belongings",
+            "address": "0x00da4ffb"
+        },
+        {
+            "text": "List",
+            "address": "0x00da5002"
+        },
+        {
+            "text": "remove",
+            "address": "0x00da5007"
+        },
+        {
+            "text": "buy",
+            "address": "0x00da500c"
+        },
+        {
+            "text": "Confirmation",
+            "address": "0x00da5011"
+        },
+        {
+            "text": "Line up",
+            "address": "0x00da5016"
+        },
+        {
+            "text": "Move",
+            "address": "0x00da501d"
+        },
+        {
+            "text": "Kyoto all the drawings",
+            "address": "0x00da5022"
+        },
+        {
+            "text": "Armed to the teeth",
+            "address": "0x00da5029"
+        },
+        {
+            "text": "switching",
+            "address": "0x00da5032"
+        },
+        {
+            "text": "sort",
+            "address": "0x00da503b"
+        },
+        {
+            "text": "Standard Display",
+            "address": "0x00da5044"
+        },
+        {
+            "text": "Descending Display",
+            "address": "0x00da504d"
+        },
+        {
+            "text": "Ascending Display",
+            "address": "0x00da5056"
+        },
+        {
+            "text": "tool",
+            "address": "0x00da505f"
+        },
+        {
+            "text": "Escape",
+            "address": "0x00da5064"
+        },
+        {
+            "text": "Possession tool",
+            "address": "0x00da506b"
+        },
+        {
+            "text": "Arrangement",
+            "address": "0x00da5074"
+        },
+        {
+            "text": "Choice",
+            "address": "0x00da5079"
+        },
+        {
+            "text": "More detail",
+            "address": "0x00da507e"
+        },
+        {
+            "text": "Ability confirmation",
+            "address": "0x00da5083"
+        },
+        {
+            "text": "Capacity building",
+            "address": "0x00da508c"
+        },
+        {
+            "text": "item",
+            "address": "0x00da5095"
+        },
+        {
+            "text": "Map selection",
+            "address": "0x00da509e"
+        },
+        {
+            "text": "Necessary materials",
+            "address": "0x00da50a9"
+        },
+        {
+            "text": "All play",
+            "address": "0x00da50b2"
+        },
+        {
+            "text": "rotation",
+            "address": "0x00da50b9"
+        },
+        {
+            "text": "hero",
+            "address": "0x00da50be"
+        },
+        {
+            "text": "Warehouse",
+            "address": "0x00da50c5"
+        },
+        {
+            "text": "Auto organize",
+            "address": "0x00da50cf"
+        },
+        {
+            "text": "Select all",
+            "address": "0x00da50d8"
+        },
+        {
+            "text": "reply",
+            "address": "0x00da50df"
+        },
+        {
+            "text": "Detailed facility",
+            "address": "0x00da50e4"
+        },
+        {
+            "text": "Destination setting",
+            "address": "0x00da50ed"
+        },
+        {
+            "text": "Pause menu",
+            "address": "0x00da50f8"
+        },
+        {
+            "text": "map",
+            "address": "0x00da5107"
+        },
+        {
+            "text": "None equipment",
+            "address": "0x00da5117"
+        },
+        {
+            "text": "I sent an item to the warehouse.",
+            "address": "0x00da512a"
+        },
+        {
+            "text": "Some of the items is the number could not be sent because of the limit.",
+            "address": "0x00da5147"
+        },
+        {
+            "text": "There is no free space in the arms of the warehouse. Please organize.",
+            "address": "0x00da517a"
+        },
+        {
+            "text": "<Sign:6> and <Sign:4> you can switch between the ability tab at",
+            "address": "0x00da51ab"
+        },
+        {
+            "text": "<Sign:6> and <Sign:4> you can switch between the items and weapons",
+            "address": "0x00da51da"
+        },
+        {
+            "text": "<Sign:0> to the next",
+            "address": "0x00da520f"
+        },
+        {
+            "text": "Required",
+            "address": "0x00da521c"
+        },
+        {
+            "text": "care",
+            "address": "0x00da5221"
+        },
+        {
+            "text": "Mission",
+            "address": "0x00da5226"
+        },
+        {
+            "text": "Field theft",
+            "address": "0x00da5244"
+        },
+        {
+            "text": "Outlaw",
+            "address": "0x00da5249"
+        },
+        {
+            "text": "Ruffian",
+            "address": "0x00da5250"
+        },
+        {
+            "text": "Golden Shu",
+            "address": "0x00da5259"
+        },
+        {
+            "text": "Tomb Eji",
+            "address": "0x00da5260"
+        },
+        {
+            "text": "Shinsengumi",
+            "address": "0x00da5269"
+        },
+        {
+            "text": "Kyoto Mimawarigumi",
+            "address": "0x00da5270"
+        },
+        {
+            "text": "Resumption",
+            "address": "0x00da527b"
+        },
+        {
+            "text": "skip",
+            "address": "0x00da5280"
+        },
+        {
+            "text": "To the menu",
+            "address": "0x00da5289"
+        },
+        {
+            "text": "Maximum station \u6483\u6570",
+            "address": "0x00da5294"
+        },
+        {
+            "text": "Heat action",
+            "address": "0x00da529f"
+        },
+        {
+            "text": "What it did not contain",
+            "address": "0x00da52b0"
+        },
+        {
+            "text": "Do you want to use your belongings?",
+            "address": "0x00da52c5"
+        },
+        {
+            "text": "Do you throw away your belongings?",
+            "address": "0x00da52dc"
+        },
+        {
+            "text": "Are you sure you want to save?",
+            "address": "0x00da52f1"
+        },
+        {
+            "text": "Do you want to temporarily elementary level the degree of difficulty?",
+            "address": "0x00da5302"
+        },
+        {
+            "text": "Are you really sure you want to beginner?",
+            "address": "0x00da5323"
+        },
+        {
+            "text": "There is no free space in the possession of a weapon list. Please select a weapon to move to the [n] item box.",
+            "address": "0x00da5346"
+        },
+        {
+            "text": "There is no free space in the item list. Please select the item you want to move to the [n] item box.",
+            "address": "0x00da539c"
+        },
+        {
+            "text": "Does not select an item Are you sure you want?",
+            "address": "0x00da53f6"
+        },
+        {
+            "text": "Are you really sure?",
+            "address": "0x00da5423"
+        },
+        {
+            "text": "Are you sure you want to complete the item organize?",
+            "address": "0x00da543a"
+        },
+        {
+            "text": "Do you want to set a destination?",
+            "address": "0x00da5457"
+        },
+        {
+            "text": "Are you sure you want to remove the destination?",
+            "address": "0x00da546e"
+        },
+        {
+            "text": "Do you want to go back to the title?",
+            "address": "0x00da5485"
+        },
+        {
+            "text": "Do you want to interrupt?",
+            "address": "0x00da549c"
+        },
+        {
+            "text": "Data that is not saved but will be gone, do you really want [n]?",
+            "address": "0x00da54ab"
+        },
+        {
+            "text": "Are you sure you want to break?",
+            "address": "0x00da54ef"
+        },
+        {
+            "text": "Are you sure you want this title?",
+            "address": "0x00da5510"
+        },
+        {
+            "text": "To cancel the order request. Is it OK? [N] (pass the goods will be canceled)",
+            "address": "0x00da552b"
+        },
+        {
+            "text": "Shogi is one game 5 points. [N] do you pay?",
+            "address": "0x00da5571"
+        },
+        {
+            "text": "The save data of PlayStation Vita side uploaded on the [n] server, you sure you want to save [n] overwrite?",
+            "address": "0x00da5599"
+        },
+        {
+            "text": "[N] Save Are you sure you want to in the save data on the PlayStation Vita side [n] server to save data?",
+            "address": "0x00da55fc"
+        },
+        {
+            "text": "PlayStation 3 side of the save data and upload it to the [n] server, you sure you want to save [n] overwrite?",
+            "address": "0x00da565b"
+        },
+        {
+            "text": "PlayStation 4 side of the save data and upload it to the [n] server, you sure you want to save [n] overwrite?",
+            "address": "0x00da56bb"
+        },
+        {
+            "text": "Although earlier in the server-side save data is [n] level (experience) is higher of the hero, Are you sure you want to overwrite in this still really [n] upload?",
+            "address": "0x00da571b"
+        },
+        {
+            "text": "Although towards the server side of the save data is a long [n] total play time, Are you sure you want to overwrite save this state really [n] upload?",
+            "address": "0x00da57a0"
+        },
+        {
+            "text": "Although earlier in the server-side save data is low [n] level (experience value) of the main character, you sure you want to overwrite this state really download [n]?",
+            "address": "0x00da5819"
+        },
+        {
+            "text": "Although towards the server side of the save data is short [n] total play time, Are you sure you want to overwrite this state really download [n]?",
+            "address": "0x00da589e"
+        },
+        {
+            "text": "Are you sure you want to races?",
+            "address": "0x00da5917"
+        },
+        {
+            "text": "Do you want to exit the chopping wood?",
+            "address": "0x00da5926"
+        },
+        {
+            "text": "Do you stop the Scarecrow mansion?",
+            "address": "0x00da593d"
+        },
+        {
+            "text": "Although physical fitness has been all recovery, Are you sure that you want to use?",
+            "address": "0x00da5956"
+        },
+        {
+            "text": "Heat but has been all recovery, Are you sure that you want to use?",
+            "address": "0x00da5981"
+        },
+        {
+            "text": "Although physical strength and heat are all recovery, Are you sure that you want to use?",
+            "address": "0x00da59ae"
+        },
+        {
+            "text": "Do you want to go back to the main menu?",
+            "address": "0x00da59e1"
+        },
+        {
+            "text": "Do you want to go back to the military station?",
+            "address": "0x00da59fe"
+        },
+        {
+            "text": "Do you want to go back to the Scarecrow mansion menu?",
+            "address": "0x00da5a11"
+        },
+        {
+            "text": "Do you want to go back to the ultimate competition menu?",
+            "address": "0x00da5a32"
+        },
+        {
+            "text": "Are you sure you want this nickname?",
+            "address": "0x00da5a51"
+        },
+        {
+            "text": "There is no need to use now.",
+            "address": "0x00da5a74"
+        },
+        {
+            "text": "Here it can not be used.",
+            "address": "0x00da5a8f"
+        },
+        {
+            "text": "This is not discarded.",
+            "address": "0x00da5aa4"
+        },
+        {
+            "text": "Not be discarded because it is in the equipment.",
+            "address": "0x00da5abb"
+        },
+        {
+            "text": "It can not be equipped with this hero.",
+            "address": "0x00da5ad8"
+        },
+        {
+            "text": "Number of items box is the limit.",
+            "address": "0x00da5af7"
+        },
+        {
+            "text": "Usually weapons should be in the sky.",
+            "address": "0x00da5b1a"
+        },
+        {
+            "text": "There is no equipment skills.",
+            "address": "0x00da5b35"
+        },
+        {
+            "text": "Can not be used.",
+            "address": "0x00da5b4e"
+        },
+        {
+            "text": "It can not be equipped because there is no right.",
+            "address": "0x00da5b61"
+        },
+        {
+            "text": "You can not change the equipment.",
+            "address": "0x00da5b8a"
+        },
+        {
+            "text": "This can not be moved.",
+            "address": "0x00da5ba1"
+        },
+        {
+            "text": "Upload has been completed successfully.",
+            "address": "0x00da5bb8"
+        },
+        {
+            "text": "Download has been completed successfully.",
+            "address": "0x00da5bdb"
+        },
+        {
+            "text": "I could not download. [N] server to save data is not [n] upload.",
+            "address": "0x00da5bfe"
+        },
+        {
+            "text": "It is during the upload. Please do not turn off the [n] power. [N] data might be damaged.",
+            "address": "0x00da5c53"
+        },
+        {
+            "text": "It is being downloaded. Please do not turn off the [n] power. [N] data might be damaged.",
+            "address": "0x00da5cae"
+        },
+        {
+            "text": "It failed to [n] upload because the communication is disconnected.",
+            "address": "0x00da5d09"
+        },
+        {
+            "text": "Failed to [n] download for communication has been disconnected.",
+            "address": "0x00da5d3b"
+        },
+        {
+            "text": "Point is not enough.",
+            "address": "0x00da5d6d"
+        },
+        {
+            "text": "The last time, since you've been disconnected in the middle of the communication competition from ranking score of [n]%s, has been penalized%s points. [N] attention to the following points, be sure to play. Please play with [n] \u00b7 as much as possible good of the communication situation environment. Note the power loss due to [n] \u00b7 rechargeable battery out or incorrect operation. [N] \u00b7 intentionally Please do not turn off the power supply and communication.",
+            "address": "0x00da5d84"
+        },
+        {
+            "text": "You have been signed out from the \"PSN\". [N] can not be used to upload.",
+            "address": "0x00da5ea4"
+        },
+        {
+            "text": "You have been signed out from the \"PSN\". [N] can not be used to download.",
+            "address": "0x00da5ee7"
+        },
+        {
+            "text": "It is in check the server data. Please do not turn off the [n] power. [N] data might be damaged.",
+            "address": "0x00da5f2a"
+        },
+        {
+            "text": "It was canceled communication.",
+            "address": "0x00da5f8d"
+        },
+        {
+            "text": "Remuneration",
+            "address": "0x00da5fa8"
+        },
+        {
+            "text": "Loading the attribute bullets",
+            "address": "0x00da5fad"
+        },
+        {
+            "text": "Release",
+            "address": "0x00da5fba"
+        },
+        {
+            "text": "You will not be able to change the degree of difficulty in the battle.",
+            "address": "0x00da5fbf"
+        },
+        {
+            "text": "The last time, since you've been disconnected in the middle of the communication competition from ranking score of [n]%s, has been penalized% d point. [N] attention to the following points, be sure to play.",
+            "address": "0x00da5fec"
+        },
+        {
+            "text": "\u2022 Do you play as much as possible good of the communication situation environment. [N] \u00b7 Note to power loss or communication disconnection due to erroneous operation. [N] \u00b7 intentionally Please do not turn off the power supply and communication.",
+            "address": "0x00da6073"
+        },
+        {
+            "text": "Hey Cho Ltd.",
+            "address": "0x00da610a"
+        },
+        {
+            "text": "It will also found hiding now!",
+            "address": "0x00da6117"
+        },
+        {
+            "text": "Another Life",
+            "address": "0x00da6134"
+        },
+        {
+            "text": "Make a planting plan",
+            "address": "0x00da6164"
+        },
+        {
+            "text": "Collectively harvest",
+            "address": "0x00da6175"
+        },
+        {
+            "text": "Sprinkle manure",
+            "address": "0x00da6182"
+        },
+        {
+            "text": "Planting plan reset",
+            "address": "0x00da618f"
+        },
+        {
+            "text": "Are you sure you want to reset the planting plan?",
+            "address": "0x00da61a0"
+        },
+        {
+            "text": "Planting plan will be reset, but you sure?",
+            "address": "0x00da61bd"
+        },
+        {
+            "text": "Hawkshaw scarecrows",
+            "address": "0x00da61f1"
+        },
+        {
+            "text": "Magistrate scarecrows",
+            "address": "0x00da6200"
+        },
+        {
+            "text": "Councilor scarecrows",
+            "address": "0x00da620d"
+        },
+        {
+            "text": "Shogun scarecrows",
+            "address": "0x00da6218"
+        },
+        {
+            "text": "Scarecrows to prevent insect damage a little bit.",
+            "address": "0x00da6223"
+        },
+        {
+            "text": "Scarecrows to prevent insect damage just a little bit.",
+            "address": "0x00da6242"
+        },
+        {
+            "text": "Scarecrow prevent some insect damage.",
+            "address": "0x00da625d"
+        },
+        {
+            "text": "It prevents quite a feeding damage [n] scarecrows.",
+            "address": "0x00da6278"
+        },
+        {
+            "text": "Strongest prevent the perfect feeding damage scarecrows.",
+            "address": "0x00da629a"
+        },
+        {
+            "text": "Acreage",
+            "address": "0x00da62b7"
+        },
+        {
+            "text": "Cultivation rate",
+            "address": "0x00da62c0"
+        },
+        {
+            "text": "Good harvest probability",
+            "address": "0x00da62c9"
+        },
+        {
+            "text": "Planting",
+            "address": "0x00da62d2"
+        },
+        {
+            "text": "Put",
+            "address": "0x00da62d7"
+        },
+        {
+            "text": "Delete",
+            "address": "0x00da62dc"
+        },
+        {
+            "text": "return",
+            "address": "0x00da62e1"
+        },
+        {
+            "text": "Ramblings",
+            "address": "0x00da62e6"
+        },
+        {
+            "text": "Need compartment",
+            "address": "0x00da62ed"
+        },
+        {
+            "text": "Harvest expected number",
+            "address": "0x00da62f6"
+        },
+        {
+            "text": "usually",
+            "address": "0x00da6301"
+        },
+        {
+            "text": "fast",
+            "address": "0x00da6306"
+        },
+        {
+            "text": "slow",
+            "address": "0x00da630b"
+        },
+        {
+            "text": "It was a victim of vermin ...",
+            "address": "0x00da6310"
+        },
+        {
+            "text": "There is no harvest can be crops.",
+            "address": "0x00da6325"
+        },
+        {
+            "text": "%s and %d %s harvest!",
+            "address": "0x00da6342"
+        },
+        {
+            "text": "%s %d %s or ...... [n] %d %s eaten been gone the Do ......",
+            "address": "0x00da6354"
+        },
+        {
+            "text": "Or%s% d%s, Do's passable ......",
+            "address": "0x00da637d"
+        },
+        {
+            "text": "% S% d%s! That's good harvest.",
+            "address": "0x00da6399"
+        },
+        {
+            "text": "What%s% d%s! It's a big bumper crop.",
+            "address": "0x00da63ad"
+        },
+        {
+            "text": "Do you seeded%s? [N] (possession number% d%s)",
+            "address": "0x00da63c9"
+        },
+        {
+            "text": "% S is not.",
+            "address": "0x00da63e9"
+        },
+        {
+            "text": "Since just were seeded it does not work now.",
+            "address": "0x00da63fa"
+        },
+        {
+            "text": "Capricious planting",
+            "address": "0x00da641d"
+        },
+        {
+            "text": "Save",
+            "address": "0x00da647f"
+        },
+        {
+            "text": "total",
+            "address": "0x00da6492"
+        },
+        {
+            "text": "Baba",
+            "address": "0x00da6497"
+        },
+        {
+            "text": "Today even me playing, thank you very much. [N] Let the betting point of reward to get!",
+            "address": "0x00da649c"
+        },
+        {
+            "text": "Choose your favorite tag, please go flipping through. And it would turn the [n] Baba, where is the end of the game.",
+            "address": "0x00da64f0"
+        },
+        {
+            "text": "Because it was tag of \"%s\", it is% d point addition. [N] Please choose the following tag.",
+            "address": "0x00da654a"
+        },
+        {
+            "text": "I have turned over a suddenly Baba! [N] I'm sorry, but it is the end of the game in the first sheet.",
+            "address": "0x00da6588"
+        },
+        {
+            "text": "That's too bad. Since turned over the [n] Baba, is the end of the game here.",
+            "address": "0x00da65d1"
+        },
+        {
+            "text": "Congratulations! Until [n] last came to an end without blind Baba!",
+            "address": "0x00da6609"
+        },
+        {
+            "text": "Unfortunately chagrin reward",
+            "address": "0x00da6647"
+        },
+        {
+            "text": "%d sheets success fee",
+            "address": "0x00da6654"
+        },
+        {
+            "text": "Perfect achievement reward",
+            "address": "0x00da6661"
+        },
+        {
+            "text": "Turning up the %d-th!",
+            "address": "0x00da666e"
+        },
+        {
+            "text": " Fail ...... in the %d-th",
+            "address": "0x00da667f"
+        },
+        {
+            "text": "Great success!",
+            "address": "0x00da6690"
+        },
+        {
+            "text": "?",
+            "address": "0x00da6ae6"
+        },
+        {
+            "text": "?",
+            "address": "0x00da6ae6"
+        },
+        {
+            "text": "Stop",
+            "address": "0x00da669d"
+        },
+        {
+            "text": "dividend",
+            "address": "0x00da66a4"
+        },
+        {
+            "text": "Acquisition",
+            "address": "0x00da66a9"
+        },
+        {
+            "text": "Texas hold'em",
+            "address": "0x00da66ae"
+        },
+        {
+            "text": "Pineapple Hold'em",
+            "address": "0x00da66c1"
+        },
+        {
+            "text": "Omaha Hold'em",
+            "address": "0x00da66d8"
+        },
+        {
+            "text": "Trial play practice",
+            "address": "0x00da66e9"
+        },
+        {
+            "text": "First, from a shared bill five and two two dealt with [n] hand using any of the five [n], to create a role, and game.",
+            "address": "0x00da66f2"
+        },
+        {
+            "text": "It is dealt first three, using any of the five [n] from the shared bill five and two unnecessary one piece of discarded [n] hand from there, create a role, and game.",
+            "address": "0x00da6749"
+        },
+        {
+            "text": "It has been dealt first four, using a shared bill three from the shared bill five and hand 4 bill [n] and the two any of your hand to make a [n] role, and game.",
+            "address": "0x00da67ba"
+        },
+        {
+            "text": "How to play each poker game [n] also sprinkled actual play, and practice.",
+            "address": "0x00da6821"
+        },
+        {
+            "text": "Texas trial play practice",
+            "address": "0x00da685f"
+        },
+        {
+            "text": "Pineapple trial play practice",
+            "address": "0x00da6870"
+        },
+        {
+            "text": "Omaha trial play practice",
+            "address": "0x00da6885"
+        },
+        {
+            "text": "How to play Texas Hold'em [n] also sprinkled actual play, and practice.",
+            "address": "0x00da6894"
+        },
+        {
+            "text": "How to play Pineapple Hold'em [n] also sprinkled actual play, and practice.",
+            "address": "0x00da68d4"
+        },
+        {
+            "text": "How to play Omaha Hold'em [n] also sprinkled actual play, and practice.",
+            "address": "0x00da6918"
+        },
+        {
+            "text": "It hardball!",
+            "address": "0x00da6956"
+        },
+        {
+            "text": "It would be a good luck",
+            "address": "0x00da6963"
+        },
+        {
+            "text": "And early",
+            "address": "0x00da696e"
+        },
+        {
+            "text": "Disappointed ...",
+            "address": "0x00da6979"
+        },
+        {
+            "text": "No way ... !?",
+            "address": "0x00da6984"
+        },
+        {
+            "text": "Useless, when absorbing it!",
+            "address": "0x00da698f"
+        },
+        {
+            "text": "It is falling apart ...",
+            "address": "0x00da69a0"
+        },
+        {
+            "text": "Do not win 's this ...",
+            "address": "0x00da69af"
+        },
+        {
+            "text": "Be This win confirmed ...",
+            "address": "0x00da69c4"
+        },
+        {
+            "text": "Raise more!",
+            "address": "0x00da69d9"
+        },
+        {
+            "text": "Or try going out ...",
+            "address": "0x00da69ea"
+        },
+        {
+            "text": "We should descend ...",
+            "address": "0x00da69fd"
+        },
+        {
+            "text": "This game is get off ...",
+            "address": "0x00da6a0c"
+        },
+        {
+            "text": "The Ahahahaha!",
+            "address": "0x00da6a1f"
+        },
+        {
+            "text": "Meramera! (Angry)",
+            "address": "0x00da6a2e"
+        },
+        {
+            "text": "Griping ... (tears)",
+            "address": "0x00da6a3f"
+        },
+        {
+            "text": "Throb\u2026",
+            "address": "0x00da6a50"
+        },
+        {
+            "text": "Yay \u266a",
+            "address": "0x00da6a5b"
+        },
+        {
+            "text": "They got me!",
+            "address": "0x00da6a64"
+        },
+        {
+            "text": "Top form!",
+            "address": "0x00da6a6f"
+        },
+        {
+            "text": "Failed Naa was ...",
+            "address": "0x00da6a78"
+        },
+        {
+            "text": "Cheers for good work!",
+            "address": "0x00da6a87"
+        },
+        {
+            "text": "was fun~!",
+            "address": "0x00da6a96"
+        },
+        {
+            "text": "Naa mortifying ...",
+            "address": "0x00da6aa5"
+        },
+        {
+            "text": "Following what is win!",
+            "address": "0x00da6ab4"
+        },
+        {
+            "text": "after",
+            "address": "0x00da6ac3"
+        },
+        {
+            "text": "0",
+            "address": "0x00da6ac8"
+        },
+        {
+            "text": "1",
+            "address": "0x00da6acb"
+        },
+        {
+            "text": "2",
+            "address": "0x00da6ace"
+        },
+        {
+            "text": "3",
+            "address": "0x00da6ad1"
+        },
+        {
+            "text": "4",
+            "address": "0x00da6ad4"
+        },
+        {
+            "text": "5",
+            "address": "0x00da6ad7"
+        },
+        {
+            "text": "6",
+            "address": "0x00da6ada"
+        },
+        {
+            "text": "7",
+            "address": "0x00da6add"
+        },
+        {
+            "text": "8",
+            "address": "0x00da6ae0"
+        },
+        {
+            "text": "9",
+            "address": "0x00da6ae3"
+        },
+        {
+            "text": "?",
+            "address": "0x00da6ae6"
+        },
+        {
+            "text": "Not victory",
+            "address": "0x00da6ae9"
+        },
+        {
+            "text": "victory",
+            "address": "0x00da6af0"
+        },
+        {
+            "text": "Electric catfish",
+            "address": "0x00da6af5"
+        },
+        {
+            "text": "salmon",
+            "address": "0x00da6b02"
+        },
+        {
+            "text": "Soft-shelled turtle",
+            "address": "0x00da6b07"
+        },
+        {
+            "text": "eel",
+            "address": "0x00da6b10"
+        },
+        {
+            "text": "Ayu",
+            "address": "0x00da6b17"
+        },
+        {
+            "text": "Red sea bream",
+            "address": "0x00da6b25"
+        },
+        {
+            "text": "Prawn",
+            "address": "0x00da6b2c"
+        },
+        {
+            "text": "Fugu",
+            "address": "0x00da6b42"
+        },
+        {
+            "text": "Shirasu",
+            "address": "0x00da6b4b"
+        },
+        {
+            "text": "Hatsutsurimaru",
+            "address": "0x00da6b52"
+        },
+        {
+            "text": "Freshwater round",
+            "address": "0x00da6b59"
+        },
+        {
+            "text": "Fishing river",
+            "address": "0x00da6b60"
+        },
+        {
+            "text": "Umimaru",
+            "address": "0x00da6b67"
+        },
+        {
+            "text": "Great Sea King",
+            "address": "0x00da6b6c"
+        },
+        {
+            "text": "Ultra-Fishing God",
+            "address": "0x00da6b73"
+        },
+        {
+            "text": "Ujigawa",
+            "address": "0x00da6b7a"
+        },
+        {
+            "text": "Kamogawa",
+            "address": "0x00da6b81"
+        },
+        {
+            "text": "Iso of reefs",
+            "address": "0x00da6b86"
+        },
+        {
+            "text": "Higashioki",
+            "address": "0x00da6b8f"
+        },
+        {
+            "text": "Ground bait",
+            "address": "0x00da6b94"
+        },
+        {
+            "text": "Turned",
+            "address": "0x00da6b9b"
+        },
+        {
+            "text": "Fishing tackle",
+            "address": "0x00da6ba0"
+        },
+        {
+            "text": "Freshwater fish bite",
+            "address": "0x00da6ba5"
+        },
+        {
+            "text": "Bite saltwater fish",
+            "address": "0x00da6bb4"
+        },
+        {
+            "text": "Flying distance",
+            "address": "0x00da6bc3"
+        },
+        {
+            "text": "Atari sensitivity",
+            "address": "0x00da6bca"
+        },
+        {
+            "text": "It can also be used in the river in the sea, fishing for beginners. [N] performance is not so good.",
+            "address": "0x00da6bd7"
+        },
+        {
+            "text": "Fishing equipment suitable for river fishing. [N] river fish of Atari is easy to take, may be reaction.",
+            "address": "0x00da6c13"
+        },
+        {
+            "text": "The most suitable fishing tackle in the river fishing. [N] river fish of the reaction is also excellent, easy to match. [N] also thrown far.",
+            "address": "0x00da6c53"
+        },
+        {
+            "text": "Fishing equipment that is suitable for sea fishing. [N] Atari is likely to take the fish the sea, may be reaction.",
+            "address": "0x00da6cae"
+        },
+        {
+            "text": "The most suitable fishing tool to sea fishing. [N] reaction of Umigyo excellent, easy to match. [N] also thrown far.",
+            "address": "0x00da6cee"
+        },
+        {
+            "text": "Fishing tackle of the highest performance can also be used in a river in the sea. [N] be the best Atari of the sensitivity of the fish. [N] distance also be thrown to the most distant.",
+            "address": "0x00da6d49"
+        },
+        {
+            "text": "Raise the rod",
+            "address": "0x00da6da6"
+        },
+        {
+            "text": "Match",
+            "address": "0x00da6db1"
+        },
+        {
+            "text": "%d scale% d dimensions",
+            "address": "0x00da6dba"
+        },
+        {
+            "text": "Luxury ground bait",
+            "address": "0x00da6dc3"
+        },
+        {
+            "text": "Specialties ground bait",
+            "address": "0x00da6dce"
+        },
+        {
+            "text": "The ultimate ground bait",
+            "address": "0x00da6dd9"
+        },
+        {
+            "text": "And the premonition of the melee.",
+            "address": "0x00da6de4"
+        },
+        {
+            "text": "It is going to be a battle of 2 strong.",
+            "address": "0x00da6df9"
+        },
+        {
+            "text": "Now do will be what kind of consequences?",
+            "address": "0x00da6e14"
+        },
+        {
+            "text": "Short distance champion is determined finally.",
+            "address": "0x00da6e35"
+        },
+        {
+            "text": "Now, here it will determine the medium-range strongest.",
+            "address": "0x00da6e56"
+        },
+        {
+            "text": "Which bird strongest bird in the long distance?",
+            "address": "0x00da6e7b"
+        },
+        {
+            "text": "Won birds in this competition is given the crest of glory.",
+            "address": "0x00da6e9a"
+        },
+        {
+            "text": "Won birds in this competition is called the Phoenix.",
+            "address": "0x00da6ec9"
+        },
+        {
+            "text": "Whether Japan's laurels is to shine in what bird? [N] finally determined birds in the bird.",
+            "address": "0x00da6ef0"
+        },
+        {
+            "text": "Hurriedly you a special race is held. [N] is the single combat warfare by two birds that were selected.",
+            "address": "0x00da6f2c"
+        },
+        {
+            "text": "Short-range general competition",
+            "address": "0x00da6f6c"
+        },
+        {
+            "text": "Middle-distance general competition",
+            "address": "0x00da6f7b"
+        },
+        {
+            "text": "Long-distance general competition",
+            "address": "0x00da6f8a"
+        },
+        {
+            "text": "Short distance [n] general competitive",
+            "address": "0x00da6f99"
+        },
+        {
+            "text": "Middle distance [n] general competitive",
+            "address": "0x00da6fa9"
+        },
+        {
+            "text": "Long-distance [n] general competitive",
+            "address": "0x00da6fb9"
+        },
+        {
+            "text": "% S vs.%s",
+            "address": "0x00da6fc9"
+        },
+        {
+            "text": "Mukuro short distance crown skirmish",
+            "address": "0x00da6fd0"
+        },
+        {
+            "text": "Mukuro middle distance crown skirmish",
+            "address": "0x00da6fe3"
+        },
+        {
+            "text": "Mukuro long distance crown skirmish",
+            "address": "0x00da6ff6"
+        },
+        {
+            "text": "Gin'niwatorihai",
+            "address": "0x00da7009"
+        },
+        {
+            "text": "Jinji Cup",
+            "address": "0x00da7010"
+        },
+        {
+            "text": "Kamogawa Memorial",
+            "address": "0x00da7017"
+        },
+        {
+            "text": "Mukuro Memorial",
+            "address": "0x00da7020"
+        },
+        {
+            "text": "Mukuro short distance crown",
+            "address": "0x00da7027"
+        },
+        {
+            "text": "Mukuro middle distance crown",
+            "address": "0x00da7034"
+        },
+        {
+            "text": "Mukuro long distance crown",
+            "address": "0x00da7041"
+        },
+        {
+            "text": "Mukuro large cockscomb",
+            "address": "0x00da704e"
+        },
+        {
+            "text": "Phoenix Award",
+            "address": "0x00da7057"
+        },
+        {
+            "text": "Japan Yuniwatori",
+            "address": "0x00da705e"
+        },
+        {
+            "text": "Duel against",
+            "address": "0x00da7067"
+        },
+        {
+            "text": "Mukuro short distance [n] crown skirmish",
+            "address": "0x00da7072"
+        },
+        {
+            "text": "Mukuro middle distance [n] crown skirmish",
+            "address": "0x00da7086"
+        },
+        {
+            "text": "Mukuro long-distance king [n] crown skirmish",
+            "address": "0x00da709a"
+        },
+        {
+            "text": "Mukuro short distance [n] crown",
+            "address": "0x00da70ae"
+        },
+        {
+            "text": "Mukuro middle distance [n] crown",
+            "address": "0x00da70bc"
+        },
+        {
+            "text": "Mukuro long distance [n] crown",
+            "address": "0x00da70ca"
+        },
+        {
+            "text": "Each feather, we're poised.",
+            "address": "0x00da70d8"
+        },
+        {
+            "text": "Ready.",
+            "address": "0x00da70ef"
+        },
+        {
+            "text": "Each feather beautiful turnout!",
+            "address": "0x00da7102"
+        },
+        {
+            "text": "Late it was! % S",
+            "address": "0x00da7115"
+        },
+        {
+            "text": "Good turnout! % S",
+            "address": "0x00da7122"
+        },
+        {
+            "text": "Current top%s",
+            "address": "0x00da712f"
+        },
+        {
+            "text": "Top horizontal clear distinction!",
+            "address": "0x00da713c"
+        },
+        {
+            "text": "At once it came out! % S",
+            "address": "0x00da714b"
+        },
+        {
+            "text": "% S one step ahead",
+            "address": "0x00da715a"
+        },
+        {
+            "text": "At once it came over from%s behind!",
+            "address": "0x00da7165"
+        },
+        {
+            "text": "% S running away!",
+            "address": "0x00da717e"
+        },
+        {
+            "text": "Over which it ran into the end point in each wing all at once",
+            "address": "0x00da718b"
+        },
+        {
+            "text": "It's pretty melee!",
+            "address": "0x00da71aa"
+        },
+        {
+            "text": "Large good fight! % S",
+            "address": "0x00da71bf"
+        },
+        {
+            "text": "It is expected! % S",
+            "address": "0x00da71ca"
+        },
+        {
+            "text": "This is unexpected! % S",
+            "address": "0x00da71db"
+        },
+        {
+            "text": "Still strong! % S",
+            "address": "0x00da71ec"
+        },
+        {
+            "text": "One outfit%s [n] 2 pieces%s",
+            "address": "0x00da71fb"
+        },
+        {
+            "text": "Bird ticket purchase",
+            "address": "0x00da7209"
+        },
+        {
+            "text": "Start competition",
+            "address": "0x00da7212"
+        },
+        {
+            "text": "View the competition schedule",
+            "address": "0x00da721b"
+        },
+        {
+            "text": "Stop Keiniwatori",
+            "address": "0x00da722a"
+        },
+        {
+            "text": "Win Purchase",
+            "address": "0x00da7237"
+        },
+        {
+            "text": "Tolylene purchase",
+            "address": "0x00da7240"
+        },
+        {
+            "text": "Birds single purchase",
+            "address": "0x00da7249"
+        },
+        {
+            "text": "Purchased from dividend List",
+            "address": "0x00da7252"
+        },
+        {
+            "text": "Purchase bird ticket confirmation",
+            "address": "0x00da7263"
+        },
+        {
+            "text": "Buy Exit",
+            "address": "0x00da7270"
+        },
+        {
+            "text": "Until the competition starts",
+            "address": "0x00da7279"
+        },
+        {
+            "text": "Second",
+            "address": "0x00da7286"
+        },
+        {
+            "text": "one",
+            "address": "0x00da7289"
+        },
+        {
+            "text": "two",
+            "address": "0x00da728c"
+        },
+        {
+            "text": "three",
+            "address": "0x00da728f"
+        },
+        {
+            "text": "four",
+            "address": "0x00da7292"
+        },
+        {
+            "text": "Five",
+            "address": "0x00da7295"
+        },
+        {
+            "text": "Buy the bird tickets Kifuda.",
+            "address": "0x00da72ac"
+        },
+        {
+            "text": "To start the competition.",
+            "address": "0x00da72c5"
+        },
+        {
+            "text": "You can see the schedule of the competition to be held in the future.",
+            "address": "0x00da72d8"
+        },
+        {
+            "text": "Exit the Keiniwatori.",
+            "address": "0x00da7301"
+        },
+        {
+            "text": "Buy a bird tickets to predict the 1 wearing a chicken.",
+            "address": "0x00da7314"
+        },
+        {
+            "text": "Buy a bird tickets to predict the 1 wearing two pieces, regardless of the order of finish.",
+            "address": "0x00da7339"
+        },
+        {
+            "text": "Buy a bird tickets to predict the order of finish. [N] can be expected up to a maximum of 5 pieces.",
+            "address": "0x00da736c"
+        },
+        {
+            "text": "Buy the bird tickets from the dividend list.",
+            "address": "0x00da73b2"
+        },
+        {
+            "text": "You can see the purchased bird tickets.",
+            "address": "0x00da73d1"
+        },
+        {
+            "text": "Exit the purchase of bird tickets.",
+            "address": "0x00da73f0"
+        },
+        {
+            "text": "We expect only one wearing a chicken. [N] to increase or decrease the betting points on the left and right to choose the chicken to buy. [N] purchased in `` final '',: cancel at <Sign C> button.",
+            "address": "0x00da7409"
+        },
+        {
+            "text": "You expect one wearing two pieces, regardless of the order of finish. [N] 1 wind up of the chicken: Please choose at <Sign D> button.",
+            "address": "0x00da747e"
+        },
+        {
+            "text": "To increase or decrease the betting points on the left and right to choose the 2 siding of chicken. [N] purchased in `` final '',: cancel at <Sign C> button.",
+            "address": "0x00da74d0"
+        },
+        {
+            "text": "Buy a bird tickets to predict the order of finish. [N] 1 wearing expected of a chicken: Please choose at <Sign D> button.",
+            "address": "0x00da752c"
+        },
+        {
+            "text": "To increase or decrease the betting points on the left and right to choose the two pieces expected of chicken. [N] <Sign:D> You can expect more of the order wear buttons. [N] purchased in `` final '',: cancel at <Sign C> button.",
+            "address": "0x00da757c"
+        },
+        {
+            "text": "3 Select the wearing expected of chicken to increase or decrease the betting points on the left and right. [N] <Sign:D> You can expect more of the order wear buttons. [N] purchased in `` final '',: cancel at <Sign C> button.",
+            "address": "0x00da7609"
+        },
+        {
+            "text": "4 Select wearing expected of chicken to increase or decrease the betting points on the left and right. [N] <Sign:D> You can expect more of the order wear buttons. [N] purchased in `` final '',: cancel at <Sign C> button.",
+            "address": "0x00da7696"
+        },
+        {
+            "text": "To increase or decrease the betting points on the left and right. Buy `` final '',: cancel at <Sign C> button.",
+            "address": "0x00da7723"
+        },
+        {
+            "text": "Select the dividend you want to buy: Please press the <Sign D> button. [N] \u25ce is already purchased. <Sign:6>,: Switches the display in the <Sign 4> button.",
+            "address": "0x00da776c"
+        },
+        {
+            "text": "To increase or decrease the betting points on the left and right. [N] <Sign:D> Buy button,: cancel at <Sign C> button.",
+            "address": "0x00da77e5"
+        },
+        {
+            "text": "Purchased bird tickets.",
+            "address": "0x00da7835"
+        },
+        {
+            "text": "Currently being held, the competition of the race bird decision, [n]: You can see the details in the <Sign 1> button.",
+            "address": "0x00da784a"
+        },
+        {
+            "text": "It is raced bird current competitions now.",
+            "address": "0x00da7896"
+        },
+        {
+            "text": "This race birds for the next race",
+            "address": "0x00da78af"
+        },
+        {
+            "text": "After next is raced bird race.",
+            "address": "0x00da78c4"
+        },
+        {
+            "text": "Hurriedly you a special race is held. [N] is the single combat warfare by two birds that were selected.",
+            "address": "0x00da78dd"
+        },
+        {
+            "text": "Detail View",
+            "address": "0x00da791d"
+        },
+        {
+            "text": "Display switching",
+            "address": "0x00da7926"
+        },
+        {
+            "text": "Point of view switching",
+            "address": "0x00da792f"
+        },
+        {
+            "text": "?",
+            "address": "0x00da6ae6"
+        },
+        {
+            "text": "Game in a weak desk",
+            "address": "0x00da793c"
+        },
+        {
+            "text": "Game in mid-table",
+            "address": "0x00da7947"
+        },
+        {
+            "text": "Game with a strong desk",
+            "address": "0x00da7952"
+        },
+        {
+            "text": "Challenge to Keio Mahjong Cup Noboru Ryusen",
+            "address": "0x00da795d"
+        },
+        {
+            "text": "Please choose an opponent. [N] to compete with the weak opponent us.",
+            "address": "0x00da7975"
+        },
+        {
+            "text": "Please choose an opponent. [N] to match and the opponent our normal strength.",
+            "address": "0x00da79af"
+        },
+        {
+            "text": "Please choose an opponent. We fight with the [n] strong opponent us.",
+            "address": "0x00da79f1"
+        },
+        {
+            "text": "Please aim to vertex of [n] NoboriRyusen to compete with a variety of opponents. If you pay [n] entry fee once at 500 points, is free from the next time.",
+            "address": "0x00da7a2b"
+        },
+        {
+            "text": "Please aim to vertex of [n] NoboriRyusen to compete with a variety of opponents. [N] Please have accumulated more than 500 points.",
+            "address": "0x00da7a9c"
+        },
+        {
+            "text": "Please aim to vertex of [n] NoboriRyusen to compete with a variety of opponents.",
+            "address": "0x00da7af7"
+        },
+        {
+            "text": "east",
+            "address": "0x00da430f"
+        },
+        {
+            "text": "South",
+            "address": "0x00da4095"
+        },
+        {
+            "text": "West",
+            "address": "0x00da4312"
+        },
+        {
+            "text": "North",
+            "address": "0x00da4315"
+        },
+        {
+            "text": "Or",
+            "address": "0x00da41fd"
+        },
+        {
+            "text": "I",
+            "address": "0x00da4209"
+        },
+        {
+            "text": "Ya",
+            "address": "0x00da421b"
+        },
+        {
+            "text": "",
+            "address": "0x00da9f2a"
+        },
+        {
+            "text": "It was",
+            "address": "0x00da9f21"
+        },
+        {
+            "text": "But",
+            "address": "0x00da4200"
+        },
+        {
+            "text": "Or",
+            "address": "0x00da41fd"
+        },
+        {
+            "text": "so",
+            "address": "0x00da4203"
+        },
+        {
+            "text": "I",
+            "address": "0x00da4209"
+        },
+        {
+            "text": "",
+            "address": "0x00da9f2a"
+        },
+        {
+            "text": "?",
+            "address": "0x00da6ae6"
+        },
+        {
+            "text": "",
+            "address": "0x00da9f2a"
+        },
+        {
+            "text": "To",
+            "address": "0x00da420c"
+        },
+        {
+            "text": "Ya",
+            "address": "0x00da421b"
+        },
+        {
+            "text": "demon",
+            "address": "0x00da470c"
+        },
+        {
+            "text": "three",
+            "address": "0x00da728f"
+        },
+        {
+            "text": "one",
+            "address": "0x00da7289"
+        },
+        {
+            "text": "Eight",
+            "address": "0x00da870c"
+        },
+        {
+            "text": "Soji Okita",
+            "address": "0x00da7b35"
+        },
+        {
+            "text": "Nagakura",
+            "address": "0x00da7b3e"
+        },
+        {
+            "text": "Kogoro Katsura",
+            "address": "0x00da7b47"
+        },
+        {
+            "text": "Kichinosuke Saigo",
+            "address": "0x00da7b50"
+        },
+        {
+            "text": "Be this was coming!",
+            "address": "0x00da7b5b"
+        },
+        {
+            "text": "This is I'm not ...",
+            "address": "0x00da7b6c"
+        },
+        {
+            "text": "Or rather ...",
+            "address": "0x00da7b7d"
+        },
+        {
+            "text": "They're not here yet.",
+            "address": "0x00da7b86"
+        },
+        {
+            "text": "Kana to reach ...",
+            "address": "0x00da7b97"
+        },
+        {
+            "text": "I wanna Tsumo..",
+            "address": "0x00da7ba8"
+        },
+        {
+            "text": "I'm going to Ron!",
+            "address": "0x00da7bb5"
+        },
+        {
+            "text": "Composed",
+            "address": "0x00da7bc6"
+        },
+        {
+            "text": "Diffic",
+            "address": "0x00da7bcb"
+        },
+        {
+            "text": "MaxScore",
+            "address": "0x00da7bd2"
+        },
+        {
+            "text": "Highest combo",
+            "address": "0x00da7bd9"
+        },
+        {
+            "text": "Evaluation",
+            "address": "0x00da7be8"
+        },
+        {
+            "text": "input",
+            "address": "0x00da7bf1"
+        },
+        {
+            "text": "Snowstorm ditty",
+            "address": "0x00da7bf6"
+        },
+        {
+            "text": "Samurai dance",
+            "address": "0x00da7bff"
+        },
+        {
+            "text": "Beat",
+            "address": "0x00da7c0c"
+        },
+        {
+            "text": "This is a song that has long been performed by commoners. [n] An easy song that can be enjoyed by everyone.",
+            "address": "0x00da7c11"
+        },
+        {
+            "text": "This song is a remix of \"Samurai Ondo\". [n] You can enjoy the Ondo and the dance at the same time.",
+            "address": "0x00da7c7d"
+        },
+        {
+            "text": "The song expresses passion of fight and sparkle of life.[n]It has a exclusive \"heat\" feeling.",
+            "address": "0x00da7ce5"
+        },
+        {
+            "text": "Newbie",
+            "address": "0x00da7d45"
+        },
+        {
+            "text": "Common",
+            "address": "0x00da7d4c"
+        },
+        {
+            "text": "Senior",
+            "address": "0x00da7d51"
+        },
+        {
+            "text": "Intro",
+            "address": "0x00da7d58"
+        },
+        {
+            "text": "Full-scale",
+            "address": "0x00da7d5d"
+        },
+        {
+            "text": "None",
+            "address": "0x00da7d62"
+        },
+        {
+            "text": "out of the question",
+            "address": "0x00da7d67"
+        },
+        {
+            "text": "Third rate",
+            "address": "0x00da7d6c"
+        },
+        {
+            "text": "Second rate",
+            "address": "0x00da7d71"
+        },
+        {
+            "text": "top notch",
+            "address": "0x00da7d76"
+        },
+        {
+            "text": "Dance god",
+            "address": "0x00da7d7b"
+        },
+        {
+            "text": "Trails 1",
+            "address": "0x00da7d82"
+        },
+        {
+            "text": "Trails 2",
+            "address": "0x00da7d8d"
+        },
+        {
+            "text": "Trails 3",
+            "address": "0x00da7d98"
+        },
+        {
+            "text": "Trails 4",
+            "address": "0x00da7da3"
+        },
+        {
+            "text": "Trails 5",
+            "address": "0x00da7dae"
+        },
+        {
+            "text": "Trails 6",
+            "address": "0x00da7db9"
+        },
+        {
+            "text": "Trails 7",
+            "address": "0x00da7dc4"
+        },
+        {
+            "text": "Trails 8",
+            "address": "0x00da7dcf"
+        },
+        {
+            "text": "Trails 9",
+            "address": "0x00da7dda"
+        },
+        {
+            "text": "Trails 10",
+            "address": "0x00da7de5"
+        },
+        {
+            "text": "Trails Final",
+            "address": "0x00da7df2"
+        },
+        {
+            "text": "What Please choose whether to challenge the test.",
+            "address": "0x00da7dff"
+        },
+        {
+            "text": "?",
+            "address": "0x00da6ae6"
+        },
+        {
+            "text": "?",
+            "address": "0x00da6ae6"
+        },
+        {
+            "text": "Rule Description",
+            "address": "0x00da7e24"
+        },
+        {
+            "text": "waited",
+            "address": "0x00da7e2f"
+        },
+        {
+            "text": "Kifu",
+            "address": "0x00da7e36"
+        },
+        {
+            "text": "Making an allowance for",
+            "address": "0x00da7e3b"
+        },
+        {
+            "text": "[N] Who do you and the remote station?",
+            "address": "0x00da7e42"
+        },
+        {
+            "text": "Would you choose the [n] Which Disrupt?",
+            "address": "0x00da7e56"
+        },
+        {
+            "text": "[N] Are you sure you want this partner?",
+            "address": "0x00da7e6e"
+        },
+        {
+            "text": "Jubei",
+            "address": "0x00da7e8a"
+        },
+        {
+            "text": "Cultivation",
+            "address": "0x00da7e91"
+        },
+        {
+            "text": "KyuTaro",
+            "address": "0x00da7e96"
+        },
+        {
+            "text": "Yoichi",
+            "address": "0x00da7e9d"
+        },
+        {
+            "text": "Kitahachi",
+            "address": "0x00da7ea2"
+        },
+        {
+            "text": "Masakichi",
+            "address": "0x00da7ea9"
+        },
+        {
+            "text": "Denshichi",
+            "address": "0x00da7eae"
+        },
+        {
+            "text": "Saizo",
+            "address": "0x00da7eb3"
+        },
+        {
+            "text": "Bear six",
+            "address": "0x00da7eb8"
+        },
+        {
+            "text": "Small Genta",
+            "address": "0x00da7ebd"
+        },
+        {
+            "text": "Goemon",
+            "address": "0x00da7ec4"
+        },
+        {
+            "text": "Sasuke",
+            "address": "0x00da7ecb"
+        },
+        {
+            "text": "HikariShiro",
+            "address": "0x00da7ed0"
+        },
+        {
+            "text": "Kenkokoro",
+            "address": "0x00da7ed7"
+        },
+        {
+            "text": "SaburoFutoshi",
+            "address": "0x00da7edc"
+        },
+        {
+            "text": "Kunimatsu",
+            "address": "0x00da7ee3"
+        },
+        {
+            "text": "Anjir\u014d",
+            "address": "0x00da7ee8"
+        },
+        {
+            "text": "Tsurutaira",
+            "address": "0x00da7eef"
+        },
+        {
+            "text": "Kazuyuki assistant",
+            "address": "0x00da7ef4"
+        },
+        {
+            "text": "Kamekichi",
+            "address": "0x00da7efb"
+        },
+        {
+            "text": "KakunoSusumu",
+            "address": "0x00da7f00"
+        },
+        {
+            "text": "Umon",
+            "address": "0x00da7f07"
+        },
+        {
+            "text": "Muramasa",
+            "address": "0x00da7f0c"
+        },
+        {
+            "text": "Sukesaburo",
+            "address": "0x00da7f11"
+        },
+        {
+            "text": "Vajra",
+            "address": "0x00da7f18"
+        },
+        {
+            "text": "Sakyo",
+            "address": "0x00da7f1d"
+        },
+        {
+            "text": "Toratetsu",
+            "address": "0x00da7f22"
+        },
+        {
+            "text": "Onimaru",
+            "address": "0x00da7f27"
+        },
+        {
+            "text": "Black Unsai",
+            "address": "0x00da7f2c"
+        },
+        {
+            "text": "Crow Tengu",
+            "address": "0x00da7f33"
+        },
+        {
+            "text": "Son of God",
+            "address": "0x00da7f3a"
+        },
+        {
+            "text": "Whimsical beginner",
+            "address": "0x00da7f41"
+        },
+        {
+            "text": "Aggressively attack but weak",
+            "address": "0x00da7f52"
+        },
+        {
+            "text": "Solidify the defense, but slow",
+            "address": "0x00da7f67"
+        },
+        {
+            "text": "Come to a brute force attack",
+            "address": "0x00da7f7a"
+        },
+        {
+            "text": "Harmony of offense and defense is good",
+            "address": "0x00da7f8f"
+        },
+        {
+            "text": "Priority to make the enclosure",
+            "address": "0x00da7fa0"
+        },
+        {
+            "text": "Aiming to break through in the middle",
+            "address": "0x00da7fb9"
+        },
+        {
+            "text": "Show a solid defense",
+            "address": "0x00da7fc8"
+        },
+        {
+            "text": "Ad-hoc refers to muscle",
+            "address": "0x00da7fdb"
+        },
+        {
+            "text": "To try to bring to the long war",
+            "address": "0x00da7fec"
+        },
+        {
+            "text": "Often uneven strength",
+            "address": "0x00da8005"
+        },
+        {
+            "text": "Show a calm attack",
+            "address": "0x00da8016"
+        },
+        {
+            "text": "Attack aggressively in large pieces",
+            "address": "0x00da8029"
+        },
+        {
+            "text": "Characteristic is how to use the rook",
+            "address": "0x00da803e"
+        },
+        {
+            "text": "Offense and defense harmonious of terribly",
+            "address": "0x00da8053"
+        },
+        {
+            "text": "Takeru to fight back",
+            "address": "0x00da806c"
+        },
+        {
+            "text": "Manipulate a sharp rook",
+            "address": "0x00da8079"
+        },
+        {
+            "text": "Ability is there but capricious",
+            "address": "0x00da8088"
+        },
+        {
+            "text": "Solidify the carefully protect",
+            "address": "0x00da809d"
+        },
+        {
+            "text": "Takeru to the back entrance",
+            "address": "0x00da80b0"
+        },
+        {
+            "text": "Consistently do a offense and defense",
+            "address": "0x00da80c1"
+        },
+        {
+            "text": "Come bombarded the severe",
+            "address": "0x00da80d4"
+        },
+        {
+            "text": "A reputation for receiving",
+            "address": "0x00da80e9"
+        },
+        {
+            "text": "Wider strategy",
+            "address": "0x00da80fa"
+        },
+        {
+            "text": "Virtuoso of the attack not to blunder",
+            "address": "0x00da8109"
+        },
+        {
+            "text": "Launch a sharp haste",
+            "address": "0x00da8120"
+        },
+        {
+            "text": "Type consumer of a wide variety of defense",
+            "address": "0x00da8133"
+        },
+        {
+            "text": "Loving middle rook old-timer",
+            "address": "0x00da814a"
+        },
+        {
+            "text": "Show a dense Trombone",
+            "address": "0x00da815b"
+        },
+        {
+            "text": "Terribly universal type",
+            "address": "0x00da816e"
+        },
+        {
+            "text": "He devoted his life to Shogi and person",
+            "address": "0x00da817d"
+        },
+        {
+            "text": "Competition point",
+            "address": "0x00da8192"
+        },
+        {
+            "text": "Waiting for the remaining number 50 \u00d7% d",
+            "address": "0x00da819f"
+        },
+        {
+            "text": "Ultra Matta unused",
+            "address": "0x00da81b5"
+        },
+        {
+            "text": "Order against",
+            "address": "0x00da81c4"
+        },
+        {
+            "text": "Ordeal Disrupt",
+            "address": "0x00da81cb"
+        },
+        {
+            "text": "Please aim to vertex of [n] rank warfare to compete with a variety of opponents. [N] can play in one game 5 points.",
+            "address": "0x00da81d4"
+        },
+        {
+            "text": "Please to challenge the ordeal that is initiated from a special aspect took the king of [n] opponent. [N] can play in one game 5 points.",
+            "address": "0x00da8229"
+        },
+        {
+            "text": "Please aim to vertex of [n] rank warfare to compete with a variety of opponents. [N] because you have a new Shogi King, you can play a unnecessary betting point.",
+            "address": "0x00da8282"
+        },
+        {
+            "text": "Please to challenge the ordeal that is initiated from a special aspect took the king of [n] opponent. [N] because you have a new Shogi King, you can play a unnecessary betting point.",
+            "address": "0x00da82f3"
+        },
+        {
+            "text": "I can not play because the betting point is not enough. [N] Please have accumulated more than 5 points.",
+            "address": "0x00da8368"
+        },
+        {
+            "text": "I came so!",
+            "address": "0x00da83a2"
+        },
+        {
+            "text": "His hands as expected!",
+            "address": "0x00da83af"
+        },
+        {
+            "text": "Naa severe ...",
+            "address": "0x00da83c2"
+        },
+        {
+            "text": "I want Tegoma",
+            "address": "0x00da83cf"
+        },
+        {
+            "text": "Or refer it!?",
+            "address": "0x00da83dc"
+        },
+        {
+            "text": "There on whether the strike!?",
+            "address": "0x00da83eb"
+        },
+        {
+            "text": "Or Mai made or will be ...",
+            "address": "0x00da83fc"
+        },
+        {
+            "text": "Or defend or attack ...",
+            "address": "0x00da8411"
+        },
+        {
+            "text": "Jubei ten Grade",
+            "address": "0x00da8422"
+        },
+        {
+            "text": "Cultivation ten Grade",
+            "address": "0x00da8431"
+        },
+        {
+            "text": "KyuTaro nine Grade",
+            "address": "0x00da8440"
+        },
+        {
+            "text": "Yoichi nine Grade",
+            "address": "0x00da844f"
+        },
+        {
+            "text": "Kita eighty-eight grade",
+            "address": "0x00da845e"
+        },
+        {
+            "text": "Masakichi eight grade",
+            "address": "0x00da846d"
+        },
+        {
+            "text": "Denshichi seven Grade",
+            "address": "0x00da847c"
+        },
+        {
+            "text": "Saizo seven Grade",
+            "address": "0x00da848b"
+        },
+        {
+            "text": "Bear sixty-six grade",
+            "address": "0x00da849a"
+        },
+        {
+            "text": "Small Genta six Grade",
+            "address": "0x00da84a9"
+        },
+        {
+            "text": "Goemon five Grade",
+            "address": "0x00da84b8"
+        },
+        {
+            "text": "Sasuke five Grade",
+            "address": "0x00da84c7"
+        },
+        {
+            "text": "HikariShiro quaternary",
+            "address": "0x00da84d6"
+        },
+        {
+            "text": "Kenkokoro quaternary",
+            "address": "0x00da84e5"
+        },
+        {
+            "text": "SaburoFutoshi tertiary",
+            "address": "0x00da84f4"
+        },
+        {
+            "text": "Kunimatsu tertiary",
+            "address": "0x00da8503"
+        },
+        {
+            "text": "Anjir\u014d secondary",
+            "address": "0x00da8512"
+        },
+        {
+            "text": "Tsurutaira secondary",
+            "address": "0x00da8521"
+        },
+        {
+            "text": "Kazuyuki assistant primary",
+            "address": "0x00da8530"
+        },
+        {
+            "text": "Kamekichi primary",
+            "address": "0x00da853f"
+        },
+        {
+            "text": "KakunoSusumu first stage",
+            "address": "0x00da854e"
+        },
+        {
+            "text": "Umon two-stage",
+            "address": "0x00da855d"
+        },
+        {
+            "text": "Muramasa three-stage",
+            "address": "0x00da856c"
+        },
+        {
+            "text": "Sukesaburo four-stage",
+            "address": "0x00da857b"
+        },
+        {
+            "text": "Kongo five-stage",
+            "address": "0x00da858a"
+        },
+        {
+            "text": "Sakyo 6th dan",
+            "address": "0x00da8599"
+        },
+        {
+            "text": "Toratetsu seven-stage",
+            "address": "0x00da85a8"
+        },
+        {
+            "text": "Onimaru 8th Dan",
+            "address": "0x00da85b7"
+        },
+        {
+            "text": "Black Unsai Kudan",
+            "address": "0x00da85c6"
+        },
+        {
+            "text": "Crow Tengu the top",
+            "address": "0x00da85d5"
+        },
+        {
+            "text": "The Son of God Shogi King",
+            "address": "0x00da85e4"
+        },
+        {
+            "text": "Changzhi",
+            "address": "0x00da85f3"
+        },
+        {
+            "text": "Government of vagabond",
+            "address": "0x00da85f8"
+        },
+        {
+            "text": "Kintoki of Arashiyama",
+            "address": "0x00da8603"
+        },
+        {
+            "text": "Chest heat licorice",
+            "address": "0x00da860e"
+        },
+        {
+            "text": "Millionaire of Qian eight",
+            "address": "0x00da8619"
+        },
+        {
+            "text": "City of Death",
+            "address": "0x00da8624"
+        },
+        {
+            "text": "Root dark Do Naosuke",
+            "address": "0x00da862f"
+        },
+        {
+            "text": "Greedy Goro",
+            "address": "0x00da863a"
+        },
+        {
+            "text": "Of luck Daikichi",
+            "address": "0x00da8645"
+        },
+        {
+            "text": "No gold Chuta",
+            "address": "0x00da8650"
+        },
+        {
+            "text": "The mystery of the gambler Ichi",
+            "address": "0x00da865b"
+        },
+        {
+            "text": "The mystery of the gambler Vol.2",
+            "address": "0x00da8668"
+        },
+        {
+            "text": "Gambler participation of mystery",
+            "address": "0x00da8675"
+        },
+        {
+            "text": "Sakichi of moderate",
+            "address": "0x00da8682"
+        },
+        {
+            "text": "Bukkomi Toru",
+            "address": "0x00da868d"
+        },
+        {
+            "text": "Tatsuzo of silence",
+            "address": "0x00da8698"
+        },
+        {
+            "text": "Kill time runway",
+            "address": "0x00da86a3"
+        },
+        {
+            "text": "Hachiro of lightning",
+            "address": "0x00da86ae"
+        },
+        {
+            "text": "Taisei of bad luck",
+            "address": "0x00da86b9"
+        },
+        {
+            "text": "Male fool",
+            "address": "0x00da86c4"
+        },
+        {
+            "text": "Intuition cattle Noriyuki assistant",
+            "address": "0x00da86cf"
+        },
+        {
+            "text": "Genius Kenshiro",
+            "address": "0x00da86da"
+        },
+        {
+            "text": "Swingers silver",
+            "address": "0x00da86e5"
+        },
+        {
+            "text": "Greedy Seiji",
+            "address": "0x00da86f0"
+        },
+        {
+            "text": "point",
+            "address": "0x00da3c20"
+        },
+        {
+            "text": "Change Settings",
+            "address": "0x00da86fb"
+        },
+        {
+            "text": "Six",
+            "address": "0x00da8706"
+        },
+        {
+            "text": "Seven",
+            "address": "0x00da8709"
+        },
+        {
+            "text": "Eight",
+            "address": "0x00da870c"
+        },
+        {
+            "text": "Nine",
+            "address": "0x00da870f"
+        },
+        {
+            "text": "Ten",
+            "address": "0x00da8712"
+        },
+        {
+            "text": "of",
+            "address": "0x00da420f"
+        },
+        {
+            "text": "Yes",
+            "address": "0x00da90e0"
+        },
+        {
+            "text": "Make",
+            "address": "0x00da8715"
+        },
+        {
+            "text": "do not do",
+            "address": "0x00da871a"
+        },
+        {
+            "text": "Superlative",
+            "address": "0x00da8721"
+        },
+        {
+            "text": "To play with beginner, you must point at least 200. [N] score difference \u00d7 10 points and the opponent will be exchanged.",
+            "address": "0x00da8728"
+        },
+        {
+            "text": "To play Intermediate, you need at least 800 points. [N] score difference \u00d7 10 points and the opponent will be exchanged.",
+            "address": "0x00da877e"
+        },
+        {
+            "text": "To play in the senior, you need at least 1400 points. [N] score difference \u00d7 10 points and the opponent will be exchanged.",
+            "address": "0x00da87d4"
+        },
+        {
+            "text": "To play with superlative, it must be at least 2000 points. [N] score difference \u00d7 100 points and the opponent will be exchanged.",
+            "address": "0x00da882c"
+        },
+        {
+            "text": "I can not play because the betting point is not enough. Please be accumulated [n] 200 points or more.",
+            "address": "0x00da8888"
+        },
+        {
+            "text": "I can not play because the betting point is not enough. [N] Please have accumulated more than 800 points.",
+            "address": "0x00da88c6"
+        },
+        {
+            "text": "I can not play because the betting point is not enough. [N] Please have accumulated more than 1400 points.",
+            "address": "0x00da8904"
+        },
+        {
+            "text": "I can not play because the betting point is not enough. [N] Please have accumulated more than 2000 points.",
+            "address": "0x00da8944"
+        },
+        {
+            "text": "As you come good bill",
+            "address": "0x00da8984"
+        },
+        {
+            "text": "It does not have a good bill ...",
+            "address": "0x00da8999"
+        },
+        {
+            "text": "It could be a good role!",
+            "address": "0x00da89aa"
+        },
+        {
+            "text": "It can not be a good role ...",
+            "address": "0x00da89bb"
+        },
+        {
+            "text": "Koi!",
+            "address": "0x00da89ce"
+        },
+        {
+            "text": "It reversal from here!",
+            "address": "0x00da89d5"
+        },
+        {
+            "text": "Or love ...",
+            "address": "0x00da89e6"
+        },
+        {
+            "text": "Or quit ...",
+            "address": "0x00da89f3"
+        },
+        {
+            "text": "Another one",
+            "address": "0x00da89fe"
+        },
+        {
+            "text": "Another one!",
+            "address": "0x00da8a07"
+        },
+        {
+            "text": "Compete on three!",
+            "address": "0x00da8a12"
+        },
+        {
+            "text": "It is game!",
+            "address": "0x00da8a1f"
+        },
+        {
+            "text": "Start the game",
+            "address": "0x00da8a28"
+        },
+        {
+            "text": "Have a match",
+            "address": "0x00da8a39"
+        },
+        {
+            "text": "Once again game",
+            "address": "0x00da8a42"
+        },
+        {
+            "text": "Beginner help",
+            "address": "0x00da8a4f"
+        },
+        {
+            "text": "\u51e1\u592a of worldly desires",
+            "address": "0x00da8a58"
+        },
+        {
+            "text": "Newcomer Shingo",
+            "address": "0x00da8a63"
+        },
+        {
+            "text": "Carefree KatsuraOsamu",
+            "address": "0x00da8a6e"
+        },
+        {
+            "text": "Brute force right three",
+            "address": "0x00da8a79"
+        },
+        {
+            "text": "Stiff neck Jinbei",
+            "address": "0x00da8a84"
+        },
+        {
+            "text": "MataSaburo of storm",
+            "address": "0x00da8a8f"
+        },
+        {
+            "text": "Inspiration Yosaku",
+            "address": "0x00da8a9a"
+        },
+        {
+            "text": "The mystery of the shareholders",
+            "address": "0x00da8aa3"
+        },
+        {
+            "text": "Player is the parent.",
+            "address": "0x00da8aac"
+        },
+        {
+            "text": "Please select a place bet.",
+            "address": "0x00da8ac1"
+        },
+        {
+            "text": "Please determine the betting point.",
+            "address": "0x00da8ae0"
+        },
+        {
+            "text": "We have selected the location where the other players bet.",
+            "address": "0x00da8afb"
+        },
+        {
+            "text": "Please select the person you want to match.",
+            "address": "0x00da8b28"
+        },
+        {
+            "text": "We compete on this hand.",
+            "address": "0x00da8b49"
+        },
+        {
+            "text": "Parent has to match.",
+            "address": "0x00da8b5e"
+        },
+        {
+            "text": "Since there is no point have to exit.",
+            "address": "0x00da8b73"
+        },
+        {
+            "text": "This game because participants possession betting point is no longer came out will be finished here.",
+            "address": "0x00da8b92"
+        },
+        {
+            "text": "Doshippin",
+            "address": "0x00da8bf5"
+        },
+        {
+            "text": "Escape of white",
+            "address": "0x00da8c00"
+        },
+        {
+            "text": "Kind of tag",
+            "address": "0x00da8c0d"
+        },
+        {
+            "text": "Get off the game in the escape of white.",
+            "address": "0x00da8c16"
+        },
+        {
+            "text": "It won the same amount of betting points.",
+            "address": "0x00da8c35"
+        },
+        {
+            "text": "Since won Shippin won twice the betting point.",
+            "address": "0x00da8c52"
+        },
+        {
+            "text": "Since won Kuppin won twice the betting point.",
+            "address": "0x00da8c83"
+        },
+        {
+            "text": "Since it won by storm and won three times the betting point.",
+            "address": "0x00da8cb4"
+        },
+        {
+            "text": "Since won Doshippin won 20 times the betting point.",
+            "address": "0x00da8ce3"
+        },
+        {
+            "text": "I lost a bet point.",
+            "address": "0x00da8d18"
+        },
+        {
+            "text": "Since losing to Shippin it has lost twice the betting point.",
+            "address": "0x00da8d2d"
+        },
+        {
+            "text": "Since losing to Kuppin it has lost twice the betting point.",
+            "address": "0x00da8d5c"
+        },
+        {
+            "text": "Since losing the storm has lost three times the betting point.",
+            "address": "0x00da8d8b"
+        },
+        {
+            "text": "Since losing to Doshippin it has lost 20 times the betting point.",
+            "address": "0x00da8db8"
+        },
+        {
+            "text": "Balance was point have increases because it is plus.",
+            "address": "0x00da8deb"
+        },
+        {
+            "text": "Balance has been reduced is to have point because it is negative.",
+            "address": "0x00da8e12"
+        },
+        {
+            "text": "Balance is not zero, so increase or decrease.",
+            "address": "0x00da8e3b"
+        },
+        {
+            "text": "To play with beginner, you need at least 100 points. [N] upper limit of bets wagered point at a time is up to 100 points.",
+            "address": "0x00da8e5c"
+        },
+        {
+            "text": "To play in the intermediate is, it must be at least 500 points. [N] upper limit of bets wagered point at a time is up to 500 points.",
+            "address": "0x00da8eb4"
+        },
+        {
+            "text": "To play in the senior, you need at least 1000 points. [N] upper limit of bets wagered point at a time up to 1000 points.",
+            "address": "0x00da8f0c"
+        },
+        {
+            "text": "I can not play because the betting point is not enough. [N] Please have accumulated more than 100 points.",
+            "address": "0x00da8f68"
+        },
+        {
+            "text": "I can not play because the betting point is not enough. [N] Please have accumulated more than 500 points.",
+            "address": "0x00da8fa6"
+        },
+        {
+            "text": "I can not play because the betting point is not enough. [N] Please have accumulated more than 1000 points.",
+            "address": "0x00da8fe4"
+        },
+        {
+            "text": "Kana draw another one ...",
+            "address": "0x00da9024"
+        },
+        {
+            "text": "This one game ...",
+            "address": "0x00da9037"
+        },
+        {
+            "text": "So that it does not become a pig",
+            "address": "0x00da9046"
+        },
+        {
+            "text": "Oicho or, at the bottom!",
+            "address": "0x00da905d"
+        },
+        {
+            "text": "It only aims Shippin",
+            "address": "0x00da9072"
+        },
+        {
+            "text": "It only aims Kuppin",
+            "address": "0x00da9089"
+        },
+        {
+            "text": "Or storm coming!?",
+            "address": "0x00da90a0"
+        },
+        {
+            "text": "Answering customer numbers",
+            "address": "0x00da90b3"
+        },
+        {
+            "text": "The maximum number of consecutive",
+            "address": "0x00da90bc"
+        },
+        {
+            "text": "Total sales",
+            "address": "0x00da90c7"
+        },
+        {
+            "text": "General Council of Trade Unions of Japan",
+            "address": "0x00da90d2"
+        },
+        {
+            "text": "God",
+            "address": "0x00da90d7"
+        },
+        {
+            "text": "Superiority",
+            "address": "0x00da90da"
+        },
+        {
+            "text": "Good",
+            "address": "0x00da90dd"
+        },
+        {
+            "text": "Yes",
+            "address": "0x00da90e0"
+        },
+        {
+            "text": "Improper",
+            "address": "0x00da90e3"
+        },
+        {
+            "text": "letter",
+            "address": "0x00da90e8"
+        },
+        {
+            "text": "Vegetables",
+            "address": "0x00da90ed"
+        },
+        {
+            "text": "Substory",
+            "address": "0x00da90f6"
+        },
+        {
+            "text": "Glossary",
+            "address": "0x00da911d"
+        },
+        {
+            "text": "Notes",
+            "address": "0x00da9126"
+        },
+        {
+            "text": "Save / Settings",
+            "address": "0x00da912d"
+        },
+        {
+            "text": "Associated Corps officer",
+            "address": "0x00da913a"
+        },
+        {
+            "text": "Agriculture Details",
+            "address": "0x00da9143"
+        },
+        {
+            "text": "Cuisine details",
+            "address": "0x00da914c"
+        },
+        {
+            "text": "You can capacity building",
+            "address": "0x00da9155"
+        },
+        {
+            "text": "Possession of the number of order",
+            "address": "0x00da9166"
+        },
+        {
+            "text": "Experience value went up",
+            "address": "0x00da916f"
+        },
+        {
+            "text": "Experience value of%s has risen",
+            "address": "0x00da9180"
+        },
+        {
+            "text": "Won the virtue",
+            "address": "0x00da91a9"
+        },
+        {
+            "text": "Personal belongings",
+            "address": "0x00da91b6"
+        },
+        {
+            "text": "crops",
+            "address": "0x00da91bd"
+        },
+        {
+            "text": "Fishes",
+            "address": "0x00da91c4"
+        },
+        {
+            "text": "Equipment material",
+            "address": "0x00da91c9"
+        },
+        {
+            "text": "Equipped weapon",
+            "address": "0x00da91d2"
+        },
+        {
+            "text": "Equipped with armor",
+            "address": "0x00da91db"
+        },
+        {
+            "text": "Possession of weapons",
+            "address": "0x00da91e4"
+        },
+        {
+            "text": "Possession Armor",
+            "address": "0x00da91ed"
+        },
+        {
+            "text": "Sword",
+            "address": "0x00da91f6"
+        },
+        {
+            "text": "Special Weapons",
+            "address": "0x00da91f9"
+        },
+        {
+            "text": "Gun",
+            "address": "0x00da9202"
+        },
+        {
+            "text": "Bullet",
+            "address": "0x00da9205"
+        },
+        {
+            "text": "Head",
+            "address": "0x00da920a"
+        },
+        {
+            "text": "Chest",
+            "address": "0x00da920f"
+        },
+        {
+            "text": "Arms",
+            "address": "0x00da9216"
+        },
+        {
+            "text": "Offense",
+            "address": "0x00da921b"
+        },
+        {
+            "text": "Defense",
+            "address": "0x00da9222"
+        },
+        {
+            "text": "Rarity",
+            "address": "0x00da9229"
+        },
+        {
+            "text": "Case",
+            "address": "0x00da9230"
+        },
+        {
+            "text": "Use materials to strengthen armor.",
+            "address": "0x00da9233"
+        },
+        {
+            "text": "basic operation",
+            "address": "0x00da9266"
+        },
+        {
+            "text": "Skills",
+            "address": "0x00da926f"
+        },
+        {
+            "text": "You can not learn now.",
+            "address": "0x00da929a"
+        },
+        {
+            "text": "I could not use my belongings.",
+            "address": "0x00da92b1"
+        },
+        {
+            "text": "It could not be loaded.",
+            "address": "0x00da92d0"
+        },
+        {
+            "text": "I couldn't throw away my belongings.",
+            "address": "0x00da92e7"
+        },
+        {
+            "text": "New Mail",
+            "address": "0x00da930c"
+        },
+        {
+            "text": "Email",
+            "address": "0x00da9317"
+        },
+        {
+            "text": "Eatery",
+            "address": "0x00da931e"
+        },
+        {
+            "text": "Store",
+            "address": "0x00da9325"
+        },
+        {
+            "text": "Placeholder",
+            "address": "0x00da932c"
+        },
+        {
+            "text": "Scenario",
+            "address": "0x00da933b"
+        },
+        {
+            "text": "Drills",
+            "address": "0x00da9344"
+        },
+        {
+            "text": "\u8a2d\u5b9a\u3057\u305f\u76ee\u7684\u5730",
+            "address": "0x00da9349"
+        },
+        {
+            "text": "\u3046\u3069\u3093\u5c4b",
+            "address": "0x00da9358"
+        },
+        {
+            "text": "\u854e\u9ea6\u5c4b",
+            "address": "0x00da9361"
+        },
+        {
+            "text": "\u305f\u3053\u713c\u304d\u5c4b",
+            "address": "0x00da9368"
+        },
+        {
+            "text": "\u306f\u306a\u3053",
+            "address": "0x00da9373"
+        },
+        {
+            "text": "\u5c45\u9152\u5c4b",
+            "address": "0x00da937a"
+        },
+        {
+            "text": "\u8336\u5c4b",
+            "address": "0x00da9381"
+        },
+        {
+            "text": "\u9b5a\u5c4b",
+            "address": "0x00da9386"
+        },
+        {
+            "text": "\u91dc\u98ef\u5c4b",
+            "address": "0x00da938b"
+        },
+        {
+            "text": "\u98ef\u5c4b1",
+            "address": "0x00da9392"
+        },
+        {
+            "text": "\u98ef\u5c4b2",
+            "address": "0x00da9398"
+        },
+        {
+            "text": "\u516b\u767e\u5c4b",
+            "address": "0x00da939e"
+        },
+        {
+            "text": "\u795e\u793e1",
+            "address": "0x00da93a5"
+        },
+        {
+            "text": "\u795e\u793e2",
+            "address": "0x00da93ab"
+        },
+        {
+            "text": "\u5e2b\u53202",
+            "address": "0x00da93b1"
+        },
+        {
+            "text": "\u5e2b\u53201",
+            "address": "0x00da93b7"
+        },
+        {
+            "text": "\u7832\u4e38",
+            "address": "0x00da93bd"
+        },
+        {
+            "text": "\u5e2b\u5320",
+            "address": "0x00da93c2"
+        },
+        {
+            "text": "There is no map",
+            "address": "0x00da93c7"
+        },
+        {
+            "text": "Fishing",
+            "address": "0x00da93da"
+        },
+        {
+            "text": "Poultry",
+            "address": "0x00da93e1"
+        },
+        {
+            "text": "Cat futon",
+            "address": "0x00da93e8"
+        },
+        {
+            "text": "Kennel level",
+            "address": "0x00da93f1"
+        },
+        {
+            "text": "kitchenware",
+            "address": "0x00da93fe"
+        },
+        {
+            "text": "Interior",
+            "address": "0x00da9407"
+        },
+        {
+            "text": "-",
+            "address": "0x00da4c95"
+        },
+        {
+            "text": "\u578b",
+            "address": "0x00dad12d"
+        },
+        {
+            "text": "\u306e",
+            "address": "0x00da420f"
+        },
+        {
+            "text": "\u306e",
+            "address": "0x00da420f"
+        },
+        {
+            "text": "Wins",
+            "address": "0x00da9439"
+        },
+        {
+            "text": "Mini-games",
+            "address": "0x00da943c"
+        },
+        {
+            "text": "Meal",
+            "address": "0x00da9447"
+        },
+        {
+            "text": "Arms and armor",
+            "address": "0x00da944c"
+        },
+        {
+            "text": "Wanted man",
+            "address": "0x00da9457"
+        },
+        {
+            "text": "Battle Dungeon",
+            "address": "0x00da9460"
+        },
+        {
+            "text": "It is a complete sub-story. [N]",
+            "address": "0x00da9478"
+        },
+        {
+            "text": "Complete the mini-games.[n]Check the achievement status of mini-games.",
+            "address": "0x00da949c"
+        },
+        {
+            "text": "Another life is complete.",
+            "address": "0x00da94e2"
+        },
+        {
+            "text": "Complete all food and beverage store menus to get the achievement.",
+            "address": "0x00da9505"
+        },
+        {
+            "text": "It is complete of heat action. [N] is achieved and to activate all of the heat action.",
+            "address": "0x00da954d"
+        },
+        {
+            "text": "A complete set of equipment.",
+            "address": "0x00da95a2"
+        },
+        {
+            "text": "Complete all the missions and trainings of each master to get the achievement.",
+            "address": "0x00da95c1"
+        },
+        {
+            "text": "Wanted is the complete. [N]",
+            "address": "0x00da960d"
+        },
+        {
+            "text": "It is complete of battle dungeon.",
+            "address": "0x00da962b"
+        },
+        {
+            "text": "It is complete of the arena.",
+            "address": "0x00da9650"
+        },
+        {
+            "text": "mark",
+            "address": "0x00da966b"
+        },
+        {
+            "text": "Tips Display",
+            "address": "0x00da966e"
+        },
+        {
+            "text": "Random growth set",
+            "address": "0x00da967b"
+        },
+        {
+            "text": "Camera (Vert)",
+            "address": "0x00da968c"
+        },
+        {
+            "text": "Camera (Horiz)",
+            "address": "0x00da969b"
+        },
+        {
+            "text": "First-Person Camera (Vert)",
+            "address": "0x00da96aa"
+        },
+        {
+            "text": "First-Person Camera (Horiz)",
+            "address": "0x00da96c3"
+        },
+        {
+            "text": "Minimap",
+            "address": "0x00da96dc"
+        },
+        {
+            "text": "Minimap (Up)",
+            "address": "0x00da96eb"
+        },
+        {
+            "text": "Subtitles",
+            "address": "0x00da9704"
+        },
+        {
+            "text": "Word Emphasis",
+            "address": "0x00da970d"
+        },
+        {
+            "text": "Synopsis ",
+            "address": "0x00da971e"
+        },
+        {
+            "text": "Display changed weapon events",
+            "address": "0x00da972b"
+        },
+        {
+            "text": "Narration voice of Synopsis",
+            "address": "0x00da9746"
+        },
+        {
+            "text": "Brightness",
+            "address": "0x00da9763"
+        },
+        {
+            "text": "Saturation",
+            "address": "0x00da9772"
+        },
+        {
+            "text": "2D display control",
+            "address": "0x00da9781"
+        },
+        {
+            "text": "Font settings",
+            "address": "0x00da9792"
+        },
+        {
+            "text": "Live!",
+            "address": "0x00da979f"
+        },
+        {
+            "text": "Difficulty",
+            "address": "0x00da97aa"
+        },
+        {
+            "text": "You can select the amount of tips to be displayed. [n] If you choose \"less\", only the minimum amount of information will be displayed.",
+            "address": "0x00da97b5"
+        },
+        {
+            "text": "Set vertical control for the camera.",
+            "address": "0x00da984a"
+        },
+        {
+            "text": "Set horizontal control for the camera.",
+            "address": "0x00da989d"
+        },
+        {
+            "text": "Set first-person vertical camera control.",
+            "address": "0x00da98f0"
+        },
+        {
+            "text": "Set first-person horizontal camera control.",
+            "address": "0x00da9941"
+        },
+        {
+            "text": "Switch on/off the minimap that appears.",
+            "address": "0x00da9992"
+        },
+        {
+            "text": "Switch on/off the minimap rotation. \"Off\" fixes the minimap rotation.",
+            "address": "0x00da99c7"
+        },
+        {
+            "text": "Switch on/off subtitles for cutscenes.",
+            "address": "0x00da9a35"
+        },
+        {
+            "text": "Highlight subjects of topics.",
+            "address": "0x00da9a60"
+        },
+        {
+            "text": "Set whether or not to show a summary before next chapter.",
+            "address": "0x00da9a93"
+        },
+        {
+            "text": "If the main character's equipped weapon is special,[n]it will be displayed as it is in the[n]event scene.",
+            "address": "0x00da9acf"
+        },
+        {
+            "text": "You can change the narration voice of Synopsis.",
+            "address": "0x00da9b3c"
+        },
+        {
+            "text": "By sliding the cursor, you can adjust the brightness.",
+            "address": "0x00da9b73"
+        },
+        {
+            "text": "By sliding the cursor, you can adjust the tone.",
+            "address": "0x00da9baf"
+        },
+        {
+            "text": "Allows you to change the typeface used in the game. ",
+            "address": "0x00da9beb"
+        },
+        {
+            "text": "Select the difficulty.",
+            "address": "0x00da9c4c"
+        },
+        {
+            "text": "Determine the interface display position.",
+            "address": "0x00da9c63"
+        },
+        {
+            "text": "order",
+            "address": "0x00da9c8e"
+        },
+        {
+            "text": "\u9006",
+            "address": "0x00da9c91"
+        },
+        {
+            "text": "Fixed",
+            "address": "0x00da9c94"
+        },
+        {
+            "text": "Front",
+            "address": "0x00da9c99"
+        },
+        {
+            "text": "Yes",
+            "address": "0x00da9c9e"
+        },
+        {
+            "text": "Auto",
+            "address": "0x00da9ca3"
+        },
+        {
+            "text": "Mincho",
+            "address": "0x00da9ca8"
+        },
+        {
+            "text": "Gothic",
+            "address": "0x00da9caf"
+        },
+        {
+            "text": "Fewer",
+            "address": "0x00da9cba"
+        },
+        {
+            "text": "Generous",
+            "address": "0x00da9cc1"
+        },
+        {
+            "text": "Story setting.",
+            "address": "0x00da9cc6"
+        },
+        {
+            "text": "Chuji Matsubara",
+            "address": "0x00da9cd1"
+        },
+        {
+            "text": "Genzaburo",
+            "address": "0x00da9cda"
+        },
+        {
+            "text": "Harada Sanosuke",
+            "address": "0x00da9ce5"
+        },
+        {
+            "text": "Okada Iz\u014d",
+            "address": "0x00da9cf0"
+        },
+        {
+            "text": "Shintaro",
+            "address": "0x00da9cf9"
+        },
+        {
+            "text": "Demon",
+            "address": "0x00da9d04"
+        },
+        {
+            "text": "Tadasaburo Sasaki",
+            "address": "0x00da9d0b"
+        },
+        {
+            "text": "Ikumatsu",
+            "address": "0x00da9d18"
+        },
+        {
+            "text": "Entering <Sign:D> will display a description.",
+            "address": "0x00da9d1d"
+        },
+        {
+            "text": "Entering <Sign:D> will close the detailed description display. You can change the contents of the [n] description display.",
+            "address": "0x00da9d4c"
+        },
+        {
+            "text": "Retry",
+            "address": "0x00da9dc9"
+        },
+        {
+            "text": "Try again to load",
+            "address": "0x00da9dd0"
+        },
+        {
+            "text": "Try again from the last checkpoint",
+            "address": "0x00da9de1"
+        },
+        {
+            "text": "To end the game",
+            "address": "0x00da9e02"
+        },
+        {
+            "text": "Back to the Main Menu",
+            "address": "0x00da9e13"
+        },
+        {
+            "text": "Back to Fighting Menu",
+            "address": "0x00da9e28"
+        },
+        {
+            "text": "\uff1f",
+            "address": "0x00da6ae6"
+        },
+        {
+            "text": "Online Shop",
+            "address": "0x00da9e3f"
+        },
+        {
+            "text": "Letters:",
+            "address": "0x00da9e52"
+        },
+        {
+            "text": "%d /%d",
+            "address": "0x00da9e5f"
+        },
+        {
+            "text": "%d talk",
+            "address": "0x00da9e67"
+        },
+        {
+            "text": "Completion rate",
+            "address": "0x00da9e72"
+        },
+        {
+            "text": "Rumors",
+            "address": "0x00da9e85"
+        },
+        {
+            "text": "%d items",
+            "address": "0x00da9e8c"
+        },
+        {
+            "text": "Strong",
+            "address": "0x00da9e93"
+        },
+        {
+            "text": "Spirit",
+            "address": "0x00da9e98"
+        },
+        {
+            "text": "Melee",
+            "address": "0x00da9e9d"
+        },
+        {
+            "text": "Sword",
+            "address": "0x00da9ea8"
+        },
+        {
+            "text": "Gun",
+            "address": "0x00da9eb3"
+        },
+        {
+            "text": "Ranbu",
+            "address": "0x00da9ebe"
+        },
+        {
+            "text": "Melee Souls",
+            "address": "0x00da9ec9"
+        },
+        {
+            "text": "Sword Souls",
+            "address": "0x00da9ed4"
+        },
+        {
+            "text": "Gun Souls",
+            "address": "0x00da9edf"
+        },
+        {
+            "text": "Ranbu Souls",
+            "address": "0x00da9eea"
+        },
+        {
+            "text": "Training",
+            "address": "0x00da9ef5"
+        },
+        {
+            "text": "Want to replace it with %s?",
+            "address": "0x00da9f00"
+        },
+        {
+            "text": "Number of items",
+            "address": "0x00da9f2d"
+        },
+        {
+            "text": "Achieved",
+            "address": "0x00da9f38"
+        },
+        {
+            "text": "Person Desc.",
+            "address": "0x00da9f46"
+        },
+        {
+            "text": "Glossary",
+            "address": "0x00da9f4f"
+        },
+        {
+            "text": "Cave of Noto",
+            "address": "0x00da9f58"
+        },
+        {
+            "text": "Bandits Ruins",
+            "address": "0x00da9f63"
+        },
+        {
+            "text": "Home Ruins",
+            "address": "0x00da9f6e"
+        },
+        {
+            "text": "Agriculture",
+            "address": "0x00da9f79"
+        },
+        {
+            "text": "Cuisine",
+            "address": "0x00da9f83"
+        },
+        {
+            "text": "Dealing",
+            "address": "0x00da9f88"
+        },
+        {
+            "text": "Pet",
+            "address": "0x00da9f8d"
+        },
+        {
+            "text": "Haruka Trust",
+            "address": "0x00da9f94"
+        },
+        {
+            "text": "Transaction Cost",
+            "address": "0x00da9f9f"
+        },
+        {
+            "text": "Play time",
+            "address": "0x00da9fac"
+        },
+        {
+            "text": "Veggies Number:",
+            "address": "0x00da9fb7"
+        },
+        {
+            "text": "Type of Fish:",
+            "address": "0x00da9fc6"
+        },
+        {
+            "text": "Recipes:",
+            "address": "0x00da9fd5"
+        },
+        {
+            "text": "Barters:",
+            "address": "0x00da9fe8"
+        },
+        {
+            "text": "Load",
+            "address": "0x00da9ff3"
+        },
+        {
+            "text": "Set.",
+            "address": "0x00da9ffa"
+        },
+        {
+            "text": "Back to Title",
+            "address": "0x00da9fff"
+        },
+        {
+            "text": "First Equipment",
+            "address": "0x00daa00e"
+        },
+        {
+            "text": "Luxury",
+            "address": "0x00daa017"
+        },
+        {
+            "text": "Deluxe",
+            "address": "0x00daa01c"
+        },
+        {
+            "text": "Trouble",
+            "address": "0x00daa023"
+        },
+        {
+            "text": "Favorite dish",
+            "address": "0x00daa028"
+        },
+        {
+            "text": "Total",
+            "address": "0x00daa031"
+        },
+        {
+            "text": "Corporal ability",
+            "address": "0x00daa036"
+        },
+        {
+            "text": "Corps worker ability",
+            "address": "0x00daa03f"
+        },
+        {
+            "text": "Back to the military station",
+            "address": "0x00daa048"
+        },
+        {
+            "text": "Necessary material information",
+            "address": "0x00daa053"
+        },
+        {
+            "text": "Required",
+            "address": "0x00daa060"
+        },
+        {
+            "text": "Items",
+            "address": "0x00daa067"
+        },
+        {
+            "text": "Training material",
+            "address": "0x00daa06e"
+        },
+        {
+            "text": "Upgraded material",
+            "address": "0x00daa077"
+        },
+        {
+            "text": "You can create armor and materials",
+            "address": "0x00daa082"
+        },
+        {
+            "text": "Total transaction amount is achieved in 100 cars or more.",
+            "address": "0x00daa095"
+        },
+        {
+            "text": "Seal of \"%s\" has been solved.",
+            "address": "0x00daa0bc"
+        },
+        {
+            "text": "And kept all of the pet, is accomplished and I'll take care.",
+            "address": "0x00daa0d9"
+        },
+        {
+            "text": "It is achieved if caught all kinds of fish.",
+            "address": "0x00daa10a"
+        },
+        {
+            "text": "Special",
+            "address": "0x00daa12b"
+        },
+        {
+            "text": "Armor",
+            "address": "0x00daa130"
+        },
+        {
+            "text": "<Sign:1> Swi. <Sign:D> Pick <Sign:C> Back",
+            "address": "0x00daa135"
+        },
+        {
+            "text": "ATK %d",
+            "address": "0x00daa160"
+        },
+        {
+            "text": "Defense %d",
+            "address": "0x00daa16a"
+        },
+        {
+            "text": "Free",
+            "address": "0x00daa174"
+        },
+        {
+            "text": "<Sign:C> Reset Cam",
+            "address": "0x00daa184"
+        },
+        {
+            "text": "<Sign:29> Cam Move",
+            "address": "0x00daa199"
+        },
+        {
+            "text": "The destination is also full. Toss it?",
+            "address": "0x00daa1ab"
+        },
+        {
+            "text": "Threw away the %s",
+            "address": "0x00daa1d6"
+        },
+        {
+            "text": "(You don't have anything that could give. ......)",
+            "address": "0x00daa1e6"
+        },
+        {
+            "text": "(Let's get energy.....)",
+            "address": "0x00daa211"
+        },
+        {
+            "text": "Can you really give?",
+            "address": "0x00daa236"
+        },
+        {
+            "text": "(Eat Do not have what is likely ...)",
+            "address": "0x00daa251"
+        },
+        {
+            "text": "(... What do you Kuo)",
+            "address": "0x00daa278"
+        },
+        {
+            "text": "Can you really eat?",
+            "address": "0x00daa28d"
+        },
+        {
+            "text": "Capacity use",
+            "address": "0x00daa2a8"
+        },
+        {
+            "text": "Organize troops",
+            "address": "0x00daa2b1"
+        },
+        {
+            "text": "Lead troops",
+            "address": "0x00daa2c8"
+        },
+        {
+            "text": "Recruit with money.",
+            "address": "0x00daa2e1"
+        },
+        {
+            "text": "Change possessions.",
+            "address": "0x00daa2f4"
+        },
+        {
+            "text": "You can see how to play description.",
+            "address": "0x00daa30b"
+        },
+        {
+            "text": "Exit the battle dungeon.",
+            "address": "0x00daa32e"
+        },
+        {
+            "text": "Replacement",
+            "address": "0x00daa34d"
+        },
+        {
+            "text": "Reinforced synthetic",
+            "address": "0x00daa356"
+        },
+        {
+            "text": "Reincarnation",
+            "address": "0x00daa35f"
+        },
+        {
+            "text": "Remove unit",
+            "address": "0x00daa364"
+        },
+        {
+            "text": "Expelling",
+            "address": "0x00daa371"
+        },
+        {
+            "text": "%s used by you recruit.",
+            "address": "0x00daa397"
+        },
+        {
+            "text": "We can't hold any more troops.",
+            "address": "0x00daa3ac"
+        },
+        {
+            "text": "Please select troops.",
+            "address": "0x00daa3cb"
+        },
+        {
+            "text": "Please select a squadron.",
+            "address": "0x00daa3e4"
+        },
+        {
+            "text": "Select the troops you want to replace.",
+            "address": "0x00daa3fd"
+        },
+        {
+            "text": "Replace the troops.",
+            "address": "0x00daa422"
+        },
+        {
+            "text": "Strengthen your troops.",
+            "address": "0x00daa437"
+        },
+        {
+            "text": "We will listen to the needs of the troops.",
+            "address": "0x00daa44e"
+        },
+        {
+            "text": "Remove from the troops.",
+            "address": "0x00daa479"
+        },
+        {
+            "text": "Close the menu.",
+            "address": "0x00daa48c"
+        },
+        {
+            "text": "And expelled the corps officer.",
+            "address": "0x00daa4a1"
+        },
+        {
+            "text": "Do you add this corps officer in the third Corps?",
+            "address": "0x00daa4b4"
+        },
+        {
+            "text": "On a mission failure that overlaps every time, it seems to be frustrated to the captain.",
+            "address": "0x00daa4d3"
+        },
+        {
+            "text": "There is a place where a little lacking in loyalty, seems dissatisfied with the ability of the captain.",
+            "address": "0x00daa512"
+        },
+        {
+            "text": "Prospectively have a loyalty to tackle the mission, it seems to be working hard.",
+            "address": "0x00daa559"
+        },
+        {
+            "text": "Full of loyalty, it seems to be looking forward to the next mission.",
+            "address": "0x00daa598"
+        },
+        {
+            "text": "Full of loyalty to the captain, it seems to look forward to the next mission.",
+            "address": "0x00daa5cf"
+        },
+        {
+            "text": "Please select the troops destination.",
+            "address": "0x00daa612"
+        },
+        {
+            "text": "Please select a mission.",
+            "address": "0x00daa62d"
+        },
+        {
+            "text": "View List",
+            "address": "0x00daa646"
+        },
+        {
+            "text": "View troops destination information",
+            "address": "0x00daa651"
+        },
+        {
+            "text": "Start-reinforced synthetic",
+            "address": "0x00daa662"
+        },
+        {
+            "text": "Do you want to start a reinforced synthetic?",
+            "address": "0x00daa66f"
+        },
+        {
+            "text": "After <Color: 5>% d people <Color: Default> can be selected.",
+            "address": "0x00daa688"
+        },
+        {
+            "text": "Corps Officer List",
+            "address": "0x00daa6c1"
+        },
+        {
+            "text": "Please select the desired Corps officer to look at the details.",
+            "address": "0x00daa6ca"
+        },
+        {
+            "text": "Can not be held any more corps officer, did not accept the [n] enlisted seekers",
+            "address": "0x00daa6ef"
+        },
+        {
+            "text": "? ? ?",
+            "address": "0x00daa731"
+        },
+        {
+            "text": "To end the veterans report",
+            "address": "0x00daa738"
+        },
+        {
+            "text": "Add physical strength",
+            "address": "0x00daa74b"
+        },
+        {
+            "text": "Loyalty has increased%s.",
+            "address": "0x00daa754"
+        },
+        {
+            "text": "Loyalty has been reduced%s.",
+            "address": "0x00daa76d"
+        },
+        {
+            "text": "It was the experience value%s to get.",
+            "address": "0x00daa786"
+        },
+        {
+            "text": "Physical strength has been increased to%s from%s.",
+            "address": "0x00daa7a1"
+        },
+        {
+            "text": "Has been increased to from the filling speed is%s%s.",
+            "address": "0x00daa7c2"
+        },
+        {
+            "text": "Ability proficiency went up%s.",
+            "address": "0x00daa7e7"
+        },
+        {
+            "text": "In order to further growth, we wanted to get a rare degree of%s or more%s.",
+            "address": "0x00daa804"
+        },
+        {
+            "text": "In order to further growth, we wanted to get%s.",
+            "address": "0x00daa847"
+        },
+        {
+            "text": "This Taishi is being escaped. Whereabouts is unknown, it seems to be hiding somewhere in Kyoto.",
+            "address": "0x00daa87a"
+        },
+        {
+            "text": "You can not send troops for corporal, must not have",
+            "address": "0x00daa8c5"
+        },
+        {
+            "text": "This mission can not be troops other than attack Corps workers",
+            "address": "0x00daa8e4"
+        },
+        {
+            "text": "This mission except garrison officer can not troops",
+            "address": "0x00daa90b"
+        },
+        {
+            "text": "This mission can not be troops other than hygiene Corps workers",
+            "address": "0x00daa932"
+        },
+        {
+            "text": "This mission can not be troops other than the sword Corps workers",
+            "address": "0x00daa959"
+        },
+        {
+            "text": "This mission except spear Corps mechanic can not troops",
+            "address": "0x00daa97e"
+        },
+        {
+            "text": "This mission can not be troops other than the gun Corps workers",
+            "address": "0x00daa9a3"
+        },
+        {
+            "text": "? ? ? ? ? ?",
+            "address": "0x00daa9c8"
+        },
+        {
+            "text": "Corps workers acquisition situation",
+            "address": "0x00daa9d5"
+        },
+        {
+            "text": "If you are allowed to accompany the corps officer initiated the mission, you will see the corps officer who accompanied the [n] the right side of the screen.",
+            "address": "0x00daa9e2"
+        },
+        {
+            "text": "Depending on the total value of the Taishi our physical strength during the mission start will be added physical strength to [n] Saito captain.",
+            "address": "0x00daaa2e"
+        },
+        {
+            "text": "Noto is a strong man complete set. So as not to [n] own head, let's do our best.",
+            "address": "0x00daaa78"
+        },
+        {
+            "text": "Corps officer of ability and filling gauge in the above figure is in full [n] <Sign:7> + You can use the arrow keys.",
+            "address": "0x00daaabc"
+        },
+        {
+            "text": "Filling speed is determined by the result of the filling speed of the Corps mechanic [n] fight side of the Saito captain. [N] Corps officer course to grow, you can reduce the time to use the [n] increases the morale of the corps officer by the good fight how [n] ability.",
+            "address": "0x00daab0b"
+        },
+        {
+            "text": "So immediately [n] <Sign:7> + <Sign:43> in the Let's use the [n] Corps mechanic ability of Goro Narita.",
+            "address": "0x00daabc2"
+        },
+        {
+            "text": "Now, Goro Narita's ability was activated. [N] because this ability effect to \"heal\" is a [n], it will be benefited a certain period of time.",
+            "address": "0x00daac0d"
+        },
+        {
+            "text": "The remaining time of this ability effect, can be found in the filling gauge of the screen right [n] Corps officer. [N] When you no longer filled gauge, it is the effect the end.",
+            "address": "0x00daac80"
+        },
+        {
+            "text": "To instruct the corps officer to automatically carry out the imposition of capacity [n], but you can also, if you do? [N] [n] <Sign:D> Corps officer to leave <Sign:C> be activated on their own",
+            "address": "0x00daad01"
+        },
+        {
+            "text": "This setting can be changed from the reception, please talk to accept When it want to change [n].",
+            "address": "0x00daad80"
+        },
+        {
+            "text": "So, let's continue while defeating the enemy proceed to [n] earlier.",
+            "address": "0x00daadce"
+        },
+        {
+            "text": "In the door, there is a door where there is a mechanism for opening. In order to advance to the [n] earlier, it will help you find and open the [n] door the trick.",
+            "address": "0x00daae02"
+        },
+        {
+            "text": "The door of the previous, road or to go, there is also that you have entered a box is placed [n] materials and expensive goods necessary in order to train the [n] weapon.",
+            "address": "0x00daae6d"
+        },
+        {
+            "text": "Since the materials and goods that got is a thing of the captain, [n] door is let's open aggressively.",
+            "address": "0x00daaed8"
+        },
+        {
+            "text": "This basic training in will be the end. [N] to find the boss of this cave, you must annihilate.",
+            "address": "0x00daaf24"
+        },
+        {
+            "text": "There is no loyalty by repeated mission failure [n] it seems there are deserters and corps officer",
+            "address": "0x00dab053"
+        },
+        {
+            "text": "But let incarnated giving weapons [n] Are you sure you want?",
+            "address": "0x00dab097"
+        },
+        {
+            "text": "Do you want to enable the Random ability?",
+            "address": "0x00dab0c3"
+        },
+        {
+            "text": "Remove from the troops. Is it OK?",
+            "address": "0x00dab0e2"
+        },
+        {
+            "text": "And expulsion. Is it OK?",
+            "address": "0x00dab105"
+        },
+        {
+            "text": "Man of the hood",
+            "address": "0x00dab122"
+        },
+        {
+            "text": "Unit List",
+            "address": "0x00dab12b"
+        },
+        {
+            "text": "Ability Details",
+            "address": "0x00dab134"
+        },
+        {
+            "text": "There is no weapon needed to reincarnate",
+            "address": "0x00dab13d"
+        },
+        {
+            "text": "Corps officer roster",
+            "address": "0x00dab15a"
+        },
+        {
+            "text": "Taishi Overview",
+            "address": "0x00dab163"
+        },
+        {
+            "text": "Spear",
+            "address": "0x00dab16c"
+        },
+        {
+            "text": "Start a new game. ",
+            "address": "0x00dab16f"
+        },
+        {
+            "text": "Load a saved game.",
+            "address": "0x00dab228"
+        },
+        {
+            "text": "Poker, Koi-Koi, Oichi-Kabu, Cee-lo, and Odds and Evens.",
+            "address": "0x00dab2b0"
+        },
+        {
+            "text": "Explore the world of the Edo period, without following the main story.",
+            "address": "0x00dab310"
+        },
+        {
+            "text": "A challenge mode for the best of fighters.",
+            "address": "0x00dab356"
+        },
+        {
+            "text": "View information about online features.",
+            "address": "0x00dab3b4"
+        },
+        {
+            "text": "View previously seen story events.",
+            "address": "0x00dab3e9"
+        },
+        {
+            "text": "Adjust various settings.",
+            "address": "0x00dab410"
+        },
+        {
+            "text": "Save PlayStation 3 side of the save data on the [n] network.",
+            "address": "0x00dab42e"
+        },
+        {
+            "text": "Save PlayStation 4 side of the save data on the [n] network.",
+            "address": "0x00dab46b"
+        },
+        {
+            "text": "Save the save data of PlayStation Vita side on the [n] network.",
+            "address": "0x00dab4a8"
+        },
+        {
+            "text": "The save data that is stored on the network to download [n], to share the progress.",
+            "address": "0x00dab4e8"
+        },
+        {
+            "text": "We do not subscribe to PlayStation Plus. To return to the [n] the main menu screen.",
+            "address": "0x00dab53a"
+        },
+        {
+            "text": "[N] A communication error occurred during the authentication of PlayStation Plus. To return to the [n] the main menu screen.",
+            "address": "0x00dab57e"
+        },
+        {
+            "text": "From the beginning in the clear data use",
+            "address": "0x00dab5d3"
+        },
+        {
+            "text": "From the beginning without clear data",
+            "address": "0x00dab5ee"
+        },
+        {
+            "text": "Of clear data capacity, items, taken over the money in [n] will newly start the game from the beginning.",
+            "address": "0x00dab60b"
+        },
+        {
+            "text": "Clear data is not used, it starts again the game from the first [n] in a complete initial state.",
+            "address": "0x00dab687"
+        },
+        {
+            "text": "Master class",
+            "address": "0x00dab6d1"
+        },
+        {
+            "text": "Action Games is one weaker and is recommended for those of [n] \"Yakuza\" series beginner.",
+            "address": "0x00dab6d8"
+        },
+        {
+            "text": "This is the standard difficulty.",
+            "address": "0x00dab726"
+        },
+        {
+            "text": "Action is recommended for those who are confident in.",
+            "address": "0x00dab73b"
+        },
+        {
+            "text": "You can not re-challenge when the game is over. [N] Please challenging only those who want ultimate in this game. [N]",
+            "address": "0x00dab764"
+        },
+        {
+            "text": "upload",
+            "address": "0x00dab7b7"
+        },
+        {
+            "text": "download",
+            "address": "0x00dab7c4"
+        },
+        {
+            "text": "Start with a clear data use",
+            "address": "0x00dab7d1"
+        },
+        {
+            "text": "Start without a clear data",
+            "address": "0x00dab7ea"
+        },
+        {
+            "text": "Regardless of the [n] scenario in the state took over all the elements of clear data, you can freely explore the world.",
+            "address": "0x00dab805"
+        },
+        {
+            "text": "You start the game from the complete initial state. [N], regardless of the scenario, you are free to explore the world.",
+            "address": "0x00dab885"
+        },
+        {
+            "text": "Download History",
+            "address": "0x00dab903"
+        },
+        {
+            "text": "Achievements List",
+            "address": "0x00dab914"
+        },
+        {
+            "text": "Fully achieved",
+            "address": "0x00dab920"
+        },
+        {
+            "text": "body",
+            "address": "0x00dab92c"
+        },
+        {
+            "text": "The degree of difficulty of playing",
+            "address": "0x00dab92f"
+        },
+        {
+            "text": "Continue the number of times",
+            "address": "0x00dab940"
+        },
+        {
+            "text": "Level at the time of clear",
+            "address": "0x00dab953"
+        },
+        {
+            "text": "Number of achieving devotion inventory",
+            "address": "0x00dab964"
+        },
+        {
+            "text": "Acquisition Corps mechanic number card",
+            "address": "0x00dab973"
+        },
+        {
+            "text": "Complete total",
+            "address": "0x00dab984"
+        },
+        {
+            "text": "Got %s.",
+            "address": "0x00dab999"
+        },
+        {
+            "text": "%s were now available.",
+            "address": "0x00dab9aa"
+        },
+        {
+            "text": " As after the clearing mode, [n][n] end of the Edo period Man'yu [n] ultimate arena [n] [n] has been added to the menu.",
+            "address": "0x00dab9cb"
+        },
+        {
+            "text": "Master class has been added to the difficulty settings.",
+            "address": "0x00daba14"
+        },
+        {
+            "text": "Or \"from the beginning in the clear data use\", you can receive in a [n] When you start the game in the \"Edo Man'yu\" [n] \"can store Naomi of fortune-telling.\"",
+            "address": "0x00daba39"
+        },
+        {
+            "text": "Or \"from the beginning in the clear data use\", you can get the \"%s\" from Utsunomiya you are in when you start the game with \"Edo Man'yu\" [n] Teradaya.",
+            "address": "0x00dabab4"
+        },
+        {
+            "text": "% S%s is now to choose.",
+            "address": "0x00dabb32"
+        },
+        {
+            "text": "Strong",
+            "address": "0x00dabb53"
+        },
+        {
+            "text": "Weak",
+            "address": "0x00dabb58"
+        },
+        {
+            "text": "About NETWORK SERVICE",
+            "address": "0x00dabb5d"
+        },
+        {
+            "text": "Manual update",
+            "address": "0x00dabb7c"
+        },
+        {
+            "text": "Please have a wireless controller to connect the two",
+            "address": "0x00dabb8d"
+        },
+        {
+            "text": "You can see the content that is available by using the network.",
+            "address": "0x00dabbba"
+        },
+        {
+            "text": "You can check the information of the added content.",
+            "address": "0x00dabc01"
+        },
+        {
+            "text": "Body that is connected to the network I will auto-update [n] door but, or the like which is the middle cut, if it fails, you can perform the update manually from here [n].",
+            "address": "0x00dabc2c"
+        },
+        {
+            "text": "<Sign:D> Agree",
+            "address": "0x00dabcc1"
+        },
+        {
+            "text": "<Sign:C> Disagree",
+            "address": "0x00dabcd2"
+        },
+        {
+            "text": "Play online",
+            "address": "0x00dabce5"
+        },
+        {
+            "text": "Play by one person",
+            "address": "0x00dabcf6"
+        },
+        {
+            "text": "Mahjong, play Koi-Koi, placed Cho Co., poker, Shogi [n] the five types of mini-games in the online competition.",
+            "address": "0x00dabd01"
+        },
+        {
+            "text": "Mahjong, play Koi-Koi, placed Cho Co., poker, Shogi [n] the five types of mini-games in only one person.",
+            "address": "0x00dabd5d"
+        },
+        {
+            "text": "Use the Mahjong tiles, will compete on the strength of the fast and the role of go [n] role making pulling the tiles in order.",
+            "address": "0x00dabdb3"
+        },
+        {
+            "text": "Use the shogi pieces, move the Tegoma alternately either [n] to compete with or take the opponent's king ahead.",
+            "address": "0x00dabdfb"
+        },
+        {
+            "text": "Use the playing cards, and then continue [n] match to create a role doing the picture matching.",
+            "address": "0x00dabe4b"
+        },
+        {
+            "text": "Use the kabufuda or playing cards, your hand is dealt two or three sheets [n] to compete on the last digit of the total number.",
+            "address": "0x00dabe83"
+        },
+        {
+            "text": "Use the play bills of the foreign country, consider a combination of five of the bills will compete on the strength of the [n] role.",
+            "address": "0x00dabed3"
+        },
+        {
+            "text": "High betting point",
+            "address": "0x00dabf1b"
+        },
+        {
+            "text": "Low betting point",
+            "address": "0x00dabf24"
+        },
+        {
+            "text": "One game",
+            "address": "0x00dabf2d"
+        },
+        {
+            "text": "The betting point 250 points you play and replace it with a 25,000-point outlook.",
+            "address": "0x00dabf34"
+        },
+        {
+            "text": "The betting point 25 points you play and replace it with a 25,000-point outlook.",
+            "address": "0x00dabf69"
+        },
+        {
+            "text": "I can not play because the betting point is not enough. [N] Please have accumulated more than 250 points.",
+            "address": "0x00dabf9c"
+        },
+        {
+            "text": "I can not play because the betting point is not enough. [N] Please have accumulated more than 25 points.",
+            "address": "0x00dabfda"
+        },
+        {
+            "text": "You can play in one game 5 points.",
+            "address": "0x00dac016"
+        },
+        {
+            "text": "This online competition Ikoi will be three times game. [N] score difference \u00d7 100 points and the opponent will be exchanged. To play with [n] high betting point, it must be at least 2000 points.",
+            "address": "0x00dac02d"
+        },
+        {
+            "text": "This online competition Ikoi will be three times game. [N] score difference \u00d7 10 points and the opponent will be exchanged. To play with [n] low betting point, we need points at least 200.",
+            "address": "0x00dac0ba"
+        },
+        {
+            "text": "Contact posthumous edition strains of online play is 4 times game. [N] upper limit of bets wagered point at a time up to 1000 points. To play with [n] high betting point, it must be at least 4000 points.",
+            "address": "0x00dac143"
+        },
+        {
+            "text": "Contact posthumous edition strains of online play is 4 times game. [N] upper limit of bets wagered point at a time is up to 100 points. [N] to play in the low betting point is, we need points at least 400.",
+            "address": "0x00dac1d6"
+        },
+        {
+            "text": "I can not play because the betting point is not enough. [N] Please have accumulated more than 4000 points.",
+            "address": "0x00dac265"
+        },
+        {
+            "text": "I can not play because the betting point is not enough. [N] Please have accumulated more than 400 points.",
+            "address": "0x00dac2a5"
+        },
+        {
+            "text": "To play at a high betting point, it must be at least 4000 points. Play in the [n] Texas Hold'em, the minimum BET number [n] 1~2 round is 50 points, 3-4 round is 100 points.",
+            "address": "0x00dac2e3"
+        },
+        {
+            "text": "To play in the low betting point is, you need points at least 400. Play in the [n] Texas Hold'em, the minimum BET number [n] 1~2 round 5 points, 3-4 round is 10 points.",
+            "address": "0x00dac370"
+        },
+        {
+            "text": "The upper limit of the betting point wagered at a time up to 1000 points. To play with [n] high betting point, it must be at least 1000 points.",
+            "address": "0x00dac3f7"
+        },
+        {
+            "text": "The upper limit of the betting point wagered at a time is up to 100 points. [N] to play in the low betting point, it must be at least 100 points.",
+            "address": "0x00dac457"
+        },
+        {
+            "text": "To play at a high betting point, it must be at least 1000 points.",
+            "address": "0x00dac4b3"
+        },
+        {
+            "text": "To play in the low betting point, it must be at least 100 points.",
+            "address": "0x00dac4e0"
+        },
+        {
+            "text": "Betting point exchange",
+            "address": "0x00dac52c"
+        },
+        {
+            "text": "Purchased with money",
+            "address": "0x00dac537"
+        },
+        {
+            "text": "If you have a betting point, and replace it with [n] a variety of prizes or money, last days.",
+            "address": "0x00dac542"
+        },
+        {
+            "text": "If you have a money, [n] and replace it with a variety of prizes or betting point, last days.",
+            "address": "0x00dac586"
+        },
+        {
+            "text": "Upload the save data to the server, [n] PlayStation 3 or PlayStation 4 and between [n] PlayStation Vita,, will share the progress. Please sign in to [n] \"PSN\" in [n] upload and download the same online ID.",
+            "address": "0x00dac807"
+        },
+        {
+            "text": "Total play time",
+            "address": "0x00dac8d5"
+        },
+        {
+            "text": "level",
+            "address": "0x00dac8e2"
+        },
+        {
+            "text": "XP",
+            "address": "0x00dac8e9"
+        },
+        {
+            "text": "The number of resolved mission",
+            "address": "0x00dac8f0"
+        },
+        {
+            "text": "Corps mechanic number card",
+            "address": "0x00dac8ff"
+        },
+        {
+            "text": "Kind of  crops",
+            "address": "0x00dac90c"
+        },
+        {
+            "text": "Kind of caught fish",
+            "address": "0x00dac91f"
+        },
+        {
+            "text": "The completed dishes number of articles",
+            "address": "0x00dac932"
+        },
+        {
+            "text": "Delivered pre-goods number",
+            "address": "0x00dac945"
+        },
+        {
+            "text": "You can not use the [n] online service for parental lock has been set.",
+            "address": "0x00dac98a"
+        },
+        {
+            "text": "No item",
+            "address": "0x00dac9d6"
+        },
+        {
+            "text": "%2d pos",
+            "address": "0x00dac9e3"
+        },
+        {
+            "text": "%4d pnt",
+            "address": "0x00dac9e9"
+        },
+        {
+            "text": "%8d nr",
+            "address": "0x00dac9f6"
+        },
+        {
+            "text": "%2d wins",
+            "address": "0x00daca07"
+        },
+        {
+            "text": "%2d winning streak",
+            "address": "0x00daca0d"
+        },
+        {
+            "text": "%3.2f times",
+            "address": "0x00daca15"
+        },
+        {
+            "text": "%d continuous attack",
+            "address": "0x00daca31"
+        },
+        {
+            "text": "Defeat %d ppl",
+            "address": "0x00daca38"
+        },
+        {
+            "text": "%3d x",
+            "address": "0x00daca41"
+        },
+        {
+            "text": "%4d ppl",
+            "address": "0x00daca47"
+        },
+        {
+            "text": "%3dF%3dW%3dL",
+            "address": "0x00daca4d"
+        },
+        {
+            "text": "Win percent%3d%",
+            "address": "0x00daca5d"
+        },
+        {
+            "text": "%4d ",
+            "address": "0x00daca67"
+        },
+        {
+            "text": "\u00d7%d",
+            "address": "0x00daca6d"
+        },
+        {
+            "text": "%d mil %04d pcs",
+            "address": "0x00daca74"
+        },
+        {
+            "text": "%dF%3dW%3dL",
+            "address": "0x00daca7f"
+        },
+        {
+            "text": "Obtained balls",
+            "address": "0x00daca8e"
+        },
+        {
+            "text": "Winnings",
+            "address": "0x00daca97"
+        },
+        {
+            "text": "Beat %3d of %3d ppl",
+            "address": "0x00dacaa0"
+        },
+        {
+            "text": "%2dF%2dW%2dL",
+            "address": "0x00dacab1"
+        },
+        {
+            "text": "Special reward",
+            "address": "0x00dacac1"
+        },
+        {
+            "text": "Total score",
+            "address": "0x00dacaca"
+        },
+        {
+            "text": "Disrupt time",
+            "address": "0x00dacad7"
+        },
+        {
+            "text": "Strength left",
+            "address": "0x00dacae0"
+        },
+        {
+            "text": "People defeated",
+            "address": "0x00dacae9"
+        },
+        {
+            "text": "Final assesment",
+            "address": "0x00dacaf2"
+        },
+        {
+            "text": "Base pay",
+            "address": "0x00dacafb"
+        },
+        {
+            "text": "Streak bonus",
+            "address": "0x00dacb04"
+        },
+        {
+            "text": "Horse Samurai",
+            "address": "0x00dacb11"
+        },
+        {
+            "text": "Masta fencer",
+            "address": "0x00dacb1a"
+        },
+        {
+            "text": "View Details",
+            "address": "0x00dacb36"
+        },
+        {
+            "text": "Participants",
+            "address": "0x00dacb41"
+        },
+        {
+            "text": "Points",
+            "address": "0x00dacb4a"
+        },
+        {
+            "text": "People killed",
+            "address": "0x00dacb51"
+        },
+        {
+            "text": "Times achieved",
+            "address": "0x00dacb5c"
+        },
+        {
+            "text": "General KOs",
+            "address": "0x00dacb65"
+        },
+        {
+            "text": "Times defended position",
+            "address": "0x00dacb6e"
+        },
+        {
+            "text": "Weapon playoff victories",
+            "address": "0x00dacb81"
+        },
+        {
+            "text": "Partaker",
+            "address": "0x00dacb98"
+        },
+        {
+            "text": "1 round",
+            "address": "0x00dacb9f"
+        },
+        {
+            "text": "2 round",
+            "address": "0x00dacba6"
+        },
+        {
+            "text": "3 round",
+            "address": "0x00dacbad"
+        },
+        {
+            "text": "4 round",
+            "address": "0x00dacbb4"
+        },
+        {
+            "text": "5 round",
+            "address": "0x00dacbbb"
+        },
+        {
+            "text": "Collection is the strong who are in the Kyoto [n] \"the strong man of the feast\" has been released",
+            "address": "0x00dacbc2"
+        },
+        {
+            "text": "Newcomer distributor",
+            "address": "0x00dacbf6"
+        },
+        {
+            "text": "Fledgling distributor",
+            "address": "0x00dacc03"
+        },
+        {
+            "text": "Medium-sized distributor",
+            "address": "0x00dacc12"
+        },
+        {
+            "text": "Popular distributor",
+            "address": "0x00dacc1d"
+        },
+        {
+            "text": "Heroes of the distributor",
+            "address": "0x00dacc28"
+        },
+        {
+            "text": "Veteran of the distributor",
+            "address": "0x00dacc35"
+        },
+        {
+            "text": "Ikki of distributor",
+            "address": "0x00dacc46"
+        },
+        {
+            "text": "Distributor of the world",
+            "address": "0x00dacc57"
+        },
+        {
+            "text": "The ultimate distributor",
+            "address": "0x00dacc64"
+        },
+        {
+            "text": "Distributor of legend",
+            "address": "0x00dacc71"
+        },
+        {
+            "text": "Person who was hungry to play [n] battle of the arena that veteran who bloodthirsty gather is here!",
+            "address": "0x00dacc7e"
+        },
+        {
+            "text": "You can be exchanged with various goods the \u95d8\u7389.",
+            "address": "0x00daccbe"
+        },
+        {
+            "text": "You can see the veteran who of information that competed in the arena.",
+            "address": "0x00dacce7"
+        },
+        {
+            "text": "Arena is a four law.",
+            "address": "0x00dacd20"
+        },
+        {
+            "text": "Make the tournament with five people. [N] \u95d8\u7389 and the prize money will increase that can be earned every time you winning streak.",
+            "address": "0x00dacd35"
+        },
+        {
+            "text": "With a great body and only 1 weapon, fight off the assassins! [n]Get the title \"Hundred Slayer\"!",
+            "address": "0x00dacd83"
+        },
+        {
+            "text": "The first fight for the participants. [n] Prize: 300 yen, 50 balls.",
+            "address": "0x00dacde7"
+        },
+        {
+            "text": "A battle where baptists test their skills. [n] Prize: 300 yen, 50 balls.",
+            "address": "0x00dace2f"
+        },
+        {
+            "text": "A battle of those with their own weapons.\u3000Beware of the demon mask. [n] 1,000 cash, 200 balls.",
+            "address": "0x00dace7d"
+        },
+        {
+            "text": "A battle of unarmed men.\u3000Beware of the man with the bruise. [n] 2,500 money, 100 balls.",
+            "address": "0x00daced7"
+        },
+        {
+            "text": "A banquet for sword fans. Beware of the big sword. [n] 2,000 cash, 200 balls.",
+            "address": "0x00dacf37"
+        },
+        {
+            "text": "For those who have mastered the gun. Beware of magic bullets. [n] 2000 cash, 200 balls.",
+            "address": "0x00dacf85"
+        },
+        {
+            "text": "A battle to find the strongest in Kyoto. [n] Prize: 5,000 yen, 300 balls. [n] You'll be released when meeting fierce men.",
+            "address": "0x00dacfdd"
+        },
+        {
+            "text": "A battle to find the strongest in Kyoto. [n] Prize: 5,000 yen, 300 balls.",
+            "address": "0x00dad056"
+        },
+        {
+            "text": "Select a weapon to fight Hundred Slayers.",
+            "address": "0x00dad0a2"
+        },
+        {
+            "text": "Exp %s",
+            "address": "0x00dad0cd"
+        },
+        {
+            "text": "Arena point %s",
+            "address": "0x00dad0d6"
+        },
+        {
+            "text": "Baptismal Room",
+            "address": "0x00dad0e7"
+        },
+        {
+            "text": "Room of Trials",
+            "address": "0x00dad0f0"
+        },
+        {
+            "text": "Own style",
+            "address": "0x00dad0f9"
+        },
+        {
+            "text": "No handicap",
+            "address": "0x00dad104"
+        },
+        {
+            "text": "Feast today sword",
+            "address": "0x00dad10d"
+        },
+        {
+            "text": "Feast of shooting",
+            "address": "0x00dad116"
+        },
+        {
+            "text": "Feast of the strong",
+            "address": "0x00dad11f"
+        },
+        {
+            "text": "Name",
+            "address": "0x00dad128"
+        },
+        {
+            "text": "Mold",
+            "address": "0x00dad12d"
+        },
+        {
+            "text": "Mater.",
+            "address": "0x00dad135"
+        },
+        {
+            "text": "Info",
+            "address": "0x00dad13a"
+        },
+        {
+            "text": "Start the game?",
+            "address": "0x00dad13f"
+        },
+        {
+            "text": "Start the game",
+            "address": "0x00dad152"
+        },
+        {
+            "text": "Next game",
+            "address": "0x00dad161"
+        },
+        {
+            "text": "Bamboo",
+            "address": "0x00dad8d9"
+        },
+        {
+            "text": "Gun",
+            "address": "0x00da9202"
+        },
+        {
+            "text": "Sw",
+            "address": "0x00da91f6"
+        }
+    ]
+}

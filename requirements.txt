@@ -1,9 +1,13 @@
 cryptography~=3.4.8
 requests~=2.25.1
 packaging~=21.3
-pandas~=1.3.4
 xmltodict~=0.12.0
 aenum~=3.1.8
 
+fastxor~=0.1.6
+ecdsa~=0.17.0
+polib~=1.1.1
 argparse~=1.4.0
 zlib~=1.2.11
+urllib3~=1.26.9
+deepl~=1.5.1
