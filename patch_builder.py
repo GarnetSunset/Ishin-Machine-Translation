@@ -85,7 +85,9 @@ for file in os.listdir("temp"):
 copy_tree("metadata/PS3DIGORDISC/", "patch/")
 files_in_directory = os.listdir("patch/")
 
-os.system("tools/scetool -d patch/USRDIR/EBOOT.BIN patch/USRDIR/EBOOT.elf")
+os.chdir("tools")
+os.system("scetool -d ../patch/USRDIR/EBOOT.BIN ../patch/USRDIR/EBOOT.elf")
+os.chdir("..")
 
 if phys_or_dig == "B":
     os.system(
@@ -126,6 +128,4 @@ if phys_or_dig == "D":
 shutil.move(f"patch/PARAM.SFO_{phys_or_dig}", "patch/PARAM.SFO")
 if os.path.exists("patch/USRDIR/data/"):
     shutil.rmtree("patch/USRDIR/data/")
-# if os.path.exists("temp/"):
-#    shutil.rmtree("temp/")
 os.system("tools\\make_package_npdrm_retail.exe patch\\package.conf patch")
