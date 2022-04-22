@@ -94,12 +94,14 @@ if phys_or_dig == "B":
         "python tools/eboot_string_patcher/eboot_string_patcher.py -s -e utf8 translation_data/disc.json "
         "patch/USRDIR/EBOOT.elf patch/USRDIR/EBOOT_trans.bin"
     )
+    os.chdir("tools")
     os.system(
-        f"tools\\scetool -v --sce-type=SELF --skip-sections=TRUE --key-revision=01 --self-auth-id=1010000001000003 "
+        f"scetool -v --sce-type=SELF --skip-sections=TRUE --key-revision=01 --self-auth-id=1010000001000003 "
         "--self-app-version=0001000000000000 --self-add-shdrs=TRUE --self-vendor-id=01000002 --self-type=NPDRM "
         "--self-fw-version=0003004000000000 --np-license-type=FREE --np-content-id=BLJM61149 --np-app-type=EXEC "
-        "--np-real-fname=EBOOT.BIN --encrypt patch/USRDIR/EBOOT_trans.BIN patch/USRDIR/EBOOT.BIN"
+        "--np-real-fname=EBOOT.BIN --encrypt ../patch/USRDIR/EBOOT_trans.BIN ../patch/USRDIR/EBOOT.BIN"
     )
+    os.chdir("..")
     with open("patch/package.conf", "wt") as the_file:
         the_file.write(
             "Content-ID = JP0177-BLJM61149_00-GAMEVER0108WEEK8\nk_licensee = "
@@ -112,12 +114,15 @@ if phys_or_dig == "D":
         "python tools/eboot_string_patcher/eboot_string_patcher.py -s -e utf8 translation_data/digital.json "
         "patch/USRDIR/EBOOT.elf patch/USRDIR/EBOOT_trans.bin"
     )
+    os.chdir("tools")
     os.system(
-        "tools\\scetool -v --sce-type=SELF --skip-sections=TRUE --key-revision=01 --self-auth-id=1010000001000003 "
+        "scetool -v --sce-type=SELF --skip-sections=TRUE --key-revision=01 --self-auth-id=1010000001000003 "
         "--self-app-version=0001000000000000 --self-add-shdrs=TRUE --self-vendor-id=01000002 --self-type=NPDRM "
         "--self-fw-version=0003004000000000 --np-license-type=FREE --np-content-id=NPJB00532 --np-app-type=EXEC "
-        "--np-real-fname=EBOOT.BIN --encrypt patch/USRDIR/EBOOT_trans.BIN patch/USRDIR/EBOOT.BIN"
+        "--np-real-fname=EBOOT.BIN --encrypt ..\patch\\USRDIR\EBOOT_trans.BIN ..\patch\\USRDIR\EBOOT.BIN"
     )
+    os.chdir("..")
+
     with open("patch/package.conf", "wt") as the_file:
         the_file.write(
             "Content-ID = JP0177-NPJB00532_00-RYUISHINRETAIL00\nk_licensee = "
